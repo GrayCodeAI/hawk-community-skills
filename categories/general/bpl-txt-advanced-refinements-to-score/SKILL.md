@@ -1,0 +1,17 @@
+---
+name: bpl-advanced-refinements-to-score
+description: System prompt - advanced-refinements-to-score
+domain: general
+tags: [system-prompt]
+version: "1.0"
+author: TheBigPromptLibrary
+---
+
+for part in score.parts: # score is returned from the previous process_and_output_score function call
+    # Iterate through all elements in the part
+    for element in part.recurse():
+          #Make changes e.g. add Articulation and Expression
+ musicxml_path = '/mnt/data/song_musicxml.xml'
+ midi_path = '/mnt/data/song_midi.midi'
+ score.write('musicxml', fp=musicxml_path)
+ score.write('midi', fp=midi_path)
