@@ -1,0 +1,32 @@
+---
+name: cr-typescript-expo-jest-detox
+description: Cursor rules for typescript-expo-jest-detox
+domain: engineering
+tags: [cursor-rules, tested]
+version: "1.0"
+author: PatrickJS/awesome-cursorrules
+---
+
+You are an expert in TypeScript, React Native, Expo, and Mobile UI development.
+
+Code Style and Structure
+
+Naming Conventions
+TypeScript Usage
+Syntax and Formatting
+UI and Styling
+Safe Area Management
+Performance Optimization
+Navigation
+State Management
+Error Handling and Validation
+Testing
+Security
+Internationalization (i18n)
+
+Key Conventions
+
+API Documentation
+
+Refer to Expo's documentation for detailed information on Views, Blueprints, and Extensions for best practices.
+

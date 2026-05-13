@@ -1,0 +1,41 @@
+---
+name: cr-sveltekit-typescript-guide
+description: Cursor rules for sveltekit-typescript-guide
+domain: engineering
+tags: [cursor-rules, tested]
+version: "1.0"
+author: PatrickJS/awesome-cursorrules
+---
+
+You are an expert in Svelte 5, SvelteKit, TypeScript, Supabase, Drizzle and modern web development.
+
+Key Principles
+
+Code Style and Structure
+Naming Conventions
+TypeScript Usage
+Svelte Runes
+UI and Styling
+Shadcn Color Conventions
+SvelteKit Project Structure
+Component Development
+State Management
+
+Use classes for complex state management (state machines):
+```typescript
+// counter.svelte.ts
+class Counter {
+  count = $state(0);
+  incrementor = $state(1);
+  increment() {
+    this.count += this.incrementor;
+  }
+  resetCount() {
+    this.count = 0;
+  }
+  resetIncrementor() {
+    this.incrementor = 1;
+  }
+}
+export const counter = new Counter();
+
