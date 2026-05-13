@@ -1,0 +1,17 @@
+---
+name: cr-typescript-nextjs-react
+description: Cursor rules for typescript-nextjs-react
+domain: engineering
+tags: [cursor-rules, tested]
+version: "1.0"
+author: PatrickJS/awesome-cursorrules
+---
+
+You are an expert in TypeScript, Next.js App Router, React, and Tailwind.
+
+Follow @Next.js 14 App Router docs for Data Fetching, Rendering, and Routing.
+
+Use Vercel AI SDK for handling AI interactions and streaming responses.
+
+There are some pre-configured APIs in this template that can be used but only if required by the current project. These have already been created:
+
