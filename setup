@@ -1,0 +1,78 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Universal installer for hawk-community-skills
+# Detects agent host and symlinks skills into the correct location.
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+VERSION=$(cat "$SCRIPT_DIR/VERSION" 2>/dev/null || echo "unknown")
+
+RED='\033[0;31m'; GREEN='\033[0;32m'; YELLOW='\033[1;33m'; NC='\033[0m'
+
+usage() {
+    echo "Usage: ./setup [OPTIONS]"
+    echo "  --host <agent>       Target: hawk, claude, cursor, codex (auto-detected)"
+    echo "  --scope <scope>      user (default) or project"
+    echo "  --categories <list>  Comma-separated categories (default: all)"
+    echo "  --help               Show this help"
+    exit 0
+}
+
+HOST=""; SCOPE="user"; CATEGORIES=""
+while [[ $# -gt 0 ]]; do
+    case $1 in
+        --host) HOST="$2"; shift 2 ;;
+        --scope) SCOPE="$2"; shift 2 ;;
+        --categories) CATEGORIES="$2"; shift 2 ;;
+        --help) usage ;;
+        *) echo "Unknown: $1"; usage ;;
+    esac
+done
+
+if [[ ! -d "$SCRIPT_DIR/categories" ]]; then
+    echo -e "${RED}Error: Run from hawk-community-skills repo root${NC}"; exit 1
+fi
+
+detect_host() {
+    [[ -d "$HOME/.hawk" ]] && echo "hawk" && return
+    [[ -d "$HOME/.claude" ]] && echo "claude" && return
+    [[ -d "$HOME/.cursor" ]] && echo "cursor" && return
+    echo "hawk"
+}
+
+[[ -z "$HOST" ]] && HOST=$(detect_host) && echo -e "${YELLOW}Auto-detected host: ${HOST}${NC}"
+
+case "$HOST" in
+    hawk)   TARGET="${SCOPE:+.hawk/skills}"; [[ "$SCOPE" == "user" ]] && TARGET="$HOME/.hawk/skills" ;;
+    claude) TARGET="${SCOPE:+.claude/skills}"; [[ "$SCOPE" == "user" ]] && TARGET="$HOME/.claude/skills" ;;
+    cursor) TARGET="${SCOPE:+.cursor/plugins}"; [[ "$SCOPE" == "user" ]] && TARGET="$HOME/.cursor/plugins" ;;
+    codex)  TARGET="${SCOPE:+.codex/plugins}"; [[ "$SCOPE" == "user" ]] && TARGET="$HOME/.codex/plugins" ;;
+    *) echo -e "${RED}Unknown host: $HOST${NC}"; exit 1 ;;
+esac
+
+mkdir -p "$TARGET"
+installed=0; skipped=0
+
+for cat_dir in "$SCRIPT_DIR"/categories/*/; do
+    [[ -d "$cat_dir" ]] || continue
+    cat_name=$(basename "$cat_dir")
+    [[ -n "$CATEGORIES" ]] && [[ ! ",$CATEGORIES," == *",$cat_name,"* ]] && continue
+
+    for skill_dir in "$cat_dir"*/; do
+        [[ -f "$skill_dir/SKILL.md" ]] || continue
+        skill_name=$(basename "$skill_dir")
+        target="$TARGET/$skill_name"
+
+        if [[ -L "$target" ]] && [[ "$(readlink "$target")" == "$skill_dir" ]]; then
+            ((skipped++)); continue
+        fi
+        [[ -e "$target" ]] && rm -rf "$target"
+        ln -s "$skill_dir" "$target"
+        ((installed++))
+    done
+done
+
+echo ""
+echo -e "${GREEN}✓ Setup complete${NC}"
+echo "  Host: $HOST | Target: $TARGET"
+echo "  Installed: $installed | Skipped: $skipped | Version: $VERSION"

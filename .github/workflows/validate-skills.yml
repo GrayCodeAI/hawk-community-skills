@@ -1,0 +1,26 @@
+name: Validate Skills
+
+on:
+  pull_request:
+    paths: ['categories/**', '.claude-plugin/**', '.codex-plugin/**', '.cursor-plugin/**', 'VERSION', 'tools/**']
+  push:
+    branches: [main]
+    paths: ['categories/**', 'VERSION']
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pyyaml
+      - name: Frontmatter validation
+        run: python3 tools/validate_skill.py --all
+      - name: Version sync check
+        run: python3 tools/check_version_sync.py
+      - name: Reference integrity
+        run: python3 tools/check_references.py
+      - name: Self-containment check
+        run: python3 tools/check_self_contained.py
