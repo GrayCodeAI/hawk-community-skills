@@ -1,0 +1,16 @@
+{
+  "name": "hawk-community-skills",
+  "owner": {
+    "name": "GrayCode AI",
+    "url": "https://github.com/GrayCodeAI"
+  },
+  "plugins": [
+    {
+      "name": "hawk-community-skills",
+      "source": "./",
+      "description": "Community skill packages for hawk — security, code review, DevOps, and more.",
+      "version": "0.3.0",
+      "skills": []
+    }
+  ]
+}

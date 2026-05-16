@@ -1,0 +1,13 @@
+[project]
+name = "hawk-community-skills"
+version = "0.2.0"
+description = "Community skill packages for hawk"
+requires-python = ">=3.9"
+
+[tool.ruff]
+target-version = "py39"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
+ignore = ["E501"]
