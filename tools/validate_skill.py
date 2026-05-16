@@ -204,9 +204,9 @@ def main():
         # Print details for failures
         if not result.passed or result.warnings:
             for err in result.errors:
-                console.print(f"  [red]ERROR[/red] {rel_path}: {err}")
+                console.print(f"  ERROR {rel_path}: {err}", markup=False)
             for warn in result.warnings:
-                console.print(f"  [yellow]WARN[/yellow]  {rel_path}: {warn}")
+                console.print(f"  WARN  {rel_path}: {warn}", markup=False)
 
     console.print()
     console.print(table)
