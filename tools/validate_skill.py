@@ -69,7 +69,11 @@ def validate_skill(skill_path: Path) -> ValidationResult:
         return result
 
     # Read and parse SKILL.md
-    content = skill_md.read_text(encoding="utf-8")
+    try:
+        content = skill_md.read_text(encoding="utf-8")
+    except UnicodeDecodeError:
+        result.error(f"SKILL.md is not valid UTF-8")
+        return result
     frontmatter, body = parse_frontmatter(content)
 
     if frontmatter is None:
