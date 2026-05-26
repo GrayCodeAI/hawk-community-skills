@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install pyyaml
+      - run: pip install -r tools/requirements.txt
       - name: Frontmatter validation
         run: python3 tools/validate_skill.py --all
       - name: Version sync check
