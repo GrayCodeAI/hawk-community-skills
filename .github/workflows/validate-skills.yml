@@ -5,7 +5,7 @@ on:
     paths: ['categories/**', '.claude-plugin/**', '.codex-plugin/**', '.cursor-plugin/**', 'VERSION', 'tools/**']
   push:
     branches: [main]
-    paths: ['categories/**', 'VERSION']
+    paths: ['categories/**', 'VERSION', 'tools/**', '.github/workflows/validate-skills.yml']
 
 jobs:
   validate:
