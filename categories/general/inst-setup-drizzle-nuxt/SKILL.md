@@ -85,8 +85,8 @@ export default {
 ### Server Routes
 ```typescript
 // server/api/users/index.ts
-import { db } from '../../db';
-import { users } from '../../db/schema';
+import { db } from 'db';
+import { users } from 'db/schema';
 import { eq } from 'drizzle-orm';
 
 export default defineEventHandler(async (event) => {

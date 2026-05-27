@@ -35,8 +35,8 @@ tags:
 ```typescript
 // src/pages/api/users/create.ts
 import type { APIRoute } from 'astro';
-import { db } from '../../../db';
-import { users } from '../../../db/schema';
+import { db } from 'db';
+import { users } from 'db/schema';
 
 export const POST: APIRoute = async ({ request }) => {
   try {
@@ -67,8 +67,8 @@ export const POST: APIRoute = async ({ request }) => {
 
 // src/pages/api/users/[id].ts
 import type { APIRoute } from 'astro';
-import { db } from '../../../db';
-import { users } from '../../../db/schema';
+import { db } from 'db';
+import { users } from 'db/schema';
 import { eq } from 'drizzle-orm';
 
 export const GET: APIRoute = async ({ params }) => {
@@ -161,7 +161,7 @@ export const DELETE: APIRoute = async ({ params }) => {
 ### Database Utility Functions
 ```typescript
 // src/lib/db.utils.ts
-import { db } from '../db';
+import { db } from 'db';
 
 export async function withTransaction<T>(
   callback: (transaction: typeof db) => Promise<T>

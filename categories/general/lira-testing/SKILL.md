@@ -224,7 +224,7 @@ import { test, describe } from 'node:test';
 import assert from 'node:assert/strict';
 
 // The module to be tested
-import myModule from '../src/my-module.js';
+import myModule from 'src/my-module.js';
 
 describe('A group of tests for myModule', () => {
   test('an individual test case', async () => {
@@ -315,7 +315,7 @@ import * as setupGcloud from '@google-github-actions/setup-cloud-sdk';
 import *as exec from '@actions/exec';
 
 // This is the function we want to test.
-import { run } from '../src/main.js';
+import { run } from 'src/main.js';
 
 test('should use cached gcloud SDK if already installed', async (t) => {
   // Mock the functions from the imported modules.
@@ -413,7 +413,7 @@ For functions that need to be tested with a variety of different inputs, a data-
 ```javascript
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { parseDeliverables } from '../src/main.js';
+import { parseDeliverables } from 'src/main.js';
 
 test('#parseDeliverables', async (suite) => {
   const cases = [
@@ -612,7 +612,7 @@ import { describe, it } from 'node:test';
 import assert from 'node:assert';
 
 // Assume a utility that captures and restores the console.
-import { captureConsole, uncaptureConsole, consoleOutputAsString } from '../src/console-testkit.js';
+import { captureConsole, uncaptureConsole, consoleOutputAsString } from 'src/console-testkit.js';
 
 describe('Manual Console Capture', () => {
   it('should capture log and error output', () => {
@@ -638,7 +638,7 @@ import { describe, it, beforeEach, afterEach } from 'node:test';
 import assert from 'node:assert';
 
 // Assume a testkit that integrates with the test runner's hooks.
-import { captureConsoleInTest } from '../src/console-testkit.js';
+import { captureConsoleInTest } from 'src/console-testkit.js';
 
 describe('Automated Console Capture', () => {
   // This helper sets up the hooks for the entire suite.

@@ -92,8 +92,8 @@ Organize your application into logical stacks (e.g., `DataStack`, `ApiStack`, `M
 // bin/my-app.ts
 import 'source-map-support/register';
 import { App } from 'aws-cdk-lib';
-import { DataStack } from '../lib/data-stack';
-import { ApiStack } from '../lib/api-stack';
+import { DataStack } from 'lib/data-stack';
+import { ApiStack } from 'lib/api-stack';
 
 const app = new App();
 
@@ -274,7 +274,7 @@ Use `cdk-nag` to automatically validate your CDK constructs against security and
 // bin/my-app.ts
 import { App, Aspects } from 'aws-cdk-lib';
 import { AwsSolutionsChecks, NagSuppressions } from 'cdk-nag';
-import { MyServiceStack } from '../lib/my-service-stack';
+import { MyServiceStack } from 'lib/my-service-stack';
 
 const app = new App();
 const stack = new MyServiceStack(app, 'MyServiceStack');
@@ -299,7 +299,7 @@ Write unit tests for your Lambda functions and CDK constructs. Use integration t
 // test/my-api.test.ts (CDK Unit Test)
 import { App, Stack } from 'aws-cdk-lib';
 import { Template } from 'aws-cdk-lib/assertions';
-import { ApiConstruct } from '../lib/api-construct';
+import { ApiConstruct } from 'lib/api-construct';
 import { Table } from 'aws-cdk-lib/aws-dynamodb';
 
 test('ApiConstruct creates expected resources', () => {

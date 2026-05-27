@@ -239,10 +239,10 @@ aws bedrock-agentcore-control create-memory \
 
 ## Related Services
 
-- **[Gateway Service](../gateway/README.md)**: Expose APIs as tools for agents
-- **[Runtime Service](../runtime/README.md)**: Execute agents that generate conversation data
-- **[Identity Service](../identity/README.md)**: Secure access to conversation data
-- **[Observability Service](../observability/README.md)**: Monitor memory operations
+- **[Gateway Service](README.md)**: Expose APIs as tools for agents
+- **[Runtime Service](README.md)**: Execute agents that generate conversation data
+- **[Identity Service](README.md)**: Secure access to conversation data
+- **[Observability Service](README.md)**: Monitor memory operations
 
 ## References
 

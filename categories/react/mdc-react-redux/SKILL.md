@@ -33,7 +33,7 @@ const store = createStore(counterReducer, applyMiddleware(thunk));
 ```javascript
 // src/app/store.js
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice'; // Import slices
+import counterReducer from 'features/counter/counterSlice'; // Import slices
 
 export const store = configureStore({
   reducer: {
@@ -86,7 +86,7 @@ export default connect(mapStateToProps, mapDispatchToProps)(MyComponent);
 ```javascript
 import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { increment } from '../../features/counter/counterSlice'; // Action creator
+import { increment } from 'features/counter/counterSlice'; // Action creator
 
 const MyComponent = () => {
   const count = useSelector((state) => state.counter.count);
@@ -335,4 +335,4 @@ state.api.lastFetchTime = Date.now(); // Store as timestamp
 ```javascript
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
-import { loginUser } from '../../features/auth/
+import { loginUser } from 'features/auth/

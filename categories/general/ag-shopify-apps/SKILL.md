@@ -219,8 +219,8 @@ Secure webhook processing with HMAC verification
 
 // app/routes/webhooks.tsx
 import type { ActionFunctionArgs } from "@remix-run/node";
-import { authenticate } from "../shopify.server";
-import db from "../db.server";
+import { authenticate } from "shopify.server";
+import db from "db.server";
 
 export const action = async ({ request }: ActionFunctionArgs) => {
   // Authenticate webhook (verifies HMAC signature)
@@ -448,7 +448,7 @@ Implement subscription billing for your app
 // app/routes/app.billing.tsx
 import { json, redirect } from "@remix-run/node";
 import { Page, Card, Button, BlockStack, Text } from "@shopify/polaris";
-import { authenticate } from "../shopify.server";
+import { authenticate } from "shopify.server";
 
 const PLANS = {
   basic: {

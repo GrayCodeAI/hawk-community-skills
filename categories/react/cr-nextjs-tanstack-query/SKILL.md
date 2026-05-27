@@ -137,7 +137,7 @@ export async function createPost(data: { title: string; body: string }) {
 // src/app/posts/_components/create-post-form.tsx
 'use client'
 import { useMutation, useQueryClient } from '@tanstack/react-query'
-import { createPost } from '../actions'
+import { createPost } from 'actions'
 import { postKeys } from '@/queries/posts'
 
 export function CreatePostForm() {

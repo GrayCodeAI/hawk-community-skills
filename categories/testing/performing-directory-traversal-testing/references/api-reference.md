@@ -4,12 +4,12 @@
 
 | Encoding | Example | Description |
 |----------|---------|-------------|
-| Plain | `../../../etc/passwd` | Standard Unix traversal |
+| Plain | `etc/passwd` | Standard Unix traversal |
 | URL-encoded | `..%2f..%2f..%2fetc%2fpasswd` | Single URL encoding |
 | Double-encoded | `..%252f..%252f` | Bypass WAF single-decode |
 | UTF-8 overlong | `..%c0%af..%c0%af` | Bypass charset-based filters |
 | Backslash (Windows) | `..\\..\\..\\windows\\win.ini` | Windows path traversal |
-| Mixed separators | `..././..././` | Bypass recursive stripping |
+| Mixed separators | `parent-dir/parent-dir/` | Bypass recursive stripping |
 
 ## PHP Wrapper Protocols (LFI)
 

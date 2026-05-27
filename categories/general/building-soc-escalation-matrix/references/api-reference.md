@@ -49,7 +49,7 @@ POST https://events.pagerduty.com/v2/enqueue
 
 ## Slack Webhook Notification
 ```
-POST https://hooks.slack.com/services/T.../B.../xxx
+POST https://hooks.slack.com/services/T.B.xxx
 {
   "channel": "#critical-alerts",
   "text": "P1 Incident: ..."

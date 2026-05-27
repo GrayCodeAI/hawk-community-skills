@@ -52,7 +52,7 @@ export const storage = getStorage(app);
 ```typescript
 import { useState, useEffect } from 'react';
 import { User, onAuthStateChanged, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from 'firebase/auth';
-import { auth } from '../firebase';
+import { auth } from 'firebase';
 
 export function useAuth() {
   const [user, setUser] = useState<User | null>(null);
@@ -105,7 +105,7 @@ export function useAuth() {
 ### Authentication Component
 ```typescript
 import React, { useState } from 'react';
-import { useAuth } from '../hooks/useAuth';
+import { useAuth } from 'hooks/useAuth';
 import { useNavigate } from 'react-router-dom';
 
 export function AuthComponent() {
@@ -181,7 +181,7 @@ export function AuthComponent() {
 ```typescript
 import { useState } from 'react';
 import { collection, query, where, orderBy, limit, addDoc, updateDoc, deleteDoc, doc, onSnapshot, QueryConstraint } from 'firebase/firestore';
-import { db } from '../firebase';
+import { db } from 'firebase';
 
 export function useFirestore<T>(collectionName: string) {
   const [documents, setDocuments] = useState<T[]>([]);
@@ -257,7 +257,7 @@ export function useFirestore<T>(collectionName: string) {
 ### Firestore Component Example
 ```typescript
 import React, { useEffect, useState } from 'react';
-import { useFirestore } from '../hooks/useFirestore';
+import { useFirestore } from 'hooks/useFirestore';
 import { orderBy, limit, where } from 'firebase/firestore';
 
 interface Todo {
@@ -354,7 +354,7 @@ export function TodoList() {
 ```typescript
 import { useState } from 'react';
 import { ref, uploadBytes, getDownloadURL, deleteObject } from 'firebase/storage';
-import { storage } from '../firebase';
+import { storage } from 'firebase';
 
 export function useStorage(path: string) {
   const [progress, setProgress] = useState(0);

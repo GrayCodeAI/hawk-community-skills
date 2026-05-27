@@ -80,8 +80,8 @@ export const getNewsTool = tool(
 // src/agents/financialAgent.ts
 import { ChatOpenAI } from "@langchain/openai";
 import { createAgent } from "langchain";
-import { getStockPriceTool } from "../tools/getStockPrice";
-import { getNewsTool } from "../tools/getNews";
+import { getStockPriceTool } from "tools/getStockPrice";
+import { getNewsTool } from "tools/getNews";
 
 const model = new ChatOpenAI({ temperature: 0.7 });
 
@@ -162,7 +162,7 @@ export const MONGODB_URI = process.env.MONGODB_URI!;
 
 // src/models/chatModel.ts
 import { ChatOpenAI } from "@langchain/openai";
-import { OPENAI_API_KEY } from "../config";
+import { OPENAI_API_KEY } from "config";
 
 export const chatModel = new ChatOpenAI({
   openAIApiKey: OPENAI_API_KEY,
@@ -211,7 +211,7 @@ For knowledge retrieval, use `VectorStoreRetriever` within a `RunnableSequence`.
 import { MongoDBAtlasVectorSearch } from "@langchain/mongodb";
 import { VoyageEmbeddings } from "@langchain/community/embeddings/voyage";
 import { MongoClient } from "mongodb";
-import { MONGODB_URI } from "../config";
+import { MONGODB_URI } from "config";
 
 const client = new MongoClient(MONGODB_URI);
 const collection = client.db("langchain_db").collection("documents");
@@ -233,8 +233,8 @@ import { PromptTemplate } from "@langchain/core/prompts";
 import { RunnableSequence, RunnablePassthrough } from "@langchain/core/runnables";
 import { StringOutputParser } from "@langchain/core/output_parsers";
 import { formatDocumentsAsString } from "langchain/util/document";
-import { chatModel } from "../models/chatModel";
-import { getVectorStoreRetriever } from "../retrievers/documentRetriever";
+import { chatModel } from "models/chatModel";
+import { getVectorStoreRetriever } from "retrievers/documentRetriever";
 
 const RAG_PROMPT_TEMPLATE = `
 You are an AI assistant for answering questions about documents.
@@ -281,7 +281,7 @@ Implement streaming for LLM responses to improve user experience, especially for
 ```typescript
 // src/models/streamingChatModel.ts
 import { ChatOpenAI } from "@langchain/openai";
-import { OPENAI_API_KEY } from "../config";
+import { OPENAI_API_KEY } from "config";
 
 export const streamingChatModel = new ChatOpenAI({
   openAIApiKey: OPENAI_API_KEY,
@@ -323,7 +323,7 @@ try {
 ```typescript
 import { ChatOpenAI } from "@langchain/openai";
 import pRetry from "p-retry";
-import { OPENAI_API_KEY } from "../config";
+import { OPENAI_API_KEY } from "config";
 
 const model = new ChatOpenAI({ openAIApiKey: OPENAI_API_KEY });
 

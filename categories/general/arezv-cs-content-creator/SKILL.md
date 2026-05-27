@@ -21,7 +21,7 @@ The cs-content-creator agent bridges the gap between creative content production
 
 ## Skill Integration
 
-**Skill Location:** `../../marketing-skill/content-creator/`
+**Skill Location:** `marketing-skill/content-creator/`
 
 ### Python Tools
 
@@ -30,29 +30,29 @@ No Python tools — this skill relies on SKILL.md workflows, knowledge bases, an
 ### Knowledge Bases
 
 1. **Brand Guidelines**
-   - **Location:** `../../marketing-skill/content-creator/references/brand_guidelines.md`
+   - **Location:** `marketing-skill/content-creator/references/brand_guidelines.md`
    - **Content:** 5 personality archetypes (Expert, Friend, Innovator, Guide, Motivator), voice characteristics matrix, consistency checklist
    - **Use Case:** Establishing brand voice, onboarding writers, content audits
 
 2. **Content Frameworks**
-   - **Location:** `../../marketing-skill/content-creator/references/content_frameworks.md`
+   - **Location:** `marketing-skill/content-creator/references/content_frameworks.md`
    - **Content:** 15+ content templates including blog posts (how-to, listicle, case study), email campaigns, social media posts, video scripts, landing page copy
    - **Use Case:** Content planning, writer guidance, structure templates
 
 3. **Social Media Optimization**
-   - **Location:** `../../marketing-skill/content-creator/references/social_media_optimization.md`
+   - **Location:** `marketing-skill/content-creator/references/social_media_optimization.md`
    - **Content:** Platform-specific best practices for LinkedIn (1,300 chars, professional tone), Twitter/X (280 chars, concise), Instagram (visual-first, caption strategy), Facebook (engagement tactics), TikTok (short-form video)
    - **Use Case:** Platform optimization, social media strategy, content adaptation
 
 4. **Analytics Guide**
-   - **Location:** `../../marketing-skill/content-creator/references/analytics_guide.md`
+   - **Location:** `marketing-skill/content-creator/references/analytics_guide.md`
    - **Content:** Content performance analytics and measurement frameworks
    - **Use Case:** Content performance tracking, reporting, data-driven optimization
 
 ### Templates
 
 1. **Content Calendar Template**
-   - **Location:** `../../marketing-skill/content-creator/assets/content_calendar_template.md`
+   - **Location:** `marketing-skill/content-creator/assets/content_calendar_template.md`
    - **Use Case:** Planning monthly content, tracking production pipeline
 
 ## Workflows
@@ -65,11 +65,11 @@ No Python tools — this skill relies on SKILL.md workflows, knowledge bases, an
 1. **Draft Content** - Write initial blog post draft in markdown format
 2. **Reference Brand Guidelines** - Review brand voice requirements for tone and readability
    ```bash
-   cat ../../marketing-skill/content-creator/references/brand_guidelines.md
+   cat marketing-skill/content-creator/references/brand_guidelines.md
    ```
 3. **Review Content Frameworks** - Select appropriate blog post template (how-to, listicle, case study)
    ```bash
-   cat ../../marketing-skill/content-creator/references/content_frameworks.md
+   cat marketing-skill/content-creator/references/content_frameworks.md
    ```
 4. **Optimize for SEO** - Apply SEO best practices from SKILL.md workflows (keyword placement, structure, meta description)
 5. **Implement Recommendations** - Update content structure, keyword placement, meta description
@@ -82,8 +82,8 @@ No Python tools — this skill relies on SKILL.md workflows, knowledge bases, an
 **Example:**
 ```bash
 # Review guidelines before writing
-cat ../../marketing-skill/content-creator/references/brand_guidelines.md
-cat ../../marketing-skill/content-creator/references/content_frameworks.md
+cat marketing-skill/content-creator/references/brand_guidelines.md
+cat marketing-skill/content-creator/references/content_frameworks.md
 ```
 
 ### Workflow 2: Multi-Platform Content Adaptation
@@ -94,14 +94,14 @@ cat ../../marketing-skill/content-creator/references/content_frameworks.md
 1. **Start with Core Content** - Begin with blog post or long-form content
 2. **Reference Platform Guidelines** - Review platform-specific best practices
    ```bash
-   cat ../../marketing-skill/content-creator/references/social_media_optimization.md
+   cat marketing-skill/content-creator/references/social_media_optimization.md
    ```
 3. **Create LinkedIn Version** - Professional tone, 1,300 characters, 3-5 hashtags
 4. **Create Twitter/X Thread** - Break into 280-char tweets, engaging hook
 5. **Create Instagram Caption** - Visual-first approach, caption with line breaks, hashtags
 6. **Validate Brand Voice** - Ensure consistency across all versions by reviewing against brand guidelines
    ```bash
-   cat ../../marketing-skill/content-creator/references/brand_guidelines.md
+   cat marketing-skill/content-creator/references/brand_guidelines.md
    ```
 
 **Expected Output:** 4-5 platform-optimized versions from single source
@@ -116,12 +116,12 @@ cat ../../marketing-skill/content-creator/references/content_frameworks.md
 1. **Collect Content** - Gather markdown files for all published content
 2. **Brand Voice Review** - Review each content piece against brand guidelines for consistency
    ```bash
-   cat ../../marketing-skill/content-creator/references/brand_guidelines.md
+   cat marketing-skill/content-creator/references/brand_guidelines.md
    ```
 3. **Identify Inconsistencies** - Check formality, tone patterns, and readability against brand archetypes
 4. **SEO Audit** - Review content structure against content frameworks best practices
    ```bash
-   cat ../../marketing-skill/content-creator/references/content_frameworks.md
+   cat marketing-skill/content-creator/references/content_frameworks.md
    ```
 5. **Create Improvement Plan** - Prioritize content updates based on SEO score and brand alignment
 6. **Implement Updates** - Revise content following brand guidelines and SEO recommendations
@@ -133,8 +133,8 @@ cat ../../marketing-skill/content-creator/references/content_frameworks.md
 **Example:**
 ```bash
 # Review brand guidelines and frameworks before auditing content
-cat ../../marketing-skill/content-creator/references/brand_guidelines.md
-cat ../../marketing-skill/content-creator/references/analytics_guide.md
+cat marketing-skill/content-creator/references/brand_guidelines.md
+cat marketing-skill/content-creator/references/analytics_guide.md
 ```
 
 ### Workflow 4: Campaign Content Planning
@@ -144,22 +144,22 @@ cat ../../marketing-skill/content-creator/references/analytics_guide.md
 **Steps:**
 1. **Reference Content Frameworks** - Select appropriate templates for campaign
    ```bash
-   cat ../../marketing-skill/content-creator/references/content_frameworks.md
+   cat marketing-skill/content-creator/references/content_frameworks.md
    ```
 2. **Copy Content Calendar** - Use template for campaign planning
    ```bash
-   cp ../../marketing-skill/content-creator/assets/content_calendar_template.md campaign-calendar.md
+   cp marketing-skill/content-creator/assets/content_calendar_template.md campaign-calendar.md
    ```
 3. **Define Brand Voice Target** - Reference brand guidelines for campaign tone
    ```bash
-   cat ../../marketing-skill/content-creator/references/brand_guidelines.md
+   cat marketing-skill/content-creator/references/brand_guidelines.md
    ```
 4. **Create Content Briefs** - Use brief template for each content piece
 5. **Draft All Content** - Produce blog posts, social media posts, email campaigns
 6. **Validate Before Publishing** - Review all campaign content against brand guidelines and social media optimization guides
    ```bash
-   cat ../../marketing-skill/content-creator/references/brand_guidelines.md
-   cat ../../marketing-skill/content-creator/references/social_media_optimization.md
+   cat marketing-skill/content-creator/references/brand_guidelines.md
+   cat marketing-skill/content-creator/references/social_media_optimization.md
    ```
 
 **Expected Output:** Complete campaign content library with consistent brand voice and optimized SEO
@@ -177,11 +177,11 @@ cat ../../marketing-skill/content-creator/references/analytics_guide.md
 CONTENT_FILE=$1
 
 echo "Reviewing brand voice guidelines..."
-cat ../../marketing-skill/content-creator/references/brand_guidelines.md
+cat marketing-skill/content-creator/references/brand_guidelines.md
 
 echo ""
 echo "Reviewing content frameworks..."
-cat ../../marketing-skill/content-creator/references/content_frameworks.md
+cat marketing-skill/content-creator/references/content_frameworks.md
 
 echo ""
 echo "Review complete. Compare $CONTENT_FILE against the guidelines above."
@@ -193,7 +193,7 @@ echo "Review complete. Compare $CONTENT_FILE against the guidelines above."
 
 ```bash
 # Review platform guidelines before adapting content
-cat ../../marketing-skill/content-creator/references/social_media_optimization.md
+cat marketing-skill/content-creator/references/social_media_optimization.md
 
 # Key platform limits to follow:
 # - LinkedIn: 1,300 chars, professional tone, 3-5 hashtags
@@ -205,10 +205,10 @@ cat ../../marketing-skill/content-creator/references/social_media_optimization.m
 
 ```bash
 # Set up content calendar from template
-cp ../../marketing-skill/content-creator/assets/content_calendar_template.md campaign-calendar.md
+cp marketing-skill/content-creator/assets/content_calendar_template.md campaign-calendar.md
 
 # Review analytics guide for performance tracking
-cat ../../marketing-skill/content-creator/references/analytics_guide.md
+cat marketing-skill/content-creator/references/analytics_guide.md
 ```
 
 ## Success Metrics
@@ -236,10 +236,10 @@ cat ../../marketing-skill/content-creator/references/analytics_guide.md
 
 ## References
 
-- **Skill Documentation:** [../../marketing-skill/content-creator/SKILL.md](../../marketing-skill/content-creator/SKILL.md)
-- **Marketing Domain Guide:** [../../marketing-skill/CLAUDE.md](../../marketing-skill/CLAUDE.md)
-- **Agent Development Guide:** [../CLAUDE.md](../CLAUDE.md)
-- **Marketing Roadmap:** [../../marketing-skill/marketing_skills_roadmap.md](../../marketing-skill/marketing_skills_roadmap.md)
+- **Skill Documentation:** [marketing-skill/content-creator/SKILL.md](SKILL.md)
+- **Marketing Domain Guide:** [marketing-skill/CLAUDE.md](CLAUDE.md)
+- **Agent Development Guide:** [CLAUDE.md](CLAUDE.md)
+- **Marketing Roadmap:** [marketing-skill/marketing_skills_roadmap.md](marketing_skills_roadmap.md)
 
 ---
 

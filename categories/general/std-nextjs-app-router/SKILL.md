@@ -54,7 +54,7 @@ See [implementation examples](references/implementation.md)
 
 ## Best Practices
 
-- **RSC Boundaries**: Ensure props passed to Client Components serializable. See [RSC Boundaries & Serialization](../nextjs-architecture/references/RSC_BOUNDARIES.md).
+- **RSC Boundaries**: Ensure props passed to Client Components serializable. See [RSC Boundaries & Serialization](RSC_BOUNDARIES.md).
 - **Parallel Routes (`@folder`)**: Render multiple pages in same layout. Use `default.tsx` for fallback.
 - **Intercepting Routes (`(..)folder`)**: Load routes within current layout context.
 - **Colocation**: Keep component files, styles, and tests inside route folder.

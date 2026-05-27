@@ -128,7 +128,7 @@ Create comprehensive tests in `__tests__/` directory:
 ```typescript
 import { describe, it } from 'node:test'
 import assert from 'node:assert'
-import { YourAiAppAdapter } from '../src/adapters/your-ai-app-adapter.js'
+import { YourAiAppAdapter } from 'src/adapters/your-ai-app-adapter.js'
 
 describe('YourAiAppAdapter', () => {
   it('should have correct configuration', () => {

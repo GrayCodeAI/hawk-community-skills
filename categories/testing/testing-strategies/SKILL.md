@@ -218,8 +218,8 @@ it('handles error state', async () => {
 ```typescript
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
 import request from 'supertest';
-import { app } from '../src/app';
-import { db } from '../src/db';
+import { app } from 'src/app';
+import { db } from 'src/db';
 
 describe('POST /api/users', () => {
   beforeAll(async () => {

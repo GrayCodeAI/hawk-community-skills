@@ -54,8 +54,8 @@ Define your `createTRPCContext` function once to provide shared resources (e.g.,
 // src/server/api/context.ts
 import { type inferAsyncReturnType } from '@trpc/server';
 import { type CreateNextContextOptions } from '@trpc/server/adapters/next';
-import { db } from '../db'; // Your database client
-import { getServerAuthSession } from '../auth'; // Your auth session helper
+import { db } from 'db'; // Your database client
+import { getServerAuthSession } from 'auth'; // Your auth session helper
 
 export const createTRPCContext = async (opts: CreateNextContextOptions) => {
   const { req, res } = opts;
@@ -208,7 +208,7 @@ import { type AppRouter } from '@/server/api/root'; // May resolve to 'any'
 ✅ **GOOD: Relative Path for tRPC Types**
 ```typescript
 // src/utils/trpc.ts
-import { type AppRouter } from '../../server/api/root'; // Ensures correct type inference
+import { type AppRouter } from 'server/api/root'; // Ensures correct type inference
 ```
 
 ## 8. Implement Robust Client-Side Invalidation

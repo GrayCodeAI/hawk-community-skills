@@ -36,7 +36,7 @@ Create the Appwrite service (src/app/services/appwrite.service.ts):
 ```typescript
 import { Injectable } from '@angular/core';
 import { Client, Account, Databases, Storage } from 'appwrite';
-import { environment } from '../../environments/environment';
+import { environment } from 'environments/environment';
 import { from, Observable, throwError } from 'rxjs';
 import { catchError } from 'rxjs/operators';
 
@@ -94,7 +94,7 @@ export class AppwriteService {
 Create an authentication component (src/app/components/auth/auth.component.ts):
 ```typescript
 import { Component } from '@angular/core';
-import { AppwriteService } from '../../services/appwrite.service';
+import { AppwriteService } from 'services/appwrite.service';
 
 @Component({
   selector: 'app-auth',
@@ -194,7 +194,7 @@ export class DataService {
 ### Authentication Component
 ```typescript
 import { Component } from '@angular/core';
-import { AppwriteService } from '../services/appwrite.service';
+import { AppwriteService } from 'services/appwrite.service';
 
 @Component({
   selector: 'app-auth',

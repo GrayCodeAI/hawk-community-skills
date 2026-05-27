@@ -42,7 +42,7 @@ export { sql };
 ### Server API Routes
 ```typescript
 // server/api/users/index.ts
-import { sql } from '../../lib/db';
+import { sql } from 'lib/db';
 
 interface User {
   id: number;

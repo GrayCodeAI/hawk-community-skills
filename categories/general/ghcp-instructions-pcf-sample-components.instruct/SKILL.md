@@ -68,11 +68,11 @@ Use the following steps to import and try the sample components in your model-dr
 8. **Add component reference**
    - Run the `pac solution add-reference` command with the `path` set to the location of the `.pcfproj` file:
    ```bash
-   pac solution add-reference --path ../../IncrementControl
+   pac solution add-reference --path IncrementControl
    ```
    or
    ```bash
-   pac solution add-reference --path ../../IncrementControl/IncrementControl.pcfproj
+   pac solution add-reference --path IncrementControl/IncrementControl.pcfproj
    ```
    > **Important**: Reference the folder that contains the `.pcfproj` file for the control you want to add.
 

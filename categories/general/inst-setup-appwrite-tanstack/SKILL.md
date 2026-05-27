@@ -57,7 +57,7 @@ export const queryClient = new QueryClient({
 Create authentication hooks (src/hooks/auth.ts):
 ```typescript
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
-import { account, ID } from '../lib/appwrite';
+import { account, ID } from 'lib/appwrite';
 
 export function useUser() {
   return useQuery({
@@ -114,7 +114,7 @@ export function useLogout() {
 Create database hooks (src/hooks/database.ts):
 ```typescript
 import { useMutation, useQuery, useQueryClient } from '@tanstack/react-query';
-import { databases, ID } from '../lib/appwrite';
+import { databases, ID } from 'lib/appwrite';
 import { Query } from 'appwrite';
 
 export function useDocuments(databaseId: string, collectionId: string) {
@@ -195,7 +195,7 @@ export function useDeleteDocument(databaseId: string, collectionId: string) {
 
 Authentication Component:
 ```typescript
-import { useLogin, useUser } from '../hooks/auth';
+import { useLogin, useUser } from 'hooks/auth';
 
 function LoginForm() {
   const login = useLogin();
@@ -232,7 +232,7 @@ function LoginForm() {
 
 Document List Component:
 ```typescript
-import { useDocuments, useCreateDocument } from '../hooks/database';
+import { useDocuments, useCreateDocument } from 'hooks/database';
 
 function DocumentList() {
   const { data, isLoading } = useDocuments('DATABASE_ID', 'COLLECTION_ID');

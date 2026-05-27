@@ -659,8 +659,8 @@ app.use(cors({
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [api-design](../api-design/SKILL.md): API endpoint design
-- [security](../../infrastructure/security/SKILL.md): Security best practices
+- [api-design](SKILL.md): API endpoint design
+- [security](SKILL.md): Security best practices
 
 ### Tags
 `#authentication` `#authorization` `#JWT` `#OAuth` `#security` `#backend`

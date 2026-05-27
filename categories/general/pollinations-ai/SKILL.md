@@ -24,9 +24,9 @@ platforms: Claude, ChatGPT, Gemini, Codex
 - **Compatible Platforms**: Claude, ChatGPT, Gemini, Codex
 
 ### Related Skills
-- [image-generation](../image-generation/SKILL.md) - MCP-based image generation
-- [design-system](../design-system/SKILL.md) - Design system implementation
-- [presentation-builder](../presentation-builder/SKILL.md) - Presentation creation
+- [image-generation](SKILL.md) - MCP-based image generation
+- [design-system](SKILL.md) - Design system implementation
+- [presentation-builder](SKILL.md) - Presentation creation
 
 ### API Documentation
 - Official Site: https://pollinations.ai

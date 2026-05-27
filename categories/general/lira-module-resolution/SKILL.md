@@ -8,7 +8,7 @@ tags:
 
 ## Antipatterns (Avoid)
 
-* **Deep relative paths** (`../../../utils`) that break on refactors — replace with `#utils/...`.
+* **Deep relative paths** (`utils`) that break on refactors — replace with `#utils/...`.
 * **Stringly-typed, scattered paths** — don’t hardcode file locations in many places; alias once.
 * **Dynamic import without fallback** — leaves features broken silently; always handle `catch`.
 * **Over-granular aliases** (`#utils/math/add.js`) — alias directories or stable entry points instead.

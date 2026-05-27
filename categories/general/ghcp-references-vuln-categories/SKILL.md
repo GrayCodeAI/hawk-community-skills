@@ -10,7 +10,7 @@ tags:
 ```python
 # VULNERABLE
 filename = request.args.get('file')
-with open(f'/var/uploads/{filename}') as f:  # ../../../../etc/passwd
+with open(f'/var/uploads/{filename}') as f:  # etc/passwd
 
 # SAFE
 filename = os.path.basename(request.args.get('file'))

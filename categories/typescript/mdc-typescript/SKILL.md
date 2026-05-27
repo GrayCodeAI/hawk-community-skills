@@ -310,7 +310,7 @@ import { API_URL } from 'config/constants'; // Absolute imports (e.g., using pat
 import { selectUser } from 'store/selectors';
 
 import { Button } from './components/Button'; // Relative imports
-import { formatCurrency } from '../utils/formatters';
+import { formatCurrency } from 'utils/formatters';
 ```
 
 ##

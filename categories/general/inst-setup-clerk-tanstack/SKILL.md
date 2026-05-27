@@ -195,7 +195,7 @@ export function ProtectedRoute({ children }) {
 
 // src/components/UserProfile.jsx
 import { useUser } from '@clerk/clerk-react';
-import { useAuthQuery } from '../hooks/useAuthQuery';
+import { useAuthQuery } from 'hooks/useAuthQuery';
 
 export function UserProfile() {
   const { user } = useUser();

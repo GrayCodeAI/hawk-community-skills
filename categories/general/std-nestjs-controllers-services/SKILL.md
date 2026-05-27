@@ -46,7 +46,7 @@ export const CurrentUser = createParamDecorator(
 
 - Map responses in **Interceptors**, not Controllers.
 - `map()` wraps success responses (e.g. `{ data: T }`).
-- See **[API Standards](../nestjs-api-standards/SKILL.md)** for `PageDto` and `ApiResponse`.
+- See **[API Standards](SKILL.md)** for `PageDto` and `ApiResponse`.
 - `catchError()` maps low-level errors (DB constraints) to `HttpException` (e.g. `ConflictException`) _before_ global filter.
 
 ## Services & Business Logic

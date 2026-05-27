@@ -184,7 +184,7 @@ MySqlFlexibleServerAadAdministratorData adminData = new MySqlFlexibleServerAadAd
     Login = "aad-admin@contoso.com",
     Sid = Guid.Parse("<entra-object-id>"),
     TenantId = Guid.Parse("<tenant-id>"),
-    IdentityResourceId = new ResourceIdentifier("/subscriptions/.../userAssignedIdentities/mysql-identity")
+    IdentityResourceId = new ResourceIdentifier("/subscriptions/.userAssignedIdentities/mysql-identity")
 };
 
 ArmOperation<MySqlFlexibleServerAadAdministratorResource> operation = await admins

@@ -422,8 +422,8 @@ GRANT ('editor@company.com') TO ('KR'),
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [monitoring-observability](../monitoring-observability/SKILL.md): Data collection and monitoring
-- [database-schema-design](../../backend/database-schema-design/SKILL.md): Data modeling
+- [monitoring-observability](SKILL.md): Data collection and monitoring
+- [database-schema-design](SKILL.md): Data modeling
 
 ### Tags
 `#Looker-Studio` `#BigQuery` `#dashboard` `#analytics` `#visualization` `#GCP`

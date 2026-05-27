@@ -244,7 +244,7 @@ Thoroughly test your Zod schemas with both valid and invalid data to prevent reg
 
 ```typescript
 // tests/schemas/user.schema.test.ts
-import { userSchema } from '../../schemas/user.schema';
+import { userSchema } from 'schemas/user.schema';
 
 describe('userSchema', () => {
   it('should validate a valid user object', () => {

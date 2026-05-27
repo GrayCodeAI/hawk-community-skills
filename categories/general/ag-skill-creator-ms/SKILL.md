@@ -29,7 +29,7 @@ Before completing a skill:
 **Categorization:**
 - [ ] Skill created in `.github/skills/<skill-name>/`
 - [ ] Symlink created in `skills/<language>/<category>/<short-name>`
-- [ ] Symlink points to `../../../.github/skills/<skill-name>`
+- [ ] Symlink points to `.github/skills/<skill-name>`
 
 **Testing:**
 - [ ] `references/acceptance-criteria.md` created with correct/incorrect patterns

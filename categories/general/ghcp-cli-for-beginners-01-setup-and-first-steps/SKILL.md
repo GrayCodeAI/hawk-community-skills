@@ -14,7 +14,7 @@ lastUpdated: 2026-03-20
 
 Now that you understand the three modes, let's learn how to give Copilot CLI context about your code.
 
-In **[Chapter 02: Context and Conversations](../02-context-and-conversations/)**, you'll learn:
+In **[Chapter 02: Context and Conversations]()**, you'll learn:
 
 - The `@` syntax for referencing files and directories
 - Session management with `--resume` and `--continue`

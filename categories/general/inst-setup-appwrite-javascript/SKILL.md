@@ -40,7 +40,7 @@ export default client;
 
 Create authentication service (src/services/auth.js):
 ```javascript
-import { account, ID } from '../lib/appwrite';
+import { account, ID } from 'lib/appwrite';
 
 export const AuthService = {
   async register(email, password, name) {
@@ -86,7 +86,7 @@ export const AuthService = {
 
 Create database service (src/services/database.js):
 ```javascript
-import { databases, ID } from '../lib/appwrite';
+import { databases, ID } from 'lib/appwrite';
 import { Query } from 'appwrite';
 
 export const DatabaseService = {

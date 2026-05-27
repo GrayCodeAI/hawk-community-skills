@@ -511,7 +511,7 @@ aws logs describe-log-groups \
 ---
 
 **Related Services**:
-- [Gateway Service](../gateway/README.md) - Gateway monitoring
-- [Runtime Service](../runtime/README.md) - Runtime tracing
-- [Memory Service](../memory/README.md) - Memory metrics
-- [Credential Management](../../cross-service/credential-management.md) - Cross-service credential patterns
+- [Gateway Service](README.md) - Gateway monitoring
+- [Runtime Service](README.md) - Runtime tracing
+- [Memory Service](README.md) - Memory metrics
+- [Credential Management](credential-management.md) - Cross-service credential patterns

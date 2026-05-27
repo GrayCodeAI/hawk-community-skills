@@ -211,17 +211,17 @@ python scripts/ai_cost_economics.py workload.json
 
 ## Adjacent Skills
 
-- `../chief-data-officer-advisor/` — Training data rights, data product strategy (chains directly to model decisions)
-- `../cto-advisor/` — Architecture capacity, scaling cliffs (esp. for self-hosted inference)
-- `../ciso-advisor/` — Threat modeling for AI (prompt injection, jailbreak, training data poisoning)
-- `../general-counsel-advisor/` — AI contracts (vendor liability, output ownership, training-data licensing)
-- `../cfo-advisor/` — Build-vs-buy TCO math, multi-year vendor commitments
-- `../chro-advisor/` — AI team hiring + comp
-- `../../../engineering/rag-architect/` — Tactical RAG implementation
-- `../../../engineering/agent-designer/` — Tactical agent architecture
-- `../../../engineering/prompt-governance/` — Tactical prompt management
-- `../../../engineering/self-eval/` — Tactical eval infrastructure
-- `../../../engineering/llm-cost-optimizer/` — Tactical inference cost optimization
+- `chief-data-officer-advisor/` — Training data rights, data product strategy (chains directly to model decisions)
+- `cto-advisor/` — Architecture capacity, scaling cliffs (esp. for self-hosted inference)
+- `ciso-advisor/` — Threat modeling for AI (prompt injection, jailbreak, training data poisoning)
+- `general-counsel-advisor/` — AI contracts (vendor liability, output ownership, training-data licensing)
+- `cfo-advisor/` — Build-vs-buy TCO math, multi-year vendor commitments
+- `chro-advisor/` — AI team hiring + comp
+- `engineering/rag-architect/` — Tactical RAG implementation
+- `engineering/agent-designer/` — Tactical agent architecture
+- `engineering/prompt-governance/` — Tactical prompt management
+- `engineering/self-eval/` — Tactical eval infrastructure
+- `engineering/llm-cost-optimizer/` — Tactical inference cost optimization
 
 ## References
 

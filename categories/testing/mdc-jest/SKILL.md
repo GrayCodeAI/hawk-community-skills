@@ -297,7 +297,7 @@ export const Button = ({ onClick, children }: ButtonProps) => (
 // src/components/Button/__tests__/Button.test.tsx
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import { Button } from '../';
+import { Button } from '';
 
 test('Button renders children and handles click', async () => {
   const user = userEvent.setup();
@@ -340,7 +340,7 @@ Use snapshot tests for UI components or schema stability, but review them carefu
 ```typescript
 // src/components/Card/__tests__/Card.test.tsx
 import { render } from '@testing-library/react';
-import { Card } from '../';
+import { Card } from '';
 
 test('Card component matches snapshot', () => {
   const { asFragment } = render(<Card title="Test" content="Hello World" />);

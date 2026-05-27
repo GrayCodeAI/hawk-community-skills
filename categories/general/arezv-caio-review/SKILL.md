@@ -70,13 +70,13 @@ The eval-demanding CAIO pressure-tests any plan that involves AI. Six questions 
 
 ```bash
 # 1. Model selection check
-python ../../../skills/chief-ai-officer-advisor/scripts/model_buildvsbuy_calculator.py use_case.json
+python skills/chief-ai-officer-advisor/scripts/model_buildvsbuy_calculator.py use_case.json
 
 # 2. Regulatory classification
-python ../../../skills/chief-ai-officer-advisor/scripts/ai_risk_classifier.py use_case.json
+python skills/chief-ai-officer-advisor/scripts/ai_risk_classifier.py use_case.json
 
 # 3. Cost projection
-python ../../../skills/chief-ai-officer-advisor/scripts/ai_cost_economics.py workload.json
+python skills/chief-ai-officer-advisor/scripts/ai_cost_economics.py workload.json
 ```
 
 ## Output Format
@@ -133,9 +133,9 @@ python ../../../skills/chief-ai-officer-advisor/scripts/ai_cost_economics.py wor
 
 ## Related
 
-- Agent: [`cs-caio-advisor`](../../agents/cs-caio-advisor.md)
-- Skill: [`chief-ai-officer-advisor`](../../../skills/chief-ai-officer-advisor/SKILL.md)
-- Adjacent: `../../../skills/chief-data-officer-advisor/` (training data rights, data strategy)
+- Agent: [`cs-caio-advisor`](cs-caio-advisor.md)
+- Skill: [`chief-ai-officer-advisor`](SKILL.md)
+- Adjacent: `skills/chief-data-officer-advisor/` (training data rights, data strategy)
 
 ---
 

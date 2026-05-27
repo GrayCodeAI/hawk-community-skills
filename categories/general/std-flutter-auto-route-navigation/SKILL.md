@@ -49,4 +49,4 @@ See [references/REFERENCE.md](references/REFERENCE.md).
 
 ## References
 
-- [go-router-navigation](../flutter-navigation/SKILL.md) | [layer-based-clean-architecture](../../common/common-clean-architecture/SKILL.md)
+- [go-router-navigation](SKILL.md) | [layer-based-clean-architecture](SKILL.md)

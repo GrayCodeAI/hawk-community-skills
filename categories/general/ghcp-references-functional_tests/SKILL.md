@@ -46,7 +46,7 @@ Common patterns by language:
 - **Python:** `sys.path.insert(0, "src/")` then bare imports; package imports (`from myproject.module import func`); relative imports with conftest.py path manipulation
 - **Go:** Same-package tests (`package mypackage`) give access to unexported identifiers; black-box tests (`package mypackage_test`) test only exported API; internal packages may require specific import paths
 - **Java:** `import com.example.project.Module;` matching the package structure; test source root must mirror main source root
-- **TypeScript:** `import { func } from '../src/module'` with relative paths; path aliases from `tsconfig.json` (e.g., `@/module`)
+- **TypeScript:** `import { func } from 'src/module'` with relative paths; path aliases from `tsconfig.json` (e.g., `@/module`)
 - **Rust:** `use crate::module::function;` for unit tests in the same crate; `use myproject::module::function;` for integration tests in `tests/`
 - **Scala:** `import com.example.project._` or `import com.example.project.{ClassA, ClassB}`; SBT layout mirrors `src/main/scala/` in `src/test/scala/`
 

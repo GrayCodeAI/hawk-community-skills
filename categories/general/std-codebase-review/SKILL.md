@@ -20,7 +20,7 @@ keywords: None
 ### 📊 Report Format
 
 Output the report using the **Audit Dashboard** and **Phased Plan** templates in:
-[common-code-review/references/report.md](../../skills/common/common-code-review/references/report.md)
+[common-code-review/references/report.md](report.md)
 
 ### 🔄 Skill Feedback Loop (Mandatory)
 

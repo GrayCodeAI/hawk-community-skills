@@ -12,7 +12,7 @@ tags:
 
 | Skill | Relationship |
 |-------|-------------|
-| [senior-secops](../senior-secops/SKILL.md) | Defensive security operations — monitoring, incident response, SIEM configuration |
-| [senior-security](../senior-security/SKILL.md) | Security policy and governance — frameworks, risk registers, compliance |
-| [dependency-auditor](../../engineering/dependency-auditor/SKILL.md) | Deep supply chain security — SBOMs, license compliance, transitive risk |
-| [code-reviewer](../code-reviewer/SKILL.md) | Code review practices — includes security review checklist |
+| [senior-secops](SKILL.md) | Defensive security operations — monitoring, incident response, SIEM configuration |
+| [senior-security](SKILL.md) | Security policy and governance — frameworks, risk registers, compliance |
+| [dependency-auditor](SKILL.md) | Deep supply chain security — SBOMs, license compliance, transitive risk |
+| [code-reviewer](SKILL.md) | Code review practices — includes security review checklist |

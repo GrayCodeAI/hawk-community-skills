@@ -27,7 +27,7 @@
 | Category | Example |
 |----------|---------|
 | Admin action | `{"action":"admin","data":"test"}` |
-| Path traversal | `{"channel":"../admin"}` |
+| Path traversal | `{"channel":"admin"}` |
 | XSS | `<script>alert(1)</script>` |
 | SQLi | `' OR 1=1 --` |
 | Prototype pollution | `{"__proto__":{"isAdmin":true}}` |

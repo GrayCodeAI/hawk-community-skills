@@ -47,6 +47,6 @@ See [implementation examples](references/implementation.md) for Flutter and iOS 
 
 ## Related Topics
 
-- [common-mobile-ux-core](../common-mobile-ux-core/SKILL.md)
-- [flutter-performance](../../flutter/flutter-performance/SKILL.md)
-- [common-performance-engineering](../common-performance-engineering/SKILL.md)
+- [common-mobile-ux-core](SKILL.md)
+- [flutter-performance](SKILL.md)
+- [common-performance-engineering](SKILL.md)

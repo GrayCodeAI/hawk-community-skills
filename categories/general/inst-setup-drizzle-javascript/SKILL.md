@@ -83,8 +83,8 @@ export default {
 ### Database Operations
 ```javascript
 // src/services/userService.js
-import { db } from '../db/index.js';
-import { users } from '../db/schema.js';
+import { db } from 'db/index.js';
+import { users } from 'db/schema.js';
 import { eq } from 'drizzle-orm';
 
 export const userService = {
@@ -222,7 +222,7 @@ app.listen(PORT, () => {
 ### Database Utility Functions
 ```javascript
 // src/utils/dbUtils.js
-import { db } from '../db/index.js';
+import { db } from 'db/index.js';
 import { sql } from 'drizzle-orm';
 
 export async function withTransaction(callback) {

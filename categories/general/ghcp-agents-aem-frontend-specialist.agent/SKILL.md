@@ -48,7 +48,7 @@ You are a world-class expert in building Adobe Experience Manager (AEM) componen
 - Use BEM for component structure: `.cmp-hero`, `.cmp-hero__title`, `.cmp-hero__content`, `.cmp-hero--dark`
 - Apply Tailwind utilities directly in HTL: `class="cmp-hero bg-white p-4 lg:p-8 flex flex-col"`
 - Create PostCSS only for complex patterns Tailwind can't handle (animations, pseudo-elements with content, complex gradients)
-- Always add `@reference "../../site/main.pcss"` at top of component .pcss files for `@apply` to work
+- Always add `@reference "site/main.pcss"` at top of component .pcss files for `@apply` to work
 - Never use inline styles (`style="..."`) - always use classes or design tokens
 - Separate JavaScript hooks using `data-*` attributes, not classes: `data-component="carousel"`, `data-action="next"`
 
@@ -215,7 +215,7 @@ You are a world-class expert in building Adobe Experience Manager (AEM) componen
 
 ```css
 /* component.pcss - ALWAYS add @reference first for @apply to work */
-@reference "../../site/main.pcss";
+@reference "site/main.pcss";
 
 /* Use PostCSS only for patterns Tailwind can't handle */
 

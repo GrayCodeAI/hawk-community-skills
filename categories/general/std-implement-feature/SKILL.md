@@ -50,7 +50,7 @@ This workflow manages the entire lifecycle of building a new feature, from takin
 > [!TIP]
 > **Sub-Agent Delegation**: For the coding phase, delegate the TDD loop to your TDD Implementer sub-agent (`@specialist-tdd-implementer`). Provide it with the relevant files from your `implementation_plan.md`. If sub-agents are NOT supported, execute the TDD loop yourself using `common-tdd`.
 
-1.  **Worktree Branching**: Create a new worktree for the feature using `git worktree add ../<ticket-key> -b feat/<ticket-key>-<feature-name>` and `cd` into it.
+1.  **Worktree Branching**: Create a new worktree for the feature using `git worktree add <ticket-key> -b feat/<ticket-key>-<feature-name>` and `cd` into it.
 2.  **Task Tracking**: Initialize `task.md`. Break down the implementation into atomic commits.
 3.  **TDD Loop**: Implement the feature using `common-tdd` (Red-Green-Refactor) or the `@specialist-tdd-implementer` sub-agent.
     - Write a failing test for the first AC.

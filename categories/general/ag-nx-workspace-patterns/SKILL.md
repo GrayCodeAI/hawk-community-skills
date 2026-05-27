@@ -148,7 +148,7 @@ workspace/
 // apps/web/project.json
 {
   "name": "web",
-  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
   "sourceRoot": "apps/web/src",
   "projectType": "application",
   "tags": ["type:app", "scope:web"],

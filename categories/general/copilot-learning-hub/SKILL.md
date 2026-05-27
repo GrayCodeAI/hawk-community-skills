@@ -15,7 +15,7 @@ prerequisites: None
 
 ```
 
-The agent can then query your database, analyze query plans, and suggest optimizations—all within the conversation. For setup details, see [Understanding MCP Servers](../understanding-mcp-servers/).
+The agent can then query your database, analyze query plans, and suggest optimizations—all within the conversation. For setup details, see [Understanding MCP Servers]().
 
 ## Best Practices
 
@@ -66,7 +66,7 @@ A: Start with 2–3 agents for your most common workflows. Add more as patterns 
 
 **Q: Can I use an agent with the Copilot coding agent?**
 
-A: Yes. When you assign an issue to Copilot, you can specify which agent should handle it. The agent's persona and tool access apply to the autonomous coding session. See [Using the Copilot Coding Agent](../using-copilot-coding-agent/) for details.
+A: Yes. When you assign an issue to Copilot, you can specify which agent should handle it. The agent's persona and tool access apply to the autonomous coding session. See [Using the Copilot Coding Agent]() for details.
 
 **Q: Should agents include code examples?**
 
@@ -88,9 +88,9 @@ A: Yes, when defining output format or coding patterns. Show what you expect the
 
 ## Next Steps
 
-- **Explore Repository Examples**: Browse the [Agents Directory](../../agents/) for production agent definitions
-- **Connect External Tools**: [Understanding MCP Servers](../understanding-mcp-servers/) — Give agents access to databases, APIs, and more
-- **Automate with Coding Agent**: [Using the Copilot Coding Agent](../using-copilot-coding-agent/) — Run agents autonomously on issues
-- **Add Reusable Tasks**: [Creating Effective Skills](../creating-effective-skills/) — Build tasks agents can discover and invoke
+- **Explore Repository Examples**: Browse the [Agents Directory]() for production agent definitions
+- **Connect External Tools**: [Understanding MCP Servers]() — Give agents access to databases, APIs, and more
+- **Automate with Coding Agent**: [Using the Copilot Coding Agent]() — Run agents autonomously on issues
+- **Add Reusable Tasks**: [Creating Effective Skills]() — Build tasks agents can discover and invoke
 
 ---

@@ -34,7 +34,7 @@ The Spaces REST API supports creating, updating, deleting spaces, and managing c
 
 **Organization Spaces:** Same pattern under `/orgs/{org}/copilot-spaces/...`
 
-**Collaborators:** Add, list, update, and remove collaborators at `.../collaborators`
+**Collaborators:** Add, list, update, and remove collaborators at `.collaborators`
 
 **Scope requirements:** PAT needs `read:user` for reads, `user` for writes. Add with `gh auth refresh -h github.com -s user`.
 

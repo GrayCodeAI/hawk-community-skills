@@ -60,8 +60,8 @@ codex-cli shell "npm test && npm run lint"
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [code-review](../code-review/SKILL.md)
-- [backend-testing](../../backend/testing/SKILL.md)
+- [code-review](SKILL.md)
+- [backend-testing](SKILL.md)
 
 ### Tags
 `#refactoring` `#code-quality` `#DRY` `#SOLID` `#design-patterns` `#clean-code`

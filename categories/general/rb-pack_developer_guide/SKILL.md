@@ -40,7 +40,7 @@ This interactive workflow is much smoother and less error-prone than reading the
 
 A Rulebook-AI Pack is a self-contained directory that bundles rules, starter files, and metadata. The purpose of this guide is to provide a specification so clear that a developer or an AI assistant can read it and correctly structure a rule pack that is universally compatible with `rulebook-ai`.
 
-For the canonical requirements on folder layout and naming, consult `../manage_rules/pack_structure_spec.md`. This guide distills that specification into practical advice and examples.
+For the canonical requirements on folder layout and naming, consult `manage_rules/pack_structure_spec.md`. This guide distills that specification into practical advice and examples.
 
 ### Pack Structure
 
@@ -84,12 +84,12 @@ The `name` field becomes the installation directory inside `.rulebook-ai/packs/<
 *   **`rules/` (Required)**
     This is the most important directory. Its structure is designed to be a "universal source" that can generate rules for all supported AI assistants. The `sync` command uses a single, consistent logic to process this directory.
 
-    **Key requirements (see `../manage_rules/pack_structure_spec.md`):**
+    **Key requirements (see `manage_rules/pack_structure_spec.md`):**
     - At least one numbered rules directory is required. If a generic directory is used, it **must** be named `01-rules` so general rules load first.
     - Each child directory name must follow `NN-rules` or `NN-rules-{mode}` and contain at least one rule file named `NN-<description>.md`.
     - Numeric prefixes are mandatory, zero-padded, and **must be unique** within each directory to enforce deterministic ordering.
     - Rule files must be UTF-8 encoded Markdown using the `.md` extension. Directory and file names may not start with `.`.
-    - Mode names after `rules-` must match supported values (see `../manage_rules/platform_rules_spec.md`).
+    - Mode names after `rules-` must match supported values (see `manage_rules/platform_rules_spec.md`).
 
     **Flexibility:** You are not required to provide all types of subdirectories. A pack can contain only general rules (e.g., a `01-rules` folder), only mode-specific rules (e.g., `02-rules-code`), or a combination of both. The `sync` command will simply process the directories that it finds, giving you full control over which assistant types your pack is optimized for.
 

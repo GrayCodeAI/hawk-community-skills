@@ -80,13 +80,13 @@ Relying on `resolve.extensions` for implicit imports forces Vite to perform mult
 ❌ **BAD** - Implicit import
 ```javascript
 // src/components/MyComponent.jsx
-import { util } from '../utils'; // Vite has to guess .js, .ts, .jsx etc.
+import { util } from 'utils'; // Vite has to guess .js, .ts, .jsx etc.
 ```
 
 ✅ **GOOD** - Explicit import
 ```javascript
 // src/components/MyComponent.jsx
-import { util } from '../utils/index.js'; // Or .ts, .jsx, etc.
+import { util } from 'utils/index.js'; // Or .ts, .jsx, etc.
 ```
 
 ### Avoid Barrel Files

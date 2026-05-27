@@ -42,12 +42,12 @@ import { describe, it, expect, beforeEach } from 'vitest';
 import { vi } from 'vitest';
 
 // Mock dependencies before imports
-vi.mock('../api/locale', () => ({
+vi.mock('api/locale', () => ({
   getLocale: vi.fn(() => 'en-US'), // Mock locale API
 }));
 
 // Import module under test
-const { formatDate } = await import('../utils/formatDate');
+const { formatDate } = await import('utils/formatDate');
 
 describe('formatDate', () => {
   beforeEach(() => {
@@ -87,13 +87,13 @@ import { describe, it, expect, beforeEach } from 'vitest';
 import { vi } from 'vitest';
 
 // Mock dependencies before imports
-vi.mock('../api/weatherService', () => ({
+vi.mock('api/weatherService', () => ({
   getWeatherData: vi.fn(),
 }));
 
 // Import the mocked module and the function to test
-import { getWeatherData } from '../api/weatherService';
-import { getForecast } from '../utils/forecastUtils';
+import { getWeatherData } from 'api/weatherService';
+import { getForecast } from 'utils/forecastUtils';
 
 // Define TypeScript interfaces
 interface WeatherData {

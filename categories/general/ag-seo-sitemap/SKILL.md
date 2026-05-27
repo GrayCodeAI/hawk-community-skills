@@ -51,7 +51,7 @@ allowed-tools: None
 
 ### Process
 1. Ask for business type (or auto-detect from existing site)
-2. Load industry template from `../seo-plan/assets/` directory
+2. Load industry template from `seo-plan/assets/` directory
 3. Interactive structure planning with user
 4. Apply quality gates:
    - ⚠️ WARNING at 30+ location pages (require 60%+ unique content)

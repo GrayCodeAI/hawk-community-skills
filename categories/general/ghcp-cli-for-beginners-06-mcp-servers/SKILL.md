@@ -14,7 +14,7 @@ lastUpdated: 2026-03-20
 
 You now have all the building blocks: modes, context, workflows, agents, skills, and MCP. Time to put them all together.
 
-In **[Chapter 07: Putting It All Together](../07-putting-it-all-together/)**, you'll learn:
+In **[Chapter 07: Putting It All Together]()**, you'll learn:
 
 - Combining agents, skills, and MCP in unified workflows
 - Complete feature development from idea to merged PR

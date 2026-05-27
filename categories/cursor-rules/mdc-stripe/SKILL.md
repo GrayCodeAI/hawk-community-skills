@@ -38,7 +38,7 @@ const stripe = require('stripe')(process.env.STRIPE_SECRET_KEY, {
 module.exports = stripe;
 
 // In your service/route handler:
-const stripe = require('../lib/stripeClient');
+const stripe = require('lib/stripeClient');
 // ... use stripe for all API calls
 ```
 

@@ -50,7 +50,7 @@ This workflow manages the entire lifecycle of a bug fix, from initial JIRA analy
 > [!TIP]
 > **Sub-Agent Delegation**: For the actual fix, delegate the TDD loop to your TDD Implementer sub-agent (`@specialist-tdd-implementer`). If sub-agents are NOT supported, execute the TDD loop yourself using `common-tdd`.
 
-1.  **Worktree Branching**: Create a new worktree for the fix using `git worktree add ../<ticket-key> -b fix/<ticket-key>` and `cd` into it.
+1.  **Worktree Branching**: Create a new worktree for the fix using `git worktree add <ticket-key> -b fix/<ticket-key>` and `cd` into it.
 2.  **Task Tracking**: Initialize `task.md`.
 3.  **Code**: Implement the fix using `common-tdd` or the `@specialist-tdd-implementer` sub-agent. Follow `common-best-practices` and service-specific `AGENTS.md` rules.
 

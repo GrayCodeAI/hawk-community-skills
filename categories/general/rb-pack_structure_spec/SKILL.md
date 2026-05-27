@@ -9,7 +9,7 @@ tags: [general]
 
 **1. Purpose**
 
-Defines the required directory layout and naming rules for Rulebook-AI packs. Mapping from these source files to assistant-specific outputs is described in `platform_rules_spec.md`. For step-by-step examples, consult `../community_packs/pack_developer_guide.md`, but this specification remains the source of truth. Community contributions described in `../community_packs/spec.md` must follow this spec to avoid failures during `packs add`, `packs sync`, or `project sync`.
+Defines the required directory layout and naming rules for Rulebook-AI packs. Mapping from these source files to assistant-specific outputs is described in `platform_rules_spec.md`. For step-by-step examples, consult `community_packs/pack_developer_guide.md`, but this specification remains the source of truth. Community contributions described in `community_packs/spec.md` must follow this spec to avoid failures during `packs add`, `packs sync`, or `project sync`.
 
 **2. Design Goals**
 

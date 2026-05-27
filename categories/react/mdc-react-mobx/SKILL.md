@@ -118,7 +118,7 @@ Avoid prop-drilling by providing your root store via React Context and consuming
 ```typescript
 // src/contexts/StoreContext.ts
 import React, { createContext, useContext } from 'react';
-import { RootStore, rootStore as defaultRootStore } from '../stores/RootStore';
+import { RootStore, rootStore as defaultRootStore } from 'stores/RootStore';
 
 export const StoreContext = createContext<RootStore>(defaultRootStore);
 
@@ -173,7 +173,7 @@ Use the `observer` HOC (or `useObserver` if preferred) to make your functional c
 // src/components/UserList.tsx
 import React, { useEffect } from 'react';
 import { observer } from 'mobx-react-lite'; // Use mobx-react-lite for functional components
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const UserList: React.FC = observer(() => {
   const { userStore } = useStore();
@@ -386,12 +386,12 @@ Mock the `useStore` hook to provide controlled store instances for component tes
 import React from 'react';
 import { render, screen, waitFor } from '@testing-library/react';
 import UserList from './UserList';
-import { useStore } from '../contexts/StoreContext';
-import { UserStore } from '../stores/UserStore';
-import { RootStore } from '../stores/RootStore';
+import { useStore } from 'contexts/StoreContext';
+import { UserStore } from 'stores/UserStore';
+import { RootStore } from 'stores/RootStore';
 
 // Mock the useStore hook
-jest.mock('../contexts/StoreContext', () => ({
+jest.mock('contexts/StoreContext', () => ({
   useStore: jest.fn(),
 }));
 

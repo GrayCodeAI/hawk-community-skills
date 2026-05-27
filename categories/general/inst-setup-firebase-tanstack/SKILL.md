@@ -82,7 +82,7 @@ import { useDocumentQuery, useCollectionQuery } from '@tanstack-query-firebase/r
 import { useSubscription } from '@tanstack-query-firebase/react/firestore';
 import { useMutation, useQueryClient } from '@tanstack/react-query';
 import { doc, collection, query, where, orderBy, setDoc, deleteDoc, DocumentData } from 'firebase/firestore';
-import { db } from '../lib/firebase';
+import { db } from 'lib/firebase';
 
 // Document hooks
 export function useDocument<T = DocumentData>(path: string, id: string) {
@@ -204,7 +204,7 @@ export function useDocumentDelete(path: string) {
 
 1. User Profile Component:
 ```typescript
-import { useDocument, useDocumentMutation } from '../hooks/firebase';
+import { useDocument, useDocumentMutation } from 'hooks/firebase';
 
 interface User {
   id: string;
@@ -250,7 +250,7 @@ function UserProfile({ userId }: { userId: string }) {
 
 2. Real-time Chat Component:
 ```typescript
-import { useCollectionRealtime, useDocumentMutation } from '../hooks/firebase';
+import { useCollectionRealtime, useDocumentMutation } from 'hooks/firebase';
 
 interface Message {
   id: string;

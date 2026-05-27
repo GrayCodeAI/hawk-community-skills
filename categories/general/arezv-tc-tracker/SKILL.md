@@ -118,7 +118,7 @@ python3 scripts/tc_status.py --root . --all --json
 ### 5. Validate a record or registry
 
 ```bash
-python3 scripts/tc_validator.py --record docs/TC/records/TC-001-.../tc_record.json
+python3 scripts/tc_validator.py --record docs/TC/records/TC-001-.tc_record.json
 python3 scripts/tc_validator.py --registry docs/TC/tc_registry.json
 ```
 

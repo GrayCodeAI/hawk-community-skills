@@ -35,7 +35,7 @@ tags:
 ```typescript
 // src/pages/api/users/create.ts
 import type { APIRoute } from 'astro';
-import { sql } from '../../../lib/db';
+import { sql } from 'lib/db';
 
 export const POST: APIRoute = async ({ request }) => {
   try {

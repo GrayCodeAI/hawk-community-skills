@@ -624,8 +624,8 @@ function AccessibleTabs({ tabs }: { tabs: { id: string; label: string; content: 
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [ui-component-patterns](../ui-component-patterns/SKILL.md): UI component implementation
-- [responsive-design](../responsive-design/SKILL.md): Responsive design
+- [ui-component-patterns](SKILL.md): UI component implementation
+- [responsive-design](SKILL.md): Responsive design
 
 ### Tags
 `#accessibility` `#a11y` `#WCAG` `#ARIA` `#screen-reader` `#keyboard-navigation` `#frontend`

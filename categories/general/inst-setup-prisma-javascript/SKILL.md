@@ -88,7 +88,7 @@ module.exports = prisma
 
 1. Create a users model `src/models/user.js`:
 ```javascript
-const prisma = require('../db')
+const prisma = require('db')
 
 const userModel = {
   async getUsers() {
@@ -164,7 +164,7 @@ module.exports = userModel
 
 2. Create a posts model `src/models/post.js`:
 ```javascript
-const prisma = require('../db')
+const prisma = require('db')
 
 const postModel = {
   async getPosts() {

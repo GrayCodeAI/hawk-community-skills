@@ -19,7 +19,7 @@ keywords: None
  - Extract: Summary, ACs, Platform per AC row, Market, Components.
  - Fetch Jira with `?expand=renderedFields` — HTML authoritative for platform colors:
  `#00B8D9` = Web · `#36B37E` = Mobile · `#FF991F` = Web+Mobile
- - See [Actor/Permission Matrix](../quality-engineering-business-analysis/references/analysis_patterns.md) for role/market logic.
+ - See [Actor/Permission Matrix](analysis_patterns.md) for role/market logic.
 
 2. **Impact Analysis** (run before any TC creation)
  - **Step — Direct Lookup**: Call `Get Issue Link Test Cases` with Jira issue key (e.g., `{PROJECT}-{ID}`).

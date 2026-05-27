@@ -149,7 +149,7 @@ Use `React.createContext` and a custom hook to provide your `RootStore` to the c
 ```javascript
 // src/contexts/StoreContext.jsx
 import React, { createContext, useContext } from 'react';
-// import { RootStore } from '../stores/RootStore'; // For TypeScript
+// import { RootStore } from 'stores/RootStore'; // For TypeScript
 
 // const StoreContext = createContext<RootStore | undefined>(undefined); // For TypeScript
 const StoreContext = createContext(undefined);
@@ -192,7 +192,7 @@ Apply `observer` only to the React components that *actually read* observable da
 ```javascript
 // Parent component re-renders even if only a child's specific data changes
 import { observer } from 'mobx-react-lite';
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const UserProfilePage = observer(() => {
   const { userStore, alertsStore } = useStore();
@@ -209,7 +209,7 @@ const UserProfilePage = observer(() => {
 **✅ GOOD: Targeted `observer` Usage**
 ```javascript
 // src/components/UserProfilePage.jsx
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const UserProfilePage = () => { // Not an observer
   const { userStore } = useStore(); // Only reads userStore.name here
@@ -224,7 +224,7 @@ const UserProfilePage = () => { // Not an observer
 
 // src/components/AlertsDisplay.jsx
 import { observer } from 'mobx-react-lite';
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const AlertsDisplay = observer(() => { // Only this component re-renders on alert changes
   const { alertsStore } = useStore();
@@ -274,7 +274,7 @@ For large collections, render them in dedicated, `observer`-wrapped list compone
 ```javascript
 // src/components/TodosList.jsx
 import { observer } from 'mobx-react-lite';
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 import { TodoItem } from './TodoItem';
 
 export const TodosList = observer(() => {
@@ -352,7 +352,7 @@ Handle all data fetching logic within your MobX stores, not directly in componen
 // src/components/AlertsVisualization.jsx
 import { observer } from 'mobx-react-lite';
 import { useEffect } from 'react';
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const AlertsVisualization = observer(({ id }) => {
   const { alertsStore } = useStore();
@@ -365,7 +365,7 @@ const AlertsVisualization = observer(({ id }) => {
 // src/components/AlertsList.jsx
 import { observer } from 'mobx-react-lite';
 import { useEffect } from 'react';
-import { useStore } from '../contexts/StoreContext';
+import { useStore } from 'contexts/StoreContext';
 
 const AlertsList = observer(({ id }) => {
   const { alertsStore } = useStore();
@@ -388,7 +388,7 @@ export const AlertsService = {
 
 // src/stores/AlertsStore.js
 import { makeObservable, observable, action } from 'mobx';
-import { AlertsService } from '../services/AlertsService'; // Dedicated service
+import { AlertsService } from 'services/AlertsService'; // Dedicated service
 
 export class AlertsStore {
   alerts = [];
@@ -421,9 +421,9 @@ export class AlertsStore {
 // src/containers/DashboardPage.jsx (Parent component)
 import { observer } from 'mobx-react-lite';
 import { useEffect } from 'react';
-import { useStore } from '../contexts/StoreContext';
-import { AlertsVisualization } from '../components/AlertsVisualization';
-import { AlertsList } from '../components/AlertsList';
+import { useStore } from 'contexts/StoreContext';
+import { AlertsVisualization } from 'components/AlertsVisualization';
+import { AlertsList } from 'components/AlertsList';
 
 const DashboardPage = observer(({ userId }) => {
   const { alertsStore } = useStore();

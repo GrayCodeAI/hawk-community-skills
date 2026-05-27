@@ -11,7 +11,7 @@ allowed-tools: Bash Read
 
 > **Deprecated since plugin v0.2.0.** Removed in v0.3.0.
 >
-> Use [`browser-extract`](../browser-extract/SKILL.md) instead. It provides the same scraping capability plus:
+> Use [`browser-extract`](SKILL.md) instead. It provides the same scraping capability plus:
 >
 > - RVF cognitive container per session (replayable, federatable)
 > - Mandatory AIDefence PII + prompt-injection gates

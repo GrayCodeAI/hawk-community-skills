@@ -73,7 +73,7 @@ python3 ./build-restler.py --dest_dir /opt/restler
         "' OR '1'='1",
         "\" OR \"1\"=\"1",
         "<script>alert(1)</script>",
-        "../../../etc/passwd",
+        "etc/passwd",
         "${7*7}",
         "{{7*7}}",
         "a]UNION SELECT 1,2,3--",

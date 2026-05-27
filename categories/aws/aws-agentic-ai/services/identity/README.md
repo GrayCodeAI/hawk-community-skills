@@ -174,9 +174,9 @@ AgentCore Identity includes built-in providers for popular services:
 
 ## Related Services
 
-- **[Gateway Service](../gateway/README.md)**: Uses Identity for MCP target authentication
-- **[Runtime Service](../runtime/README.md)**: Uses Identity for agent authentication
-- **[Memory Service](../memory/README.md)**: May use Identity for data encryption
+- **[Gateway Service](README.md)**: Uses Identity for MCP target authentication
+- **[Runtime Service](README.md)**: Uses Identity for agent authentication
+- **[Memory Service](README.md)**: May use Identity for data encryption
 
 ## References
 

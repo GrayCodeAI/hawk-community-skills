@@ -14,7 +14,7 @@ lastUpdated: 2026-03-20
 
 Agents change *how Copilot approaches and takes targeted actions* in your code. Next, you'll learn about **skills** - which change *what steps* it follows. Wondering how agents and skills differ? Chapter 05 covers that head-on.
 
-In **[Chapter 05: Skills System](../05-skills/)**, you'll learn:
+In **[Chapter 05: Skills System]()**, you'll learn:
 
 - How skills auto-trigger from your prompts (no slash command needed)
 - Installing community skills

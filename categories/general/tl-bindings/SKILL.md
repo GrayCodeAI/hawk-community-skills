@@ -93,7 +93,7 @@ npx wrangler deployments list --name=target-worker
 cat wrangler.jsonc | grep -A2 services
 
 # Deploy target first
-cd ../target-worker && npx wrangler deploy
+cd target-worker && npx wrangler deploy
 ```
 
 ### "Rate limit exceeded" on KV writes

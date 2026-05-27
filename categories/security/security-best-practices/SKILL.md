@@ -273,8 +273,8 @@ app.post('/api/auth/refresh', async (req, res) => {
 - **Compatible platforms**: Claude, ChatGPT, Gemini
 
 ### Related skills
-- [authentication-setup](../authentication-setup/SKILL.md)
-- [deployment](../deployment-automation/SKILL.md)
+- [authentication-setup](SKILL.md)
+- [deployment](SKILL.md)
 
 ### Tags
 `#security` `#OWASP` `#HTTPS` `#CORS` `#XSS` `#SQL-injection` `#CSRF` `#infrastructure`

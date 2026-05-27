@@ -81,11 +81,11 @@ REDIRECT_BYPASS_PAYLOADS = [
     "https://evil.com",                                    # Different domain
     "https://app.example.com.evil.com/callback",          # Subdomain of attacker
     "https://app.example.com@evil.com/callback",          # URL authority confusion
-    f"{REDIRECT_URI}/../../../evil.com",                  # Path traversal
+    f"{REDIRECT_URI}/evil.com",                  # Path traversal
     f"{REDIRECT_URI}?next=https://evil.com",              # Parameter injection
     f"{REDIRECT_URI}#https://evil.com",                   # Fragment injection
     f"{REDIRECT_URI}%23evil.com",                         # Encoded fragment
-    "https://app.example.com/callback/../../evil",        # Relative path
+    "https://app.example.com/callback/evil",        # Relative path
     "https://APP.EXAMPLE.COM/callback",                   # Case variation
     "https://app.example.com/Callback",                   # Path case variation
     "https://app.example.com/callback/",                  # Trailing slash
@@ -363,7 +363,7 @@ state parameter is not validated by the client application.
 **Proof of Concept**:
 1. Craft authorization URL with manipulated redirect_uri:
    https://auth.example.com/authorize?response_type=code&client_id=app
-   &redirect_uri=https://app.example.com/callback/../../../evil.com
+   &redirect_uri=https://app.example.com/callback/evil.com
    &scope=openid+profile+email&state=abc123
 2. User authenticates and approves consent
 3. Authorization code redirected to https://evil.com?code=AUTH_CODE&state=abc123

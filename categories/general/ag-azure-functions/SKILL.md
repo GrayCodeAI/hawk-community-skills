@@ -581,9 +581,9 @@ public static async Task<HttpResponseData> StartLongRunning(
 // Response includes:
 // {
 //   "id": "abc123",
-//   "statusQueryGetUri": "https://.../instances/abc123",
-//   "sendEventPostUri": "https://.../instances/abc123/raiseEvent/{eventName}",
-//   "terminatePostUri": "https://.../instances/abc123/terminate"
+//   "statusQueryGetUri": "https://.instances/abc123",
+//   "sendEventPostUri": "https://.instances/abc123/raiseEvent/{eventName}",
+//   "terminatePostUri": "https://.instances/abc123/terminate"
 // }
 
 // Alternative: Queue-based pattern without Durable Functions
