@@ -22,6 +22,9 @@ REQUIRED_FIELDS = {"name", "description", "license"}
 MAX_DESCRIPTION_LEN = 200
 MAX_FILE_SIZE = 100 * 1024  # 100KB
 ASSET_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico", ".pdf"}
+TAG_PATTERN = re.compile(r"^[a-z][a-z0-9]*(-[a-z0-9]+)*$")
+MIN_TAGS = 1
+MAX_TAGS = 5
 
 console = Console()
 
@@ -89,6 +92,27 @@ def validate_skill(skill_path: Path) -> ValidationResult:
     desc = frontmatter.get("description", "")
     if isinstance(desc, str) and len(desc) > MAX_DESCRIPTION_LEN:
         result.warn(f"Description is {len(desc)} chars (max recommended: {MAX_DESCRIPTION_LEN})")
+
+    # Validate tags
+    tags = frontmatter.get("tags", [])
+    if isinstance(tags, str):
+        tags = [t.strip() for t in tags.split(",")]
+    if not isinstance(tags, list):
+        result.error("Frontmatter 'tags' must be a list or comma-separated string")
+    else:
+        # Filter out None/empty and normalize
+        valid_tags = [t for t in tags if t]
+        if len(valid_tags) < MIN_TAGS:
+            result.error(f"Skill must have at least {MIN_TAGS} tag(s), found {len(valid_tags)}")
+        if len(valid_tags) > MAX_TAGS:
+            result.warn(f"Skill has {len(valid_tags)} tags (recommended max: {MAX_TAGS})")
+        for tag in valid_tags:
+            if not isinstance(tag, str):
+                result.error(f"Tag must be a string, got {type(tag).__name__}: {repr(tag)}")
+            elif tag.strip() == "":
+                result.error("Tags must not be empty strings")
+            elif not TAG_PATTERN.match(tag):
+                result.error(f"Tag '{tag}' is invalid: must be lowercase alphanumeric with hyphens (e.g. 'my-tag')")
 
     # Check name matches directory
     fm_name = frontmatter.get("name", "")
@@ -213,8 +237,8 @@ def main():
     console.print()
     console.print(f"[bold]Total: {total} | Passed: {passed} | Failed: {failed}[/bold]")
 
-    # Exit 0 - validation is advisory, pre-existing issues expected
-    sys.exit(0)
+    if failed > 0:
+        sys.exit(1)
 
 
 if __name__ == "__main__":
