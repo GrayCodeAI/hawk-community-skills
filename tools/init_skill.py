@@ -83,8 +83,19 @@ def main():
         console.print("[yellow]Warning: description exceeds 200 characters, consider shortening.[/yellow]")
 
     # --- Tags ---
-    tags_raw = Prompt.ask("[bold]Tags[/bold] (comma-separated)", default="general")
-    tags = [t.strip() for t in tags_raw.split(",") if t.strip()]
+    tag_re = re.compile(r"^[a-z][a-z0-9]*(-[a-z0-9]+)*$")
+    while True:
+        tags_raw = Prompt.ask("[bold]Tags[/bold] (comma-separated, 1-5 lowercase kebab-case)", default="general")
+        tags = [t.strip() for t in tags_raw.split(",") if t.strip()]
+        if len(tags) < 1:
+            console.print("[red]At least 1 tag is required.[/red]")
+        elif len(tags) > 5:
+            console.print("[red]Maximum 5 tags allowed.[/red]")
+        elif any(not tag_re.match(t) for t in tags):
+            bad = [t for t in tags if not tag_re.match(t)]
+            console.print(f"[red]Invalid tag(s): {', '.join(bad)}. Must be lowercase alphanumeric with hyphens.[/red]")
+        else:
+            break
 
     # --- Author ---
     author = Prompt.ask("[bold]Author[/bold]", default="community")
@@ -132,19 +143,19 @@ def main():
 
 ## Overview
 
-TODO: Describe what this skill does.
+<!-- Describe what this skill does in 2-3 sentences. -->
 
 ## When to Use
 
-- TODO: Add use cases
+<!-- List specific scenarios where this skill is useful. -->
 
 ## Instructions
 
-TODO: Add detailed instructions.
+<!-- Provide detailed instructions for how the skill should behave. -->
 
 ## References
 
-- TODO: Add references
+<!-- Link to relevant docs, APIs, or related skills. Remove this section if not needed. -->
 """
 
     (skill_dir / "SKILL.md").write_text(skill_md)
