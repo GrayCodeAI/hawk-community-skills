@@ -305,3 +305,5 @@ vendor/
 6. **Exclude test files** to reduce false positives
 7. **Version control rules** in a shared repository
 8. **Run in CI as a blocking check** for ERROR severity findings
+@ref(api-reference.md)
+@ref(standards.md)

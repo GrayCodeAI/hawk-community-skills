@@ -282,3 +282,6 @@ demon> rportfwd start 8080 TARGET_INTERNAL 80
 - Havoc Wiki: https://github.com/HavocFramework/Havoc/blob/main/WIKI.MD
 - RedTeamOps Havoc 101: https://github.com/WesleyWong420/RedTeamOps-Havoc-101
 - Deploying Havoc C2 via Terraform: https://www.100daysofredteam.com/p/red-team-infrastructure-deploying-havoc-c2-via-terraform
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

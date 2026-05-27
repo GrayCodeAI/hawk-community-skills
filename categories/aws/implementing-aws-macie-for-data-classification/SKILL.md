@@ -293,3 +293,6 @@ aws macie2 list-classification-jobs \
 - AWS Macie Pricing
 - Supported File Types for Macie Analysis
 - GDPR and CCPA Compliance with Macie
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

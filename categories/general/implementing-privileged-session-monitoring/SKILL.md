@@ -13,3 +13,4 @@ author: mahipal
 
 Monitor privileged sessions (SSH, RDP, database) with real-time command
 logging, anomaly detection, session recording, and compliance reporting.
+@ref(api-reference.md)

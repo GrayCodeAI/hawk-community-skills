@@ -243,3 +243,6 @@ gvm-cli socket --socketpath /run/gvmd/gvmd.sock --gmp-username admin --gmp-passw
 - [GVM GitHub Repository](https://github.com/greenbone/openvas-scanner)
 - [python-gvm Library](https://github.com/greenbone/python-gvm)
 - [GVM Docker Deployment](https://greenbone.github.io/docs/latest/22.4/container/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -36,3 +36,4 @@ Implement Microsoft's Enhanced Security Admin Environment (ESAE) tiered administ
 - [ ] Audit logging enabled and forwarding to SIEM
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
+@ref(api-reference.md)

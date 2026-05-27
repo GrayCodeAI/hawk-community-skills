@@ -320,3 +320,6 @@ NEW FINDINGS (blocking):
 QUALITY GATE: FAILED (3 new findings)
 Action: Rotate exposed credentials immediately.
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

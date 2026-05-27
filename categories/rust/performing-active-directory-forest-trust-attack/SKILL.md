@@ -36,3 +36,4 @@ Active Directory forest trusts enable authentication across organizational bound
 
 - JSON report listing all trust relationships, SID filtering status, foreign principals, trust direction/transitivity, and risk assessment
 - Cross-forest attack path analysis with remediation recommendations
+@ref(api-reference.md)

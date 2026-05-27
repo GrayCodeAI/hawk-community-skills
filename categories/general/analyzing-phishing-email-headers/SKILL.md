@@ -77,3 +77,6 @@ Use the `scripts/process.py` script to automate header analysis including IP geo
 - Correctly identify authentication pass/fail status
 - Accurately trace email routing path
 - Detect at least 3 phishing indicators in a sample phishing email
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

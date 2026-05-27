@@ -72,3 +72,4 @@ Embedded Files: [Count and types]
 VirusTotal Detections: [X/Y engines]
 Risk Level: [Critical/High/Medium/Low]
 ```
+@ref(api-reference.md)

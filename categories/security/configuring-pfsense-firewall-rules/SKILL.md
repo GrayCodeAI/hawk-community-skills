@@ -331,3 +331,4 @@ Enable automatic backups to Netgate cloud or local storage
 - VPN: OpenVPN remote access configured with MFA
 - Logging: All traffic forwarded to SIEM (10.10.20.15)
 ```
+@ref(api-reference.md)

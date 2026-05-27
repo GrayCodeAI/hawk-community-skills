@@ -266,3 +266,6 @@ jobs:
 8. **Lint strictly** in CI with `--strict` flag
 9. **Review third-party charts** before deploying to production
 10. **Use Helm test hooks** to validate deployments post-install
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

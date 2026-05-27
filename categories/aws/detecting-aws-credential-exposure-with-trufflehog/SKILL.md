@@ -260,3 +260,4 @@ SUMMARY:
   Unverified credential patterns: 15
   Repositories with pre-commit hooks: 8 / 42
 ```
+@ref(api-reference.md)

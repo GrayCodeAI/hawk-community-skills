@@ -89,3 +89,6 @@ Use the `scripts/process.py` to analyze email gateway logs, identify spearphishi
 - Attachment sandboxing detects weaponized documents
 - Custom rules trigger on known spearphishing patterns
 - SIEM integration receives gateway alerts
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -308,3 +308,6 @@ kubectl logs -n falco -l app.kubernetes.io/name=falco --tail=50 | grep -i escape
 6. **Test rules** in permissive mode before enforcing
 7. **Tune false positives** by adding exception lists for known good processes
 8. **Monitor Falco health** with Prometheus metrics endpoint
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

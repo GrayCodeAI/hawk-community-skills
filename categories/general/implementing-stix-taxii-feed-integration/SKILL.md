@@ -287,3 +287,6 @@ def push_to_taxii(server_url, collection_id, stix_bundle, user, password):
 - [stix2 Python Library](https://stix2.readthedocs.io/)
 - [MITRE ATT&CK TAXII Server](https://cti-taxii.mitre.org/taxii2/)
 - [Medallion TAXII Server](https://github.com/oasis-open/cti-taxii-server)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

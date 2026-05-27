@@ -169,3 +169,6 @@ WMI (Windows Management Instrumentation) is a legitimate Windows administration 
 - [ ] Credential harvesting performed via WMI execution chain
 - [ ] No service creation artifacts on target systems
 - [ ] Evidence documented with command outputs and screenshots
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

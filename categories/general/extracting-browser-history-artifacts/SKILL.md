@@ -331,3 +331,4 @@ Browser Forensics Summary:
     Firefox History:  /analysis/firefox_history.csv
     Full Report:      /analysis/hindsight_report.xlsx
 ```
+@ref(api-reference.md)

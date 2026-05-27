@@ -205,3 +205,6 @@ output.elasticsearch:
 - **Ignoring baseline establishment**: First FIM scan creates a baseline. Changes detected before baseline stabilization are noise, not threats. Allow 48 hours for baseline.
 - **Active response without testing**: Auto-blocking IPs or disabling accounts can cause outages. Test active response rules in a non-production environment first.
 - **Agent enrollment failures**: Agents must successfully enroll with the manager before monitoring begins. Verify firewall rules allow port 1514 and 1515 traffic.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

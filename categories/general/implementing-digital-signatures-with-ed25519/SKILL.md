@@ -62,3 +62,6 @@ Ed25519 is a high-performance digital signature algorithm using the Edwards curv
 - [ ] Deterministic: same input produces same signature
 - [ ] File signing and verification works correctly
 - [ ] Performance meets or exceeds RSA-3072
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

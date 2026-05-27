@@ -36,3 +36,4 @@ Deploy SailPoint IdentityNow or IdentityIQ for identity governance and administr
 - [ ] Audit logging enabled and forwarding to SIEM
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
+@ref(api-reference.md)

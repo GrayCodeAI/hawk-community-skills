@@ -218,3 +218,6 @@ for item in tree.findall('.//item'):
 - scanning-infrastructure-with-nessus
 - scanning-apis-for-security-vulnerabilities
 - performing-network-vulnerability-assessment
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

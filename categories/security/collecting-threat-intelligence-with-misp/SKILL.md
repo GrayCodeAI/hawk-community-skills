@@ -163,3 +163,6 @@ csv_output = misp.search(
 - [MISP GitHub Repository](https://github.com/MISP/MISP)
 - [MISP OpenAPI Specification](https://www.misp-project.org/openapi/)
 - [CIRCL OSINT Feed](https://www.circl.lu/doc/misp/feed-osint/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

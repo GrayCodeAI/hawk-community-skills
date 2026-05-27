@@ -167,3 +167,4 @@ Identify the technologies, frameworks, and services used by the target:
 3. Disable directory listings on docs.techcorp.io and audit all web servers
 4. Implement GitHub secret scanning across all organization repositories
 ```
+@ref(api-reference.md)

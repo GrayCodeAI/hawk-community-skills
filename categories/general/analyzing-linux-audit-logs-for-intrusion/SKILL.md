@@ -13,3 +13,4 @@ author: mahipal
 
 Parse auditd logs to detect file access violations, privilege escalation,
 suspicious syscalls, and unauthorized process execution.
+@ref(api-reference.md)

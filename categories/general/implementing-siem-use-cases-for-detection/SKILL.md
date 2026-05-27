@@ -287,3 +287,4 @@ Health Metrics:
   Avg Detection Latency:     2.3 min (target: <5 min)
   Use Cases Deprecated:      3 (replaced by improved versions)
 ```
+@ref(api-reference.md)

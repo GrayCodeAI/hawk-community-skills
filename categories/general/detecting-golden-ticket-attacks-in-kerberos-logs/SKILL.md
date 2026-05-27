@@ -86,3 +86,4 @@ Anomaly: [No prior TGT/RC4 in AES environment/Extended lifetime]
 KRBTGT Last Reset: [Date]
 Risk Level: [Critical]
 ```
+@ref(api-reference.md)

@@ -337,3 +337,4 @@ REMEDIATION
 4. Enable all firmware write protections
 5. Update firmware to latest version (patches CVE-2022-21894)
 ```
+@ref(api-reference.md)

@@ -169,3 +169,6 @@ DCSync is an attack technique that abuses the Microsoft Directory Replication Se
 - [ ] Access to Domain Controller validated with Golden Ticket
 - [ ] Evidence documented with hash values and timestamps
 - [ ] Remediation recommendations provided (double KRBTGT reset, ACL audit)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

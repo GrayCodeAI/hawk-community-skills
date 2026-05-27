@@ -267,3 +267,6 @@ gcloud compute instances delete-access-config compromised-instance \
 - [Unit 42: Responding to Cloud Incidents](https://unit42.paloaltonetworks.com/responding-to-cloud-incidents/)
 - [Wiz: Cloud Incident Response Checklist](https://www.wiz.io/academy/incident-response-checklist)
 - [Microsoft Cloud Security Benchmark - IR](https://learn.microsoft.com/en-us/security/benchmark/azure/mcsb-incident-response)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

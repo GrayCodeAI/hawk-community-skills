@@ -83,3 +83,6 @@ Use the `scripts/process.py` to automate URL scanning, extract IOCs, and cross-r
 - Document complete redirect chain
 - Generate IOC list from scan results
 - Cross-reference findings with at least 2 threat intelligence sources
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

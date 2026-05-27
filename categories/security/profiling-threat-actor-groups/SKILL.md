@@ -115,3 +115,4 @@ Classify TLP:AMBER for internal distribution; seek ISAC approval before external
 - **Binary attribution**: Treating attribution as certain when it is probabilistic. Always qualify attribution confidence level (Low/Medium/High).
 - **Neglecting insider and criminal groups**: Overemphasis on nation-state APTs while ignoring ransomware groups (Cl0p, LockBit, ALPHV) which represent higher probability threats for most organizations.
 - **Profile staleness**: Adversary TTPs evolve. Profiles not updated quarterly may miss technique changes, new malware, or targeting shifts.
+@ref(api-reference.md)

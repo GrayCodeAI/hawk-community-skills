@@ -13,3 +13,4 @@ author: mahipal
 
 Extract execution evidence from Amcache.hve including application paths,
 SHA-1 hashes, timestamps, and publisher metadata for DFIR investigations.
+@ref(api-reference.md)

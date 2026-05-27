@@ -133,3 +133,6 @@ Legitimate DC: [Yes/No]
 Known Service Account: [Yes/No]
 Risk Assessment: [Critical - non-DC replication detected]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -13,3 +13,4 @@ author: mahipal
 
 Detect timestamp manipulation by analyzing NTFS MFT entries for
 discrepancies between $STANDARD_INFORMATION and $FILE_NAME attributes.
+@ref(api-reference.md)

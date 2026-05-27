@@ -88,3 +88,6 @@ Event Count: [Number of events]
 Risk Level: [Critical/High/Medium/Low]
 Lateral Movement Path: [A -> B -> C -> D]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

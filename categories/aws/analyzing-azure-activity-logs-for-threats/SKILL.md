@@ -48,3 +48,4 @@ AuditLogs
 | where TargetResources[0].modifiedProperties[0].newValue has "Global Administrator"
 '''
 ```
+@ref(api-reference.md)

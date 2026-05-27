@@ -366,3 +366,4 @@ Content-Type: application/json
 - API7.ai Rate Limiting Algorithms Guide: https://api7.ai/blog/rate-limiting-guide-algorithms-best-practices
 - Redis Rate Limiting: https://redis.io/glossary/rate-limiting/
 - Rakuten SixthSense API Rate Limiting: https://sixthsense.rakuten.com/blog/API-Rate-Limiting-A-Critical-Layer-for-API-Protection
+@ref(api-reference.md)

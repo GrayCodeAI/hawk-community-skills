@@ -133,3 +133,6 @@ roleRef:
 - [ ] automountServiceAccountToken disabled by default
 - [ ] Audit logging captures RBAC changes
 - [ ] `kubectl auth can-i` validates expected permissions per persona
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

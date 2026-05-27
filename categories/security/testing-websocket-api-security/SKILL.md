@@ -424,3 +424,4 @@ and typing indicators for any user who visits the attacker's page.
 4. Implement per-message authorization checks, not just connection-level authentication
 5. Add rate limiting on WebSocket message volume per connection
 ```
+@ref(api-reference.md)

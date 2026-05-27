@@ -285,3 +285,4 @@ REGISTRY CONFIGURATION:
   Lifecycle policies:       20 / 24 repositories
   Image signing enforced:    8 / 24 repositories
 ```
+@ref(api-reference.md)

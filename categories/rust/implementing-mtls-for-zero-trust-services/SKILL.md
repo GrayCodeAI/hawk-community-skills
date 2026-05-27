@@ -45,3 +45,4 @@ context.load_cert_chain("client.pem", "client-key.pem")
 context.load_verify_locations("ca.pem")
 context.verify_mode = ssl.CERT_REQUIRED
 ```
+@ref(api-reference.md)

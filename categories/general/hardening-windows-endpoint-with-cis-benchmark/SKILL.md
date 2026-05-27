@@ -186,3 +186,6 @@ Feed results into SIEM for drift detection and dashboard reporting.
 - **Ignoring CIS benchmark version updates**: CIS benchmarks update with each Windows feature release. Running an outdated benchmark misses new security settings and generates false compliance reports.
 - **Forgetting local admin accounts**: CIS benchmarks assume domain-joined endpoints. Standalone systems require LGPO.exe or Microsoft Intune for baseline enforcement.
 - **No exception process**: Applying 100% of CIS recommendations is rarely feasible. Without a formal exception process, teams either ignore hardening or break applications.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

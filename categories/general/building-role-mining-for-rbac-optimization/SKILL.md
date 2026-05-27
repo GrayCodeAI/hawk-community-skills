@@ -233,3 +233,6 @@ After mining candidate roles:
 - [RBAC Standard - ANSI/INCITS 359-2012](https://www.incits.org/)
 - [Formal Concept Analysis for Role Engineering](https://link.springer.com/chapter/10.1007/978-3-540-73070-6_7)
 - [scikit-learn Clustering Documentation](https://scikit-learn.org/stable/modules/clustering.html)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

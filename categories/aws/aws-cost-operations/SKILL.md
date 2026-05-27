@@ -292,3 +292,5 @@ Common alarm configurations for:
 - API Gateway
 - ECS services
 - Application Load Balancers
+@ref(cloudwatch-alarms.md)
+@ref(operations-patterns.md)

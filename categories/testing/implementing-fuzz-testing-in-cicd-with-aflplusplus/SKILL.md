@@ -262,3 +262,6 @@ afl-whatsup findings/
 - [AFL++ Fuzzing in Depth Guide](https://aflplus.plus/docs/fuzzing_in_depth/)
 - [Google Testing Handbook - AFL++](https://appsec.guide/docs/fuzzing/c-cpp/aflpp/)
 - [OWASP Fuzzing Guide](https://owasp.org/www-community/Fuzzing)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

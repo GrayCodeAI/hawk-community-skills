@@ -253,3 +253,6 @@ def analyze_onedrive_sync_engine(db_path: str) -> list:
 - Magnet AXIOM Cloud: https://www.magnetforensics.com/blog/how-to-acquire-and-analyze-cloud-data-with-magnet-axiom/
 - AWS Cloud Forensics Framework: https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/cyber-forensics.html
 - API-Based Forensic Acquisition of Cloud Drives: https://arxiv.org/abs/1603.06542
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

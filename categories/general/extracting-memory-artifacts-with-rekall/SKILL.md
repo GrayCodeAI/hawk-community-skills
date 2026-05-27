@@ -54,3 +54,4 @@ psscan_pids = set(p.pid for p in s.plugins.psscan())
 hidden = psscan_pids - pslist_pids
 print(f"Hidden PIDs: {hidden}")
 ```
+@ref(api-reference.md)

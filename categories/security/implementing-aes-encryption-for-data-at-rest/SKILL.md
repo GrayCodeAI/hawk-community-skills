@@ -81,3 +81,6 @@ Never use raw passwords as encryption keys. Always derive keys using:
 - [ ] Nonces are never reused for the same key
 - [ ] Large files (>1GB) can be processed via streaming
 - [ ] Encrypted file format includes all necessary metadata
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

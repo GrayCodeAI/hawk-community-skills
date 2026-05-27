@@ -254,3 +254,4 @@ cat all_subdomains.txt | httpx -screenshot -o screenshots/
 4. **Missing DMARC Policy** (Medium): No DMARC record found, enabling email spoofing
 5. **Weak SPF Record** (Low): SPF uses ~all (soft fail) instead of -all (hard fail)
 ```
+@ref(api-reference.md)

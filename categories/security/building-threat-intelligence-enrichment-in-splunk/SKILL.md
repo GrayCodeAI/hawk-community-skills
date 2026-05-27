@@ -285,3 +285,6 @@ index=firewall sourcetype=pan:traffic action=allowed
 - [Splunk Lantern - Threat Intelligence Enrichment](https://lantern.splunk.com/Security/UCE/Guided_Insights/Threat_intelligence)
 - [Integrated Intelligence Enrichment - Splunk Blog](https://www.splunk.com/en_us/blog/security/integrated-intelligence-enrichment-with-threat-intelligence-management.html)
 - [Cisco Talos Threat Intelligence in Splunk](https://www.splunk.com/en_us/blog/security/cisco-talos-threat-intelligence-splunk-security.html)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

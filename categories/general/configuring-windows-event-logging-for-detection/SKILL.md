@@ -163,3 +163,6 @@ Lateral Movement Indicators:
 - **Default log size too small**: 20 MB Security log fills in minutes on busy servers. Set minimum 1 GB.
 - **Missing command line logging**: Event 4688 without command line content has minimal detection value. Always enable ProcessCreationIncludeCmdLine_Enabled.
 - **Not forwarding logs**: Local event logs are lost when endpoints are wiped by ransomware. Forward to centralized SIEM immediately.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

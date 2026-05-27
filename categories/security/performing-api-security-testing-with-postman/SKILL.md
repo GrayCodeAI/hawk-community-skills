@@ -377,3 +377,4 @@ jobs:
 4. Remove password_hash and mfa_secret from user serialization
 5. Standardize login error messages to prevent account enumeration
 ```
+@ref(api-reference.md)

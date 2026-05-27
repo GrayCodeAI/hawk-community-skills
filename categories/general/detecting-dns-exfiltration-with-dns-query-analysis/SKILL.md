@@ -419,3 +419,4 @@ index=dns sourcetype=zeek:dns
 - [Akamai DNS Data Exfiltration](https://www.akamai.com/glossary/what-is-dns-data-exfiltration)
 - [SANS Detecting DNS Tunneling](https://www.giac.org/paper/gcia/1116/detecting-dns-tunneling/108367)
 - [Fidelis DNS Tunneling Detection](https://fidelissecurity.com/threatgeek/learn/dns-tunneling-detection/)
+@ref(api-reference.md)

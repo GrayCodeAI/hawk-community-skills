@@ -149,3 +149,6 @@ Track the following for each call:
 - Social Engineering Penetration Testing by Gavin Watson (Syngress)
 - The Art of Deception by Kevin Mitnick (Wiley)
 - NIST SP 800-50: Building an Information Technology Security Awareness and Training Program
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

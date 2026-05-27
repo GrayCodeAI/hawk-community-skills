@@ -236,3 +236,6 @@ trivy sbom sbom-cyclonedx.json
 - [Trivy Operator for Kubernetes](https://aquasecurity.github.io/trivy-operator/)
 - [Aqua Security Platform](https://www.aquasec.com/products/)
 - [CycloneDX SBOM Specification](https://cyclonedx.org/specification/overview/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

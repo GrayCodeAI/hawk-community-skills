@@ -209,3 +209,6 @@ kubectl get clusterroles -o json | jq '.items[] | select(.rules[].resources[] ==
 5. **Use benchmark profiles** matching your Kubernetes distribution
 6. **Track score over time** to measure security posture improvement
 7. **Combine with admission controllers** to prevent drift
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

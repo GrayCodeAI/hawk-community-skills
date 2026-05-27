@@ -32,3 +32,4 @@ Azure AD Privileged Identity Management (PIM) enforces just-in-time privileged a
 ## Output
 
 JSON audit report with permanent vs. eligible assignment counts, over-privileged accounts, policy compliance status, and recent activation history.
+@ref(api-reference.md)

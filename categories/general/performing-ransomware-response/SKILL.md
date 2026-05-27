@@ -209,3 +209,4 @@ POST-INCIDENT ACTIONS
 4. LAPS deployed for local administrator passwords
 5. Regulatory notifications filed (GDPR 72-hour, state AG)
 ```
+@ref(api-reference.md)

@@ -35,3 +35,4 @@ Event 4672 for a standard user account receiving SeDebugPrivilege, SeTcbPrivileg
 
 ### TGT Without Corresponding AS-REQ
 A logon event (4624) with Kerberos authentication but no matching 4768 (TGT request) on the DC suggests a forged TGT.
+@ref(api-reference.md)

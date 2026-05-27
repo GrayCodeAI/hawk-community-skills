@@ -303,3 +303,6 @@ cosign verify ghcr.io/myorg/myapp:v1.0.0 \
 6. **Store keys in KMS** (AWS KMS, GCP KMS, HashiCorp Vault) for key-based signing
 7. **Verify the full chain**: signature + certificate + Rekor inclusion
 8. **Include build metadata** as annotations on signatures
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

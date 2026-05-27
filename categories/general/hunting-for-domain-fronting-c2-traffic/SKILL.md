@@ -35,3 +35,4 @@ Domain fronting (MITRE ATT&CK T1090.004) is a technique where attackers use diff
 ## Expected Output
 
 JSON report containing detected domain fronting indicators with SNI-Host pairs, certificate details, CDN provider identification, confidence scores, and MITRE ATT&CK technique mapping.
+@ref(api-reference.md)

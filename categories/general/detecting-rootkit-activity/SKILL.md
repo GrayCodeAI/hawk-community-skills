@@ -290,3 +290,4 @@ REMEDIATION
 - Verify MBR/VBR/UEFI integrity for boot persistence
 - Full system rebuild recommended for kernel-level compromise
 ```
+@ref(api-reference.md)

@@ -97,3 +97,6 @@ Audit service accounts across enterprise infrastructure to identify orphaned, ov
 - [ ] Orphaned accounts flagged for remediation
 - [ ] gMSA migration candidates identified
 - [ ] Compliance report generated
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

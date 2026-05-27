@@ -166,3 +166,4 @@ could access all 5,000 user accounts, 800 computer objects, and all data within 
 5. Implement Protected Users group for privileged accounts to prevent credential caching
 6. Deploy Microsoft Defender for Identity to detect Kerberoasting and DCSync attacks
 ```
+@ref(api-reference.md)

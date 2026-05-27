@@ -227,3 +227,6 @@ target-query -f timesketch://timesketch.local/case-001 \
 - [CISA Timesketch Resource](https://www.cisa.gov/resources-tools/services/timesketch)
 - [Hunt and Hackett: Scalable Forensics with Dissect and Timesketch](https://www.huntandhackett.com/blog/scalable-forensics-timeline-analysis-using-dissect-and-timesketch)
 - [Plaso (log2timeline) Documentation](https://plaso.readthedocs.io/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

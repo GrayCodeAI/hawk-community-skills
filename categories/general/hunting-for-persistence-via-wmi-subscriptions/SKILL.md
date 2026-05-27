@@ -122,3 +122,6 @@ Created: [Timestamp]
 User Context: [SYSTEM/User]
 Risk Level: [Critical/High/Medium/Low]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

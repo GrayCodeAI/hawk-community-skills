@@ -185,3 +185,6 @@ trivy image myapp:distroless
 - [Distroless Images - Docker Documentation](https://docs.docker.com/dhi/core-concepts/distroless/)
 - [Alpine, Distroless, or Scratch? - Google Cloud](https://medium.com/google-cloud/alpine-distroless-or-scratch-caac35250e0b)
 - [Docker Hardened Images](https://www.infoq.com/news/2025/12/docker-hardened-images/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -219,3 +219,6 @@ Produce an after-action report (AAR) within 5 business days:
 | Area | Previous Score | Current Score | Trend |
 |------|---------------|--------------|-------|
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

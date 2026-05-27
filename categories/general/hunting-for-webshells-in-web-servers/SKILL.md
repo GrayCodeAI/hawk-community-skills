@@ -33,3 +33,4 @@ Patterns matched: eval(), base64_decode(), str_rot13()
 Last modified: 2025-12-01 03:42:00 (outside business hours)
 Verdict: SUSPICIOUS - likely obfuscated webshell
 ```
+@ref(api-reference.md)

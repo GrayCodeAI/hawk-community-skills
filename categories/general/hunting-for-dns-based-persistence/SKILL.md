@@ -44,3 +44,4 @@ Correlate DNS anomalies with threat intelligence feeds, check resolution targets
 ## Expected Output
 
 JSON report listing DNS anomalies with record type, historical changes, risk severity, and remediation recommendations for each finding.
+@ref(api-reference.md)

@@ -212,3 +212,6 @@ curl -X PATCH "https://thehive.local/api/v1/case/$CASE_ID" \
 - IOC enrichment summary attached to case
 - Escalation notification to appropriate stakeholders
 - Initial timeline of events from alert data
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

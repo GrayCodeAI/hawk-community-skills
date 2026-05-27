@@ -45,3 +45,4 @@ certs = c.search("%.example.com")
 for cert in certs:
     print(f"Issuer: {cert.get('issuer_name')}, Domain: {cert.get('name_value')}")
 ```
+@ref(api-reference.md)

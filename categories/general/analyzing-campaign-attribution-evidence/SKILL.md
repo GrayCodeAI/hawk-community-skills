@@ -215,3 +215,6 @@ def generate_attribution_report(analyzer):
 - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)
 - [Analysis of Competing Hypotheses](https://www.cia.gov/static/9a5f1162fd0932c29e985f0159f56c07/Tradecraft-Primer-apr09.pdf)
 - [Threat Attribution Framework](https://www.mandiant.com/resources/reports)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

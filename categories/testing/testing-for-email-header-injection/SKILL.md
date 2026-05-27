@@ -210,3 +210,4 @@ curl -X POST http://target.com/api/send-email \
 - Use parameterized email APIs that separate headers from data
 - Implement rate limiting on email-sending functionality
 ```
+@ref(api-reference.md)

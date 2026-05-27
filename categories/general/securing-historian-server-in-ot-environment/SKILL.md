@@ -363,3 +363,4 @@ DMZ REPLICATION:
   Method: [PI-to-PI / Data Diode / VPN]
   Direction: [Unidirectional / Bidirectional]
 ```
+@ref(api-reference.md)

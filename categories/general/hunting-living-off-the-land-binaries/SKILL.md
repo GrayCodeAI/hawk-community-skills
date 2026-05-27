@@ -48,3 +48,4 @@ with evtx.Evtx("Microsoft-Windows-Sysmon.evtx") as log:
         if "certutil" in xml.lower() and "urlcache" in xml.lower():
             print(f"LOLBAS detected: {xml}")
 ```
+@ref(api-reference.md)

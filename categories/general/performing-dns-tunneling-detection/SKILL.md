@@ -52,3 +52,4 @@ for pkt in packets:
         if entropy > 4.0:
             print(f"Suspicious: {query} (entropy={entropy:.2f})")
 ```
+@ref(api-reference.md)

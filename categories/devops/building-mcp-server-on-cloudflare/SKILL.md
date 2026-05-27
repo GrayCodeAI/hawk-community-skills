@@ -262,3 +262,6 @@ id = "xxx"
 - [references/examples.md](references/examples.md) -- Official templates and production examples
 - [references/oauth-setup.md](references/oauth-setup.md) -- OAuth provider configuration
 - [references/troubleshooting.md](references/troubleshooting.md) -- Error codes and fixes
+@ref(examples.md)
+@ref(oauth-setup.md)
+@ref(troubleshooting.md)

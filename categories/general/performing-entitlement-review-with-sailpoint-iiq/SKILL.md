@@ -441,3 +441,4 @@ SIGN-OFF
 Campaign Signed:        2026-02-14 by compliance-admin
 Audit Evidence:         Exported to /reports/Q1-2026-cert-evidence.pdf
 ```
+@ref(api-reference.md)

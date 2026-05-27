@@ -76,3 +76,6 @@ Linux privilege escalation involves elevating from a low-privilege user account 
 - [ ] Root access achieved through identified vector
 - [ ] Evidence documented (screenshots, command output)
 - [ ] Alternative escalation paths identified
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

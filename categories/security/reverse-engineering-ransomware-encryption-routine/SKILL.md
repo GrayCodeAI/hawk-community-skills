@@ -259,3 +259,6 @@ def calculate_entropy(data):
 - [Halcyon Ransomware Power Rankings Q4-2024](https://www.halcyon.ai/raas-mq/power-rankings-ransomware-malicious-quartile-q4-2024)
 - [No More Ransom Project](https://www.nomoreransom.org/)
 - [MITRE ATT&CK T1486 - Data Encrypted for Impact](https://attack.mitre.org/techniques/T1486/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

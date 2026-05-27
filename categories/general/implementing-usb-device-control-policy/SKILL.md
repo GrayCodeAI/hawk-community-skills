@@ -133,3 +133,6 @@ Computer Configuration → Administrative Templates → System → Device Instal
 - **Not communicating policy to users**: USB blocks without user notification generate helpdesk tickets. Display a notification explaining the policy.
 - **Ignoring USB-C and Thunderbolt**: Modern devices use USB-C for docking, charging, and storage. Policies must distinguish between USB storage and USB peripherals.
 - **No approved device process**: Users with legitimate USB needs (presentations, field data collection) require an exception process with approved, encrypted devices.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

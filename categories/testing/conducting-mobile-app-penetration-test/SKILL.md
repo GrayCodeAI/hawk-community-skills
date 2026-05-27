@@ -189,3 +189,4 @@ and view financial data without biometric verification.
 3. Add runtime integrity checks to detect Frida and other instrumentation frameworks
 4. Implement step-up authentication for high-risk operations (transfers > threshold)
 ```
+@ref(api-reference.md)

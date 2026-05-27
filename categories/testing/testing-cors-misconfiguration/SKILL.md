@@ -328,3 +328,4 @@ The server uses regex `target\.example\.com` to validate origins, but fails to a
 4. Validate origins with exact string matching, not regex substring matching
 5. Set Access-Control-Max-Age to a reasonable value (600 seconds)
 ```
+@ref(api-reference.md)

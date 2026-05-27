@@ -38,3 +38,4 @@ Before and during ransomware execution, adversaries establish C2 channels, exfil
 - TOR exit node connection alerts
 - Data exfiltration flow analysis
 - Composite ransomware risk score with MITRE mapping (T1071, T1573, T1041)
+@ref(api-reference.md)

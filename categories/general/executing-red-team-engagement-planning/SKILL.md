@@ -121,3 +121,6 @@ Map organizational threats using MITRE ATT&CK Navigator to select relevant adver
 - conducting-adversary-simulation-with-atomic-red-team
 - performing-assumed-breach-red-team-exercise
 - building-red-team-infrastructure-with-redirectors
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

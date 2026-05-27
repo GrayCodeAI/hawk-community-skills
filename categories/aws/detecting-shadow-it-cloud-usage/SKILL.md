@@ -36,3 +36,4 @@ Shadow IT refers to unauthorized SaaS applications and cloud services used witho
 
 - JSON report listing discovered cloud services with traffic volumes, user counts, risk scores, and approval status
 - Top unauthorized services ranked by data exfiltration risk
+@ref(api-reference.md)
