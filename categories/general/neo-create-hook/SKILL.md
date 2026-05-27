@@ -52,7 +52,7 @@ For example, a `PreToolUse` hook for a Bash command receives this on stdin:
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/home/user/.claude/projects/.../transcript.jsonl",
+  "transcript_path": "/home/user/.claude/projects/.transcript.jsonl",
   "cwd": "/home/user/my-project",
   "permission_mode": "default",
   "hook_event_name": "PreToolUse",
@@ -223,7 +223,7 @@ In addition to the [common input fields](#common-input-fields), SessionStart hoo
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "SessionStart",
@@ -305,7 +305,7 @@ In addition to the [common input fields](#common-input-fields), UserPromptSubmit
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "UserPromptSubmit",
@@ -494,7 +494,7 @@ PermissionRequest hooks receive `tool_name` and `tool_input` fields like PreTool
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "PermissionRequest",
@@ -548,7 +548,7 @@ Matches on tool name, same values as PreToolUse.
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "PostToolUse",
@@ -600,7 +600,7 @@ PostToolUseFailure hooks receive the same `tool_name` and `tool_input` fields as
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "PostToolUseFailure",
@@ -677,7 +677,7 @@ In addition to the [common input fields](#common-input-fields), Notification hoo
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "Notification",
@@ -704,7 +704,7 @@ In addition to the [common input fields](#common-input-fields), SubagentStart ho
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "SubagentStart",
@@ -739,14 +739,14 @@ In addition to the [common input fields](#common-input-fields), SubagentStop hoo
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "~/.claude/projects/.../abc123.jsonl",
+  "transcript_path": "~/.claude/projects/.abc123.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "SubagentStop",
   "stop_hook_active": false,
   "agent_id": "def456",
   "agent_type": "Explore",
-  "agent_transcript_path": "~/.claude/projects/.../abc123/subagents/agent-def456.jsonl"
+  "agent_transcript_path": "~/.claude/projects/.abc123/subagents/agent-def456.jsonl"
 }
 ```
 
@@ -764,7 +764,7 @@ In addition to the [common input fields](#common-input-fields), Stop hooks recei
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "~/.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "~/.claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "Stop",
@@ -806,7 +806,7 @@ In addition to the [common input fields](#common-input-fields), PreCompact hooks
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "PreCompact",
@@ -837,7 +837,7 @@ In addition to the [common input fields](#common-input-fields), SessionEnd hooks
 ```json  theme={null}
 {
   "session_id": "abc123",
-  "transcript_path": "/Users/.../.claude/projects/.../00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
+  "transcript_path": "/Users/..claude/projects/.00893aaf-19fa-41d2-8238-13269b9b3ca0.jsonl",
   "cwd": "/Users/...",
   "permission_mode": "default",
   "hook_event_name": "SessionEnd",

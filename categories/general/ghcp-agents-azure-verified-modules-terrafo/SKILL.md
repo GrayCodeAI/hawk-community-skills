@@ -17,7 +17,7 @@ Use Azure Verified Modules for Terraform to enforce Azure best practices via pre
 
 ## Usage
 
-- **Examples**: Copy example, replace `source = "../../"` with `source = "Azure/avm-res-{service}-{resource}/azurerm"`, add `version`, set `enable_telemetry`.
+- **Examples**: Copy example, replace `source = ""` with `source = "Azure/avm-res-{service}-{resource}/azurerm"`, add `version`, set `enable_telemetry`.
 - **Custom**: Copy Provision Instructions, set inputs, pin `version`.
 
 ## Versioning

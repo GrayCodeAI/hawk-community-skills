@@ -372,7 +372,7 @@ end
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require_relative '../lib/my_mcp_server'
+require_relative 'lib/my_mcp_server'
 
 begin
   server = MyMcpServer::Server.new
@@ -397,7 +397,7 @@ chmod +x bin/mcp-server
 ```ruby
 # frozen_string_literal: true
 
-$LOAD_PATH.unshift File.expand_path('../lib', __dir__)
+$LOAD_PATH.unshift File.expand_path('lib', __dir__)
 require 'my_mcp_server'
 require 'minitest/autorun'
 ```

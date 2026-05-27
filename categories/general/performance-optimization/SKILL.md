@@ -293,8 +293,8 @@ async function getUserProfile(userId: string) {
 - **Compatible platforms**: Claude, ChatGPT, Gemini
 
 ### Related skills
-- [database-schema-design](../database-schema-design/SKILL.md)
-- [ui-components](../ui-component-patterns/SKILL.md)
+- [database-schema-design](SKILL.md)
+- [ui-components](SKILL.md)
 
 ### Tags
 `#performance` `#optimization` `#React` `#caching` `#lazy-loading` `#web-vitals` `#code-quality`

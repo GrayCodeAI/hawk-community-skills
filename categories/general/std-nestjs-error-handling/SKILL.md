@@ -20,7 +20,7 @@ keywords: None
  - `const { httpAdapter } = this.httpAdapterHost;`
 - **Structure**:
  - Implement strictly typed error responses.
- - Refer to **[API Standards](../nestjs-api-standards/SKILL.md)** for `ApiErrorResponse`.
+ - Refer to **[API Standards](SKILL.md)** for `ApiErrorResponse`.
 
  ```json
   {

@@ -167,7 +167,7 @@ If the framework is not detected:
 - **Source**: vercel/agent-skills
 
 ### Related Skills
-- [deployment-automation](../deployment-automation/SKILL.md): CI/CD and Docker/K8s deployments
+- [deployment-automation](SKILL.md): CI/CD and Docker/K8s deployments
 
 ### Tags
 `#deployment` `#vercel` `#preview` `#production` `#hosting` `#serverless` `#infrastructure`

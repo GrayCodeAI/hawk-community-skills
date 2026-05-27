@@ -172,7 +172,7 @@ export abstract class AggregateRoot<T> extends Entity<T> {
 ### Task Entity
 ```typescript
 // src$core$domains$task-management$entities$task.entity.ts
-import { AggregateRoot } from '../../..$shared$domain$aggregate-root';
+import { AggregateRoot } from '..$shared$domain$aggregate-root';
 import { TaskId } from '..$value-objects$task-id.vo';
 import { TaskStatus } from '..$value-objects$task-status.vo';
 import { Priority } from '..$value-objects$priority.vo';
@@ -336,7 +336,7 @@ export class Priority extends ValueObject<PriorityLevel> {
 ### Task Scheduling Service
 ```typescript
 // src$core$domains$task-management$services$task-scheduling.service.ts
-import { Injectable } from '../../..$shared$infrastructure$dependency-container';
+import { Injectable } from '..$shared$infrastructure$dependency-container';
 import { Task } from '..$entities$task.entity';
 import { Priority } from '..$value-objects$priority.vo';
 

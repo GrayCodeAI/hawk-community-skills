@@ -177,5 +177,5 @@ export const clerkOptions = {
 
 - Use lazy loading for auth components. Example:
 ```typescript
-const UserProfile = import('../components/UserProfile.svelte')
+const UserProfile = import('components/UserProfile.svelte')
 ```

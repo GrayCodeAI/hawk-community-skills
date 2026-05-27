@@ -25,5 +25,5 @@ version: 1.0
 
 - [Google Search Central](https://developers.google.com/search)
 - [Schema.org](https://schema.org/)
-- [Core Web Vitals](../core-web-vitals/SKILL.md)
-- [Web Quality Audit](../web-quality-audit/SKILL.md)
+- [Core Web Vitals](SKILL.md)
+- [Web Quality Audit](SKILL.md)

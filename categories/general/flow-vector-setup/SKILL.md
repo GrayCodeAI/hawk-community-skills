@@ -19,7 +19,7 @@ Out of the box, several `/vector` subcommands fail with a confusing dep error:
 |-------|-----------------|
 | `ONNX WASM files not bundled. The onnx/ directory is missing.` | `ruvector-onnx-embeddings-wasm` |
 | `Brain commands require @ruvector/pi-brain` | `@ruvector/pi-brain` |
-| `SONA not available. Native error: Cannot find module '/.../@ruvector/sona/index.js'` | `@ruvector/ruvllm` (JS fallback) |
+| `SONA not available. Native error: Cannot find module '/.@ruvector/sona/index.js'` | `@ruvector/ruvllm` (JS fallback) |
 | `LLM commands require @ruvector/ruvllm` | `@ruvector/ruvllm` |
 
 This skill installs them in one pass.

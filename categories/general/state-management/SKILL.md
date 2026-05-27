@@ -373,8 +373,8 @@ function App() {
 
 // components/TodoList.tsx
 import { useSelector, useDispatch } from 'react-redux';
-import { RootState } from '../store';
-import { toggleTodo, removeTodo } from '../store/todosSlice';
+import { RootState } from 'store';
+import { toggleTodo, removeTodo } from 'store/todosSlice';
 
 function TodoList() {
   const todos = useSelector((state: RootState) => state.todos.items);
@@ -537,8 +537,8 @@ Recommended tools by scenario:
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [ui-component-patterns](../ui-component-patterns/SKILL.md): Component and state integration
-- [backend-testing](../../backend/backend-testing/SKILL.md): Testing state logic
+- [ui-component-patterns](SKILL.md): Component and state integration
+- [backend-testing](SKILL.md): Testing state logic
 
 ### Tags
 `#state-management` `#React` `#Redux` `#Zustand` `#Context` `#global-state` `#frontend`

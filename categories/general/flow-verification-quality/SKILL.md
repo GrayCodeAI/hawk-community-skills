@@ -24,7 +24,7 @@ This skill provides a comprehensive verification and quality assurance system th
 
 ## CI Guards — what's actually shipped (current state)
 
-Ruflo's regression protection is three layers, all gated before publish. Authoritative reference: [`verification/README.md`](../../../verification/README.md).
+Ruflo's regression protection is three layers, all gated before publish. Authoritative reference: [`verification/README.md`](README.md).
 
 | Layer | What | CI job(s) in `.github/workflows/v3-ci.yml` | ADR |
 |---|---|---|---|

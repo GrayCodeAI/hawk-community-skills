@@ -21,14 +21,14 @@ The cs-demand-gen-specialist agent bridges the gap between marketing strategy an
 
 ## Skill Integration
 
-**Skill Location:** `../../marketing-skill/marketing-demand-acquisition/`
+**Skill Location:** `marketing-skill/marketing-demand-acquisition/`
 
 ### Python Tools
 
 1. **CAC Calculator**
    - **Purpose:** Calculates Customer Acquisition Cost (CAC) across channels and campaigns
-   - **Path:** `../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py`
-   - **Usage:** `python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py campaign-spend.csv customer-data.csv`
+   - **Path:** `marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py`
+   - **Usage:** `python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py campaign-spend.csv customer-data.csv`
    - **Features:** CAC calculation by channel, LTV:CAC ratio, payback period analysis, ROI metrics
    - **Use Cases:** Budget allocation, channel performance evaluation, campaign ROI analysis
 
@@ -37,22 +37,22 @@ The cs-demand-gen-specialist agent bridges the gap between marketing strategy an
 ### Knowledge Bases
 
 1. **Attribution Guide**
-   - **Location:** `../../marketing-skill/marketing-demand-acquisition/references/attribution-guide.md`
+   - **Location:** `marketing-skill/marketing-demand-acquisition/references/attribution-guide.md`
    - **Content:** Marketing attribution models, channel attribution, ROI measurement frameworks
    - **Use Case:** Campaign attribution, channel performance analysis, budget justification
 
 2. **Campaign Templates**
-   - **Location:** `../../marketing-skill/marketing-demand-acquisition/references/campaign-templates.md`
+   - **Location:** `marketing-skill/marketing-demand-acquisition/references/campaign-templates.md`
    - **Content:** Reusable campaign structures, launch checklists, multi-channel campaign blueprints
    - **Use Case:** Campaign planning, rapid campaign setup, standardized launch processes
 
 3. **HubSpot Workflows**
-   - **Location:** `../../marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md`
+   - **Location:** `marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md`
    - **Content:** HubSpot automation workflows, lead nurturing sequences, CRM integration patterns
    - **Use Case:** Marketing automation, lead scoring, nurture campaign setup
 
 4. **International Playbooks**
-   - **Location:** `../../marketing-skill/marketing-demand-acquisition/references/international-playbooks.md`
+   - **Location:** `marketing-skill/marketing-demand-acquisition/references/international-playbooks.md`
    - **Content:** International market expansion strategies, localization best practices, regional channel optimization
    - **Use Case:** Global campaign planning, market entry strategy, cross-border demand generation
 
@@ -70,19 +70,19 @@ No asset templates currently available — use campaign-templates.md reference f
 1. **Define Campaign Goals** - Set targets for leads, MQLs, SQLs, conversion rates
 2. **Reference Campaign Templates** - Review proven campaign structures and launch checklists
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
+   cat marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
    ```
 3. **Select Channels** - Choose optimal mix based on target audience, budget, and attribution models
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
+   cat marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
    ```
 4. **Set Up Automation** - Configure HubSpot workflows for lead nurturing
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md
+   cat marketing-skill/marketing-demand-acquisition/references/hubspot-workflows.md
    ```
 5. **Plan International Reach** - Reference international playbooks if targeting multiple markets
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/international-playbooks.md
+   cat marketing-skill/marketing-demand-acquisition/references/international-playbooks.md
    ```
 6. **Launch and Monitor** - Deploy campaigns, track metrics, collect data
 
@@ -98,11 +98,11 @@ No asset templates currently available — use campaign-templates.md reference f
 1. **Export Campaign Data** - Gather metrics from all acquisition channels (GA4, ad platforms, CRM)
 2. **Calculate Channel CAC** - Run CAC calculator to analyze cost efficiency
    ```bash
-   python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py campaign-spend.csv conversions.csv
+   python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py campaign-spend.csv conversions.csv
    ```
 3. **Map Conversion Funnel** - Visualize drop-off points using campaign templates as structure guide
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
+   cat marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
    ```
 4. **Identify Bottlenecks** - Analyze conversion rates at each funnel stage:
    - Awareness → Interest (CTR)
@@ -111,12 +111,12 @@ No asset templates currently available — use campaign-templates.md reference f
    - Intent → Purchase/MQL (qualification rate)
 5. **Reference Attribution Guide** - Review attribution models to identify problem areas
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
+   cat marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
    ```
 6. **Implement A/B Tests** - Test hypotheses for improvement
 7. **Re-calculate CAC Post-Optimization** - Measure cost efficiency improvements
    ```bash
-   python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py post-optimization-spend.csv post-optimization-conversions.csv
+   python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py post-optimization-spend.csv post-optimization-conversions.csv
    ```
 
 **Expected Output:** 15-30% reduction in CAC and improved LTV:CAC ratio
@@ -126,7 +126,7 @@ No asset templates currently available — use campaign-templates.md reference f
 **Example:**
 ```bash
 # Complete CAC analysis workflow
-python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py q3-spend.csv q3-conversions.csv > cac-report.txt
+python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py q3-spend.csv q3-conversions.csv > cac-report.txt
 cat cac-report.txt
 # Review metrics and optimize high-CAC channels
 ```
@@ -144,11 +144,11 @@ cat cac-report.txt
    - Email Campaigns (open rate, click rate, conversions)
 2. **Run CAC Comparison** - Calculate and compare CAC across all channels
    ```bash
-   python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py channel-spend.csv channel-conversions.csv
+   python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py channel-spend.csv channel-conversions.csv
    ```
 3. **Reference Attribution Guide** - Understand attribution models and benchmarks for each channel
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
+   cat marketing-skill/marketing-demand-acquisition/references/attribution-guide.md
    ```
 4. **Calculate Key Metrics:**
    - CAC (Customer Acquisition Cost) by channel
@@ -170,7 +170,7 @@ cat cac-report.txt
 1. **Define Lead Magnet** - Choose format: ebook, webinar, template, assessment, free trial
 2. **Reference Campaign Templates** - Review lead capture and campaign structure best practices
    ```bash
-   cat ../../marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
+   cat marketing-skill/marketing-demand-acquisition/references/campaign-templates.md
    ```
 3. **Create Landing Page** - Design high-converting landing page with:
    - Clear value proposition
@@ -186,7 +186,7 @@ cat cac-report.txt
 6. **Monitor and Optimize** - Track CAC and conversion metrics
    ```bash
    # Weekly CAC analysis
-   python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py lead-magnet-spend.csv lead-magnet-conversions.csv
+   python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py lead-magnet-spend.csv lead-magnet-conversions.csv
    ```
 
 **Expected Output:** Lead magnet campaign generating 100-500 leads with 25-40% conversion rate
@@ -207,7 +207,7 @@ echo "📊 Demand Gen Dashboard - $DATE"
 echo "========================================"
 
 # Calculate yesterday's CAC by channel
-python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
+python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
   daily-spend.csv daily-conversions.csv
 
 echo ""
@@ -223,7 +223,7 @@ cat optimization-priorities.txt
 
 ```bash
 # Generate weekly CAC report for stakeholders
-python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
+python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
   weekly-spend.csv weekly-conversions.csv > weekly-cac-report.txt
 
 # Email to stakeholders
@@ -235,7 +235,7 @@ echo "Weekly CAC analysis report attached." | \
 
 ```bash
 # Monitor CAC in real-time (run daily via cron)
-CAC_RESULT=$(python ../../marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
+CAC_RESULT=$(python marketing-skill/marketing-demand-acquisition/scripts/calculate_cac.py \
   daily-spend.csv daily-conversions.csv | grep "Average CAC" | awk '{print $3}')
 
 CAC_THRESHOLD=50
@@ -279,10 +279,10 @@ fi
 
 ## References
 
-- **Skill Documentation:** [../../marketing-skill/marketing-demand-acquisition/SKILL.md](../../marketing-skill/marketing-demand-acquisition/SKILL.md)
-- **Marketing Domain Guide:** [../../marketing-skill/CLAUDE.md](../../marketing-skill/CLAUDE.md)
-- **Agent Development Guide:** [../CLAUDE.md](../CLAUDE.md)
-- **Marketing Roadmap:** [../../marketing-skill/marketing_skills_roadmap.md](../../marketing-skill/marketing_skills_roadmap.md)
+- **Skill Documentation:** [marketing-skill/marketing-demand-acquisition/SKILL.md](SKILL.md)
+- **Marketing Domain Guide:** [marketing-skill/CLAUDE.md](CLAUDE.md)
+- **Agent Development Guide:** [CLAUDE.md](CLAUDE.md)
+- **Marketing Roadmap:** [marketing-skill/marketing_skills_roadmap.md](marketing_skills_roadmap.md)
 
 ---
 

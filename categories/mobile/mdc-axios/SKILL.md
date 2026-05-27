@@ -77,7 +77,7 @@ export const createUser = async (userData) => {
 
 // src/components/UserList.jsx
 import React, { useEffect, useState } from 'react';
-import { getUsers } from '../api/users'; // Import specific API functions
+import { getUsers } from 'api/users'; // Import specific API functions
 
 function UserList() {
   const [users, setUsers] = useState([]);
@@ -199,7 +199,7 @@ source.cancel('Operation cancelled.');
 ```javascript
 // src/components/DataFetcher.jsx
 import React, { useEffect, useState } from 'react';
-import apiClient from '../api/apiClient';
+import apiClient from 'api/apiClient';
 import axios from 'axios'; // Import axios to use axios.isCancel
 
 function DataFetcher() {
@@ -256,7 +256,7 @@ const handleSubmit = async (formData) => {
 
 ✅ GOOD: Client-side validation
 ```javascript
-import { createUser } from '../api/users';
+import { createUser } from 'api/users';
 
 const handleSubmit = async (formData) => {
   if (!formData.name || formData.name.length < 3) {
@@ -297,7 +297,7 @@ export interface CreateUserPayload {
 
 // src/api/users.ts (example with TypeScript)
 import apiClient from './apiClient';
-import { User, CreateUserPayload } from '../types/api';
+import { User, CreateUserPayload } from 'types/api';
 
 export const getUsers = async (): Promise<User[]> => {
   const response = await apiClient.get<User[]>('/users');

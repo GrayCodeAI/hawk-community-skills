@@ -106,7 +106,7 @@ function App() {
 ❌ **BAD:** Imperative data fetching in components
 
 ```javascript
-import { client } from '../apolloClient';
+import { client } from 'apolloClient';
 
 function MyComponent() {
   const [data, setData] = useState(null);
@@ -256,7 +256,7 @@ module.exports = {
 // }
 
 // src/components/UserList.tsx
-import { useGetUsersQuery } from '../generated/graphql'; // Generated hook
+import { useGetUsersQuery } from 'generated/graphql'; // Generated hook
 
 function UserList({ limit }) {
   const { loading, error, data } = useGetUsersQuery({ variables: { limit } });
@@ -412,7 +412,7 @@ test('renders user list', async () => {
     </MockedProvider>
   );
 
-  expect(screen.getByText(/loading users.../i)).toBeInTheDocument();
+  expect(screen.getByText(/loading users.i)).toBeInTheDocument();
 
   await waitFor(() => {
     expect(screen.getByText('Alice')).toBeInTheDocument();

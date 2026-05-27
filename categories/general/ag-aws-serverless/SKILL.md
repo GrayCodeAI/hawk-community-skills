@@ -244,7 +244,7 @@ Outputs:
 
 ```javascript
 // src/handlers/get.js
-const { getItem } = require('../lib/dynamodb');
+const { getItem } = require('lib/dynamodb');
 
 exports.handler = async (event) => {
   const id = event.pathParameters?.id;

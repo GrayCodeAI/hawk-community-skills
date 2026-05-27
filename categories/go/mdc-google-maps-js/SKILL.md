@@ -70,7 +70,7 @@ export function useGoogleMap(mapContainerRef, options) {
 
 // components/MyMapComponent.jsx
 import React, { useRef, useEffect } from 'react';
-import { useGoogleMap } from '../hooks/useGoogleMap';
+import { useGoogleMap } from 'hooks/useGoogleMap';
 
 export function MyMapComponent() {
   const mapRef = useRef(null);

@@ -59,7 +59,7 @@ export const queryClient = new QueryClient({
 ```typescript
 // src/hooks/useUsers.ts
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
-import { sql } from '../lib/db';
+import { sql } from 'lib/db';
 
 interface User {
   id: number;
@@ -157,7 +157,7 @@ export function useDeleteUser() {
 ```typescript
 // src/components/UserList.tsx
 import { useState } from 'react';
-import { useUsers, useCreateUser, useUpdateUser, useDeleteUser } from '../hooks/useUsers';
+import { useUsers, useCreateUser, useUpdateUser, useDeleteUser } from 'hooks/useUsers';
 
 export function UserList() {
   const [newUser, setNewUser] = useState({ name: '', email: '' });
@@ -222,7 +222,7 @@ export function UserList() {
 ```typescript
 // src/hooks/useInfiniteUsers.ts
 import { useInfiniteQuery } from '@tanstack/react-query';
-import { sql } from '../lib/db';
+import { sql } from 'lib/db';
 
 const PAGE_SIZE = 10;
 

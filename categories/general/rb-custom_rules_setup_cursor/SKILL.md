@@ -38,5 +38,5 @@ Rule Examples
 - Use Tailwind CSS
 - Follow team's style guide
 
-@file ../tsconfig.json
-@file ../tailwind.config.js
+@file tsconfig.json
+@file tailwind.config.js

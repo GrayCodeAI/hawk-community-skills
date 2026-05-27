@@ -1363,7 +1363,7 @@ mkdir generators
 cmake --install build --prefix generators --component generators
 
 # Configure and build for WebAssembly
-source ../emsdk/emsdk_env
+source emsdk/emsdk_env
 emcmake cmake -DSLANG_GENERATORS_PATH=generators/bin --preset emscripten -G "Ninja"
 cmake --build --preset emscripten --target slang-wasm
 ```

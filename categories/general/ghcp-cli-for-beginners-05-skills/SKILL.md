@@ -14,7 +14,7 @@ lastUpdated: 2026-03-20
 
 Skills extend what Copilot can do with auto-loaded instructions. But what about connecting to external services? That's where MCP comes in.
 
-In **[Chapter 06: MCP Servers](../06-mcp-servers/)**, you'll learn:
+In **[Chapter 06: MCP Servers]()**, you'll learn:
 
 - What MCP (Model Context Protocol) is
 - Connecting to GitHub, filesystem, and documentation services

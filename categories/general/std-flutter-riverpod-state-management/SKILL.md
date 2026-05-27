@@ -50,6 +50,6 @@ Use `ConsumerWidget` with `ref.watch()` and `AsyncValue.when()` for reactive UI.
 
 ## Related Topics
 
-- [flutter-layer-based-clean-architecture](../flutter-layer-based-clean-architecture/SKILL.md)
-- [flutter-dependency-injection](../flutter-dependency-injection/SKILL.md)
-- [flutter-testing](../flutter-testing/SKILL.md)
+- [flutter-layer-based-clean-architecture](SKILL.md)
+- [flutter-dependency-injection](SKILL.md)
+- [flutter-testing](SKILL.md)

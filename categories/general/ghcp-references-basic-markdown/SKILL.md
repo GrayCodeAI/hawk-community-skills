@@ -178,7 +178,7 @@ A relative link is a link that is relative to the current file. For example, if 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ```
 
-GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. The path of the link will be relative to the current file. Links starting with `/` will be relative to the repository root. You can use all relative link operands, such as `./` and `../`.
+GitHub will automatically transform your relative link or image path based on whatever branch you're currently on, so that the link or path always works. The path of the link will be relative to the current file. Links starting with `/` will be relative to the repository root. You can use all relative link operands, such as `./` and ``.
 
 Your link text should be on a single line. The example below will not work.
 
@@ -273,10 +273,10 @@ Here are some examples for using relative links to display an image.
 | Context                                                     | Relative Link                                                          |
 | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
 | In a `.md` file on the same branch                          | `/assets/images/electrocat.png`                                        |
-| In a `.md` file on another branch                           | `/../main/assets/images/electrocat.png`                                |
-| In issues, pull requests and comments of the repository     | `../blob/main/assets/images/electrocat.png?raw=true`                   |
-| In a `.md` file in another repository                       | `/../../../../github/docs/blob/main/assets/images/electrocat.png`      |
-| In issues, pull requests and comments of another repository | `../../../github/docs/blob/main/assets/images/electrocat.png?raw=true` |
+| In a `.md` file on another branch                           | `/main/assets/images/electrocat.png`                                |
+| In issues, pull requests and comments of the repository     | `blob/main/assets/images/electrocat.png?raw=true`                   |
+| In a `.md` file in another repository                       | `/github/docs/blob/main/assets/images/electrocat.png`      |
+| In issues, pull requests and comments of another repository | `github/docs/blob/main/assets/images/electrocat.png?raw=true` |
 
 > \[!NOTE]
 > The last two relative links in the table above will work for images in a private repository only if the viewer has at least read access to the private repository that contains these images.

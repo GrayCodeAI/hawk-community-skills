@@ -391,8 +391,8 @@ A: Use user-level settings in your IDE for personal preferences that should appl
 
 Now that you understand Copilot configuration, explore how to create powerful customizations:
 
-- **[What are Agents, Skills, and Instructions](../what-are-agents-skills-instructions/)** - Understand the customization types you can configure
-- **[Understanding Copilot Context](../understanding-copilot-context/)** - Learn how configuration affects context usage
-- **[Defining Custom Instructions](../defining-custom-instructions/)** - Create persistent context for your projects
-- **[Creating Effective Skills](../creating-effective-skills/)** - Build reusable task folders with bundled assets
-- **[Building Custom Agents](../building-custom-agents/)** - Develop specialized assistants
+- **[What are Agents, Skills, and Instructions]()** - Understand the customization types you can configure
+- **[Understanding Copilot Context]()** - Learn how configuration affects context usage
+- **[Defining Custom Instructions]()** - Create persistent context for your projects
+- **[Creating Effective Skills]()** - Build reusable task folders with bundled assets
+- **[Building Custom Agents]()** - Develop specialized assistants

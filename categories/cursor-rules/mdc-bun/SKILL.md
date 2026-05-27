@@ -306,7 +306,7 @@ Use `bun test` as your primary test runner. Write focused unit tests and broader
 ```javascript
 // tests/userService.test.js
 import { expect, test, describe, beforeEach } from 'bun:test';
-import { UserService } from '../src/services/userService';
+import { UserService } from 'src/services/userService';
 
 describe('UserService', () => {
   let userService;

@@ -192,7 +192,7 @@ output "vpc_cidr_block" {
 
 ```hcl
 module "vpc" {
-  source = "../../modules/aws/vpc"
+  source = "modules/aws/vpc"
 
   name               = "production"
   cidr_block         = "10.0.0.0/16"
@@ -211,7 +211,7 @@ module "vpc" {
 }
 
 module "rds" {
-  source = "../../modules/aws/rds"
+  source = "modules/aws/rds"
 
   identifier     = "production-db"
   engine         = "postgres"
@@ -249,7 +249,7 @@ import (
 
 func TestVPCModule(t *testing.T) {
     terraformOptions := &terraform.Options{
-        TerraformDir: "../examples/complete",
+        TerraformDir: "examples/complete",
     }
 
     defer terraform.Destroy(t, terraformOptions)

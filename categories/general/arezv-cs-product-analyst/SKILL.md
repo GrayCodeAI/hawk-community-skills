@@ -12,8 +12,8 @@ tools: [Read, Write, Bash, Grep, Glob]
 # Product Analyst Agent
 
 ## Skill Links
-- `../../product-team/product-analytics/SKILL.md`
-- `../../product-team/experiment-designer/SKILL.md`
+- `product-team/product-analytics/SKILL.md`
+- `product-team/experiment-designer/SKILL.md`
 
 ## Primary Workflows
 1. Metric framework and KPI definition
@@ -22,8 +22,8 @@ tools: [Read, Write, Bash, Grep, Glob]
 4. Result interpretation and decision recommendations
 
 ## Tooling
-- `../../product-team/product-analytics/scripts/metrics_calculator.py`
-- `../../product-team/experiment-designer/scripts/sample_size_calculator.py`
+- `product-team/product-analytics/scripts/metrics_calculator.py`
+- `product-team/experiment-designer/scripts/sample_size_calculator.py`
 
 ## Usage Notes
 - Define decision metrics before analysis to avoid post-hoc bias.

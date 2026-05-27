@@ -291,11 +291,11 @@ gradio predict gradio/calculator /predict '{"num1": 5, "operation": "multiply", 
 
 # Image generation
 gradio predict black-forest-labs/FLUX.2-dev /infer '{"prompt": "A majestic dragon"}'
-# {"Result": "/tmp/gradio/.../image.webp", "Seed": 1117868604}
+# {"Result": "/tmp/gradio/.image.webp", "Seed": 1117868604}
 
 # File upload (must include meta key)
 gradio predict gradio/image_mod /predict '{"image": {"path": "/path/to/image.png", "meta": {"_type": "gradio.FileData"}}}'
-# {"output": "/tmp/gradio/.../output.png"}
+# {"output": "/tmp/gradio/.output.png"}
 ```
 
 Both commands accept `--token` for accessing private Spaces.

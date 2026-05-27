@@ -557,7 +557,7 @@ Convex does not have an official Angular client library, but Angular apps can us
 // services/convex.service.ts
 import { Injectable, signal, effect, OnDestroy } from "@angular/core";
 import { ConvexClient } from "convex/browser";
-import { api } from "../../convex/_generated/api";
+import { api } from "convex/_generated/api";
 import { FunctionReturnType } from "convex/server";
 
 @Injectable({ providedIn: "root" })

@@ -117,7 +117,7 @@ export const createPost = createServerFn()
 ```tsx
 // src/routes/posts/$postId.tsx
 import { createFileRoute } from '@tanstack/react-router'
-import { getPost } from '../../server/functions/posts'
+import { getPost } from 'server/functions/posts'
 
 export const Route = createFileRoute('/posts/$postId')({
   loader: ({ params }) => getPost({ data: { id: params.postId } }),
@@ -134,7 +134,7 @@ function PostDetail() {
 - Call server functions directly in event handlers or via TanStack Query mutations
 ```tsx
 import { useMutation, useQueryClient } from '@tanstack/react-query'
-import { createPost } from '../../server/functions/posts'
+import { createPost } from 'server/functions/posts'
 
 function CreatePostForm() {
   const queryClient = useQueryClient()

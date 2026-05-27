@@ -17,7 +17,7 @@ Wraps `getTokenOptimizer().getCompactContext()` from `@claude-flow/integration` 
 2. **Invoke** — run from anywhere under `v3/` so `@claude-flow/integration` resolves:
 
    ```bash
-   ( cd v3 && node ../plugins/ruflo-cost-tracker/scripts/compact.mjs "<QUERY>" )
+   ( cd v3 && node plugins/ruflo-cost-tracker/scripts/compact.mjs "<QUERY>" )
    ```
 
    The script imports `@claude-flow/integration/token-optimizer` (canonical export — **not** `dist/token-optimizer.js`, which would double the `.js` extension via Node's `./*` exports rule), calls `getCompactContext(query)`, and prints a markdown summary plus a JSON line via `COMPACT_QUIET=1`.

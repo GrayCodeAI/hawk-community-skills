@@ -143,4 +143,4 @@ async function uploadWithErrorHandling(url: string, file: File) {
 
 ## See Also
 
-- [workers](../workers/) - Deploy Stream APIs securely
+- [workers]() - Deploy Stream APIs securely

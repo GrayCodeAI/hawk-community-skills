@@ -687,8 +687,8 @@ CREATE INDEX idx_order_items_product_id ON order_items(product_id);
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [api-design](../api-design/SKILL.md): Schema design alongside API design
-- [performance-optimization](../../code-quality/performance-optimization/SKILL.md): Query performance optimization
+- [api-design](SKILL.md): Schema design alongside API design
+- [performance-optimization](SKILL.md): Query performance optimization
 
 ### Tags
 `#database` `#schema` `#PostgreSQL` `#MySQL` `#MongoDB` `#SQL` `#NoSQL` `#migration` `#ERD`

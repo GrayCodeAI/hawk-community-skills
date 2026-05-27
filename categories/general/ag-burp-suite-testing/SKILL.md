@@ -287,7 +287,7 @@ Review attack output:
 javascript:alert(1)
 
 # Path Traversal
-../../../etc/passwd
+etc/passwd
 ..\..\..\..\windows\win.ini
 
 # Command Injection

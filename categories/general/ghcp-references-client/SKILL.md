@@ -27,7 +27,7 @@ using ModelContextProtocol.Client;
 var transport = new StdioClientTransport(new StdioClientTransportOptions
 {
     Command = "dotnet",
-    Arguments = ["run", "--project", "../MyMcpServer"],
+    Arguments = ["run", "--project", "MyMcpServer"],
     EnvironmentVariables = new() { ["MY_API_KEY"] = "..." },
     ShutdownTimeout = TimeSpan.FromSeconds(10),
     StandardErrorLines = line => Console.Error.WriteLine($"[server] {line}")

@@ -110,24 +110,24 @@ The General Counsel lens. Six questions before any contract, term sheet, IP move
 
 ## Workflow Integration with `general-counsel-advisor` skill
 
-Since v2.5.1, this command is backed by a full skill at `../../../skills/general-counsel-advisor/` with two Python tools:
+Since v2.5.1, this command is backed by a full skill at `skills/general-counsel-advisor/` with two Python tools:
 
 ```bash
 # Automated contract scan (12 founder-killer patterns)
-python ../../../skills/general-counsel-advisor/scripts/contract_risk_scanner.py path/to/contract.txt
+python skills/general-counsel-advisor/scripts/contract_risk_scanner.py path/to/contract.txt
 
 # Term sheet scoring (0-100 founder-friendliness)
-python ../../../skills/general-counsel-advisor/scripts/term_sheet_analyzer.py path/to/term_sheet.json
+python skills/general-counsel-advisor/scripts/term_sheet_analyzer.py path/to/term_sheet.json
 ```
 
 The `cs-general-counsel-advisor` agent orchestrates both tools plus 3 references (contracts playbook, IP + regulatory, term sheet decoder).
 
 ## Related
 
-- Skill: [`general-counsel-advisor`](../../../skills/general-counsel-advisor/SKILL.md) — full skill with Python tools + references
-- Agent: [`cs-general-counsel-advisor`](../../agents/cs-general-counsel-advisor.md)
-- Compliance execution: `../../../../ra-qm-team/`
-- Adjacent: `../../../skills/ma-playbook/`
+- Skill: [`general-counsel-advisor`](SKILL.md) — full skill with Python tools + references
+- Agent: [`cs-general-counsel-advisor`](cs-general-counsel-advisor.md)
+- Compliance execution: `ra-qm-team/`
+- Adjacent: `skills/ma-playbook/`
 
 ---
 

@@ -33,7 +33,7 @@ reader.close()
 | Type | Example Pattern | Severity |
 |------|----------------|----------|
 | SQLi | `UNION SELECT`, `OR 1=1`, `SLEEP()` | Critical |
-| LFI | `../../etc/passwd`, `php://filter` | High |
+| LFI | `etc/passwd`, `php://filter` | High |
 | XSS | `<script>`, `onerror=`, `javascript:` | High |
 | Scanner | User-Agent: nikto, sqlmap, gobuster | Medium |
 | Brute Force | >50 POST /login from same IP | High |

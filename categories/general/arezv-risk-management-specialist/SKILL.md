@@ -12,7 +12,7 @@ tags:
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [quality-manager-qms-iso13485](../quality-manager-qms-iso13485/) | QMS integration |
-| [capa-officer](../capa-officer/) | Risk-based CAPA |
-| [regulatory-affairs-head](../regulatory-affairs-head/) | Regulatory submissions |
-| [quality-documentation-manager](../quality-documentation-manager/) | Risk file management |
+| [quality-manager-qms-iso13485]() | QMS integration |
+| [capa-officer]() | Risk-based CAPA |
+| [regulatory-affairs-head]() | Regulatory submissions |
+| [quality-documentation-manager]() | Risk file management |

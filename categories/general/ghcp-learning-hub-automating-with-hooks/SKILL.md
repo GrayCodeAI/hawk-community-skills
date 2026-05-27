@@ -443,12 +443,12 @@ A: Yes. Hooks for the same event run in the order they appear in the array. If a
 
 **Q: Do hooks work with the Copilot coding agent?**
 
-A: Yes. Hooks are especially valuable with the coding agent because they provide deterministic guardrails for autonomous operations. See [Using the Copilot Coding Agent](../using-copilot-coding-agent/) for details.
+A: Yes. Hooks are especially valuable with the coding agent because they provide deterministic guardrails for autonomous operations. See [Using the Copilot Coding Agent]() for details.
 
 ## Next Steps
 
-- **Explore Examples**: Browse the [Hooks Directory](../../hooks/) for ready-to-use hook configurations
-- **Build Agents**: [Building Custom Agents](../building-custom-agents/) — Create agents that complement hooks
-- **Automate Further**: [Using the Copilot Coding Agent](../using-copilot-coding-agent/) — Run hooks in autonomous agent sessions
+- **Explore Examples**: Browse the [Hooks Directory]() for ready-to-use hook configurations
+- **Build Agents**: [Building Custom Agents]() — Create agents that complement hooks
+- **Automate Further**: [Using the Copilot Coding Agent]() — Run hooks in autonomous agent sessions
 
 ---

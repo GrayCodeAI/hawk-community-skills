@@ -33,7 +33,7 @@ Use this workflow when the input is a component source path or the user asks to 
 
 ## Create-specific output guidance
 
-- Use the full section structure from `../assets/documentation-template.md`.
+- Use the full section structure from `assets/documentation-template.md`.
 - Write the introduction as a fresh overview of what the component does and why it exists.
 - Prefer complete sections over placeholders; if information is unavailable, mark the section with a short limitation note instead of leaving template text behind.
 - Include change history or migration notes only if there is evidence of prior versions or migration concerns in the code or repository history.

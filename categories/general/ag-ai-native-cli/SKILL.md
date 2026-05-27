@@ -128,7 +128,7 @@ Goal: CLI is a stable, callable API. Agent can invoke, parse, and handle errors.
 
 **Safety** -- protect against agent mistakes
 - `[P1]` S1: Destructive ops require `--yes` confirmation
-- `[P1]` S4: Reject `../../` path traversal, control chars
+- `[P1]` S4: Reject `` path traversal, control chars
 
 **Guardrails** -- runtime input protection
 - `[P1]` G1: Unknown flags rejected with exit 2

@@ -302,7 +302,7 @@ my-app/
 **Usage**:
 ```typescript
 // ❌ Bad example
-import { Button } from '../../../components/ui/Button';
+import { Button } from 'components/ui/Button';
 
 // ✅ Good example
 import { Button } from '@/components/ui';

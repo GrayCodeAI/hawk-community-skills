@@ -183,13 +183,13 @@ git reset --hard HEAD@{2}
 ### Worktrees (Multiple Working Directories)
 ```bash
 # Create worktree for feature branch
-git worktree add ../feature-branch feature/new-ui
+git worktree add feature-branch feature/new-ui
 
 # List worktrees
 git worktree list
 
 # Remove worktree
-git worktree remove ../feature-branch
+git worktree remove feature-branch
 ```
 
 ## Hooks

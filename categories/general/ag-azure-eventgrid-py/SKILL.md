@@ -113,7 +113,7 @@ event = EventGridEvent(
     event_type="MyApp.ItemCreated",        # Required: event type
     data={"key": "value"},                 # Required: event payload
     data_version="1.0",                    # Required: schema version
-    topic="/subscriptions/.../topics/...", # Optional: auto-set
+    topic="/subscriptions/.topics/...", # Optional: auto-set
     event_time=datetime.now(timezone.utc)  # Optional: timestamp
 )
 ```

@@ -80,7 +80,7 @@ export async function createPost(formData: FormData) {
 
 ```tsx
 // app/posts/new/page.tsx
-import { createPost } from '../actions';
+import { createPost } from 'actions';
 
 export default function NewPostPage() {
   return (

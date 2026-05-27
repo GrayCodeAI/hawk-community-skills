@@ -27,7 +27,7 @@
 | Technique | Example |
 |-----------|---------|
 | Subdomain append | `redirect.com.evil.com` |
-| Path traversal | `redirect.com/../evil.com` |
+| Path traversal | `redirect.com/evil.com` |
 | At-sign confusion | `redirect.com@evil.com` |
 | Fragment bypass | `redirect.com%23@evil.com` |
 | Query parameter | `redirect.com?next=evil.com` |

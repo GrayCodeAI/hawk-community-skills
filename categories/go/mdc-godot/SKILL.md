@@ -185,7 +185,7 @@ add_child(new_node) # Add to tree only after initial setup
 ```
 
 ### 2.3. Signals for Loose Coupling
-Use Godot's signal system to communicate between unrelated nodes or components. Avoid direct method calls between distant nodes (`get_node("../../../SomeNode").do_something()`) as this creates tight coupling.
+Use Godot's signal system to communicate between unrelated nodes or components. Avoid direct method calls between distant nodes (`get_node("SomeNode").do_something()`) as this creates tight coupling.
 
 ❌ **BAD:** Direct node access
 ```gdscript
@@ -206,7 +206,7 @@ func take_damage(amount):
 # HealthBar.gd
 func _ready():
     # Assuming Player is a sibling or accessible via a path
-    var player = get_node("../Player")
+    var player = get_node("Player")
     if player:
         player.health_changed.connect(_on_player_health_changed)
 

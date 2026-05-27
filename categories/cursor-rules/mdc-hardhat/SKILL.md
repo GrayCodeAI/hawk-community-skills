@@ -174,7 +174,7 @@ contract MyContract {
 ```typescript
 import { expect } from "chai";
 import { ethers } from "hardhat";
-import { MyContract } from "../typechain-types"; // Typechain for type safety
+import { MyContract } from "typechain-types"; // Typechain for type safety
 
 describe("MyContract (Integration)", function () {
   let myContract: MyContract;

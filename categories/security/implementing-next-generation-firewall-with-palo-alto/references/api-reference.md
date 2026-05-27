@@ -18,9 +18,9 @@ GET https://<fw>/api/?type=keygen&user=admin&password=admin
 
 | XPath | Description |
 |-------|-------------|
-| `/config/devices/.../vsys/.../rulebase/security/rules` | Security rules |
-| `/config/devices/.../vsys/.../profiles` | Security profiles |
-| `/config/devices/.../deviceconfig/system` | System config |
+| `/config/devices/.vsys/.rulebase/security/rules` | Security rules |
+| `/config/devices/.vsys/.profiles` | Security profiles |
+| `/config/devices/.deviceconfig/system` | System config |
 
 ## pan-python Library
 

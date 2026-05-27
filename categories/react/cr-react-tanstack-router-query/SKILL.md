@@ -58,7 +58,7 @@ export const queryClient = new QueryClient({
 ```tsx
 // src/lib/router.ts
 import { createRouter } from '@tanstack/react-router'
-import { routeTree } from '../routeTree.gen'
+import { routeTree } from 'routeTree.gen'
 import { queryClient } from './queryClient'
 
 export const router = createRouter({
@@ -95,7 +95,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
 ```ts
 // src/queries/posts.ts
 import { queryOptions, infiniteQueryOptions } from '@tanstack/react-query'
-import { fetchPost, fetchPosts } from '../api/posts'
+import { fetchPost, fetchPosts } from 'api/posts'
 
 export const postKeys = {
   all: ['posts'] as const,
@@ -127,7 +127,7 @@ export const postsListQueryOptions = (filters?: PostFilters) =>
 // src/routes/posts/$postId.tsx
 import { createFileRoute } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
-import { postDetailQueryOptions } from '../../queries/posts'
+import { postDetailQueryOptions } from 'queries/posts'
 
 export const Route = createFileRoute('/posts/$postId')({
   loader: ({ context: { queryClient }, params }) =>
@@ -155,7 +155,7 @@ function PostDetail() {
 import { createFileRoute, Link } from '@tanstack/react-router'
 import { useQuery } from '@tanstack/react-query'
 import { z } from 'zod'
-import { postsListQueryOptions } from '../../queries/posts'
+import { postsListQueryOptions } from 'queries/posts'
 
 const searchSchema = z.object({
   page: z.number().int().min(1).default(1),
@@ -193,7 +193,7 @@ function PostsList() {
 ```tsx
 import { useMutation, useQueryClient } from '@tanstack/react-query'
 import { useNavigate } from '@tanstack/react-router'
-import { postKeys } from '../../queries/posts'
+import { postKeys } from 'queries/posts'
 
 function CreatePostForm() {
   const queryClient = useQueryClient()

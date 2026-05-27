@@ -31,7 +31,7 @@ Each agent wraps an existing c-level skill and adds:
 - Workflow orchestration tied to skill Python tools
 - Output template: Bottom Line → What → Why → How to Act → Your Decision
 
-See `../references/persona-voices.md` for voice specs.
+See `references/persona-voices.md` for voice specs.
 
 ### 17 /cs:* Slash Commands (in `skills/`)
 
@@ -91,7 +91,7 @@ User question
 - **decision-logger** — every `/cs:decide` writes here
 - **chief-of-staff** — routing layer the agent orchestrates
 - **board-meeting** — protocol the `/cs:boardroom` command runs
-- **llm-wiki** — optional persistent memory bridge (see `../references/llm-wiki-bridge.md`)
+- **llm-wiki** — optional persistent memory bridge (see `references/llm-wiki-bridge.md`)
 - **executive-mentor** — adversarial `/em:*` commands stack cleanly on top
 
 ## Design Principles
@@ -104,10 +104,10 @@ User question
 
 ## References
 
-- [persona-voices.md](../../references/persona-voices.md)
-- [llm-wiki-bridge.md](../../references/llm-wiki-bridge.md)
-- [Parent c-level CLAUDE.md](../../../CLAUDE.md)
-- [Existing executive-mentor sibling](../../../executive-mentor/)
+- [persona-voices.md](persona-voices.md)
+- [llm-wiki-bridge.md](llm-wiki-bridge.md)
+- [Parent c-level CLAUDE.md](CLAUDE.md)
+- [Existing executive-mentor sibling]()
 
 ---
 

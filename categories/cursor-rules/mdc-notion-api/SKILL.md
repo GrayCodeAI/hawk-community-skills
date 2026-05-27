@@ -292,7 +292,7 @@ export function extractPageTitle(page: any): string {
 }
 
 // tests/notionHelpers.test.ts
-import { extractPageTitle } from '../src/utils/notionHelpers';
+import { extractPageTitle } from 'src/utils/notionHelpers';
 
 describe('extractPageTitle', () => {
   it('should extract the title from a Notion page object', () => {
@@ -320,7 +320,7 @@ describe('extractPageTitle', () => {
 
 ```typescript
 // tests/integration/notion.test.ts
-import { notionClient } from '../../src/notion/client'; // Your actual client
+import { notionClient } from 'src/notion/client'; // Your actual client
 import { v4 as uuidv4 } from 'uuid';
 
 const TEST_DATABASE_ID = process.env.NOTION_TEST_DATABASE_ID!; // Ensure this is set

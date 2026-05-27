@@ -13,7 +13,7 @@ triggers: None
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [mdr-745-specialist](../mdr-745-specialist/) | Detailed EU MDR technical requirements |
-| [fda-consultant-specialist](../fda-consultant-specialist/) | FDA submission deep expertise |
-| [quality-manager-qms-iso13485](../quality-manager-qms-iso13485/) | QMS for regulatory compliance |
-| [risk-management-specialist](../risk-management-specialist/) | ISO 14971 risk management |
+| [mdr-745-specialist]() | Detailed EU MDR technical requirements |
+| [fda-consultant-specialist]() | FDA submission deep expertise |
+| [quality-manager-qms-iso13485]() | QMS for regulatory compliance |
+| [risk-management-specialist]() | ISO 14971 risk management |

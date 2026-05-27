@@ -508,7 +508,7 @@ Brief description (1-2 sentences max).
 
 **Usage**: One minimal example.
 
-See: [Main documentation](../docs/) for detailed guides.
+See: [Main documentation]() for detailed guides.
 ```
 
 ### Index Documents

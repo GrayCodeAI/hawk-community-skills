@@ -70,7 +70,7 @@ export type AppStateCreator<T> = StateCreator<AppState, [], [], T>;
 
 `src/store/slices/createAuthSlice.ts`:
 ```typescript
-import { AppStateCreator, AuthSlice } from '../types';
+import { AppStateCreator, AuthSlice } from 'types';
 
 export const createAuthSlice: AppStateCreator<AuthSlice> = (set) => ({
   user: null,
@@ -82,7 +82,7 @@ export const createAuthSlice: AppStateCreator<AuthSlice> = (set) => ({
 
 `src/store/slices/createUISlice.ts`:
 ```typescript
-import { AppStateCreator, UISlice } from '../types';
+import { AppStateCreator, UISlice } from 'types';
 
 export const createUISlice: AppStateCreator<UISlice> = (set) => ({
   isLoading: false,

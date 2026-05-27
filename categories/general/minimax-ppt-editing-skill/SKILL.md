@@ -32,7 +32,7 @@ If source has multiple items (numbered lists, multiple sections), create separat
 **❌ WRONG** — all items in one paragraph:
 ```xml
 <a:p>
-  <a:r><a:rPr .../><a:t>Step 1: Do the first thing. Step 2: Do the second thing.</a:t></a:r>
+  <a:r><a:rPr .><a:t>Step 1: Do the first thing. Step 2: Do the second thing.</a:t></a:r>
 </a:p>
 ```
 
@@ -40,15 +40,15 @@ If source has multiple items (numbered lists, multiple sections), create separat
 ```xml
 <a:p>
   <a:pPr algn="l"><a:lnSpc><a:spcPts val="3919"/></a:lnSpc></a:pPr>
-  <a:r><a:rPr lang="en-US" sz="2799" b="1" .../><a:t>Step 1</a:t></a:r>
+  <a:r><a:rPr lang="en-US" sz="2799" b="1" .><a:t>Step 1</a:t></a:r>
 </a:p>
 <a:p>
   <a:pPr algn="l"><a:lnSpc><a:spcPts val="3919"/></a:lnSpc></a:pPr>
-  <a:r><a:rPr lang="en-US" sz="2799" .../><a:t>Do the first thing.</a:t></a:r>
+  <a:r><a:rPr lang="en-US" sz="2799" .><a:t>Do the first thing.</a:t></a:r>
 </a:p>
 <a:p>
   <a:pPr algn="l"><a:lnSpc><a:spcPts val="3919"/></a:lnSpc></a:pPr>
-  <a:r><a:rPr lang="en-US" sz="2799" b="1" .../><a:t>Step 2</a:t></a:r>
+  <a:r><a:rPr lang="en-US" sz="2799" b="1" .><a:t>Step 2</a:t></a:r>
 </a:p>
 <!-- continue pattern -->
 ```

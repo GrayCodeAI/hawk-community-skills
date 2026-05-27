@@ -62,7 +62,7 @@ Verify that access controls are properly enforced:
 - **Vertical privilege escalation**: Using a low-privilege account, attempt to access administrative functions by directly browsing to admin URLs, modifying role parameters in requests, or manipulating JWT claims
 - **Forced browsing**: Attempt to access resources that should require authentication by directly navigating to internal URLs collected during mapping
 - **HTTP method tampering**: If GET is blocked on an endpoint, try PUT, POST, DELETE, PATCH, or use method override headers (`X-HTTP-Method-Override: DELETE`)
-- **Path traversal in authorization**: Test URL path manipulation (`/api/users/123/../456/profile`) to bypass path-based authorization checks
+- **Path traversal in authorization**: Test URL path manipulation (`/api/users/123/456/profile`) to bypass path-based authorization checks
 
 ### Step 4: Input Validation and Injection Testing
 

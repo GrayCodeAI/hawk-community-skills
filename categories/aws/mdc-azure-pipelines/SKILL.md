@@ -131,7 +131,7 @@ jobs:
 stages:
 - stage: Build
   jobs:
-  - template: ../templates/build-node-app.yml
+  - template: templates/build-node-app.yml
     parameters:
       appName: ServiceA
 ```
@@ -141,7 +141,7 @@ stages:
 stages:
 - stage: Build
   jobs:
-  - template: ../templates/build-node-app.yml
+  - template: templates/build-node-app.yml
     parameters:
       appName: ServiceB
 ```

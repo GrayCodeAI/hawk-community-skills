@@ -164,11 +164,11 @@ Run `sphinx-apidoc` once to scaffold API `.rst` files. **Never let it overwrite 
 ```bash
 # From docs/ directory:
 # ❌ BAD: Running apidoc without exclusion, risks overwriting manual content
-sphinx-apidoc -o api/ ../my_package
+sphinx-apidoc -o api/ my_package
 
 # ✅ GOOD: Run apidoc once, then manually integrate and exclude.
 # First run (from docs/):
-sphinx-apidoc -o api/ ../my_package -f -e -M
+sphinx-apidoc -o api/ my_package -f -e -M
 
 # Then, add 'api/' to your master toctree in index.md/rst.
 # Manually edit generated files (e.g., api/modules.rst) to include specific modules.

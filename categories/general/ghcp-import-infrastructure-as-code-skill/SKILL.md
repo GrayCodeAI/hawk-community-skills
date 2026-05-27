@@ -49,7 +49,7 @@ Request one of these scopes before running discovery commands:
 
 Scope handling rules:
 
-- Treat Azure ARM resource IDs (for example `/subscriptions/.../providers/...`) as cloud resource identifiers, not local file system paths.
+- Treat Azure ARM resource IDs (for example `/subscriptions/.providers/...`) as cloud resource identifiers, not local file system paths.
 - Use resource IDs only with Azure CLI `--ids` arguments (for example `az resource show --ids <resource-id>`).
 - Never pass resource IDs to file-reading commands (`cat`, `ls`, `read_file`, glob searches) unless the user explicitly says they are local file paths.
 - If the user already provided one valid scope, do not ask for additional scope inputs unless required by a failing command.

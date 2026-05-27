@@ -43,7 +43,7 @@ export const environment = {
 ```typescript
 import { Injectable } from '@angular/core';
 import { neon } from '@neondatabase/serverless';
-import { environment } from '../../environments/environment';
+import { environment } from 'environments/environment';
 import { Observable, from } from 'rxjs';
 
 @Injectable({
@@ -135,7 +135,7 @@ export class UserService {
 ```typescript
 // src/app/components/user-list/user-list.component.ts
 import { Component, OnInit } from '@angular/core';
-import { UserService, User } from '../../services/user.service';
+import { UserService, User } from 'services/user.service';
 import { Observable } from 'rxjs';
 
 @Component({

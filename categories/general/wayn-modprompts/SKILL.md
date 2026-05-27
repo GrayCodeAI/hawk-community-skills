@@ -197,7 +197,7 @@ export const getUserPrompts = query({
 // src/components/PromptActions.tsx - New component
 import { useUser } from "@clerk/clerk-react";
 import { useMutation } from "convex/react";
-import { api } from "../../convex/_generated/api";
+import { api } from "convex/_generated/api";
 
 interface PromptActionsProps {
   prompt: {
@@ -248,7 +248,7 @@ export function PromptActions({ prompt }: PromptActionsProps) {
 // src/components/EditPromptForm.tsx - New component
 import { useState } from "react";
 import { useMutation, useQuery } from "convex/react";
-import { api } from "../../convex/_generated/api";
+import { api } from "convex/_generated/api";
 
 interface EditPromptFormProps {
   promptId: string;
@@ -308,7 +308,7 @@ export function EditPromptForm({ promptId, onSuccess }: EditPromptFormProps) {
 ```typescript
 // src/routes/edit.$promptId.tsx - New edit route
 import { createFileRoute } from '@tanstack/react-router';
-import { EditPromptForm } from '../components/EditPromptForm';
+import { EditPromptForm } from 'components/EditPromptForm';
 
 export const Route = createFileRoute('/edit/$promptId')({
   component: EditPrompt,

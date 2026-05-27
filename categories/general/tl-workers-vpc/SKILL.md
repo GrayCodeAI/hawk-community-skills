@@ -106,7 +106,7 @@ await Promise.race([socket.opened, timeout])
 
 **Problem:** New connection overhead per request
 
-**Solution:** Use [Hyperdrive](../hyperdrive/) for databases (built-in pooling)
+**Solution:** Use [Hyperdrive]() for databases (built-in pooling)
 
 ### Not Using Smart Placement
 
@@ -161,7 +161,7 @@ if (!host || !ALLOWED.includes(host)) return new Response('Forbidden', { status:
 
 | Use Case                  | Alternative                  | Reason                      |
 | ------------------------- | ---------------------------- | --------------------------- |
-| PostgreSQL/MySQL          | [Hyperdrive](../hyperdrive/) | Connection pooling, caching |
+| PostgreSQL/MySQL          | [Hyperdrive]() | Connection pooling, caching |
 | HTTP/HTTPS                | `fetch()`                    | Simpler, built-in           |
 | HTTP with SSRF protection | VPC Services (beta 2025+)    | Declarative bindings        |
 
@@ -173,6 +173,6 @@ if (!host || !ALLOWED.includes(host)) return new Response('Forbidden', { status:
 
 ## Related
 
-- [Hyperdrive](../hyperdrive/) - Database connections
-- [Smart Placement](../smart-placement/) - Latency optimization
-- [Tunnel Troubleshooting](../tunnel/gotchas.md)
+- [Hyperdrive]() - Database connections
+- [Smart Placement]() - Latency optimization
+- [Tunnel Troubleshooting](gotchas.md)

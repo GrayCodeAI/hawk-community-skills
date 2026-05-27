@@ -202,10 +202,10 @@ async def handle_request(request, context):
 
 ## Related Services
 
-- **[Gateway Service](../gateway/README.md)**: Expose APIs as tools for agents
-- **[Memory Service](../memory/README.md)**: Store agent conversation history
-- **[Identity Service](../identity/README.md)**: Manage agent credentials
-- **[Observability Service](../observability/README.md)**: Monitor agent performance
+- **[Gateway Service](README.md)**: Expose APIs as tools for agents
+- **[Memory Service](README.md)**: Store agent conversation history
+- **[Identity Service](README.md)**: Manage agent credentials
+- **[Observability Service](README.md)**: Monitor agent performance
 
 ## References
 

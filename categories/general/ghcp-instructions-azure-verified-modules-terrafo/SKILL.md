@@ -48,7 +48,7 @@ More details on the AVM process can be found in the [Azure Verified Modules Cont
 ### From Examples
 
 1. Copy the example code from the module documentation
-2. Replace `source = "../../"` with `source = "Azure/avm-res-{service}-{resource}/azurerm"`
+2. Replace `source = ""` with `source = "Azure/avm-res-{service}-{resource}/azurerm"`
 3. Add `version = "~> 1.0"` (use latest available)
 4. Set `enable_telemetry = true`
 

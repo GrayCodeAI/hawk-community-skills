@@ -128,8 +128,8 @@ If no files specified, ask the user which files to review.
 - **Source**: vercel/agent-skills
 
 ### Related Skills
-- [web-accessibility](../web-accessibility/SKILL.md): WCAG accessibility implementation
-- [ui-component-patterns](../ui-component-patterns/SKILL.md): UI component patterns
+- [web-accessibility](SKILL.md): WCAG accessibility implementation
+- [ui-component-patterns](SKILL.md): UI component patterns
 
 ### Tags
 `#UI` `#review` `#web-interface` `#guidelines` `#vercel` `#design-audit` `#UX` `#frontend`
