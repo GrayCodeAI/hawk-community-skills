@@ -275,3 +275,6 @@ def build_infrastructure_timeline(indicators):
 - [crt.sh Certificate Transparency](https://crt.sh/)
 - [PassiveTotal API](https://api.passivetotal.org/api/docs/)
 - [JARM Fingerprinting](https://github.com/salesforce/jarm)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

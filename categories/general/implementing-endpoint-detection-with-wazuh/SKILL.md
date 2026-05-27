@@ -39,3 +39,4 @@ Use the /logtest endpoint to validate decoder and rule logic against sample log 
 ## Expected Output
 
 JSON report with agent inventory, alert statistics, rule coverage, and logtest validation results.
+@ref(api-reference.md)

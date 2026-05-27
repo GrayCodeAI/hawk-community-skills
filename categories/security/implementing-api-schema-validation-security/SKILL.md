@@ -405,3 +405,4 @@ jobs:
 - Redocly API Security by Design: https://redocly.com/learn/security
 - Impart Security API Validation: https://www.impart.ai/blog/detect-and-fix-api-vulnerabilities-using-validation-secure-principles-and-real-time-response
 - OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x00-header/
+@ref(api-reference.md)

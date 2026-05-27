@@ -262,3 +262,4 @@ C2 IPs:     185.220.101.42, 91.215.85.17
 C2 Domains: [extracted from beacon config]
 Mutexes:    Global\MSCTF.Shared.MUTEX.ZRQ
 ```
+@ref(api-reference.md)

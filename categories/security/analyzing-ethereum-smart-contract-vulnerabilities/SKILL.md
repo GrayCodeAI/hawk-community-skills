@@ -44,3 +44,4 @@ Produce a structured audit report with vulnerability descriptions, affected code
 ## Expected Output
 
 JSON report listing vulnerabilities with SWC (Smart Contract Weakness Classification) identifiers, severity ratings, affected functions, and suggested fixes.
+@ref(api-reference.md)

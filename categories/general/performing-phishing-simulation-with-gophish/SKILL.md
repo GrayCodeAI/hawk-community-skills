@@ -92,3 +92,6 @@ Use the automation script to pull campaign data via GoPhish API and generate det
 - Capture simulated credentials on landing page
 - Generate campaign report with open/click/submit rates
 - Redirect users to awareness training after interaction
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

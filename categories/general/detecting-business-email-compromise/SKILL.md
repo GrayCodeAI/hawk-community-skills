@@ -75,3 +75,6 @@ Business Email Compromise (BEC) is a sophisticated fraud scheme where attackers 
 - Financial controls prevent unauthorized transfers in drills
 - Account compromise detection catches simulated attacks
 - Reduced BEC susceptibility in awareness assessments
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

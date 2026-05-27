@@ -269,3 +269,6 @@ search = index=new_source sourcetype=new_sourcetype action=failure \
 - [Sumo Logic - Cloud SIEM Onboarding Checklist](https://help.sumologic.com/docs/cse/get-started-with-cloud-siem/onboarding-checklist-cse/)
 - [SIEM Logging Best Practices - Coralogix](https://coralogix.com/guides/siem/siem-logging/)
 - [Huntress - SIEM Implementation Guide](https://www.huntress.com/siem-guide/siem-implementation-guide)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

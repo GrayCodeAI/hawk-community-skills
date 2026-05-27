@@ -200,3 +200,4 @@ curl -s "http://target.com/account/profile/x.css" | grep -i "email\|name\|token\
 - Use path-based routing rules that reject unexpected extensions
 - Enable consistent path normalization between CDN and origin
 ```
+@ref(api-reference.md)

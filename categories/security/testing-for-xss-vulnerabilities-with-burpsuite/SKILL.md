@@ -304,3 +304,4 @@ A WAF blocks common XSS patterns and CSP restricts inline scripts. Discover a JS
 4. Set HttpOnly and Secure flags on session cookies
 5. Add X-Content-Type-Options: nosniff header
 ```
+@ref(api-reference.md)

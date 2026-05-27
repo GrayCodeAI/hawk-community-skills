@@ -149,3 +149,6 @@ Generate review reports including:
 - [CIS Controls v8 - Control 5: Account Management](https://www.cisecurity.org/controls/account-management)
 - [Netwrix PAM Best Practices Guide](https://netwrix.com/en/resources/guides/privileged-account-management-best-practices/)
 - [StrongDM PAM Best Practices 2025](https://www.strongdm.com/blog/privileged-access-management-best-practices)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

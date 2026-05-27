@@ -392,3 +392,4 @@ cat ssl.log | zeek-cut server_name not_valid_after | awk -F'\t' '$2 < systime()'
 - [Zeek Intel Framework](https://docs.zeek.org/en/master/frameworks/intel.html)
 - [CISA Zeek Resources](https://www.cisa.gov/resources-tools/services/kismet)
 - [Zeek GitHub Repository](https://github.com/zeek/zeek)
+@ref(api-reference.md)

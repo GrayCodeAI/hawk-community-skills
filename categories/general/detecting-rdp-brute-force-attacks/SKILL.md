@@ -50,3 +50,4 @@ JSON report containing:
 - Targeted usernames and failure sub-status codes
 - Successful logons following brute force attempts (potential compromises)
 - Time-series analysis of attack intensity
+@ref(api-reference.md)

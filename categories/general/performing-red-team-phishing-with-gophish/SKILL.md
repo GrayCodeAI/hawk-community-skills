@@ -38,3 +38,4 @@ campaign = Campaign(name="Q1 Test", groups=[Group(name="Sales Team")],
     page=Page(name="Credential Page"))
 api.campaigns.post(campaign)
 ```
+@ref(api-reference.md)

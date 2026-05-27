@@ -143,3 +143,6 @@ def apply_criticality_to_vulns(vulns_df, asset_scores):
 - building-vulnerability-aging-and-sla-tracking
 - performing-business-impact-analysis
 - implementing-asset-management-program
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

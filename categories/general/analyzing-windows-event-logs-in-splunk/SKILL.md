@@ -274,3 +274,4 @@ ATT&CK Mapping:
   T1053.005 — Scheduled Task (persistence)
   T1059.001 — PowerShell (encoded execution)
 ```
+@ref(api-reference.md)

@@ -320,3 +320,4 @@ A social network API allows querying `friends { friends { friends { ... } } }` u
 6. Remove GraphiQL/Playground from production
 7. Parameterize all database queries in resolvers
 ```
+@ref(api-reference.md)

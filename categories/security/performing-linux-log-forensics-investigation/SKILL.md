@@ -260,3 +260,6 @@ if __name__ == "__main__":
 - SANS Practical Linux Forensics: https://nostarch.com/linuxforensics
 - HackTricks Linux Forensics: https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/linux-forensics
 - Log Sources for Digital Forensics: https://letsdefend.io/blog/log-sources-for-digital-forensics-windows-and-linux
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

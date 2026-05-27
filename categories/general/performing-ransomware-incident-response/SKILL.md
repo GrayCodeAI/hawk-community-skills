@@ -194,3 +194,6 @@ done
 - Recovery timeline and prioritized restoration plan
 - Eradication verification report
 - Lessons learned document with prevention recommendations
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

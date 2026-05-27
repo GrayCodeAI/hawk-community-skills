@@ -36,3 +36,4 @@ This skill automates packet capture analysis using tshark (Wireshark CLI) and py
 - Suspicious flow detections with severity ratings
 - Extracted IOCs (IPs, domains, URLs)
 - DNS anomaly analysis results
+@ref(api-reference.md)

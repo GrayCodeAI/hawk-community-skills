@@ -347,3 +347,4 @@ def push_to_elasticsearch(iocs, es_url, index="threat-intel"):
 - [cti-taxii-server (Medallion)](https://github.com/oasis-open/cti-taxii-server)
 - [taxii2-client Python Library](https://github.com/oasis-open/cti-taxii-client)
 - [Kraven Security: STIX/TAXII Complete Guide](https://kravensecurity.com/stix-and-taxii-a-full-guide/)
+@ref(api-reference.md)

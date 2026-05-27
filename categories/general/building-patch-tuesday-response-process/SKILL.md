@@ -196,3 +196,6 @@ Post-Deployment Validation:
 - performing-cve-prioritization-with-kev-catalog
 - implementing-vulnerability-remediation-sla
 - implementing-patch-management-workflow
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

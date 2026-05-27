@@ -154,3 +154,6 @@ Detection Category: [download_cradle/proxy_exec/uac_bypass/applocker_bypass]
 Network Activity: [Yes/No -- destination if applicable]
 Risk Level: [Critical/High/Medium/Low]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

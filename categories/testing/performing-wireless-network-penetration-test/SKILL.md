@@ -233,3 +233,6 @@ reaver -i wlan0mon -b AA:BB:CC:DD:EE:03 -K 1 -vv
 - WiFi Alliance WPA3 Specification: https://www.wi-fi.org/discover-wi-fi/security
 - NIST SP 800-153: Guidelines for Securing WLANs
 - Hashcat WPA modes: https://hashcat.net/wiki/doku.php?id=example_hashes
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -229,3 +229,6 @@ kubectl get pods --all-namespaces -o json | \
 6. **Monitor with Falco** for runtime privilege escalation attempts
 7. **Audit RBAC changes** with Kubernetes audit logging
 8. **Use seccomp profiles** to restrict syscalls
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -214,3 +214,6 @@ oscap xccdf eval \
 - **Breaking SSH access**: Misconfiguring sshd_config (especially PermitRootLogin, PasswordAuthentication) can lock out administrators. Always test SSH configuration changes from a second session.
 - **Not testing firewall rules**: Enabling UFW without allowing SSH first will disconnect remote sessions permanently.
 - **Kernel parameter changes without testing**: Some sysctl settings can break application networking. Test in staging first.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

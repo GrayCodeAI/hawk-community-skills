@@ -43,3 +43,4 @@ Key events to detect:
 if verb in ("get", "list") and resource == "secrets":
     print(f"Secret access: {user} -> {event['objectRef'].get('name')}")
 ```
+@ref(api-reference.md)

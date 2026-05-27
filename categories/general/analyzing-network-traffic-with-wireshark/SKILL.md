@@ -214,3 +214,4 @@ sha256sum capture.pcapng > capture_hash.txt
 - Query pattern: TXT record requests with base64-encoded subdomains
 - Response pattern: TXT records containing base64-encoded payloads
 ```
+@ref(api-reference.md)

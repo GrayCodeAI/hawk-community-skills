@@ -36,3 +36,6 @@ Deploy FIDO2/WebAuthn passwordless authentication using security keys and platfo
 - [ ] Audit logging enabled and forwarding to SIEM
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

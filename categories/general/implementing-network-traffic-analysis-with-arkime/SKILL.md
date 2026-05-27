@@ -33,3 +33,4 @@ Sessions: 288 over 24 hours
 Avg interval: 300s, Jitter: 4.2%
 Verdict: HIGH confidence C2 beaconing (jitter < 5%)
 ```
+@ref(api-reference.md)

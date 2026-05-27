@@ -35,3 +35,4 @@ SIEM use case tuning reduces alert fatigue by systematically analyzing detection
 ## Expected Output
 
 JSON report with per-rule tuning recommendations including current FP rate, suggested threshold adjustments, whitelist entries, and projected alert reduction percentages.
+@ref(api-reference.md)

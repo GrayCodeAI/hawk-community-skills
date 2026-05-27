@@ -508,3 +508,4 @@ VALIDATION RESULTS:
   Prohibited path tests: [all blocked / exceptions]
   Protocol enforcement: [function code filtering verified]
 ```
+@ref(api-reference.md)

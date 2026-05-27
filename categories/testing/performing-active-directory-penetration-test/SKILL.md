@@ -257,3 +257,6 @@ mimikatz# misc::skeleton
 - HackTricks AD: https://book.hacktricks.wiki/en/windows-hardening/active-directory-methodology/index.html
 - SpecterOps AD Security: https://specterops.io/blog/
 - MITRE ATT&CK: https://attack.mitre.org/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

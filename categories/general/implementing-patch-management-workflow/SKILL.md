@@ -91,3 +91,6 @@ curl -k -X POST "https://nessus:8834/scans/$VERIFY_SCAN_ID/launch" \
 - prioritizing-vulnerabilities-with-cvss-scoring
 - implementing-vulnerability-remediation-sla
 - implementing-continuous-vulnerability-monitoring
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

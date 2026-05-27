@@ -36,3 +36,4 @@ This skill uses boto3 and Cloudsplaining-style analysis to identify IAM privileg
 - List of dangerous permission combinations per principal
 - Wildcard resource policy audit results
 - Remediation recommendations for each finding
+@ref(api-reference.md)

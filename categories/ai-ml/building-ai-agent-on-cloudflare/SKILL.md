@@ -357,3 +357,7 @@ See [references/troubleshooting.md](references/troubleshooting.md) for common is
 - [references/agent-patterns.md](references/agent-patterns.md) -- Advanced patterns
 - [references/state-patterns.md](references/state-patterns.md) -- State management strategies
 - [references/troubleshooting.md](references/troubleshooting.md) -- Error solutions
+@ref(agent-patterns.md)
+@ref(examples.md)
+@ref(state-patterns.md)
+@ref(troubleshooting.md)

@@ -305,3 +305,4 @@ SUMMARY:
   Functions with Secrets Manager: 19/47 (40%)
   Functions with Input Validation: 22/47 (47%)
 ```
+@ref(api-reference.md)

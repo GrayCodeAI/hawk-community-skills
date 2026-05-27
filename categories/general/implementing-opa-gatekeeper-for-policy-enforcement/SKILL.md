@@ -365,3 +365,6 @@ kubectl get --raw /metrics | grep gatekeeper
 5. **Monitor audit results** - Check constraint `.status.violations` regularly
 6. **Test Rego policies** - Use `opa test` or Rego Playground before deploying
 7. **Combine with admission webhooks** - Layer Gatekeeper with Pod Security Admission for defense in depth
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

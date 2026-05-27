@@ -33,3 +33,4 @@ Azure Storage accounts are a frequent target for attackers due to misconfigured 
 ## Output
 
 JSON report with per-account findings, severity ratings (Critical/High/Medium/Low), and remediation recommendations aligned with CIS Azure Benchmark controls.
+@ref(api-reference.md)

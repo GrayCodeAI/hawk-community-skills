@@ -225,3 +225,6 @@ volumes:
 - Cartography Documentation: https://cartography.dev
 - CNCF Sandbox Project
 - Neo4j Cypher Query Language Reference
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

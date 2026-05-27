@@ -186,3 +186,4 @@ ffuf -w open-redirect-payloads.txt -u "http://target.com/redirect?url=FUZZ" -mr 
 - Reject any redirect URL containing external domains
 - Use indirect reference maps instead of direct URL parameters
 ```
+@ref(api-reference.md)

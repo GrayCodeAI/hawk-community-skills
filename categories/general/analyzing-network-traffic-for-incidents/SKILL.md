@@ -244,3 +244,4 @@ EVIDENCE REFERENCES
 PCAP File:        INC-2025-1547_capture.pcap (SHA-256: ...)
 Zeek Logs:        /logs/zeek/2025-11-15/ (conn.log, ssl.log, dns.log)
 ```
+@ref(api-reference.md)

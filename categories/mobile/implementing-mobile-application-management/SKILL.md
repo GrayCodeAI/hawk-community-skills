@@ -157,3 +157,6 @@ Configure MAM monitoring dashboards:
 - **iOS managed pasteboard**: iOS enforces paste restrictions through managed pasteboard, which requires the app to opt-in via Intune SDK integration.
 - **App wrapping limitations**: Wrapped apps cannot use certain features (push notifications on some platforms). SDK integration is preferred for full functionality.
 - **User experience friction**: Overly restrictive policies cause user frustration and shadow IT. Start with Tier 1 and escalate based on data sensitivity.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

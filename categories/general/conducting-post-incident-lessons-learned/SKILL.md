@@ -172,3 +172,6 @@ tags:
 - Action items list with owners and deadlines
 - Updated IR playbooks and detection rules
 - Executive summary for leadership
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

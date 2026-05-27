@@ -126,3 +126,6 @@ created and navigated to this folder.
 - SANS Shellbag Forensics: https://www.sans.org/blog/computer-forensic-artifacts-windows-7-shellbags
 - Magnet Forensics Shellbag Analysis: https://www.magnetforensics.com/blog/forensic-analysis-of-windows-shellbags/
 - ShellBags Explorer: https://ericzimmerman.github.io/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

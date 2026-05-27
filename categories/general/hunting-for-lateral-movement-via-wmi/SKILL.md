@@ -39,3 +39,4 @@ Parse WMI-Activity/Operational log for event consumer creation indicating persis
 ## Expected Output
 
 JSON report with WMI-spawned processes, suspicious command lines, WMI event subscription alerts, and timeline of lateral movement activity.
+@ref(api-reference.md)

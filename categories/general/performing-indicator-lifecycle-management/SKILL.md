@@ -118,3 +118,6 @@ class IOCLifecycle:
 - [MISP Indicator Lifecycle](https://www.misp-project.org/)
 - [STIX Indicator Valid From/Until](https://docs.oasis-open.org/cti/stix/v2.1/stix-v2.1.html)
 - [IOC Quality Framework](https://www.first.org/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

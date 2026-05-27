@@ -240,3 +240,4 @@ curl "http://target.com/page?q=%253Cscript%253Ealert(1)%253C%252Fscript%253E"
 - Enable deep content inspection for all HTTP methods
 - Implement request normalization before rule evaluation
 ```
+@ref(api-reference.md)

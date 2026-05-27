@@ -458,3 +458,4 @@ class DistributedRateLimiter:
 - Retry-After header: Accurate within 1 second of actual reset time
 - Response overhead: < 2ms added latency per request for rate limit check
 ```
+@ref(api-reference.md)

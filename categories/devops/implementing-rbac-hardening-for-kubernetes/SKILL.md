@@ -172,3 +172,6 @@ kubectl access-matrix --sa payments:payment-processor
 - [CIS Kubernetes Benchmark - RBAC Controls](https://www.cisecurity.org/benchmark/kubernetes)
 - [Kubernetes Security Hardening Guide 2025](https://sealos.io/blog/a-practical-guide-to-kubernetes-security-hardening-your-cluster-in-2025/)
 - [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

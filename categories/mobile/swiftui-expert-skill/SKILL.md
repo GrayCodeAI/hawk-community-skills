@@ -281,3 +281,22 @@ This skill focuses on **facts and best practices**, not architectural opinions:
 - We do encourage separating business logic for testability
 - We optimize for performance and maintainability
 - We follow Apple's Human Interface Guidelines and API design patterns
+@ref(accessibility-patterns.md)
+@ref(animation-advanced.md)
+@ref(animation-basics.md)
+@ref(animation-transitions.md)
+@ref(charts-accessibility.md)
+@ref(charts.md)
+@ref(image-optimization.md)
+@ref(latest-apis.md)
+@ref(layout-best-practices.md)
+@ref(liquid-glass.md)
+@ref(list-patterns.md)
+@ref(macos-scenes.md)
+@ref(macos-views.md)
+@ref(macos-window-styling.md)
+@ref(performance-patterns.md)
+@ref(scroll-patterns.md)
+@ref(sheet-navigation-patterns.md)
+@ref(state-management.md)
+@ref(view-structure.md)

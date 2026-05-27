@@ -14,3 +14,4 @@ author: mahipal
 Monitor for suspicious use of legitimate Windows binaries (LOLBins)
 including certutil, mshta, rundll32, regsvr32, and others used in
 fileless and living-off-the-land attack techniques.
+@ref(api-reference.md)

@@ -35,3 +35,4 @@ Scapy is a Python packet manipulation library that enables crafting, sending, sn
 ## Expected Output
 
 JSON report containing packet statistics, protocol distribution, top source/destination IPs, detected anomalies (SYN floods, DNS tunneling indicators, fragmentation attacks), and per-flow summaries.
+@ref(api-reference.md)

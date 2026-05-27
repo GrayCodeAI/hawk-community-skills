@@ -121,3 +121,6 @@ PCI DSS 4.0.1 establishes 12 requirements across 6 control objectives for organi
 - PCI SSC Quick Reference Guide
 - PCI DSS 4.0 Summary of Changes
 - UpGuard PCI DSS 4.0 Guide: https://www.upguard.com/blog/pci-compliance
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

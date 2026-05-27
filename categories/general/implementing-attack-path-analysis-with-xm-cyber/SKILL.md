@@ -235,3 +235,6 @@ Priority 4 (Standard - 90 days):
 - performing-asset-criticality-scoring-for-vulns
 - detecting-lateral-movement-in-network
 - exploiting-active-directory-with-bloodhound
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

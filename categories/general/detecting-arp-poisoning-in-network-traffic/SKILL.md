@@ -388,3 +388,4 @@ if __name__ == '__main__':
 - [Cisco DAI Configuration Guide](https://www.cisco.com/c/en/us/td/docs/switches/lan/catalyst9300/software/release/16-12/configuration_guide/sec/b_1612_sec_9300_cg/configuring_dynamic_arp_inspection.html)
 - [Comparitech ARP Poisoning Guide](https://www.comparitech.com/blog/information-security/arp-poisoning-spoofing-detect-prevent/)
 - [Okta ARP Poisoning Techniques](https://www.okta.com/identity-101/arp-poisoning/)
+@ref(api-reference.md)

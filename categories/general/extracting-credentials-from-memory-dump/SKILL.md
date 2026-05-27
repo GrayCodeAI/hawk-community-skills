@@ -317,3 +317,4 @@ Credential Extraction Summary:
     - High: Revoke all Kerberos tickets via krbtgt rotation
     - Medium: Audit DPAPI-protected data exposure
 ```
+@ref(api-reference.md)

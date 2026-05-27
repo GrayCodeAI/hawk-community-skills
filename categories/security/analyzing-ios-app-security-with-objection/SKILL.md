@@ -179,3 +179,6 @@ ios hooking search classes UITextField
 - **Keychain access scope**: Objection can only dump keychain items within the app's access group. System keychain items require separate jailbreak-level tools.
 - **Swift name mangling**: Swift method names are mangled in the runtime. Use `ios hooking list classes` with grep to find demangled names.
 - **Non-persistent changes**: All Objection modifications are runtime-only and reset on app restart. Document findings immediately.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

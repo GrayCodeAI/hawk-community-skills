@@ -148,3 +148,6 @@ Risk Score: [0-100]
 Risk Level: [Critical/High/Medium/Low]
 Indicators: [List of triggered risk factors]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

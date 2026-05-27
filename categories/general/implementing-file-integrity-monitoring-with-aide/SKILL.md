@@ -36,3 +36,4 @@ AIDE (Advanced Intrusion Detection Environment) is a host-based intrusion detect
 - Baseline database creation status
 - JSON report of file changes (added/removed/changed) with severity
 - Cron job configuration for automated monitoring
+@ref(api-reference.md)

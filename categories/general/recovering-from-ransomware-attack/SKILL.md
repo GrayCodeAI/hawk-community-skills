@@ -293,3 +293,6 @@ Throughout: SOC monitoring on high alert
 - [ ] IOCs loaded in detection rules
 - [ ] Canary files deployed
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

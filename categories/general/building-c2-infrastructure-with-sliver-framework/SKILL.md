@@ -172,3 +172,6 @@ Sliver is an open-source, cross-platform adversary emulation framework developed
 - [ ] Post-exploitation modules tested (process listing, .NET assembly execution)
 - [ ] Pivot functionality validated for internal network access
 - [ ] All C2 traffic encrypted and passing through redirectors
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

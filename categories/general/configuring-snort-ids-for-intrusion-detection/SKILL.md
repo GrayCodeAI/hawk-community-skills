@@ -391,3 +391,4 @@ snort -c /usr/local/etc/snort/snort.lua --daq-dir /usr/local/lib/daq -T 2>&1 | g
 - Thresholded SID 1000004 to 5 alerts per source per hour
 - Added 3 custom rules for PHI exfiltration detection
 ```
+@ref(api-reference.md)

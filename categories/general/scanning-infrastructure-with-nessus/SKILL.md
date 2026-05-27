@@ -153,3 +153,6 @@ curl -k -X POST "https://localhost:8834/scans/<SCAN_ID>/export" \
 - prioritizing-vulnerabilities-with-cvss-scoring
 - implementing-continuous-vulnerability-monitoring
 - performing-network-vulnerability-assessment
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

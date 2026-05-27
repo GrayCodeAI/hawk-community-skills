@@ -232,3 +232,6 @@ Validation Schedule:
 - performing-purple-team-exercise
 - implementing-siem-use-cases-for-detection
 - implementing-threat-modeling-with-mitre-attack
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

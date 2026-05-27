@@ -184,3 +184,6 @@ curl -X GET "https://api.crowdstrike.com/devices/entities/devices/v2?ids=device_
 - Evidence preservation checksums and chain of custody records
 - Containment effectiveness validation results
 - Stakeholder notification with current status and next steps
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

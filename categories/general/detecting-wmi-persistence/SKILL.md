@@ -72,3 +72,4 @@ Command: [Executed command or script]
 Risk Level: [Critical/High/Medium/Low]
 Recommended Action: [Remove subscription, investigate lateral movement]
 ```
+@ref(api-reference.md)

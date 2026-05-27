@@ -211,3 +211,6 @@ Create analytics rules for:
 - Semperis: Service Principal Ownership Abuse in Entra ID
 - MITRE ATT&CK Cloud Matrix
 - Microsoft: Securing service principals in Entra ID
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

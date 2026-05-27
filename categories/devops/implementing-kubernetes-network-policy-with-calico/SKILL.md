@@ -55,3 +55,6 @@ kubectl exec -n production frontend-pod -- wget -qO- --timeout=2 http://backend-
 6. **Test policies in staging** - Validate network connectivity after applying policies
 7. **Monitor denied traffic** - Enable Calico flow logs for visibility into blocked connections
 8. **Use tiers** - Organize policies into security, platform, and application tiers
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

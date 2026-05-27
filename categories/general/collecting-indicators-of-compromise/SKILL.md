@@ -246,3 +246,4 @@ Hash     | c3d4e5f6a7b8...         | 100        | Malicious .docm attachment
 
 TOTAL: 14 indicators | HIGH confidence avg: 91
 ```
+@ref(api-reference.md)

@@ -189,3 +189,6 @@ Recent research (IEEE 2025) shows that Windows 11 produces different LNK and Jum
 - Magnet Forensics LNK Analysis: https://www.magnetforensics.com/blog/forensic-analysis-of-lnk-files/
 - Jump Lists Forensics 2025: https://www.cybertriage.com/blog/jump-list-forensics-2025/
 - Eric Zimmerman's LECmd/JLECmd: https://ericzimmerman.github.io/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

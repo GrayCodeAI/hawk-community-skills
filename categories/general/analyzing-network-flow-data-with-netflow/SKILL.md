@@ -34,3 +34,4 @@ data, _ = netflow.parse_packet(raw_bytes, templates={})
 for flow in data.flows:
     print(flow.IPV4_SRC_ADDR, flow.IPV4_DST_ADDR, flow.IN_BYTES)
 ```
+@ref(api-reference.md)

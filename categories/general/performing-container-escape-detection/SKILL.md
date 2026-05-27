@@ -44,3 +44,4 @@ for vol in pod.spec.volumes or []:
     if vol.host_path and "docker.sock" in (vol.host_path.path or ""):
         print(f"Docker socket exposed: {pod.metadata.name}")
 ```
+@ref(api-reference.md)

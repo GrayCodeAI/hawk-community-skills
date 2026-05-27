@@ -337,3 +337,4 @@ A resume upload feature processes DOCX files. Injecting XXE into the `[Content_T
 4. Implement input validation to reject DTD declarations in XML input
 5. Apply least-privilege file system permissions for the web server user
 ```
+@ref(api-reference.md)

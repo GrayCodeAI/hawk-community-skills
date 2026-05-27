@@ -37,3 +37,4 @@ A Privileged Access Workstation (PAW) is a hardened device dedicated to performi
 
 - JSON report listing device compliance status, hardening checks, JIT access windows, and PAM integration verification
 - Risk scoring per workstation with remediation recommendations
+@ref(api-reference.md)

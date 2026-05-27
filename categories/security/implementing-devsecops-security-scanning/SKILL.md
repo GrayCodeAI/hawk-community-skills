@@ -13,3 +13,4 @@ author: mahipal
 
 Automate SAST, SCA, container image, and secret scanning in CI/CD
 pipelines with fail/pass gates based on severity thresholds.
+@ref(api-reference.md)

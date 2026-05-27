@@ -219,3 +219,6 @@ Enable PIM security alerts:
 - [Plan a PIM Deployment](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-deployment-plan)
 - [Start Using PIM](https://learn.microsoft.com/en-us/entra/id-governance/privileged-identity-management/pim-getting-started)
 - [Microsoft Graph PIM API](https://learn.microsoft.com/en-us/graph/api/resources/privilegedidentitymanagementv3-overview)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

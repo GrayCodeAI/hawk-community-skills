@@ -13,3 +13,4 @@ author: mahipal
 
 Scan files, directories, and memory dumps using YARA rules to identify
 malware families, suspicious patterns, and IOC matches.
+@ref(api-reference.md)

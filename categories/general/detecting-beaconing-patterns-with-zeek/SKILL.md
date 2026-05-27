@@ -48,3 +48,4 @@ log_to_df = LogToDataFrame()
 df = log_to_df.create_dataframe('conn.log')
 print(df[['id.orig_h', 'id.resp_h', 'ts', 'duration']].head())
 ```
+@ref(api-reference.md)

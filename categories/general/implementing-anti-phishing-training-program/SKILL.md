@@ -77,3 +77,6 @@ Use `scripts/process.py` to analyze training completion, simulation results, and
 - Measurable reduction in phishing click rate over 6 months
 - Increase in user phishing report rate
 - Department-level improvement tracking
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

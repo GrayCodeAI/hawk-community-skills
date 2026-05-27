@@ -34,3 +34,4 @@ Network traffic baselining establishes normal communication patterns by analyzin
 ## Expected Output
 
 JSON report containing traffic baselines (hourly/daily profiles), per-host statistics, detected anomalies with z-scores, and top talker rankings with deviation indicators.
+@ref(api-reference.md)

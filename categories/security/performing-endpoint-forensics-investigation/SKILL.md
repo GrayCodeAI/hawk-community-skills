@@ -226,3 +226,6 @@ Structure forensic report:
 - **Analyzing only disk, ignoring memory**: In-memory-only malware (fileless attacks) leaves no disk artifacts. Always capture memory first.
 - **Not hashing evidence**: All evidence must be cryptographically hashed at collection time to prove integrity.
 - **Tunnel vision**: Focusing on one artifact when the timeline tells a broader story. Always build a comprehensive timeline.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -88,3 +88,6 @@ Risk Level: [Critical/High/Medium/Low]
 Evidence: [Log entries, process tree, network activity]
 Recommended Action: [Password reset scope, containment steps]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

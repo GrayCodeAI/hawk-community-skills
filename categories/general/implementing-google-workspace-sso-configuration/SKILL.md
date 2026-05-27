@@ -158,3 +158,6 @@ This is useful for allowing direct Google login from corporate network while enf
 - [Set Up Custom SAML App - Google](https://support.google.com/a/answer/6087519)
 - [Okta Google Workspace SAML Guide](https://saml-doc.okta.com/SAML_Docs/How-to-Enable-SAML-2.0-in-Google-Apps.html)
 - [SAML 2.0 Technical Overview - OASIS](https://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -344,3 +344,6 @@ def send_ransomware_alert(source_ip: str, canary_path: str, action: str):
 | Test Date | Test Type | Canary Triggered | Alert Received | Containment Executed | Time to Alert |
 |-----------|----------|-----------------|----------------|---------------------|---------------|
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

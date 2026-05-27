@@ -93,3 +93,6 @@ Domain Age: [Days]
 TI Match: [Yes/No - source]
 Risk Level: [Critical/High/Medium/Low]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

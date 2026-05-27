@@ -72,3 +72,6 @@ AI-powered BEC detection uses machine learning, NLP, and behavioral analytics to
 - NLP correctly classifies urgency manipulation in test scenario
 - False positive rate below 0.05% after baseline training
 - Detection rate exceeds traditional rule-based filters by 25%+
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

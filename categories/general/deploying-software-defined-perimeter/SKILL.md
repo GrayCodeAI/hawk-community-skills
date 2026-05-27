@@ -150,3 +150,6 @@ SDP connections are provisioned on-demand based on real-time policy evaluation. 
 - NIST SP 800-207: Zero Trust Architecture
 - CISA Zero Trust Maturity Model v2.0
 - fwknop: Single Packet Authorization implementation
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

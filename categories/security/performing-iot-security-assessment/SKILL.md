@@ -177,3 +177,4 @@ network entry point with root-level command execution capability.
 3. Encrypt stored WiFi credentials using a hardware-backed key
 4. Deploy cameras on an isolated VLAN with no access to the corporate network
 ```
+@ref(api-reference.md)

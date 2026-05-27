@@ -309,3 +309,4 @@ Prefetch Analysis Summary:
 
   Report: /cases/case-2024-001/analysis/execution_timeline.csv
 ```
+@ref(api-reference.md)

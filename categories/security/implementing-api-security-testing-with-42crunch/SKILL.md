@@ -332,3 +332,4 @@ When 42Crunch identifies issues, follow this remediation process:
 - Microsoft Defender for Cloud 42Crunch Integration: https://learn.microsoft.com/en-us/azure/defender-for-cloud/onboarding-guide-42crunch
 - OWASP API Security Top 10 2023: https://owasp.org/API-Security/editions/2023/en/0x00-header/
 - Jenkins Plugin for 42Crunch: https://plugins.jenkins.io/42crunch-security-audit/
+@ref(api-reference.md)

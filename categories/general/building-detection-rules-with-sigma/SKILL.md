@@ -306,3 +306,4 @@ Testing:
   False Positives:   2 in 7-day backtest (svchost edge case — filter added)
   Performance:       Avg execution 3.2s on 50M events/day
 ```
+@ref(api-reference.md)

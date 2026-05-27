@@ -116,3 +116,6 @@ Deploy CyberArk Privileged Access Management to discover, vault, rotate, and mon
 - [ ] SIEM receives CyberArk audit events
 - [ ] Break-glass procedure tested and documented
 - [ ] DR vault failover tested successfully
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

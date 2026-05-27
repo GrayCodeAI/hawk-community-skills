@@ -13,3 +13,4 @@ author: mahipal
 
 Build and share structured threat intelligence using STIX 2.1 objects
 with the stix2 Python library and TAXII 2.1 transport protocol.
+@ref(api-reference.md)

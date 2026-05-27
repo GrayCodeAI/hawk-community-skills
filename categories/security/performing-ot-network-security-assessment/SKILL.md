@@ -575,3 +575,6 @@ DETAILED FINDINGS:
     Impact: [operational and safety impact]
     Remediation: [specific technical remediation steps]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

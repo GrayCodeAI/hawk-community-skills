@@ -304,3 +304,4 @@ Multiple applications are behind the same CDN. Manipulating the Host header caus
 4. Use application-level hardcoded base URLs instead of deriving from headers
 5. Implement cache key normalization to prevent key manipulation
 ```
+@ref(api-reference.md)

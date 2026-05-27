@@ -315,3 +315,4 @@ REMEDIATION:
   - AWS Config rule deployed: cloudtrail-enabled (auto-remediate)
   - SCP deployed: deny ec2:RunInstances for GPU instance types without approval
 ```
+@ref(api-reference.md)

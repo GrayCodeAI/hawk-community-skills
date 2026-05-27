@@ -110,3 +110,6 @@ PKCE (RFC 7636) prevents authorization code interception attacks:
 - [ ] Token revocation invalidates both access and refresh tokens
 - [ ] Client Credentials flow works for service-to-service calls
 - [ ] Scopes correctly enforced at resource server
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

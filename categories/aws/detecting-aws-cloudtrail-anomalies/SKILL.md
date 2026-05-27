@@ -39,3 +39,4 @@ Produce a JSON report with anomaly scores, top suspicious users, and recommended
 ## Expected Output
 
 JSON report with event statistics, baseline deviations, anomalous users/IPs, sensitive API calls, and error rate analysis.
+@ref(api-reference.md)

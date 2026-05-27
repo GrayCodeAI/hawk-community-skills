@@ -97,3 +97,6 @@ Implement Just-In-Time (JIT) access provisioning to eliminate standing privilege
 - [ ] All JIT events logged to SIEM
 - [ ] Standing privileges reduced by measurable percentage
 - [ ] Mean time to access meets business SLA
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

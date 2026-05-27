@@ -61,3 +61,6 @@ JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens used for 
 - [ ] None algorithm is rejected
 - [ ] JWK key rotation works correctly
 - [ ] Claims validation enforces all required claims
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -65,3 +65,4 @@ The agent script produces a JSON report containing:
   "findings": [...]
 }
 ```
+@ref(api-reference.md)

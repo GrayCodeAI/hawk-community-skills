@@ -44,3 +44,4 @@ aws_creds = f"[default]\naws_access_key_id = {canary_key_id}\naws_secret_access_
 with open("/opt/backup/.aws/credentials", "w") as f:
     f.write(aws_creds)
 ```
+@ref(api-reference.md)

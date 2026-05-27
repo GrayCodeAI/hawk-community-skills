@@ -234,3 +234,6 @@ scout aws --profile production
 - AWS Security Audit Checklist
 - CIS AWS Foundations Benchmark
 - AWS Well-Architected Security Pillar
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

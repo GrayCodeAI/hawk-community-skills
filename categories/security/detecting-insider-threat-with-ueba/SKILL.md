@@ -40,3 +40,4 @@ Combine multiple anomalous indicators (unusual hours + large downloads + new sys
 ## Expected Output
 
 JSON report containing per-user risk scores, anomalous activity details, peer group deviations, and recommended investigation actions.
+@ref(api-reference.md)

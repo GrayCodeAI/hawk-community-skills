@@ -276,3 +276,4 @@ sha256sum mitm_capture.flow mitm_evidence.pcapng >> mitm_report.txt
 3. Enable DAI on access-layer switches for Layer 2 protection
 4. Configure application to reject connections from non-pinned certificates
 ```
+@ref(api-reference.md)

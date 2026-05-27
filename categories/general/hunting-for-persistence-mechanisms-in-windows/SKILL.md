@@ -89,3 +89,6 @@ Creation Time: [Timestamp]
 Risk Level: [Critical/High/Medium/Low]
 Verdict: [Malicious/Suspicious/Benign]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

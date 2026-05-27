@@ -166,3 +166,6 @@ AI-driven analytics detect compromised identities through impossible travel dete
 - CISA Zero Trust Maturity Model v2.0 - Identity Pillar
 - FIDO Alliance WebAuthn Specification
 - Microsoft Entra Conditional Access Documentation
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

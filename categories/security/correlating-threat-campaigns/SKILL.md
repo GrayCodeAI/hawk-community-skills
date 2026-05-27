@@ -140,3 +140,4 @@ Structure the campaign report:
 - **Common malware conflation**: Multiple threat actors use Cobalt Strike. Shared capability does not indicate same actor without additional corroboration.
 - **Premature attribution**: Forcing campaign-to-actor attribution before evidence threshold is reached produces incorrect intelligence that persists in reports.
 - **Missing temporal analysis**: Events from different years may share infrastructure that was recycled by a different actor, not the same campaign.
+@ref(api-reference.md)

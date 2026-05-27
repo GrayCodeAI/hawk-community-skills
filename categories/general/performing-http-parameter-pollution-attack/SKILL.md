@@ -184,3 +184,4 @@ python3 hpp_tester.py --url http://target.com/api/action \
 - Apply WAF rules that detect duplicate parameter patterns
 - Validate all parameters server-side regardless of client-side checks
 ```
+@ref(api-reference.md)

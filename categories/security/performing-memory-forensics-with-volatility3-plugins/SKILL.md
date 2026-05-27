@@ -208,3 +208,6 @@ if __name__ == "__main__":
 - [2024 Volatility Plugin Contest](https://volatilityfoundation.org/the-2024-volatility-plugin-contest-results-are-in/)
 - [Memory Forensics with Volatility 3](https://newtonpaul.com/malware-analysis-memory-forensics-with-volatility-3/)
 - [MITRE ATT&CK T1055 - Process Injection](https://attack.mitre.org/techniques/T1055/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

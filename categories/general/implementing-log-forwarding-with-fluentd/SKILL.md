@@ -38,3 +38,4 @@ This skill covers configuring Fluentd and Fluent Bit for centralized log collect
 - Configuration validation report
 - Log routing topology diagram (text-based)
 - Test event delivery confirmation
+@ref(api-reference.md)

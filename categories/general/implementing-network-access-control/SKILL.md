@@ -421,3 +421,4 @@ wpa_cli -i eth0 status
 - Posture pass rate: 95.8% (15 devices quarantined for missing patches)
 - RADIUS failover tested: Successful (critical VLAN activated in 3 seconds)
 ```
+@ref(api-reference.md)

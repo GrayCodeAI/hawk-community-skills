@@ -308,3 +308,4 @@ LNK File Analysis Summary:
 
   Timeline: /cases/case-2024-001/analysis/lnk_analysis.csv
 ```
+@ref(api-reference.md)

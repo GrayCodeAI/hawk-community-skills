@@ -184,3 +184,9 @@ This skill includes comprehensive reference documentation based on AWS best prac
 - **AWS Well-Architected Serverless Lens**: https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/
 - **ServerlessLand.com**: Pre-built serverless patterns
 - **AWS Serverless Workshops**: https://serverlessland.com/learn?type=Workshops
+@ref(deployment-best-practices.md)
+@ref(eda-patterns.md)
+@ref(observability-best-practices.md)
+@ref(performance-optimization.md)
+@ref(security-best-practices.md)
+@ref(serverless-patterns.md)

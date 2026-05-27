@@ -57,3 +57,6 @@ A cryptographic audit systematically reviews an application's use of cryptograph
 - [ ] Weak KDF parameters are identified
 - [ ] Report includes severity, location, and remediation
 - [ ] False positive rate is below 10%
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)
