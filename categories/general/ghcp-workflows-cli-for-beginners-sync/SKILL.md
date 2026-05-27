@@ -1,19 +1,21 @@
 ---
-name: "CLI for Beginners Content Sync"
+name: ghcp-workflows-cli-for-beginners-sync
 description: "Weekly check for updates to github/copilot-cli-for-beginners. Opens a PR to keep the Learning Hub mirror aligned when substantive upstream course changes are detected."
-on:
-  schedule: weekly
-permissions:
-  contents: read
-tools:
-  github:
-    toolsets: [repos]
-  cache-memory: true
-safe-outputs:
-  create-pull-request:
-    labels: [automated-update, learning-hub, cli-for-beginners]
-    title-prefix: "[bot] "
-    base-branch: staged
+license: MIT
+tags: [general]
+True: None
+schedule: weekly
+permissions: None
+contents: read
+tools: None
+github: None
+toolsets: [repos]
+cache-memory: True
+safe-outputs: None
+create-pull-request: None
+labels: [automated-update, learning-hub, cli-for-beginners]
+title-prefix: [bot]
+base-branch: staged
 ---
 
 # CLI for Beginners Content Sync

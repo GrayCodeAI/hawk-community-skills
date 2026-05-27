@@ -1,6 +1,8 @@
 ---
-name: power-bi-model-design-review
-description: 'Comprehensive Power BI data model design review prompt for evaluating model architecture, relationships, and optimization opportunities.'
+name: copilot-power-bi-model-design-review
+description: "Comprehensive Power BI data model design review prompt for evaluating model architecture, relationships, and optimization opportunities."
+license: MIT
+tags: [general]
 ---
 
 # Power BI Data Model Design Review

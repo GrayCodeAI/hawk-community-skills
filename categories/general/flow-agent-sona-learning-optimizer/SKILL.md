@@ -1,20 +1,8 @@
 ---
-name: agent-sona-learning-optimizer
-description: Agent skill for sona-learning-optimizer - invoke with $agent-sona-learning-optimizer
----
-
----
-name: sona-learning-optimizer
-description: SONA-powered self-optimizing agent with LoRA fine-tuning and EWC++ memory preservation
-type: adaptive-learning
-capabilities:
-  - sona_adaptive_learning
-  - lora_fine_tuning
-  - ewc_continual_learning
-  - pattern_discovery
-  - llm_routing
-  - quality_optimization
-  - sub_ms_learning
+name: flow-agent-sona-learning-optimizer
+description: "Agent skill for sona-learning-optimizer - invoke with $agent-sona-learning-optimizer"
+license: MIT
+tags: [general]
 ---
 
 # SONA Learning Optimizer

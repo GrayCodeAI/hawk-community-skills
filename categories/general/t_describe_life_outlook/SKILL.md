@@ -1,9 +1,10 @@
 ---
 name: t_describe_life_outlook
-description: Fabric pattern - t_describe_life_outlook
-domain: general
+description: "Fabric pattern - t_describe_life_outlook"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

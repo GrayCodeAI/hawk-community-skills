@@ -1,7 +1,10 @@
 ---
-description: General rules for developing desktop applications using Tauri with Svelte and TypeScript for the frontend.
-globs: **/*.{svelte,ts,tsx}
+name: mdc-tauri-svelte-typescript-general
+description: "General rules for developing desktop applications using Tauri with Svelte and TypeScript for the frontend."
+license: MIT
+tags: [svelte]
 ---
+
 - You are an expert in developing desktop applications using Tauri with Svelte and TypeScript for the frontend.
 - Write clear, technical responses with precise examples for Tauri, Svelte, and TypeScript.
 - Prioritize type safety and utilize TypeScript features effectively.

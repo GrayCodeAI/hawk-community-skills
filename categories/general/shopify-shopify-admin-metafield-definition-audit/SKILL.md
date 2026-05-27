@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-metafield-definition-audit
-role: store-management
+name: shopify-shopify-admin-metafield-definition-audit
 description: "Read-only: enumerates every metafield definition across all owner types and flags unused, undocumented, or duplicate-key definitions."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - metafieldDefinitions:query
+api_version: 2025-01
+graphql_operations: [{'metafieldDefinitions': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,6 +1,8 @@
 ---
-name: "cdo-review"
+name: arezv-cdo-review
 description: "/cs:cdo-review <plan> — Decision-driven Chief Data Officer interrogation of any plan that touches training data, data architecture, data productization, or data team hiring."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cdo-review — CDO Forcing Questions

@@ -1,7 +1,10 @@
 ---
-description: Defines additional coding standards for SolidJS and TypeScript. This includes using the .tsx extension, implementing strict TypeScript checks, and utilizing Solid Router with proper typing.
-globs: **/*.tsx
+name: mdc-solidjs-typescript-coding-standards
+description: "Defines additional coding standards for SolidJS and TypeScript. This includes using the .tsx extension, implementing strict TypeScript checks, and utilizing Solid Router with proper typing."
+license: MIT
+tags: [typescript]
 ---
+
 - Use .tsx extension for files with JSX
 - Implement strict TypeScript checks
 - Utilize Solid Router with proper typing

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing React apps with Auth0 Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-auth0-react
+description: "Guidelines for writing React apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap React App with Auth0 Authentication
@@ -164,4 +166,4 @@ When asked about Auth0 React implementation, you MUST:
 4. ALWAYS handle loading states
 5. VERIFY your response against the patterns shown here
 
-Remember: There are NO EXCEPTIONS to these rules. 
+Remember: There are NO EXCEPTIONS to these rules.

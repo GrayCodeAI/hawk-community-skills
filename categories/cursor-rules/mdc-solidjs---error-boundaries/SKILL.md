@@ -1,5 +1,9 @@
 ---
-description: Recommends implementing proper error boundaries within the SolidJS project.
-globs: src/**/*.jsx
+name: mdc-solidjs---error-boundaries
+description: 'Skill: mdc-solidjs---error-boundaries'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Implement proper error boundaries

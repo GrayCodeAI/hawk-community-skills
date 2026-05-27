@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for developing and deploying applications on AWS, emphasizing CDK v2, serverless patterns, and Well-Architected principles.
-globs: **/*
+name: mdc-aws
+description: "This guide provides opinionated, actionable best practices for developing and deploying applications on AWS, emphasizing CDK v2, serverless patterns, and Well-Architected principles."
+license: MIT
+tags: [aws]
 ---
+
 # AWS Best Practices
 
 This document outlines our definitive AWS development standards, rooted in the AWS Well-Architected Framework and modern DevOps guidance. We mandate CDK v2 for infrastructure-as-code and prioritize serverless patterns. Adhere to these guidelines to build secure, reliable, performant, and cost-optimized AWS applications.

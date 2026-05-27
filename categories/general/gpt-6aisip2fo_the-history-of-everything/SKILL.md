@@ -1,3 +1,10 @@
+---
+name: gpt-6aisip2fo_the-history-of-everything
+description: "Skill: gpt-6aisip2fo_the-history-of-everything"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6AIsip2Fo-history-of-x
 
 GPT Title: The History of Everything

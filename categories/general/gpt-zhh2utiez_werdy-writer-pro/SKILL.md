@@ -1,3 +1,10 @@
+---
+name: gpt-zhh2utiez_werdy-writer-pro
+description: "Skill: gpt-zhh2utiez_werdy-writer-pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZhH2UtieZ-werdy-writer-pro
 
 GPT Title: Werdy Writer Pro

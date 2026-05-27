@@ -1,3 +1,10 @@
+---
+name: cpa-ml
+description: "Skill: cpa-ml"
+license: MIT
+tags: [general]
+---
+
 # az ml
 
 ```bash

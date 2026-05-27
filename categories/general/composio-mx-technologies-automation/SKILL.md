@@ -1,8 +1,10 @@
 ---
-name: mx-technologies-automation
+name: composio-mx-technologies-automation
 description: "Automate MX Technologies tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # MX Technologies Automation via Rube MCP

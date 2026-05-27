@@ -1,9 +1,9 @@
 ---
-name: quality-playbook
-description: "Run a complete quality engineering audit on any codebase. Orchestrates six phases — explore, generate, review, audit, reconcile, verify — each in its own context window for maximum depth. Then runs iteration strategies to find even more bugs. Finds the 35% of real defects that structural code review alone cannot catch."
-tools:
-  - search/codebase
-  - web/fetch
+name: ghcp-agents-quality-playbook.agent
+description: "Run a complete quality engineering audit on any codebase. Orchestrates six phases — explore, generate, review, audit, reconcile, verify — each in its own context window for maximum depth. Then runs..."
+license: MIT
+tags: [general]
+tools: None
 ---
 
 # Quality Playbook — Orchestrator Agent

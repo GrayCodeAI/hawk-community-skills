@@ -1,9 +1,10 @@
 ---
 name: t_threat_model_plans
-description: Fabric pattern - t_threat_model_plans
-domain: general
+description: "Fabric pattern - t_threat_model_plans"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

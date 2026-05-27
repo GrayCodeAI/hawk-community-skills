@@ -1,3 +1,10 @@
+---
+name: gpt-ckzvlw9gv_lex_fridman_podcast_companion
+description: "Skill: gpt-ckzvlw9gv_lex_fridman_podcast_companion"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CkzvlW9gv-lex-fridman-podcast-companion
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HOZIMwXOV6khuQcVKwoOHOWd?se=2123-10-27T18%3A33%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5a399342-4de7-445e-b87a-166468aca41c.webp&sig=HozZAK7Xdgg/y58xW2J9erfyZOK4CVLT1iKiTjBO2Sw%3D" width="100px" />

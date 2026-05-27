@@ -1,7 +1,9 @@
 ---
-name: api-designer
-description: REST and GraphQL API design with OpenAPI specs, versioning, and pagination patterns
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-api-designer
+description: "REST and GraphQL API design with OpenAPI specs, versioning, and pagination patterns"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

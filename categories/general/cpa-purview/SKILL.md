@@ -1,3 +1,10 @@
+---
+name: cpa-purview
+description: "Skill: cpa-purview"
+license: MIT
+tags: [general]
+---
+
 # az purview
 
 ```bash

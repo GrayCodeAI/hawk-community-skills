@@ -1,9 +1,11 @@
 ---
-name: performance-testing-review-multi-agent-review
+name: ag-performance-testing-review-multi-agent-review
 description: "Use when working with performance testing review multi agent review"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Multi-Agent Code Review Orchestration Tool

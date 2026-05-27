@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-quality, performant, and maintainable Flutter applications using modern Dart 3.10+ practices.
-globs: **/*
+name: mdc-flutter
+description: "Definitive guidelines for writing high-quality, performant, and maintainable Flutter applications using modern Dart 3.10+ practices."
+license: MIT
+tags: [mobile]
 ---
+
 # flutter Best Practices
 
 ## Code Organization and Structure

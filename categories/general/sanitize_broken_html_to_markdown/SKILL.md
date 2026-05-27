@@ -1,9 +1,10 @@
 ---
 name: sanitize_broken_html_to_markdown
-description: Fabric pattern - sanitize_broken_html_to_markdown
-domain: general
+description: "Fabric pattern - sanitize_broken_html_to_markdown"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

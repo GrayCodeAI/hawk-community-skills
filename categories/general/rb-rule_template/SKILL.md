@@ -1,3 +1,10 @@
+---
+name: rb-rule_template
+description: "Skill: rb-rule_template"
+license: MIT
+tags: [general]
+---
+
 ## Directory Structure
 
 Below is the top-level directory structure from <em>clinerules/directory-structure</em>. This structure is central to how the project is organized:

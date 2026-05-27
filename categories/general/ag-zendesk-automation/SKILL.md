@@ -1,9 +1,11 @@
 ---
-name: zendesk-automation
+name: ag-zendesk-automation
 description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Zendesk Automation via Rube MCP

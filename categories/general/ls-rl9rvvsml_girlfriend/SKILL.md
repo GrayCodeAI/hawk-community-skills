@@ -1,3 +1,10 @@
+---
+name: ls-rl9rvvsml_girlfriend
+description: "Skill: ls-rl9rvvsml_girlfriend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rl9RvVSml-girlfriend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Bdf9KwCuONF4KZfWCEzxJZHY?se=2123-12-13T23%3A21%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D668ea676-308d-408a-beec-25297a4035b8.png&sig=41DgbjKbRVGbi4g4%2Bt9GjCbBbsIcS95tkNmsTQ/xDCc%3D" width="100px" />

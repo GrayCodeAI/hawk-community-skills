@@ -1,3 +1,10 @@
+---
+name: sys-google-gemini-1.5_20240411
+description: "Skill: sys-google-gemini-1.5_20240411"
+license: MIT
+tags: [general]
+---
+
 # google-gemini-1.5_20240411
 
 sources:

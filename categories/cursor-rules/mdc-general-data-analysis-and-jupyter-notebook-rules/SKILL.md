@@ -1,7 +1,10 @@
 ---
-description: Applies general guidelines for data analysis, visualization, and Jupyter Notebook development with Python, focusing on best practices with pandas, matplotlib, and seaborn.
-globs: **/*.ipynb
+name: mdc-general-data-analysis-and-jupyter-notebook-rules
+description: "Applies general guidelines for data analysis, visualization, and Jupyter Notebook development with Python, focusing on best practices with pandas, matplotlib, and seaborn."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write concise, technical responses with accurate Python examples.
 - Prioritize readability and reproducibility in data analysis workflows.
 - Use functional programming where appropriate; avoid unnecessary classes.

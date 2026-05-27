@@ -1,8 +1,10 @@
 ---
-name: remove-bg-automation
+name: composio-remove-bg-automation
 description: "Automate Remove Bg tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Remove Bg Automation via Rube MCP

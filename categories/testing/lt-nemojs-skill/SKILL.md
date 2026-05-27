@@ -1,17 +1,14 @@
 ---
-name: nemojs-skill
-description: >
-  Generates Nemo.js automation tests in JavaScript. PayPal's Selenium-based
-  test framework for Node.js. Use when user mentions "Nemo.js", "nemo
-  automation". Triggers on: "Nemo.js", "nemo automation", "nemo test",
-  "PayPal test framework".
-languages:
-  - JavaScript
-category: e2e-testing
+name: lt-nemojs-skill
+description: "Skill: lt-nemojs-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+automation". Triggers on: Nemo.js", "nemo automation", "nemo test",
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Nemo.js Automation Skill

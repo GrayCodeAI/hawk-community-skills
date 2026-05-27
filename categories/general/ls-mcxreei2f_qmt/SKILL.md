@@ -1,3 +1,10 @@
+---
+name: ls-mcxreei2f_qmt
+description: "Skill: ls-mcxreei2f_qmt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mcXReeI2f-qmt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DNSlv6jsDTP8djS7epCnmki4?se=2123-10-29T11%3A23%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1b469e55-dccc-4782-8e3b-d67247eb80e0.png&sig=Iima3uo6p0ASjC8ErQShnJ1XgtQLmF2fq7xIUsC4rTM%3D" width="100px" />

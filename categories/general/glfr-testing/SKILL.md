@@ -1,3 +1,10 @@
+---
+name: glfr-testing
+description: "Skill: glfr-testing"
+license: MIT
+tags: [general]
+---
+
 # Testing Rules
 
 ## Test Before Commit

@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-gift-card-balance-report
-role: finance
+name: shopify-shopify-admin-gift-card-balance-report
 description: "Read-only: lists all active gift cards with remaining balance, expiry, and last-used date for liability tracking."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - giftCards:query
+api_version: 2025-01
+graphql_operations: [{'giftCards': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

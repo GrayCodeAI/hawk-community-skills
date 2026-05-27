@@ -1,7 +1,10 @@
 ---
-description: Rules specific to Svelte UI component development in Tauri applications.
-globs: src/components/**/*.{svelte,ts,tsx}
+name: mdc-tauri-svelte-ui-components
+description: "Rules specific to Svelte UI component development in Tauri applications."
+license: MIT
+tags: [svelte]
 ---
+
 - Use Svelte's component-based architecture for modular and reusable UI elements.
 - Leverage TypeScript for strong typing and improved code quality.
 - Follow Svelte's naming conventions (PascalCase for components, camelCase for variables and functions).

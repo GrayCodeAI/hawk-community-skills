@@ -1,3 +1,10 @@
+---
+name: cpa-eventgrid
+description: "Skill: cpa-eventgrid"
+license: MIT
+tags: [general]
+---
+
 # az eventgrid
 
 ```bash

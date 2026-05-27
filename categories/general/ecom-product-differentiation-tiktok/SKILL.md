@@ -1,9 +1,11 @@
 ---
-name: product-differentiation-tiktok
+name: ecom-product-differentiation-tiktok
+description: "TikTok Shop product differentiation strategy tool. Analyze viral product trends, competitor affiliate strategies, content performance, and identify differentiation opportunities. Includes TikTok-sp..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "TikTok Shop product differentiation strategy tool. Analyze viral product trends, competitor affiliate strategies, content performance, and identify differentiation opportunities. Includes TikTok-specific metrics like engagement rate, viral potential, and creator collaboration insights. No API key required."
-metadata: {"nexscope":{"emoji":"🎯","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🎯', 'category': 'ecommerce'}}
 ---
 
 # Product Differentiation — TikTok Shop 🎯

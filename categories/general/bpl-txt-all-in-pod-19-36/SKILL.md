@@ -1,9 +1,10 @@
 ---
-name: bpl-all-in-pod-19-36
-description: System prompt - all-in-pod-19-36
-domain: general
+name: bpl-txt-all-in-pod-19-36
+description: "System prompt - all-in-pod-19-36"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

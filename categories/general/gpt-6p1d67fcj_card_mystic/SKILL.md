@@ -1,3 +1,10 @@
+---
+name: gpt-6p1d67fcj_card_mystic
+description: "Skill: gpt-6p1d67fcj_card_mystic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6P1d67FCj-card-mystic
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IAuR4ivNdGUxe91a5vcroldE?se=2124-01-05T01%3A17%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df11c3359-a3a0-4ce3-ba38-342822a292ab.png&sig=qphnNc%2BO9VigGbhxp7pUryVxjxwTbfzxQh8WPi5KZH0%3D" width="100px" />

@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-browser-tester
 description: "E2E browser testing, UI/UX validation, visual regression."
-name: gem-browser-tester
-argument-hint: "Enter task_id, plan_id, plan_path, and test validation_matrix or flow definitions."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, and test validation_matrix or flow definitions.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the BROWSER TESTER

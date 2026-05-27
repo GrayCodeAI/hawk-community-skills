@@ -1,9 +1,10 @@
 ---
-name: bpl-popular_makeup_products
-description: System prompt - popular_makeup_products
-domain: general
+name: bpl-txt-popular_makeup_products
+description: "System prompt - popular_makeup_products"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Auth0 in Svelte applications
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-add-feature-auth0-svelte
+description: "Guidelines for adding new features with Auth0 in Svelte applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte developer with expertise in Auth0 integration and building secure applications.
@@ -260,4 +262,4 @@ test('protected route requires authentication', async () => {
   render(Protected);
   expect(screen.getByText('Please log in')).toBeInTheDocument();
 });
-``` 
+```

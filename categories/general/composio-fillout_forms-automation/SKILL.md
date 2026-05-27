@@ -1,8 +1,10 @@
 ---
-name: fillout_forms-automation
+name: composio-fillout_forms-automation
 description: "Automate Fillout tasks via Rube MCP (Composio): forms, submissions, workflows, and form builder. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Fillout Automation via Rube MCP

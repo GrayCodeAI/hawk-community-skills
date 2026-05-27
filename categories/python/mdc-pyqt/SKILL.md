@@ -1,7 +1,10 @@
 ---
-description: Enforce modern, maintainable, and performant PyQt application development standards by leveraging Qt Designer, Model-View architecture, and responsive threading.
-globs: **/*.py
+name: mdc-pyqt
+description: "Enforce modern, maintainable, and performant PyQt application development standards by leveraging Qt Designer, Model-View architecture, and responsive threading."
+license: MIT
+tags: [python]
 ---
+
 # PyQt Best Practices
 
 This guide outlines essential practices for building robust, scalable, and maintainable PyQt applications. Adhere to these rules for consistent, high-quality code.

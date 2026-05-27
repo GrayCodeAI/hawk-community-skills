@@ -1,3 +1,10 @@
+---
+name: gpt-ej5zyqrib_academic_assistant_pro
+description: "Skill: gpt-ej5zyqrib_academic_assistant_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Dwtb6wId5QQI5EFlrVNBkOVk?se=2123-10-20T08%3A47%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D629998af-08da-406f-b8d1-97c9543b56b8.png&sig=Q5Hqblmz5PUlhNl%2BiOFui9Iuk94YCBTHmxSgM9V/Ynk%3D" width="100px" />

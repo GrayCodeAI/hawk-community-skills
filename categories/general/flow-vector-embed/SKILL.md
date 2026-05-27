@@ -1,7 +1,9 @@
 ---
-name: vector-embed
-description: Generate embeddings via npx ruvector@0.2.25 embed text (ONNX all-MiniLM-L6-v2, 384-dim), normalize, and store in HNSW index
-argument-hint: "<text-or-file>"
+name: flow-vector-embed
+description: "Generate embeddings via npx ruvector@0.2.25 embed text (ONNX all-MiniLM-L6-v2, 384-dim), normalize, and store in HNSW index"
+license: MIT
+tags: [general]
+argument-hint: <text-or-file>
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search
 ---
 

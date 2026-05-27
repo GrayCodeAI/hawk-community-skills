@@ -1,20 +1,17 @@
 ---
-name: gif-sticker-maker
-description: |
-  Convert photos (people, pets, objects, logos) into 4 animated GIF stickers with captions.
-  Use when: user wants to create cartoon stickers, GIF expressions, emoji packs, animated avatars,
-  or convert photos to Funko Pop / Pop Mart blind box style animations.
-  Triggers: sticker, GIF, cartoon, emoji, expression pack, avatar animation.
+name: minimax-gif-sticker-maker
+description: "Skill: minimax-gif-sticker-maker"
 license: MIT
-metadata:
-  version: "1.2"
-  category: creative-tools
-  style: Funko Pop / Pop Mart
-  output_format: GIF
-  output_count: 4
-  sources:
-    - MiniMax Image Generation API
-    - MiniMax Video Generation API
+tags: [general]
+Use when: user wants to create cartoon stickers, GIF expressions, emoji packs, animated avatars,
+Triggers: sticker, GIF, cartoon, emoji, expression pack, avatar animation.
+metadata: None
+version: 1.2
+category: creative-tools
+style: Funko Pop / Pop Mart
+output_format: GIF
+output_count: 4
+sources: None
 ---
 
 # GIF Sticker Maker

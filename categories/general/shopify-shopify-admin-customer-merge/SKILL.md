@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-customer-merge
-role: customer-support
+name: shopify-shopify-admin-customer-merge
 description: "Merges duplicate customer records: invokes Shopify's native customer merge API where supported, otherwise consolidates the loser record's tags and notes into the winner via customerUpdate."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customer:query
-  - customerMerge:mutation
-  - customerUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'customer': 'query'}, {'customerMerge': 'mutation'}, {'customerUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

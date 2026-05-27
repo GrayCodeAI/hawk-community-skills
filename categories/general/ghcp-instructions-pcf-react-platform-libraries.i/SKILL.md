@@ -1,6 +1,8 @@
 ---
-description: 'React controls and platform libraries for PCF components'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-react-platform-libraries.i
+description: "Skill: ghcp-instructions-pcf-react-platform-libraries.i"
+license: MIT
+tags: [general]
 ---
 
 # React Controls & Platform Libraries

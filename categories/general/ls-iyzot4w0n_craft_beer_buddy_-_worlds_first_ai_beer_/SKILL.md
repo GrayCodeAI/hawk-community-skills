@@ -1,3 +1,10 @@
+---
+name: ls-iyzot4w0n_craft_beer_buddy_-_worlds_first_ai_beer_
+description: "Skill: ls-iyzot4w0n_craft_beer_buddy_-_worlds_first_ai_beer_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IYZOt4w0N-craft-beer-buddy-world-s-first-ai-beer-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YhR0EZSnOxeYmdkOEfIQKjwG?se=2123-12-13T20%3A24%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D056fa988-546e-4ccf-bbfe-49d01ff0f936.png&sig=jQavkC19TSy3PuTm8vpfjfY0IRqcb4AauxP%2BAmW6NLk%3D" width="100px" />

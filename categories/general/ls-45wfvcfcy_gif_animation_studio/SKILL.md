@@ -1,3 +1,10 @@
+---
+name: ls-45wfvcfcy_gif_animation_studio
+description: "Skill: ls-45wfvcfcy_gif_animation_studio"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-45WfVCFcy-gif-animation-studio
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8gNZd8NaSml2H7vD8Xx6urEL?se=2123-12-16T10%3A24%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DWhatsApp%2520Image%25202024-01-09%2520at%252011.18.45.jpeg&sig=hqxQm99PVesWd2AaTMyWES%2BEtnnh5MTMnOdrIMazw8U%3D" width="100px" />

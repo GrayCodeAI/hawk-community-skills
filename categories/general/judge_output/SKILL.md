@@ -1,9 +1,10 @@
 ---
 name: judge_output
-description: Fabric pattern - judge_output
-domain: general
+description: "Fabric pattern - judge_output"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

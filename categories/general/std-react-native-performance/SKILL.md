@@ -1,19 +1,14 @@
 ---
-name: react-native-performance
-description: Optimize React Native rendering for smooth 60fps mobile experiences. Use when optimizing React Native app performance, reducing re-renders, or fixing frame drops.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.ts'
-    keywords:
-    - FlatList
-    - memo
-    - useMemo
-    - useCallback
-    - performance
-    - optimization
+name: std-react-native-performance
+description: "Optimize React Native rendering for smooth 60fps mobile experiences. Use when optimizing React Native app performance, reducing re-renders, or fixing frame drops."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Performance
 
 ## **Priority: P0 (CRITICAL)**

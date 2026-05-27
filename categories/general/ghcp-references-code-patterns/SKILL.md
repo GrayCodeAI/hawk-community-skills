@@ -1,3 +1,10 @@
+---
+name: ghcp-references-code-patterns
+description: "Skill: ghcp-references-code-patterns"
+license: MIT
+tags: [general]
+---
+
 # .NET Timezone Code Patterns
 
 ## Pattern 1: Basic TimeZoneInfo

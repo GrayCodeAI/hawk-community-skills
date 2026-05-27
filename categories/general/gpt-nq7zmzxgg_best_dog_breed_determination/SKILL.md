@@ -1,3 +1,10 @@
+---
+name: gpt-nq7zmzxgg_best_dog_breed_determination
+description: "Skill: gpt-nq7zmzxgg_best_dog_breed_determination"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Nq7ZmZxgG-best-dog-breed-determination
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IJyqVA9Yv5Uvf7nijZInwMvA?se=2124-01-08T01%3A22%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbd51eb7c-f735-48c1-b008-c127e220fbef.png&sig=XBOBWNj2ahnnXu4enVOygyoKZRwyh86pAs43ptT8Zew%3D" width="100px" />

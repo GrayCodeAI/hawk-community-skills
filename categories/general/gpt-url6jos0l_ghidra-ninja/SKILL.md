@@ -1,3 +1,10 @@
+---
+name: gpt-url6jos0l_ghidra-ninja
+description: "Skill: gpt-url6jos0l_ghidra-ninja"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-URL6jOS0L-ghidra-ninja
 
 GPT Title: Ghidra Ninja

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-tables-to-html
+description: "Skill: ghcp-references-tables-to-html"
+license: MIT
+tags: [general]
+---
+
 # Tables to HTML
 
 ## Creating a table

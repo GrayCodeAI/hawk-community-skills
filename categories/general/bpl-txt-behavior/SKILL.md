@@ -1,9 +1,10 @@
 ---
-name: bpl-behavior
-description: System prompt - behavior
-domain: general
+name: bpl-txt-behavior
+description: "System prompt - behavior"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

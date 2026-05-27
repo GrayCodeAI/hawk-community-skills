@@ -1,9 +1,11 @@
 ---
-name: haskell-pro
+name: ag-haskell-pro
 description: "Expert Haskell engineer specializing in advanced type systems, pure"
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

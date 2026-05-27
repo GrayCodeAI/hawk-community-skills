@@ -1,3 +1,10 @@
+---
+name: ls-lppt0lwkb_openstorytelling-plus[v0]
+description: "Skill: ls-lppt0lwkb_openstorytelling-plus[v0]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus
 
 GPT Title: OpenStorytelling Plus

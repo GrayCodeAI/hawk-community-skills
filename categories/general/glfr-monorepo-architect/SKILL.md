@@ -1,7 +1,9 @@
 ---
-name: monorepo-architect
-description: Turborepo/Nx workspace strategies, dependency graphs, and monorepo build optimization
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-monorepo-architect
+description: "Turborepo/Nx workspace strategies, dependency graphs, and monorepo build optimization"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

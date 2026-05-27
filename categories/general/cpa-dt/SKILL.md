@@ -1,3 +1,10 @@
+---
+name: cpa-dt
+description: "Skill: cpa-dt"
+license: MIT
+tags: [general]
+---
+
 # az dt
 
 ```bash

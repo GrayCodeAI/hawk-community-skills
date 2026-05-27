@@ -1,10 +1,12 @@
 ---
-name: ecommerce-keyword-research
-description: "Cross-platform keyword research for e-commerce. Discover high-converting keywords across Amazon, Shopify, Etsy, Google Shopping, TikTok Shop, and Walmart. Analyzes search volume signals, competition indicators, commercial intent, and long-tail opportunities."
-metadata:
-  nexscope:
-    emoji: "🔍"
-    category: ecommerce
+name: ecom-ecommerce-keyword-research
+description: "Cross-platform keyword research for e-commerce. Discover high-converting keywords across Amazon, Shopify, Etsy, Google Shopping, TikTok Shop, and Walmart. Analyzes search volume signals, competitio..."
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🔍
+category: ecommerce
 ---
 
 # E-Commerce Keyword Research 🔍

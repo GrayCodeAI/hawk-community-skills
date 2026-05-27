@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-vuejs
-description: Cursor rules for typescript-vuejs
-domain: engineering
+description: "Cursor rules for typescript-vuejs"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -23,4 +24,3 @@ Performance Optimization:
 
 Key Conventions:
 Follow Vue.js docs for where makes sense
-

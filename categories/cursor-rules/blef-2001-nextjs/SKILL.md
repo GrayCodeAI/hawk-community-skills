@@ -1,7 +1,9 @@
 ---
-description: Use these rules when building Next.js projects
-globs: src/**/*.{ts,tsx}, next.config.ts
-alwaysApply: false
+name: blef-2001-nextjs
+description: "Use these rules when building Next.js projects"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Next.js Rules

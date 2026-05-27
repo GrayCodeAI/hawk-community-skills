@@ -1,9 +1,10 @@
 ---
 name: cr-solidjs-typescript
-description: Cursor rules for solidjs-typescript
-domain: engineering
+description: "Cursor rules for solidjs-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -50,4 +51,3 @@ const additionalInstructions = `
 6. Follow TypeScript best practices and naming conventions
 7. Use type assertions sparingly and only when necessary
 `;
-

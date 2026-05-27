@@ -1,9 +1,11 @@
 ---
-name: azure-eventhub-dotnet
-description: Azure Event Hubs SDK for .NET.
+name: ag-azure-eventhub-dotnet
+description: "Azure Event Hubs SDK for .NET."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Azure.Messaging.EventHubs (.NET)

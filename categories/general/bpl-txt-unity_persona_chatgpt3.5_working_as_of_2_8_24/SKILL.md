@@ -1,9 +1,10 @@
 ---
-name: bpl-unity_persona_chatgpt3.5_working_as_of_2_8_24
-description: System prompt - unity_persona_chatgpt3.5_working_as_of_2_8_24
-domain: general
+name: bpl-txt-unity_persona_chatgpt3.5_working_as_of_2_8_24
+description: "System prompt - unity_persona_chatgpt3.5_working_as_of_2_8_24"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,3 +1,10 @@
+---
+name: agc-custom_metrics
+description: "Skill: agc-custom_metrics"
+license: MIT
+tags: [general]
+---
+
 # DeepEval Custom Metrics Implementation Guide
 
 ## Overview

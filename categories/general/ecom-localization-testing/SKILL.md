@@ -1,19 +1,15 @@
 ---
-nexscope:
-  name: "Localization Testing"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "localization"
-    - "i18n"
-    - "testing"
-    - "international"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "localization testing"
+name: ecom-localization-testing
+description: "Skill: ecom-localization-testing"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Localization Testing

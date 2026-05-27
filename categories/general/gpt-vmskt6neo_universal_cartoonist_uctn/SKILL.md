@@ -1,3 +1,10 @@
+---
+name: gpt-vmskt6neo_universal_cartoonist_uctn
+description: "Skill: gpt-vmskt6neo_universal_cartoonist_uctn"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vMSkT6neo-universal-cartoonist-uctn
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lkh8AnNB4LIR66jmkpvo1e1s?se=2124-01-14T08%3A33%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D74031b85-4d3a-40c4-80f0-35c857a7c642.png&sig=7hD9UU7yfmjW25ercanbBAouzdqjx8ckEZYqb9sZ%2BzM%3D" width="100px" />

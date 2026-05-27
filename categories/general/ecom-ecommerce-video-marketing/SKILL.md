@@ -1,3 +1,10 @@
+---
+name: ecom-ecommerce-video-marketing
+description: "Skill: ecom-ecommerce-video-marketing"
+license: MIT
+tags: [general]
+---
+
 # E-Commerce Video Marketing
 
 Create video marketing strategy for e-commerce brands. Product videos, unboxing, tutorials, UGC, live streams, and platform-specific video optimization for Amazon, TikTok, YouTube, and Instagram.

@@ -1,8 +1,10 @@
 ---
-name: icims-talent-cloud-automation
+name: composio-icims-talent-cloud-automation
 description: "Automate Icims Talent Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Icims Talent Cloud Automation via Rube MCP

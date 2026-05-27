@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive Power BI data modeling best practices based on Microsoft guidance for creating efficient, scalable, and maintainable semantic models using star schema principles.'
-applyTo: '**/*.{pbix,md,json,txt}'
+name: ghcp-instructions-power-bi-data-modeling-best-pr
+description: "Skill: ghcp-instructions-power-bi-data-modeling-best-pr"
+license: MIT
+tags: [general]
 ---
 
 # Power BI Data Modeling Best Practices

@@ -1,3 +1,10 @@
+---
+name: ls-ghewyi2r1_evolution-chamber
+description: "Skill: ls-ghewyi2r1_evolution-chamber"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GhEwyi2R1-evolution-chamber
 
 GPT Title: Evolution Chamber

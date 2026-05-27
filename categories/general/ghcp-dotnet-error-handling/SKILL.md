@@ -1,3 +1,10 @@
+---
+name: ghcp-dotnet-error-handling
+description: "Skill: ghcp-dotnet-error-handling"
+license: MIT
+tags: [general]
+---
+
 # Error Handling Patterns
 
 Handle errors gracefully in your Copilot SDK applications.

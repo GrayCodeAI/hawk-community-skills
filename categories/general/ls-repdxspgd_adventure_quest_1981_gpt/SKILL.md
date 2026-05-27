@@ -1,3 +1,10 @@
+---
+name: ls-repdxspgd_adventure_quest_1981_gpt
+description: "Skill: ls-repdxspgd_adventure_quest_1981_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rEpdXsPGD-adventure-quest-1981-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kecAy7W4B0TOVhgZxAlhuXVr?se=2124-01-15T15%3A39%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc9e36bcc-586e-4d9c-9bad-a18ce62f1588.png&sig=SAgNTNhEfsD0IocSbFF0M06mc32kecPPz8SCWOA3gRM%3D" width="100px" />

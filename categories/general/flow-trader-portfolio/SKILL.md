@@ -1,9 +1,12 @@
 ---
-name: trader-portfolio
-description: Optimize portfolio allocation using npx neural-trader mean-variance engine with risk constraints and rebalancing plan
+name: flow-trader-portfolio
+description: "Optimize portfolio allocation using npx neural-trader mean-variance engine with risk constraints and rebalancing plan"
+license: MIT
+tags: [general]
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__neural_predict mcp__claude-flow__agentdb_pattern-search
-argument-hint: "[--risk-target NUMBER]"
+argument-hint: [--risk-target NUMBER]
 ---
+
 Optimize portfolio allocation using neural-trader's portfolio engine.
 
 Steps:

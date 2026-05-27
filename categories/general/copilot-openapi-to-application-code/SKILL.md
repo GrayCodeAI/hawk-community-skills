@@ -1,6 +1,8 @@
 ---
-name: openapi-to-application-code
-description: 'Generate a complete, production-ready application from an OpenAPI specification'
+name: copilot-openapi-to-application-code
+description: "Generate a complete, production-ready application from an OpenAPI specification"
+license: MIT
+tags: [general]
 ---
 
 # Generate Application from OpenAPI Spec

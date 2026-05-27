@@ -1,3 +1,10 @@
+---
+name: ghcp-references-css-styling
+description: "Skill: ghcp-references-css-styling"
+license: MIT
+tags: [general]
+---
+
 # CSS & Styling Reference
 
 Comprehensive reference for Cascading Style Sheets, layout systems, and modern styling techniques.

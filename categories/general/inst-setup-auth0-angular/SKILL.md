@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Angular apps with Auth0 Auth
-globs: **/*.ts, **/*.html
+name: inst-setup-auth0-angular
+description: "Guidelines for writing Angular apps with Auth0 Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Angular app with Auth0 Auth
@@ -181,4 +183,4 @@ When implementing Auth0 Auth for Angular, you MUST:
 2. Implement proper error handling
 3. Follow Angular dependency injection patterns
 4. Configure secure route protection
-5. Handle environment variables properly 
+5. Handle environment variables properly

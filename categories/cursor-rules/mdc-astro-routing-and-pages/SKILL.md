@@ -1,7 +1,10 @@
 ---
-description: Rules for utilizing Astro's file-based routing system and dynamic routes.
-globs: src/pages/**/*.astro
+name: mdc-astro-routing-and-pages
+description: "Rules for utilizing Astro's file-based routing system and dynamic routes."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Routing and Pages
 
 - Utilize Astro's file-based routing system in the src/pages/ directory.

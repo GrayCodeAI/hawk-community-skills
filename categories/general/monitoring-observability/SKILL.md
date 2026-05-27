@@ -1,11 +1,11 @@
 ---
 name: monitoring-observability
-description: Set up monitoring, logging, and observability for applications and infrastructure. Use when implementing health checks, metrics collection, log aggregation, or alerting systems. Handles Prometheus, Grafana, ELK Stack, Datadog, and monitoring best practices.
-metadata:
-  tags: monitoring, observability, logging, metrics, Prometheus, Grafana, alerts
-  platforms: Claude, ChatGPT, Gemini
+description: "Set up monitoring, logging, and observability for applications and infrastructure. Use when implementing health checks, metrics collection, log aggregation, or alerting systems. Handles Prometheus,..."
+license: MIT
+tags: [monitoring, observability, logging, metrics, prometheus, grafana, alerts]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Monitoring & Observability
 

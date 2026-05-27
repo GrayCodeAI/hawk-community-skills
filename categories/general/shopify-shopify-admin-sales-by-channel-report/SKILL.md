@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-sales-by-channel-report
-role: finance
+name: shopify-shopify-admin-sales-by-channel-report
 description: "Read-only: breaks down revenue, units, and AOV by sales channel (Online Store, POS, Draft Orders, etc.)."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

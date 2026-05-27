@@ -1,3 +1,10 @@
+---
+name: cpa-configure
+description: "Skill: cpa-configure"
+license: MIT
+tags: [general]
+---
+
 # az configure
 
 Manage Azure CLI configuration. This command is interactive.

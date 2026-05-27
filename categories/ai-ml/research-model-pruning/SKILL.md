@@ -1,10 +1,10 @@
 ---
-name: model-pruning
-description: Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use when compressing models without retraining, achieving 50% sparsity with minimal accuracy loss, or enabling faster inference on hardware accelerators. Covers unstructured pruning, structured pruning, N:M sparsity, magnitude pruning, and one-shot methods.
+name: research-model-pruning
+description: "Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use when compressing models without retraining, achieving 50% sparsity with minimal accuracy loss, or ena..."
+license: MIT
+tags: [emerging-techniques, model-pruning, wanda, sparsegpt, sparsity, model-compression, n-m-sparsity, one-shot-pruning, structured-pruning, unstructured-pruning, fast-inference]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Emerging Techniques, Model Pruning, Wanda, SparseGPT, Sparsity, Model Compression, N:M Sparsity, One-Shot Pruning, Structured Pruning, Unstructured Pruning, Fast Inference]
 dependencies: [transformers, torch]
 ---
 
@@ -491,5 +491,3 @@ iterative_prune(model, target=0.9, steps=10)
 - **SparseGPT Paper**: https://arxiv.org/abs/2301.00774
 - **SparseGPT GitHub**: https://github.com/IST-DASLab/sparsegpt
 - **NVIDIA Sparse Tensor Cores**: https://developer.nvidia.com/blog/accelerating-inference-with-sparsity-using-ampere-and-tensorrt/
-
-

@@ -1,19 +1,14 @@
 ---
-name: ios-persistence
-description: Implement local persistence with SwiftData, Core Data, and Keychain. Use when setting up SwiftData models, Core Data stacks, or local persistence in iOS.
-metadata:
-  triggers:
-    files:
-    - '**/*.xcdatamodeld'
-    - '**/*Model.swift'
-    keywords:
-    - PersistentContainer
-    - FetchRequest
-    - ManagedObject
-    - Query
-    - ModelContainer
-    - Repository
+name: std-ios-persistence
+description: "Implement local persistence with SwiftData, Core Data, and Keychain. Use when setting up SwiftData models, Core Data stacks, or local persistence in iOS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Persistence
 
 ## **Priority: P0**

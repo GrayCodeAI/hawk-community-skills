@@ -1,7 +1,10 @@
 ---
-description: Enforce modern TypeScript best practices for robust, type-safe JavaScript applications, focusing on strictness, clear type definitions, and runtime validation.
-globs: **/*.{js,jsx}
+name: mdc-typescript
+description: "Enforce modern TypeScript best practices for robust, type-safe JavaScript applications, focusing on strictness, clear type definitions, and runtime validation."
+license: MIT
+tags: [typescript]
 ---
+
 # TypeScript Best Practices (for JS/JSX Type-Checking)
 
 This guide outlines essential TypeScript best practices for teams working with JavaScript or JSX files that are type-checked by TypeScript (e.g., via `tsconfig.json` with `allowJs` and/or JSDoc annotations). While many examples use native TypeScript syntax for clarity and conciseness, the underlying principles and type-safety benefits apply directly to your `.js`/`.jsx` codebase.

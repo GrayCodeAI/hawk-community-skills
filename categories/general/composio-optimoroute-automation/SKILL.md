@@ -1,8 +1,10 @@
 ---
-name: optimoroute-automation
+name: composio-optimoroute-automation
 description: "Automate Optimoroute tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Optimoroute Automation via Rube MCP

@@ -1,7 +1,8 @@
 ---
 name: python-fastapi-patterns
-description: FastAPI best practices, async patterns, and Pydantic validation
+description: "FastAPI best practices, async patterns, and Pydantic validation"
 license: MIT
+tags: [python]
 compatibility: python 3.11+, fastapi 0.100+, pydantic 2+
 allowed-tools: read_file write_file apply_patch run_command
 ---

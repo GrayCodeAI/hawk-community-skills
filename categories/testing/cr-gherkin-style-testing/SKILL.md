@@ -1,9 +1,10 @@
 ---
 name: cr-gherkin-style-testing
-description: Cursor rules for gherkin-style-testing
-domain: engineering
+description: "Cursor rules for gherkin-style-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

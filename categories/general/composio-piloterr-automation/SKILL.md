@@ -1,8 +1,10 @@
 ---
-name: piloterr-automation
+name: composio-piloterr-automation
 description: "Automate Piloterr tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Piloterr Automation via Rube MCP

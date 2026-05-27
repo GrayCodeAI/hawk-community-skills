@@ -1,3 +1,10 @@
+---
+name: arb-the-pragmatic-programmer.mini
+description: "Skill: arb-the-pragmatic-programmer.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY The Pragmatic Programmer by Andrew Hunt and David Thomas
 
 ## When to use

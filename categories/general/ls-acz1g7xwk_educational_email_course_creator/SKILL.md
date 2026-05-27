@@ -1,3 +1,10 @@
+---
+name: ls-acz1g7xwk_educational_email_course_creator
+description: "Skill: ls-acz1g7xwk_educational_email_course_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-acZ1g7xWK-educational-email-course-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-UNueF7MjvhUBP1rLwS8766Ib?se=2123-12-22T13%3A27%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-14%252015.57.44%2520-%2520Create%2520an%2520image%2520of%2520a%2520banner%2520with%2520the%2520word%2520%2527EDUCREATOR%2527.%2520The%2520banner%2520should%2520have%2520a%2520central%2520motif%2520of%2520a%2520lightbulb%2520intertwined%2520with%2520a%2520book%252C%2520symbolizing%2520the.png&sig=RuJRBfgXF088MSyK%2B4xDBGIxaiF3uaGXAYO%2BSgssBoQ%3D" width="100px" />

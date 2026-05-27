@@ -1,11 +1,12 @@
 ---
-name: aws-secrets-rotation
+name: ag-aws-secrets-rotation
 description: "Automate AWS secrets rotation for RDS, API keys, and credentials"
+license: MIT
+tags: [aws, secrets-manager, security, automation, kiro-cli, credentials]
 category: security
 risk: safe
 source: community
-tags: "[aws, secrets-manager, security, automation, kiro-cli, credentials]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # AWS Secrets Rotation

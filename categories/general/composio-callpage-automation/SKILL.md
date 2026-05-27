@@ -1,8 +1,10 @@
 ---
-name: callpage-automation
+name: composio-callpage-automation
 description: "Automate Callpage tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Callpage Automation via Rube MCP

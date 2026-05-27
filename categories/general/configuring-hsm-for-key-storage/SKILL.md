@@ -1,13 +1,14 @@
 ---
 name: configuring-hsm-for-key-storage
-description: Hardware Security Modules (HSMs) are tamper-resistant physical devices that safeguard cryptographic keys and perform cryptographic operations in a hardened environment. Keys stored in an HSM never lea
+description: "Hardware Security Modules (HSMs) are tamper-resistant physical devices that safeguard cryptographic keys and perform cryptographic operations in a hardened environment. Keys stored in an HSM never lea"
+license: MIT
+tags: [cryptography, hsm, key-management, pkcs11, hardware-security]
 domain: cybersecurity
 subdomain: cryptography
-tags: [cryptography, hsm, key-management, pkcs11, hardware-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Configuring HSM for Key Storage
 
 ## Overview

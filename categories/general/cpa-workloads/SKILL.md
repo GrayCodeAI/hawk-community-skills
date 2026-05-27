@@ -1,3 +1,10 @@
+---
+name: cpa-workloads
+description: "Skill: cpa-workloads"
+license: MIT
+tags: [general]
+---
+
 # az workloads
 
 ```bash

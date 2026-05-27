@@ -1,9 +1,11 @@
 ---
-name: test-automator
-description: Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration.
+name: ag-test-automator
+description: "Master AI-powered test automation with modern frameworks, self-healing tests, and comprehensive quality engineering. Build scalable testing strategies with advanced CI/CD integration."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

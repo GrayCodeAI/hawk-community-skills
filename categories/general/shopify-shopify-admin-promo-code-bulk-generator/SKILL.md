@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-promo-code-bulk-generator
-role: marketing
+name: shopify-shopify-admin-promo-code-bulk-generator
 description: "Bulk-creates a batch of unique discount codes for campaigns, giveaways, or partner distributions — each code is its own DiscountCodeBasic with single-use limit by default."
+license: MIT
+tags: [general]
+role: marketing
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - discountCodeBasicCreate:mutation
+api_version: 2025-01
+graphql_operations: [{'discountCodeBasicCreate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

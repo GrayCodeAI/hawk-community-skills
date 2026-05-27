@@ -1,7 +1,9 @@
 ---
-name: kotlin-specialist
-description: Kotlin development with coroutines, Ktor, Kotlin Multiplatform, and idiomatic patterns
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-kotlin-specialist
+description: "Kotlin development with coroutines, Ktor, Kotlin Multiplatform, and idiomatic patterns"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

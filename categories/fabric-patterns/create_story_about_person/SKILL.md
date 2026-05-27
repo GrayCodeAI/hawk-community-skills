@@ -1,9 +1,10 @@
 ---
 name: create_story_about_person
-description: Fabric pattern - create_story_about_person
-domain: general
+description: "Fabric pattern - create_story_about_person"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

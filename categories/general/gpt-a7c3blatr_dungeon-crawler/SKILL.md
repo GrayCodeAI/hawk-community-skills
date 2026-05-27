@@ -1,3 +1,10 @@
+---
+name: gpt-a7c3blatr_dungeon-crawler
+description: "Skill: gpt-a7c3blatr_dungeon-crawler"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-A7c3BLATR-dungeon-crawler
 
 GPT Title: Dungeon Crawler

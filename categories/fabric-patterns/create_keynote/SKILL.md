@@ -1,9 +1,10 @@
 ---
 name: create_keynote
-description: Fabric pattern - create_keynote
-domain: general
+description: "Fabric pattern - create_keynote"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

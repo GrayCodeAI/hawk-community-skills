@@ -1,9 +1,11 @@
 ---
-name: sparc-methodology
-description: >
-  SPARC development workflow: Specification, Pseudocode, Architecture, Refinement, Completion. A structured approach for complex implementations that ensures thorough planning before coding.
-  Use when: new feature implementation, complex implementations, architectural changes, system redesign, integration work, unclear requirements.
-  Skip when: simple bug fixes, documentation updates, configuration changes, well-defined small tasks, routine maintenance.
+name: flow-sparc-methodology
+description: "Skill: flow-sparc-methodology"
+license: MIT
+tags: [general]
+SPARC development workflow: Specification, Pseudocode, Architecture, Refinement, Completion. A structured approach for complex implementations that ensures thorough planning before coding.
+Use when: new feature implementation, complex implementations, architectural changes, system redesign, integration work, unclear requirements.
+Skip when: simple bug fixes, documentation updates, configuration changes, well-defined small tasks, routine maintenance.
 ---
 
 # Sparc Methodology Skill

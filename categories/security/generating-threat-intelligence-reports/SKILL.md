@@ -1,19 +1,14 @@
 ---
 name: generating-threat-intelligence-reports
-description: >
-  Generates structured cyber threat intelligence reports at strategic, operational, and tactical
-  levels tailored to specific audiences including executives, security operations teams, and technical
-  analysts. Use when producing finished intelligence products from raw collection data, creating
-  sector threat briefings, or delivering post-incident intelligence assessments. Activates for
-  requests involving CTI report writing, threat briefings, intelligence products, finished
-  intelligence, or executive security reporting.
+description: "Generates structured cyber threat intelligence reports at strategic, operational, and tactical levels tailored to specific audiences including executives, security operations teams, and technical a..."
+license: MIT
+tags: [cti, threat-intelligence, intelligence-products, tlp, pir, report-writing, nist-csf]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [CTI, threat-intelligence, intelligence-products, TLP, PIR, report-writing, NIST-CSF]
 version: 1.0.0
 author: team-cybersecurity
-license: MIT
 ---
+
 # Generating Threat Intelligence Reports
 
 ## When to Use

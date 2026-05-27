@@ -1,10 +1,8 @@
 ---
-description: 
-globs: 
----
----
-description: Guidelines and best practices for building Convex projects, including database schema design, queries, mutations, and real-world examples
-globs: **/*.{ts,tsx,js,jsx}
+name: wayn-convexrules
+description: "Skill: wayn-convexrules"
+license: MIT
+tags: [general]
 ---
 
 # Convex guidelines
@@ -500,4 +498,3 @@ export default defineSchema({
   }).index("by_channel", ["channelId"]),
 });
 ```
-

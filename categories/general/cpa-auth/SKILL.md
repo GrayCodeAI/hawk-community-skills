@@ -1,3 +1,10 @@
+---
+name: cpa-auth
+description: "Skill: cpa-auth"
+license: MIT
+tags: [general]
+---
+
 # az containerapp auth
 
 ```bash

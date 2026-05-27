@@ -1,3 +1,10 @@
+---
+name: cpa-dependency-map
+description: "Skill: cpa-dependency-map"
+license: MIT
+tags: [general]
+---
+
 # az dependency-map
 
 ```bash

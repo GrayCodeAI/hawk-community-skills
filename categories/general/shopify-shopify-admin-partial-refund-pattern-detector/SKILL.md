@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-partial-refund-pattern-detector
-role: order-intelligence
+name: shopify-shopify-admin-partial-refund-pattern-detector
 description: "Read-only: surfaces orders with multiple partial refunds or unusually high partial-refund-to-total ratios that may indicate fraud, chronic complaints, or process gaps."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

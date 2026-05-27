@@ -1,3 +1,10 @@
+---
+name: tl-secrets-store
+description: "Skill: tl-secrets-store"
+license: MIT
+tags: [general]
+---
+
 # Gotchas
 
 ## Common Errors

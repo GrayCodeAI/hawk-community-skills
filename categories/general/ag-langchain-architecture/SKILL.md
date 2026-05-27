@@ -1,9 +1,11 @@
 ---
-name: langchain-architecture
+name: ag-langchain-architecture
 description: "Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # LangChain Architecture

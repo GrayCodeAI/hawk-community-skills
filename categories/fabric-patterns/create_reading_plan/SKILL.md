@@ -1,9 +1,10 @@
 ---
 name: create_reading_plan
-description: Fabric pattern - create_reading_plan
-domain: general
+description: "Fabric pattern - create_reading_plan"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

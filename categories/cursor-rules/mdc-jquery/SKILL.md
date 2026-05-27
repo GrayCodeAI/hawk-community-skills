@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing performant, maintainable, and modern jQuery code, emphasizing best practices for DOM manipulation, event handling, and compatibility with jQuery 4.0 and ES6+.
-globs: **/*.{js,jsx}
+name: mdc-jquery
+description: "Definitive guidelines for writing performant, maintainable, and modern jQuery code, emphasizing best practices for DOM manipulation, event handling, and compatibility with jQuery 4.0 and ES6+."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # jQuery Best Practices
 
 jQuery remains a powerful tool for DOM manipulation, but its use in 2025 demands a performance-first mindset and adherence to modern JavaScript standards. This guide outlines the definitive best practices for writing fast, clean, and maintainable jQuery code.

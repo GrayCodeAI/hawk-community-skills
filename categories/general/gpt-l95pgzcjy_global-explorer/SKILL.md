@@ -1,3 +1,10 @@
+---
+name: gpt-l95pgzcjy_global-explorer
+description: "Skill: gpt-l95pgzcjy_global-explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-L95pgZCJy-global-explorer
 
 GPT Title: Global Explorer

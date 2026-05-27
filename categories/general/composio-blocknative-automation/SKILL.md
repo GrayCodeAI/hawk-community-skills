@@ -1,8 +1,10 @@
 ---
-name: blocknative-automation
+name: composio-blocknative-automation
 description: "Automate Blocknative tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Blocknative Automation via Rube MCP

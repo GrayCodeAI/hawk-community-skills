@@ -1,3 +1,10 @@
+---
+name: gpt-s4lziuwji_emojai
+description: "Skill: gpt-s4lziuwji_emojai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-S4LziUWji-emojai
 
 GPT Title: EmojAI

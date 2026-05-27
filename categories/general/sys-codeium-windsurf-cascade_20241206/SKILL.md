@@ -1,3 +1,10 @@
+---
+name: sys-codeium-windsurf-cascade_20241206
+description: "Skill: sys-codeium-windsurf-cascade_20241206"
+license: MIT
+tags: [general]
+---
+
 # codeium-windsurf-cascade_20241206
 
 source: <https://www.reddit.com/r/LocalLLaMA/comments/1h7sjyt/windsurf_cascade_leaked_system_prompt/>

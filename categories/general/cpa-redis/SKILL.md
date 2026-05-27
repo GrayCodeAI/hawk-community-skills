@@ -1,3 +1,10 @@
+---
+name: cpa-redis
+description: "Skill: cpa-redis"
+license: MIT
+tags: [general]
+---
+
 # az redis
 
 ```bash

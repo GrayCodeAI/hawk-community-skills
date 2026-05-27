@@ -1,9 +1,11 @@
 ---
-name: environment-setup-guide
+name: ag-environment-setup-guide
 description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 <!-- security-allowlist: curl-pipe-bash -->

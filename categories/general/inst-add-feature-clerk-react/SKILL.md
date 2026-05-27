@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Clerk in React applications
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-add-feature-clerk-react
+description: "Guidelines for adding new features with Clerk in React applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in implementing Clerk authentication features.
@@ -200,4 +202,4 @@ export function SessionHandler() {
 9. Monitor authentication performance
 10. Keep dependencies updated
 
-Remember: Security and user experience should be the top priorities when implementing authentication features. 
+Remember: Security and user experience should be the top priorities when implementing authentication features.

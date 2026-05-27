@@ -1,6 +1,8 @@
 ---
-description: "Guidelines for writing Node.js and JavaScript code with Vitest testing"
-applyTo: '**/*.js, **/*.mjs, **/*.cjs'
+name: ghcp-instructions-nodejs-javascript-vitest.instr
+description: "Skill: ghcp-instructions-nodejs-javascript-vitest.instr"
+license: MIT
+tags: [general]
 ---
 
 # Code Generation Guidelines

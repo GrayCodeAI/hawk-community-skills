@@ -1,7 +1,10 @@
 ---
-applyTo: '*'
-description: 'Quarkus and MCP Server with HTTP SSE transport development standards and instructions'
+name: ghcp-instructions-quarkus-mcp-server-sse.instruc
+description: "Skill: ghcp-instructions-quarkus-mcp-server-sse.instruc"
+license: MIT
+tags: [general]
 ---
+
 # Quarkus MCP Server
 
 Build MCP servers with Java 21, Quarkus, and HTTP SSE transport.

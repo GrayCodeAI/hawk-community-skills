@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-nuxt
+description: "Skill: inst-setup-neon-nuxt"
+license: MIT
+tags: [general]
+---
+
 # Neon + Nuxt Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with a Nuxt 3 application.
@@ -384,4 +391,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Nuxt 3 Documentation](https://nuxt.com/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

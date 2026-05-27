@@ -1,3 +1,10 @@
+---
+name: ls-gwki9zynv_trey-ratcliff's-photo-critique-gpt
+description: "Skill: ls-gwki9zynv_trey-ratcliff's-photo-critique-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gWki9zYNV-trey-ratcliff-s-photo-critique-gpt
 
 GPT Title: Trey Ratcliff's Fun Photo Critique GPT

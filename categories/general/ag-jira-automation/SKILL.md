@@ -1,9 +1,11 @@
 ---
-name: jira-automation
+name: ag-jira-automation
 description: "Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Jira Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: cpa-vmss
+description: "Skill: cpa-vmss"
+license: MIT
+tags: [general]
+---
+
 # az vmss
 
 ```bash

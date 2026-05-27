@@ -1,9 +1,10 @@
 ---
 name: analyze_sales_call
-description: Fabric pattern - analyze_sales_call
-domain: general
+description: "Fabric pattern - analyze_sales_call"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

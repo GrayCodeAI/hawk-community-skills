@@ -1,60 +1,34 @@
 ---
-name: 'OSPO Stale Repository Report'
-description: 'Identifies inactive repositories in your organization and generates an archival recommendation report.'
-labels: ['ospo', 'maintenance', 'stale-repos']
-on:
-  schedule:
-    - cron: "3 2 1 * *"
-  workflow_dispatch:
-    inputs:
-      organization:
-        description: "GitHub organization to scan"
-        required: true
-        type: string
-        default: "my-org"
-      inactive_days:
-        description: "Number of days of inactivity before a repo is considered stale"
-        required: false
-        type: number
-        default: 365
-      exempt_repos:
-        description: "Comma-separated list of repos to exempt from the report"
-        required: false
-        type: string
-        default: ""
-      exempt_topics:
-        description: "Comma-separated list of topics — repos with any of these topics are exempt"
-        required: false
-        type: string
-        default: ""
-      activity_method:
-        description: "Method to determine last activity"
-        required: false
-        type: choice
-        options:
-          - pushed
-          - default_branch_updated
-        default: pushed
-
-permissions:
-  contents: read
-  issues: read
-
+name: ghcp-workflows-ospo-stale-repos
+description: "Method to determine last activity"
+license: MIT
+tags: [general]
+labels: None
+True: None
+schedule: [{'cron': '3 2 1 * *'}]
+workflow_dispatch: None
+inputs: None
+organization: None
+required: False
+type: choice
+default: pushed
+inactive_days: None
+exempt_repos: None
+exempt_topics: None
+activity_method: None
+options: None
+permissions: None
+contents: read
+issues: read
 engine: copilot
-tools:
-  github:
-    toolsets:
-      - repos
-      - issues
-  bash: true
-
-safe-outputs:
-  create-issue:
-    max: 1
-    title-prefix: "[Stale Repos] "
-    labels:
-      - stale-repos
-
+tools: None
+github: None
+toolsets: None
+bash: True
+safe-outputs: None
+create-issue: None
+max: 1
+title-prefix: [Stale Repos]
 timeout-minutes: 30
 ---
 

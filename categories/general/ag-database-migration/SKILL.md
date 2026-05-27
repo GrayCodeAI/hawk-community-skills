@@ -1,9 +1,11 @@
 ---
-name: database-migration
+name: ag-database-migration
 description: "Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Database Migration

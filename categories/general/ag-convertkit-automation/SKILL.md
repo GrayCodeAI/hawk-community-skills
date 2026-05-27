@@ -1,9 +1,11 @@
 ---
-name: convertkit-automation
+name: ag-convertkit-automation
 description: "Automate ConvertKit (Kit) tasks via Rube MCP (Composio): manage subscribers, tags, broadcasts, and broadcast stats. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # ConvertKit (Kit) Automation via Rube MCP

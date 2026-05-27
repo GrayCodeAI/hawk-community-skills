@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sarif-output
+description: "Skill: ghcp-references-sarif-output"
+license: MIT
+tags: [general]
+---
+
 # CodeQL SARIF Output Reference
 
 Detailed reference for the SARIF v2.1.0 output produced by CodeQL analysis. Use this when interpreting or processing CodeQL scan results.

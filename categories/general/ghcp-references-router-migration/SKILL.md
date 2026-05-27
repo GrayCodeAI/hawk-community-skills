@@ -1,3 +1,10 @@
+---
+name: ghcp-references-router-migration
+description: "Skill: ghcp-references-router-migration"
+license: MIT
+tags: [general]
+---
+
 # React Router v5 → v6 - Scope Assessment
 
 ## Why This Is a Separate Sprint

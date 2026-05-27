@@ -1,7 +1,10 @@
 ---
-description: Comprehensive guidelines for writing high-performance, secure, and maintainable Supabase applications, covering SQL style, data modeling, security, and testing.
-globs: **/*
+name: mdc-supabase
+description: "Comprehensive guidelines for writing high-performance, secure, and maintainable Supabase applications, covering SQL style, data modeling, security, and testing."
+license: MIT
+tags: [database]
 ---
+
 # Supabase Best Practices
 
 This guide outlines the definitive best practices for developing with Supabase, ensuring your projects are secure, performant, and maintainable. Adhere to these rules for consistent, high-quality code.

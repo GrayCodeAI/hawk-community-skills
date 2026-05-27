@@ -1,9 +1,10 @@
 ---
-name: bpl-chatgpt-flipper-zero-code
-description: System prompt - chatgpt-flipper-zero-code
-domain: general
+name: bpl-txt-chatgpt-flipper-zero-code
+description: "System prompt - chatgpt-flipper-zero-code"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

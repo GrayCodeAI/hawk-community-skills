@@ -1,3 +1,10 @@
+---
+name: gpt-dmgfloz5w_storyteller
+description: "Skill: gpt-dmgfloz5w_storyteller"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-dmgFloZ5w-storyteller
 
 GPT Title: Storyteller

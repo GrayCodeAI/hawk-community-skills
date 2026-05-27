@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing vanilla JavaScript apps with Auth0 Authentication
-globs: "**/*.html, **/*.js"
+name: inst-setup-auth0-javascript
+description: "Guidelines for writing vanilla JavaScript apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vanilla JavaScript App with Auth0 Authentication
@@ -302,4 +304,4 @@ async function initAuth() {
 7. Use environment variables for Auth0 configuration
 8. Never store sensitive auth data in localStorage or cookies
 9. Always handle auth state changes using Auth0's methods
-10. Keep the Auth0 SDK up to date for security patches and new features 
+10. Keep the Auth0 SDK up to date for security patches and new features

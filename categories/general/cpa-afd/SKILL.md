@@ -1,3 +1,10 @@
+---
+name: cpa-afd
+description: "Skill: cpa-afd"
+license: MIT
+tags: [general]
+---
+
 # az afd
 
 ```bash

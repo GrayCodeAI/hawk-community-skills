@@ -1,7 +1,8 @@
 ---
 name: cli-tool-development
-description: Build professional CLI tools with Node.js, commander, and Ink
+description: "Build professional CLI tools with Node.js, commander, and Ink"
 license: MIT
+tags: [general]
 compatibility: nodejs 18+, typescript 5+
 allowed-tools: read_file write_file apply_patch run_command search_with_context
 ---

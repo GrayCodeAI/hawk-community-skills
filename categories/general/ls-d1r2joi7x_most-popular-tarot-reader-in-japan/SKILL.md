@@ -1,3 +1,10 @@
+---
+name: ls-d1r2joi7x_most-popular-tarot-reader-in-japan
+description: "Skill: ls-d1r2joi7x_most-popular-tarot-reader-in-japan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-d1R2joi7x-tarotutozhan-inoairu
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FEBIAGCPlwDedJ3JMvxwy3Ck?se=2123-12-19T23%3A51%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202024-01-13%25208.44.42.jpg&sig=RDiX3Lp0JTSnbmt6n%2BXHEuRm/24YRgOQ%2By6UOs/Dx5Y%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-czltqtay3_zoonify
+description: "Skill: gpt-czltqtay3_zoonify"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cZLTqTaY3-zoonify
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dTLCzwfLNgARLjPP3P5jltUW?se=2123-11-10T12%3A36%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddc73caed-55e1-42e4-93b8-b56c8c164017.png&sig=uWQRR2n7Qex1xecyEKiiRLS8OGbOogW3N0FcipFcCaQ%3D" width="100px" />

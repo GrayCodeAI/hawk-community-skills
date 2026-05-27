@@ -1,3 +1,10 @@
+---
+name: ghcp-references-code-only-mode
+description: "Skill: ghcp-references-code-only-mode"
+license: MIT
+tags: [general]
+---
+
 # Code-only mode
 
 *Last updated: 2026-05-03 (v1.5.6 Phase 3 — initial publication).*

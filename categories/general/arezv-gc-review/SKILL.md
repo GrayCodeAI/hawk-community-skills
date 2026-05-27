@@ -1,6 +1,8 @@
 ---
-name: "gc-review"
+name: arezv-gc-review
 description: "/cs:gc-review <plan> — General Counsel interrogation of contracts, IP, regulatory, term sheets, and employment-law surface."
+license: MIT
+tags: [general]
 ---
 
 # /cs:gc-review — General Counsel Forcing Questions

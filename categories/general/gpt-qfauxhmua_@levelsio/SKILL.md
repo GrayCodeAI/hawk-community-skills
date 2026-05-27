@@ -1,3 +1,10 @@
+---
+name: gpt-qfauxhmua_@levelsio
+description: "Skill: gpt-qfauxhmua_@levelsio"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QFAuxHmUa-levelsio
 
 GPT Title: @levelsio

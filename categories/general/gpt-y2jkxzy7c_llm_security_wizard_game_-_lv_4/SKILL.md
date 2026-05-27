@@ -1,3 +1,10 @@
+---
+name: gpt-y2jkxzy7c_llm_security_wizard_game_-_lv_4
+description: "Skill: gpt-y2jkxzy7c_llm_security_wizard_game_-_lv_4"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Y2jkXZY7C-llm-security-wizard-game-lv-4
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YorkcIGMPs5LEasw6v2GnRiH?se=2124-01-15T08%3A39%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-08%252005.38.55%2520-%2520Imagine%2520a%2520wise%2520and%2520powerful%2520wizard%252C%2520standing%2520in%2520an%2520ancient%252C%2520dimly%2520lit%2520library.%2520This%2520wizard%252C%2520reminiscent%2520of%2520classic%2520fantasy%2520characters%252C%2520holds%2520a%2520staff%2520t.webp&sig=8DIZIqRg4CxObiRkaluJkgRZaXRTZ0QcvBqc7QGBhUI%3D" width="100px" />

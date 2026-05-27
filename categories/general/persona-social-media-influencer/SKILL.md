@@ -1,9 +1,10 @@
 ---
 name: persona-social-media-influencer
-description: AI persona - social-media-influencer
-domain: general
+description: "AI persona - social-media-influencer"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

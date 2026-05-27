@@ -1,9 +1,10 @@
 ---
 name: cr-pyspark-etl-best-practices
-description: Cursor rules for pyspark-etl-best-practices
-domain: engineering
+description: "Cursor rules for pyspark-etl-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

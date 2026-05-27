@@ -1,6 +1,8 @@
 ---
-description: "Shorthand code will be in the file provided from the prompt or raw data in the prompt, and will be used to update the code file when the prompt has the text `UPDATE CODE FROM SHORTHAND`."
-applyTo: "**/${input:file}"
+name: ghcp-instructions-update-code-from-shorthand.ins
+description: "Skill: ghcp-instructions-update-code-from-shorthand.ins"
+license: MIT
+tags: [general]
 ---
 
 # Update Code from Shorthand

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-scripting-fundamentals
+description: "Skill: ghcp-references-scripting-fundamentals"
+license: MIT
+tags: [general]
+---
+
 # FreeCAD Scripting Fundamentals
 
 Reference guide for FreeCAD Python scripting basics: the document model, the console, objects, selection, and the Python environment.

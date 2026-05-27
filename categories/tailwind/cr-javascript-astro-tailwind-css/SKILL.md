@@ -1,9 +1,10 @@
 ---
 name: cr-javascript-astro-tailwind-css
-description: Cursor rules for javascript-astro-tailwind-css
-domain: engineering
+description: "Cursor rules for javascript-astro-tailwind-css"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -131,4 +132,3 @@ Performance Metrics
 - Implement performance budgets and monitoring.
 
 Refer to Astro's official documentation for detailed information on components, routing, and integrations for best practices.
-

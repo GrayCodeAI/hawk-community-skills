@@ -1,6 +1,8 @@
 ---
-name: project-development
+name: ag-project-development
 description: "This skill covers the principles for identifying tasks suited to LLM processing, designing effective project architectures, and iterating rapidly using agent-assisted development."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

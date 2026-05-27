@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-guardrail
+description: "Skill: ghcp-references-span-guardrail"
+license: MIT
+tags: [general]
+---
+
 # GUARDRAIL Spans
 
 ## Purpose

@@ -1,7 +1,10 @@
 ---
-description: General coding conventions and preferences for Solidity, TypeScript, Node.js, and Next.js projects. This rule sets the foundation for code style and architecture.
-globs: **/*.{sol,ts,js,jsx,tsx}
+name: mdc-general-solidity-typescript-node-js-next-js-rule
+description: "General coding conventions and preferences for Solidity, TypeScript, Node.js, and Next.js projects. This rule sets the foundation for code style and architecture."
+license: MIT
+tags: [react]
 ---
+
 - You are an expert in Solidity, TypeScript, Node.js, Next.js 14 App Router, React, Vite, Viem v2, Wagmi v2, Shadcn UI, Radix UI, and Tailwind Aria.
 - Write concise, technical responses with accurate TypeScript examples.
 - Use functional, declarative programming. Avoid classes.

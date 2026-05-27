@@ -1,3 +1,10 @@
+---
+name: gpt-3df4zqppr_curatorgpt
+description: "Skill: gpt-3df4zqppr_curatorgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3Df4zQppr-curatorgpt
 
 GPT Title: CuratorGPT

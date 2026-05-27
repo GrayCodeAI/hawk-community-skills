@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-order-attribution-report
-role: order-intelligence
+name: shopify-shopify-admin-order-attribution-report
 description: "Read-only: parses UTM source/medium/campaign from order landing site URLs to attribute revenue, AOV, and conversion volume to marketing channels."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,5 +1,8 @@
 ---
-description: Run the quarterly feature-flag cleanup workflow on the current repo
+name: arezv-flag-cleanup
+description: "Run the quarterly feature-flag cleanup workflow on the current repo"
+license: MIT
+tags: [general]
 ---
 
 # /flag-cleanup

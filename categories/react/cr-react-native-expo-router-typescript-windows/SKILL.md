@@ -1,9 +1,10 @@
 ---
 name: cr-react-native-expo-router-typescript-windows
-description: Cursor rules for react-native-expo-router-typescript-windows
-domain: engineering
+description: "Cursor rules for react-native-expo-router-typescript-windows"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -81,4 +82,3 @@ const additionalInstructions = [
   "Follow the recommended folder structure and maintain organized code for scalability and readability.",
   "Implement navigation using Expo Router for clean and declarative routing."
 ];
-

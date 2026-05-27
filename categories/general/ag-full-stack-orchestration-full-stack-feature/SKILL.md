@@ -1,9 +1,11 @@
 ---
-name: full-stack-orchestration-full-stack-feature
+name: ag-full-stack-orchestration-full-stack-feature
 description: "Use when working with full stack orchestration full stack feature"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

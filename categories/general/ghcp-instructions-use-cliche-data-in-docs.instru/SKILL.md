@@ -1,6 +1,8 @@
 ---
-description: 'Ensure documentation and examples use only generic, cliche placeholder data — never real or sensitive data sourced from local scripts, configuration, task files, or prompt context.'
-applyTo: '**/*.{md,js,mjs,cjs,ts,tsx,jsx,py,json}'
+name: ghcp-instructions-use-cliche-data-in-docs.instru
+description: "Skill: ghcp-instructions-use-cliche-data-in-docs.instru"
+license: MIT
+tags: [general]
 ---
 
 # Use Cliche Data in Documentation

@@ -1,7 +1,9 @@
 ---
-name: cost-federation
-description: Consumer-side wiring for ADR-097 Phase 3 federation_spend events — per-peer rolling windows + suspension-threshold check
-argument-hint: ""
+name: flow-cost-federation
+description: "Consumer-side wiring for ADR-097 Phase 3 federation_spend events — per-peer rolling windows + suspension-threshold check"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Outlines key conventions for Next.js development, focusing on utilizing the App Router, prioritizing Web Vitals, and minimizing 'use client' usage.
-globs: app/**/*.*
+name: mdc-next-js-core-principles
+description: "Outlines key conventions for Next.js development, focusing on utilizing the App Router, prioritizing Web Vitals, and minimizing 'use client' usage."
+license: MIT
+tags: [react]
 ---
+
 - Rely on Next.js App Router for state changes.
 - Prioritize Web Vitals (LCP, CLS, FID).
 - Minimize 'use client' usage:

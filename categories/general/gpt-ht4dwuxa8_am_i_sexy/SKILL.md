@@ -1,3 +1,10 @@
+---
+name: gpt-ht4dwuxa8_am_i_sexy
+description: "Skill: gpt-ht4dwuxa8_am_i_sexy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HT4DWUXa8-am-i-sexy
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8CofMdETOFbQBHCDQsiBdfhK?se=2123-10-26T23%3A09%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df0856842-819d-4af6-8d4d-f740bc28fba5.png&sig=KZiU0TQrLynrSybnR8VW0YJ/0vGwATaXO7EsdZ3JZTk%3D" width="100px" />

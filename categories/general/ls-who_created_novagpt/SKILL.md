@@ -1,3 +1,9 @@
+---
+name: ls-who_created_novagpt
+description: "Skill: ls-who_created_novagpt"
+license: MIT
+tags: [general]
+---
 
 # Christopher Tavolazzi: A Portfolio
 

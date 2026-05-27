@@ -1,11 +1,12 @@
 ---
-name: antigravity-skill-orchestrator
+name: ag-antigravity-skill-orchestrator
 description: "A meta-skill that understands task requirements, dynamically selects appropriate skills, tracks successful skill combinations using agent-memory-mcp, and prevents skill overuse for simple tasks."
+license: MIT
+tags: [orchestration, meta-skill, agent-memory, task-evaluation]
 category: meta
 risk: safe
 source: community
-tags: "[orchestration, meta-skill, agent-memory, task-evaluation]"
-date_added: "2026-03-13"
+date_added: 2026-03-13
 ---
 
 # antigravity-skill-orchestrator

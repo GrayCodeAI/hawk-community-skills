@@ -1,7 +1,10 @@
 ---
-description: Rules for communicating with the external backend from the Tauri frontend.
-globs: src/lib/api/**/*.{ts,tsx}
+name: mdc-backend-communication-rules
+description: "Rules for communicating with the external backend from the Tauri frontend."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Axios for HTTP requests from the Tauri frontend to the external backend.
 - Implement proper error handling for network requests and responses.
 - Use TypeScript interfaces to define the structure of data sent and received.

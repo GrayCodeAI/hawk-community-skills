@@ -1,3 +1,10 @@
+---
+name: extra-bug-fix
+description: "Skill: extra-bug-fix"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Bug Fix
 
 Streamline bug fixing workflow from issue creation to pull request.

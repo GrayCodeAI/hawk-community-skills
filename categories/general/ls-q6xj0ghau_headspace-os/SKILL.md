@@ -1,3 +1,10 @@
+---
+name: ls-q6xj0ghau_headspace-os
+description: "Skill: ls-q6xj0ghau_headspace-os"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-q6xJ0GHAU-headspace-os
 
 GPT Title: Headspace OS

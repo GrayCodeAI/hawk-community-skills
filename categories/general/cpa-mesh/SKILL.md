@@ -1,3 +1,10 @@
+---
+name: cpa-mesh
+description: "Skill: cpa-mesh"
+license: MIT
+tags: [general]
+---
+
 # az mesh
 
 ```bash

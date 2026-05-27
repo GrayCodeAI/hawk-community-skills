@@ -1,9 +1,10 @@
 ---
 name: cr-python-django-best-practices
-description: Cursor rules for python-django-best-practices
-domain: engineering
+description: "Cursor rules for python-django-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -67,4 +68,3 @@ Key Conventions
 3. Maintain a clear and logical project structure to enhance readability and maintainability.
 
 Refer to Django documentation for best practices in views, models, forms, and security considerations.
-

@@ -1,3 +1,10 @@
+---
+name: cpa-list-service-aliases
+description: "Skill: cpa-list-service-aliases"
+license: MIT
+tags: [general]
+---
+
 # az network list-service-aliases
 
 ```bash

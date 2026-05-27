@@ -1,10 +1,10 @@
 ---
-name: speculative-decoding
-description: Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use when optimizing inference speed (1.5-3.6× speedup), reducing latency for real-time applications, or deploying models with limited compute. Covers draft models, tree-based attention, Jacobi iteration, parallel token generation, and production deployment strategies.
+name: research-speculative-decoding
+description: "Accelerate LLM inference using speculative decoding, Medusa multiple heads, and lookahead decoding techniques. Use when optimizing inference speed (1.5-3.6× speedup), reducing latency for real-time..."
+license: MIT
+tags: [emerging-techniques, speculative-decoding, medusa, lookahead-decoding, fast-inference, draft-models, tree-attention, parallel-generation, latency-reduction, inference-optimization]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Emerging Techniques, Speculative Decoding, Medusa, Lookahead Decoding, Fast Inference, Draft Models, Tree Attention, Parallel Generation, Latency Reduction, Inference Optimization]
 dependencies: [transformers, torch]
 ---
 
@@ -463,5 +463,3 @@ for output in outputs:
 - `references/draft_model.md` - Draft model selection and training
 - `references/medusa.md` - Medusa architecture and training
 - `references/lookahead.md` - Lookahead decoding implementation details
-
-

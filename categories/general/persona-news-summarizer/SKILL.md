@@ -1,9 +1,10 @@
 ---
 name: persona-news-summarizer
-description: AI persona - news-summarizer
-domain: general
+description: "AI persona - news-summarizer"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

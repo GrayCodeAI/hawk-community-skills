@@ -1,9 +1,11 @@
 ---
-name: web-design-guidelines
+name: ag-web-design-guidelines
 description: "Review files for compliance with Web Interface Guidelines."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Web Interface Guidelines

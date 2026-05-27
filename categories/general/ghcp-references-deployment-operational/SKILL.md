@@ -1,3 +1,10 @@
+---
+name: ghcp-references-deployment-operational
+description: "Skill: ghcp-references-deployment-operational"
+license: MIT
+tags: [general]
+---
+
 # Deployment & Operational Patterns
 
 ## Compute Resource Consolidation Pattern

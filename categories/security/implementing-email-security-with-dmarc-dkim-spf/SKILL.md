@@ -1,17 +1,12 @@
 ---
 name: implementing-email-security-with-dmarc-dkim-spf
-description: >-
-  Audit and validate email authentication configurations by checking SPF, DKIM,
-  and DMARC DNS records for a domain. Uses dnspython to query TXT records,
-  validates SPF syntax and lookup counts, verifies DKIM selector records,
-  parses DMARC policies, and identifies misconfigurations that enable email
-  spoofing. Generates remediation recommendations.
+description: "Audit and validate email authentication configurations by checking SPF, DKIM, and DMARC DNS records for a domain. Uses dnspython to query TXT records, validates SPF syntax and lookup counts, verifi..."
+license: MIT
+tags: [implementing, email, security, with]
 domain: cybersecurity
 subdomain: security-operations
-tags: [implementing, email, security, with]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

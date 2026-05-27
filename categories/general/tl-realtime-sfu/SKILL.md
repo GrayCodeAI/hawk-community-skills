@@ -1,3 +1,10 @@
+---
+name: tl-realtime-sfu
+description: "Skill: tl-realtime-sfu"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Troubleshooting
 
 ## Common Errors

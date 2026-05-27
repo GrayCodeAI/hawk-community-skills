@@ -1,6 +1,8 @@
 ---
-name: react-patterns
-description: React 19 patterns including Server Components, Actions, Suspense, hooks, and component composition
+name: glfr-skill
+description: "React 19 patterns including Server Components, Actions, Suspense, hooks, and component composition"
+license: MIT
+tags: [general]
 ---
 
 # React Patterns

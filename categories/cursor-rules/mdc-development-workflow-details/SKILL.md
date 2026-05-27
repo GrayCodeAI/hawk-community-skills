@@ -1,7 +1,10 @@
 ---
-description: Details the development workflow, including questioning and refining requirements, breaking down tasks, writing tests, implementing code, refactoring, self-review, and ensuring CI passes. This rule provides a structured approach to development tasks.
-globs: **/*
+name: mdc-development-workflow-details
+description: "Details the development workflow, including questioning and refining requirements, breaking down tasks, writing tests, implementing code, refactoring, self-review, and ensuring CI passes. This rule..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - |-
   9. Development Workflow:
     - Question and refine requirements

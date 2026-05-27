@@ -1,3 +1,10 @@
+---
+name: lira-release
+description: "Skill: lira-release"
+license: MIT
+tags: [general]
+---
+
 # Managing Package Releases
 
 This project uses the [Changesets](https://github.com/changesets/changesets)

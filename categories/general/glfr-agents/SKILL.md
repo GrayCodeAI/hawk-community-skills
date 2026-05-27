@@ -1,3 +1,10 @@
+---
+name: glfr-agents
+description: "Skill: glfr-agents"
+license: MIT
+tags: [general]
+---
+
 # Agent Rules
 
 ## When to Use Subagents

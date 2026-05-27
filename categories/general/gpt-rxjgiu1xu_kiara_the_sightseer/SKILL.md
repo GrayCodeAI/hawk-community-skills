@@ -1,3 +1,10 @@
+---
+name: gpt-rxjgiu1xu_kiara_the_sightseer
+description: "Skill: gpt-rxjgiu1xu_kiara_the_sightseer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RXJGIU1XU-kiara-the-sightseer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-cjzO4GhDR3dB2X9g24fpzTiC?se=2124-01-06T04%3A09%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-29%252020.59.38%2520-%2520A%2520portrait%2520of%2520a%2520Hispanic%2520fortune%2520teller%252C%2520very%2520feminine%2520in%2520appearance.%2520She%2520has%2520long%252C%2520flowing%2520dark%2520hair%2520and%2520a%2520warm%252C%2520welcoming%2520smile.%2520Her%2520eyes%2520are%2520deep%2520a.png&sig=QJ59y8TCYA6MWKfqydQ7/9S0x8sqwjf2H%2Bc%2Ba2kIjJE%3D" width="100px" />

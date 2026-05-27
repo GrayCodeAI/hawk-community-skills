@@ -1,3 +1,10 @@
+---
+name: cpa-providerhub
+description: "Skill: cpa-providerhub"
+license: MIT
+tags: [general]
+---
+
 # az providerhub
 
 ```bash

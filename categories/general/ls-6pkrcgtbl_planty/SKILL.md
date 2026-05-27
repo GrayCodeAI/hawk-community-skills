@@ -1,3 +1,10 @@
+---
+name: ls-6pkrcgtbl_planty
+description: "Skill: ls-6pkrcgtbl_planty"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6PKrcgTBL-planty
 
 GPT Title: Planty

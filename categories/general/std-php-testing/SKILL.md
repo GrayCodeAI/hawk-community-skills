@@ -1,18 +1,14 @@
 ---
-name: php-testing
-description: Write unit and integration tests for PHP applications with PHPUnit and Pest. Use when writing PHPUnit unit tests or integration tests for PHP applications.
-metadata:
-  triggers:
-    files:
-    - 'tests/**/*.php'
-    - 'phpunit.xml'
-    keywords:
-    - phpunit
-    - pest
-    - mock
-    - assert
-    - tdd
+name: std-php-testing
+description: "Write unit and integration tests for PHP applications with PHPUnit and Pest. Use when writing PHPUnit unit tests or integration tests for PHP applications."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PHP Testing
 
 ## **Priority: P1 (HIGH)**

@@ -1,3 +1,10 @@
+---
+name: arb-domain-driven-design-distilled.mini
+description: "Skill: arb-domain-driven-design-distilled.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Domain-Driven Design Distilled by Vaughn Vernon
 
 ## When to use

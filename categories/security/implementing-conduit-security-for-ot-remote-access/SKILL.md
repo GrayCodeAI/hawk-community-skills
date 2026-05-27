@@ -1,16 +1,12 @@
 ---
 name: implementing-conduit-security-for-ot-remote-access
-description: >
-  Implement secure conduit architecture for OT remote access following IEC 62443
-  zones and conduits model, deploying jump servers, MFA-enabled gateways, session
-  recording, and approval-based workflows to control vendor and engineer access
-  to industrial control systems without exposing OT networks directly.
+description: "Implement secure conduit architecture for OT remote access following IEC 62443 zones and conduits model, deploying jump servers, MFA-enabled gateways, session recording, and approval-based workflow..."
+license: MIT
+tags: [ot-security, ics, remote-access, iec62443, jump-server, zero-trust, conduit, mfa]
 domain: cybersecurity
 subdomain: ot-ics-security
-tags: [ot-security, ics, remote-access, iec62443, jump-server, zero-trust, conduit, mfa]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Conduit Security for OT Remote Access

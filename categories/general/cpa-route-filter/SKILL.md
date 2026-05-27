@@ -1,3 +1,10 @@
+---
+name: cpa-route-filter
+description: "Skill: cpa-route-filter"
+license: MIT
+tags: [general]
+---
+
 # az network route-filter
 
 ```bash

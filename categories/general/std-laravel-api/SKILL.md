@@ -1,18 +1,14 @@
 ---
-name: laravel-api
-description: Build REST endpoints with API Resources, Sanctum authentication, and versioned route groups in Laravel. Use when creating JsonResource classes, adding token-based auth, or defining rate-limited API routes.
-metadata:
-  triggers:
-    files:
-    - 'routes/api.php'
-    - 'app/Http/Resources/**/*.php'
-    keywords:
-    - resource
-    - collection
-    - sanctum
-    - passport
-    - cors
+name: std-laravel-api
+description: "Build REST endpoints with API Resources, Sanctum authentication, and versioned route groups in Laravel. Use when creating JsonResource classes, adding token-based auth, or defining rate-limited API..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Laravel API
 
 ## **Priority: P1 (HIGH)**

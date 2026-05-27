@@ -1,9 +1,11 @@
 ---
-name: mailchimp-automation
+name: ag-mailchimp-automation
 description: "Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Mailchimp Automation via Rube MCP

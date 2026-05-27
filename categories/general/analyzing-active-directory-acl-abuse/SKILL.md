@@ -1,12 +1,12 @@
 ---
 name: analyzing-active-directory-acl-abuse
-description: Detect dangerous ACL misconfigurations in Active Directory using ldap3 to identify GenericAll, WriteDACL, and WriteOwner abuse paths
+description: "Detect dangerous ACL misconfigurations in Active Directory using ldap3 to identify GenericAll, WriteDACL, and WriteOwner abuse paths"
+license: MIT
+tags: [active-directory, acl-abuse, ldap, privilege-escalation]
 domain: cybersecurity
 subdomain: identity-security
-tags: [active-directory, acl-abuse, ldap, privilege-escalation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Overview

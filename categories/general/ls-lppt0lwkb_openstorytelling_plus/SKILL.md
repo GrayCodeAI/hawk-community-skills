@@ -1,3 +1,10 @@
+---
+name: ls-lppt0lwkb_openstorytelling_plus
+description: "Skill: ls-lppt0lwkb_openstorytelling_plus"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-fJWklRsJyPxMcotGUdkQrXOR?se=2123-12-25T01%3A44%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DOpenStorytellingLogo512.png&sig=fSUB9DjYqFCNSuR4w02f2JsQMwXbpchw2uYxlJ8J1G8%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-ocoyxyjjw_genz_4_meme
+description: "Skill: gpt-ocoyxyjjw_genz_4_meme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme
 
 GPT Title: genz 4 meme

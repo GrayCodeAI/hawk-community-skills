@@ -1,12 +1,12 @@
 ---
 name: building-incident-timeline-with-timesketch
-description: Build collaborative forensic incident timelines using Timesketch to ingest, normalize, and analyze multi-source event data for attack chain reconstruction and investigation documentation.
+description: "Build collaborative forensic incident timelines using Timesketch to ingest, normalize, and analyze multi-source event data for attack chain reconstruction and investigation documentation."
+license: MIT
+tags: [timesketch, timeline-analysis, forensic-timeline, plaso, dfir, incident-investigation, collaborative-forensics]
 domain: cybersecurity
 subdomain: incident-response
-tags: [timesketch, timeline-analysis, forensic-timeline, plaso, dfir, incident-investigation, collaborative-forensics]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Building Incident Timeline with Timesketch

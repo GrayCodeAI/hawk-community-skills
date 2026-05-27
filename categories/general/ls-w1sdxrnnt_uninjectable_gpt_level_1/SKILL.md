@@ -1,3 +1,10 @@
+---
+name: ls-w1sdxrnnt_uninjectable_gpt_level_1
+description: "Skill: ls-w1sdxrnnt_uninjectable_gpt_level_1"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-w1sdXRnnt-uninjectable-gpt-level-1
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-veRairjcGNOrUIG7YO60zYPt?se=2123-10-18T11%3A09%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0debc479-17d1-4c3c-b954-b7079cc5d0f9.png&sig=pAuHRHhSz6dlNPEDl6d%2BHnnJWBkNCL0nldafC%2BPXzPE%3D" width="100px" />

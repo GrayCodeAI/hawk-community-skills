@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and patterns for building Model Context Protocol (MCP) servers in Swift using the official MCP Swift SDK package.'
-applyTo: "**/*.swift, **/Package.swift, **/Package.resolved"
+name: ghcp-instructions-swift-mcp-server.instructions
+description: "Skill: ghcp-instructions-swift-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Swift MCP Server Development Guidelines

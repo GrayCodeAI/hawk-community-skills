@@ -1,3 +1,10 @@
+---
+name: cpa-du
+description: "Skill: cpa-du"
+license: MIT
+tags: [general]
+---
+
 # az iot du
 
 ```bash

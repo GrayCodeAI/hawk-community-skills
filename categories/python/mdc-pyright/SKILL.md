@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for configuring and using pyright (and basedpyright) to ensure robust, type-safe Python codebases in 2025.
-globs: **/*.py
+name: mdc-pyright
+description: "This guide provides definitive, actionable best practices for configuring and using pyright (and basedpyright) to ensure robust, type-safe Python codebases in 2025."
+license: MIT
+tags: [python]
 ---
+
 # pyright Best Practices
 
 `pyright` is the definitive static type-checker for modern Python, essential for "type-first" development. We standardize on `basedpyright` for its stricter defaults and enhanced diagnostics, ensuring our codebase remains consistently type-clean.

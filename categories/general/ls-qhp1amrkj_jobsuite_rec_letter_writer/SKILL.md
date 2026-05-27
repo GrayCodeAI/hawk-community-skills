@@ -1,3 +1,10 @@
+---
+name: ls-qhp1amrkj_jobsuite_rec_letter_writer
+description: "Skill: ls-qhp1amrkj_jobsuite_rec_letter_writer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qHP1aMrkJ-jobsuite-rec-letter-writer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-g6U0hmAUKVzYyFxV8kMqM2fa?se=2123-12-17T08%3A21%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DLogo%2520v2.png&sig=Xbw2QSACNUJ4wMtfGUJFDAUOmIrYRNtbiAw6Ca5miz0%3D" width="100px" />

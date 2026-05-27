@@ -1,6 +1,8 @@
 ---
-name: create-agentsmd
-description: 'Prompt for generating an AGENTS.md file for a repository'
+name: copilot-create-agentsmd
+description: "Prompt for generating an AGENTS.md file for a repository"
+license: MIT
+tags: [general]
 ---
 
 # Create high‑quality AGENTS.md file

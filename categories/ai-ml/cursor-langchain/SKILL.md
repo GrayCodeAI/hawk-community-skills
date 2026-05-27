@@ -1,16 +1,11 @@
 ---
 name: cursor-langchain
-description: Cursor IDE rules for langchain
-domain: engineering
+description: "Cursor IDE rules for langchain"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "LangChain: chains, agents, memory, tools"
-globs: ["*.py", "*.ts"]
-alwaysApply: true
 ---
 
 # LangChain Cursor Rules

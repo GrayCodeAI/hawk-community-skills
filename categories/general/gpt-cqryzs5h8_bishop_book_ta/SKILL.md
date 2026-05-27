@@ -1,3 +1,10 @@
+---
+name: gpt-cqryzs5h8_bishop_book_ta
+description: "Skill: gpt-cqryzs5h8_bishop_book_ta"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CQRyzS5H8-bishop-book-ta
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ABDIDGsTjjgBYtfuV0gU2ZnY?se=2123-12-16T23%3A33%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D69d6b79c-97d8-4d64-b6b4-4ee1d5d657f8.png&sig=0DV6OuviHbqDxr/hupLE4600tU2QPz0pGd0xqCTciGQ%3D" width="100px" />

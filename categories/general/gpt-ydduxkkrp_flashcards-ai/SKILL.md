@@ -1,3 +1,10 @@
+---
+name: gpt-ydduxkkrp_flashcards-ai
+description: "Skill: gpt-ydduxkkrp_flashcards-ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YdduxKKrP-flashcards-ai
 
 GPT Title: Flashcards AI

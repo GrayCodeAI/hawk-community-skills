@@ -1,3 +1,10 @@
+---
+name: ecom-tiktok-live-selling
+description: "Skill: ecom-tiktok-live-selling"
+license: MIT
+tags: [general]
+---
+
 # TikTok Live Selling
 
 Master TikTok live selling for e-commerce. Plan live sessions, engage audiences, pin products, handle real-time sales, and optimize GPM (GMV per mille) for maximum live revenue.

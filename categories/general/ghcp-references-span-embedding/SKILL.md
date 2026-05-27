@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-embedding
+description: "Skill: ghcp-references-span-embedding"
+license: MIT
+tags: [general]
+---
+
 # EMBEDDING Spans
 
 ## Purpose

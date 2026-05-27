@@ -1,6 +1,8 @@
 ---
-name: plan-do-check-act
-description: Iterative PDCA cycle for systematic experimentation and continuous improvement
+name: neo-plan-do-check-act
+description: "Iterative PDCA cycle for systematic experimentation and continuous improvement"
+license: MIT
+tags: [general]
 argument-hint: Optional improvement goal or problem to address
 ---
 

@@ -1,7 +1,11 @@
 ---
-description: Recommends a flexible project structure for Android applications, adapting to existing project organization.
-globs: app/**/*
+name: mdc-android---project-structure
+description: 'Skill: mdc-android---project-structure'
+license: MIT
+tags:
+- mobile
 ---
+
 - Note: This is a reference structure. Adapt to the project's existing organization
 
 - Project Structure:

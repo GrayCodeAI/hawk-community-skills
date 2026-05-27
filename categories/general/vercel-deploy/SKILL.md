@@ -1,13 +1,9 @@
 ---
 name: vercel-deploy
-description: "Deploy applications and websites to Vercel instantly. Use when asked to \"Deploy my app\", \"Deploy this to production\", \"Create a preview deployment\", or \"Push this live\". No authentication required - returns preview URL and claimable deployment link."
-metadata:
-  author: vercel
-  version: 1.0.0
-  tags: deployment, vercel, preview, production, hosting, serverless
-  platforms: Claude
+description: "Skill: vercel-deploy"
+license: MIT
+tags: [general]
 ---
-
 
 # Vercel Deploy
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-performance-optimization
+description: "Skill: ghcp-references-performance-optimization"
+license: MIT
+tags: [general]
+---
+
 # Performance & Optimization Reference
 
 Comprehensive reference for web performance metrics, optimization techniques, and Core Web Vitals.

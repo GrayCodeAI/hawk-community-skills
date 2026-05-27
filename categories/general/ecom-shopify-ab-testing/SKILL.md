@@ -1,3 +1,10 @@
+---
+name: ecom-shopify-ab-testing
+description: "Skill: ecom-shopify-ab-testing"
+license: MIT
+tags: [general]
+---
+
 # Shopify A/B Testing
 
 Run data-driven A/B tests on your Shopify store. Test product pages, pricing, images, copy, checkout flow, and marketing campaigns with proper statistical methodology.

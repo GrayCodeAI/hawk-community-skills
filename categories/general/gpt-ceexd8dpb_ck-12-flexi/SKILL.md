@@ -1,3 +1,10 @@
+---
+name: gpt-ceexd8dpb_ck-12-flexi
+description: "Skill: gpt-ceexd8dpb_ck-12-flexi"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cEEXd8Dpb-ck-12-flexi/
 
 GPT Title: CK-12 Flexi

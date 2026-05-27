@@ -1,3 +1,10 @@
+---
+name: gpt-ofox55ein_canopy_coach
+description: "Skill: gpt-ofox55ein_canopy_coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OFoX55eiN-canopy-coach
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kpYwPofVql3CkFFlKEpnFOyt?se=2123-11-04T16%3A53%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da3e3078a-ecca-40cf-bf48-7b3db2bdfca2.png&sig=gXBbgoEzz2oJ7gg73fqPRcn%2BpD6VjvDCBilaJH7VwRU%3D" width="100px" />

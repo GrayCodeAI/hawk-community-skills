@@ -1,3 +1,10 @@
+---
+name: cpa-image
+description: "Skill: cpa-image"
+license: MIT
+tags: [general]
+---
+
 # az image
 
 ```bash

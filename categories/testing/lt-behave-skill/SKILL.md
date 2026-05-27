@@ -1,17 +1,14 @@
 ---
-name: behave-skill
-description: >
-  Generates Behave BDD tests for Python with Gherkin feature files and step
-  implementations. Use when user mentions "Behave", "Python BDD", "Python
-  Gherkin". Triggers on: "Behave", "Python BDD", "behave test", "Python
-  feature file".
-languages:
-  - Python
-category: bdd-testing
+name: lt-behave-skill
+description: "Skill: lt-behave-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+Gherkin". Triggers on: Behave", "Python BDD", "behave test", "Python
+languages: None
+category: bdd-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Behave BDD Skill

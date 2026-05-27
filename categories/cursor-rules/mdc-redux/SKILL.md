@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for using Redux in our projects, mandating Redux Toolkit (RTK) for all state management logic to ensure consistency, maintainability, and optimal performance.
-globs: **/*.{js,jsx}
+name: mdc-redux
+description: "This guide defines the definitive best practices for using Redux in our projects, mandating Redux Toolkit (RTK) for all state management logic to ensure consistency, maintainability, and optimal pe..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # redux Best Practices
 
 Redux is our standard for predictable state management. **All new Redux code MUST use Redux Toolkit (RTK)**. RTK simplifies Redux, enforces best practices, and eliminates boilerplate. Do not use vanilla Redux APIs directly.

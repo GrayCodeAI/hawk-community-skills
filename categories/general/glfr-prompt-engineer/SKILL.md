@@ -1,7 +1,9 @@
 ---
-name: prompt-engineer
-description: Prompt optimization with chain-of-thought, structured outputs, few-shot learning, and systematic evaluation
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-prompt-engineer
+description: "Prompt optimization with chain-of-thought, structured outputs, few-shot learning, and systematic evaluation"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

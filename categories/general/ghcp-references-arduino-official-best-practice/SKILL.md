@@ -1,3 +1,10 @@
+---
+name: ghcp-references-arduino-official-best-practice
+description: "Skill: ghcp-references-arduino-official-best-practice"
+license: MIT
+tags: [general]
+---
+
 # Arduino Official References and Best Practices
 
 Use these official Arduino resources before finalizing firmware or hardware guidance.

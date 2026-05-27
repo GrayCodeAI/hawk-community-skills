@@ -1,7 +1,10 @@
 ---
-description: General project rules that applies to all file types. Should be most general
-globs: **/*
+name: mdc-general-project-rule
+description: "General project rules that applies to all file types. Should be most general"
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Naming Conventions: Follow clear and consistent naming conventions.
 - Performance Optimization: Optimize code for performance.
 - Key Conventions: Adhere to project-specific key conventions.

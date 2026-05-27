@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing TanStack apps with Clerk Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-clerk-tanstack
+description: "Guidelines for writing TanStack apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap TanStack App with Clerk Authentication
@@ -315,4 +317,4 @@ function useProtectedData() {
 7. Protect sensitive routes and components
 8. Use proper TypeScript types when available
 9. Implement proper cleanup in components
-10. Keep dependencies up to date for security patches and new features 
+10. Keep dependencies up to date for security patches and new features

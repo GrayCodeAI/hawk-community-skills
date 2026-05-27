@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive ESLint configuration and best practices for our team, ensuring consistent code quality, early error detection, and seamless integration with modern JavaScript and TypeScript workflows.
-globs: **/*.{js,jsx,ts,tsx,mts,cts}
+name: mdc-eslint
+description: "This guide defines the definitive ESLint configuration and best practices for our team, ensuring consistent code quality, early error detection, and seamless integration with modern JavaScript and ..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # eslint Best Practices
 
 ESLint is the bedrock of our JavaScript and TypeScript code quality. This guide outlines our definitive, opinionated approach to configuring and using ESLint, focusing on modern best practices for December 2025.

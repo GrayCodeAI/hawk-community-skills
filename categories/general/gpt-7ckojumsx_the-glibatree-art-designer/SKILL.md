@@ -1,3 +1,10 @@
+---
+name: gpt-7ckojumsx_the-glibatree-art-designer
+description: "Skill: gpt-7ckojumsx_the-glibatree-art-designer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7CKojumSX-the-glibatree-art-designer
 
 GPT Title: The Glibatree Art Designer

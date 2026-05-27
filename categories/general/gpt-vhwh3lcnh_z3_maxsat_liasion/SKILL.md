@@ -1,3 +1,10 @@
+---
+name: gpt-vhwh3lcnh_z3_maxsat_liasion
+description: "Skill: gpt-vhwh3lcnh_z3_maxsat_liasion"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VhwH3lcNH-z3-maxsat-liasion
 
 GPT logo: <img src="None" width="100px" />

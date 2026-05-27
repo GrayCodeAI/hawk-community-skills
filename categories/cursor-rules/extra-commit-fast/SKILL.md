@@ -1,3 +1,10 @@
+---
+name: extra-commit-fast
+description: "Skill: extra-commit-fast"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Fast Commit Task
 
 Generate 3 commit message suggestions based on the staged changes, then automatically use the first suggestion without user confirmation. 

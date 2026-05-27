@@ -1,3 +1,10 @@
+---
+name: ls-t8yazcv1x_cleargpt
+description: "Skill: ls-t8yazcv1x_cleargpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-t8YaZcv1X-cleargpt
 
 GPT Title: ClearGPT

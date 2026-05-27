@@ -1,19 +1,14 @@
 ---
-name: android-navigation
-description: Implement navigation with Jetpack Compose Navigation and App Links on Android. Use when implementing navigation flows, deep links, or backstack handling.
-metadata:
-  triggers:
-    files:
-    - '**/*Screen.kt'
-    - '**/*Activity.kt'
-    - '**/NavGraph.kt'
-    keywords:
-    - NavController
-    - NavHost
-    - composable
-    - navArgument
-    - deepLinks
+name: std-android-navigation
+description: "Implement navigation with Jetpack Compose Navigation and App Links on Android. Use when implementing navigation flows, deep links, or backstack handling."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Navigation (Jetpack Compose)
 
 ## **Priority: P2 (OPTIONAL)**

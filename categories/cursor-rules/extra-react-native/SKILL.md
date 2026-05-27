@@ -1,7 +1,9 @@
 ---
-description: 该规则解释了 TypeScript、React Native、Expo 和移动 UI 开发的使用方法和最佳实践。
-globs: **/*.jsx,**/*.tsx
-alwaysApply: false
+name: extra-react-native
+description: "该规则解释了 TypeScript、React Native、Expo 和移动 UI 开发的使用方法和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # TypeScript、React Native、Expo 和移动 UI 开发规则

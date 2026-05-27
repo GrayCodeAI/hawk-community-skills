@@ -1,3 +1,10 @@
+---
+name: ghcp-references-download
+description: "Skill: ghcp-references-download"
+license: MIT
+tags: [general]
+---
+
 # Download
 
 PDFtk provides an installer for Windows. Many Linux distributions provide a PDFtk package you can download and install using their package manager.

@@ -1,9 +1,11 @@
 ---
-name: elixir-pro
-description: Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
+name: ag-elixir-pro
+description: "Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

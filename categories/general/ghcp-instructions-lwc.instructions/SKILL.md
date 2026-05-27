@@ -1,6 +1,9 @@
 ---
-description: 'Guidelines and best practices for developing Lightning Web Components (LWC) on Salesforce Platform.'
-applyTo: 'force-app/main/default/lwc/**'
+name: ghcp-instructions-lwc.instructions
+description: "Guidelines and best practices for developing Lightning Web Components (LWC) on Salesforce Platform."
+license: MIT
+tags: [general]
+applyTo: force-app/main/default/lwc/**
 ---
 
 # LWC Development

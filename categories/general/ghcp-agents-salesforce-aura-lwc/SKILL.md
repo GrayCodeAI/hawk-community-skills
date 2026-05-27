@@ -1,8 +1,10 @@
 ---
-name: 'Salesforce UI Development (Aura & LWC)'
-description: 'Implement Salesforce UI components using Lightning Web Components and Aura components following Lightning framework best practices.'
+name: ghcp-agents-salesforce-aura-lwc
+description: "Implement Salesforce UI components using Lightning Web Components and Aura components following Lightning framework best practices."
+license: MIT
+tags: [general]
 model: claude-3.5-sonnet
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+tools: [codebase, edit/editFiles, terminalCommand, search, githubRepo]
 ---
 
 # Salesforce UI Development Agent (Aura & LWC)

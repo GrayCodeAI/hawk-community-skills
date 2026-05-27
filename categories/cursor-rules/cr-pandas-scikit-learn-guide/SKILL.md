@@ -1,9 +1,10 @@
 ---
 name: cr-pandas-scikit-learn-guide
-description: Cursor rules for pandas-scikit-learn-guide
-domain: engineering
+description: "Cursor rules for pandas-scikit-learn-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -63,4 +64,3 @@ Key Conventions:
 4. Use version control (e.g., git) for tracking changes in notebooks and scripts.
 
 Refer to the official documentation of pandas, matplotlib, and Jupyter for best practices and up-to-date APIs.
-

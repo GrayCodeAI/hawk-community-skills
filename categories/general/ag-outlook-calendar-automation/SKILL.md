@@ -1,9 +1,11 @@
 ---
-name: outlook-calendar-automation
+name: ag-outlook-calendar-automation
 description: "Automate Outlook Calendar tasks via Rube MCP (Composio): create events, manage attendees, find meeting times, and handle invitations. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Outlook Calendar Automation via Rube MCP

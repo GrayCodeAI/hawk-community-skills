@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines and best practices for building Azure Durable Functions in C# using the isolated worker model'
-applyTo: '**/*.cs, **/host.json, **/local.settings.json, **/*.csproj'
+name: ghcp-instructions-azure-durable-functions-csharp
+description: "Skill: ghcp-instructions-azure-durable-functions-csharp"
+license: MIT
+tags: [general]
 ---
 
 # Azure Durable Functions C# Development

@@ -1,3 +1,10 @@
+---
+name: ls-n7rs0ik86_grimoire[2.0.5]
+description: "Skill: ls-n7rs0ik86_grimoire[2.0.5]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-n7Rs0IK86-grimoire
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0iw1nJRFDLfuXLJy3SHURMiE?se=2123-12-26T23%3A31%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DCherished%2520Member.png&sig=vlX1mXOxWn/p7qK07bDbFcK6D1fOdSrvdPnK4h7VOT8%3D" width="100px" />

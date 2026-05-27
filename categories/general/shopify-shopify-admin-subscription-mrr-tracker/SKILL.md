@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-subscription-mrr-tracker
-role: finance
+name: shopify-shopify-admin-subscription-mrr-tracker
 description: "Read-only: for stores with subscription products, calculates MRR, ARR, active subscriber count, and rolling churn rate from subscription contracts."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - subscriptionContracts:query
+api_version: 2025-01
+graphql_operations: [{'subscriptionContracts': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

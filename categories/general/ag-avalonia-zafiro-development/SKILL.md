@@ -1,9 +1,11 @@
 ---
-name: avalonia-zafiro-development
+name: ag-avalonia-zafiro-development
 description: "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Avalonia Zafiro Development

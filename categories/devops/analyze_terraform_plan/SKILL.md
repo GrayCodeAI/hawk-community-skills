@@ -1,9 +1,10 @@
 ---
 name: analyze_terraform_plan
-description: Fabric pattern - analyze_terraform_plan
-domain: general
+description: "Fabric pattern - analyze_terraform_plan"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

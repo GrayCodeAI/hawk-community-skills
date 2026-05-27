@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building high-performance, maintainable, and secure Sanic applications using modern Python async best practices.
-globs: **/*.py
+name: mdc-sanic
+description: "Definitive guidelines for building high-performance, maintainable, and secure Sanic applications using modern Python async best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # sanic Best Practices
 
 Sanic is built for speed and scalability. To harness its full power and maintain a robust codebase, adhere strictly to these guidelines.

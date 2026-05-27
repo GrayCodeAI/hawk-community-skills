@@ -1,17 +1,13 @@
 ---
 name: cursor-stripe
-description: Cursor IDE rules for stripe
-domain: engineering
+description: "Cursor IDE rules for stripe"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: Stripe payment integration, webhooks, checkout, and subscriptions
-globs: **/stripe/**,**/payments/**,**/billing/**
-alwaysApply: false
----
 # Stripe Integration Rules
 
 ## API Usage

@@ -1,12 +1,12 @@
 ---
 name: implementing-zero-standing-privilege-with-cyberark
-description: Deploy CyberArk Secure Cloud Access to eliminate standing privileges in hybrid and multi-cloud environments using just-in-time access with time, entitlement, and approval controls.
+description: "Deploy CyberArk Secure Cloud Access to eliminate standing privileges in hybrid and multi-cloud environments using just-in-time access with time, entitlement, and approval controls."
+license: MIT
+tags: [cyberark, zero-standing-privilege, jit-access, pam, cloud-security, least-privilege]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [cyberark, zero-standing-privilege, jit-access, pam, cloud-security, least-privilege]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Zero Standing Privilege with CyberArk

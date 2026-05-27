@@ -1,3 +1,10 @@
+---
+name: gpt-svbtmakt6_remote_revenues_analyst
+description: "Skill: gpt-svbtmakt6_remote_revenues_analyst"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SVbTmakt6-remote-revenues-analyst
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-cS72rkx8umvUyo05czYnpmJn?se=2124-01-05T19%3A22%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dae457e12-08a5-4559-a29f-006b2741f9f3.png&sig=bZRXdYzoNgHM0jlIO2DNWy2kMrJ0ef6c06aul4BEwj4%3D" width="100px" />

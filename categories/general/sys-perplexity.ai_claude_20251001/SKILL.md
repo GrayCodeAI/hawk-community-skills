@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_claude_20251001
+description: "Skill: sys-perplexity.ai_claude_20251001"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_claude_20251001
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/124#event-20061572963>

@@ -1,3 +1,10 @@
+---
+name: agc-commands
+description: "Skill: agc-commands"
+license: MIT
+tags: [general]
+---
+
 # Glean CLI Command Reference
 
 Detailed flags, subcommands, and worked examples for every `glean` command. The authoritative source for the version installed locally is always `glean schema <command>` - fall back to this file when the user wants a quick reminder or you need to draft a command without an extra round-trip.

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable React-Redux applications using modern Redux Toolkit practices.
-globs: **/*.{js,jsx}
+name: mdc-react-redux
+description: "Definitive guidelines for building robust, performant, and maintainable React-Redux applications using modern Redux Toolkit practices."
+license: MIT
+tags: [react]
 ---
+
 # react-redux Best Practices
 
 This guide outlines the essential patterns and anti-patterns for developing with `react-redux` in 2025, emphasizing Redux Toolkit (RTK) and React hooks. Adhere to these rules to ensure your application is scalable, performant, and easy to maintain.

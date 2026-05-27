@@ -1,3 +1,10 @@
+---
+name: ghcp-references-observe-sampling-python
+description: "Skill: ghcp-references-observe-sampling-python"
+license: MIT
+tags: [general]
+---
+
 # Observe: Sampling Strategies
 
 How to efficiently sample production traces for review.

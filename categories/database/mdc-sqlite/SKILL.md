@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, performant, and secure SQLite code. Focuses on schema design, query optimization, and transaction management.
-globs: **/*
+name: mdc-sqlite
+description: "Definitive guidelines for writing robust, performant, and secure SQLite code. Focuses on schema design, query optimization, and transaction management."
+license: MIT
+tags: [database]
 ---
+
 # sqlite Best Practices
 
 SQLite is the go-to embedded SQL engine for local, reliable storage. Adhere to these rules to ensure your SQLite code is maintainable, performant, and secure.

@@ -1,9 +1,11 @@
 ---
-name: nx-workspace-patterns
+name: ag-nx-workspace-patterns
 description: "Configure and optimize Nx monorepo workspaces. Use when setting up Nx, configuring project boundaries, optimizing build caching, or implementing affected commands."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Nx Workspace Patterns

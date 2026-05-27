@@ -1,3 +1,10 @@
+---
+name: ls-vjfk8tcd8_the-rizz-game
+description: "Skill: ls-vjfk8tcd8_the-rizz-game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VJfk8tcd8-the-rizz-game
 
 GPT Title: The Rizz Game

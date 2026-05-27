@@ -1,6 +1,8 @@
 ---
-name: qdrant-minimize-latency
-description: "Guides Qdrant query latency optimization. Use when someone asks 'search is slow', 'how to reduce latency', 'p99 is too high', 'tail latency', 'single query too slow', 'how to make search faster', or 'latency spikes'."
+name: ghcp-minimize-latency-skill
+description: "Guides Qdrant query latency optimization. Use when someone asks 'search is slow', 'how to reduce latency', 'p99 is too high', 'tail latency', 'single query too slow', 'how to make search faster', o..."
+license: MIT
+tags: [general]
 ---
 
 # Scaling for Query Latency

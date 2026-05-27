@@ -1,7 +1,10 @@
 ---
-description: General rules and concepts for the z80 cellular automata simulation project, focusing on the environmental region grid system. This rule introduces the key concepts and overall purpose.
-globs: /**/*_z80_cellular_automata*.*
+name: mdc-general-z80-cellular-automata-simulation-rules
+description: "General rules and concepts for the z80 cellular automata simulation project, focusing on the environmental region grid system. This rule introduces the key concepts and overall purpose."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - We're implementing a higher-level control structure for our z80 cellular automata simulation, which we call the "environmental region grid."
 - Key Concepts:
   - Soup Cells: The individual units of our cellular automata, which follow basic rules and interact with their neighbors.

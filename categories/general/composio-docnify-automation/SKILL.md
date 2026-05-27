@@ -1,8 +1,10 @@
 ---
-name: docnify-automation
+name: composio-docnify-automation
 description: "Automate Docnify tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Docnify Automation via Rube MCP

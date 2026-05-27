@@ -1,7 +1,10 @@
 ---
-description: Specific JavaScript/TypeScript coding style guidelines. Focuses on syntax, usage of TypeScript features, and file structure.
-globs: **/*.{ts,js,jsx,tsx}
+name: mdc-javascript-typescript-coding-style
+description: "Specific JavaScript/TypeScript coding style guidelines. Focuses on syntax, usage of TypeScript features, and file structure."
+license: MIT
+tags: [typescript]
 ---
+
 - Use "function" keyword for pure functions. Omit semicolons.
 - Use TypeScript for all code. Prefer interfaces over types. Avoid enums, use maps.
 - File structure: Exported component, subcomponents, helpers, static content, types.

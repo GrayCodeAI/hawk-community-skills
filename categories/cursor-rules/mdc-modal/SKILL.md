@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing high-performance, cost-effective, and maintainable AI/ML applications on Modal.
-globs: **/*
+name: mdc-modal
+description: "This guide provides opinionated, actionable best practices for writing high-performance, cost-effective, and maintainable AI/ML applications on Modal."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # modal Best Practices
 
 Modal is the definitive platform for deploying AI/ML workloads. To leverage its full potential – sub-second cold starts, instant autoscaling, and GPU acceleration – you *must* adhere to these best practices. This guide cuts through the noise, providing the exact patterns your team will use daily.

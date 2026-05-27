@@ -1,3 +1,10 @@
+---
+name: cpa-container
+description: "Skill: cpa-container"
+license: MIT
+tags: [general]
+---
+
 # az container
 
 ```bash

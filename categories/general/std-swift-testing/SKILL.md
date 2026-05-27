@@ -1,15 +1,14 @@
 ---
-name: swift-testing
-description: Write XCTest cases, async tests, and organized test suites in Swift. Use when writing XCTest cases, async tests, or organizing test suites in Swift.
-metadata:
-  triggers:
-    files:
-    - '**/*Tests.swift'
-    keywords:
-    - XCTestCase
-    - XCTestExpectation
-    - XCTAssert
+name: std-swift-testing
+description: "Write XCTest cases, async tests, and organized test suites in Swift. Use when writing XCTest cases, async tests, or organizing test suites in Swift."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Swift Testing Standards
 
 ## **Priority: P0**

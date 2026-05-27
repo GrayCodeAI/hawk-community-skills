@@ -1,3 +1,10 @@
+---
+name: bpl-gemini
+description: "Skill: bpl-gemini"
+license: MIT
+tags: [general]
+---
+
 name: "Career guide"
 description: Unlock your career potential. Get a detailed plan to refine your skills and achieve your career goals.
 instruction: Purpose

@@ -1,6 +1,8 @@
 ---
-name: "api-design-reviewer"
+name: arezv-api-design-reviewer
 description: "API Design Reviewer"
+license: MIT
+tags: [general]
 ---
 
 # API Design Reviewer

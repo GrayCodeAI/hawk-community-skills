@@ -1,7 +1,9 @@
 ---
-description: 该规则解释了 Android 原生开发的约定和最佳实践，包括 Kotlin、Java、Jetpack Compose 等。
-globs: **/*.kt,**/*.java,**/*.xml
-alwaysApply: false
+name: extra-android_bak
+description: "该规则解释了 Android 原生开发的约定和最佳实践，包括 Kotlin、Java、Jetpack Compose 等。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 <!-- 来源：https://github.com/flyeric0212/cursor-rules/issues/4 -->

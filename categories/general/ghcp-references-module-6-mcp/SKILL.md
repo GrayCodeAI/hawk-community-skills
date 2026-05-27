@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-6-mcp
+description: "Skill: ghcp-references-module-6-mcp"
+license: MIT
+tags: [general]
+---
+
 # Module 6: MCP Integration
 
 ## What is MCP?

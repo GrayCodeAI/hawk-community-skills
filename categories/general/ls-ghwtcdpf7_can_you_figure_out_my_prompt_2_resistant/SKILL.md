@@ -1,3 +1,10 @@
+---
+name: ls-ghwtcdpf7_can_you_figure_out_my_prompt_2_resistant
+description: "Skill: ls-ghwtcdpf7_can_you_figure_out_my_prompt_2_resistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GhwTcdPf7-can-you-figure-out-my-prompt-2-resistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MRTrSGVNFNOvaZNfD2zPrS5b?se=2123-11-19T05%3A15%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbfb5d853-6465-44f5-8af2-01127f0535e9.png&sig=pjmJOggMm0ioNZcYI/MDI11dinDuYnc8mo5FZT2a/KQ%3D" width="100px" />

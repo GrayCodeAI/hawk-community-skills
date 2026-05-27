@@ -1,7 +1,10 @@
 ---
-description: Specifies how to use the custom Drawscape Factorio Python module in Python files.
-globs: **/*.py
+name: mdc-drawscape-factorio-usage
+description: "Specifies how to use the custom Drawscape Factorio Python module in Python files."
+license: MIT
+tags: [aws]
 ---
+
 - When working with Python files in this project, always utilize the custom Drawscape Factorio module.
 - Use the `createFactorio` and `importFUE5` functions from the `drawscape_factorio` module.
 - Ensure the following import statements are present: `from drawscape_factorio import create as createFactorio` and `from drawscape_factorio import importFUE5`.

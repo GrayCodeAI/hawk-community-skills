@@ -1,7 +1,9 @@
 ---
-name: 'GitHub Actions Node Runtime Upgrade'
-description: 'Upgrade a GitHub Actions JavaScript/TypeScript action to a newer Node runtime version (e.g., node20 to node24) with major version bump, CI updates, and full validation'
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search']
+name: ghcp-agents-github-actions-node-upgrade.ag
+description: "Upgrade a GitHub Actions JavaScript/TypeScript action to a newer Node runtime version (e.g., node20 to node24) with major version bump, CI updates, and full validation"
+license: MIT
+tags: [general]
+tools: [codebase, edit/editFiles, terminalCommand, search]
 ---
 
 # GitHub Actions Node Runtime Upgrade

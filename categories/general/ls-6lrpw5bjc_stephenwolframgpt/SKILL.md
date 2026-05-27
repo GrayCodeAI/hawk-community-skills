@@ -1,3 +1,10 @@
+---
+name: ls-6lrpw5bjc_stephenwolframgpt
+description: "Skill: ls-6lrpw5bjc_stephenwolframgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6LRpw5BJC-stephenwolframgpt
 
 GPT Title: StephenWolframGPT

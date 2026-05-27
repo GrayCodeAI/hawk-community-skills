@@ -1,16 +1,11 @@
 ---
 name: cursor-pnpm
-description: Cursor IDE rules for pnpm
-domain: engineering
+description: "Cursor IDE rules for pnpm"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "PNPM: workspace monorepos, efficient package management"
-globs: ["pnpm-workspace.yaml", "pnpm-lock.yaml", ".pnpmrc"]
-alwaysApply: true
 ---
 
 # PNPM Rules

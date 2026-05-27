@@ -1,7 +1,10 @@
 ---
-description: Enforces modern JavaScript best practices and leverages Bun's integrated tooling for high-performance, maintainable backend services.
-globs: **/*.{js,jsx}
+name: mdc-bun
+description: "Enforces modern JavaScript best practices and leverages Bun's integrated tooling for high-performance, maintainable backend services."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # bun Best Practices
 
 Bun is our go-to runtime for high-performance JavaScript/TypeScript backend services. It's an all-in-one toolkit designed for speed and developer experience. Adhere to these guidelines to maximize Bun's potential and maintain code quality.

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing modern Ruby code, focusing on maintainability, performance, and security, with a strong emphasis on RuboCop and Rails conventions.
-globs: **/*
+name: mdc-ruby
+description: "This guide provides opinionated, actionable best practices for writing modern Ruby code, focusing on maintainability, performance, and security, with a strong emphasis on RuboCop and Rails conventi..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Ruby Best Practices
 
 Our team adheres to a strict set of Ruby best practices, primarily enforced by RuboCop and aligned with the official Ruby and Rails Style Guides. This document serves as your definitive reference for writing clean, efficient, and maintainable Ruby code.

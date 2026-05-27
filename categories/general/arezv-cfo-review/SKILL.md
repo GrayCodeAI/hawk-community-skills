@@ -1,6 +1,8 @@
 ---
-name: "cfo-review"
+name: arezv-cfo-review
 description: "/cs:cfo-review <plan> — Numerate-skeptic interrogation of any plan that touches money. Unit economics, runway, dilution, capital allocation."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cfo-review — CFO Forcing Questions

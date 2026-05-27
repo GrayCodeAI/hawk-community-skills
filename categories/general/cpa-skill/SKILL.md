@@ -1,11 +1,12 @@
 ---
-name: calculator
-description: Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents. Use when the user asks to calculate, compute, or evaluate math expressions, or when precise decimal arithmetic is needed to avoid floating-point errors.
+name: cpa-skill
+description: "Performs arbitrary-precision arithmetic calculations including addition, subtraction, multiplication, division, and exponents. Use when the user asks to calculate, compute, or evaluate math express..."
 license: MIT
+tags: [general]
 compatibility: Requires Node.js and npm
-metadata:
-  author: Colby Timm
-  version: "1.0"
+metadata: None
+author: Colby Timm
+version: 1.0
 ---
 
 # Calculator

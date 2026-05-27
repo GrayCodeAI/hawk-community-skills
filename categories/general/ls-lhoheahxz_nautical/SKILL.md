@@ -1,3 +1,10 @@
+---
+name: ls-lhoheahxz_nautical
+description: "Skill: ls-lhoheahxz_nautical"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lHohEAHxz-nautical
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CX7fRHQV1fToATBtNz6956Wv?se=2124-01-06T20%3A06%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-30%252015.01.38%2520-%2520A%2520serene%2520underwater%2520scene%2520at%2520the%2520bottom%2520of%2520a%2520sunny%2520bay.%2520In%2520the%2520foreground%252C%2520a%2520detailed%252C%2520classic%2520anchor%2520is%2520settled%2520into%2520the%2520sandy%2520sea%2520floor%252C%2520with%2520its%2520ch.png&sig=dDkXXhiYDMgNF1uiYQpbUb1dVE50W9VUjzXMO9O4a14%3D" width="100px" />

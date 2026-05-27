@@ -1,3 +1,10 @@
+---
+name: ghcp-references-regions
+description: "Skill: ghcp-references-regions"
+license: MIT
+tags: [general]
+---
+
 # Azure Region Names Reference
 
 The Azure Retail Prices API requires `armRegionName` values in lowercase with no spaces. Use this table to map common region names to their API values.

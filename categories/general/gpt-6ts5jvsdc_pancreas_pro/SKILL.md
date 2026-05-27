@@ -1,3 +1,10 @@
+---
+name: gpt-6ts5jvsdc_pancreas_pro
+description: "Skill: gpt-6ts5jvsdc_pancreas_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6TS5JVsDC-pancreas-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-I8CearitLzoDn3ySQfcZSor7?se=2124-01-09T21%3A56%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D65965db6-56f1-4611-aa30-21bea7e0ffb2.png&sig=OSGp6w1rUiGy28GGLwWs9tYfB32ahxip7SqGbJw1LY4%3D" width="100px" />

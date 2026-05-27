@@ -1,6 +1,8 @@
 ---
-applyTo: '*'
-description: 'Comprehensive best practices for deploying and managing applications on Kubernetes. Covers Pods, Deployments, Services, Ingress, ConfigMaps, Secrets, health checks, resource limits, scaling, and security contexts.'
+name: ghcp-instructions-kubernetes-deployment-best-pra
+description: "Skill: ghcp-instructions-kubernetes-deployment-best-pra"
+license: MIT
+tags: [general]
 ---
 
 # Kubernetes Deployment Best Practices
@@ -304,4 +306,4 @@ Deploying applications on Kubernetes requires a deep understanding of its core c
 
 ---
 
-<!-- End of Kubernetes Deployment Best Practices Instructions --> 
+<!-- End of Kubernetes Deployment Best Practices Instructions -->

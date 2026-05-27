@@ -1,9 +1,10 @@
 ---
-name: bpl-elon-musk-youtube
-description: System prompt - elon-musk-youtube
-domain: general
+name: bpl-txt-elon-musk-youtube
+description: "System prompt - elon-musk-youtube"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

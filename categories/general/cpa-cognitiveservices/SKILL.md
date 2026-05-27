@@ -1,3 +1,10 @@
+---
+name: cpa-cognitiveservices
+description: "Skill: cpa-cognitiveservices"
+license: MIT
+tags: [general]
+---
+
 # az cognitiveservices
 
 ```bash

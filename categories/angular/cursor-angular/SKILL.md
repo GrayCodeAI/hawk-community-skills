@@ -1,16 +1,11 @@
 ---
 name: cursor-angular
-description: Cursor IDE rules for angular
-domain: engineering
+description: "Cursor IDE rules for angular"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Angular: signals, standalone components, RxJS patterns"
-globs: ["*.ts", "*.html"]
-alwaysApply: true
 ---
 
 # Angular Cursor Rules

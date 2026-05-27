@@ -1,9 +1,11 @@
 ---
-name: etsy-review-strategy
+name: ecom-etsy-review-strategy
 description: "Etsy review generation — thank you cards, follow-up messages, photo review incentives"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Review Strategy

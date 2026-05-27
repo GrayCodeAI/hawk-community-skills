@@ -1,3 +1,10 @@
+---
+name: ls-kq2oic7m1_funny_image_creator
+description: "Skill: ls-kq2oic7m1_funny_image_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kq2OIc7m1-funny-image-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1fSMyUFx6sI3RLW5CcoIGK1H?se=2123-10-17T06%3A55%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8a3ed094-ab00-4702-bd5c-181fb61d6295.png&sig=V8%2B6Lo6q0UZg6ZIRskX1TNf9MdlNTuU5GPbA0S6xnXo%3D" width="100px" />

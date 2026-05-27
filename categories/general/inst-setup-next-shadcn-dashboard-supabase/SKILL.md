@@ -1,6 +1,8 @@
 ---
-description: Automate ShadCN installation and create a simple dashboard with a sidebar, widgets, and Supabase Auth.
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-next-shadcn-dashboard-supabase
+description: "Automate ShadCN installation and create a simple dashboard with a sidebar, widgets, and Supabase Auth."
+license: MIT
+tags: [general]
 ---
 
 # Automated ShadCN Installation, Dashboard, and Supabase Auth

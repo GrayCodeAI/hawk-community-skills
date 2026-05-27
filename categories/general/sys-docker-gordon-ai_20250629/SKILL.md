@@ -1,3 +1,10 @@
+---
+name: sys-docker-gordon-ai_20250629
+description: "Skill: sys-docker-gordon-ai_20250629"
+license: MIT
+tags: [general]
+---
+
 # docker-gordon-ai_20250629
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/102>
@@ -275,4 +282,4 @@ services:
     volumes:
       - data_sql:/var/lib
 ```
-</extract>                                                  
+</extract>

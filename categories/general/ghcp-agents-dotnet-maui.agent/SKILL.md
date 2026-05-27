@@ -1,6 +1,8 @@
 ---
-name: MAUI Expert
-description: Support development of .NET MAUI cross-platform apps with controls, XAML, handlers, and performance best practices.
+name: ghcp-agents-dotnet-maui.agent
+description: "Support development of .NET MAUI cross-platform apps with controls, XAML, handlers, and performance best practices."
+license: MIT
+tags: [general]
 ---
 
 # .NET MAUI Coding Expert Agent

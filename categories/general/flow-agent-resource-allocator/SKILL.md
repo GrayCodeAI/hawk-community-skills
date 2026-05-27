@@ -1,13 +1,8 @@
 ---
-name: agent-resource-allocator
-description: Agent skill for resource-allocator - invoke with $agent-resource-allocator
----
-
----
-name: Resource Allocator
-type: agent
-category: optimization
-description: Adaptive resource allocation, predictive scaling and intelligent capacity planning
+name: flow-agent-resource-allocator
+description: "Agent skill for resource-allocator - invoke with $agent-resource-allocator"
+license: MIT
+tags: [general]
 ---
 
 # Resource Allocator Agent

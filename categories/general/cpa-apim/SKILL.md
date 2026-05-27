@@ -1,3 +1,10 @@
+---
+name: cpa-apim
+description: "Skill: cpa-apim"
+license: MIT
+tags: [general]
+---
+
 # az apim
 
 ```bash

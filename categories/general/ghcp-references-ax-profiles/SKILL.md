@@ -1,3 +1,10 @@
+---
+name: ghcp-references-ax-profiles
+description: "Skill: ghcp-references-ax-profiles"
+license: MIT
+tags: [general]
+---
+
 # ax Profile Setup
 
 Consult this when authentication fails (401, missing profile, missing API key). Do NOT run these checks proactively.

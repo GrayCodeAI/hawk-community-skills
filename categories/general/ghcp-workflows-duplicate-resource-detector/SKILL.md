@@ -1,20 +1,22 @@
 ---
-description: Weekly scan of agents, instructions, and skills to identify potential duplicate resources and report them for review
-on:
-  schedule: weekly
-permissions:
-  contents: read
-  issues: read
-tools:
-  github:
-    toolsets: [repos, issues]
-safe-outputs:
-  create-issue:
-    max: 1
-    close-older-issues: true
-    labels:
-      - duplicate-review
-  noop:
+name: ghcp-workflows-duplicate-resource-detector
+description: "Weekly scan of agents, instructions, and skills to identify potential duplicate resources and report them for review"
+license: MIT
+tags: [general]
+True: None
+schedule: weekly
+permissions: None
+contents: read
+issues: read
+tools: None
+github: None
+toolsets: [repos, issues]
+safe-outputs: None
+create-issue: None
+max: 1
+close-older-issues: True
+labels: None
+noop: None
 ---
 
 # Duplicate Resource Detector

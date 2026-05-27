@@ -1,3 +1,10 @@
+---
+name: cpa-elastic-san
+description: "Skill: cpa-elastic-san"
+license: MIT
+tags: [general]
+---
+
 # az elastic-san
 
 ```bash

@@ -1,6 +1,8 @@
 ---
-name: nx-run-tasks
-description: Execute build, test, lint, serve, and other tasks in an Nx workspace using single runs, run-many, and affected commands. Use when user says "run tests", "build my app", "lint affected", "serve the project", "run all tasks", or "nx affected". Do NOT use for code generation (use nx-generate) or workspace configuration (use nx-workspace).
+name: tl-nx-run-tasks
+description: "Execute build, test, lint, serve, and other tasks in an Nx workspace using single runs, run-many, and affected commands. Use when user says \"run tests\", \"build my app\", \"lint affected\", \"serve the ..."
+license: MIT
+tags: [general]
 ---
 
 You can run tasks with Nx in the following way.

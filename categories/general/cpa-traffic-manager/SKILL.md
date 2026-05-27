@@ -1,3 +1,10 @@
+---
+name: cpa-traffic-manager
+description: "Skill: cpa-traffic-manager"
+license: MIT
+tags: [general]
+---
+
 # az network traffic-manager
 
 ```bash

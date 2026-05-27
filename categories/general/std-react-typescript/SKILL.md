@@ -1,23 +1,14 @@
 ---
-name: react-typescript
-description: Type React components and hooks with TypeScript patterns. Use when typing React props, hooks, event handlers, or component generics in TypeScript.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    keywords:
-    - ReactNode
-    - FC
-    - PropsWithChildren
-    - ComponentProps
-    - react typescript
-    - tsx types
-    - props interface
-    - generic component
-    - useState type
-    - useRef type
-    - typed hooks
+name: std-react-typescript
+description: "Type React components and hooks with TypeScript patterns. Use when typing React props, hooks, event handlers, or component generics in TypeScript."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React TypeScript
 
 ## **Priority: P1 (OPERATIONAL)**

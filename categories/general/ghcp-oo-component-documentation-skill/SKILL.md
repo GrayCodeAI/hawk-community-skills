@@ -1,6 +1,8 @@
 ---
-name: oo-component-documentation
-description: 'Create or update standardized object-oriented component documentation using a shared template plus mode-specific guidance for new and existing docs.'
+name: ghcp-oo-component-documentation-skill
+description: "Create or update standardized object-oriented component documentation using a shared template plus mode-specific guidance for new and existing docs."
+license: MIT
+tags: [general]
 ---
 
 # OO Component Documentation

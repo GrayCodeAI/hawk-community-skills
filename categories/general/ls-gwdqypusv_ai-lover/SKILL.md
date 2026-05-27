@@ -1,3 +1,10 @@
+---
+name: ls-gwdqypusv_ai-lover
+description: "Skill: ls-gwdqypusv_ai-lover"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GWdqYPusV-ai-lover
 
 GPT Title: AI Lover

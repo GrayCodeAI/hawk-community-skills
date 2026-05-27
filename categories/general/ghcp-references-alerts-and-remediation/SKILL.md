@@ -1,3 +1,10 @@
+---
+name: ghcp-references-alerts-and-remediation
+description: "Skill: ghcp-references-alerts-and-remediation"
+license: MIT
+tags: [general]
+---
+
 # Alerts and Remediation Reference
 
 Detailed reference for secret scanning alert types, validity checks, remediation workflows, and API access.

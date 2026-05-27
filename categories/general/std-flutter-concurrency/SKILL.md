@@ -1,20 +1,14 @@
 ---
-name: flutter-concurrency
-description: Execute long-running tasks in background isolates to keep the UI responsive. Use when performing heavy computations, parsing large datasets, or choosing between async/await and isolates.
-metadata:
-  triggers:
-    files:
-    - '**/*isolate*.dart'
-    - '**/*worker*.dart'
-    keywords:
-    - Isolate
-    - compute
-    - Isolate.run
-    - Isolate.spawn
-    - ReceivePort
-    - SendPort
-    - background
+name: std-flutter-concurrency
+description: "Execute long-running tasks in background isolates to keep the UI responsive. Use when performing heavy computations, parsing large datasets, or choosing between async/await and isolates."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Dart Concurrency and Isolates
 
 ## **Priority: P1**

@@ -1,3 +1,10 @@
+---
+name: ls-codex
+description: "Skill: ls-codex"
+license: MIT
+tags: [general]
+---
+
 project: Codex CLI
 ref: https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/gpt_5_codex_prompt.md [old]
 ref: https://github.com/openai/codex/blob/rust-v0.36.0/codex-rs/core/prompt.md [new]

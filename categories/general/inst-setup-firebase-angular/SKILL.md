@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-angular
+description: "Skill: inst-setup-firebase-angular"
+license: MIT
+tags: [general]
+---
+
 # Firebase + Angular Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with an Angular application.
@@ -215,4 +222,4 @@ Common issues and solutions:
 
 - [Official AngularFire Documentation](https://github.com/angular/angularfire)
 - [Firebase Documentation](https://firebase.google.com/docs)
-- [Angular Documentation](https://angular.io/docs) 
+- [Angular Documentation](https://angular.io/docs)

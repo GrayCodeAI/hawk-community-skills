@@ -1,10 +1,10 @@
 ---
-name: llama-factory
-description: Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support
+name: research-llama-factory
+description: "Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support"
+license: MIT
+tags: [fine-tuning, llama-factory, llm, webui, no-code, qlora, lora, multimodal, huggingface, llama, qwen, gemma]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Fine-Tuning, LLaMA Factory, LLM, WebUI, No-Code, QLoRA, LoRA, Multimodal, HuggingFace, Llama, Qwen, Gemma]
 dependencies: [llmtuner, torch, transformers, datasets, peft, accelerate, gradio]
 ---
 
@@ -76,5 +76,3 @@ Add templates, boilerplate, or example projects here.
 To refresh this skill with updated documentation:
 1. Re-run the scraper with the same configuration
 2. The skill will be rebuilt with the latest information
-
-

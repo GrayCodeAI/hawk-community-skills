@@ -1,3 +1,10 @@
+---
+name: arb-refactoring-guru.mini
+description: "Skill: arb-refactoring-guru.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Refactoring.Guru
 
 ## When to use

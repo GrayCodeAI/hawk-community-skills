@@ -1,3 +1,10 @@
+---
+name: tl-tail-workers
+description: "Skill: tl-tail-workers"
+license: MIT
+tags: [general]
+---
+
 # Tail Workers Gotchas & Debugging
 
 ## Critical Pitfalls

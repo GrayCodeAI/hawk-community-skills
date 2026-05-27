@@ -1,3 +1,10 @@
+---
+name: ls-zim7gexlp_ai_narrative_and_causality_drone_gpt
+description: "Skill: ls-zim7gexlp_ai_narrative_and_causality_drone_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZIm7gEXLp-ai-narrative-and-causality-drone-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-atSN7tibOnugaiAttzwEQWWf?se=2123-10-21T07%3A14%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4dcb1d65-fadb-45e2-ab8d-cb40b68b7c98.png&sig=%2BurxyMllJWSTJEyUNxSCplnaVd1/eJbPZjyl50p5Uk8%3D" width="100px" />

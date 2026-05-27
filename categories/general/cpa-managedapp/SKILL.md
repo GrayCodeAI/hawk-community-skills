@@ -1,3 +1,10 @@
+---
+name: cpa-managedapp
+description: "Skill: cpa-managedapp"
+license: MIT
+tags: [general]
+---
+
 # az managedapp
 
 ```bash

@@ -1,9 +1,10 @@
 ---
 name: cr-uikit-guidelines
-description: Cursor rules for uikit-guidelines
-domain: engineering
+description: "Cursor rules for uikit-guidelines"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

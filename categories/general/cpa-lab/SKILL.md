@@ -1,3 +1,10 @@
+---
+name: cpa-lab
+description: "Skill: cpa-lab"
+license: MIT
+tags: [general]
+---
+
 # az lab
 
 ```bash

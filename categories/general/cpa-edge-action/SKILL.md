@@ -1,3 +1,10 @@
+---
+name: cpa-edge-action
+description: "Skill: cpa-edge-action"
+license: MIT
+tags: [general]
+---
+
 # az edge-action
 
 ```bash

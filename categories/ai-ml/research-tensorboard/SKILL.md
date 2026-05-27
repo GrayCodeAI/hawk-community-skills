@@ -1,10 +1,10 @@
 ---
-name: tensorboard
-description: Visualize training metrics, debug models with histograms, compare experiments, visualize model graphs, and profile performance with TensorBoard - Google's ML visualization toolkit
+name: research-tensorboard
+description: "Visualize training metrics, debug models with histograms, compare experiments, visualize model graphs, and profile performance with TensorBoard - Google's ML visualization toolkit"
+license: MIT
+tags: [mlops, tensorboard, visualization, training-metrics, model-debugging, pytorch, tensorflow, experiment-tracking, performance-profiling]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [MLOps, TensorBoard, Visualization, Training Metrics, Model Debugging, PyTorch, TensorFlow, Experiment Tracking, Performance Profiling]
 dependencies: [tensorboard, torch, tensorflow]
 ---
 
@@ -625,5 +625,3 @@ with profiler.profile(
 - `references/visualization.md` - Comprehensive visualization guide
 - `references/profiling.md` - Performance profiling patterns
 - `references/integrations.md` - Framework-specific integration examples
-
-

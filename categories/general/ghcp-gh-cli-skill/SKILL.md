@@ -1,6 +1,8 @@
 ---
-name: gh-cli
-description: GitHub CLI (gh) comprehensive reference for repositories, issues, pull requests, Actions, projects, releases, gists, codespaces, organizations, extensions, and all GitHub operations from the command line.
+name: ghcp-gh-cli-skill
+description: "GitHub CLI (gh) comprehensive reference for repositories, issues, pull requests, Actions, projects, releases, gists, codespaces, organizations, extensions, and all GitHub operations from the comman..."
+license: MIT
+tags: [general]
 ---
 
 # GitHub CLI (gh)

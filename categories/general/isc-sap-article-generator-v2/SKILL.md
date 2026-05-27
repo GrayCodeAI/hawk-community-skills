@@ -1,6 +1,8 @@
 ---
-name: sap-article-generator
-description: Generate comprehensive, fact-checked SAP technical articles and configuration guides with embedded images, flowcharts, and references. Use when users request SAP documentation, how-to guides, configuration tutorials, process explanations, or technical articles on SAP topics (ECC, S/4HANA, modules like SD, MM, FI, PP, ABAP, OData APIs, archiving, etc.). Creates professional Word documents with proper formatting and web-sourced visual aids with built-in image downloading.
+name: isc-sap-article-generator-v2
+description: "Generate comprehensive, fact-checked SAP technical articles and configuration guides with embedded images, flowcharts, and references. Use when users request SAP documentation, how-to guides, confi..."
+license: MIT
+tags: [general]
 ---
 
 # SAP Article Generator

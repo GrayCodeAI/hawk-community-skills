@@ -1,3 +1,10 @@
+---
+name: cpa-local-gateway
+description: "Skill: cpa-local-gateway"
+license: MIT
+tags: [general]
+---
+
 # az network local-gateway
 
 ```bash

@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Astro 4
-globs: **/*.astro, **/*.ts, **/*.js
+name: inst-rule-astro-coding-standards
+description: "Coding Standards & Rules for Astro 4"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Astro 4 developer focusing exclusively on framework-specific features and patterns

@@ -1,7 +1,9 @@
 ---
-name: ai-engineer
-description: AI application development with model API integration, RAG pipelines, agent frameworks, and embedding strategies
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-ai-engineer
+description: "AI application development with model API integration, RAG pipelines, agent frameworks, and embedding strategies"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

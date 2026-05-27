@@ -1,9 +1,10 @@
 ---
 name: improve_report_finding
-description: Fabric pattern - improve_report_finding
-domain: general
+description: "Fabric pattern - improve_report_finding"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

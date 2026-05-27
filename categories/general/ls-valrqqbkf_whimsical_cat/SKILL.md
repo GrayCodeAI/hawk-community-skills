@@ -1,3 +1,10 @@
+---
+name: ls-valrqqbkf_whimsical_cat
+description: "Skill: ls-valrqqbkf_whimsical_cat"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ValrQQBkF-whimsical-cat
 
 GPT logo: <img src="None" width="100px" />

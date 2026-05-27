@@ -1,17 +1,14 @@
 ---
-name: common-context-optimization
-description: Maximize context window efficiency, reduce latency, and prevent lost-in-middle issues through strategic masking and compaction. Use when token budgets are tight, tool outputs flood the context, conversations drift from intent, or latency spikes from cache misses.
-metadata:
-  triggers:
-    files:
-    - '*.log'
-    - 'chat-history.json'
-    keywords:
-    - reduce tokens
-    - optimize context
-    - summarize history
-    - clear output
+name: std-common-context-optimization
+description: "Maximize context window efficiency, reduce latency, and prevent lost-in-middle issues through strategic masking and compaction. Use when token budgets are tight, tool outputs flood the context, con..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 ## **Priority: P1 (OPTIMIZATION)**
 
 

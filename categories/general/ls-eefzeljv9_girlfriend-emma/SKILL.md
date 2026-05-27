@@ -1,3 +1,10 @@
+---
+name: ls-eefzeljv9_girlfriend-emma
+description: "Skill: ls-eefzeljv9_girlfriend-emma"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eEFZELjV9-girlfriend-emma
 
 GPT Title: [deleted] Girlfriend Emma

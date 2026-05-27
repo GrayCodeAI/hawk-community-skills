@@ -1,3 +1,10 @@
+---
+name: cpa-dns-resolver
+description: "Skill: cpa-dns-resolver"
+license: MIT
+tags: [general]
+---
+
 # az dns-resolver
 
 ```bash

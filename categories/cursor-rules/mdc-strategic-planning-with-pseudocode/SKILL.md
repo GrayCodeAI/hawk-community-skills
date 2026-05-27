@@ -1,6 +1,9 @@
 ---
-description: Rules that enforce to use pseudocode before implementation
-globs: /*.*
+name: mdc-strategic-planning-with-pseudocode
+description: "Rules that enforce to use pseudocode before implementation"
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Begin each feature with detailed pseudocode.
 - Example: Provide pseudocode for the weekly scoring process, detailing steps from game result input to entry status updates.

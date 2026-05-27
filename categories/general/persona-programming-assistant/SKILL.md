@@ -1,9 +1,10 @@
 ---
 name: persona-programming-assistant
-description: AI persona - programming-assistant
-domain: general
+description: "AI persona - programming-assistant"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

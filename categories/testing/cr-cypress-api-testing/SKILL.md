@@ -1,9 +1,10 @@
 ---
 name: cr-cypress-api-testing
-description: Cursor rules for cypress-api-testing
-domain: engineering
+description: "Cursor rules for cypress-api-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -93,4 +94,4 @@ describe('Users API', () => {
     });
   });
 });
-``` 
+```

@@ -1,10 +1,10 @@
 ---
-name: evaluating-llms-harness
-description: Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking model quality, comparing models, reporting academic results, or tracking training progress. Industry standard used by EleutherAI, HuggingFace, and major labs. Supports HuggingFace, vLLM, APIs.
+name: research-lm-evaluation-harness
+description: "Evaluates LLMs across 60+ academic benchmarks (MMLU, HumanEval, GSM8K, TruthfulQA, HellaSwag). Use when benchmarking model quality, comparing models, reporting academic results, or tracking trainin..."
+license: MIT
+tags: [evaluation, lm-evaluation-harness, benchmarking, mmlu, humaneval, gsm8k, eleutherai, model-quality, academic-benchmarks, industry-standard]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Evaluation, LM Evaluation Harness, Benchmarking, MMLU, HumanEval, GSM8K, EleutherAI, Model Quality, Academic Benchmarks, Industry Standard]
 dependencies: [lm-eval, transformers, vllm]
 ---
 
@@ -485,6 +485,3 @@ lm_eval --model hf \
 - Docs: https://github.com/EleutherAI/lm-evaluation-harness/tree/main/docs
 - Task library: 60+ tasks including MMLU, GSM8K, HumanEval, TruthfulQA, HellaSwag, ARC, WinoGrande, etc.
 - Leaderboard: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard (uses this harness)
-
-
-

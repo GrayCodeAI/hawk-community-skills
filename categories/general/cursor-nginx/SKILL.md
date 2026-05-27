@@ -1,16 +1,11 @@
 ---
 name: cursor-nginx
-description: Cursor IDE rules for nginx
-domain: engineering
+description: "Cursor IDE rules for nginx"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Nginx: reverse proxy, performance, security headers"
-globs: ["*.conf", "nginx.conf"]
-alwaysApply: true
 ---
 
 # Nginx Cursor Rules

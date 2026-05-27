@@ -1,7 +1,10 @@
 ---
-description: Applies to the project README file, focusing on providing a simple and usable experience.
-globs: README.md
+name: mdc-project-overview-rules
+description: "Applies to the project README file, focusing on providing a simple and usable experience."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Prioritize maintaining the app's simplicity and ease of use.
 - The app is named 'srt-model-quantizing' and is developed by SolidRusT Networks.
 - The app is a pipeline for downloading models from Hugging Face, quantizing them, and uploading them to a Hugging Face-compatible repository.

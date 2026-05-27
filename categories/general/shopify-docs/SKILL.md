@@ -1,3 +1,10 @@
+---
+name: shopify-docs
+description: "Skill: shopify-docs"
+license: MIT
+tags: [general]
+---
+
 # GraphQL Operations Index
 
 Cross-reference table mapping every Shopify Admin GraphQL operation used across operator skills to the skills that use it.

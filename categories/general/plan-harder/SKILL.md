@@ -1,7 +1,8 @@
 ---
 name: plan-harder
-description: >
-  Use when user specfically says 'plan harder'. 
+description: "Skill: plan-harder"
+license: MIT
+tags: [general]
 ---
 
 # Planner Agent

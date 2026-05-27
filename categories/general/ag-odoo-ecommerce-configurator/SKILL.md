@@ -1,8 +1,10 @@
 ---
-name: odoo-ecommerce-configurator
+name: ag-odoo-ecommerce-configurator
 description: "Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow."
+license: MIT
+tags: [general]
 risk: safe
-source: "self"
+source: self
 ---
 
 # Odoo eCommerce Configurator

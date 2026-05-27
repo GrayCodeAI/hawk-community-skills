@@ -1,3 +1,10 @@
+---
+name: ls-3dg1gdne7_security_2.i
+description: "Skill: ls-3dg1gdne7_security_2.i"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3DG1gdnE7-security-2-i
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-PG441AlH63iDq0UxU2e7sao5?se=2124-01-11T09%3A50%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DC82A77B3-103E-4E43-9D91-E8E9A3434341.png&sig=8KohPeJoDdPSDgxlB2OJys34U3FeGndgzIGxFTyRRa8%3D" width="100px" />

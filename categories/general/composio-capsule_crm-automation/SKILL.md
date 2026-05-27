@@ -1,8 +1,10 @@
 ---
-name: capsule_crm-automation
+name: composio-capsule_crm-automation
 description: "Automate Capsule CRM tasks via Rube MCP (Composio): contacts, opportunities, cases, tasks, and pipeline management. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Capsule CRM Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: gpt-irkpuc4dd_data-insight-navigator-gpt
+description: "Skill: gpt-irkpuc4dd_data-insight-navigator-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IRkPUc4DD-data-insight-navigator-gpt
 
 GPT Title: Data Insight Navigator GPT

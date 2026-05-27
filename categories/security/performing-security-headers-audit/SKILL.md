@@ -1,12 +1,12 @@
 ---
 name: performing-security-headers-audit
-description: Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie attributes to identify missing or misconfigured browser-level protections.
+description: "Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie attributes to identify missing or misconfigured browser-level protections."
+license: MIT
+tags: [penetration-testing, security-headers, csp, hsts, owasp, web-security, hardening]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, security-headers, csp, hsts, owasp, web-security, hardening]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Security Headers Audit

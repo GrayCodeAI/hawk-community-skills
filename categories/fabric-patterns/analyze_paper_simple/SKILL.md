@@ -1,9 +1,10 @@
 ---
 name: analyze_paper_simple
-description: Fabric pattern - analyze_paper_simple
-domain: general
+description: "Fabric pattern - analyze_paper_simple"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: bpl-action-showcase
+description: "Skill: bpl-action-showcase"
+license: MIT
+tags: [general]
+---
+
 # [Actions in GPTs](https://platform.openai.com/docs/actions/introduction/actions-in-gpts)
 
 ## [Introduction](https://platform.openai.com/docs/actions/introduction/introduction)

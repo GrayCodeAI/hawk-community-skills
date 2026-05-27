@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building robust, high-performance, and maintainable Scrapy web crawlers, emphasizing modern Python standards and ethical scraping.
-globs: **/*.py
+name: mdc-scrapy
+description: "This guide provides opinionated, actionable best practices for building robust, high-performance, and maintainable Scrapy web crawlers, emphasizing modern Python standards and ethical scraping."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Scrapy Best Practices
 
 Scrapy is the definitive framework for high-performance web scraping in Python. This guide outlines the essential practices for building resilient, scalable, and ethical crawlers. Adhere to these guidelines to ensure your Scrapy projects are maintainable, efficient, and robust against the dynamic web landscape of 2025.

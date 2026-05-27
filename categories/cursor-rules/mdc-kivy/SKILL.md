@@ -1,7 +1,10 @@
 ---
-description: Definitive guide for building modern, maintainable Kivy applications using best practices, focusing on KV language, KivyMD, and clear code organization.
-globs: **/*.py
+name: mdc-kivy
+description: "Definitive guide for building modern, maintainable Kivy applications using best practices, focusing on KV language, KivyMD, and clear code organization."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Kivy Best Practices
 
 This guide outlines the definitive best practices for developing Kivy applications. Adhere to these rules to ensure your codebase is maintainable, performant, and scales effectively.

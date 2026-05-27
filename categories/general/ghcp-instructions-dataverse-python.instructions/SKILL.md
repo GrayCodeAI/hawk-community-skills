@@ -1,6 +1,10 @@
 ---
-applyTo: '**'
+name: ghcp-instructions-dataverse-python.instructions
+description: "Skill: ghcp-instructions-dataverse-python.instructions"
+license: MIT
+tags: [general]
 ---
+
 # Dataverse SDK for Python — Getting Started
 
 - Install the Dataverse Python SDK and prerequisites.

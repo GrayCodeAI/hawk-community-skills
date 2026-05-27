@@ -1,3 +1,10 @@
+---
+name: ls-b1lv1genp_academic_article_writing_tips_for_social
+description: "Skill: ls-b1lv1genp_academic_article_writing_tips_for_social"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B1Lv1gENp-academic-article-writing-tips-for-social-science
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lDZp01fYgLxHvL9RbK3DSMBN?se=2124-01-06T05%3A30%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D45193fcb-d51b-4ba7-ab11-d07f5a6a3a67.png&sig=Tcb5grcpmLH3AM41QtLaqHzaziIM1ZwPR7VRDhNg2/0%3D" width="100px" />

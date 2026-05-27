@@ -1,7 +1,10 @@
 ---
-description: Rules for developing the region visualization system. The region grid and its effects are visually represented, allowing users to see the influence of their changes on the simulation.
-globs: /visualization/**/*.*
+name: mdc-region-visualization-system-rules
+description: "Rules for developing the region visualization system. The region grid and its effects are visually represented, allowing users to see the influence of their changes on the simulation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Create a Region Visualization System:
   - Develop a robust visualization system for the regions. This should:
     a. Visually represent the various parameters of each region, possibly using color coding, patterns, or overlays.

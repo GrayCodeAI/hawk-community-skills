@@ -1,3 +1,10 @@
+---
+name: sys-moonshot-kimi-chat_20241106
+description: "Skill: sys-moonshot-kimi-chat_20241106"
+license: MIT
+tags: [general]
+---
+
 # moonshot-kimi-chat_20241106
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/49>

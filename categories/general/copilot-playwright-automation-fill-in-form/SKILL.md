@@ -1,6 +1,8 @@
 ---
-name: playwright-automation-fill-in-form
-description: 'Automate filling in a form using Playwright MCP'
+name: copilot-playwright-automation-fill-in-form
+description: "Automate filling in a form using Playwright MCP"
+license: MIT
+tags: [general]
 ---
 
 # Automating Filling in a Form with Playwright MCP

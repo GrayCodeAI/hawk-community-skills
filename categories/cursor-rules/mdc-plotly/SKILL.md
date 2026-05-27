@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, performant, and reproducible Plotly visualizations using modern Python best practices, especially for AI/ML workflows.
-globs: **/*.py
+name: mdc-plotly
+description: "Definitive guidelines for writing maintainable, performant, and reproducible Plotly visualizations using modern Python best practices, especially for AI/ML workflows."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Plotly Best Practices
 
 Plotly 6.5.0 is a powerful tool for interactive, publication-quality visualizations, crucial for modern AI/ML workflows. These rules ensure your Plotly code is maintainable, reproducible, and production-ready, leveraging the latest features including AI-assisted Studio tools.

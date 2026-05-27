@@ -1,3 +1,10 @@
+---
+name: gpt-6c48jgw3n_tricycle
+description: "Skill: gpt-6c48jgw3n_tricycle"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6c48jGW3n-tricycle
 
 GPT Title: Tricycle

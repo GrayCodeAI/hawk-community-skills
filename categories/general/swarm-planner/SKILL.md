@@ -1,10 +1,10 @@
 ---
 name: swarm-planner
-description: >
-  [EXPLICIT INVOCATION ONLY] Creates dependency-aware implementation plans optimized for parallel
-  multi-agent execution.
-metadata:
-  invocation: explicit-only
+description: "Skill: swarm-planner"
+license: MIT
+tags: [general]
+metadata: None
+invocation: explicit-only
 ---
 
 # Swarm-Ready Planner

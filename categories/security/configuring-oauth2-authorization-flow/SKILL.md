@@ -1,13 +1,14 @@
 ---
 name: configuring-oauth2-authorization-flow
-description: Configure secure OAuth 2.0 authorization flows including Authorization Code with PKCE, Client Credentials, and Device Authorization Grant. This skill covers flow selection, PKCE implementation, token 
+description: "Configure secure OAuth 2.0 authorization flows including Authorization Code with PKCE, Client Credentials, and Device Authorization Grant. This skill covers flow selection, PKCE implementation, token"
+license: MIT
+tags: [iam, identity, access-control, authentication, authorization, oauth2, oidc, pkce]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [iam, identity, access-control, authentication, authorization, oauth2, oidc, pkce]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Configuring OAuth 2.0 Authorization Flow
 
 ## Overview

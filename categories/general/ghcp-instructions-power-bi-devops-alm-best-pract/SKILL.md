@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive guide for Power BI DevOps, Application Lifecycle Management (ALM), CI/CD pipelines, deployment automation, and version control best practices.'
-applyTo: '**/*.{yml,yaml,ps1,json,pbix,pbir}'
+name: ghcp-instructions-power-bi-devops-alm-best-pract
+description: "Skill: ghcp-instructions-power-bi-devops-alm-best-pract"
+license: MIT
+tags: [general]
 ---
 
 # Power BI DevOps and Application Lifecycle Management Best Practices

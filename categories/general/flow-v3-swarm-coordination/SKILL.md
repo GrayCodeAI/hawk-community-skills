@@ -1,6 +1,8 @@
 ---
-name: "V3 Swarm Coordination"
+name: flow-v3-swarm-coordination
 description: "15-agent hierarchical mesh coordination for v3 implementation. Orchestrates parallel execution across security, core, and integration domains following 10 ADRs with 14-week timeline."
+license: MIT
+tags: [general]
 ---
 
 # V3 Swarm Coordination

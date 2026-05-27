@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing robust, secure, and performant GitHub Actions workflows. Follow these rules to build maintainable CI/CD pipelines.
-globs: **/*
+name: mdc-github-actions
+description: "This guide provides definitive, opinionated best practices for writing robust, secure, and performant GitHub Actions workflows. Follow these rules to build maintainable CI/CD pipelines."
+license: MIT
+tags: [devops]
 ---
+
 # github-actions Best Practices
 
 GitHub Actions is the backbone of modern CI/CD. Adhering to these best practices ensures your workflows are efficient, secure, and maintainable. This guide is your definitive reference for building high-quality pipelines.

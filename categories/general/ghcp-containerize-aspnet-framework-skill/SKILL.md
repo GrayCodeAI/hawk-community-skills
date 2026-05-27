@@ -1,6 +1,8 @@
 ---
-name: containerize-aspnet-framework
-description: 'Containerize an ASP.NET .NET Framework project by creating Dockerfile and .dockerfile files customized for the project.'
+name: ghcp-containerize-aspnet-framework-skill
+description: "Containerize an ASP.NET .NET Framework project by creating Dockerfile and .dockerfile files customized for the project."
+license: MIT
+tags: [general]
 ---
 
 # ASP.NET .NET Framework Containerization Prompt

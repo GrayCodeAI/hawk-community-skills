@@ -1,3 +1,10 @@
+---
+name: rb-tasks_plan_legacy
+description: "Skill: rb-tasks_plan_legacy"
+license: MIT
+tags: [general]
+---
+
 # Task Backlog and Project Progress Tracker
 
 ## Backlog:

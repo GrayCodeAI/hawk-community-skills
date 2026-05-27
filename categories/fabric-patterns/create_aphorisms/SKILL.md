@@ -1,9 +1,10 @@
 ---
 name: create_aphorisms
-description: Fabric pattern - create_aphorisms
-domain: general
+description: "Fabric pattern - create_aphorisms"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

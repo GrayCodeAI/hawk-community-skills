@@ -1,3 +1,10 @@
+---
+name: ls-fsevnv9zc_yaqeengpt
+description: "Skill: ls-fsevnv9zc_yaqeengpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FsEVnv9zc-yaqeengpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-qWUmHt6iH9rRqoL3lDBzQ6rz?se=2124-01-15T05%3A34%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202024-02-07%2520at%252011.23.56%25E2%2580%25AFPM.png&sig=TRSSvCEhFBQgVWqeIbgRwf%2BzYjtxceu3DAWv7em9ohY%3D" width="100px" />

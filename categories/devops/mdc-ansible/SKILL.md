@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for writing maintainable, performant, and robust Ansible code, focusing on modern YAML hygiene, role design, and CI/CD integration.
-globs: **/*
+name: mdc-ansible
+description: "This guide defines definitive best practices for writing maintainable, performant, and robust Ansible code, focusing on modern YAML hygiene, role design, and CI/CD integration."
+license: MIT
+tags: [devops]
 ---
+
 # ansible Best Practices
 
 Ansible excels when treated as infrastructure-as-code. These guidelines ensure your playbooks, roles, and modules are consistent, idempotent, and production-ready.

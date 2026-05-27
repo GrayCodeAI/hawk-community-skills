@@ -1,9 +1,11 @@
 ---
-name: etsy-competitor-analysis
+name: ecom-etsy-competitor-analysis
 description: "Competitor research — pricing comparison, bestseller analysis, differentiation strategy"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Competitor Analysis

@@ -1,33 +1,8 @@
 ---
-name: agent-tdd-london-swarm
-description: Agent skill for tdd-london-swarm - invoke with $agent-tdd-london-swarm
----
-
----
-name: tdd-london-swarm
-type: tester
-color: "#E91E63"
-description: TDD London School specialist for mock-driven development within swarm coordination
-capabilities:
-  - mock_driven_development
-  - outside_in_tdd
-  - behavior_verification
-  - swarm_test_coordination
-  - collaboration_testing
-priority: high
-hooks:
-  pre: |
-    echo "🧪 TDD London School agent starting: $TASK"
-    # Initialize swarm test coordination
-    if command -v npx >$dev$null 2>&1; then
-      echo "🔄 Coordinating with swarm test agents..."
-    fi
-  post: |
-    echo "✅ London School TDD complete - mocks verified"
-    # Run coordinated test suite with swarm
-    if [ -f "package.json" ]; then
-      npm test --if-present
-    fi
+name: flow-agent-tdd-london-swarm
+description: "Agent skill for tdd-london-swarm - invoke with $agent-tdd-london-swarm"
+license: MIT
+tags: [general]
 ---
 
 # TDD London School Swarm Agent

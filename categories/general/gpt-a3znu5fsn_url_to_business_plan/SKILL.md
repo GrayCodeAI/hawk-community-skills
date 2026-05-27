@@ -1,3 +1,10 @@
+---
+name: gpt-a3znu5fsn_url_to_business_plan
+description: "Skill: gpt-a3znu5fsn_url_to_business_plan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a3ZNu5FsN-url-to-business-plan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1MSAoZSvnxlfXhUEeNicf8TF?se=2123-10-26T17%3A36%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De2d03e54-6632-49bd-922b-4bb6d437bf76.png&sig=%2BkBdJdoO6ZVEAN/ue3LG9EqzO8G613L7Xk/N8R5yWLM%3D" width="100px" />

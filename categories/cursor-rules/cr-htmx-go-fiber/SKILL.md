@@ -1,9 +1,10 @@
 ---
 name: cr-htmx-go-fiber
-description: Cursor rules for htmx-go-fiber
-domain: engineering
+description: "Cursor rules for htmx-go-fiber"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -47,4 +48,3 @@ const additionalInstructions = `
 6. Follow Fiber's best practices for project structure
 7. Use environment variables for configuration
 `;
-

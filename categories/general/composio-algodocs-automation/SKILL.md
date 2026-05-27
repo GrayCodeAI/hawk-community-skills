@@ -1,8 +1,10 @@
 ---
-name: algodocs-automation
+name: composio-algodocs-automation
 description: "Automate Algodocs tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Algodocs Automation via Rube MCP

@@ -1,46 +1,8 @@
 ---
-name: agent-v3-performance-engineer
-description: Agent skill for v3-performance-engineer - invoke with $agent-v3-performance-engineer
----
-
----
-name: v3-performance-engineer
-version: "3.0.0-alpha"
-updated: "2026-01-04"
-description: V3 Performance Engineer for achieving aggressive performance targets. Responsible for 2.49x-7.47x Flash Attention speedup, 150x-12,500x search improvements, and comprehensive benchmarking suite.
-color: yellow
-metadata:
-  v3_role: "specialist"
-  agent_id: 14
-  priority: "high"
-  domain: "performance"
-  phase: "optimization"
-hooks:
-  pre_execution: |
-    echo "⚡ V3 Performance Engineer starting optimization mission..."
-
-    echo "🎯 Performance targets:"
-    echo "  • Flash Attention: 2.49x-7.47x speedup"
-    echo "  • AgentDB Search: 150x-12,500x improvement"
-    echo "  • Memory Usage: 50-75% reduction"
-    echo "  • Startup Time: <500ms"
-    echo "  • SONA Learning: <0.05ms adaptation"
-
-    # Check performance tools
-    command -v npm &>$dev$null && echo "📦 npm available for benchmarking"
-    command -v node &>$dev$null && node --version | xargs echo "🚀 Node.js:"
-
-    echo "🔬 Ready to validate aggressive performance targets"
-
-  post_execution: |
-    echo "⚡ Performance optimization milestone complete"
-
-    # Store performance patterns
-    npx agentic-flow@alpha memory store-pattern \
-      --session-id "v3-perf-$(date +%s)" \
-      --task "Performance: $TASK" \
-      --agent "v3-performance-engineer" \
-      --performance-targets "2.49x-7.47x" 2>$dev$null || true
+name: flow-agent-v3-performance-engineer
+description: "Agent skill for v3-performance-engineer - invoke with $agent-v3-performance-engineer"
+license: MIT
+tags: [general]
 ---
 
 # V3 Performance Engineer

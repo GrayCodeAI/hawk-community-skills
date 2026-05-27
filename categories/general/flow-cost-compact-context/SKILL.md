@@ -1,7 +1,9 @@
 ---
-name: cost-compact-context
-description: Wrap getTokenOptimizer().getCompactContext() to retrieve compacted ReasoningBank context for cost-analysis queries; report bridge-reported tokensSaved
-argument-hint: "<query>"
+name: flow-cost-compact-context
+description: "Wrap getTokenOptimizer().getCompactContext() to retrieve compacted ReasoningBank context for cost-analysis queries; report bridge-reported tokensSaved"
+license: MIT
+tags: [general]
+argument-hint: <query>
 allowed-tools: Bash
 ---
 

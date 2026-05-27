@@ -1,9 +1,10 @@
 ---
 name: provide_guidance
-description: Fabric pattern - provide_guidance
-domain: general
+description: "Fabric pattern - provide_guidance"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

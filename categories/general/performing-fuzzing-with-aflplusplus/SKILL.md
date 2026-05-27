@@ -1,19 +1,14 @@
 ---
 name: performing-fuzzing-with-aflplusplus
-description: >
-  Perform coverage-guided fuzzing of compiled binaries using AFL++ (American Fuzzy Lop Plus Plus)
-  to discover memory corruption, crashes, and security vulnerabilities. The tester instruments
-  target binaries with afl-cc/afl-clang-fast, manages input corpora with afl-cmin and afl-tmin,
-  runs parallel fuzzing campaigns with afl-fuzz, and triages crashes using CASR or GDB scripts.
-  Activates for requests involving binary fuzzing, crash discovery, coverage-guided testing, or
-  AFL++ fuzzing campaigns.
+description: "Perform coverage-guided fuzzing of compiled binaries using AFL++ (American Fuzzy Lop Plus Plus) to discover memory corruption, crashes, and security vulnerabilities. The tester instruments target b..."
+license: MIT
+tags: [fuzzing, aflplusplus, coverage-guided, crash-triage, binary-analysis, security-testing]
 domain: cybersecurity
 subdomain: application-security
-tags: [fuzzing, aflplusplus, coverage-guided, crash-triage, binary-analysis, security-testing]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Fuzzing with AFL++
 
 ## Overview

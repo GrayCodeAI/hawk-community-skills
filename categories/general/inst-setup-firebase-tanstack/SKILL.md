@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-tanstack
+description: "Skill: inst-setup-firebase-tanstack"
+license: MIT
+tags: [general]
+---
+
 # Firebase + TanStack Query Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with TanStack Query (formerly React Query) in a React application.
@@ -400,4 +407,4 @@ const { data } = useDocument('users', userId, {
 - [TanStack Query Documentation](https://tanstack.com/query/latest)
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [TanStack Query Firebase Documentation](https://tanstack-query-firebase.web.app/)
-- [React Documentation](https://reactjs.org/docs) 
+- [React Documentation](https://reactjs.org/docs)

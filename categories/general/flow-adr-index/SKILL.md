@@ -1,7 +1,9 @@
 ---
-name: adr-index
-description: Build or rebuild the ADR index + dependency graph by running scripts/import.mjs (handles v3-style and plugin-style ADR formats; one Bash call vs hundreds of MCP round-trips)
-argument-hint: ""
+name: flow-adr-index
+description: "Build or rebuild the ADR index + dependency graph by running scripts/import.mjs (handles v3-style and plugin-style ADR formats; one Bash call vs hundreds of MCP round-trips)"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash mcp__claude-flow__memory_list mcp__claude-flow__memory_search
 ---
 

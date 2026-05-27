@@ -1,8 +1,10 @@
 ---
-name: opencage-automation
+name: composio-opencage-automation
 description: "Automate Opencage tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Opencage Automation via Rube MCP

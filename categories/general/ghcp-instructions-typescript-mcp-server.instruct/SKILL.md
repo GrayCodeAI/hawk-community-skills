@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for building Model Context Protocol (MCP) servers using the TypeScript SDK'
-applyTo: '**/*.ts, **/*.js, **/package.json'
+name: ghcp-instructions-typescript-mcp-server.instruct
+description: "Skill: ghcp-instructions-typescript-mcp-server.instruct"
+license: MIT
+tags: [general]
 ---
 
 # TypeScript MCP Server Development

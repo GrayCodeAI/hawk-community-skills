@@ -1,6 +1,8 @@
 ---
-name: raffle-winner-picker
-description: Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency.
+name: composio-raffle-winner-picker
+description: "Picks random winners from lists, spreadsheets, or Google Sheets for giveaways, raffles, and contests. Ensures fair, unbiased selection with transparency."
+license: MIT
+tags: [general]
 ---
 
 # Raffle Winner Picker
@@ -156,4 +158,3 @@ Pick 1 winner and 3 runner-ups from the list
 - Beta tester selection
 - Focus group participant selection
 - Random prize distribution at events
-

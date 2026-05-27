@@ -1,3 +1,10 @@
+---
+name: gpt-8prsrotra_permaculture_101
+description: "Skill: gpt-8prsrotra_permaculture_101"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8PrSRotRa-permaculture-101
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-14QmK0nYJ8CLrQAG713vKLct?se=2124-01-13T20%3A40%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DBookOfPermaculture.png&sig=KYfsMzjEW0OWG2sauHY6UttCCEtNmgt6Hwu6sh5a9YA%3D" width="100px" />

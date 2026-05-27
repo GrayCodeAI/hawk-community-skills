@@ -1,6 +1,8 @@
 ---
-name: create-spring-boot-kotlin-project
-description: 'Create Spring Boot Kotlin Project Skeleton'
+name: copilot-create-spring-boot-kotlin-project
+description: "Create Spring Boot Kotlin Project Skeleton"
+license: MIT
+tags: [general]
 ---
 
 # Create Spring Boot Kotlin project prompt

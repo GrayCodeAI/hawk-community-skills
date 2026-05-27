@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-branding
+name: ecom-tiktok-shop-branding
 description: "Brand building on TikTok — brand identity, content pillars, community engagement, brand storytelling"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Branding

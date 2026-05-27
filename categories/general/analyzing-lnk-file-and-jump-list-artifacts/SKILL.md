@@ -1,12 +1,12 @@
 ---
 name: analyzing-lnk-file-and-jump-list-artifacts
-description: Analyze Windows LNK shortcut files and Jump List artifacts to establish evidence of file access, program execution, and user activity using LECmd, JLECmd, and manual binary parsing of the Shell Link Binary format.
+description: "Analyze Windows LNK shortcut files and Jump List artifacts to establish evidence of file access, program execution, and user activity using LECmd, JLECmd, and manual binary parsing of the Shell Lin..."
+license: MIT
+tags: [lnk-files, jump-lists, lecmd, jlecmd, windows-forensics, shell-link, user-activity, file-access, program-execution, recent-files]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [lnk-files, jump-lists, lecmd, jlecmd, windows-forensics, shell-link, user-activity, file-access, program-execution, recent-files]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing LNK File and Jump List Artifacts

@@ -1,7 +1,10 @@
 ---
-description: Governs the mechanics related to armies, battles, and territorial control. This rule focuses on combat, resource management, and strategic expansion within the game.
-globs: army_mechanics.py
+name: mdc-army-and-battle-mechanics-rule
+description: "Governs the mechanics related to armies, battles, and territorial control. This rule focuses on combat, resource management, and strategic expansion within the game."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - There is a "battle list" that shows all the battles that have happened and stats about them.
 - Armies go from level 1 to level 10 based on their funding.
 - Inner squares can be developed into farms, forests, mines.

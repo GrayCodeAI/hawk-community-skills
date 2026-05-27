@@ -1,7 +1,10 @@
 ---
-description: Specifies the format for ending responses, including a summary of requirements, code written, source tree, and next task, applying to all files.
-globs: *
+name: mdc-history-and-next-task-rules
+description: "Specifies the format for ending responses, including a summary of requirements, code written, source tree, and next task, applying to all files."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Consider the entire chat session, and end your response as follows:
   """
   History: complete, concise, and compressed summary of ALL requirements and ALL code you’ve written

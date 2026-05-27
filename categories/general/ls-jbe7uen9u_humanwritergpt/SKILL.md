@@ -1,3 +1,10 @@
+---
+name: ls-jbe7uen9u_humanwritergpt
+description: "Skill: ls-jbe7uen9u_humanwritergpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JBE7uEN9u-humanwritergpt
 
 GPT Title: HumanWriterGPT

@@ -1,25 +1,14 @@
 ---
-name: react-security
-description: Prevent XSS, secure auth flows, and harden React client-side applications. Use when preventing XSS, securing auth flows, or auditing third-party dependencies in React.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.jsx'
-    keywords:
-    - dangerouslySetInnerHTML
-    - token
-    - auth
-    - xss
-    - react security
-    - csp
-    - content security policy
-    - sanitize html
-    - secure cookie
-    - jwt react
-    - oauth react
-    - dompurify
+name: std-react-security
+description: "Prevent XSS, secure auth flows, and harden React client-side applications. Use when preventing XSS, securing auth flows, or auditing third-party dependencies in React."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Security
 
 ## **Priority: P0 (CRITICAL)**

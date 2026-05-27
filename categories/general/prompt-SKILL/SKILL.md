@@ -1,6 +1,8 @@
 ---
-name: widget-generator
-description: Generate customizable widget plugins for the prompts.chat feed system
+name: prompt-SKILL
+description: "Generate customizable widget plugins for the prompts.chat feed system"
+license: MIT
+tags: [general]
 ---
 
 # Widget Generator Skill

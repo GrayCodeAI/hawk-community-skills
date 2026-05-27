@@ -1,9 +1,10 @@
 ---
-name: bpl-pie1711
-description: System prompt - pie1711
-domain: general
+name: bpl-txt-pie1711
+description: "System prompt - pie1711"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

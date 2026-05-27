@@ -1,7 +1,10 @@
 ---
-description: Enforces specific folder structure at root level.
-globs: *
+name: mdc-recommended-folder-structure
+description: "Enforces specific folder structure at root level."
+license: MIT
+tags: [cursor-rules]
 ---
+
 The recommended folder structure is:
 
 cmd/

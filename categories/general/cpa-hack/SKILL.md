@@ -1,3 +1,10 @@
+---
+name: cpa-hack
+description: "Skill: cpa-hack"
+license: MIT
+tags: [general]
+---
+
 # az hack
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-ckxjwstae_python
+description: "Skill: ls-ckxjwstae_python"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cKXjWStaE-python
 
 GPT Title: Python

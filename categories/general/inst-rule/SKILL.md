@@ -1,6 +1,8 @@
 ---
-description: <INSERT YOUR DESC HERE>
-globs: **/*.ts, my-folder/**
+name: inst-rule
+description: "<INSERT YOUR DESC HERE>"
+license: MIT
+tags: [general]
 ---
 
 Add your instructions here

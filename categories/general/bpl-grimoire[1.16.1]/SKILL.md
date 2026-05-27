@@ -1,3 +1,10 @@
+---
+name: bpl-grimoire[1.16.1]
+description: "Skill: bpl-grimoire[1.16.1]"
+license: MIT
+tags: [general]
+---
+
 # Prompt to media:
 ## Ai images:
 

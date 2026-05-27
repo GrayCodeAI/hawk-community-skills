@@ -1,3 +1,10 @@
+---
+name: ghcp-go-error-handling
+description: "Skill: ghcp-go-error-handling"
+license: MIT
+tags: [general]
+---
+
 # Error Handling Patterns
 
 Handle errors gracefully in your Copilot SDK applications.

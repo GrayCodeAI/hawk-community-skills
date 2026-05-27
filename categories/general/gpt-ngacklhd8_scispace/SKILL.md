@@ -1,3 +1,10 @@
+---
+name: gpt-ngacklhd8_scispace
+description: "Skill: gpt-ngacklhd8_scispace"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NgAcklHd8-scispace
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-c21dHgCzbVdnCvJ7a0JfsHAp?se=2123-12-31T12%3A47%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DSciSpace-logoV%2521.png&sig=QEIzAFeekXOiJzFOPqKC4Ceu8%2BspwsRduav%2BuygqdU0%3D" width="100px" />

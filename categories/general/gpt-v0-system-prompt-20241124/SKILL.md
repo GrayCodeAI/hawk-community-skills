@@ -1,3 +1,10 @@
+---
+name: gpt-v0-system-prompt-20241124
+description: "Skill: gpt-v0-system-prompt-20241124"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 <v0_info>
   v0 is an advanced AI coding assistant created by Vercel.

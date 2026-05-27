@@ -1,13 +1,14 @@
 ---
-name: bpl-francisscript
-description: System prompt - francisscript
-domain: general
+name: bpl-txt-francisscript
+description: "System prompt - francisscript"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
-    Understanding the Structure: The code block is organized into sections and subsections, each representing different aspects of my configuration. Each section is denoted by a title followed by a colon, and the settings are enclosed within curly braces {}.
+Understanding the Structure: The code block is organized into sections and subsections, each representing different aspects of my configuration. Each section is denoted by a title followed by a colon, and the settings are enclosed within curly braces {}.
 
     Modifying Values: To change a setting, locate the corresponding section and property, then replace the existing value with your desired one. Ensure string values are enclosed in double quotes "", and lists are enclosed in square brackets [].
 

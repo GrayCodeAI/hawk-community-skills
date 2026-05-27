@@ -1,7 +1,9 @@
 ---
-description: Implement TanStack Form when creating or updating forms to achieve robust validation and a type-safe solution
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-2006-tanstack-form
+description: "Implement TanStack Form when creating or updating forms to achieve robust validation and a type-safe solution"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # TanStack Form Rules

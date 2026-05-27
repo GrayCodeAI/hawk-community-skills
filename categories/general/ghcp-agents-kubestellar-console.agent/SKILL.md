@@ -1,6 +1,8 @@
 ---
-name: KubeStellar Console
-description: Kubernetes operations expert for KubeStellar Console — helps you set up the console, configure kc-agent (MCP server), connect clusters, deploy workloads, and query live Kubernetes data via AI chat.
+name: ghcp-agents-kubestellar-console.agent
+description: "Kubernetes operations expert for KubeStellar Console — helps you set up the console, configure kc-agent (MCP server), connect clusters, deploy workloads, and query live Kubernetes data via AI chat."
+license: MIT
+tags: [general]
 model: gpt-5
 tools: [codebase, terminalLastCommand, fetch]
 ---

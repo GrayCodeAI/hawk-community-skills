@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-average-order-value-trends
-role: finance
+name: shopify-shopify-admin-average-order-value-trends
 description: "Read-only: tracks AOV over time buckets and segments by new vs. returning customers."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - customers:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'customers': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

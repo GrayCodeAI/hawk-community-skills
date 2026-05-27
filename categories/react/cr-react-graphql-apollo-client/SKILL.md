@@ -1,9 +1,10 @@
 ---
 name: cr-react-graphql-apollo-client
-description: Cursor rules for react-graphql-apollo-client
-domain: engineering
+description: "Cursor rules for react-graphql-apollo-client"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -48,4 +49,3 @@ const additionalInstructions = `
 6. Use Apollo Client DevTools for debugging
 7. Follow naming conventions for queries, mutations, and fragments
 `;
-

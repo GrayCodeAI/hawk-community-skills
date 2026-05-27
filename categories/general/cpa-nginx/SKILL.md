@@ -1,3 +1,10 @@
+---
+name: cpa-nginx
+description: "Skill: cpa-nginx"
+license: MIT
+tags: [general]
+---
+
 # az nginx
 
 ```bash

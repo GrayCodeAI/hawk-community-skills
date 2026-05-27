@@ -1,6 +1,8 @@
 ---
-name: cs-cto-advisor
-description: Technical leadership advisor for CTOs covering technology strategy, team scaling, architecture decisions, and engineering excellence
+name: arezv-cs-cto-advisor
+description: "Technical leadership advisor for CTOs covering technology strategy, team scaling, architecture decisions, and engineering excellence"
+license: MIT
+tags: [general]
 skills: c-level-advisor/skills/cto-advisor
 domain: c-level
 model: opus

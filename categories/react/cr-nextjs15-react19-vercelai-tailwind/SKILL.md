@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs15-react19-vercelai-tailwind
-description: Cursor rules for nextjs15-react19-vercelai-tailwind
-domain: engineering
+description: "Cursor rules for nextjs15-react19-vercelai-tailwind"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -87,4 +88,3 @@ const { isEnabled } = await draftMode()
 // Handle async params in layouts/pages
 const params = await props.params
 const searchParams = await props.searchParams
-

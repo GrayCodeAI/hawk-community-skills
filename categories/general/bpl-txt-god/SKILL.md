@@ -1,9 +1,10 @@
 ---
-name: bpl-god
-description: System prompt - god
-domain: general
+name: bpl-txt-god
+description: "System prompt - god"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

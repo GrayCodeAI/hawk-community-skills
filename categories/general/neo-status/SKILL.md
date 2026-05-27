@@ -1,6 +1,8 @@
 ---
-name: status
+name: neo-status
 description: "Display the current state of the FPF knowledge base"
+license: MIT
+tags: [general]
 ---
 
 # Status Check

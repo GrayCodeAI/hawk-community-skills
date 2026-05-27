@@ -1,7 +1,10 @@
 ---
-description: Applies general Svelte and SvelteKit best practices, including file structure, component development, and state management.
-globs: **/*.svelte
+name: mdc-svelte-and-sveltekit-general-rules
+description: "Applies general Svelte and SvelteKit best practices, including file structure, component development, and state management."
+license: MIT
+tags: [svelte]
 ---
+
 - Write concise, technical TypeScript or JavaScript code with accurate examples.
 - Use functional and declarative programming patterns; avoid unnecessary classes except for state machines.
 - Prefer iteration and modularization over code duplication.

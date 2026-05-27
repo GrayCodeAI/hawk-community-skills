@@ -1,7 +1,10 @@
 ---
-description: Focuses on error handling and validation practices, including early error handling, proper logging, and Zod usage.
-globs: **/*
+name: mdc-error-handling-and-validation
+description: "Focuses on error handling and validation practices, including early error handling, proper logging, and Zod usage."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Prioritize error handling: handle errors and edge cases early.
 - Use early returns and guard clauses.
 - Implement proper error logging and user-friendly messages.

@@ -1,7 +1,10 @@
 ---
-description: General Rules to set up Typescript.
-globs: tsconfig.json
+name: mdc-general-rules
+description: "General Rules to set up Typescript."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Enable strict TypeScript (strict: true in tsconfig.json)
 - Avoid 'any', prefer 'unknown' with runtime checks
 - Explicitly type function inputs and outputs

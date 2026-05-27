@@ -1,3 +1,10 @@
+---
+name: gpt-taagvcytc_spellbook-hotkey-pandora's-box[1.1]
+description: "Skill: gpt-taagvcytc_spellbook-hotkey-pandora's-box[1.1]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TaagvCyTc
 
 GPT Title: Spellbook: Hotkey Pandora's Box

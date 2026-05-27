@@ -1,16 +1,14 @@
 ---
-name: nestjs-file-uploads
-description: Validate and stream file uploads securely with Validation and S3 streaming in NestJS. Use when implementing secure file uploads, validation, or S3 streaming in NestJS.
-metadata:
-  triggers:
-    files:
-    - '**/*.controller.ts'
-    keywords:
-    - FileInterceptor
-    - Multer
-    - S3
-    - UploadedFile
+name: std-nestjs-file-uploads
+description: "Validate and stream file uploads securely with Validation and S3 streaming in NestJS. Use when implementing secure file uploads, validation, or S3 streaming in NestJS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # File Upload Patterns
 
 ## **Priority: P0 (FOUNDATIONAL)**

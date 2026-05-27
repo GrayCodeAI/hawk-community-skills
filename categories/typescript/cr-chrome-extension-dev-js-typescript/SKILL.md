@@ -1,9 +1,10 @@
 ---
 name: cr-chrome-extension-dev-js-typescript
-description: Cursor rules for chrome-extension-dev-js-typescript
-domain: engineering
+description: "Cursor rules for chrome-extension-dev-js-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -94,4 +95,3 @@ Code Output:
 - If the file is too large to reasonably include in full, provide the most relevant complete section and clearly indicate where it fits in the larger file structure
 
 Follow Chrome Extension documentation for best practices, security guidelines, and API usage
-

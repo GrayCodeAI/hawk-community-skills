@@ -1,3 +1,10 @@
+---
+name: cpa-advisor
+description: "Skill: cpa-advisor"
+license: MIT
+tags: [general]
+---
+
 # az advisor
 
 ```bash

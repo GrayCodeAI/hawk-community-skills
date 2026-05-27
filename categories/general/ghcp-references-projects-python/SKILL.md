@@ -1,3 +1,10 @@
+---
+name: ghcp-references-projects-python
+description: "Skill: ghcp-references-projects-python"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Projects (Python)
 
 **Organize traces by application using projects (Phoenix's top-level grouping).**

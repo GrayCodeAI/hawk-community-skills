@@ -1,3 +1,10 @@
+---
+name: ghcp-references-unicode-charmap
+description: "Skill: ghcp-references-unicode-charmap"
+license: MIT
+tags: [general]
+---
+
 # Unicode Character Map Reference
 
 Full mapping tables for LinkedIn Unicode formatting. Load this file when generating posts to ensure correct character conversion.

@@ -1,3 +1,10 @@
+---
+name: ls-vklr0bddt_slide-maker
+description: "Skill: ls-vklr0bddt_slide-maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Vklr0BddT-slide-maker
 
 GPT Title: Slide Maker

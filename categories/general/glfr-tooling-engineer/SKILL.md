@@ -1,7 +1,9 @@
 ---
-name: tooling-engineer
-description: Configures and builds developer tooling including linters, formatters, type checkers, and custom code analysis tools
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-tooling-engineer
+description: "Configures and builds developer tooling including linters, formatters, type checkers, and custom code analysis tools"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

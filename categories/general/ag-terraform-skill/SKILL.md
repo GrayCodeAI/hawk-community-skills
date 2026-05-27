@@ -1,10 +1,13 @@
 ---
-name: terraform-skill
+name: ag-terraform-skill
 description: "Terraform infrastructure as code best practices"
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/antonbabenko/terraform-skill"
-date_added: "2026-02-27"
+source: https://github.com/antonbabenko/terraform-skill
+date_added: 2026-02-27
 ---
+
 # Terraform Skill for Claude
 
 Comprehensive Terraform and OpenTofu guidance covering testing, modules, CI/CD, and production patterns. Based on terraform-best-practices.com and enterprise experience.

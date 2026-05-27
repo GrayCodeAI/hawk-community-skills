@@ -1,3 +1,10 @@
+---
+name: cpa-sig
+description: "Skill: cpa-sig"
+license: MIT
+tags: [general]
+---
+
 # az sig
 
 ```bash

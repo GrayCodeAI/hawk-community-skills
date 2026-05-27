@@ -1,6 +1,8 @@
 ---
-name: "freeze"
+name: arezv-freeze
 description: "/cs:freeze <decision> <days> — Lock a strategic decision for a cooldown period to prevent impulse reversal. Mirrors gstack's safety primitives for the business layer."
+license: MIT
+tags: [general]
 ---
 
 # /cs:freeze — Cooldown Lock on a Decision

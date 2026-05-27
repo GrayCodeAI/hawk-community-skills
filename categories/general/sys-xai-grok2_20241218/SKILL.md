@@ -1,3 +1,10 @@
+---
+name: sys-xai-grok2_20241218
+description: "Skill: sys-xai-grok2_20241218"
+license: MIT
+tags: [general]
+---
+
 # xAI-grok2_20241218
 
 source: <https://www.reddit.com/r/LocalLLaMA/comments/1hgvp7o/here_is_grok_2s_system_prompt/>

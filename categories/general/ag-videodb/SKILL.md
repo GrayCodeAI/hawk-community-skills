@@ -1,65 +1,27 @@
 ---
-name: videodb
-description: Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.
+name: ag-videodb
+description: Video and audio perception, indexing, and editing. Ingest files/URLs/live
+  streams, build visual/spoken indexes, search with timestamps, edit timelines, add
+  overlays/subtitles, generate media, and c...
+license: MIT
+tags:
+- video
+- editing
+- transcription
+- subtitles
+- search
+- streaming
+- ai-generation
+- media
+- live-streams
+- desktop-capture
 category: media
 risk: safe
 source: community
-tags: "[video, editing, transcription, subtitles, search, streaming, ai-generation, media, live-streams, desktop-capture]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 allowed-tools: Read Grep Glob Bash(python:*)
-argument-hint: "[task description]"
----
-
-# VideoDB Skill
-
-**Perception + memory + actions for video, live streams, and desktop sessions.**
-
-Use this skill when you need to:
-
-## When to Use
-- You need video or audio perception, indexing, search, or timeline editing from files, URLs, desktop sessions, or live streams.
-- The task involves timestamps, searchable evidence, subtitles, clips, overlays, or real-time monitoring alerts.
-- You want one workflow that combines ingestion, understanding, retrieval, and media actions.
-
-## 1) Desktop Perception
-- Start/stop a **desktop session** capturing **screen, mic, and system audio**
-- Stream **live context** and store **episodic session memory**
-- Run **real-time alerts/triggers** on what's spoken and what's happening on screen
-- Produce **session summaries**, a searchable timeline, and **playable evidence links**
-
-## 2) Video ingest + stream
-- Ingest a **file or URL** and return a **playable web stream link**
-- Transcode/normalize: **codec, bitrate, fps, resolution, aspect ratio**
-
-## 3) Index + search (timestamps + evidence)
-- Build **visual**, **spoken**, and **keyword** indexes
-- Search and return exact moments with **timestamps** and **playable evidence**
-- Auto-create **clips** from search results
-
-## 4) Timeline editing + generation
-- Subtitles: **generate**, **translate**, **burn-in**
-- Overlays: **text/image/branding**, motion captions
-- Audio: **background music**, **voiceover**, **dubbing**
-- Programmatic composition and exports via **timeline operations**
-
-## 5) Live streams (RTSP) + monitoring
-- Connect **RTSP/live feeds**
-- Run **real-time visual and spoken understanding** and emit **events/alerts** for monitoring workflows
-
----
-
-## Common inputs
-- Local **file path**, public **URL**, or **RTSP URL**
-- Desktop capture request: **start / stop / summarize session**
-- Desired operations: get context for understanding, transcode spec, index spec, search query, clip ranges, timeline edits, alert rules
-
-## Common outputs
-- **Stream URL**
-- Search results with **timestamps** and **evidence links**
-- Generated assets: subtitles, audio, images, clips
-- **Event/alert payloads** for live streams
-- Desktop **session summaries** and memory entries
-
+argument-hint:
+- task description
 ---
 
 ## Canonical prompts (examples)

@@ -1,6 +1,9 @@
 ---
-description: An agent to help debug code by providing detailed error analysis and potential fixes.
-tools: ['edit', 'search', 'new', 'runCommands', 'runTasks', 'extensions', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'todos']
+name: cpa-debugger.agent
+description: "An agent to help debug code by providing detailed error analysis and potential fixes."
+license: MIT
+tags: [general]
+tools: [edit, search, new, runCommands, runTasks, extensions, usages, vscodeAPI, problems, changes, testFailure, openSimpleBrowser, fetch, githubRepo, todos]
 ---
 
 # Purpose

@@ -1,13 +1,13 @@
 ---
 name: content-research-writer
-description: Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section.
+description: "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section."
+license: MIT
+tags: [writing, research, content-creation, blogging, citations, editing, collaboration]
 domain: general
 subdomain: writing
-tags: [writing, research, content-creation, blogging, citations, editing, collaboration]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Content Research Writer

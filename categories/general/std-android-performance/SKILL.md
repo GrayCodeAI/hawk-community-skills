@@ -1,16 +1,14 @@
 ---
-name: android-performance
-description: Optimize Android app startup, UI rendering, and frame stability with Baseline Profiles and lazy initialization. Use when reducing startup time, diagnosing jank, or improving rendering performance.
-metadata:
-  triggers:
-    files:
-    - '**/*Benchmark.kt'
-    - '**/*Initializer.kt'
-    keywords:
-    - BaselineProfile
-    - JankStats
-    - recomposition
+name: std-android-performance
+description: "Optimize Android app startup, UI rendering, and frame stability with Baseline Profiles and lazy initialization. Use when reducing startup time, diagnosing jank, or improving rendering performance."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Performance Standards
 
 ## **Priority: P1**

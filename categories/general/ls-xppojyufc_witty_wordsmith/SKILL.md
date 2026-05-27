@@ -1,3 +1,10 @@
+---
+name: ls-xppojyufc_witty_wordsmith
+description: "Skill: ls-xppojyufc_witty_wordsmith"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XPPoJYufc-witty-wordsmith
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DFnKrJqAeiKBGvEh68Fqoz6E?se=2123-10-16T18%3A51%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7598552a-617b-4c58-9bd5-65ac6de57603.png&sig=WMlcjxkd9PhOp3V11UbIL00a8lR14QRdQ2vFIknuxTk%3D" width="100px" />

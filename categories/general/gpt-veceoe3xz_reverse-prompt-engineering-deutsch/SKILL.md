@@ -1,3 +1,10 @@
+---
+name: gpt-veceoe3xz_reverse-prompt-engineering-deutsch
+description: "Skill: gpt-veceoe3xz_reverse-prompt-engineering-deutsch"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-veceOe3XZ-reverse-prompt-engineering-deutsch
 
 GPT Title: Reverse Prompt Engineering Deutsch

@@ -1,8 +1,10 @@
 ---
-name: genderapi-io-automation
+name: composio-genderapi-io-automation
 description: "Automate Genderapi IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Genderapi IO Automation via Rube MCP

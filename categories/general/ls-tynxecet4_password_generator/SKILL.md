@@ -1,3 +1,10 @@
+---
+name: ls-tynxecet4_password_generator
+description: "Skill: ls-tynxecet4_password_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TYnxECET4-password-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IzyG4o3LJRq6odPmkPQxbnya?se=2124-01-20T16%3A20%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Def4ead2f-94f7-42e0-b76b-904b089868c7.png&sig=TeZ4NVTybZNMvhGtUMSdeqyJY83niIjHwM7Bahc43us%3D" width="100px" />

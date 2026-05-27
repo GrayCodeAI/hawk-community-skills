@@ -1,8 +1,10 @@
 ---
-name: claid-ai-automation
+name: composio-claid-ai-automation
 description: "Automate Claid AI tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Claid AI Automation via Rube MCP

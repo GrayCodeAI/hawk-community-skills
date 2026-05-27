@@ -1,10 +1,10 @@
 ---
-name: optimizing-attention-flash
-description: Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction. Use when training/running transformers with long sequences (>512 tokens), encountering GPU memory issues with attention, or need faster inference. Supports PyTorch native SDPA, flash-attn library, H100 FP8, and sliding window attention.
+name: research-flash-attention
+description: "Optimizes transformer attention with Flash Attention for 2-4x speedup and 10-20x memory reduction. Use when training/running transformers with long sequences (>512 tokens), encountering GPU memory ..."
+license: MIT
+tags: [optimization, flash-attention, attention-optimization, memory-efficiency, speed-optimization, long-context, pytorch, sdpa, h100, fp8, transformers]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Optimization, Flash Attention, Attention Optimization, Memory Efficiency, Speed Optimization, Long Context, PyTorch, SDPA, H100, FP8, Transformers]
 dependencies: [flash-attn, torch, transformers]
 ---
 
@@ -362,6 +362,3 @@ Flash Attention uses float16/bfloat16 for speed. Float32 not supported.
 - Blog: https://tridao.me/blog/2024/flash3/
 - GitHub: https://github.com/Dao-AILab/flash-attention
 - PyTorch docs: https://pytorch.org/docs/stable/generated/torch.nn.functional.scaled_dot_product_attention.html
-
-
-

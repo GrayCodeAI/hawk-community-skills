@@ -1,3 +1,10 @@
+---
+name: gpt-notebooklm
+description: "Skill: gpt-notebooklm"
+license: MIT
+tags: [general]
+---
+
 references: https://x.com/JadenGeller/status/1839924780855672925
 
 

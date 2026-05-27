@@ -1,9 +1,11 @@
 ---
-name: subagent-driven-development
+name: ag-subagent-driven-development
 description: "Use when executing implementation plans with independent tasks in the current session"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Subagent-Driven Development

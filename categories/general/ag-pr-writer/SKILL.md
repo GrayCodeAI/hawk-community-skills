@@ -1,6 +1,8 @@
 ---
-name: pr-writer
+name: ag-pr-writer
 description: "Create pull requests following Sentry's engineering practices."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

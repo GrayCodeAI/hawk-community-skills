@@ -1,3 +1,10 @@
+---
+name: ls-stvxpct14_meditation
+description: "Skill: ls-stvxpct14_meditation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-STVXpCT14-meditation
 
 GPT Title: Meditation

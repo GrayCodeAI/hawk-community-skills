@@ -1,3 +1,10 @@
+---
+name: ls-openai_optimization_system_prompt_playground
+description: "Skill: ls-openai_optimization_system_prompt_playground"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 Produce a detailed system prompt to guide a language model in completing a specific task effectively.
 

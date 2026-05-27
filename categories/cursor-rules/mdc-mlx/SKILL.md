@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for developing high-performance machine learning applications with MLX on Apple Silicon, focusing on Python and Swift.
-globs: **/*
+name: mdc-mlx
+description: "This guide provides opinionated, actionable best practices for developing high-performance machine learning applications with MLX on Apple Silicon, focusing on Python and Swift."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # mlx Best Practices
 
 MLX is Apple's high-performance array framework for numerical computing and AI on Apple Silicon. Adhering to these guidelines ensures your MLX code is efficient, maintainable, and integrates seamlessly with Apple's ML ecosystem.

@@ -1,6 +1,8 @@
 ---
-applyTo: "**"
-description: 'Instructions for customizing GitHub Copilot behavior for MS-SQL DBA chat mode.'
+name: ghcp-instructions-ms-sql-dba.instructions
+description: "Skill: ghcp-instructions-ms-sql-dba.instructions"
+license: MIT
+tags: [general]
 ---
 
 # MS-SQL DBA Chat Mode Instructions

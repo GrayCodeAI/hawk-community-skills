@@ -1,3 +1,10 @@
+---
+name: gpt-readme
+description: "Skill: gpt-readme"
+license: MIT
+tags: [general]
+---
+
 ## README
 Welcome to Grimoire! 
 Coding Wizard

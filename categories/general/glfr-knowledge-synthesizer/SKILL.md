@@ -1,7 +1,9 @@
 ---
-name: knowledge-synthesizer
-description: Compress and synthesize information across sources, build knowledge graphs, and extract insights
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-knowledge-synthesizer
+description: "Compress and synthesize information across sources, build knowledge graphs, and extract insights"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

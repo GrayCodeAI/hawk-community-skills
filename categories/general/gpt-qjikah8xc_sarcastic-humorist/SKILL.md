@@ -1,3 +1,10 @@
+---
+name: gpt-qjikah8xc_sarcastic-humorist
+description: "Skill: gpt-qjikah8xc_sarcastic-humorist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qJikAH8xC-dui-dui-ge
 
 GPT Title: 怼怼哥

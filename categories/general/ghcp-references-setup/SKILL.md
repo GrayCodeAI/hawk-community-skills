@@ -1,3 +1,10 @@
+---
+name: ghcp-references-setup
+description: "Skill: ghcp-references-setup"
+license: MIT
+tags: [general]
+---
+
 # Setup and Configuration
 
 ## NuGet Packages

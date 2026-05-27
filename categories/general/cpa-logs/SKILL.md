@@ -1,3 +1,10 @@
+---
+name: cpa-logs
+description: "Skill: cpa-logs"
+license: MIT
+tags: [general]
+---
+
 # az containerapp logs
 
 ```bash

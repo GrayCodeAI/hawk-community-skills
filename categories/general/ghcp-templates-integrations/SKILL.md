@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-integrations
+description: "Skill: ghcp-templates-integrations"
+license: MIT
+tags: [general]
+---
+
 # External Integrations
 
 ## Core Sections (Required)

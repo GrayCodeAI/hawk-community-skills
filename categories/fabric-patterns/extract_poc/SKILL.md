@@ -1,9 +1,10 @@
 ---
 name: extract_poc
-description: Fabric pattern - extract_poc
-domain: general
+description: "Fabric pattern - extract_poc"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

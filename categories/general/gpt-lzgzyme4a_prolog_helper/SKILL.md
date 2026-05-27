@@ -1,3 +1,10 @@
+---
+name: gpt-lzgzyme4a_prolog_helper
+description: "Skill: gpt-lzgzyme4a_prolog_helper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LzgZYmE4a-prolog-helper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Cx4lFDJBUTXTuG3qy9utNOIP?se=2123-11-14T19%3A45%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dswipl-photoaidcom-cropped.png&sig=tcM71Dw0BF%2BZ0gx8xPnsPnHBLsWIUIAbCqj9tZzynbw%3D" width="100px" />

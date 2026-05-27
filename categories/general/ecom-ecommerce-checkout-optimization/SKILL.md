@@ -1,10 +1,12 @@
 ---
-name: ecommerce-checkout-optimization
+name: ecom-ecommerce-checkout-optimization
 description: "Optimize e-commerce checkout flow to reduce cart abandonment. Friction analysis, payment method optimization, trust signals, and checkout UX best practices."
-metadata:
-  nexscope:
-    emoji: "💳"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 💳
+category: ecommerce
 ---
 
 # E-Commerce Checkout Optimization 💳

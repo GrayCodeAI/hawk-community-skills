@@ -1,7 +1,9 @@
 ---
-description: 'Fast terminal syntax and command helper for PowerShell and Bash'
-name: 'terminal-helper'
-tools: ['execute/getTerminalOutput', 'execute/runInTerminal', 'read/terminalLastCommand', 'read/terminalSelection']
+name: ghcp-agents-terminal-helper.agent
+description: "Fast terminal syntax and command helper for PowerShell and Bash"
+license: MIT
+tags: [general]
+tools: [execute/getTerminalOutput, execute/runInTerminal, read/terminalLastCommand, read/terminalSelection]
 model: GPT-4.1 (copilot)
 ---
 

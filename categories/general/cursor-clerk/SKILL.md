@@ -1,16 +1,11 @@
 ---
 name: cursor-clerk
-description: Cursor IDE rules for clerk
-domain: engineering
+description: "Cursor IDE rules for clerk"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Clerk: auth, middleware, user management, org patterns"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Clerk Cursor Rules

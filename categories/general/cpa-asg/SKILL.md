@@ -1,3 +1,10 @@
+---
+name: cpa-asg
+description: "Skill: cpa-asg"
+license: MIT
+tags: [general]
+---
+
 # az network asg
 
 ```bash

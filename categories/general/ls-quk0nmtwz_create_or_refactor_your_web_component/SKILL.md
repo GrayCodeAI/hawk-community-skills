@@ -1,3 +1,10 @@
+---
+name: ls-quk0nmtwz_create_or_refactor_your_web_component
+description: "Skill: ls-quk0nmtwz_create_or_refactor_your_web_component"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-quK0nMtwZ-create-or-refactor-your-web-component
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-t2TfJzhOQdK8P3JS4TMam7KP?se=2123-12-21T11%3A43%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=suYO5c9bsd%2B5suSI3NbrSlTpO7IqOmdaeYy8BI3K/xc%3D" width="100px" />

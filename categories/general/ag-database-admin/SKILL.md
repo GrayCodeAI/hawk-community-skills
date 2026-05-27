@@ -1,9 +1,11 @@
 ---
-name: database-admin
-description: Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
+name: ag-database-admin
+description: "Expert database administrator specializing in modern cloud databases, automation, and reliability engineering."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

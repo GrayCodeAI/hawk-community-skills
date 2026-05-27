@@ -1,9 +1,10 @@
 ---
 name: cr-helium-mcp
-description: Cursor rules for helium-mcp
-domain: engineering
+description: "Cursor rules for helium-mcp"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

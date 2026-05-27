@@ -1,9 +1,11 @@
 ---
-name: azure-ai-voicelive-py
+name: ag-azure-ai-voicelive-py
 description: "Build real-time voice AI applications with bidirectional WebSocket communication."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure AI Voice Live SDK

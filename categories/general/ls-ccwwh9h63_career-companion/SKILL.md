@@ -1,3 +1,10 @@
+---
+name: ls-ccwwh9h63_career-companion
+description: "Skill: ls-ccwwh9h63_career-companion"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CcwwH9H63-career-companion
 
 GPT Title: Career Companion

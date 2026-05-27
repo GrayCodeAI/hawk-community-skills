@@ -1,9 +1,10 @@
 ---
 name: persona-socratic-tutor
-description: AI persona - socratic-tutor
-domain: general
+description: "AI persona - socratic-tutor"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

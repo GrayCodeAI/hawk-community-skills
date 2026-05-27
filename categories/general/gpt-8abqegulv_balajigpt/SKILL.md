@@ -1,3 +1,10 @@
+---
+name: gpt-8abqegulv_balajigpt
+description: "Skill: gpt-8abqegulv_balajigpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8abQeGulv-balajigpt
 
 GPT Title: BalajiGPT

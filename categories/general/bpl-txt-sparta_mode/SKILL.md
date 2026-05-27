@@ -1,12 +1,12 @@
 ---
-name: bpl-sparta_mode
-description: System prompt - sparta_mode
-domain: general
+name: bpl-txt-sparta_mode
+description: "System prompt - sparta_mode"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 December 2009 – January 2011
 

@@ -1,9 +1,11 @@
 ---
-name: shopify-dropshipping
+name: ecom-shopify-dropshipping
 description: "Dropshipping setup and scaling — supplier integration, automation, pricing strategy, customer experience"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Dropshipping

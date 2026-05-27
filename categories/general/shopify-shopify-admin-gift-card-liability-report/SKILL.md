@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-gift-card-liability-report
-role: finance
+name: shopify-shopify-admin-gift-card-liability-report
 description: "Read-only: calculates total outstanding gift card balance as a financial liability, broken down by issue cohort and remaining balance band."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - giftCards:query
+api_version: 2025-01
+graphql_operations: [{'giftCards': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

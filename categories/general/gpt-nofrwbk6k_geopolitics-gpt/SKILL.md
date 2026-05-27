@@ -1,3 +1,10 @@
+---
+name: gpt-nofrwbk6k_geopolitics-gpt
+description: "Skill: gpt-nofrwbk6k_geopolitics-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt
 
 GPT Title: Geopolitics GPT

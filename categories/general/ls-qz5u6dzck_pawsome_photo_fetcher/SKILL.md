@@ -1,3 +1,10 @@
+---
+name: ls-qz5u6dzck_pawsome_photo_fetcher
+description: "Skill: ls-qz5u6dzck_pawsome_photo_fetcher"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QZ5U6dzcK-pawsome-photo-fetcher
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BYXQQxpKHDsRpL4WYOSOfQ2m?se=2123-10-24T21%3A26%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da9268496-dd61-4252-98d2-e7548324ea92.png&sig=zfx95C4lqnoJhPUvkFg8OpDRyVXVsdJz/WuNoNxk/3Y%3D" width="100px" />

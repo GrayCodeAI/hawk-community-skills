@@ -1,3 +1,10 @@
+---
+name: ls-v1m5gn9ke_swot-analysis
+description: "Skill: ls-v1m5gn9ke_swot-analysis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-v1M5Gn9kE-swot-analysis
 
 GPT Title: SWOT Analysis

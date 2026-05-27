@@ -1,21 +1,13 @@
 ---
-name: react-native-dev
-description: |
-  React Native and Expo development guide covering components, styling, animations, navigation,
-  state management, forms, networking, performance optimization, testing, native capabilities,
-  and engineering (project structure, deployment, SDK upgrades, CI/CD).
-  Use when: building React Native or Expo apps, implementing animations or native UI, managing
-  state, fetching data, writing tests, optimizing performance, deploying to App Store/Play Store,
-  setting up CI/CD, upgrading Expo SDK, or configuring Tailwind/NativeWind.
+name: minimax-react-native-dev
+description: "Skill: minimax-react-native-dev"
 license: MIT
-metadata:
-  version: "1.0.0"
-  category: mobile
-  sources:
-    - expo/skills by Expo (https://github.com/expo/skills) — Native UI, navigation, and animation patterns
-    - Expo documentation (docs.expo.dev)
-    - React Native documentation (reactnative.dev)
-    - EAS (Expo Application Services) documentation
+tags: [react]
+Use when: building React Native or Expo apps, implementing animations or native UI, managing
+metadata: None
+version: 1.0.0
+category: mobile
+sources: [{'expo/skills by Expo (https': '//github.com/expo/skills) — Native UI, navigation, and animation patterns'}]
 ---
 
 # React Native & Expo Development Guide

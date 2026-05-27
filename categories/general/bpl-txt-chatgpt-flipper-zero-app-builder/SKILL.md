@@ -1,9 +1,10 @@
 ---
-name: bpl-chatgpt-flipper-zero-app-builder
-description: System prompt - chatgpt-flipper-zero-app-builder
-domain: general
+name: bpl-txt-chatgpt-flipper-zero-app-builder
+description: "System prompt - chatgpt-flipper-zero-app-builder"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -1452,11 +1453,3 @@ App(
     fap_author="YourName",
     fap_weburl="https://yourwebsite.com"
 )
-
-
-
-
-
-
-
-

@@ -1,3 +1,10 @@
+---
+name: ls-12zuj6pua_flow-speed-typist
+description: "Skill: ls-12zuj6pua_flow-speed-typist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-12ZUJ6puA-flow-speed-typist
 
 GPT Title: Flow Speed Typist

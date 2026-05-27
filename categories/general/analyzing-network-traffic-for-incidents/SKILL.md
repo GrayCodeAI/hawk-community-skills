@@ -1,18 +1,12 @@
 ---
 name: analyzing-network-traffic-for-incidents
-description: >
-  Analyzes network traffic captures and flow data to identify adversary activity during
-  security incidents, including command-and-control communications, lateral movement,
-  data exfiltration, and exploitation attempts. Uses Wireshark, Zeek, and NetFlow
-  analysis techniques. Activates for requests involving network traffic analysis,
-  packet capture investigation, PCAP analysis, network forensics, C2 traffic detection,
-  or exfiltration detection.
+description: "Analyzes network traffic captures and flow data to identify adversary activity during security incidents, including command-and-control communications, lateral movement, data exfiltration, and expl..."
+license: MIT
+tags: [network-forensics, pcap-analysis, wireshark, zeek, traffic-analysis]
 domain: cybersecurity
 subdomain: incident-response
-tags: [network-forensics, PCAP-analysis, Wireshark, Zeek, traffic-analysis]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Network Traffic for Incidents

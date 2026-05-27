@@ -1,3 +1,10 @@
+---
+name: bpl-google
+description: "Skill: bpl-google"
+license: MIT
+tags: [general]
+---
+
 Contributed by [DiaAviLinden](https://github.com/0xeb/TheBigPromptLibrary/issues/36)
 
 ---

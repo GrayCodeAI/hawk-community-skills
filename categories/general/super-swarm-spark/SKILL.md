@@ -1,7 +1,8 @@
 ---
 name: super-swarm-spark
-description: >
-  Only to be triggered by explicit super-swarm-spark commands. 
+description: "Skill: super-swarm-spark"
+license: MIT
+tags: [general]
 ---
 
 # Parallel Task Executor (Sparky Rolling 12-Agent Pool)

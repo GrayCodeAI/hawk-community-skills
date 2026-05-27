@@ -1,9 +1,10 @@
 ---
 name: persona-cyber-security-specialist
-description: AI persona - cyber-security-specialist
-domain: general
+description: "AI persona - cyber-security-specialist"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

@@ -1,3 +1,10 @@
+---
+name: rb-command_flow_diagrams
+description: "Skill: rb-command_flow_diagrams"
+license: MIT
+tags: [general]
+---
+
 # Command Flow Diagrams
 
 This document visualizes the high-level flow of major commands introduced in the composable pack system. Diagrams focus on
@@ -70,4 +77,3 @@ flowchart TD
     D --> E[Preserve `memory/` & `tools/`]
     E --> F[Command completes]
 ```
-

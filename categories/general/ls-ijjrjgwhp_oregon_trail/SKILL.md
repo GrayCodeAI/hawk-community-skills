@@ -1,3 +1,10 @@
+---
+name: ls-ijjrjgwhp_oregon_trail
+description: "Skill: ls-ijjrjgwhp_oregon_trail"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8hn6oKJUFwbHIpKq1BQRAxOT?se=2124-01-06T07%3A12%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D797de641-1b76-413c-a62b-7ee9fc5814c1.png&sig=8/Sl97AkGxAa%2BN/dXkzOK36ScmNE2jKvzmbiXv2sevM%3D" width="100px" />

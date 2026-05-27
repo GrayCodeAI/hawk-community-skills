@@ -1,3 +1,10 @@
+---
+name: ghcp-references-org-and-security
+description: "Skill: ghcp-references-org-and-security"
+license: MIT
+tags: [general]
+---
+
 # Organization, Security & Administration
 
 ## Table of Contents

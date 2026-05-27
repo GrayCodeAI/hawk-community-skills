@@ -1,5 +1,9 @@
 ---
-description: Ensures TypeScript is used for all .ts and .tsx files, enhancing type safety in Qwik.js projects.
-globs: **/*.ts, **/*.tsx
+name: mdc-qwik-js---typescript-usage
+description: 'Skill: mdc-qwik-js---typescript-usage'
+license: MIT
+tags:
+- typescript
 ---
+
 - Use TypeScript for all .ts and .tsx files

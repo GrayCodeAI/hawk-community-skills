@@ -1,9 +1,10 @@
 ---
 name: cr-dragonruby-best-practices
-description: Cursor rules for dragonruby-best-practices
-domain: engineering
+description: "Cursor rules for dragonruby-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -36,4 +37,3 @@ Error Handling and Validation
 - Implement proper error logging and user-friendly messages.
 
 Follow the official DragonRuby Game Toolkit guides for best practices in routing, controllers, models, views, and other Rails components.
-

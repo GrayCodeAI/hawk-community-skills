@@ -1,8 +1,9 @@
 ---
-description: 'Best practices for applying Object-Oriented Programming (OOP) design patterns, including Gang of Four (GoF) patterns and SOLID principles, to ensure clean, maintainable, and scalable code.'
-applyTo: '**/*.py, **/*.java, **/*.ts, **/*.js, **/*.cs'
+name: ghcp-instructions-oop-design-patterns.instructio
+description: "Skill: ghcp-instructions-oop-design-patterns.instructio"
+license: MIT
+tags: [general]
 ---
-
 
 # Design Patterns for Object-Oriented Programming for Clean Code
 

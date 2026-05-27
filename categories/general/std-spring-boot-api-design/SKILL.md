@@ -1,16 +1,14 @@
 ---
-name: spring-boot-api-design
-description: Design Spring Boot APIs with OpenAPI, Versioning, and Global Error Handling. Use when designing Spring Boot APIs with OpenAPI specs, versioning, or global error handling.
-metadata:
-  triggers:
-    files:
-    - '**/*Controller.java'
-    keywords:
-    - openapi
-    - swagger
-    - versioning
-    - problemdetails
+name: std-spring-boot-api-design
+description: "Design Spring Boot APIs with OpenAPI, Versioning, and Global Error Handling. Use when designing Spring Boot APIs with OpenAPI specs, versioning, or global error handling."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Spring Boot API Design Standards
 
 ## **Priority: P0**

@@ -1,8 +1,10 @@
 ---
-name: campayn-automation
+name: composio-campayn-automation
 description: "Automate Campayn tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Campayn Automation via Rube MCP

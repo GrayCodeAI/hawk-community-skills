@@ -1,3 +1,10 @@
+---
+name: gpt-omtsqwu4r_muskgpt
+description: "Skill: gpt-omtsqwu4r_muskgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-oMTSqwU4R-muskgpt
 
 GPT Title: MuskGPT

@@ -1,3 +1,10 @@
+---
+name: tl-pages-functions
+description: "Skill: tl-pages-functions"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Debugging
 
 ## Error Diagnosis

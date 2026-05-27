@@ -1,3 +1,10 @@
+---
+name: ls-q5lrn3shc_pocketmonster-style_image_generation
+description: "Skill: ls-q5lrn3shc_pocketmonster-style_image_generation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-q5Lrn3SHc-pocketmonster-style-image-generation
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6622h02I1lajHtfUwysO8UEd?se=2124-01-23T10%3A14%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-16%252019.14.32%2520-%2520Create%2520an%2520illustration%2520of%2520a%2520cat-like%2520Poke%25CC%2581mon%2520character%2520inspired%2520by%2520the%2520uploaded%2520image.%2520The%2520Poke%25CC%2581mon%2520should%2520have%2520large%252C%2520expressive%2520eyes%252C%2520and%2520fur%2520texture.webp&sig=bKNmR/ikygPesOigZknl8tDHJaWap8Oe8wBWoAHLKqo%3D" width="100px" />

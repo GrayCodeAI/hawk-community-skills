@@ -1,3 +1,10 @@
+---
+name: gpt-ghwpesfxm_llm_security_wizard_game_-_lv_1
+description: "Skill: gpt-ghwpesfxm_llm_security_wizard_game_-_lv_1"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gHWPEsfXM-llm-security-wizard-game-lv-1
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pgCptfSpHo24CKnZmVa8oIdz?se=2124-01-15T07%3A53%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Db4826ecd-183e-4ef5-8d92-6b74179aaddd.png&sig=qLzLRIPU/HWd8ipBsno8n9z6k08ZaYCwLfwkESqIgk8%3D" width="100px" />

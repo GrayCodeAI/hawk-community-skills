@@ -1,3 +1,10 @@
+---
+name: gpt-09mrbudmi_song-name-generator
+description: "Skill: gpt-09mrbudmi_song-name-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-09mRBudMi-song-name-generator
 
 GPT Title: Song Name Generator

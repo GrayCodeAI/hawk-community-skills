@@ -1,3 +1,10 @@
+---
+name: cpa-bastion
+description: "Skill: cpa-bastion"
+license: MIT
+tags: [general]
+---
+
 # az network bastion
 
 ```bash

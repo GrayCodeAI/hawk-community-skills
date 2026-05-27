@@ -1,8 +1,10 @@
 ---
-name: codereadr-automation
+name: composio-codereadr-automation
 description: "Automate Codereadr tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Codereadr Automation via Rube MCP

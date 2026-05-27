@@ -1,3 +1,10 @@
+---
+name: rb-vscode_extension_test_publish_guide
+description: "Skill: rb-vscode_extension_test_publish_guide"
+license: MIT
+tags: [general]
+---
+
 # VS Code Extension: Testing and Publishing Guide
 
 This guide provides instructions on how to test and publish the VS Code extension for managing AI assistant rules.

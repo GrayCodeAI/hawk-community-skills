@@ -1,9 +1,10 @@
 ---
 name: t_analyze_challenge_handling
-description: Fabric pattern - t_analyze_challenge_handling
-domain: general
+description: "Fabric pattern - t_analyze_challenge_handling"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

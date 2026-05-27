@@ -1,17 +1,8 @@
 ---
-name: testng-skill
-description: >
-  Generates TestNG tests in Java with groups, data providers, parallel execution,
-  XML suite configuration, and listeners. Use when user mentions "TestNG",
-  "@DataProvider", "testng.xml", "groups". Triggers on: "TestNG", "@DataProvider",
-  "testng.xml", "TestNG suite", "parallel tests Java".
-languages:
-  - Java
-category: unit-testing
+name: lt-testng-skill
+description: "Skill: lt-testng-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # TestNG Testing Skill

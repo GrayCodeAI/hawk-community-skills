@@ -1,3 +1,10 @@
+---
+name: ghcp-references-observe-tracing-setup
+description: "Skill: ghcp-references-observe-tracing-setup"
+license: MIT
+tags: [general]
+---
+
 # Observe: Tracing Setup
 
 Configure tracing to capture data for evaluation.

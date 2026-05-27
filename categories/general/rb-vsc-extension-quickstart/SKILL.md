@@ -1,3 +1,10 @@
+---
+name: rb-vsc-extension-quickstart
+description: "Skill: rb-vsc-extension-quickstart"
+license: MIT
+tags: [general]
+---
+
 # Welcome to your VS Code Extension
 
 ## What's in the folder

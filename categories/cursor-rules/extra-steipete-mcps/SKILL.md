@@ -1,3 +1,10 @@
+---
+name: extra-steipete-mcps
+description: "Skill: extra-steipete-mcps"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Steipete's MCP Server Configuration
 
 **For Claude Code and other AI-enabled IDEs**

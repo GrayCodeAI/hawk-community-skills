@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing clean, performant, and maintainable Jetpack Compose UI code, emphasizing best practices for component design, state management, and modifier usage.
-globs: **/*
+name: mdc-jetpack-compose
+description: "Definitive guidelines for writing clean, performant, and maintainable Jetpack Compose UI code, emphasizing best practices for component design, state management, and modifier usage."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Jetpack Compose Best Practices
 
 Jetpack Compose is the future of Android UI. Adhering to these guidelines ensures your composables are readable, maintainable, performant, and scalable. This is your definitive guide for building high-quality Compose applications.

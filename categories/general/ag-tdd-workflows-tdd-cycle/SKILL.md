@@ -1,9 +1,11 @@
 ---
-name: tdd-workflows-tdd-cycle
+name: ag-tdd-workflows-tdd-cycle
 description: "Use when working with tdd workflows tdd cycle"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

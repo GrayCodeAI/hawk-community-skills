@@ -1,9 +1,10 @@
 ---
 name: cr-how-to-documentation
-description: Cursor rules for how-to-documentation
-domain: engineering
+description: "Cursor rules for how-to-documentation"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

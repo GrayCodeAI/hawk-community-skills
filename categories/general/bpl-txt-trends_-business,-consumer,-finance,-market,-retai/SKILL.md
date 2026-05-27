@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-business,-consumer,-finance,-market,-retai
-description: System prompt - trends_-business,-consumer,-finance,-market,-retai
-domain: general
+name: bpl-txt-trends_-business,-consumer,-finance,-market,-retai
+description: "System prompt - trends_-business,-consumer,-finance,-market,-retai"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

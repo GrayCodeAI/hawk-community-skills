@@ -1,3 +1,10 @@
+---
+name: cpa-datadog
+description: "Skill: cpa-datadog"
+license: MIT
+tags: [general]
+---
+
 # az datadog
 
 ```bash

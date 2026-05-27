@@ -1,7 +1,10 @@
 ---
-description: General Python coding principles for all Python files, focusing on code style and best practices.
-globs: **/*.py
+name: mdc-python-general-principles
+description: "General Python coding principles for all Python files, focusing on code style and best practices."
+license: MIT
+tags: [python]
 ---
+
 - Write concise, technical responses with accurate Python examples.
 - Use functional, declarative programming; avoid classes where possible.
 - Prefer iteration and modularization over code duplication.

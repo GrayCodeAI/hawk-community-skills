@@ -1,9 +1,10 @@
 ---
 name: cr-cypress-defect-tracking
-description: Cursor rules for cypress-defect-tracking
-domain: engineering
+description: "Cursor rules for cypress-defect-tracking"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -148,4 +149,4 @@ module.exports = {
 //   csvDownloadsPath: './downloads',
 //   weeklySummaryStartDay: 'Monday' as const,
 // };
-``` 
+```

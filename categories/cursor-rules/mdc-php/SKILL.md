@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for writing clean, secure, and maintainable PHP code, strictly adhering to PSR-12 and modern PHP 8.4+ features.
-globs: **/*
+name: mdc-php
+description: "This guide provides definitive best practices for writing clean, secure, and maintainable PHP code, strictly adhering to PSR-12 and modern PHP 8.4+ features."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # PHP Best Practices
 
 This document outlines the definitive best practices for PHP development within our team. Adherence to these guidelines ensures consistency, maintainability, and security across all projects.

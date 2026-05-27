@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-fulfillment-location-routing
-role: fulfillment-ops
+name: shopify-shopify-admin-fulfillment-location-routing
 description: "Reassign fulfillment orders from one location to another for warehouse overflow or regional routing."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - fulfillmentOrders:query
-  - fulfillmentOrderMove:mutation
+api_version: 2025-01
+graphql_operations: [{'fulfillmentOrders': 'query'}, {'fulfillmentOrderMove': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,8 +1,10 @@
 ---
-name: browserbase-tool-automation
+name: composio-browserbase-tool-automation
 description: "Automate Browserbase Tool tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Browserbase Tool Automation via Rube MCP

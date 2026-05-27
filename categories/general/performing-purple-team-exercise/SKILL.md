@@ -1,17 +1,14 @@
 ---
 name: performing-purple-team-exercise
-description: >
-  Performs purple team exercises by coordinating red team adversary emulation with blue team
-  detection validation using MITRE ATT&CK-mapped attack scenarios, real-time detection testing,
-  and collaborative gap remediation. Use when SOC teams need to validate detection capabilities,
-  improve analyst skills, and close detection gaps through structured offensive-defensive collaboration.
+description: "Performs purple team exercises by coordinating red team adversary emulation with blue team detection validation using MITRE ATT&CK-mapped attack scenarios, real-time detection testing, and collabor..."
+license: MIT
+tags: [soc, purple-team, red-team, blue-team, mitre-attack, adversary-emulation, detection-validation]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, purple-team, red-team, blue-team, mitre-attack, adversary-emulation, detection-validation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Purple Team Exercise
 
 ## When to Use

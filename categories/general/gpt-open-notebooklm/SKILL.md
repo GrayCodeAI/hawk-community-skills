@@ -1,3 +1,10 @@
+---
+name: gpt-open-notebooklm
+description: "Skill: gpt-open-notebooklm"
+license: MIT
+tags: [general]
+---
+
 references: https://huggingface.co/spaces/gabrielchua/open-notebooklm/blob/main/prompts.py
 
 ```markdown

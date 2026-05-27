@@ -1,9 +1,10 @@
 ---
 name: rate_content
-description: Fabric pattern - rate_content
-domain: general
+description: "Fabric pattern - rate_content"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,7 +1,9 @@
 ---
-name: electron-developer
-description: Electron desktop applications, IPC communication, native OS integration, and auto-updates
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-electron-developer
+description: "Electron desktop applications, IPC communication, native OS integration, and auto-updates"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

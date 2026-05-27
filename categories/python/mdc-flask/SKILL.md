@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for building robust, scalable, and maintainable Flask applications, emphasizing modern patterns and common pitfalls.
-globs: **/*.py
+name: mdc-flask
+description: "This guide provides definitive, opinionated best practices for building robust, scalable, and maintainable Flask applications, emphasizing modern patterns and common pitfalls."
+license: MIT
+tags: [python]
 ---
+
 # Flask Best Practices
 
 Flask is a powerful microframework. To leverage it effectively for scalable, maintainable applications, adhere to these modern best practices.

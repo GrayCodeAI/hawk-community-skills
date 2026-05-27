@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for developing Azure Logic Apps and Power Automate workflows with best practices for Workflow Definition Language (WDL), integration patterns, and enterprise automation'
-applyTo: "**/*.json,**/*.logicapp.json,**/workflow.json,**/*-definition.json,**/*.flow.json"
+name: ghcp-instructions-azure-logic-apps-power-automat
+description: "Skill: ghcp-instructions-azure-logic-apps-power-automat"
+license: MIT
+tags: [general]
 ---
 
 # Azure Logic Apps and Power Automate Instructions

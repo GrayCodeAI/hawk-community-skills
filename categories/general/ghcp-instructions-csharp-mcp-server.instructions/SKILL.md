@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for building Model Context Protocol (MCP) servers using the C# SDK'
-applyTo: '**/*.cs, **/*.csproj'
+name: ghcp-instructions-csharp-mcp-server.instructions
+description: "Skill: ghcp-instructions-csharp-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # C# MCP Server Development

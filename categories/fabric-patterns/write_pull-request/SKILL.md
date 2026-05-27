@@ -1,9 +1,10 @@
 ---
 name: write_pull-request
-description: Fabric pattern - write_pull-request
-domain: general
+description: "Fabric pattern - write_pull-request"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

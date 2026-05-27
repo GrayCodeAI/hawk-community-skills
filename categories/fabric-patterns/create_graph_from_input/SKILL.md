@@ -1,9 +1,10 @@
 ---
 name: create_graph_from_input
-description: Fabric pattern - create_graph_from_input
-domain: general
+description: "Fabric pattern - create_graph_from_input"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -41,4 +42,3 @@ END EXAMPLE FORMAT
 - Only output valid CSV data and nothing else. 
 
 - Use the field names in the input; don't make up your own.
-

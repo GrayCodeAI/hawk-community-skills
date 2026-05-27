@@ -1,7 +1,9 @@
 ---
-description: 该规则解释了 Python 编码、最佳实践、 整洁高效的代码模式.
-globs: **/*.py
-alwaysApply: false
+name: extra-python
+description: "该规则解释了 Python 编码、最佳实践、 整洁高效的代码模式."
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Python 规则

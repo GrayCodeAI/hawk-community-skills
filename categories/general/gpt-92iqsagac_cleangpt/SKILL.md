@@ -1,3 +1,10 @@
+---
+name: gpt-92iqsagac_cleangpt
+description: "Skill: gpt-92iqsagac_cleangpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-92IqSagAC-cleangpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OHy7lRfM5yvjOGA6YEETjfuz?se=2124-01-14T08%3A01%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ded3fafd1-96b9-48ce-826d-d6e9889a0b66.png&sig=Q4H1LBTBodH%2BubOfs1P5le55T8mNpUaSaK6%2BeXk4%2B7U%3D" width="100px" />

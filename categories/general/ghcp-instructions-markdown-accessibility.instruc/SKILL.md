@@ -1,6 +1,8 @@
 ---
-description: 'Markdown accessibility guidelines based on GitHub''s 5 best practices for inclusive documentation'
-applyTo: '**/*.md'
+name: ghcp-instructions-markdown-accessibility.instruc
+description: "Skill: ghcp-instructions-markdown-accessibility.instruc"
+license: MIT
+tags: [general]
 ---
 
 # Markdown Accessibility Review Guidelines

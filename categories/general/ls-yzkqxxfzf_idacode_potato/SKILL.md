@@ -1,3 +1,10 @@
+---
+name: ls-yzkqxxfzf_idacode_potato
+description: "Skill: ls-yzkqxxfzf_idacode_potato"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YzKQXXfZF-idacode-potato
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XVOwbcvmlFyvIAWOlSCyy3KQ?se=2124-01-15T08%3A21%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0a711c9f-8576-4fd9-8630-73965c1b0fac.png&sig=5CtKFJPogGMCR%2Be9MuSi541nAJpY75S9mA64iyeZR7U%3D" width="100px" />

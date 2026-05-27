@@ -1,8 +1,10 @@
 ---
-name: rosette-text-analytics-automation
+name: composio-rosette-text-analytics-automation
 description: "Automate Rosette Text Analytics tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Rosette Text Analytics Automation via Rube MCP

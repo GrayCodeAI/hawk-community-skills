@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for building Spring Boot base applications'
-applyTo: '**/*.java, **/*.kt'
+name: ghcp-instructions-springboot.instructions
+description: "Skill: ghcp-instructions-springboot.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Spring Boot Development

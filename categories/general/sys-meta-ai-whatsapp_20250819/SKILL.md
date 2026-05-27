@@ -1,3 +1,10 @@
+---
+name: sys-meta-ai-whatsapp_20250819
+description: "Skill: sys-meta-ai-whatsapp_20250819"
+license: MIT
+tags: [general]
+---
+
 # meta-ai-whatsapp_20250819
 
 ## Q(User)

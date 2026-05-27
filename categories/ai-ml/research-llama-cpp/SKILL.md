@@ -1,10 +1,10 @@
 ---
-name: llama-cpp
-description: Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M3 Macs, AMD/Intel GPUs, or when CUDA is unavailable. Supports GGUF quantization (1.5-8 bit) for reduced memory and 4-10× speedup vs PyTorch on CPU.
+name: research-llama-cpp
+description: "Runs LLM inference on CPU, Apple Silicon, and consumer GPUs without NVIDIA hardware. Use for edge deployment, M1/M2/M3 Macs, AMD/Intel GPUs, or when CUDA is unavailable. Supports GGUF quantization ..."
+license: MIT
+tags: [inference-serving, llama-cpp, cpu-inference, apple-silicon, edge-deployment, gguf, quantization, non-nvidia, amd-gpus, intel-gpus, embedded]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Inference Serving, Llama.cpp, CPU Inference, Apple Silicon, Edge Deployment, GGUF, Quantization, Non-NVIDIA, AMD GPUs, Intel GPUs, Embedded]
 dependencies: [llama-cpp-python]
 ---
 
@@ -254,5 +254,3 @@ cat prompts.txt | ./llama-cli \
 - **GitHub**: https://github.com/ggerganov/llama.cpp
 - **Models**: https://huggingface.co/models?library=gguf
 - **Discord**: https://discord.gg/llama-cpp
-
-

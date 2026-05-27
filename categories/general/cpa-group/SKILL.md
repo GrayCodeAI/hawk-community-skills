@@ -1,3 +1,10 @@
+---
+name: cpa-group
+description: "Skill: cpa-group"
+license: MIT
+tags: [general]
+---
+
 # az group
 
 ```bash

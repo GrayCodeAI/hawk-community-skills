@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sessions-typescript
+description: "Skill: ghcp-references-sessions-typescript"
+license: MIT
+tags: [general]
+---
+
 # Sessions (TypeScript)
 
 Track multi-turn conversations by grouping traces with session IDs. **Use `withSpan` directly from `@arizeai/openinference-core`** - no wrappers or custom utilities needed.

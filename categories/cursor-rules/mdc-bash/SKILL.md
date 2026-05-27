@@ -1,7 +1,10 @@
 ---
-description: Enforces modern, robust, and maintainable bash scripting practices, focusing on error handling, quoting, variable management, and code organization.
-globs: **/*
+name: mdc-bash
+description: "Enforces modern, robust, and maintainable bash scripting practices, focusing on error handling, quoting, variable management, and code organization."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # bash Best Practices
 
 This guide outlines the definitive best practices for writing bash scripts. Adhere to these rules to ensure your scripts are reliable, readable, and maintainable by the entire team.

@@ -1,13 +1,14 @@
 ---
 name: implementing-security-monitoring-with-datadog
-description: Implement security monitoring using Datadog's Cloud SIEM, log analysis, and threat detection capabilities to identify and respond to security events across cloud infrastructure.
+description: "Implement security monitoring using Datadog's Cloud SIEM, log analysis, and threat detection capabilities to identify and respond to security events across cloud infrastructure."
+license: MIT
+tags: [siem, monitoring, datadog, cloud-security, log-analysis]
 domain: cybersecurity
 subdomain: security-operations
-tags: [siem, monitoring, datadog, cloud-security, log-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Security Monitoring with Datadog
 
 ## Overview

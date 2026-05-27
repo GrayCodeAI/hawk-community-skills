@@ -1,9 +1,10 @@
 ---
 name: cr-nodejs-mongodb
-description: Cursor rules for nodejs-mongodb
-domain: engineering
+description: "Cursor rules for nodejs-mongodb"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -98,4 +99,3 @@ Create Entry only after admin approval and payment completion
 Admin interface for managing and approving Requests
 
 Implement state transitions (Request: pending -> approved -> Entry created)
-

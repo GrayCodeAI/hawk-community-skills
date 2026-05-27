@@ -1,3 +1,10 @@
+---
+name: ls-self-operating-computer
+description: "Skill: ls-self-operating-computer"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/OthersideAI/self-operating-computer/blob/main/operate/main.py
 
 prompt:

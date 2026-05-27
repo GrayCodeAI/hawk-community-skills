@@ -1,9 +1,10 @@
 ---
 name: cr-es-module-nodejs-guidelines
-description: Cursor rules for es-module-nodejs-guidelines
-domain: engineering
+description: "Cursor rules for es-module-nodejs-guidelines"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -33,4 +34,3 @@ author: PatrickJS/awesome-cursorrules
 - Comments should be created where the operation isn't clear from the code, or where uncommon libraries are used
 - Code must start with path/filename as a one-line comment
 - Comments should describe purpose, not effect
-

@@ -1,3 +1,10 @@
+---
+name: cpa-terraform
+description: "Skill: cpa-terraform"
+license: MIT
+tags: [general]
+---
+
 # az terraform
 
 ```bash

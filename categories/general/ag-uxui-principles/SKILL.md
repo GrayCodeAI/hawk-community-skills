@@ -1,12 +1,13 @@
 ---
-name: uxui-principles
+name: ag-uxui-principles
 description: "Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions."
+license: MIT
+tags: [ux, ui, design, evaluation, principles, antipatterns, accessibility]
 category: design
 risk: safe
 source: community
-date_added: "2026-04-03"
+date_added: 2026-04-03
 author: uxuiprinciples
-tags: [ux, ui, design, evaluation, principles, antipatterns, accessibility]
 tools: [claude, cursor, windsurf]
 ---
 

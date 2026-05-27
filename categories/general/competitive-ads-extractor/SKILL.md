@@ -1,13 +1,13 @@
 ---
 name: competitive-ads-extractor
-description: Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand messaging, problems, and creative approaches that work.
+description: "Extracts and analyzes competitors' ads from ad libraries (Facebook, LinkedIn, etc.) to understand messaging, problems, and creative approaches that work."
+license: MIT
+tags: [marketing, advertising, competitive-analysis, facebook-ads, linkedin, research, business]
 domain: general
 subdomain: marketing
-tags: [marketing, advertising, competitive-analysis, facebook-ads, linkedin, research, business]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Competitive Ads Extractor

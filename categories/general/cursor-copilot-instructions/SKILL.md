@@ -1,38 +1,15 @@
 ---
 name: cursor-copilot-instructions
 description: Cursor IDE rules for copilot-instructions
+license: MIT
+tags:
+- cursor
+- ide-rules
 domain: engineering
-tags: [cursor, ide-rules]
-version: "1.0"
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: "GitHub Copilot: custom instructions, path-specific rules, agent config"
-globs: [".github/copilot-instructions.md", ".github/instructions/**"]
-alwaysApply: false
----
-
-# GitHub Copilot Custom Instructions Rules
-
-Copilot supports three layers of custom instructions, from broad to specific.
-
-## Repository-Wide Instructions
-- File: `.github/copilot-instructions.md`
-- Applies to all Copilot interactions in the repo: chat, completions, code review, and the coding agent
-- Plain markdown, no special frontmatter required
-- You can ask the Copilot coding agent to generate this file for you — it will analyze your repo and create one
-
-## Path-Specific Instructions
-- Files: `.github/instructions/<name>.instructions.md`
-- Each file includes a YAML frontmatter `applyTo` field with a glob pattern specifying which files the instructions apply to
-- When Copilot is working on a file that matches the glob, both the repo-wide and the matching path-specific instructions are used together
-- Example:
-
-```yaml
----
-applyTo: "**/*.ts"
----
 # TypeScript Instructions
 - Use strict mode
 - Prefer interfaces over type aliases for object shapes

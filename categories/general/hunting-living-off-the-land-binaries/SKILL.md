@@ -1,16 +1,12 @@
 ---
 name: hunting-living-off-the-land-binaries
-description: >
-  Detects abuse of Living Off The Land Binaries (LOLBAS) such as certutil, wmic, mshta,
-  regsvr32, and rundll32 in Windows event logs and Sysmon telemetry. Builds detection
-  rules by cross-referencing process creation events against the LOLBAS project database.
-  Use when threat hunting for fileless attack techniques or building SIEM detection rules.
+description: "Detects abuse of Living Off The Land Binaries (LOLBAS) such as certutil, wmic, mshta, regsvr32, and rundll32 in Windows event logs and Sysmon telemetry. Builds detection rules by cross-referencing ..."
+license: MIT
+tags: [hunting, living, the]
 domain: cybersecurity
 subdomain: security-operations
-tags: [hunting, living, off, the]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting Living Off The Land Binaries

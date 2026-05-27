@@ -1,3 +1,10 @@
+---
+name: ls-aftytrccz_avatar-maker-by-headshotpro
+description: "Skill: ls-aftytrccz_avatar-maker-by-headshotpro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-afTYtrccz-avatar-maker-by-headshotpro
 
 GPT Title: Avatar Maker by HeadshotPro

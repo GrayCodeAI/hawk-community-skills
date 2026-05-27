@@ -1,3 +1,10 @@
+---
+name: ls-us7pvk0i2_water_colour_artist
+description: "Skill: ls-us7pvk0i2_water_colour_artist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-us7PvK0I2-water-colour-artist
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ywlMOO1vu04eIKzreRnq8o2c?se=2123-12-31T03%3A15%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6c65869d-b1e0-46eb-907b-40105c4befc9.png&sig=tYrU5lf3ZwFSMekZMTCjI%2BL8ejMnn/lrCNw1KBsKz8Q%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
-name: bpl-backstory_and_more_instructions
-description: System prompt - backstory_and_more_instructions
-domain: general
+name: bpl-txt-backstory_and_more_instructions
+description: "System prompt - backstory_and_more_instructions"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

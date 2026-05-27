@@ -1,12 +1,12 @@
 ---
 name: performing-external-network-penetration-test
-description: Conduct a comprehensive external network penetration test to identify vulnerabilities in internet-facing infrastructure using PTES methodology, reconnaissance, scanning, exploitation, and reporting.
+description: "Conduct a comprehensive external network penetration test to identify vulnerabilities in internet-facing infrastructure using PTES methodology, reconnaissance, scanning, exploitation, and reporting."
+license: MIT
+tags: [external-pentest, network-security, ptes, osstmm, nmap, metasploit, vulnerability-assessment, reconnaissance, exploitation]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [external-pentest, network-security, PTES, OSSTMM, Nmap, Metasploit, vulnerability-assessment, reconnaissance, exploitation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing External Network Penetration Test

@@ -1,6 +1,8 @@
 ---
-description: 'Power Apps Code Apps development standards and best practices for TypeScript, React, and Power Platform integration'
-applyTo: '**/*.{ts,tsx,js,jsx}, **/vite.config.*, **/package.json, **/tsconfig.json, **/power.config.json'
+name: ghcp-instructions-power-apps-code-apps.instructi
+description: "Skill: ghcp-instructions-power-apps-code-apps.instructi"
+license: MIT
+tags: [general]
 ---
 
 # Power Apps Code Apps Development Instructions

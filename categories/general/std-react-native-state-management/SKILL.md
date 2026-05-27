@@ -1,18 +1,14 @@
 ---
-name: react-native-state-management
-description: Implement local and global state with Context, Zustand, and Redux Toolkit in React Native. Use when choosing or implementing state management in React Native with Context, Zustand, or Redux.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.ts'
-    keywords:
-    - useState
-    - useContext
-    - zustand
-    - redux
-    - state-management
+name: std-react-native-state-management
+description: "Implement local and global state with Context, Zustand, and Redux Toolkit in React Native. Use when choosing or implementing state management in React Native with Context, Zustand, or Redux."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native State Management
 
 ## **Priority: P1 (OPERATIONAL)**

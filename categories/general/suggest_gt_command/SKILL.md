@@ -1,9 +1,10 @@
 ---
 name: suggest_gt_command
-description: Fabric pattern - suggest_gt_command
-domain: general
+description: "Fabric pattern - suggest_gt_command"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

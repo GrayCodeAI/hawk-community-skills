@@ -1,7 +1,8 @@
 ---
-name: "self-eval"
-description: "Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's advocate reasoning, and persists scores across sessions."
-license: "MIT"
+name: arezv-self-eval
+description: "Honestly evaluate AI work quality using a two-axis scoring system. Use after completing a task, code review, or work session to get an unbiased assessment. Detects score inflation, forces devil's a..."
+license: MIT
+tags: [general]
 ---
 
 # Self-Eval: Honest Work Evaluation

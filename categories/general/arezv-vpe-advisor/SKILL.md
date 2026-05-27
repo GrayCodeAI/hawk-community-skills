@@ -1,15 +1,16 @@
 ---
-name: "vpe-advisor"
-description: "VP of Engineering advisory for startups: delivery throughput (DORA 4 metrics + bottleneck identification), engineering hiring funnel (sourcing → screen → onsite → offer conversion + time-to-fill + pipeline gap), engineering team structure (squad/tribe/chapter design + tech-lead manager-trigger thresholds), and production discipline (on-call, deployment cadence, postmortem culture). Use when sprint velocity is dropping, eng hiring is broken, team structure is unclear, or deciding when to add a tech-lead manager. NOT a CTO skill (which owns architecture) — VPE owns delivery operations and how the team ships."
+name: arezv-vpe-advisor
+description: "VP of Engineering advisory for startups: delivery throughput (DORA 4 metrics + bottleneck identification), engineering hiring funnel (sourcing → screen → onsite → offer conversion + time-to-fill + ..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: vp-engineering-leadership
-  updated: 2026-05-13
-  python-tools: delivery_throughput_analyzer.py, eng_hiring_funnel_calculator.py, eng_team_structure_designer.py
-  frameworks: delivery-throughput, hiring-funnel, team-structure, production-discipline
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: vp-engineering-leadership
+updated: 2026-05-13
+python-tools: delivery_throughput_analyzer.py, eng_hiring_funnel_calculator.py, eng_team_structure_designer.py
+frameworks: delivery-throughput, hiring-funnel, team-structure, production-discipline
 ---
 
 # VP of Engineering Advisor

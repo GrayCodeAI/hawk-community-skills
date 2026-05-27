@@ -1,3 +1,10 @@
+---
+name: cpa-containerapp
+description: "Skill: cpa-containerapp"
+license: MIT
+tags: [general]
+---
+
 # az containerapp
 
 Manage Azure Container Apps.

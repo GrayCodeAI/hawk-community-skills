@@ -1,3 +1,10 @@
+---
+name: ghcp-references-mockitobean
+description: "Skill: ghcp-references-mockitobean"
+license: MIT
+tags: [general]
+---
+
 # @MockitoBean
 
 Mocking dependencies in Spring Boot tests (replaces deprecated @MockBean in Spring Boot 4+).

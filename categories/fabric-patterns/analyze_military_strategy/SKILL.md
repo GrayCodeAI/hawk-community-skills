@@ -1,9 +1,10 @@
 ---
 name: analyze_military_strategy
-description: Fabric pattern - analyze_military_strategy
-domain: general
+description: "Fabric pattern - analyze_military_strategy"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

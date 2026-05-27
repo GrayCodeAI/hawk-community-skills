@@ -1,3 +1,10 @@
+---
+name: bpl-gpt-protections
+description: "Skill: bpl-gpt-protections"
+license: MIT
+tags: [general]
+---
+
 # Law of Magic
 
 Put this prompt at the top of your GPT instructions:

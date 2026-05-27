@@ -1,9 +1,11 @@
 ---
-name: agent-orchestration-improve-agent
+name: ag-agent-orchestration-improve-agent
 description: "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Agent Performance Optimization Workflow

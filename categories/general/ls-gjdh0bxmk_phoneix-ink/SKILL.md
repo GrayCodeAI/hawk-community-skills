@@ -1,3 +1,10 @@
+---
+name: ls-gjdh0bxmk_phoneix-ink
+description: "Skill: ls-gjdh0bxmk_phoneix-ink"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GJdH0BxMk-phoneix-ink
 
 GPT Title: PhoneixInk

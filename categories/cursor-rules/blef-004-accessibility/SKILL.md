@@ -1,7 +1,9 @@
 ---
-description: Enforce accessibility guidelines when building or reviewing UI to ensure inclusive user experiences
-globs: src/**/*.tsx
-alwaysApply: false
+name: blef-004-accessibility
+description: "Enforce accessibility guidelines when building or reviewing UI to ensure inclusive user experiences"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Accessibility (A11y) Standards

@@ -1,3 +1,10 @@
+---
+name: gpt-4mdjvo2tj_sora
+description: "Skill: gpt-4mdjvo2tj_sora"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4MDJvo2TJ-sora
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-zRJZb8d02GmHnCm70K7rogwl?se=2124-01-24T16%3A45%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DUnbenannt.png&sig=2jj8cTniCyoKi85V%2BcTDWsrb8MNt2QZ7zosGr/M%2BMuc%3D" width="100px" />

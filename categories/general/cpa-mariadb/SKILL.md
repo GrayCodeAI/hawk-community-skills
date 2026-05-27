@@ -1,3 +1,10 @@
+---
+name: cpa-mariadb
+description: "Skill: cpa-mariadb"
+license: MIT
+tags: [general]
+---
+
 # az mariadb
 
 ```bash

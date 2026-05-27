@@ -1,7 +1,9 @@
 ---
-description: 
-globs: **/*.tsx,**/*.md,*.tsx
-alwaysApply: false
+name: inst-testrule
+description: "Skill: inst-testrule"
+license: MIT
+tags: [general]
+alwaysApply: False
 ---
 
 # Your rule content

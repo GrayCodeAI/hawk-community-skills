@@ -1,10 +1,11 @@
 ---
-name: confluence-assistant
-description: Expert in Confluence operations using Atlassian MCP. Use when the user says "search Confluence", "create a Confluence page", "update a page", "find documentation in Confluence", "list spaces", or "add a comment to a page". Do NOT use for Jira issues, general web search, or local file creation.
+name: tl-confluence-assistant
+description: "Expert in Confluence operations using Atlassian MCP. Use when the user says \"search Confluence\", \"create a Confluence page\", \"update a page\", \"find documentation in Confluence\", \"list spaces\", or \"..."
 license: CC-BY-4.0
-metadata:
-  author: Waldemar Neto - github.com/waldemarnt
-  version: '1.0.0'
+tags: [general]
+metadata: None
+author: Waldemar Neto - github.com/waldemarnt
+version: 1.0.0
 ---
 
 # Confluence Assistant

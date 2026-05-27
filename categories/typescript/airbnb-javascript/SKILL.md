@@ -1,9 +1,10 @@
 ---
 name: airbnb-javascript
-description: Airbnb JavaScript Style Guide - the most popular JS style guide (145K stars)
-domain: engineering
+description: "Airbnb JavaScript Style Guide - the most popular JS style guide (145K stars)"
+license: MIT
 tags: [javascript, style-guide, airbnb, eslint]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: airbnb
 ---
 

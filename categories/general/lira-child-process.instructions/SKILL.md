@@ -1,5 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts"
+name: lira-child-process.instructions
+description: "Skill: lira-child-process.instructions"
+license: MIT
+tags: [general]
 ---
 
 # System processes secure coding guidelines

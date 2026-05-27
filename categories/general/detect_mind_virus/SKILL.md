@@ -1,9 +1,10 @@
 ---
 name: detect_mind_virus
-description: Fabric pattern - detect_mind_virus
-domain: general
+description: "Fabric pattern - detect_mind_virus"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

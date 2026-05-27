@@ -1,12 +1,12 @@
 ---
 name: implementing-soar-playbook-with-palo-alto-xsoar
-description: Implement automated incident response playbooks in Cortex XSOAR to orchestrate security workflows across SOC tools and reduce manual response time.
+description: "Implement automated incident response playbooks in Cortex XSOAR to orchestrate security workflows across SOC tools and reduce manual response time."
+license: MIT
+tags: [xsoar, soar, palo-alto, playbook, automation, incident-response, orchestration, cortex]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [xsoar, soar, palo-alto, playbook, automation, incident-response, orchestration, cortex]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing SOAR Playbook with Palo Alto XSOAR

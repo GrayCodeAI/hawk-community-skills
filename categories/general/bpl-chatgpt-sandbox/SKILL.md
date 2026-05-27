@@ -1,3 +1,10 @@
+---
+name: bpl-chatgpt-sandbox
+description: "Skill: bpl-chatgpt-sandbox"
+license: MIT
+tags: [general]
+---
+
 # List of Python packages installed in ChatGPT code interpreter sandbox
 
 I used this prompt to get the code interpreter give me the list of all installed Python packages:

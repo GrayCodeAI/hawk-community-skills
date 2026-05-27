@@ -1,3 +1,10 @@
+---
+name: cpa-add-on
+description: "Skill: cpa-add-on"
+license: MIT
+tags: [general]
+---
+
 # az containerapp add-on
 
 ```bash

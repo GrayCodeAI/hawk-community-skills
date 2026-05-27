@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-affiliate-program
+name: ecom-tiktok-shop-affiliate-program
 description: "Affiliate collaboration — commission structure, creator selection, sample management, performance tracking"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Affiliate Program

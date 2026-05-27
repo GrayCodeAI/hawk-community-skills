@@ -1,7 +1,10 @@
 ---
-description: Guidelines for writing Cairo smart contracts, emphasizing gas efficiency and security.
-globs: contracts/**/*.cairo
+name: mdc-cairo-contract-rules
+description: "Guidelines for writing Cairo smart contracts, emphasizing gas efficiency and security."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Design modular and maintainable contract structures
 - Optimize for gas efficiency
 - Minimize state changes and storage access

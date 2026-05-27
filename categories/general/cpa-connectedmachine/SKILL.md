@@ -1,3 +1,10 @@
+---
+name: cpa-connectedmachine
+description: "Skill: cpa-connectedmachine"
+license: MIT
+tags: [general]
+---
+
 # az connectedmachine
 
 ```bash

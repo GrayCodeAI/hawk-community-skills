@@ -1,3 +1,10 @@
+---
+name: ghcp-references-oracle-to-postgres-type-coerci
+description: "Skill: ghcp-references-oracle-to-postgres-type-coerci"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL Type Coercion Issues
 
 ## Contents

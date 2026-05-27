@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing TanStack apps with Auth0 Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-auth0-tanstack
+description: "Guidelines for writing TanStack apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap TanStack App with Auth0 Authentication
@@ -306,4 +308,4 @@ function HomeComponent() {
     </div>
   );
 }
-``` 
+```

@@ -1,8 +1,10 @@
 ---
-name: corrently-automation
+name: composio-corrently-automation
 description: "Automate Corrently tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Corrently Automation via Rube MCP

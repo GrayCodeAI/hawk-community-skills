@@ -1,3 +1,10 @@
+---
+name: ls-hkt3pwqau_arcommander
+description: "Skill: ls-hkt3pwqau_arcommander"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Hkt3pwQAu-arcommander
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ydUSIlu0fSp6YkMzITfKCypY?se=2123-12-02T00%3A52%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DARCommander.jpg&sig=jV51jp0e1eGMLW5p/Uqu8tHp9s03t63xiiMxLQG50BA%3D" width="100px" />

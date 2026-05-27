@@ -1,8 +1,10 @@
 ---
-name: odoo-purchase-workflow
+name: ag-odoo-purchase-workflow
 description: "Expert guide for Odoo Purchase: RFQ → PO → Receipt → Vendor Bill workflow, purchase agreements, vendor price lists, and 3-way matching."
+license: MIT
+tags: [general]
 risk: safe
-source: "self"
+source: self
 ---
 
 # Odoo Purchase Workflow

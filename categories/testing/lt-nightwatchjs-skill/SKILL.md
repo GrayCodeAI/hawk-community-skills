@@ -1,18 +1,14 @@
 ---
-name: nightwatchjs-skill
-description: >
-  Generates NightwatchJS E2E tests in JavaScript. Integrated test runner with
-  Selenium WebDriver, built-in assertions, and page objects. Use when user
-  mentions "Nightwatch", "NightwatchJS", "nightwatch.conf.js". Triggers on:
-  "Nightwatch", "NightwatchJS", "nightwatch test".
-languages:
-  - JavaScript
-  - TypeScript
-category: e2e-testing
+name: lt-nightwatchjs-skill
+description: "Skill: lt-nightwatchjs-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+mentions "Nightwatch", "NightwatchJS", "nightwatch.conf.js". Triggers on: None
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # NightwatchJS Automation Skill

@@ -1,3 +1,11 @@
+---
+name: gpt-hhye7by6y_manga-miko---anime-girlfriend
+description: 'Skill: gpt-hhye7by6y_manga-miko---anime-girlfriend'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-hHYE7By6Y-manga-miko-anime-girlfriend
 
 GPT Title: Manga Miko - Anime Girlfriend

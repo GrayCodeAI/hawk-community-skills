@@ -1,17 +1,8 @@
 ---
-name: nunit-skill
-description: >
-  Generates NUnit 3 tests in C#. Covers Assert.That constraint model,
-  parameterized tests, setup/teardown, and Moq mocking. Use when user mentions
-  "NUnit", "[TestFixture]", "[Test]", "Assert.That", "C# unit test". Triggers on:
-  "NUnit", "[Test]", "Assert.That", "C# test", "NUnit3".
-languages:
-  - C#
-category: unit-testing
+name: lt-nunit-skill
+description: "Skill: lt-nunit-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # NUnit 3 Testing Skill

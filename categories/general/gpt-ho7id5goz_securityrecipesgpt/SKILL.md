@@ -1,3 +1,10 @@
+---
+name: gpt-ho7id5goz_securityrecipesgpt
+description: "Skill: gpt-ho7id5goz_securityrecipesgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ho7ID5goz-securityrecipesgpt
 
 GPT Title: SecurityRecipesGPT

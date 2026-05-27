@@ -1,7 +1,10 @@
 ---
-description: Applies general rules to all C# scripts within the Unity project for the tower defense game.
-globs: Assets/**/*.cs
+name: mdc-general-c-unity-tower-defense-rules
+description: "Applies general rules to all C# scripts within the Unity project for the tower defense game."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - The context for this code, in addition to the file itself and the wider project, is that I am making a tower defense style game that uses a Nintendo Ringcon as the controller.
 - Players place turrets and then use exercise to charge up those turrets.
 - I'm working in C# and Unity 2021.3.18f1.

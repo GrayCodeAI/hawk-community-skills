@@ -1,3 +1,10 @@
+---
+name: rb-historical_task_plan
+description: "Skill: rb-historical_task_plan"
+license: MIT
+tags: [general]
+---
+
 # Refactoring Task Plan (As Executed)
 
 ## 🎯 Goal

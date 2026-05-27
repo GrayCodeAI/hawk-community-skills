@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Remix apps with Supabase Auth
-globs: **/*.ts, **/*.tsx
+name: inst-setup-supabase-remix
+description: "Guidelines for writing Remix apps with Supabase Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Remix app with Supabase Auth
@@ -272,4 +274,4 @@ When implementing Supabase Auth for Remix, you MUST:
 2. Implement proper error handling
 3. Follow Remix loader/action patterns
 4. Configure secure session management
-5. Handle environment variables properly 
+5. Handle environment variables properly

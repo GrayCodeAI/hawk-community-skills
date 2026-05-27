@@ -1,3 +1,10 @@
+---
+name: rb-archive_tdd_plan
+description: "Skill: rb-archive_tdd_plan"
+license: MIT
+tags: [general]
+---
+
 # TDD Plan: Composable Packs
 
 This document tracks the tests for the composable packs feature, with a focus on integration tests for the CLI commands.

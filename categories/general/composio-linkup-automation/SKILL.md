@@ -1,8 +1,10 @@
 ---
-name: linkup-automation
+name: composio-linkup-automation
 description: "Automate Linkup tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Linkup Automation via Rube MCP

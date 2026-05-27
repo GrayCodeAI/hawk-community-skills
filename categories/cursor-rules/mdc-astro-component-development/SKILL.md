@@ -1,7 +1,10 @@
 ---
-description: Rules for Astro component development including proper composition and props.
-globs: src/components/**/*.astro
+name: mdc-astro-component-development
+description: "Rules for Astro component development including proper composition and props."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Component Development
 
 - Create .astro files for Astro components.

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-assertj-collections
+description: "Skill: ghcp-references-assertj-collections"
+license: MIT
+tags: [general]
+---
+
 # AssertJ Collections
 
 AssertJ assertions for collections: `List`, `Set`, `Map`, arrays, and streams.

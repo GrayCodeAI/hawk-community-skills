@@ -1,13 +1,13 @@
 ---
 name: meeting-insights-analyzer
-description: Analyzes meeting transcripts to uncover behavioral patterns, communication insights, and actionable feedback for improving leadership and communication skills.
+description: "Analyzes meeting transcripts to uncover behavioral patterns, communication insights, and actionable feedback for improving leadership and communication skills."
+license: MIT
+tags: [meetings, communication, leadership, analysis, transcripts, feedback, coaching, productivity]
 domain: general
 subdomain: productivity
-tags: [meetings, communication, leadership, analysis, transcripts, feedback, coaching, productivity]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Meeting Insights Analyzer

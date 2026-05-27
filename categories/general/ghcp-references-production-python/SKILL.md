@@ -1,3 +1,10 @@
+---
+name: ghcp-references-production-python
+description: "Skill: ghcp-references-production-python"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Production Guide (Python)
 
 **CRITICAL: Configure batching, data masking, and span filtering for production deployment.**

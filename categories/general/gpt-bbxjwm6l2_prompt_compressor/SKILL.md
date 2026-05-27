@@ -1,3 +1,10 @@
+---
+name: gpt-bbxjwm6l2_prompt_compressor
+description: "Skill: gpt-bbxjwm6l2_prompt_compressor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BBXjwM6l2-prompt-compressor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-T0i7DRWnYcuB6Ck6ihBo3Lho?se=2123-12-16T00%3A45%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-08%252019.18.20%2520-%2520A%2520cartoon%2520character%2520dressed%2520as%2520an%2520engineer%252C%2520wearing%2520a%2520hard%2520hat%2520with%2520a%2520gear%2520symbol%2520on%2520it%252C%2520holding%2520a%2520magnifying%2520glass%2520over%2520a%2520document%2520that%2520has%2520lines%2520of%2520.png&sig=EyN1zjcTH6SXya3E8BZ6qwpvYgGGg1wo3EVS4DRwR7g%3D" width="100px" />

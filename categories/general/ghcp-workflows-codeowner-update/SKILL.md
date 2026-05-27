@@ -1,24 +1,27 @@
 ---
+name: ghcp-workflows-codeowner-update
 description: "Updates the CODEOWNERS file when a maintainer comments #codeowner on a pull request"
-on:
-  issue_comment:
-    types: [created]
+license: MIT
+tags: [general]
+True: None
+issue_comment: None
+types: [created]
 if: ${{ contains(github.event.comment.body, '#codeowner') && github.event.issue.pull_request }}
-permissions:
-  contents: read
-  pull-requests: read
-  issues: read
-tools:
-  github:
-    toolsets: [default]
-safe-outputs:
-  create-pull-request:
-    base-branch: staged
-    title-prefix: "[codeowner] "
-    draft: false
-  add-comment:
-    max: 1
-  noop:
+permissions: None
+contents: read
+pull-requests: read
+issues: read
+tools: None
+github: None
+toolsets: [default]
+safe-outputs: None
+create-pull-request: None
+base-branch: staged
+title-prefix: [codeowner]
+draft: False
+add-comment: None
+max: 1
+noop: None
 ---
 
 # Codeowner Update Agent

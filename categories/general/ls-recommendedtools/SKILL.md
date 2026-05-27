@@ -1,3 +1,10 @@
+---
+name: ls-recommendedtools
+description: "Skill: ls-recommendedtools"
+license: MIT
+tags: [general]
+---
+
 # Prompt to media:
 ## Ai images:
 

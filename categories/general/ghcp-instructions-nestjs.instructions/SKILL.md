@@ -1,6 +1,8 @@
 ---
-applyTo: '**/*.ts, **/*.js, **/*.json, **/*.spec.ts, **/*.e2e-spec.ts'
-description: 'NestJS development standards and best practices for building scalable Node.js server-side applications'
+name: ghcp-instructions-nestjs.instructions
+description: "Skill: ghcp-instructions-nestjs.instructions"
+license: MIT
+tags: [general]
 ---
 
 # NestJS Development Best Practices

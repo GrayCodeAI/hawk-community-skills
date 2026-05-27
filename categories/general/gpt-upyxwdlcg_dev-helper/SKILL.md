@@ -1,3 +1,10 @@
+---
+name: gpt-upyxwdlcg_dev-helper
+description: "Skill: gpt-upyxwdlcg_dev-helper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UPyxwDLCg-dev-helper
 
 GPT Title: Dev Helper

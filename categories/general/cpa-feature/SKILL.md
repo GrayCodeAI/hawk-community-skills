@@ -1,3 +1,10 @@
+---
+name: cpa-feature
+description: "Skill: cpa-feature"
+license: MIT
+tags: [general]
+---
+
 # az feature
 
 ```bash

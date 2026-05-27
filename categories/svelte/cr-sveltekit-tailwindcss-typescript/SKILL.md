@@ -1,9 +1,10 @@
 ---
 name: cr-sveltekit-tailwindcss-typescript
-description: Cursor rules for sveltekit-tailwindcss-typescript
-domain: engineering
+description: "Cursor rules for sveltekit-tailwindcss-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -156,4 +157,3 @@ Documentation
 Maintain up-to-date README files for the project and major components
 Use JSDoc comments for functions and complex logic
 Keep inline comments concise and meaningful
-

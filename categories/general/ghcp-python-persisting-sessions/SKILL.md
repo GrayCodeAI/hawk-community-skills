@@ -1,3 +1,10 @@
+---
+name: ghcp-python-persisting-sessions
+description: "Skill: ghcp-python-persisting-sessions"
+license: MIT
+tags: [general]
+---
+
 # Session Persistence and Resumption
 
 Save and restore conversation sessions across application restarts.

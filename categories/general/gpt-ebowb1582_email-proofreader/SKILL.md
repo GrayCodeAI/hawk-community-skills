@@ -1,3 +1,10 @@
+---
+name: gpt-ebowb1582_email-proofreader
+description: "Skill: gpt-ebowb1582_email-proofreader"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ebowB1582-email-proofreader
 
 GPT Title: Email Proofreader

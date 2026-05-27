@@ -1,3 +1,10 @@
+---
+name: ls-tefaqfyxd_prompt-god
+description: "Skill: ls-tefaqfyxd_prompt-god"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-teFAqFyxD-prompt-god
 
 GPT Title: PROMPT GOD

@@ -1,10 +1,12 @@
 ---
-name: xss-html-injection
-description: "Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms."
+name: ag-xss-html-injection
+description: "Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and cre..."
+license: MIT
+tags: [general]
 risk: offensive
 source: community
 author: zebbern
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 > AUTHORIZED USE ONLY: Use this skill only for authorized security assessments, defensive validation, or controlled educational environments.

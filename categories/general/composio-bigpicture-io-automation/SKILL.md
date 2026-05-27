@@ -1,8 +1,10 @@
 ---
-name: bigpicture-io-automation
+name: composio-bigpicture-io-automation
 description: "Automate Bigpicture IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bigpicture IO Automation via Rube MCP

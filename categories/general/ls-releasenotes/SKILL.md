@@ -1,3 +1,10 @@
+---
+name: ls-releasenotes
+description: "Skill: ls-releasenotes"
+license: MIT
+tags: [general]
+---
+
 ##
 1.16.5
 - PDF hotkey

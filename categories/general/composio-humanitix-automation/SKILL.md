@@ -1,8 +1,10 @@
 ---
-name: humanitix-automation
+name: composio-humanitix-automation
 description: "Automate Humanitix tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Humanitix Automation via Rube MCP

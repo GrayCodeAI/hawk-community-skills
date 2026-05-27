@@ -1,6 +1,8 @@
 ---
-name: openapi-to-application-code
-description: 'Generate a complete, production-ready application from an OpenAPI specification'
+name: ghcp-openapi-to-application-code-skill
+description: "Generate a complete, production-ready application from an OpenAPI specification"
+license: MIT
+tags: [general]
 ---
 
 # Generate Application from OpenAPI Spec

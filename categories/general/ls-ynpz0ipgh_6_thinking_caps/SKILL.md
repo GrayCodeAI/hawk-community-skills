@@ -1,3 +1,10 @@
+---
+name: ls-ynpz0ipgh_6_thinking_caps
+description: "Skill: ls-ynpz0ipgh_6_thinking_caps"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yNpz0Ipgh-6-thinking-caps
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dHUqb1OckaBq2WrSA0UbCbKv?se=2123-11-02T22%3A54%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6caps-crop.png&sig=NwGOtjqpbOQi98H39qwX2GPayYVVHZTdLhxKVTdRLx4%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-alkfvrz9k_canva
+description: "Skill: ls-alkfvrz9k_canva"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-alKfVrz9K-canva
 
 GPT Title: Canva

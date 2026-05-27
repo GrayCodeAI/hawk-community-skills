@@ -1,3 +1,10 @@
+---
+name: ecom-ebay-seller-tools
+description: "Skill: ecom-ebay-seller-tools"
+license: MIT
+tags: [general]
+---
+
 # eBay Seller Tools
 
 Essential tools and software for eBay sellers. Listing tools, repricing, analytics, inventory management, shipping, and research tools to scale your eBay business.

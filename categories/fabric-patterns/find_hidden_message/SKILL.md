@@ -1,9 +1,10 @@
 ---
 name: find_hidden_message
-description: Fabric pattern - find_hidden_message
-domain: general
+description: "Fabric pattern - find_hidden_message"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

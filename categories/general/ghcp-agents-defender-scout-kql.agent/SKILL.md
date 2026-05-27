@@ -1,9 +1,11 @@
 ---
-name: 'Defender Scout KQL'
-description: 'Generates, validates, and optimizes KQL queries for Microsoft Defender XDR Advanced Hunting across Endpoint, Identity, Office 365, Cloud Apps, and Identity.'
-tools: ['read', 'search']
-model: 'claude-sonnet-4-5'
-target: 'vscode'
+name: ghcp-agents-defender-scout-kql.agent
+description: "Generates, validates, and optimizes KQL queries for Microsoft Defender XDR Advanced Hunting across Endpoint, Identity, Office 365, Cloud Apps, and Identity."
+license: MIT
+tags: [general]
+tools: [read, search]
+model: claude-sonnet-4-5
+target: vscode
 ---
 
 # Defender Scout KQL Agent

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for using statsmodels in Python, focusing on code organization, common patterns, performance, and modern development workflows to ensure robust and reproducible statistical analysis.
-globs: **/*.py
+name: mdc-statsmodels
+description: "This guide provides opinionated, actionable best practices for using statsmodels in Python, focusing on code organization, common patterns, performance, and modern development workflows to ensure r..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # `statsmodels` Best Practices
 
 `statsmodels` is the definitive library for rigorous statistical modeling and inference in our AI/ML pipelines. This guide ensures consistent, high-quality, and reproducible statistical analysis across our projects.

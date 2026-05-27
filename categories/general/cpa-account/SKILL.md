@@ -1,3 +1,10 @@
+---
+name: cpa-account
+description: "Skill: cpa-account"
+license: MIT
+tags: [general]
+---
+
 # az account
 
 ```bash

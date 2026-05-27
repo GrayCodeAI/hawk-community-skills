@@ -1,9 +1,10 @@
 ---
 name: cr-kubernetes-mkdocs-documentation
-description: Cursor rules for kubernetes-mkdocs-documentation
-domain: engineering
+description: "Cursor rules for kubernetes-mkdocs-documentation"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -30,4 +31,3 @@ Collaboration and Version Control:
 Other Rules to follow:
 
 Don't be lazy, provide thorough and accurate documentation for all requested topics and features.
-

@@ -1,6 +1,8 @@
 ---
-name: vscode-ext-localization
-description: 'Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices'
+name: copilot-vscode-ext-localization
+description: "Guidelines for proper localization of VS Code extensions, following VS Code extension development guidelines, libraries and good practices"
+license: MIT
+tags: [general]
 ---
 
 # VS Code extension localization

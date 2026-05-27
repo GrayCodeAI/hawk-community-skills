@@ -1,3 +1,10 @@
+---
+name: ecom-affiliate-marketing-strategy
+description: "Skill: ecom-affiliate-marketing-strategy"
+license: MIT
+tags: [general]
+---
+
 # Affiliate Marketing Strategy
 
 Build and scale affiliate marketing programs for e-commerce stores. Covers program setup, commission structures, affiliate recruitment, tracking, and optimization for Shopify, Amazon, and independent stores.

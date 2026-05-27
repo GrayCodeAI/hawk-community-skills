@@ -1,3 +1,10 @@
+---
+name: ghcp-references-push-protection
+description: "Skill: ghcp-references-push-protection"
+license: MIT
+tags: [general]
+---
+
 # Push Protection Reference
 
 Detailed reference for GitHub push protection — preventing secrets from reaching repositories, bypass workflows, and delegated bypass configuration.

@@ -1,9 +1,11 @@
 ---
-name: code-review-excellence
+name: ag-code-review-excellence
 description: "Transform code reviews from gatekeeping to knowledge sharing through constructive feedback, systematic analysis, and collaborative improvement."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Code Review Excellence

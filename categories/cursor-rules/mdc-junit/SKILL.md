@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing high-quality, maintainable, and effective unit tests using JUnit 5 (Jupiter) in Java projects.
-globs: **/*.java
+name: mdc-junit
+description: "This guide provides definitive, opinionated best practices for writing high-quality, maintainable, and effective unit tests using JUnit 5 (Jupiter) in Java projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # junit Best Practices
 
 JUnit 5 (Jupiter) is the bedrock of modern Java unit testing. This guide outlines the essential practices for crafting robust, readable, and reliable tests that integrate seamlessly into your development workflow. Adhere to these rules to ensure your tests are a valuable asset, not a burden.

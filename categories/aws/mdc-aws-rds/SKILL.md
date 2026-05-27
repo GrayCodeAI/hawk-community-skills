@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for secure, performant, and maintainable database development and operations with AWS RDS, emphasizing modern best practices and common anti-patterns.
-globs: **/*
+name: mdc-aws-rds
+description: "Definitive guidelines for secure, performant, and maintainable database development and operations with AWS RDS, emphasizing modern best practices and common anti-patterns."
+license: MIT
+tags: [aws]
 ---
+
 # aws-rds Best Practices
 
 This guide outlines the definitive best practices for interacting with and managing AWS RDS instances. Adhere to these guidelines to ensure your database operations are secure, performant, and maintainable.

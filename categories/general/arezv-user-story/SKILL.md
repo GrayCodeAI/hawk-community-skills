@@ -1,6 +1,8 @@
 ---
-name: user-story
-description: Generate user stories with acceptance criteria and sprint planning. Usage: /user-story <generate|sprint> [options]
+name: arezv-user-story
+description: "Generate user stories with acceptance criteria and sprint planning. Usage: /user-story <generate|sprint> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /user-story

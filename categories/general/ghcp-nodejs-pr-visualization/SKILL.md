@@ -1,3 +1,10 @@
+---
+name: ghcp-nodejs-pr-visualization
+description: "Skill: ghcp-nodejs-pr-visualization"
+license: MIT
+tags: [general]
+---
+
 # Generating PR Age Charts
 
 Build an interactive CLI tool that visualizes pull request age distribution for a GitHub repository using Copilot's built-in capabilities.

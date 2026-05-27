@@ -1,3 +1,10 @@
+---
+name: bpl-sleephq
+description: "Skill: bpl-sleephq"
+license: MIT
+tags: [general]
+---
+
 See: [https://community.sleephq.com/messages](https://community.sleephq.com/messages).
 
 The following is not 100% the full prompt, but as close I could get. I prompted it with:

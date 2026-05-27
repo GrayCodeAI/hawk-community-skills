@@ -1,9 +1,10 @@
 ---
 name: write_semgrep_rule
-description: Fabric pattern - write_semgrep_rule
-domain: general
+description: "Fabric pattern - write_semgrep_rule"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

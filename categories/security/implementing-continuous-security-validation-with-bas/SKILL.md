@@ -1,13 +1,14 @@
 ---
 name: implementing-continuous-security-validation-with-bas
-description: Deploy Breach and Attack Simulation tools to continuously validate security control effectiveness by safely emulating real-world attack techniques across the kill chain.
+description: "Deploy Breach and Attack Simulation tools to continuously validate security control effectiveness by safely emulating real-world attack techniques across the kill chain."
+license: MIT
+tags: [breach-attack-simulation, bas, security-validation, safebreach, attackiq, picus, cymulate, mitre-attack]
 domain: cybersecurity
 subdomain: vulnerability-management
-tags: [breach-attack-simulation, bas, security-validation, safebreach, attackiq, picus, cymulate, mitre-attack]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Continuous Security Validation with BAS
 
 ## Overview

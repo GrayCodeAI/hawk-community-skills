@@ -1,17 +1,14 @@
 ---
-name: database-postgresql
-description: Enforce repository patterns, zero-downtime migrations, and indexing standards for PostgreSQL with TypeORM or Prisma. Use when defining entities, writing migrations, adding RLS policies, or optimizing query performance.
-metadata:
-  triggers:
-    files:
-    - '**/*.entity.ts'
-    - 'prisma/schema.prisma'
-    - '**/migrations/*.sql'
-    keywords:
-    - TypeOrmModule
-    - PrismaService
-    - PostgresModule
+name: std-database-postgresql
+description: "Enforce repository patterns, zero-downtime migrations, and indexing standards for PostgreSQL with TypeORM or Prisma. Use when defining entities, writing migrations, adding RLS policies, or optimizi..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PostgreSQL Database Standards
 
 ## **Priority: P0 (FOUNDATIONAL)**

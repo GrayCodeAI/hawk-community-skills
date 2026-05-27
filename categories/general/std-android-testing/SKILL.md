@@ -1,21 +1,14 @@
 ---
-name: android-testing
-description: Write unit tests, Compose UI tests, and Hilt-integrated tests for Android. Use when writing test files or testing ViewModels, Composables, or Repositories with MockK and coroutine test utilities.
-metadata:
-  triggers:
-    files:
-    - '**/*Test.kt'
-    - '**/*Rule.kt'
-    keywords:
-    - "@Test"
-    - runTest
-    - composeTestRule
-    - HiltAndroidTest
-    - MockK
-    - createAndroidComposeRule
-    - MainDispatcherRule
-    - "@TestInstallIn"
+name: std-android-testing
+description: "Write unit tests, Compose UI tests, and Hilt-integrated tests for Android. Use when writing test files or testing ViewModels, Composables, or Repositories with MockK and coroutine test utilities."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Testing Standards
 
 ## **Priority: P0**

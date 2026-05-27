@@ -1,9 +1,10 @@
 ---
 name: explain_terms_and_conditions
-description: Fabric pattern - explain_terms_and_conditions
-domain: general
+description: "Fabric pattern - explain_terms_and_conditions"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

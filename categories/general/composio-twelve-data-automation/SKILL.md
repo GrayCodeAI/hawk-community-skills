@@ -1,8 +1,10 @@
 ---
-name: twelve-data-automation
+name: composio-twelve-data-automation
 description: "Automate Twelve Data tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Twelve Data Automation via Rube MCP

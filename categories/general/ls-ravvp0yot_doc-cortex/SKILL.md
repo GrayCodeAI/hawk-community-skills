@@ -1,3 +1,10 @@
+---
+name: ls-ravvp0yot_doc-cortex
+description: "Skill: ls-ravvp0yot_doc-cortex"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex/
 
 GPT Title: Doc Cortex

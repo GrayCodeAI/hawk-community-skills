@@ -1,3 +1,10 @@
+---
+name: cpa-dell
+description: "Skill: cpa-dell"
+license: MIT
+tags: [general]
+---
+
 # az dell
 
 ```bash

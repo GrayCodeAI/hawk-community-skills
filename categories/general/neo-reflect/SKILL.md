@@ -1,7 +1,9 @@
 ---
-name: reflect
-description: Reflect on previus response and output, based on Self-refinement framework for iterative improvement with complexity triage and verification
-argument-hint: Optional focus area or confidence threshold to use, for example "security" or "deep reflect if less than 90% confidence"
+name: neo-reflect
+description: "Reflect on previus response and output, based on Self-refinement framework for iterative improvement with complexity triage and verification"
+license: MIT
+tags: [general]
+argument-hint: Optional focus area or confidence threshold to use, for example "security" or "deep reflect if less than 90% confidence
 ---
 
 # Self-Refinement and Iterative Improvement Framework

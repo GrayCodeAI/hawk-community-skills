@@ -1,6 +1,8 @@
 ---
-name: power-bi-dax-optimization
-description: 'Comprehensive Power BI DAX formula optimization prompt for improving performance, readability, and maintainability of DAX calculations.'
+name: ghcp-power-bi-dax-optimization-skill
+description: "Comprehensive Power BI DAX formula optimization prompt for improving performance, readability, and maintainability of DAX calculations."
+license: MIT
+tags: [general]
 ---
 
 # Power BI DAX Formula Optimizer

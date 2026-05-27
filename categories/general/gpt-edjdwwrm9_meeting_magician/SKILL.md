@@ -1,3 +1,10 @@
+---
+name: gpt-edjdwwrm9_meeting_magician
+description: "Skill: gpt-edjdwwrm9_meeting_magician"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EdjDwwRm9-meeting-magician
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-n7odg0IvIeZEEJTr5tJECQ3Z?se=2124-01-06T20%3A00%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D4d0f3c16-cd2a-490e-bc96-45b95fbf9f3f.png&sig=JWlnDN0QW1eAB21MokYS6VibRI1PDSJoJZk9LzEJQ84%3D" width="100px" />

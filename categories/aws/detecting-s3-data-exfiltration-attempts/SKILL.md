@@ -1,15 +1,12 @@
 ---
 name: detecting-s3-data-exfiltration-attempts
-description: >
-  Detecting data exfiltration attempts from AWS S3 buckets by analyzing CloudTrail S3
-  data events, VPC Flow Logs, GuardDuty findings, Amazon Macie alerts, and S3 access
-  patterns to identify unauthorized bulk downloads and cross-account data transfers.
+description: "Detecting data exfiltration attempts from AWS S3 buckets by analyzing CloudTrail S3 data events, VPC Flow Logs, GuardDuty findings, Amazon Macie alerts, and S3 access patterns to identify unauthori..."
+license: MIT
+tags: [cloud-security, aws, s3, data-exfiltration, guardduty, macie, threat-detection]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [cloud-security, aws, s3, data-exfiltration, guardduty, macie, threat-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting S3 Data Exfiltration Attempts

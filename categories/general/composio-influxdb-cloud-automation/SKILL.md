@@ -1,8 +1,10 @@
 ---
-name: influxdb-cloud-automation
+name: composio-influxdb-cloud-automation
 description: "Automate Influxdb Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Influxdb Cloud Automation via Rube MCP

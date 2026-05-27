@@ -1,3 +1,10 @@
+---
+name: gpt-kfvlwnrg8_hack_me_bot
+description: "Skill: gpt-kfvlwnrg8_hack_me_bot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kFvlWNrg8-hack-me-bot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ileItmonmMdLh6CnMYfiBL9A?se=2123-12-24T17%3A15%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da2f7d03c-1ffc-4d16-9371-9ed32dc44ce2.png&sig=NhTpKZshq2bgAqwYU3VkjJugBXKE34H/1UaaSpdwbP0%3D" width="100px" />

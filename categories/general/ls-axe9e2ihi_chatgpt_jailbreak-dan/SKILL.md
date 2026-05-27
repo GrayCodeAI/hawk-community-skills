@@ -1,3 +1,10 @@
+---
+name: ls-axe9e2ihi_chatgpt_jailbreak-dan
+description: "Skill: ls-axe9e2ihi_chatgpt_jailbreak-dan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AXE9e2ihi-chat-gpt-jailbreak-dan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jfm294eUKeyj46apJJeeQLde?se=2123-12-14T18%3A51%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dthe_upside_down.png&sig=jtXBUI0qt7EMjbWZW1fFsNn%2B25ZhK9wcnBrqbzyi20k%3D" width="100px" />

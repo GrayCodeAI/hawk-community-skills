@@ -1,16 +1,14 @@
 ---
-name: nestjs-api-standards
-description: Create standardized API response envelopes, paginated endpoints, and error interceptors in NestJS. Use when implementing response wrappers, pagination DTOs, or global error formats.
-metadata:
-  triggers:
-    files:
-    - '**/*.controller.ts'
-    - '**/*.dto.ts'
-    keywords:
-    - ApiResponse
-    - Pagination
-    - TransformInterceptor
+name: std-nestjs-api-standards
+description: "Create standardized API response envelopes, paginated endpoints, and error interceptors in NestJS. Use when implementing response wrappers, pagination DTOs, or global error formats."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # NestJS API Standards & Common Patterns
 
 ## **Priority: P1 (OPERATIONAL)**

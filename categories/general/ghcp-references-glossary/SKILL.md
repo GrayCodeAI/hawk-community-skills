@@ -1,3 +1,10 @@
+---
+name: ghcp-references-glossary
+description: "Skill: ghcp-references-glossary"
+license: MIT
+tags: [general]
+---
+
 # Glossary
 
 - Reference [Glossary of Web Terms](https://developer.mozilla.org/en-US/docs/Glossary)

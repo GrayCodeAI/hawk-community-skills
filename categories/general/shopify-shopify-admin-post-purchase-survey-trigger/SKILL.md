@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-post-purchase-survey-trigger
-role: conversion-optimization
+name: shopify-shopify-admin-post-purchase-survey-trigger
 description: "Read-only: identifies orders 7–14 days post-fulfillment that are eligible for a post-purchase survey campaign, excluding refunded or cancelled orders."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

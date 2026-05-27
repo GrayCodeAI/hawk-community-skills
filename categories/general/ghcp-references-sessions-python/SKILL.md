@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sessions-python
+description: "Skill: ghcp-references-sessions-python"
+license: MIT
+tags: [general]
+---
+
 # Sessions (Python)
 
 Track multi-turn conversations by grouping traces with session IDs.

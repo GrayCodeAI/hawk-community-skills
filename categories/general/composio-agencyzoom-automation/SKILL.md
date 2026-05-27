@@ -1,8 +1,10 @@
 ---
-name: agencyzoom-automation
+name: composio-agencyzoom-automation
 description: "Automate Agencyzoom tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Agencyzoom Automation via Rube MCP

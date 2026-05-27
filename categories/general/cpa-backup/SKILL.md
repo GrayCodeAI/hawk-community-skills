@@ -1,3 +1,10 @@
+---
+name: cpa-backup
+description: "Skill: cpa-backup"
+license: MIT
+tags: [general]
+---
+
 # az backup
 
 ```bash

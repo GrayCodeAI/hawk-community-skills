@@ -1,6 +1,8 @@
 ---
-name: first-ask
-description: 'Interactive, input-tool powered, task refinement workflow: interrogates scope, deliverables, constraints before carrying out the task; Requires the Joyride extension.'
+name: copilot-first-ask
+description: "Interactive, input-tool powered, task refinement workflow: interrogates scope, deliverables, constraints before carrying out the task; Requires the Joyride extension."
+license: MIT
+tags: [general]
 ---
 
 # Act Informed: First understand together with the human, then do

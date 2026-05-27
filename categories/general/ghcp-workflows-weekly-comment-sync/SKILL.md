@@ -1,32 +1,28 @@
 ---
-name: 'Weekly Comment Sync'
-description: 'Weekly workflow that finds stale code comments or README snippets, makes text-only synchronization updates, and opens a draft pull request when changes are needed.'
-labels: ['maintenance', 'documentation', 'comments']
-on:
-  schedule: weekly
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-
+name: ghcp-workflows-weekly-comment-sync
+description: "Weekly workflow that finds stale code comments or README snippets, makes text-only synchronization updates, and opens a draft pull request when changes are needed."
+license: MIT
+tags: [general]
+labels: [automation]
+True: None
+schedule: weekly
+workflow_dispatch: None
+permissions: None
+contents: read
+issues: read
+pull-requests: read
 engine: copilot
-
-tools:
-  github:
-    toolsets: [default]
-  bash: true
-
-safe-outputs:
-  create-pull-request:
-    max: 1
-    title-prefix: "[ai] "
-    labels: [automation]
-    draft: true
-    if-no-changes: warn
-    fallback-as-issue: false
-
+tools: None
+github: None
+toolsets: [default]
+bash: True
+safe-outputs: None
+create-pull-request: None
+max: 1
+title-prefix: [ai]
+draft: True
+if-no-changes: warn
+fallback-as-issue: False
 timeout-minutes: 20
 ---
 

@@ -1,3 +1,10 @@
+---
+name: prompt-OWNERS
+description: "Skill: prompt-OWNERS"
+license: MIT
+tags: [general]
+---
+
 # Owners
 
 This file lists the current maintainers and emeritus maintainers of prompts.chat.

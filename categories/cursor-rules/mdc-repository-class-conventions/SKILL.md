@@ -1,7 +1,10 @@
 ---
-description: Governs the structure and functionality of repository classes, emphasizing the use of JpaRepository, JPQL queries, and EntityGraphs to prevent N+1 problems.
-globs: **/src/main/java/com/example/repositories/*.java
+name: mdc-repository-class-conventions
+description: "Governs the structure and functionality of repository classes, emphasizing the use of JpaRepository, JPQL queries, and EntityGraphs to prevent N+1 problems."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Must annotate repository classes with @Repository.
 - Repository classes must be of type interface.
 - Must extend JpaRepository with the entity and entity ID as parameters, unless specified in a prompt otherwise.

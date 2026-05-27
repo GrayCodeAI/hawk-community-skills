@@ -1,3 +1,10 @@
+---
+name: gpt-ca2alvvsr_tableau_doctor_gpt
+description: "Skill: gpt-ca2alvvsr_tableau_doctor_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ca2aLVVsR-tableau-doctor-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-y4zKDNZGn9Gv5ikpuFIF4Bcz?se=2123-10-25T21%3A34%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAdam_Mico_an_image_of_a_mountain_top_with_sun_peaking_over_the__5ff99b72-48fd-4300-a8d8-9415b5235b5e.png&sig=eDanHZraVGjzLIME3DH1QvAcOfDeba51F7GRT9g0AAM%3D" width="100px" />

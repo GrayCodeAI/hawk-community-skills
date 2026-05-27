@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing high-performance, maintainable, and robust `opencv-python` code in Python applications.
-globs: **/*.py
+name: mdc-opencv-python
+description: "This guide provides definitive, opinionated best practices for writing high-performance, maintainable, and robust `opencv-python` code in Python applications."
+license: MIT
+tags: [python]
 ---
+
 # `opencv-python` Best Practices
 
 `opencv-python` is the de-facto standard for computer vision in Python. To write efficient, reliable, and maintainable code, treat OpenCV objects as NumPy arrays and prioritize vectorized operations. This guide outlines the essential practices for our team.

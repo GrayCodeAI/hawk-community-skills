@@ -1,7 +1,11 @@
 ---
-description: Provides additional instructions for React Native Expo development, such as using TypeScript, StyleSheet for styling, and Expo's secure store for sensitive data.
-globs: src/**/*.*
+name: mdc-react-native-expo---additional-instructions
+description: 'Skill: mdc-react-native-expo---additional-instructions'
+license: MIT
+tags:
+- react
 ---
+
 - Use TypeScript for type safety
 - Implement proper styling using StyleSheet
 - Utilize Expo's vector icons

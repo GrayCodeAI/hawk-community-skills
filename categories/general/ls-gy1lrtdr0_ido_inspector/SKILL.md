@@ -1,3 +1,10 @@
+---
+name: ls-gy1lrtdr0_ido_inspector
+description: "Skill: ls-gy1lrtdr0_ido_inspector"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gy1lrTDR0-ido-inspector
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9bi01t2G1vTodJm3tzT8QBhb?se=2124-01-06T16%3A51%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D835ecb28-e864-4130-9329-cdf7a3f89339.png&sig=TwzN6fwADHm9u6ikgzIBtisGzX9TvPOT9MCLO9pdC6Q%3D" width="100px" />

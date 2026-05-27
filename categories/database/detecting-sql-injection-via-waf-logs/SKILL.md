@@ -1,17 +1,12 @@
 ---
 name: detecting-sql-injection-via-waf-logs
-description: >-
-  Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect SQL injection
-  attack campaigns. Parses ModSecurity audit logs and JSON WAF event logs to
-  identify SQLi patterns (UNION SELECT, OR 1=1, SLEEP(), BENCHMARK()), tracks
-  attack sources, correlates multi-stage injection attempts, and generates
-  incident reports with OWASP classification.
+description: "Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect SQL injection attack campaigns. Parses ModSecurity audit logs and JSON WAF event logs to identify SQLi patterns (UNION SELECT, OR 1=1, SL..."
+license: MIT
+tags: [detecting, sql, injection, via]
 domain: cybersecurity
 subdomain: security-operations
-tags: [detecting, sql, injection, via]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

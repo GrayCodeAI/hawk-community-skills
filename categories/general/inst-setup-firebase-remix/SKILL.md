@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-remix
+description: "Skill: inst-setup-firebase-remix"
+license: MIT
+tags: [general]
+---
+
 # Firebase + Remix Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with a Remix application.
@@ -386,4 +393,4 @@ export default function Files() {
 ## Additional Resources
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Remix Documentation](https://remix.run/docs/en/main)
-- [Firebase Console](https://console.firebase.google.com/) 
+- [Firebase Console](https://console.firebase.google.com/)

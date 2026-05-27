@@ -1,16 +1,11 @@
 ---
 name: cursor-ruby
-description: Cursor IDE rules for ruby
-domain: engineering
+description: "Cursor IDE rules for ruby"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Idiomatic Ruby: blocks, RSpec, clean patterns"
-globs: ["*.rb"]
-alwaysApply: true
 ---
 
 # Ruby Cursor Rules

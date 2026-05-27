@@ -1,3 +1,10 @@
+---
+name: gpt-2tw2vhavl_font_maker_finetuned_output_for_new_typo
+description: "Skill: gpt-2tw2vhavl_font_maker_finetuned_output_for_new_typo"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2Tw2vhAvl-font-maker-finetuned-output-for-new-typography
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-UJz2CCgdAxJe1YY6ZXMmw5fR?se=2124-01-10T21%3A10%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcb58b9c3-c2ea-4933-bcd2-025b878636b5.png&sig=%2BWz65MGTkY61CiekWhOTY41dQpK21SxByGatf%2BxeCko%3D" width="100px" />

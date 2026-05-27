@@ -1,8 +1,10 @@
 ---
-name: metaphor-automation
+name: composio-metaphor-automation
 description: "Automate Metaphor tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Metaphor Automation via Rube MCP

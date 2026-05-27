@@ -1,16 +1,11 @@
 ---
 name: cursor-csharp
-description: Cursor IDE rules for csharp
-domain: engineering
+description: "Cursor IDE rules for csharp"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "C# patterns: async/await, nullable refs, LINQ"
-globs: ["*.cs"]
-alwaysApply: true
 ---
 
 # C# Cursor Rules

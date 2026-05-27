@@ -1,8 +1,10 @@
 ---
-name: mocean-automation
+name: composio-mocean-automation
 description: "Automate Mocean tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mocean Automation via Rube MCP

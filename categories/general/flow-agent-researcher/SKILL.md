@@ -1,27 +1,8 @@
 ---
-name: agent-researcher
-description: Agent skill for researcher - invoke with $agent-researcher
----
-
----
-name: researcher
-type: analyst
-color: "#9B59B6"
-description: Deep research and information gathering specialist
-capabilities:
-  - code_analysis
-  - pattern_recognition
-  - documentation_research
-  - dependency_tracking
-  - knowledge_synthesis
-priority: high
-hooks:
-  pre: |
-    echo "🔍 Research agent investigating: $TASK"
-    memory_store "research_context_$(date +%s)" "$TASK"
-  post: |
-    echo "📊 Research findings documented"
-    memory_search "research_*" | head -5
+name: flow-agent-researcher
+description: "Agent skill for researcher - invoke with $agent-researcher"
+license: MIT
+tags: [general]
 ---
 
 # Research and Analysis Agent

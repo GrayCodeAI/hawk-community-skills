@@ -1,9 +1,11 @@
 ---
-name: azure-identity-ts
+name: ag-azure-identity-ts
 description: "Authenticate to Azure services with various credential types."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure Identity SDK for TypeScript

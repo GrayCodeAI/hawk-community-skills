@@ -1,9 +1,10 @@
 ---
 name: write_micro_essay
-description: Fabric pattern - write_micro_essay
-domain: general
+description: "Fabric pattern - write_micro_essay"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

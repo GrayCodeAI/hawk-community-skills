@@ -1,3 +1,10 @@
+---
+name: cpa-job
+description: "Skill: cpa-job"
+license: MIT
+tags: [general]
+---
+
 # az containerapp job
 
 ```bash

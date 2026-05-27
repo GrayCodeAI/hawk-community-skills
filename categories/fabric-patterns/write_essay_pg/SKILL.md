@@ -1,9 +1,10 @@
 ---
 name: write_essay_pg
-description: Fabric pattern - write_essay_pg
-domain: general
+description: "Fabric pattern - write_essay_pg"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

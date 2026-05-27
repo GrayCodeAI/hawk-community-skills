@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-duplicate-sku-barcode-detector
-role: merchandising
+name: shopify-shopify-admin-duplicate-sku-barcode-detector
 description: "Read-only: finds duplicate SKUs or barcodes across all product variants."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

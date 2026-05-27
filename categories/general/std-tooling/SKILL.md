@@ -1,11 +1,13 @@
 ---
-name: JavaScript Tooling
-description: Development tools, linting, and testing for JavaScript projects.
-metadata:
-  labels: [tooling, javascript, eslint, prettier, testing]
-  triggers:
-    files: ['.eslintrc.*', 'jest.config.*', 'package.json']
-    keywords: [eslint, prettier, jest, test, lint, build]
+name: std-tooling
+description: "Development tools, linting, and testing for JavaScript projects."
+license: MIT
+tags: [general]
+metadata: None
+labels: [tooling, javascript, eslint, prettier, testing]
+triggers: None
+files: [.eslintrc.*, jest.config.*, package.json]
+keywords: [eslint, prettier, jest, test, lint, build]
 ---
 
 # JavaScript Tooling

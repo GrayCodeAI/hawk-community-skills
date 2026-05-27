@@ -1,3 +1,10 @@
+---
+name: cpa-storage-mover
+description: "Skill: cpa-storage-mover"
+license: MIT
+tags: [general]
+---
+
 # az storage-mover
 
 ```bash

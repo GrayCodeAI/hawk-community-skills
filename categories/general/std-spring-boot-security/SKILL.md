@@ -1,17 +1,14 @@
 ---
-name: spring-boot-security
-description: Configure Spring Security 6+ with Lambda DSL, JWT, and hardening rules. Use when configuring Spring Security 6+, OAuth2, JWT, or security hardening in Spring Boot.
-metadata:
-  triggers:
-    files:
-    - '**/*SecurityConfig.java'
-    - '**/*Filter.java'
-    keywords:
-    - security-filter-chain
-    - lambda-dsl
-    - csrf
-    - cors
+name: std-spring-boot-security
+description: "Configure Spring Security 6+ with Lambda DSL, JWT, and hardening rules. Use when configuring Spring Security 6+, OAuth2, JWT, or security hardening in Spring Boot."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Spring Boot Security Standards
 
 ## **Priority: P0 (CRITICAL)**

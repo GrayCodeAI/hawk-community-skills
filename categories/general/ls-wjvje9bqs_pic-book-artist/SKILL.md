@@ -1,3 +1,10 @@
+---
+name: ls-wjvje9bqs_pic-book-artist
+description: "Skill: ls-wjvje9bqs_pic-book-artist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist
 
 GPT Title: Pic-book Artist

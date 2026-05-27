@@ -1,3 +1,10 @@
+---
+name: gpt-4fy0lb70q_meta-cognition_gpt
+description: "Skill: gpt-4fy0lb70q_meta-cognition_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4Fy0Lb70q-meta-cognition-gpt
 
 GPT logo: <img src="None" width="100px" />

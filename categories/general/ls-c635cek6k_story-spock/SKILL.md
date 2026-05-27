@@ -1,3 +1,10 @@
+---
+name: ls-c635cek6k_story-spock
+description: "Skill: ls-c635cek6k_story-spock"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-C635cEk6K-story-spock
 
 GPT Title: Story Spock

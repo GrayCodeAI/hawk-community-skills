@@ -1,6 +1,8 @@
 ---
-name: file-organizer
-description: Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.
+name: composio-file-organizer
+description: "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load ..."
+license: MIT
+tags: [general]
 ---
 
 # File Organizer
@@ -430,4 +432,3 @@ Documents folder.
 - Cleaning up before storage cleanup
 - Organizing shared team folders
 - Structuring new project directories
-

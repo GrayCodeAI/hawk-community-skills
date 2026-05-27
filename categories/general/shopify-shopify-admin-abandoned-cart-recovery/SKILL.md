@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-abandoned-cart-recovery
-role: marketing
+name: shopify-shopify-admin-abandoned-cart-recovery
 description: "Query checkouts abandoned in the last N days, generate unique discount codes per customer, and tag them for re-engagement."
+license: MIT
+tags: [general]
+role: marketing
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - abandonedCheckouts:query
-  - discountCodeBulkCreate:mutation
-  - tagsAdd:mutation
+api_version: 2025-01
+graphql_operations: [{'abandonedCheckouts': 'query'}, {'discountCodeBulkCreate': 'mutation'}, {'tagsAdd': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

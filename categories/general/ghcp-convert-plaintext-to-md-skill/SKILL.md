@@ -1,6 +1,8 @@
 ---
-name: convert-plaintext-to-md
-description: 'Convert a text-based document to markdown following instructions from prompt, or if a documented option is passed, follow the instructions for that option.'
+name: ghcp-convert-plaintext-to-md-skill
+description: "Convert a text-based document to markdown following instructions from prompt, or if a documented option is passed, follow the instructions for that option."
+license: MIT
+tags: [general]
 ---
 
 # Convert Plaintext Documentation to Markdown

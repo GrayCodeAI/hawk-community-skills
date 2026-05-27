@@ -1,3 +1,10 @@
+---
+name: gpt-nuwuawuzm_10x-engineer
+description: "Skill: gpt-nuwuawuzm_10x-engineer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nUwUAwUZm-10x-engineer
 
 GPT Title: 10x Engineer

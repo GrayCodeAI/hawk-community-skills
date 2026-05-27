@@ -1,6 +1,8 @@
 ---
-description: 'ColdFusion Coding Standards for CFC component and application patterns'
-applyTo: "**/*.cfc"
+name: ghcp-instructions-coldfusion-cfc.instructions
+description: "Skill: ghcp-instructions-coldfusion-cfc.instructions"
+license: MIT
+tags: [general]
 ---
 
 # ColdFusion Coding Standards for CFC Files

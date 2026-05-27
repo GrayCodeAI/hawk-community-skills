@@ -1,3 +1,10 @@
+---
+name: cpa-spring
+description: "Skill: cpa-spring"
+license: MIT
+tags: [general]
+---
+
 # az spring
 
 ```bash

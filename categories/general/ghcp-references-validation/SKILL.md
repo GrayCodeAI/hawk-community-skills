@@ -1,3 +1,10 @@
+---
+name: ghcp-references-validation
+description: "Skill: ghcp-references-validation"
+license: MIT
+tags: [general]
+---
+
 # Validation
 
 Validate LLM judges against human labels before deploying. Target >80% agreement.

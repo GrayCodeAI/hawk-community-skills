@@ -1,3 +1,10 @@
+---
+name: gpt-rreo34o2l_domina_-_sexy_woman_but_bad_to_the_bone_
+description: "Skill: gpt-rreo34o2l_domina_-_sexy_woman_but_bad_to_the_bone_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rREo34o2l-domina-sexy-woman-but-bad-to-the-bone-gpt-app
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kH14TainZidIyWRtBpNMjIL7?se=2124-01-04T08%3A26%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Diainmac_A_hyper-realistic_fashion_photograph__create_a_hyper-re_75f0d2c4-5f7b-4c6c-b788-bd38998a61d6.png&sig=E1W4er%2BmsF5Jz3cpySLEGsCRB%2B2arltXYhS8JaIogTo%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-qyztg0m3c_mobile_app_icon_generator_with_ai
+description: "Skill: gpt-qyztg0m3c_mobile_app_icon_generator_with_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QYzTg0m3c-mobile-app-icon-generator-with-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-sMgKVVDnLswtBwMsab959Ypn?se=2123-10-20T21%3A07%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40911c44-5219-452a-a9ac-f6376d4e1033.png&sig=ONOa/mZVoYNQomGWNVqWCq2jIwz8hDmTQmk7Z9lRRW4%3D" width="100px" />

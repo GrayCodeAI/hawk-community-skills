@@ -1,3 +1,10 @@
+---
+name: gpt-bowlihmtg_jmgpt
+description: "Skill: gpt-bowlihmtg_jmgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BOWlIHMtg-jmgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-yhDkiwzYEVqQuBl8LwyHKSnG?se=2123-10-19T03%3A43%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLACFpUZd_400x400.jpg&sig=DVGrcRPexNjJ6MHEXQce%2BZDg9BhN24H9AhiJWl4pR6E%3D" width="100px" />

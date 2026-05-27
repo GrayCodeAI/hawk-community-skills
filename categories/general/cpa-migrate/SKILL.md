@@ -1,3 +1,10 @@
+---
+name: cpa-migrate
+description: "Skill: cpa-migrate"
+license: MIT
+tags: [general]
+---
+
 # az migrate
 
 ```bash

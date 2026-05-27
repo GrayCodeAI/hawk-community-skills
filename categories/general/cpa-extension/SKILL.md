@@ -1,3 +1,10 @@
+---
+name: cpa-extension
+description: "Skill: cpa-extension"
+license: MIT
+tags: [general]
+---
+
 # az extension
 
 ```bash

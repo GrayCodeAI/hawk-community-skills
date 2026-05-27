@@ -1,9 +1,10 @@
 ---
 name: extract_wisdom_agents
-description: Fabric pattern - extract_wisdom_agents
-domain: general
+description: "Fabric pattern - extract_wisdom_agents"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

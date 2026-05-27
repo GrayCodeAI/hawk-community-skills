@@ -1,3 +1,10 @@
+---
+name: gpt-e9avvjxcw_fragrance-finder-deluxe
+description: "Skill: gpt-e9avvjxcw_fragrance-finder-deluxe"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-e9AVVjxcw-fragrance-finder-deluxe
 
 GPT Title: Fragrance Finder Deluxe

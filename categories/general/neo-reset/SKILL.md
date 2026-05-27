@@ -1,29 +1,9 @@
 ---
-name: reset
-description: "Reset the FPF reasoning cycle to start fresh"
----
-
-# Reset Cycle
-
-Reset the FPF reasoning cycle to start fresh.
-
-## Action (Run-Time)
-
-### Option 1: Soft Reset (Archive Current Session)
-
-Create a session archive and clear active work:
-
-1. **Create Session Archive**
-
-Create a file in `.fpf/sessions/` to record the completed/abandoned session:
-
-```markdown
-# In .fpf/sessions/session-2025-01-15-reset.md
----
-id: session-2025-01-15-reset
-action: reset
-created: 2025-01-15T16:00:00Z
-reason: user_requested
+name: neo-reset
+description: Reset the FPF reasoning cycle to start fresh
+license: MIT
+tags:
+- general
 ---
 
 # Session Archive: 2025-01-15
@@ -106,4 +86,3 @@ mv .fpf/knowledge/L2/*.md .fpf/knowledge/L1/
 # Re-verify: L1 -> L0
 mv .fpf/knowledge/L1/*.md .fpf/knowledge/L0/
 ```
-

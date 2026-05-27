@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for building safe, governed AI agent systems. Apply when writing code that uses agent frameworks, tool-calling LLMs, or multi-agent orchestration to ensure proper safety boundaries, policy enforcement, and auditability.'
-applyTo: '**'
+name: ghcp-instructions-agent-safety.instructions
+description: "Skill: ghcp-instructions-agent-safety.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Agent Safety & Governance

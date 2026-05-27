@@ -1,16 +1,14 @@
 ---
-name: android-resources
-description: Organize strings, drawables, and localization resources in Android projects. Use when managing Android resources, plurals, or adding multi-language support.
-metadata:
-  triggers:
-    files:
-    - 'strings.xml'
-    - '**/*Screen.kt'
-    keywords:
-    - stringResource
-    - plurals
-    - R.string
+name: std-android-resources
+description: "Organize strings, drawables, and localization resources in Android projects. Use when managing Android resources, plurals, or adding multi-language support."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Resources Standards
 
 ## **Priority: P2**

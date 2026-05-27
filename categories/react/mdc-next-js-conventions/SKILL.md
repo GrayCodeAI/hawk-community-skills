@@ -1,7 +1,10 @@
 ---
-description: Key Next.js conventions for state changes, web vitals, and client-side code usage.
-globs: **/*.{ts,js,jsx,tsx}
+name: mdc-next-js-conventions
+description: "Key Next.js conventions for state changes, web vitals, and client-side code usage."
+license: MIT
+tags: [react]
 ---
+
 - Rely on Next.js App Router for state changes.
 - Prioritize Web Vitals (LCP, CLS, FID).
 - Minimize 'use client' usage:

@@ -1,7 +1,10 @@
 ---
-description: Offers specific guidance for improving the HTMX-based frontend, focusing on responsive design, user experience, and client-side performance.
-globs: frontend/**/*.*
+name: mdc-frontend-development-rules
+description: "Offers specific guidance for improving the HTMX-based frontend, focusing on responsive design, user experience, and client-side performance."
+license: MIT
+tags: [cursor-rules]
 ---
+
 4. Frontend Development
   - Offer suggestions for improving the HTMX-based frontend
   - Assist with responsive design and user experience enhancements

@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive rules for integrating and utilizing Font Awesome 7 icons, focusing on accessibility, performance, and maintainability through Kit-based setup and modern best practices.
-globs: **/*
+name: mdc-fontawesome
+description: "This guide provides definitive rules for integrating and utilizing Font Awesome 7 icons, focusing on accessibility, performance, and maintainability through Kit-based setup and modern best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # fontawesome Best Practices
 
 Font Awesome 7 is the definitive source for scalable UI icons in our web applications. Leveraging its power correctly ensures visual consistency, accessibility, and optimal performance. This guide outlines our team's mandatory best practices for Font Awesome integration.

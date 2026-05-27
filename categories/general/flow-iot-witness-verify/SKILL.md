@@ -1,9 +1,12 @@
 ---
-name: iot-witness-verify
-description: Verify witness chain integrity and detect provenance gaps
+name: flow-iot-witness-verify
+description: "Verify witness chain integrity and detect provenance gaps"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store Read
-argument-hint: "<device-id>"
+argument-hint: <device-id>
 ---
+
 Verify the witness chain integrity for a Cognitum Seed device.
 
 Steps:

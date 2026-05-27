@@ -1,3 +1,10 @@
+---
+name: ls-p0bv8ah3f_sales-cold-email-coach
+description: "Skill: ls-p0bv8ah3f_sales-cold-email-coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-p0BV8aH3f-sales-cold-email-coach
 
 GPT Title: Sales Cold Email Coach

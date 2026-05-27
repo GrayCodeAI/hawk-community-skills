@@ -1,7 +1,9 @@
 ---
+name: ghcp-agents-tdd-refactor
 description: "Improve code quality, apply security best practices, and enhance design whilst maintaining green tests and GitHub issue compliance."
-name: "TDD Refactor Phase - Improve Quality & Security"
-tools: ["github/*", "search/fileSearch", "edit/editFiles", "execute/runTests", "execute/runInTerminal", "execute/getTerminalOutput", "execute/testFailure", "read/readFile", "read/terminalLastCommand", "read/terminalSelection", "read/problems", "search/codebase"]
+license: MIT
+tags: [general]
+tools: [github/*, search/fileSearch, edit/editFiles, execute/runTests, execute/runInTerminal, execute/getTerminalOutput, execute/testFailure, read/readFile, read/terminalLastCommand, read/terminalSelection, read/problems, search/codebase]
 ---
 
 # TDD Refactor Phase - Improve Quality & Security

@@ -1,3 +1,10 @@
+---
+name: ecom-shopify-analytics-guide
+description: "Skill: ecom-shopify-analytics-guide"
+license: MIT
+tags: [general]
+---
+
 # Shopify Analytics Guide
 
 Master Shopify analytics and reporting. Understand key metrics, build custom reports, track customer behavior, and make data-driven decisions to grow your Shopify store.

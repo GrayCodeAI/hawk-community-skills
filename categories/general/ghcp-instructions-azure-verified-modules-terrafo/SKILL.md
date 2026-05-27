@@ -1,6 +1,8 @@
 ---
-description: ' Azure Verified Modules (AVM) and Terraform'
-applyTo: '**/*.terraform, **/*.tf, **/*.tfvars, **/*.tfstate, **/*.tflint.hcl, **/*.tf.json, **/*.tfvars.json'
+name: ghcp-instructions-azure-verified-modules-terrafo
+description: "Skill: ghcp-instructions-azure-verified-modules-terrafo"
+license: MIT
+tags: [general]
 ---
 
 # Azure Verified Modules (AVM) Terraform

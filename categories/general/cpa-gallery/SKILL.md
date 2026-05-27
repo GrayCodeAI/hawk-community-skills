@@ -1,3 +1,10 @@
+---
+name: cpa-gallery
+description: "Skill: cpa-gallery"
+license: MIT
+tags: [general]
+---
+
 # az gallery
 
 ```bash

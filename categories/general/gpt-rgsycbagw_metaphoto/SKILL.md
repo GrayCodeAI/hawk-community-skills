@@ -1,3 +1,10 @@
+---
+name: gpt-rgsycbagw_metaphoto
+description: "Skill: gpt-rgsycbagw_metaphoto"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RGsyCbAgW-metaphoto
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0n2uOj2V3Ex2frhCndCUVxJM?se=2124-01-06T15%3A09%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dd745d448-7538-4f83-aa2d-6df4162f344e.png&sig=q4vqQ7B5ML%2Bq2Zeee05brXDEUqHWWOCZmt9%2BLzAnNDI%3D" width="100px" />

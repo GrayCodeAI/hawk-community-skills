@@ -1,3 +1,10 @@
+---
+name: gpt-rqxvebz8c_hypno_master
+description: "Skill: gpt-rqxvebz8c_hypno_master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RQxvebz8C-hypno-master
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DAVAF51pSQA07WYBHgjzkUCa?se=2123-11-13T18%3A35%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D06361a79-f70f-4114-a971-5ef76a606380.png&sig=ry1luNQ8cyp0Nn66pWUMIE2K8Hd%2Bj%2BmZQ0EWikuGF4Q%3D" width="100px" />

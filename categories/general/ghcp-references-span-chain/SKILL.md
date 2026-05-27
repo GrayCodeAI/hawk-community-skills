@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-chain
+description: "Skill: ghcp-references-span-chain"
+license: MIT
+tags: [general]
+---
+
 # CHAIN Spans
 
 ## Purpose

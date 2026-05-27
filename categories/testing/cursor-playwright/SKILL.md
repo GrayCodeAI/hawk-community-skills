@@ -1,16 +1,11 @@
 ---
 name: cursor-playwright
-description: Cursor IDE rules for playwright
-domain: engineering
+description: "Cursor IDE rules for playwright"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Playwright: e2e testing, page objects, fixtures, assertions"
-globs: ["*.spec.ts", "*.test.ts", "playwright.config.ts"]
-alwaysApply: true
 ---
 
 # Playwright Cursor Rules

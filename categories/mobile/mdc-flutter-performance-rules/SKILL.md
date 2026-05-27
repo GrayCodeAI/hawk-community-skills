@@ -1,7 +1,10 @@
 ---
-description: Provides performance-related guidelines for Flutter development, including image caching, list view optimization, and memory management.
-globs: lib/**/*.*
+name: mdc-flutter-performance-rules
+description: "Provides performance-related guidelines for Flutter development, including image caching, list view optimization, and memory management."
+license: MIT
+tags: [mobile]
 ---
+
 - Use proper image caching.
 - Implement proper list view optimization.
 - Use proper build methods optimization.

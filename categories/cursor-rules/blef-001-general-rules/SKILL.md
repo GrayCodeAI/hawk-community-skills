@@ -1,7 +1,9 @@
 ---
-description: Enforces AI to correctly use agent tools
-globs: 
-alwaysApply: true
+name: blef-001-general-rules
+description: "Enforces AI to correctly use agent tools"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # AI Agent General Rules

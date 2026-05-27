@@ -1,3 +1,10 @@
+---
+name: ls-vmu7bmic0_gpt-girl_friend_by_lusia
+description: "Skill: ls-vmu7bmic0_gpt-girl_friend_by_lusia"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VMu7BMIc0-gpt-girl-friend-by-lusia
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1kYcBOQBOcbQ81jb2KX1leCK?se=2123-11-13T08%3A42%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D%25EC%2596%25BC%25EA%25B5%25B41.png&sig=aoZwJobPIuDcrbSsuCKaqu/2lI/s6tWETqwhRSTN7FA%3D" width="100px" />

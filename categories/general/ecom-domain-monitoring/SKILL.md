@@ -1,20 +1,15 @@
 ---
-nexscope:
-  name: "Domain Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "domain"
-    - "ssl"
-    - "security"
-    - "monitoring"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "domain monitoring"
-    - "ssl monitoring"
+name: ecom-domain-monitoring
+description: "Skill: ecom-domain-monitoring"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Domain Monitoring

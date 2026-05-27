@@ -1,8 +1,11 @@
 ---
-description: rules to parse solution architecture from docs/architecture.md
-globs: 
-alwaysApply: true
+name: rb-04-archiecture-understanding
+description: "rules to parse solution architecture from docs/architecture.md"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
+
 # Architecture Understanding
 READ_ARCHITECTURE: |
   File: /memory/docs/architecture.md @architecture.md

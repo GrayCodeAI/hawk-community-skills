@@ -1,3 +1,10 @@
+---
+name: ls-7xpz2pxvc_gepetube
+description: "Skill: ls-7xpz2pxvc_gepetube"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7XpZ2pXVc-gepetube
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-KIGohbkh6GH3ov7zrfI0NWbV?se=2123-11-14T15%3A22%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dgptube%2520logo.png&sig=jN3dWNL6017dVWv9Olg7Rf3K5hD2ZKbczrG9BhaaPwQ%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-github_copilot_vs_02292024
+description: "Skill: gpt-github_copilot_vs_02292024"
+license: MIT
+tags: [general]
+---
+
 # 1
 
 ```markdown

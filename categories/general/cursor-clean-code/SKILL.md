@@ -1,15 +1,11 @@
 ---
 name: cursor-clean-code
-description: Cursor IDE rules for clean-code
-domain: engineering
+description: "Cursor IDE rules for clean-code"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Clean code: naming, functions, simplicity"
-alwaysApply: true
 ---
 
 # Clean Code Rules

@@ -1,7 +1,10 @@
 ---
-description: General rules and principles for developing with Astro framework.
-globs: src/**/*.*
+name: mdc-astro-general
+description: "General rules and principles for developing with Astro framework."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are an expert in JavaScript, TypeScript, and Astro framework for scalable web development.
 
 Key Principles

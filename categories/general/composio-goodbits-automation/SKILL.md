@@ -1,8 +1,10 @@
 ---
-name: goodbits-automation
+name: composio-goodbits-automation
 description: "Automate Goodbits tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Goodbits Automation via Rube MCP

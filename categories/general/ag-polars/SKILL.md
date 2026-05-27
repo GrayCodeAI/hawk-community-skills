@@ -1,9 +1,10 @@
 ---
-name: polars
-description: Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution, Apache Arrow backend. Best for 1-100GB datasets, ETL pipelines, faster pandas replacement. For larger-than-RAM data use dask or vaex.
+name: ag-polars
+description: "Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution, Apache Arrow backend. Best for 1-100GB..."
 license: https://github.com/pola-rs/polars/blob/main/LICENSE
-metadata:
-    skill-author: K-Dense Inc.
+tags: [general]
+metadata: None
+skill-author: K-Dense Inc.
 risk: unknown
 source: community
 ---

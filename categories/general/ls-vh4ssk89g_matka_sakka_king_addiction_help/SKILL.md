@@ -1,3 +1,10 @@
+---
+name: ls-vh4ssk89g_matka_sakka_king_addiction_help
+description: "Skill: ls-vh4ssk89g_matka_sakka_king_addiction_help"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vh4Ssk89G-matka-sakka-king-addiction-help
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-VGQUCinQ8Jlifw6ccnM61uHU?se=2123-10-23T14%3A43%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D030deebc-d1c5-409c-b644-8d5fe33c3c57.png&sig=WQ6mZr2hhQx92BLfGfVR5KMF7kfCz05B%2Byxj8azKRmg%3D" width="100px" />

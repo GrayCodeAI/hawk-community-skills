@@ -1,3 +1,10 @@
+---
+name: gpt-nnixy14gm_the-greatest-computer-science-tutor
+description: "Skill: gpt-nnixy14gm_the-greatest-computer-science-tutor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nNixY14gM-the-greatest-computer-science-tutor
 
 GPT Title: The Greatest Computer Science Tutor

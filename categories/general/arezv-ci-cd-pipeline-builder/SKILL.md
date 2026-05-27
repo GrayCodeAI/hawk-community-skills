@@ -1,6 +1,8 @@
 ---
-name: "ci-cd-pipeline-builder"
+name: arezv-ci-cd-pipeline-builder
 description: "CI/CD Pipeline Builder"
+license: MIT
+tags: [general]
 ---
 
 # CI/CD Pipeline Builder

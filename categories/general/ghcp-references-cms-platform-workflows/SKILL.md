@@ -1,3 +1,10 @@
+---
+name: ghcp-references-cms-platform-workflows
+description: "Skill: ghcp-references-cms-platform-workflows"
+license: MIT
+tags: [general]
+---
+
 # CMS Platform Workflows
 
 This reference keeps the high-level platform map close to the skill so the agent can choose the right seam quickly.

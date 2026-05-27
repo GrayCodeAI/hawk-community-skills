@@ -1,7 +1,10 @@
 ---
-description: Applies commit message standards to all files in the project.
-globs: **/*
+name: mdc-commit-message-format
+description: "Applies commit message standards to all files in the project."
+license: MIT
+tags: [git]
 ---
+
 - Use the following commit message format:
   <type>[optional scope]: <description>
 

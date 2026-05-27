@@ -1,8 +1,10 @@
 ---
-name: securitytrails-automation
+name: composio-securitytrails-automation
 description: "Automate Securitytrails tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Securitytrails Automation via Rube MCP

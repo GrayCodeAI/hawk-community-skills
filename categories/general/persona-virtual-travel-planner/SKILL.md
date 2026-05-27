@@ -1,9 +1,10 @@
 ---
 name: persona-virtual-travel-planner
-description: AI persona - virtual-travel-planner
-domain: general
+description: "AI persona - virtual-travel-planner"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

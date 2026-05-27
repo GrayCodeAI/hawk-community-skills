@@ -1,8 +1,10 @@
 ---
-name: owl-protocol-automation
+name: composio-owl-protocol-automation
 description: "Automate Owl Protocol tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Owl Protocol Automation via Rube MCP

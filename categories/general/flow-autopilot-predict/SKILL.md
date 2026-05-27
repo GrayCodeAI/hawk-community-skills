@@ -1,9 +1,12 @@
 ---
-name: autopilot-predict
-description: Use learned patterns and current state to predict the optimal next action
-argument-hint: ""
+name: flow-autopilot-predict
+description: "Use learned patterns and current state to predict the optimal next action"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: mcp__claude-flow__autopilot_predict mcp__claude-flow__autopilot_progress mcp__claude-flow__autopilot_learn mcp__claude-flow__autopilot_history
 ---
+
 Predict what to work on next using Ruflo autopilot intelligence:
 
 1. Call `mcp__claude-flow__autopilot_predict` for the recommended next action

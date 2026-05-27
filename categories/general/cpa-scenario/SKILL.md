@@ -1,3 +1,10 @@
+---
+name: cpa-scenario
+description: "Skill: cpa-scenario"
+license: MIT
+tags: [general]
+---
+
 # az scenario
 
 ```bash

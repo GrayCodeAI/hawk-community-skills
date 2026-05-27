@@ -1,9 +1,10 @@
 ---
 name: extract_video_commerce_entities
-description: Fabric pattern - extract_video_commerce_entities
-domain: general
+description: "Fabric pattern - extract_video_commerce_entities"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

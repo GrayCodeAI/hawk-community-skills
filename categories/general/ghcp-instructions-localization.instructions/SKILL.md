@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for localizing markdown documents'
-applyTo: '**/*.md'
+name: ghcp-instructions-localization.instructions
+description: "Skill: ghcp-instructions-localization.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Guidance for Localization

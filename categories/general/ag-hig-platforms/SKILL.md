@@ -1,9 +1,11 @@
 ---
-name: hig-platforms
-description: Apple Human Interface Guidelines for platform-specific design.
+name: ag-hig-platforms
+description: "Apple Human Interface Guidelines for platform-specific design."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Apple HIG: Platform Design

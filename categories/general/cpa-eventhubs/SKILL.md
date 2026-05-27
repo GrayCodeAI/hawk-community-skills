@@ -1,3 +1,10 @@
+---
+name: cpa-eventhubs
+description: "Skill: cpa-eventhubs"
+license: MIT
+tags: [general]
+---
+
 # az eventhubs
 
 ```bash

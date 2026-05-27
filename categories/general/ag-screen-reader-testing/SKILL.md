@@ -1,9 +1,11 @@
 ---
-name: screen-reader-testing
+name: ag-screen-reader-testing
 description: "Practical guide to testing web applications with screen readers for comprehensive accessibility validation."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Screen Reader Testing

@@ -1,3 +1,10 @@
+---
+name: ls-blafpmvzd_browser_pro
+description: "Skill: ls-blafpmvzd_browser_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BlafpMvzd-browser-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HKO0TEnSmvIb1M9G1HUyuAZJ?se=2123-12-27T11%3A10%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFrame%2520616.png&sig=fJSm%2BvONY8TkDO8IopKdwun%2BWeW2Wo9hti5JG%2Bb5Bj4%3D" width="100px" />

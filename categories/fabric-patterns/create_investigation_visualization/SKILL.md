@@ -1,9 +1,10 @@
 ---
 name: create_investigation_visualization
-description: Fabric pattern - create_investigation_visualization
-domain: general
+description: "Fabric pattern - create_investigation_visualization"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: General instructions for the AI assistant to follow when executing tasks, including analysis, execution, quality control, and reporting.
-globs: *
+name: mdc-general-ai-assistant-instructions
+description: "General instructions for the AI assistant to follow when executing tasks, including analysis, execution, quality control, and reporting."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are an AI assistant with advanced problem-solving capabilities. Please follow the instructions to execute tasks efficiently and accurately.
 - First, confirm the instructions received from the user:
   <instructions>

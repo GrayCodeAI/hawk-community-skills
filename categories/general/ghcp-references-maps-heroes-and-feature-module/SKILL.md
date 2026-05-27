@@ -1,3 +1,10 @@
+---
+name: ghcp-references-maps-heroes-and-feature-module
+description: "Skill: ghcp-references-maps-heroes-and-feature-module"
+license: MIT
+tags: [general]
+---
+
 # Maps, Heroes, And Feature Modules
 
 Use this reference when building map systems, rotating arenas, class systems, kits, or modular gameplay features.

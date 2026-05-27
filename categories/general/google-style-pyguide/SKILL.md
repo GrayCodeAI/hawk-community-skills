@@ -1,9 +1,10 @@
 ---
 name: google-style-pyguide
-description: Google official style guide for pyguide
-domain: engineering
+description: "Google official style guide for pyguide"
+license: MIT
 tags: [google, style-guide, pyguide]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 
@@ -3715,4 +3716,3 @@ choices unspecified by the global style. Consistency should not generally be
 used as a justification to do things in an old style without considering the
 benefits of the new style, or the tendency of the codebase to converge on newer
 styles over time.
-

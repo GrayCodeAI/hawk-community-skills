@@ -1,3 +1,10 @@
+---
+name: gpt-tldraw
+description: "Skill: gpt-tldraw"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/tldraw/make-real/blob/main/app/prompt.ts
 
 

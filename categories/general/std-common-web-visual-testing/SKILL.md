@@ -1,15 +1,11 @@
 ---
-name: common-web-visual-testing
-description: Standardizes visual audits, responsive design, and behavioral testing for web apps.
-metadata:
-  triggers:
-    keywords:
-    - web test
-    - browser test
-    - responsive audit
-    - verify web ui
-    - cross-browser check
-    - web accessibility
+name: std-common-web-visual-testing
+description: "Standardizes visual audits, responsive design, and behavioral testing for web apps."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 🌐 Web Visual & Behavioral Testing

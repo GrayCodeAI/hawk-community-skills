@@ -1,8 +1,10 @@
 ---
-name: idea-scale-automation
+name: composio-idea-scale-automation
 description: "Automate Idea Scale tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Idea Scale Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: agc-sdk-toolchain
+description: "Skill: agc-sdk-toolchain"
+license: MIT
+tags: [general]
+---
+
 # Pico SDK and Toolchain Reference
 
 ## Table of Contents

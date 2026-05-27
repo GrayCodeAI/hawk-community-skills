@@ -1,8 +1,10 @@
 ---
-name: active-campaign-automation
+name: composio-active-campaign-automation
 description: "Automate ActiveCampaign tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # ActiveCampaign Automation via Rube MCP

@@ -1,16 +1,11 @@
 ---
 name: cursor-agents-md
-description: Cursor IDE rules for agents-md
-domain: engineering
+description: "Cursor IDE rules for agents-md"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "AGENTS.md: project instructions for OpenAI Codex and compatible tools"
-globs: ["AGENTS.md", "AGENTS.override.md"]
-alwaysApply: false
 ---
 
 # AGENTS.md Rules

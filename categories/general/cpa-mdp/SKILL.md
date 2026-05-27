@@ -1,3 +1,10 @@
+---
+name: cpa-mdp
+description: "Skill: cpa-mdp"
+license: MIT
+tags: [general]
+---
+
 # az mdp
 
 ```bash

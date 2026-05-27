@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-return-processing-sla
-role: returns
+name: shopify-shopify-admin-return-processing-sla
 description: "Read-only: measures average time from return request to refund completion, surfacing SLA breaches."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - returns:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'returns': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

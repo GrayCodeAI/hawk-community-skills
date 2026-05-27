@@ -1,7 +1,8 @@
 ---
 name: error-handling-patterns
-description: Robust error handling patterns for TypeScript applications
+description: "Robust error handling patterns for TypeScript applications"
 license: MIT
+tags: [general]
 compatibility: typescript 5+, nodejs 18+
 allowed-tools: read_file write_file apply_patch search_with_context
 ---

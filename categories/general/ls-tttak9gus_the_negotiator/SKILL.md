@@ -1,3 +1,10 @@
+---
+name: ls-tttak9gus_the_negotiator
+description: "Skill: ls-tttak9gus_the_negotiator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator
 
 GPT Title: The Negotiator

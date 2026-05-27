@@ -1,7 +1,10 @@
 ---
-description: Defines the guidelines to be followed when updating documentation.
-globs: /docs/**/*.*
+name: mdc-documentation-rule
+description: "Defines the guidelines to be followed when updating documentation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 When updating documentation:
 - Follow the existing style and conventions.
 - Ensure all updates are accurate and reflect the current state of the code.

@@ -1,7 +1,9 @@
 ---
-description: shadcn/ui 组件库使用规则和最佳实践
-globs: **/*.tsx,**/*.ts,**/*.jsx
-alwaysApply: false
+name: extra-shadcn
+description: "shadcn/ui 组件库使用规则和最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # shadcn/ui 规则

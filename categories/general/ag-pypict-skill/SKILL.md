@@ -1,9 +1,11 @@
 ---
-name: pypict-skill
+name: ag-pypict-skill
 description: "Pairwise test generation"
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md"
-date_added: "2026-02-27"
+source: https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md
+date_added: 2026-02-27
 ---
 
 # Pypict Skill

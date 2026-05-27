@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and patterns for building Model Context Protocol (MCP) servers in Java using the official MCP Java SDK with reactive streams and Spring integration.'
-applyTo: "**/*.java, **/pom.xml, **/build.gradle, **/build.gradle.kts"
+name: ghcp-instructions-java-mcp-server.instructions
+description: "Skill: ghcp-instructions-java-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Java MCP Server Development Guidelines

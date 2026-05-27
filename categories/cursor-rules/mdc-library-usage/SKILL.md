@@ -1,7 +1,10 @@
 ---
-description: Provides guidelines for effective utilization of specific libraries within the project, including axios, js-yaml, mime-types, node-gyp, uuid, and zod.
-globs: **/*.ts
+name: mdc-library-usage
+description: "Provides guidelines for effective utilization of specific libraries within the project, including axios, js-yaml, mime-types, node-gyp, uuid, and zod."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Utilize the following libraries effectively:
   - axios (^1.7.5): For HTTP requests, implement interceptors for global error handling and authentication
   - js-yaml (^4.1.0): For parsing and stringifying YAML, use type-safe schemas

@@ -1,8 +1,10 @@
 ---
-name: typless-automation
+name: composio-typless-automation
 description: "Automate Typless tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Typless Automation via Rube MCP

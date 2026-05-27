@@ -1,10 +1,12 @@
 ---
-name: ecommerce-branding
+name: ecom-ecommerce-branding
 description: "Build and strengthen your e-commerce brand identity. Brand positioning, messaging, visual identity guidelines, and brand consistency across sales channels and marketing touchpoints."
-metadata:
-  nexscope:
-    emoji: "🎨"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🎨
+category: ecommerce
 ---
 
 # E-Commerce Branding 🎨

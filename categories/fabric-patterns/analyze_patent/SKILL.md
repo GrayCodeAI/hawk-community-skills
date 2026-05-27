@@ -1,9 +1,10 @@
 ---
 name: analyze_patent
-description: Fabric pattern - analyze_patent
-domain: general
+description: "Fabric pattern - analyze_patent"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

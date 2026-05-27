@@ -1,3 +1,10 @@
+---
+name: ghcp-references-repos-and-prs
+description: "Skill: ghcp-references-repos-and-prs"
+license: MIT
+tags: [general]
+---
+
 # Repositories & Pull Requests
 
 ## Table of Contents

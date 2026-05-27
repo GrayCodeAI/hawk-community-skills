@@ -1,16 +1,11 @@
 ---
 name: cursor-electron
-description: Cursor IDE rules for electron
-domain: engineering
+description: "Cursor IDE rules for electron"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Electron: IPC, main/renderer, security best practices"
-globs: ["*.ts", "*.js", "*.tsx"]
-alwaysApply: true
 ---
 
 # Electron Cursor Rules

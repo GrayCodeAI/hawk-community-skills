@@ -1,7 +1,10 @@
 ---
-description: Rules related to managing requests and implementing state transitions
-globs: /requests/**/*.*
+name: mdc-request-state-transitions
+description: "Rules related to managing requests and implementing state transitions"
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Limit Requests to 3 per User per Pool
 - Track Requests and Entries separately (numbered 1, 2, 3)
 - Implement payment status tracking in Request model

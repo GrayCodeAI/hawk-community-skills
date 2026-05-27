@@ -1,9 +1,11 @@
 ---
-name: distributed-tracing
+name: ag-distributed-tracing
 description: "Implement distributed tracing with Jaeger and Tempo for request flow visibility across microservices."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Distributed Tracing

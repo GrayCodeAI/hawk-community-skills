@@ -1,7 +1,9 @@
 ---
-name: graphql-architect
-description: GraphQL schema design, resolver implementation, federation, and performance optimization with DataLoader
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-graphql-architect
+description: "GraphQL schema design, resolver implementation, federation, and performance optimization with DataLoader"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

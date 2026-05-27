@@ -1,3 +1,10 @@
+---
+name: cpa-stack
+description: "Skill: cpa-stack"
+license: MIT
+tags: [general]
+---
+
 # az stack
 
 ```bash

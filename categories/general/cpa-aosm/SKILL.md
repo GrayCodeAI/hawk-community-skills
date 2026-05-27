@@ -1,3 +1,10 @@
+---
+name: cpa-aosm
+description: "Skill: cpa-aosm"
+license: MIT
+tags: [general]
+---
+
 # az aosm
 
 ```bash

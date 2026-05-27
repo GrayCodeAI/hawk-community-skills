@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for developing with LLVM, focusing on code quality, performance, and robust testing using modern tools like LIT and TableGen.
-globs: **/*
+name: mdc-llvm
+description: "This guide provides definitive, actionable best practices for developing with LLVM, focusing on code quality, performance, and robust testing using modern tools like LIT and TableGen."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # llvm Best Practices
 
 Developing for LLVM requires adherence to specific patterns and standards to maintain consistency, performance, and testability across a massive codebase. This guide outlines critical best practices for our team.

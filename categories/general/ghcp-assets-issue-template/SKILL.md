@@ -1,3 +1,10 @@
+---
+name: ghcp-assets-issue-template
+description: "Skill: ghcp-assets-issue-template"
+license: MIT
+tags: [general]
+---
+
 # <!-- Provide a concise, descriptive title for the issue -->
 
 ## Summary

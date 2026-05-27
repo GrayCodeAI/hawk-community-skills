@@ -1,3 +1,10 @@
+---
+name: glfr-monitoring
+description: "Skill: glfr-monitoring"
+license: MIT
+tags: [general]
+---
+
 # Monitoring
 
 ## Logging Standards

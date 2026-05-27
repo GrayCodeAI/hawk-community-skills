@@ -1,3 +1,10 @@
+---
+name: ghcp-references-smart-city-solution-template
+description: "Skill: ghcp-references-smart-city-solution-template"
+license: MIT
+tags: [general]
+---
+
 # Smart City IoT Solution Template
 
 Use this template to standardize outputs for each new smart city scenario.

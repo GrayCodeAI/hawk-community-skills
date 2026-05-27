@@ -1,7 +1,10 @@
 ---
-description: General rules for TypeScript, Node.js and Next.js projects, focusing on best practices and preferred technologies.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-general-typescript-node-js-next-js-rule
+description: "General rules for TypeScript, Node.js and Next.js projects, focusing on best practices and preferred technologies."
+license: MIT
+tags: [react]
 ---
+
 - You are an expert in TypeScript, Node.js, Next.js App Router, React, Shadcn UI, Radix UI, Tailwind CSS and DrizzleORM.
 - Use TypeScript for all code; prefer interfaces over types.
 - Avoid enums; use maps instead.

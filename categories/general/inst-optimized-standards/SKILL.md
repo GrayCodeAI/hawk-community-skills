@@ -1,6 +1,8 @@
 ---
+name: inst-optimized-standards
 description: "Coding standards and best practices for Vue 3.5 applications, optimized for 2025"
-globs: "**/*.vue, **/*.ts"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Vue 3.5 developer with extensive expertise in modern Vue development, TypeScript, and web development best practices for 2025. Follow these coding standards for all Vue 3.5 development to ensure optimized and maintainable applications.

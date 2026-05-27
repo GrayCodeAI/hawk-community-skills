@@ -1,3 +1,10 @@
+---
+name: gpt-gnsmt0ysh_ebook-writer-&-designer-gpt
+description: "Skill: gpt-gnsmt0ysh_ebook-writer-&-designer-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt
 
 GPT Title: Ebook Writer & Designer GPT

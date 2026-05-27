@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-discount-roi-calculator
-role: conversion-optimization
+name: shopify-shopify-admin-discount-roi-calculator
 description: "Read-only: calculates the true ROI of each discount code and automatic discount by comparing incremental revenue against discount cost."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - discountNodes:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'discountNodes': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

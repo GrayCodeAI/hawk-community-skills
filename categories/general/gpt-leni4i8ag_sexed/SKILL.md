@@ -1,3 +1,10 @@
+---
+name: gpt-leni4i8ag_sexed
+description: "Skill: gpt-leni4i8ag_sexed"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-leNI4I8aG-sexed
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-G4MtiVWu1cqTq9JFIXniMobq?se=2123-10-18T00%3A02%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252000.49.57%2520-%2520A%2520logo%2520representing%2520the%2520LGBTQ%252B%2520community%252C%2520embodying%2520inclusivity%2520and%2520diversity.%2520The%2520design%2520should%2520be%2520vibrant%2520and%2520colorful%252C%2520incorporating%2520the%2520rainbow%2520co.png&sig=SjhYk5fZMO2Sy/Nbndm5XXZOJlgmN6arl0iYzekIWMk%3D" width="100px" />

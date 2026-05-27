@@ -1,3 +1,10 @@
+---
+name: gpt-qf60vcwcr_income_stream_surfers_seo_content_writer
+description: "Skill: gpt-qf60vcwcr_income_stream_surfers_seo_content_writer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Qf60vcWcr-income-stream-surfer-s-seo-content-writer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-10SgVdlnZRmCUvF7Mu2CxIsd?se=2123-10-20T22%3A16%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6ca8b8ca-9799-4d90-b543-6d2a29ee8808.png&sig=pSxYchaQlJz25ykTYyrOcGWxYxO6P1LQj1/nbusXIUw%3D" width="100px" />

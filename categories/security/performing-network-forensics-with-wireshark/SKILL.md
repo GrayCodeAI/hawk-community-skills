@@ -1,12 +1,12 @@
 ---
 name: performing-network-forensics-with-wireshark
-description: Capture and analyze network traffic using Wireshark and tshark to reconstruct network events, extract artifacts, and identify malicious communications.
+description: "Capture and analyze network traffic using Wireshark and tshark to reconstruct network events, extract artifacts, and identify malicious communications."
+license: MIT
+tags: [forensics, network-forensics, wireshark, pcap, packet-analysis, traffic-analysis]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, network-forensics, wireshark, pcap, packet-analysis, traffic-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Network Forensics with Wireshark

@@ -1,7 +1,9 @@
 ---
-description: Enforce consistent folder structure for clarity
-globs: 
-alwaysApply: true
+name: blef-003-file-structure
+description: "Enforce consistent folder structure for clarity"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # File Structure Standards

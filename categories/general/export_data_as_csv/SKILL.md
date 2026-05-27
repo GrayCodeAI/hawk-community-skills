@@ -1,9 +1,10 @@
 ---
 name: export_data_as_csv
-description: Fabric pattern - export_data_as_csv
-domain: general
+description: "Fabric pattern - export_data_as_csv"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

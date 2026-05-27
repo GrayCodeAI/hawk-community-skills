@@ -1,18 +1,14 @@
 ---
-name: database-redis
-description: Optimize Redis caching, key management, and performance. Use when implementing Redis caching strategies, managing key namespaces, or optimizing Redis performance.
-metadata:
-  triggers:
-    files:
-    - '**/*.ts'
-    - '**/*.js'
-    - '**/redis.config.ts'
-    keywords:
-    - redis
-    - cache
-    - ttl
-    - eviction
+name: std-database-redis
+description: "Optimize Redis caching, key management, and performance. Use when implementing Redis caching strategies, managing key namespaces, or optimizing Redis performance."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Redis Best Practices
 
 ## **Priority: P0 (CRITICAL)**

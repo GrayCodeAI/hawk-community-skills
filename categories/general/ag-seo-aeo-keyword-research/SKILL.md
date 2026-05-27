@@ -1,9 +1,11 @@
 ---
-name: seo-aeo-keyword-research
-description: "Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms, or build a keyword strategy."
+name: ag-seo-aeo-keyword-research
+description: "Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms,..."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-04-01"
+date_added: 2026-04-01
 ---
 
 # SEO-AEO Keyword Research

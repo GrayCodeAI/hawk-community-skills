@@ -1,7 +1,9 @@
 ---
-name: adr-review
-description: Review code changes against accepted ADRs for compliance violations
-argument-hint: "[--branch BRANCH]"
+name: flow-adr-review
+description: "Review code changes against accepted ADRs for compliance violations"
+license: MIT
+tags: [general]
+argument-hint: [--branch BRANCH]
 allowed-tools: mcp__claude-flow__agentdb_hierarchical-query mcp__claude-flow__agentdb_causal-query mcp__claude-flow__memory_search Bash Read Grep Glob
 ---
 

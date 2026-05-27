@@ -1,16 +1,14 @@
 ---
-name: php-tooling
-description: Configure PHP ecosystem tooling, dependency management, and static analysis. Use when managing Composer dependencies, running PHPStan, or configuring PHP build tools.
-metadata:
-  triggers:
-    files:
-    - 'composer.json'
-    keywords:
-    - composer
-    - lock
-    - phpstan
-    - xdebug
+name: std-php-tooling
+description: "Configure PHP ecosystem tooling, dependency management, and static analysis. Use when managing Composer dependencies, running PHPStan, or configuring PHP build tools."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PHP Tooling
 
 ## **Priority: P2 (MEDIUM)**

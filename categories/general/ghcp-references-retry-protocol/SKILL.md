@@ -1,3 +1,10 @@
+---
+name: ghcp-references-retry-protocol
+description: "Skill: ghcp-references-retry-protocol"
+license: MIT
+tags: [general]
+---
+
 # Retry Protocol
 
 On tool failure or empty results:

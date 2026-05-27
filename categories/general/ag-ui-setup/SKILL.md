@@ -1,14 +1,15 @@
 ---
-name: ui-setup
+name: ag-ui-setup
 description: "Interactive StyleSeed setup wizard for choosing app type, brand color, visual style, typography, and the first screen scaffold."
+license: MIT
+tags: [ui, design-system, setup, frontend, styleseed]
 category: design
 risk: safe
 source: community
 source_repo: bitjaru/styleseed
 source_type: community
-date_added: "2026-04-08"
+date_added: 2026-04-08
 author: bitjaru
-tags: [ui, design-system, setup, frontend, styleseed]
 tools: [claude, cursor, codex, gemini]
 ---
 

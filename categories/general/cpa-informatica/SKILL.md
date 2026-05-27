@@ -1,3 +1,10 @@
+---
+name: cpa-informatica
+description: "Skill: cpa-informatica"
+license: MIT
+tags: [general]
+---
+
 # az informatica
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-1r3w57lss_vulkan_advisor
+description: "Skill: ls-1r3w57lss_vulkan_advisor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1r3w57lss-vulkan-advisor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RjgDrr3iYONNhyr0iIfh8yJm?se=2124-01-23T08%3A53%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D04985457-3468-40a0-99c1-d184aa985972.png&sig=fNrrtL0Ih5JFSWUjwOqikxGU1gMtn6CoNeCPsE0umPs%3D" width="100px" />

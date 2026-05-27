@@ -1,3 +1,10 @@
+---
+name: cpa-sessionpool
+description: "Skill: cpa-sessionpool"
+license: MIT
+tags: [general]
+---
+
 # az containerapp sessionpool
 
 ```bash

@@ -1,17 +1,8 @@
 ---
-name: rspec-skill
-description: >
-  Generates RSpec tests in Ruby with describe/context/it blocks, matchers,
-  let/before hooks, and mocking. Use when user mentions "RSpec", "describe do",
-  "expect().to", "Ruby test". Triggers on: "RSpec", "expect().to eq()",
-  "describe do", "Ruby test", "spec file".
-languages:
-  - Ruby
-category: unit-testing
+name: lt-rspec-skill
+description: "Skill: lt-rspec-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # RSpec Testing Skill

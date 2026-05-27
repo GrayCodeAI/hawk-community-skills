@@ -1,3 +1,10 @@
+---
+name: rb-implementation_design_support_flexible_r
+description: "Skill: rb-implementation_design_support_flexible_r"
+license: MIT
+tags: [general]
+---
+
 # Implementation Design: Rulebook-AI CLI
 
 ## 1. High-Level Goal & Architecture

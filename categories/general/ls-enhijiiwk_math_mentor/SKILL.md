@@ -1,3 +1,10 @@
+---
+name: ls-enhijiiwk_math_mentor
+description: "Skill: ls-enhijiiwk_math_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ENhijiiwK-math-mentor
 
 GPT Title: Math Mentor

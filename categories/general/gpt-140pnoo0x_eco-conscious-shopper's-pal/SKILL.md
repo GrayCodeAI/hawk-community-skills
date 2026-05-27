@@ -1,3 +1,10 @@
+---
+name: gpt-140pnoo0x_eco-conscious-shopper's-pal
+description: "Skill: gpt-140pnoo0x_eco-conscious-shopper's-pal"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-140PNOO0X-eco-conscious-shopper-s-pal/
 
 GPT Title: Eco-Conscious Shopper's Pal

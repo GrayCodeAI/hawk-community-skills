@@ -1,3 +1,10 @@
+---
+name: cpa-compute-fleet
+description: "Skill: cpa-compute-fleet"
+license: MIT
+tags: [general]
+---
+
 # az compute-fleet
 
 ```bash

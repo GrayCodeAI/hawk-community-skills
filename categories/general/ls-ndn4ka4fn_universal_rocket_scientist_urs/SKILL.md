@@ -1,3 +1,10 @@
+---
+name: ls-ndn4ka4fn_universal_rocket_scientist_urs
+description: "Skill: ls-ndn4ka4fn_universal_rocket_scientist_urs"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nDn4ka4fn-universal-rocket-scientist-urs
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xxgQtSqt71ISgvWcfmaIiE4t?se=2124-01-09T15%3A02%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbd146dfd-f884-4ba4-9c26-f257efce8cc0.png&sig=e2Egyz5/%2BxhdIvfZ8M7XYOt9EXIJk6f367FEJFXI2%2Bs%3D" width="100px" />

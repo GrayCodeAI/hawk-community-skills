@@ -1,8 +1,10 @@
 ---
-name: v0-automation
+name: composio-v0-automation
 description: "Automate V0 tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # V0 Automation via Rube MCP

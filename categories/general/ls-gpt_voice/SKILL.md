@@ -1,3 +1,10 @@
+---
+name: ls-gpt_voice
+description: "Skill: ls-gpt_voice"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 
 You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture. 

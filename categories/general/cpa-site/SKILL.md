@@ -1,3 +1,10 @@
+---
+name: cpa-site
+description: "Skill: cpa-site"
+license: MIT
+tags: [general]
+---
+
 # az site
 
 ```bash

@@ -1,8 +1,10 @@
 ---
-name: serpapi-automation
+name: composio-serpapi-automation
 description: "Automate Serpapi tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Serpapi Automation via Rube MCP

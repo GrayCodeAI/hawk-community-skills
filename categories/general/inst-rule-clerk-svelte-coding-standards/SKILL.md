@@ -1,6 +1,8 @@
 ---
-description: Coding Standards and Rules for using Clerk with SvelteKit
-globs: **/*.svelte, **/*.ts, **/*.js
+name: inst-rule-clerk-svelte-coding-standards
+description: "Coding Standards and Rules for using Clerk with SvelteKit"
+license: MIT
+tags: [general]
 ---
 
 You are a senior SvelteKit developer with expertise in Clerk authentication integration.
@@ -51,4 +53,4 @@ You are a senior SvelteKit developer with expertise in Clerk authentication inte
 - Use TypeScript for type safety in authentication logic
 - Follow SvelteKit conventions for authentication integration
 - Implement proper development environment configuration
-- Use proper debugging tools for authentication flows 
+- Use proper debugging tools for authentication flows

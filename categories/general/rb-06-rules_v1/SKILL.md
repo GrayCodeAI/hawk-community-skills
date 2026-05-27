@@ -1,3 +1,10 @@
+---
+name: rb-06-rules_v1
+description: "Skill: rb-06-rules_v1"
+license: MIT
+tags: [general]
+---
+
 # AI Assistant - General Best Practices & Operating Principles
 
 **Preamble:**
@@ -138,4 +145,3 @@ Title: This is the title of the search result
 Snippet: This is a snippet of the search result
 ```
 If needed, you can further use the `web_scraper.py` file to scrape the web page content.
-

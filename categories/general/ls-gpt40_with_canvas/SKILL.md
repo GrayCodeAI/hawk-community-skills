@@ -1,3 +1,10 @@
+---
+name: ls-gpt40_with_canvas
+description: "Skill: ls-gpt40_with_canvas"
+license: MIT
+tags: [general]
+---
+
 inspired from [baoyu's Blog](https://baoyu.io/blog/prompt/full-prompt-chatgpt-4o-with-canvas) and [OpenAI's GPT-4 with Canvas](https://baoyu.io/blog/ai/reverse-engineering-openai-canvas-prompt-generation
 
 ```markdown

@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-address-correction
-role: customer-support
+name: shopify-shopify-admin-address-correction
 description: "Update the shipping address on an unfulfilled order before it ships."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - order:query
-  - orderUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'order': 'query'}, {'orderUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

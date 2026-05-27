@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_20240513
+description: "Skill: sys-perplexity.ai_20240513"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_20240513
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/34>

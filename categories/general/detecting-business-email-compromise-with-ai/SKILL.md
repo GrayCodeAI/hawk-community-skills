@@ -1,13 +1,14 @@
 ---
 name: detecting-business-email-compromise-with-ai
-description: Deploy AI and NLP-powered detection systems to identify business email compromise attacks by analyzing writing style, behavioral patterns, and contextual anomalies that evade traditional rule-based filters.
+description: "Deploy AI and NLP-powered detection systems to identify business email compromise attacks by analyzing writing style, behavioral patterns, and contextual anomalies that evade traditional rule-based..."
+license: MIT
+tags: [bec, ai, nlp, machine-learning, email-security, behavioral-analytics, impersonation, fraud-detection]
 domain: cybersecurity
 subdomain: phishing-defense
-tags: [bec, ai, nlp, machine-learning, email-security, behavioral-analytics, impersonation, fraud-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Detecting Business Email Compromise with AI
 
 ## Overview

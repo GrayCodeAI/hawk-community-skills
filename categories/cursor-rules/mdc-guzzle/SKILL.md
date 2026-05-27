@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Guzzle HTTP client in PHP, focusing on robust client configuration, effective middleware, PSR-18 interoperability, and testability.
-globs: **/*.php
+name: mdc-guzzle
+description: "Definitive guidelines for using Guzzle HTTP client in PHP, focusing on robust client configuration, effective middleware, PSR-18 interoperability, and testability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Guzzle Best Practices
 
 Guzzle is the de-facto PHP HTTP client. Use these rules to build robust, testable, and maintainable HTTP integrations.

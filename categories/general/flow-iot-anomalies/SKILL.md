@@ -1,9 +1,12 @@
 ---
-name: iot-anomalies
-description: Detect and classify telemetry anomalies on Cognitum Seed devices
+name: flow-iot-anomalies
+description: "Detect and classify telemetry anomalies on Cognitum Seed devices"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store Read
-argument-hint: "<device-id>"
+argument-hint: <device-id>
 ---
+
 Run Z-score anomaly detection on a device's recent telemetry.
 
 Steps:

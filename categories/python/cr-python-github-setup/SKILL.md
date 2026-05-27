@@ -1,9 +1,10 @@
 ---
 name: cr-python-github-setup
-description: Cursor rules for python-github-setup
-domain: engineering
+description: "Cursor rules for python-github-setup"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -162,4 +163,3 @@ author: PatrickJS/awesome-cursorrules
         "communication_tone": "Professional and concise"
     }
 }
-

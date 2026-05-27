@@ -1,9 +1,10 @@
 ---
 name: summarize_legislation
-description: Fabric pattern - summarize_legislation
-domain: general
+description: "Fabric pattern - summarize_legislation"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

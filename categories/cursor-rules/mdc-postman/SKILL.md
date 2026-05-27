@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for structuring, scripting, and testing APIs using Postman, ensuring maintainable, robust, and collaborative API workflows.
-globs: **/*
+name: mdc-postman
+description: "This guide defines definitive best practices for structuring, scripting, and testing APIs using Postman, ensuring maintainable, robust, and collaborative API workflows."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Postman Best Practices
 
 Postman is our definitive tool for API development, testing, and documentation. Adhering to these guidelines ensures consistency, maintainability, and reliability across all our API interactions.

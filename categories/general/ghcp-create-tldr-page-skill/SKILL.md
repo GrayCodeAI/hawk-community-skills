@@ -1,6 +1,8 @@
 ---
-name: create-tldr-page
-description: 'Create a tldr page from documentation URLs and command examples, requiring both URL and command name.'
+name: ghcp-create-tldr-page-skill
+description: "Create a tldr page from documentation URLs and command examples, requiring both URL and command name."
+license: MIT
+tags: [general]
 ---
 
 # Create TLDR Page

@@ -1,3 +1,10 @@
+---
+name: ls-krf9o5g1f_knowsf
+description: "Skill: ls-krf9o5g1f_knowsf"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KRF9o5G1f-knowsf
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-NRpvjBPq99wKtoLTpH4OvFda?se=2124-01-13T07%3A29%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ded78397f-e76f-442c-afa3-e881720df57c.png&sig=b52xTEZaVFi9exOlGbdNu3JN6cH0yJ99J/mS6WZXOBc%3D" width="100px" />

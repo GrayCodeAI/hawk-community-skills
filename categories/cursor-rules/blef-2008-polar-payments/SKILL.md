@@ -1,7 +1,9 @@
 ---
-description: Integrate Polar payments for checkout, subscriptions, and webhooks in ecommerce flows
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-2008-polar-payments
+description: "Integrate Polar payments for checkout, subscriptions, and webhooks in ecommerce flows"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Polar Payments Integration Rules

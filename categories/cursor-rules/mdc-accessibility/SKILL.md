@@ -1,7 +1,10 @@
 ---
-description: Rules for ensuring accessibility in Astro components, including semantic HTML and ARIA attributes.
-globs: src/**/*.*
+name: mdc-accessibility
+description: "Rules for ensuring accessibility in Astro components, including semantic HTML and ARIA attributes."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Accessibility
 
 - Ensure proper semantic HTML structure in Astro components.

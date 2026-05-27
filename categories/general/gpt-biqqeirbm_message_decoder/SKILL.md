@@ -1,3 +1,10 @@
+---
+name: gpt-biqqeirbm_message_decoder
+description: "Skill: gpt-biqqeirbm_message_decoder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-biqqeirbm-message-decoder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1RO34yhgu3fwbD334IZrsaGP?se=2124-01-01T17%3A01%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D30f58ba0-e66d-4ef1-a86a-4f60a83d49e4.png&sig=BYsqpZrrgtOwEv9N5NZDXcSf3TmsJBXzmyiwDlvKsQE%3D" width="100px" />

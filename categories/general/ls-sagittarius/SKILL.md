@@ -1,3 +1,10 @@
+---
+name: ls-sagittarius
+description: "Skill: ls-sagittarius"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/gregsadetsky/sagittarius
 
 Repo Description:

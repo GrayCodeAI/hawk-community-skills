@@ -1,16 +1,11 @@
 ---
 name: cursor-monitoring
-description: Cursor IDE rules for monitoring
-domain: engineering
+description: "Cursor IDE rules for monitoring"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Monitoring: metrics, alerting, SLOs, observability"
-globs: ["*.yaml", "*.ts", "*.py"]
-alwaysApply: true
 ---
 
 # Monitoring Cursor Rules

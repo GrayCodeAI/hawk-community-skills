@@ -1,3 +1,10 @@
+---
+name: cpa-cloudhsm
+description: "Skill: cpa-cloudhsm"
+license: MIT
+tags: [general]
+---
+
 # az cloudhsm
 
 ```bash

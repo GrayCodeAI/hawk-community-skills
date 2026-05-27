@@ -1,16 +1,11 @@
 ---
-name: quality-engineering-appium-mcp
-description: Drives iOS/Android mobile devices via Appium MCP. Use for verifying mobile bugs, E2E tests, and navigating real device clouds (LambdaTest/BrowserStack).
-metadata:
-  triggers:
-    keywords:
-    - appium
-    - mobile verify
-    - android verify
-    - ios verify
-    - lambdatest
-    - real device cloud
-    - flutter widget tap
+name: std-quality-engineering-appium-mcp
+description: "Drives iOS/Android mobile devices via Appium MCP. Use for verifying mobile bugs, E2E tests, and navigating real device clouds (LambdaTest/BrowserStack)."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 📱 Appium MCP (Mobile Automation)

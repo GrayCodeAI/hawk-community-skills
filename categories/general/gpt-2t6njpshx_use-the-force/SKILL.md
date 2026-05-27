@@ -1,3 +1,10 @@
+---
+name: gpt-2t6njpshx_use-the-force
+description: "Skill: gpt-2t6njpshx_use-the-force"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2T6nJPSHx-use-the-force/
 
 GPT Title: Use The Force

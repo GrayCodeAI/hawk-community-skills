@@ -1,9 +1,10 @@
 ---
 name: cr-pytorch-scikit-learn
-description: Cursor rules for pytorch-scikit-learn
-domain: engineering
+description: "Cursor rules for pytorch-scikit-learn"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -106,4 +107,3 @@ Note on Integration with Tauri Frontend:
 - Implement a clean API for the ML models to be consumed by the Flask backend.
 - Ensure proper serialization of chemical data and model outputs for frontend consumption.
 - Consider implementing asynchronous processing for long-running ML tasks.
-

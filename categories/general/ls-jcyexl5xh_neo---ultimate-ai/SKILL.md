@@ -1,3 +1,11 @@
+---
+name: ls-jcyexl5xh_neo---ultimate-ai
+description: 'Skill: ls-jcyexl5xh_neo---ultimate-ai'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-jCYeXl5xh-neo-ultimate-ai
 
 GPT Title: NEO - Ultimate AI

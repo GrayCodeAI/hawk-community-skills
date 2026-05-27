@@ -1,3 +1,10 @@
+---
+name: ls-i0wov8mac_guardpt_-_gpt_instruction_protector
+description: "Skill: ls-i0wov8mac_guardpt_-_gpt_instruction_protector"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-i0Wov8mAC-guardpt-gpt-instruction-protector
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9OETNdBZhGhNnp75TGSG68c6?se=2123-12-27T01%3A04%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dguardpt.png&sig=if3ILTMJALXsUuvdEP0CkFnMcguFohVbsbqdZAXcgXQ%3D" width="100px" />

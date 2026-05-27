@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Vue apps with Appwrite
-globs: **/*.ts, **/*.vue, **/*.js
+name: inst-setup-appwrite-vue
+description: "Guidelines for writing Vue apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vue app with Appwrite
@@ -256,4 +258,4 @@ const addItem = async () => {
 ## Additional Resources
 - [Appwrite Documentation](https://appwrite.io/docs)
 - [Vue Documentation](https://vuejs.org/)
-- [Appwrite Discord Community](https://discord.gg/appwrite) 
+- [Appwrite Discord Community](https://discord.gg/appwrite)

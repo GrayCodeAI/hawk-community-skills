@@ -1,3 +1,10 @@
+---
+name: gpt-deryxx7ra_coloring_book_hero
+description: "Skill: gpt-deryxx7ra_coloring_book_hero"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero
 
 GPT Title: Coloring Book Hero

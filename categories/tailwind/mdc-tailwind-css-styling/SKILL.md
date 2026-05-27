@@ -1,7 +1,10 @@
 ---
-description: Enforces the use of Tailwind CSS for styling with dynamic classes in Svelte components. This provides a consistent and efficient way to style components using utility classes.
-globs: **/*.svelte
+name: mdc-tailwind-css-styling
+description: "Enforces the use of Tailwind CSS for styling with dynamic classes in Svelte components. This provides a consistent and efficient way to style components using utility classes."
+license: MIT
+tags: [tailwind]
 ---
+
 - Styling
   - Use Tailwind CSS for styling
   - Utilize Tailwind's utility classes directly in the markup

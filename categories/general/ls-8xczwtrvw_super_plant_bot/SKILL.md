@@ -1,3 +1,10 @@
+---
+name: ls-8xczwtrvw_super_plant_bot
+description: "Skill: ls-8xczwtrvw_super_plant_bot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8XCZwTRVw-super-plant-bot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SbGyTqAbynK5yqflUrjFIhzE?se=2124-01-06T20%3A22%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dsuper-plant-bot.jpg&sig=R02DiMQ0sCry3gY6wiF4PrECls6Wl%2BMdfInjkyz5auE%3D" width="100px" />

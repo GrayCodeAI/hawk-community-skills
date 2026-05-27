@@ -1,17 +1,13 @@
 ---
 name: cursor-drizzle
-description: Cursor IDE rules for drizzle
-domain: engineering
+description: "Cursor IDE rules for drizzle"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: Drizzle ORM schema, queries, migrations, and type safety
-globs: **/db/**,**/schema/**,**/drizzle/**
-alwaysApply: false
----
 # Drizzle ORM Rules
 
 ## Schema

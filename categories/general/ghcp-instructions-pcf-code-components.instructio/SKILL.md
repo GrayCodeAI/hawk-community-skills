@@ -1,6 +1,8 @@
 ---
-description: 'Understanding code components structure and implementation'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-code-components.instructio
+description: "Skill: ghcp-instructions-pcf-code-components.instructio"
+license: MIT
+tags: [general]
 ---
 
 # Code Components

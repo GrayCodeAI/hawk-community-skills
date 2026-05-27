@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-high-risk-order-tagger
-role: order-intelligence
+name: shopify-shopify-admin-high-risk-order-tagger
 description: "Tags orders flagged as high-risk for manual review and optionally places fulfillment holds to prevent shipping."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - tagsAdd:mutation
-  - fulfillmentOrderHold:mutation
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'tagsAdd': 'mutation'}, {'fulfillmentOrderHold': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

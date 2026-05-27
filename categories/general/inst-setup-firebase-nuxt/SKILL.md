@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-nuxt
+description: "Skill: inst-setup-firebase-nuxt"
+license: MIT
+tags: [general]
+---
+
 # Firebase + Nuxt Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with Nuxt 3 using VueFire.
@@ -554,4 +561,4 @@ export default defineEventHandler(async (event) => {
 - [Nuxt 3 Documentation](https://nuxt.com/docs)
 - [VueFire Documentation](https://vuefire.vuejs.org/)
 - [Firebase Documentation](https://firebase.google.com/docs)
-- [Firebase Console](https://console.firebase.google.com/) 
+- [Firebase Console](https://console.firebase.google.com/)

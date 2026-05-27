@@ -1,3 +1,10 @@
+---
+name: ghcp-references-advanced-usage
+description: "Skill: ghcp-references-advanced-usage"
+license: MIT
+tags: [general]
+---
+
 # Advanced Usage: Output, Queries & Parameters
 
 ## Table of Contents

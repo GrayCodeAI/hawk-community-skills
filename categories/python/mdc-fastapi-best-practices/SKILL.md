@@ -1,7 +1,10 @@
 ---
-description: Enforces FastAPI best practices for application code within the 'app' directory, including data validation, dependency injection, and asynchronous operations.
-globs: app/**/*.*
+name: mdc-fastapi-best-practices
+description: "Enforces FastAPI best practices for application code within the 'app' directory, including data validation, dependency injection, and asynchronous operations."
+license: MIT
+tags: [python]
 ---
+
 - Use Pydantic models for request and response schemas
 - Implement dependency injection for shared resources
 - Utilize async/await for non-blocking operations

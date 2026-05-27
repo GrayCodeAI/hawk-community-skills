@@ -1,7 +1,9 @@
 ---
-description: Vue.js 编码规则和最佳实践
-globs: **/*.vue
-alwaysApply: false
+name: extra-vuejs
+description: "Vue.js 编码规则和最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Vue.js 规则

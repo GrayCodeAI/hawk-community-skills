@@ -1,3 +1,10 @@
+---
+name: gpt-gt6z8pqwf_doc-maker
+description: "Skill: gpt-gt6z8pqwf_doc-maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Gt6Z8pqWF-doc-maker
 
 GPT Title: Doc Maker
@@ -43,4 +50,3 @@ type multipage_create_empty_document = (_: {
 }) => any;
 
 ```
-

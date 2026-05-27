@@ -1,6 +1,8 @@
 ---
-description: 'Authoring recommendations for creating YAML based image definition files for use with Microsoft Dev Box Team Customizations'
-applyTo: '**/*.yaml'
+name: ghcp-instructions-devbox-image-definition.instru
+description: "Skill: ghcp-instructions-devbox-image-definition.instru"
+license: MIT
+tags: [general]
 ---
 
 # Dev Box image definitions

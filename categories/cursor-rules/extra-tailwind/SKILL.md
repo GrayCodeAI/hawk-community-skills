@@ -1,7 +1,9 @@
 ---
-description: Tailwind CSS 编码规则和最佳实践
-globs: **/*.tsx,**/*.ts,**/*.jsx,**/*.css
-alwaysApply: false
+name: extra-tailwind
+description: "Tailwind CSS 编码规则和最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Tailwind CSS 规则

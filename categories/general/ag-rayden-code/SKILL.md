@@ -1,13 +1,14 @@
 ---
-name: rayden-code
-description: Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns
+name: ag-rayden-code
+description: "Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns"
+license: MIT
+tags: [react, tailwind, design-system, ui, components, vibe-coding, rayden, rayna-ui, code-generation]
 category: development
 risk: safe
 source: https://github.com/playbookTV/rayden-ui-design-skill
 source_type: community
 date_added: 2026-04-10
 author: Leslie Williams
-tags: react, tailwind, design-system, ui, components, vibe-coding, rayden, rayna-ui, code-generation
 tools: Read, Write, Edit, Bash, Glob, Grep
 ---
 

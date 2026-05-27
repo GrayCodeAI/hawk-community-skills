@@ -1,9 +1,10 @@
 ---
 name: persona-book-club-host
-description: AI persona - book-club-host
-domain: general
+description: "AI persona - book-club-host"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

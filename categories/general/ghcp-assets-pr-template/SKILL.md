@@ -1,3 +1,10 @@
+---
+name: ghcp-assets-pr-template
+description: "Skill: ghcp-assets-pr-template"
+license: MIT
+tags: [general]
+---
+
 # <!-- Provide a concise, descriptive title for the pull request -->
 
 ## Summary

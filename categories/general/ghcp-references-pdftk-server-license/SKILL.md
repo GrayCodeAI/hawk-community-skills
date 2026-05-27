@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pdftk-server-license
+description: "Skill: ghcp-references-pdftk-server-license"
+license: MIT
+tags: [general]
+---
+
 # PDFtk Server License
 
 PDFtk Server can be used at no charge under its GPL license.

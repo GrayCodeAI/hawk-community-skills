@@ -1,16 +1,14 @@
 ---
 name: performing-arp-spoofing-attack-simulation
-description: >
-  Simulates ARP spoofing attacks in authorized lab or pentest environments using
-  arpspoof, Ettercap, and Scapy to demonstrate man-in-the-middle risks, test network
-  detection capabilities, and validate ARP inspection countermeasures.
+description: "Simulates ARP spoofing attacks in authorized lab or pentest environments using arpspoof, Ettercap, and Scapy to demonstrate man-in-the-middle risks, test network detection capabilities, and validat..."
+license: MIT
+tags: [network-security, arp-spoofing, mitm, ettercap, layer2-attack]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, arp-spoofing, mitm, ettercap, layer2-attack]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing ARP Spoofing Attack Simulation
 
 ## When to Use

@@ -1,7 +1,10 @@
 ---
-description: General Python and Django rules, focusing on coding style, error handling, and Django conventions across the project.
-globs: **/*.py
+name: mdc-python-django-general
+description: "General Python and Django rules, focusing on coding style, error handling, and Django conventions across the project."
+license: MIT
+tags: [python]
 ---
+
 - You are an expert in Python, Django, and scalable web application development.
 - Write clear, technical responses with precise Django examples.
 - Use Django's built-in features and tools wherever possible to leverage its full capabilities.

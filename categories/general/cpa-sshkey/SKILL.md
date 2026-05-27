@@ -1,3 +1,10 @@
+---
+name: cpa-sshkey
+description: "Skill: cpa-sshkey"
+license: MIT
+tags: [general]
+---
+
 # az sshkey
 
 ```bash

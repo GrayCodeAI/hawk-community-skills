@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing vanilla JavaScript apps with Better Auth Authentication
-globs: "**/*.html, **/*.js"
+name: inst-setup-better-auth-javascript
+description: "Guidelines for writing vanilla JavaScript apps with Better Auth Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vanilla JavaScript App with Better Auth Authentication
@@ -300,4 +302,4 @@ async function initAuth() {
 7. Use environment variables for configuration
 8. Never store sensitive auth data in localStorage or cookies
 9. Always handle auth state changes using Better Auth's methods
-10. Keep the Better Auth client up to date for security patches and new features 
+10. Keep the Better Auth client up to date for security patches and new features

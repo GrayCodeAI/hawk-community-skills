@@ -1,7 +1,10 @@
 ---
-description: Defines UI and styling conventions using Tailwind CSS and Shadcn components, emphasizing utility-first styling and reusable UI elements.
-globs: **/*.svelte
+name: mdc-tailwind-css-and-shadcn-ui-conventions
+description: "Defines UI and styling conventions using Tailwind CSS and Shadcn components, emphasizing utility-first styling and reusable UI elements."
+license: MIT
+tags: [tailwind]
 ---
+
 - Use Tailwind CSS for utility-first styling approach.
 - Leverage Shadcn components for pre-built, customizable UI elements.
 - Import Shadcn components from `$lib/components/ui`.

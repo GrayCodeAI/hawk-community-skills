@@ -1,3 +1,10 @@
+---
+name: agc-adr-format
+description: "Skill: agc-adr-format"
+license: MIT
+tags: [general]
+---
+
 # ADR Format
 
 ADRs live in `docs/adr/` and use sequential numbering: `0001-slug.md`, `0002-slug.md`, etc.

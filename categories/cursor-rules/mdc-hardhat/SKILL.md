@@ -1,7 +1,10 @@
 ---
-description: Ensure Hardhat projects follow modern best practices for configuration, testing, deployment, and security using TypeScript and Hardhat 3's Rust runtime.
-globs: **/*.{js,jsx}
+name: mdc-hardhat
+description: "Ensure Hardhat projects follow modern best practices for configuration, testing, deployment, and security using TypeScript and Hardhat 3's Rust runtime."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # hardhat Best Practices
 
 Hardhat 3 is the definitive standard for Ethereum development. These rules enforce a modern, secure, and efficient workflow leveraging its Rust runtime, TypeScript support, and robust testing tools.

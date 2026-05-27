@@ -1,8 +1,10 @@
 ---
-name: sevdesk-automation
+name: composio-sevdesk-automation
 description: "Automate Sevdesk tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Sevdesk Automation via Rube MCP

@@ -1,8 +1,10 @@
 ---
+name: ghcp-agents-power-bi-dax-expert.agent
 description: "Expert Power BI DAX guidance using Microsoft best practices for performance, readability, and maintainability of DAX formulas and calculations."
-name: "Power BI DAX Expert Mode"
-model: "gpt-4.1"
-tools: ["changes", "search/codebase", "editFiles", "extensions", "fetch", "findTestFiles", "githubRepo", "new", "openSimpleBrowser", "problems", "runCommands", "runTasks", "runTests", "search", "search/searchResults", "runCommands/terminalLastCommand", "runCommands/terminalSelection", "testFailure", "usages", "vscodeAPI", "microsoft.docs.mcp"]
+license: MIT
+tags: [general]
+model: gpt-4.1
+tools: [changes, search/codebase, editFiles, extensions, fetch, findTestFiles, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, runTests, search, search/searchResults, runCommands/terminalLastCommand, runCommands/terminalSelection, testFailure, usages, vscodeAPI, microsoft.docs.mcp]
 ---
 
 # Power BI DAX Expert Mode

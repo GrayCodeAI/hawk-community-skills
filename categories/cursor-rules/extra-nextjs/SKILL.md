@@ -1,7 +1,9 @@
 ---
-description: Next.js 全栈开发的约定和最佳实践
-globs: *.tsx,*.ts
-alwaysApply: false
+name: extra-nextjs
+description: "Next.js 全栈开发的约定和最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Next.js 16 开发规则和最佳实践

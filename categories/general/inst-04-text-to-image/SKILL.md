@@ -1,6 +1,8 @@
 ---
-description: Guidelines for building text-to-image generation in Next.js 15
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-04-text-to-image
+description: "Guidelines for building text-to-image generation in Next.js 15"
+license: MIT
+tags: [general]
 ---
 
 # Implement Text-to-Image Generation Page

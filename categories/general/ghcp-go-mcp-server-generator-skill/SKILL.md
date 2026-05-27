@@ -1,6 +1,8 @@
 ---
-name: go-mcp-server-generator
-description: 'Generate a complete Go MCP server project with proper structure, dependencies, and implementation using the official github.com/modelcontextprotocol/go-sdk.'
+name: ghcp-go-mcp-server-generator-skill
+description: "Generate a complete Go MCP server project with proper structure, dependencies, and implementation using the official github.com/modelcontextprotocol/go-sdk."
+license: MIT
+tags: [general]
 ---
 
 # Go MCP Server Project Generator

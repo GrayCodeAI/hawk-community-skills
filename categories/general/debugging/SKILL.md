@@ -1,12 +1,12 @@
 ---
 name: debugging
-description: Systematically debug code issues using proven methodologies. Use when encountering errors, unexpected behavior, or performance problems. Handles error analysis, root cause identification, debugging strategies, and fix verification.
+description: "Systematically debug code issues using proven methodologies. Use when encountering errors, unexpected behavior, or performance problems. Handles error analysis, root cause identification, debugging..."
+license: MIT
+tags: [debugging, troubleshooting, error-analysis, bug-fixing, problem-solving]
 allowed-tools: Read Grep Glob Bash
-metadata:
-  tags: debugging, troubleshooting, error-analysis, bug-fixing, problem-solving
-  platforms: Claude, ChatGPT, Gemini
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Debugging
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Vue apps with Supabase Auth
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-setup-supabase-vue
+description: "Guidelines for writing Vue apps with Supabase Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vue app with Supabase Auth
@@ -189,4 +191,4 @@ When implementing Supabase Auth for Vue, you MUST:
 2. Implement proper error handling
 3. Follow Vue 3 Composition API patterns
 4. Configure secure session management
-5. Handle environment variables properly 
+5. Handle environment variables properly

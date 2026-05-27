@@ -1,15 +1,12 @@
 ---
 name: implementing-privileged-session-monitoring
-description: >
-  Monitor and audit privileged user sessions including SSH, RDP, and
-  database access. Tracks session metadata, records commands, detects
-  anomalous activity, and enforces session policies for PAM compliance.
+description: "Monitor and audit privileged user sessions including SSH, RDP, and database access. Tracks session metadata, records commands, detects anomalous activity, and enforces session policies for PAM comp..."
+license: MIT
+tags: [pam, session-monitoring, privileged-access, audit-logging]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [pam, session-monitoring, privileged-access, audit-logging]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Privileged Session Monitoring

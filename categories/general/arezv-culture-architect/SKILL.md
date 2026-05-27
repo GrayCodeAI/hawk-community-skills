@@ -1,14 +1,15 @@
 ---
-name: "culture-architect"
-description: "Build, measure, and evolve company culture as operational behavior — not wall posters. Covers mission/vision/values workshops, values-to-behaviors translation, culture code creation, culture health assessment, and cultural rituals by stage. Use when building company values, assessing culture health, designing cultural rituals, creating culture codes, handling culture clashes, or when user mentions culture, values, culture debt, founder culture, or culture code."
+name: arezv-culture-architect
+description: "Build, measure, and evolve company culture as operational behavior — not wall posters. Covers mission/vision/values workshops, values-to-behaviors translation, culture code creation, culture health..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: culture-leadership
-  updated: 2026-03-05
-  frameworks: culture-playbook, culture-code-template
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: culture-leadership
+updated: 2026-03-05
+frameworks: culture-playbook, culture-code-template
 ---
 
 # Culture Architect

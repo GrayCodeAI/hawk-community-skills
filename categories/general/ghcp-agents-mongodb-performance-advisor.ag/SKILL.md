@@ -1,6 +1,8 @@
 ---
-name: mongodb-performance-advisor
-description: Analyze MongoDB database performance, offer query and index optimization insights and provide actionable recommendations to improve overall usage of the database.
+name: ghcp-agents-mongodb-performance-advisor.ag
+description: "Analyze MongoDB database performance, offer query and index optimization insights and provide actionable recommendations to improve overall usage of the database."
+license: MIT
+tags: [general]
 ---
 
 # Role

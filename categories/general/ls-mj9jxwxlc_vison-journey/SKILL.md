@@ -1,3 +1,10 @@
+---
+name: ls-mj9jxwxlc_vison-journey
+description: "Skill: ls-mj9jxwxlc_vison-journey"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MJ9Jxwxlc-vison-journey
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-s4v02AO7h2N1ciNAelcku2GB?se=2124-01-19T08%3A01%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_5308.webp&sig=yt%2BPll2F%2BXPZSes6xAjVEUlXPwUoP74o2l3wG7Zf6GY%3D" width="100px" />

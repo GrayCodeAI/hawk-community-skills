@@ -1,3 +1,10 @@
+---
+name: cpa-terraform.instructions
+description: "Skill: cpa-terraform.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this Terraform project. The goal is to ensure consistent, secure, and modular infrastructure aligned with our conventions, cloud platform, and Terraform best practices.

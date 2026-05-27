@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-refund-rate-analysis
-role: finance
+name: shopify-shopify-admin-refund-rate-analysis
 description: "Read-only: calculates refund rate by product, collection, or period — identifies quality and listing issues."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

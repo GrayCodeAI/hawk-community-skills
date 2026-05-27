@@ -1,9 +1,10 @@
 ---
 name: cr-sveltekit-typescript-guide
-description: Cursor rules for sveltekit-typescript-guide
-domain: engineering
+description: "Cursor rules for sveltekit-typescript-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -38,4 +39,3 @@ class Counter {
   }
 }
 export const counter = new Counter();
-

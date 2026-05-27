@@ -1,7 +1,8 @@
 ---
-name: clerk-auth
-description: Expert patterns for Clerk auth implementation, middleware,
-  organizations, webhooks, and user sync
+name: ag-clerk-auth
+description: "Expert patterns for Clerk auth implementation, middleware,"
+license: MIT
+tags: [general]
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

@@ -1,7 +1,10 @@
 ---
-description: General rules for Elixir code, acting as an expert senior Elixir engineer with specific stack knowledge and coding considerations.
-globs: **/*.{ex,exs,eex,leex}
+name: mdc-elixir-general-engineering-rule
+description: "General rules for Elixir code, acting as an expert senior Elixir engineer with specific stack knowledge and coding considerations."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Act as an expert senior Elixir engineer.
 
 Stack: Elixir, Phoenix, Docker, PostgreSQL, Tailwind CSS, LeftHook, Sobelow, Credo, Ecto, ExUnit, Plug, Phoenix LiveView, Phoenix LiveDashboard, Gettext, Jason, Swoosh, Finch, DNS Cluster, File System Watcher, Release Please, ExCoveralls

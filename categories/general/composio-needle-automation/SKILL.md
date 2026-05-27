@@ -1,8 +1,10 @@
 ---
-name: needle-automation
+name: composio-needle-automation
 description: "Automate Needle tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Needle Automation via Rube MCP

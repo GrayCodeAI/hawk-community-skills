@@ -1,6 +1,8 @@
 ---
-applyTo: '**/*.Tests.ps1'
-description: 'PowerShell Pester testing best practices based on Pester v5 conventions'
+name: ghcp-instructions-powershell-pester-5.instructio
+description: "Skill: ghcp-instructions-powershell-pester-5.instructio"
+license: MIT
+tags: [general]
 ---
 
 # PowerShell Pester v5 Testing Guidelines

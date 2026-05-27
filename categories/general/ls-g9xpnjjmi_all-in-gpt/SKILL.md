@@ -1,3 +1,10 @@
+---
+name: ls-g9xpnjjmi_all-in-gpt
+description: "Skill: ls-g9xpnjjmi_all-in-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-G9xpNjjMi-all-in-gpt
 
 GPT Title: ALL IN GPT

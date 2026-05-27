@@ -1,3 +1,10 @@
+---
+name: ls-c6vwv09go_depression
+description: "Skill: ls-c6vwv09go_depression"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-C6vwv09Go-depression
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-fOmA9kuBZoBW9oPigcaSjstS?se=2123-12-18T21%3A28%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6e142f76-f72b-452e-a5c8-0c4da718b0dc.png&sig=GdBE6ZlSvZT9S62Gr4s6a4E2jLZUVr77%2Bp2XuGdqtC8%3D" width="100px" />

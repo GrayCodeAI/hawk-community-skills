@@ -1,7 +1,9 @@
 ---
-description: Use React rules when building UI to produce maintainable components
-globs: src/**/*.tsx
-alwaysApply: false
+name: blef-2000-react
+description: "Use React rules when building UI to produce maintainable components"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # React Rules

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Supabase in Svelte
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-add-feature-supabase-svelte
+description: "Guidelines for adding new features with Supabase in Svelte"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte developer with expertise in building scalable applications with Supabase.
@@ -120,4 +122,4 @@ export const actions = {
 - Use proper role-based access control
 - Implement proper API key management
 - Use secure session handling
-- Implement proper CORS policies 
+- Implement proper CORS policies

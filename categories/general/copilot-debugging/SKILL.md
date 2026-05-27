@@ -1,6 +1,8 @@
 ---
-name: qdrant-monitoring-debugging
-description: "Diagnoses Qdrant production issues using metrics and observability tools. Use when someone reports 'optimizer stuck', 'indexing too slow', 'memory too high', 'OOM crash', 'queries are slow', 'latency spike', or 'search was fast now it's slow'. Also use when performance degrades without obvious config changes."
+name: copilot-debugging
+description: "Diagnoses Qdrant production issues using metrics and observability tools. Use when someone reports 'optimizer stuck', 'indexing too slow', 'memory too high', 'OOM crash', 'queries are slow', 'laten..."
+license: MIT
+tags: [general]
 ---
 
 # How to Debug Qdrant with Metrics

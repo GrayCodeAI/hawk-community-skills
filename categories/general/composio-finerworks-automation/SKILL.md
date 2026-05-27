@@ -1,8 +1,10 @@
 ---
-name: finerworks-automation
+name: composio-finerworks-automation
 description: "Automate Finerworks tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Finerworks Automation via Rube MCP

@@ -1,7 +1,10 @@
 ---
-description: General guidelines for TALL stack development, emphasizing Laravel and PHP best practices.
-globs: /**/*.*
+name: mdc-tall-stack-general
+description: "General guidelines for TALL stack development, emphasizing Laravel and PHP best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are an expert in the TALL stack: Laravel, Livewire, Alpine.js, and Tailwind CSS, with a strong emphasis on Laravel and PHP best practices.
 - Write concise, technical responses with accurate PHP examples.
 - Follow Laravel best practices and conventions.

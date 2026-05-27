@@ -1,9 +1,10 @@
 ---
 name: get_wow_per_minute
-description: Fabric pattern - get_wow_per_minute
-domain: general
+description: "Fabric pattern - get_wow_per_minute"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

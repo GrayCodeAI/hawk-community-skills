@@ -1,9 +1,10 @@
 ---
 name: cr-python
-description: Cursor rules for python
-domain: engineering
+description: "Cursor rules for python"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -34,4 +35,3 @@ from _pytest.fixtures import FixtureRequest
 from _pytest.logging import LogCaptureFixture
 from _pytest.monkeypatch import MonkeyPatch
 from pytest_mock.plugin import MockerFixture
-

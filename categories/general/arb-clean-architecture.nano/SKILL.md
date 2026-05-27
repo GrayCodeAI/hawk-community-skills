@@ -1,3 +1,10 @@
+---
+name: arb-clean-architecture.nano
+description: "Skill: arb-clean-architecture.nano"
+license: MIT
+tags: [general]
+---
+
 # OBEY Clean Architecture by Robert C. Martin
 
 ## When to use

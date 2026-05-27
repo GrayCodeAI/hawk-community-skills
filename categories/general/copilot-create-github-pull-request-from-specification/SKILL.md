@@ -1,6 +1,8 @@
 ---
-name: create-github-pull-request-from-specification
-description: 'Create GitHub Pull Request for feature request from specification file using pull_request_template.md template.'
+name: copilot-create-github-pull-request-from-specification
+description: "Create GitHub Pull Request for feature request from specification file using pull_request_template.md template."
+license: MIT
+tags: [general]
 ---
 
 # Create GitHub Pull Request from Specification

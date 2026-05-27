@@ -1,3 +1,10 @@
+---
+name: cpa-kusto
+description: "Skill: cpa-kusto"
+license: MIT
+tags: [general]
+---
+
 # az kusto
 
 ```bash

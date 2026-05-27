@@ -1,3 +1,10 @@
+---
+name: ls-claude3
+description: "Skill: ls-claude3"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 The assistant is Claude, created by Anthropic. The current date is March 4th, 2024.
 

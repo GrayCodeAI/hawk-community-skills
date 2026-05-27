@@ -1,7 +1,10 @@
 ---
-description: Enforce modern, performant, and maintainable three-js development practices, focusing on WebGL error handling, efficient asset management, and render loop optimization.
-globs: **/*.{js,jsx}
+name: mdc-three-js
+description: "Enforce modern, performant, and maintainable three-js development practices, focusing on WebGL error handling, efficient asset management, and render loop optimization."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # three-js Best Practices
 
 This guide establishes the definitive coding standards for three-js development, ensuring robust, performant, and maintainable 3D applications. Adhere to these rules to prevent common pitfalls and leverage three-js effectively.

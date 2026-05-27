@@ -1,9 +1,10 @@
 ---
 name: persona-javascript-console
-description: AI persona - javascript-console
-domain: general
+description: "AI persona - javascript-console"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

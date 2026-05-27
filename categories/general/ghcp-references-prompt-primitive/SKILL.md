@@ -1,3 +1,10 @@
+---
+name: ghcp-references-prompt-primitive
+description: "Skill: ghcp-references-prompt-primitive"
+license: MIT
+tags: [general]
+---
+
 # Prompts
 
 Prompts are reusable, parameterised message templates that the user (not the LLM) typically picks from a list — think "slash commands" in a chat client. The server defines them; the host renders them as menus.

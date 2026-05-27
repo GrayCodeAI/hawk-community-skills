@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for writing maintainable, performant, and reliable Cypress end-to-end tests, leveraging modern patterns and avoiding common pitfalls.
-globs: **/*.{js,ts,cy.js,cy.ts}
+name: mdc-cypress
+description: "This guide defines definitive best practices for writing maintainable, performant, and reliable Cypress end-to-end tests, leveraging modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [testing]
 ---
+
 # Cypress Best Practices
 
 Cypress is our go-to for robust E2E testing. Follow these rules to ensure our test suite remains fast, stable, and easy to maintain.

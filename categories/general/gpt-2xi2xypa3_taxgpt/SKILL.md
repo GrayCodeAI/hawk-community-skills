@@ -1,3 +1,10 @@
+---
+name: gpt-2xi2xypa3_taxgpt
+description: "Skill: gpt-2xi2xypa3_taxgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2Xi2xYPa3-taxgpt
 
 GPT Title: TaxGPT

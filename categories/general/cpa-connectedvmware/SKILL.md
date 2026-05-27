@@ -1,3 +1,10 @@
+---
+name: cpa-connectedvmware
+description: "Skill: cpa-connectedvmware"
+license: MIT
+tags: [general]
+---
+
 # az connectedvmware
 
 ```bash

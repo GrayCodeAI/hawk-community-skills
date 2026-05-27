@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-javascript
+description: "Skill: inst-setup-firebase-javascript"
+license: MIT
+tags: [general]
+---
+
 # Firebase + JavaScript Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with a vanilla JavaScript application.
@@ -427,4 +434,4 @@ const storage = new Storage();
 ## Additional Resources
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Firebase Console](https://console.firebase.google.com/) 
+- [Firebase Console](https://console.firebase.google.com/)

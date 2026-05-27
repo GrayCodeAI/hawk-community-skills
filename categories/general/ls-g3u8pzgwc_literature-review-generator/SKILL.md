@@ -1,3 +1,10 @@
+---
+name: ls-g3u8pzgwc_literature-review-generator
+description: "Skill: ls-g3u8pzgwc_literature-review-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-G3U8pZGwC-literature-review-generator/
 
 GPT Title: Literature Review Generator

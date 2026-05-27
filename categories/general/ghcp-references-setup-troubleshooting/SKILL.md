@@ -1,3 +1,10 @@
+---
+name: ghcp-references-setup-troubleshooting
+description: "Skill: ghcp-references-setup-troubleshooting"
+license: MIT
+tags: [general]
+---
+
 # Penpot MCP Server Setup & Troubleshooting
 
 Complete guide for installing, configuring, and troubleshooting the Penpot MCP Server.

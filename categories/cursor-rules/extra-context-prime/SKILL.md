@@ -1,3 +1,10 @@
+---
+name: extra-context-prime
+description: "Skill: extra-context-prime"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Context Prime
 
 Prime Claude with comprehensive project understanding.

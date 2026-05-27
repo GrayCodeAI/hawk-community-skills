@@ -1,3 +1,10 @@
+---
+name: cpa-disk-pool
+description: "Skill: cpa-disk-pool"
+license: MIT
+tags: [general]
+---
+
 # az disk-pool
 
 ```bash

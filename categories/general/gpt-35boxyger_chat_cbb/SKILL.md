@@ -1,3 +1,10 @@
+---
+name: gpt-35boxyger_chat_cbb
+description: "Skill: gpt-35boxyger_chat_cbb"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-35boxYgeR-chat-cbb
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HSAifvTiOTAVddigfB0LdFtx?se=2123-10-24T23%3A35%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D77948225-16b5-47e1-9491-4995e477fe1f.png&sig=ZSgZT8tS%2B%2BRDmixeGkLO7jR2/GZHwzGPXE0%2B5CvrNLU%3D" width="100px" />

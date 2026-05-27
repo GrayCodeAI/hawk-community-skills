@@ -1,3 +1,10 @@
+---
+name: ls-tools
+description: "Skill: ls-tools"
+license: MIT
+tags: [general]
+---
+
 ## Claude Web Search Tool Instructions
 ```markdown
 

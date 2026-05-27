@@ -1,3 +1,10 @@
+---
+name: ls-b1ibgmuus_resume_revolution
+description: "Skill: ls-b1ibgmuus_resume_revolution"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B1ibgmuus-resume-revolution
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-McX3pAzkiTJVTafh73VXOmij?se=2124-01-14T06%3A45%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dac065d7e-f8c2-4f6c-b022-0013fb570491.png&sig=x12NXbfccGBBo4XBlbR1c7ltlDAubfj6rQk8gHDN4CY%3D" width="100px" />

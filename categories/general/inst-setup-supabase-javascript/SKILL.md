@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing vanilla JavaScript apps with Supabase Authentication
-globs: "**/*.html, **/*.js"
+name: inst-setup-supabase-javascript
+description: "Guidelines for writing vanilla JavaScript apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vanilla JavaScript App with Supabase Authentication
@@ -326,4 +328,4 @@ async function initAuth() {
 7. Use environment variables for configuration
 8. Never store sensitive auth data directly in localStorage
 9. Always handle auth state changes using Supabase's methods
-10. Keep the Supabase client up to date for security patches and new features 
+10. Keep the Supabase client up to date for security patches and new features

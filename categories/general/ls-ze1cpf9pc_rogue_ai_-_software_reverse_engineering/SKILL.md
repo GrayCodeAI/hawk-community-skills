@@ -1,3 +1,10 @@
+---
+name: ls-ze1cpf9pc_rogue_ai_-_software_reverse_engineering
+description: "Skill: ls-ze1cpf9pc_rogue_ai_-_software_reverse_engineering"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ze1CPf9PC-rogue-ai-software-reverse-engineering
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dIXbF1APQXL4OU2WPzQvxxjG?se=2123-10-28T23%3A47%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbe98c3cf-c9f0-499c-a421-64d0105d2dd2.png&sig=c/VJcRMcw580on6vmxyHpu9upTkee91tgWzAilfrMtI%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: wolfram-alpha-api-automation
+name: composio-wolfram-alpha-api-automation
 description: "Automate Wolfram Alpha API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Wolfram Alpha API Automation via Rube MCP

@@ -1,17 +1,14 @@
 ---
-name: ios-localization
-description: Implement String Catalogs, L10n workflows, and asset management for iOS. Use when adding multi-language support using iOS String Catalogs or L10n workflows.
-metadata:
-  triggers:
-    files:
-    - '**/*.stringcatalog'
-    - '**/*.xcassets'
-    - '**/*.strings'
-    keywords:
-    - LocalizedStringResource
-    - NSLocalizedString
-    - String(localized:)
+name: std-ios-localization
+description: "Implement String Catalogs, L10n workflows, and asset management for iOS. Use when adding multi-language support using iOS String Catalogs or L10n workflows."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: [{'String(localized': ')'}]
 ---
+
 # iOS Localization & Assets
 
 ## **Priority: P1**

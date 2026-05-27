@@ -1,8 +1,10 @@
 ---
-name: process-street-automation
+name: composio-process-street-automation
 description: "Automate Process Street tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Process Street Automation via Rube MCP

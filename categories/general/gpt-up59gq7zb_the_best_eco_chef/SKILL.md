@@ -1,3 +1,10 @@
+---
+name: gpt-up59gq7zb_the_best_eco_chef
+description: "Skill: gpt-up59gq7zb_the_best_eco_chef"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Up59gq7ZB-the-best-eco-chef
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ndMskLYRIDsBzsDEhQHyyvSj?se=2124-01-06T18%3A06%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8645bd50-9b0c-4a8a-b9df-729fb68ab667.png&sig=dCI6o7srRPtDG40qkHdfO95Yoyu78kznTNsgfUOoasg%3D" width="100px" />

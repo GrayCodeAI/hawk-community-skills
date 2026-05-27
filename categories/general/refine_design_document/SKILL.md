@@ -1,9 +1,10 @@
 ---
 name: refine_design_document
-description: Fabric pattern - refine_design_document
-domain: general
+description: "Fabric pattern - refine_design_document"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Vue apps with Clerk Auth
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-setup-clerk-vue
+description: "Guidelines for writing Vue apps with Clerk Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vue app with Clerk Auth
@@ -88,4 +90,4 @@ When implementing Clerk Auth for Vue, you MUST:
 1. Use only official Clerk components
 2. Implement proper TypeScript types
 3. Follow Vue 3 Composition API best practices
-4. Ensure proper environment variable handling 
+4. Ensure proper environment variable handling

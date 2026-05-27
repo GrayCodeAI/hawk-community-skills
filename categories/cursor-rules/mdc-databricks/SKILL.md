@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for developing robust, performant, and secure applications and data pipelines on Databricks using modern best practices and native services.
-globs: **/*
+name: mdc-databricks
+description: "Definitive guidelines for developing robust, performant, and secure applications and data pipelines on Databricks using modern best practices and native services."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # databricks Best Practices
 
 This guide outlines the essential best practices for developing on Databricks. Adhere to these rules to ensure your code is maintainable, performant, and secure.

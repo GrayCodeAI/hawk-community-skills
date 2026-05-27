@@ -1,3 +1,10 @@
+---
+name: gpt-viv2r7wst_ms-presentation
+description: "Skill: gpt-viv2r7wst_ms-presentation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vIV2R7wST-ms-presentation
 
 GPT Title: MS-Presentation

@@ -1,7 +1,10 @@
 ---
-description: Emphasizes the importance of prioritizing error handling and edge cases in Python code.
-globs: **/*.py
+name: mdc-error-handling-priorities
+description: "Emphasizes the importance of prioritizing error handling and edge cases in Python code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Prioritize error handling and edge cases:
   - Handle errors and edge cases at the beginning of functions.
   - Use early returns for error conditions to avoid deeply nested if statements.

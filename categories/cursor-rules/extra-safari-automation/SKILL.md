@@ -1,7 +1,9 @@
 ---
-description: Patterns and best practices for automating Safari browser interactions for web UI automation and testing
-globs: "**/*.applescript, **/safari-*.js"
-alwaysApply: false
+name: extra-safari-automation
+description: "Patterns and best practices for automating Safari browser interactions for web UI automation and testing"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Safari Automation Guide

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-performance
+description: "Skill: ghcp-references-performance"
+license: MIT
+tags: [general]
+---
+
 # Performance Optimization for Power BI Models
 
 ## Data Reduction Techniques

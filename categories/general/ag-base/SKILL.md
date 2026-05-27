@@ -1,10 +1,12 @@
 ---
-name: base
+name: ag-base
 description: "Database management, forms, reports, and data operations with LibreOffice Base."
+license: MIT
+tags: [general]
 category: database-processing
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # LibreOffice Base

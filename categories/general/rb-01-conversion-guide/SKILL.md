@@ -1,3 +1,10 @@
+---
+name: rb-01-conversion-guide
+description: "Skill: rb-01-conversion-guide"
+license: MIT
+tags: [general]
+---
+
 ## Conversion Guide
 
 When assisting a contributor to create a Rulebook-AI pack:
@@ -11,4 +18,4 @@ When assisting a contributor to create a Rulebook-AI pack:
 7. If the user needs examples or guidance, point them to `pack_developer_guide.md` and `contribution_workflow.md` in memory.
 8. Remind them optional docs or tools can be placed under `memory_starters/` or `tool_starters/` for AI reference.
    - Example rule for docs: "Consult `memory/pack_structure_spec.md` for structure requirements."
-   - Example rule for tools: "Run `python tools/validate_pack.py <pack_path>` to check the pack." 
+   - Example rule for tools: "Run `python tools/validate_pack.py <pack_path>` to check the pack."

@@ -1,3 +1,10 @@
+---
+name: sys-colab-ai_20240108
+description: "Skill: sys-colab-ai_20240108"
+license: MIT
+tags: [general]
+---
+
 # colab-ai_20240108
 
 source: amitness <https://github.com/jujumilk3/leaked-system-prompts/pull/15>

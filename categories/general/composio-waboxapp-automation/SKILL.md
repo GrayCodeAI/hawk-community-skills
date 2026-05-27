@@ -1,8 +1,10 @@
 ---
-name: waboxapp-automation
+name: composio-waboxapp-automation
 description: "Automate Waboxapp tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Waboxapp Automation via Rube MCP

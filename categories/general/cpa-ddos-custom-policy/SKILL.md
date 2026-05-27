@@ -1,3 +1,10 @@
+---
+name: cpa-ddos-custom-policy
+description: "Skill: cpa-ddos-custom-policy"
+license: MIT
+tags: [general]
+---
+
 # az network ddos-custom-policy
 
 ```bash

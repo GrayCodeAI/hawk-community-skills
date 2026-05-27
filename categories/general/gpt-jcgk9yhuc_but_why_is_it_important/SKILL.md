@@ -1,3 +1,10 @@
+---
+name: gpt-jcgk9yhuc_but_why_is_it_important
+description: "Skill: gpt-jcgk9yhuc_but_why_is_it_important"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jcGK9yHuC-but-why-is-it-important
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-UkmuOjQ2a5df27YlhRwDViZk?se=2124-01-06T15%3A28%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D9e694296-79fa-4945-bee7-6646e273485f.png&sig=N9fcLw%2BlbhfylCWGCxf0FoFlRJpZTMVL0Av0X5mxsCg%3D" width="100px" />

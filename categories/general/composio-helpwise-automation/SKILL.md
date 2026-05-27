@@ -1,8 +1,10 @@
 ---
-name: helpwise-automation
+name: composio-helpwise-automation
 description: "Automate Helpwise tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Helpwise Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: gpt-sblghdpub_chatbase_python_expert_learning_course_
+description: "Skill: gpt-sblghdpub_chatbase_python_expert_learning_course_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sbLGhDPUb-chatbase-python-expert-learning-course
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-NREXoZKpD5cDl5bt00Y7VAyf?se=2123-12-03T14%3A21%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-12-27%252015.21.40%2520-%2520A%2520cyberpunk-themed%2520image%2520showcasing%2520a%2520list%2520of%2520skills%2520related%2520to%2520the%2520Chatbase%2520Python%2520Expert%2520Learning%2520Course.%2520The%2520image%2520should%2520have%2520a%2520futuristic%252C%2520neon-l.png&sig=BdmHoupUsnpgeIYr3yCViVp8ZB2%2BUuRbS09TZU2toq0%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: cpa-arcgateway
+description: "Skill: cpa-arcgateway"
+license: MIT
+tags: [general]
+---
+
 # az arcgateway
 
 ```bash

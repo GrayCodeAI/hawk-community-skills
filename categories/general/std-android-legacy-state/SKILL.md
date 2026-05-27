@@ -1,15 +1,14 @@
 ---
-name: android-legacy-state
-description: Integrate ViewModel state with Views using Coroutines and Lifecycle on Android. Use when managing state with repeatOnLifecycle or lifecycle-aware coroutines in Fragment/Activity.
-metadata:
-  triggers:
-    files:
-    - '**/*Fragment.kt'
-    - '**/*Activity.kt'
-    keywords:
-    - repeatOnLifecycle
-    - launchWhenStarted
+name: std-android-legacy-state
+description: "Integrate ViewModel state with Views using Coroutines and Lifecycle on Android. Use when managing state with repeatOnLifecycle or lifecycle-aware coroutines in Fragment/Activity."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Legacy State Standards
 
 ## **Priority: P1**

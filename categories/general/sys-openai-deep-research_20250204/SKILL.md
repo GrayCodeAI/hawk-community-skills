@@ -1,3 +1,10 @@
+---
+name: sys-openai-deep-research_20250204
+description: "Skill: sys-openai-deep-research_20250204"
+license: MIT
+tags: [general]
+---
+
 # openai-deep-research_20250204
 
 source: <https://gist.github.com/simonw/702f95944bf06d3f01c9366568e625b6>

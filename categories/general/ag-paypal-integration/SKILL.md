@@ -1,9 +1,11 @@
 ---
-name: paypal-integration
+name: ag-paypal-integration
 description: "Master PayPal payment integration including Express Checkout, IPN handling, recurring billing, and refund workflows."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # PayPal Integration

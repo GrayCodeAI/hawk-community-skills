@@ -1,8 +1,10 @@
 ---
-name: bidsketch-automation
+name: composio-bidsketch-automation
 description: "Automate Bidsketch tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bidsketch Automation via Rube MCP

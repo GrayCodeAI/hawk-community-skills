@@ -1,6 +1,8 @@
 ---
-name: apify-influencer-discovery
-description: Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
+name: ag-apify-influencer-discovery
+description: "Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

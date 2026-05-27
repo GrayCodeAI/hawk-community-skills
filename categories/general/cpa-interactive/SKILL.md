@@ -1,3 +1,10 @@
+---
+name: cpa-interactive
+description: "Skill: cpa-interactive"
+license: MIT
+tags: [general]
+---
+
 # az interactive
 
 Start interactive mode. Installs the Interactive extension if not installed already.

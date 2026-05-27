@@ -1,9 +1,12 @@
 ---
-name: security-scan
-description: Run full security scans on the codebase using Ruflo security tools
+name: flow-security-scan
+description: "Run full security scans on the codebase using Ruflo security tools"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__hooks_post-task Read Grep
-argument-hint: "[depth: quick|standard|full]"
+argument-hint: [{'depth': 'quick|standard|full'}]
 ---
+
 Run a security scan at the specified depth.
 
 Via CLI:

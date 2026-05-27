@@ -1,6 +1,8 @@
 ---
-description: 'Razor Pages component and application patterns'
-applyTo: '**/*.cshtml, **/*.cshtml.cs'
+name: ghcp-instructions-csharp-razorpages.instructions
+description: "Skill: ghcp-instructions-csharp-razorpages.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Razor Pages Code Style and Structure

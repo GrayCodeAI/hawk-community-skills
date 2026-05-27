@@ -1,8 +1,11 @@
 ---
-description: Debugging and verifying MCP servers using the MCP Inspector UI with Playwright automation
-globs: "e2e/**/*.js, tests/**/*.js"
-alwaysApply: false
+name: extra-mcp-inspector-debugging
+description: "Debugging and verifying MCP servers using the MCP Inspector UI with Playwright automation"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
+
 Rule Name: mcp-inspector
 Description: Debugging and verifying MCP servers via the MCP Inspector UI. This rule uses Playwright for UI automation, iTerm for server management, and Claude Code for log inspection.
 

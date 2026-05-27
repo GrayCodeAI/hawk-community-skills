@@ -1,3 +1,10 @@
+---
+name: ls-z9rg9aios_translator
+description: "Skill: ls-z9rg9aios_translator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-z9rg9aIOS-translator
 
 GPT Title: Translator

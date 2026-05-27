@@ -1,6 +1,8 @@
 ---
-name: creating-oracle-to-postgres-migration-bug-report
-description: 'Creates structured bug reports for defects found during Oracle-to-PostgreSQL migration. Use when documenting behavioral differences between Oracle and PostgreSQL as actionable bug reports with severity, root cause, and remediation steps.'
+name: ghcp-creating-oracle-to-postgres-migration-bu-skill
+description: "Creates structured bug reports for defects found during Oracle-to-PostgreSQL migration. Use when documenting behavioral differences between Oracle and PostgreSQL as actionable bug reports with seve..."
+license: MIT
+tags: [general]
 ---
 
 # Creating Bug Reports for Oracle-to-PostgreSQL Migration

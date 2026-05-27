@@ -1,3 +1,10 @@
+---
+name: gpt-jyt9glpa3_character_craft
+description: "Skill: gpt-jyt9glpa3_character_craft"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jyt9gLPA3-character-craft
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-VwlBaG9Bt8ORyysZgxTaLprd?se=2123-10-18T18%3A07%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D628b3311-e943-4d63-bcb2-13a6e496e1da.png&sig=xcKu2jswKrhdH2/eLde/lS1jKK0nRhaPgj%2BQuIQrBzY%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: magnetic-automation
+name: composio-magnetic-automation
 description: "Automate Magnetic tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Magnetic Automation via Rube MCP

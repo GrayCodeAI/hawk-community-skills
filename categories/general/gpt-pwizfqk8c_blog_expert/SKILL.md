@@ -1,3 +1,10 @@
+---
+name: gpt-pwizfqk8c_blog_expert
+description: "Skill: gpt-pwizfqk8c_blog_expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PWizFQk8C-blog-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1Eh7A79o1yuLdC6OrA20Xd9g?se=2123-10-16T06%3A36%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f7c6083-6745-4890-840e-67624e07705e.png&sig=rYRNzKfuG38RTpp5wxY6j1iyLiPYQK0yGIBp8jrabZw%3D" width="100px" />

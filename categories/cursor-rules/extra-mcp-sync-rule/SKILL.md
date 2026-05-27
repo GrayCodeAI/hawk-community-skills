@@ -1,3 +1,10 @@
+---
+name: extra-mcp-sync-rule
+description: "Skill: extra-mcp-sync-rule"
+license: MIT
+tags: [cursor-rules]
+---
+
 # MCP Server Configuration Synchronization Rule
 
 ## Purpose

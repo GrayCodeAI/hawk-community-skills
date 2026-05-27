@@ -1,3 +1,10 @@
+---
+name: ls-26jvbbvtr_radical-selfishness
+description: "Skill: ls-26jvbbvtr_radical-selfishness"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-26jvBBVTr-radical-selfishness
 
 GPT Title: Radical Selfishness

@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-nodejs-react-vite
-description: Cursor rules for typescript-nodejs-react-vite
-domain: engineering
+description: "Cursor rules for typescript-nodejs-react-vite"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -48,4 +49,3 @@ Performance Optimization
   - Use efficient algorithms
   - Use efficient rendering strategies
   - Use efficient state management
-

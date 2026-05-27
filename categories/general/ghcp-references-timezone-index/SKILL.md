@@ -1,3 +1,10 @@
+---
+name: ghcp-references-timezone-index
+description: "Skill: ghcp-references-timezone-index"
+license: MIT
+tags: [general]
+---
+
 # .NET Timezone Reference Index
 
 ## Windows To IANA Mapping

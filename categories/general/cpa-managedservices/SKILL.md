@@ -1,3 +1,10 @@
+---
+name: cpa-managedservices
+description: "Skill: cpa-managedservices"
+license: MIT
+tags: [general]
+---
+
 # az managedservices
 
 ```bash

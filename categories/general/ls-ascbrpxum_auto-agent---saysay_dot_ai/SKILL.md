@@ -1,3 +1,11 @@
+---
+name: ls-ascbrpxum_auto-agent---saysay_dot_ai
+description: 'Skill: ls-ascbrpxum_auto-agent---saysay_dot_ai'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-aSCBrpxum
 
 GPT Title: Auto Agent - saysay.ai

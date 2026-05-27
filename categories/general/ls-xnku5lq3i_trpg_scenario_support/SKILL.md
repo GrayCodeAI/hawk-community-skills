@@ -1,3 +1,10 @@
+---
+name: ls-xnku5lq3i_trpg_scenario_support
+description: "Skill: ls-xnku5lq3i_trpg_scenario_support"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OrogaKUT52r5UKFrjTHnhm8N?se=2123-10-16T06%3A52%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd6053e6d-a482-4648-af51-24f6bd6c482b.png&sig=vhzmBuAFKlDINcogxBTl1E7kbQoV4s9zAukYE9jgrao%3D" width="100px" />

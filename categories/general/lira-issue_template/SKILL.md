@@ -1,3 +1,10 @@
+---
+name: lira-issue_template
+description: "Skill: lira-issue_template"
+license: MIT
+tags: [general]
+---
+
 <!--
 Thank you for reporting an issue.
 

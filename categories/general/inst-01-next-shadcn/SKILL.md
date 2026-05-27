@@ -1,6 +1,8 @@
 ---
-description: Guidelines for installing and configuring ShadCN UI
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-01-next-shadcn
+description: "Guidelines for installing and configuring ShadCN UI"
+license: MIT
+tags: [general]
 ---
 
 # Install & Configure ShadCN UI for Next.js 15 & React 19

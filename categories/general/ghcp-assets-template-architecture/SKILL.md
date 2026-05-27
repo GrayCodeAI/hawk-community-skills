@@ -1,3 +1,10 @@
+---
+name: ghcp-assets-template-architecture
+description: "Skill: ghcp-assets-template-architecture"
+license: MIT
+tags: [general]
+---
+
 # Azure Architecture: [Resource Group Name]
 
 **Subscription**: [subscription-name]  

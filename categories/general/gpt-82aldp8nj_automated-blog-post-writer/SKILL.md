@@ -1,3 +1,10 @@
+---
+name: gpt-82aldp8nj_automated-blog-post-writer
+description: "Skill: gpt-82aldp8nj_automated-blog-post-writer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-82ALdp8Nj-automated-blog-post-writer/
 
 GPT Title: Automated Blog Post Writer

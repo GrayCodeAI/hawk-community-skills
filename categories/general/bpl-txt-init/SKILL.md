@@ -1,9 +1,10 @@
 ---
-name: bpl-init
-description: System prompt - init
-domain: general
+name: bpl-txt-init
+description: "System prompt - init"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

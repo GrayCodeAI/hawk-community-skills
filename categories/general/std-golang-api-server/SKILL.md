@@ -1,18 +1,14 @@
 ---
-name: golang-api-server
-description: Build HTTP services, REST APIs, and middleware in Go. Use when building Go HTTP servers, REST APIs, or custom middleware.
-metadata:
-  triggers:
-    files:
-    - 'cmd/server/*.go'
-    - 'internal/adapter/handler/**'
-    keywords:
-    - http server
-    - rest api
-    - gin
-    - echo
-    - middleware
+name: std-golang-api-server
+description: "Build HTTP services, REST APIs, and middleware in Go. Use when building Go HTTP servers, REST APIs, or custom middleware."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang API Server
 
 ## **Priority: P0 (CRITICAL)**

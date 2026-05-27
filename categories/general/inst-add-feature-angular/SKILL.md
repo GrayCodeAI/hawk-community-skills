@@ -1,6 +1,8 @@
 ---
-description: Framework-specific patterns for adding features to Angular 19 applications
-globs: **/*.ts, **/*.html
+name: inst-add-feature-angular
+description: "Framework-specific patterns for adding features to Angular 19 applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Angular 19 developer focusing exclusively on framework-specific patterns for adding new features.
@@ -109,4 +111,4 @@ You are a senior Angular 19 developer focusing exclusively on framework-specific
 - Implement proper title strategy
 - Use server-side rendering effectively
 - Implement proper canonical URLs
-- Use robots.txt management 
+- Use robots.txt management

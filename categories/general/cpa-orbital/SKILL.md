@@ -1,3 +1,10 @@
+---
+name: cpa-orbital
+description: "Skill: cpa-orbital"
+license: MIT
+tags: [general]
+---
+
 # az orbital
 
 ```bash

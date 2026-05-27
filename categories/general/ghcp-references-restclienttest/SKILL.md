@@ -1,3 +1,10 @@
+---
+name: ghcp-references-restclienttest
+description: "Skill: ghcp-references-restclienttest"
+license: MIT
+tags: [general]
+---
+
 # @RestClientTest
 
 Testing REST clients in isolation with MockRestServiceServer.

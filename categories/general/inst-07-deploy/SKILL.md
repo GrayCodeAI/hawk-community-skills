@@ -1,7 +1,9 @@
-```markdown
 ---
-description: Guidelines for deploying the Next.js 15 text-to-image app to Vercel
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-07-deploy
+description: 'Skill: inst-07-deploy'
+license: MIT
+tags:
+- general
 ---
 
 # Deploy the Text-to-Image App to Vercel

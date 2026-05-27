@@ -1,3 +1,10 @@
+---
+name: ghcp-references-self-critique-loop
+description: "Skill: ghcp-references-self-critique-loop"
+license: MIT
+tags: [general]
+---
+
 # Self-Critique Loop
 
 After completing the initial analysis, perform a **mandatory second pass** before delivering output.

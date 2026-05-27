@@ -1,3 +1,10 @@
+---
+name: ghcp-references-nodejs
+description: "Skill: ghcp-references-nodejs"
+license: MIT
+tags: [general]
+---
+
 ## Modify code
 
 Make these necessary changes to the app.

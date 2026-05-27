@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Next.js apps with Supabase Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-supabase-next
+description: "Guidelines for writing Next.js apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Next.js App with Supabase Authentication
@@ -360,4 +362,4 @@ export default async function RootLayout({
     </html>
   );
 }
-``` 
+```

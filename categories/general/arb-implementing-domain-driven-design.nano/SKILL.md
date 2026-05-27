@@ -1,3 +1,10 @@
+---
+name: arb-implementing-domain-driven-design.nano
+description: "Skill: arb-implementing-domain-driven-design.nano"
+license: MIT
+tags: [general]
+---
+
 # OBEY Implementing Domain-Driven Design by Vaughn Vernon
 
 ## When to use

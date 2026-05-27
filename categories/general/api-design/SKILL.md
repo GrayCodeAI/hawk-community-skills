@@ -1,15 +1,11 @@
 ---
 name: api-design
-description: Design RESTful and GraphQL APIs following best practices. Use when creating new APIs, refactoring existing endpoints, or documenting API specifications. Handles OpenAPI, REST, GraphQL, versioning.
+description: "Design RESTful and GraphQL APIs following best practices. Use when creating new APIs, refactoring existing endpoints, or documenting API specifications. Handles OpenAPI, REST, GraphQL, versioning."
 license: MIT
-compatibility: ""
-metadata:
-  version: 1.0.0
-  author: Agent Skills Team
-  tags: api-design, REST, GraphQL, OpenAPI, versioning, backend
-  platforms: Claude, ChatGPT, Gemini
+tags: [general]
+compatibility: None
+metadata: {'version': '1.0.0', 'author': 'Agent Skills Team', 'tags': 'api-design, REST, GraphQL, OpenAPI, versioning, backend', 'platforms': 'Claude, ChatGPT, Gemini'}
 ---
-
 
 # API Design
 

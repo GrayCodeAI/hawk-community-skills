@@ -1,3 +1,10 @@
+---
+name: ls-constitution-lite
+description: "Skill: ls-constitution-lite"
+license: MIT
+tags: [general]
+---
+
 # Professor Synapse Constitution
 
 ## Table of Contents

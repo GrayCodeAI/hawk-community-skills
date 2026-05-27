@@ -1,3 +1,10 @@
+---
+name: ls-vpmcxx3yx_mirror_muse
+description: "Skill: ls-vpmcxx3yx_mirror_muse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VpMCxx3yX-mirror-muse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-i0QrZ1yQtvM5YRCzIEQGVzxk?se=2124-01-08T04%3A06%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-01%252012.02.35%2520-%2520Create%2520a%2520more%2520intricate%2520and%2520fluid%2520abstract%2520logo%2520for%2520_Mirror%2520Muse_%2520that%2520vividly%2520captures%2520the%2520essence%2520of%2520surpassing%2520traditional%2520artistic%2520boundaries.%2520Thi.png&sig=X%2BRtcsg0kbA2R/XQSs0czvM7cf95IOh8NxrLDCpObqc%3D" width="100px" />

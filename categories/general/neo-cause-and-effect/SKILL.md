@@ -1,6 +1,8 @@
 ---
-name: cause-and-effect
-description: Systematic Fishbone analysis exploring problem causes across six categories
+name: neo-cause-and-effect
+description: "Systematic Fishbone analysis exploring problem causes across six categories"
+license: MIT
+tags: [general]
 argument-hint: Optional problem description to analyze
 ---
 
@@ -195,4 +197,3 @@ SOLUTIONS:
 - Use with `/why` command for deeper analysis of specific causes
 - Prioritize solutions by: impact × feasibility ÷ effort
 - Address root causes, not just symptoms
-

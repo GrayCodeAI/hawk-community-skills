@@ -1,3 +1,10 @@
+---
+name: ls-tkvoqhpfb_engagement__success_criteria_designer
+description: "Skill: ls-tkvoqhpfb_engagement__success_criteria_designer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tkvOQhpFb-engagement-success-criteria-designer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Km513EC5pgCY02Oxf2RSB7c4?se=2124-01-07T20%3A07%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D165da705-3e6d-4bee-a1ec-e81de8f31036.png&sig=muWiKAN92B1Gq6Vd8hO0Sadc51FkxxJcowJOsFy8v/0%3D" width="100px" />

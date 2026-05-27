@@ -1,5 +1,8 @@
 ---
-name: llama-cpp
+name: agc-llama-cpp
+description: "Skill: agc-llama-cpp"
+license: MIT
+tags: [general]
 display_name: llama.cpp
 aliases: [llama-cpp, llama.cpp, llamacpp]
 output_file: resources/outputs/llama-cpp.md

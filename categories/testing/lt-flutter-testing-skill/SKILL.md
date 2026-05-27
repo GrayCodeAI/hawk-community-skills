@@ -1,18 +1,8 @@
 ---
-name: flutter-testing-skill
-description: >
-  Generates Flutter widget tests, integration tests, and golden tests in Dart.
-  Supports local execution and TestMu AI cloud for real device testing.
-  Use when user mentions "Flutter", "widget test", "WidgetTester", "testWidgets",
-  "flutter_test", "integration_test". Triggers on: "Flutter", "widget test",
-  "Dart test", "testWidgets", "WidgetTester", "golden test".
-languages:
-  - Dart
-category: mobile-testing
+name: lt-flutter-testing-skill
+description: "Skill: lt-flutter-testing-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Flutter Testing Skill

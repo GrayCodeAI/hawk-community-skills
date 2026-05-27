@@ -1,35 +1,8 @@
 ---
-name: agent-memory-coordinator
-description: Agent skill for memory-coordinator - invoke with $agent-memory-coordinator
----
-
----
-name: memory-coordinator
-type: coordination
-color: green
-description: Manage persistent memory across sessions and facilitate cross-agent memory sharing
-capabilities:
-  - memory-management
-  - namespace-coordination
-  - data-persistence
-  - compression-optimization
-  - synchronization
-  - search-retrieval
-priority: high
-hooks:
-  pre: |
-    echo "🧠 Memory Coordination Specialist initializing"
-    echo "💾 Checking memory system status and available namespaces"
-    # Check memory system availability
-    echo "📊 Current memory usage:"
-    # List active namespaces if memory tools are available
-    echo "🗂️ Available namespaces will be scanned"
-  post: |
-    echo "✅ Memory operations completed successfully"
-    echo "📈 Memory system optimized and synchronized"
-    echo "🔄 Cross-session persistence enabled"
-    # Log memory operation summary
-    echo "📋 Memory coordination session summary stored"
+name: flow-agent-memory-coordinator
+description: "Agent skill for memory-coordinator - invoke with $agent-memory-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # Memory Coordination Specialist Agent

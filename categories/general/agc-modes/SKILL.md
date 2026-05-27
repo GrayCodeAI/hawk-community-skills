@@ -1,3 +1,10 @@
+---
+name: agc-modes
+description: "Skill: agc-modes"
+license: MIT
+tags: [general]
+---
+
 # Hunter S. Thompson: Modes and Periods
 
 Do not write in "Thompson voice in general." The average of his modes is nobody. Pick one register and stay in it.

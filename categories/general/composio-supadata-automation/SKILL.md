@@ -1,8 +1,10 @@
 ---
-name: supadata-automation
+name: composio-supadata-automation
 description: "Automate Supadata tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Supadata Automation via Rube MCP

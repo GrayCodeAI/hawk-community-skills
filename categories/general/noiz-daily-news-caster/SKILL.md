@@ -1,16 +1,12 @@
 ---
-name: daily-news-caster
-description: Fetches the latest news using news-aggregator-skill, formats it into a podcast script in Markdown format, and uses the tts skill to generate a podcast audio file. Use when the user asks to get the latest news and read it out as a podcast.
-permissions:
-  - network
-  - filesystem
-dependencies:
-  skills:
-    - news-aggregator-skill
-    - tts
-  binaries:
-    - python3
-    - ffmpeg
+name: noiz-daily-news-caster
+description: "Fetches the latest news using news-aggregator-skill, formats it into a podcast script in Markdown format, and uses the tts skill to generate a podcast audio file. Use when the user asks to get the ..."
+license: MIT
+tags: [general]
+permissions: None
+dependencies: None
+skills: None
+binaries: None
 ---
 
 # Daily News Caster Skill

@@ -1,9 +1,10 @@
 ---
 name: persona-inspirational-quotes
-description: AI persona - inspirational-quotes
-domain: general
+description: "AI persona - inspirational-quotes"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

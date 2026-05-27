@@ -1,9 +1,10 @@
 ---
-name: bpl-core_operational_directives
-description: System prompt - core_operational_directives
-domain: general
+name: bpl-txt-core_operational_directives
+description: "System prompt - core_operational_directives"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

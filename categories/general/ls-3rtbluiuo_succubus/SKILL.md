@@ -1,3 +1,10 @@
+---
+name: ls-3rtbluiuo_succubus
+description: "Skill: ls-3rtbluiuo_succubus"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3rtbLUIUO-succubus
 
 GPT Title: Succubus

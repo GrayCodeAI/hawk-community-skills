@@ -1,8 +1,10 @@
 ---
-name: survey_monkey-automation
+name: composio-survey_monkey-automation
 description: "Automate SurveyMonkey tasks via Rube MCP (Composio): surveys, responses, collectors, and survey analytics. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # SurveyMonkey Automation via Rube MCP

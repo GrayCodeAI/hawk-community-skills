@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building, deploying, and maintaining high-performance, secure, and scalable Jamstack applications on Netlify. It focuses on modern workflows, code quality, and leveraging Netlify's edge-first architecture.
-globs: **/*
+name: mdc-netlify
+description: "This guide provides opinionated, actionable best practices for building, deploying, and maintaining high-performance, secure, and scalable Jamstack applications on Netlify. It focuses on modern wor..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # netlify Best Practices
 
 Netlify is the definitive platform for the Jamstack. Our workflow prioritizes pre-built, edge-first deployments, ensuring maximum performance, security, and developer experience. These guidelines enforce a consistent, high-quality approach to building for the modern web on Netlify.

@@ -1,3 +1,10 @@
+---
+name: agc-pico2-hardware
+description: "Skill: agc-pico2-hardware"
+license: MIT
+tags: [general]
+---
+
 # Pico 2 (RP2350) Hardware Reference
 
 ## Table of Contents

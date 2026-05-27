@@ -1,7 +1,10 @@
 ---
-description: Specifies guidelines for the AI assistant to provide accurate, thoughtful answers, admit when it doesn't know something, and be concise while ensuring clarity. This rule promotes trustworthy and helpful AI responses.
-globs: **/*
+name: mdc-truthfulness-and-clarity-for-ai
+description: "Specifies guidelines for the AI assistant to provide accurate, thoughtful answers, admit when it doesn't know something, and be concise while ensuring clarity. This rule promotes trustworthy and he..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - |-
   8. Truthfulness and Clarity:
     - Provide accurate, thoughtful answers

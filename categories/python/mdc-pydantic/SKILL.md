@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and performant pydantic models in Python, focusing on v2.12.5 best practices.
-globs: **/*.py
+name: mdc-pydantic
+description: "Definitive guidelines for writing robust, maintainable, and performant pydantic models in Python, focusing on v2.12.5 best practices."
+license: MIT
+tags: [python]
 ---
+
 # pydantic Best Practices
 
 Pydantic v2 is the standard for data validation in modern Python. Follow these rules to build type-safe, efficient, and maintainable data models.

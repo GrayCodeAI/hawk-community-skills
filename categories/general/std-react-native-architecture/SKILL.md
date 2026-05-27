@@ -1,23 +1,14 @@
 ---
-name: react-native-architecture
-description: Structure React Native projects with feature-first organization and separation of concerns. Use when structuring a React Native project or applying clean architecture patterns.
-metadata:
-  triggers:
-    files:
-    - 'src/**/*.tsx'
-    - 'src/**/*.ts'
-    - 'app.json'
-    - 'StyleSheet.create'
-    keywords:
-    - feature
-    - module
-    - directory structure
-    - separation of concerns
-    - Expo
-    - React Navigation
-    - react-native
-    - mobile architecture
+name: std-react-native-architecture
+description: "Structure React Native projects with feature-first organization and separation of concerns. Use when structuring a React Native project or applying clean architecture patterns."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Architecture
 
 ## **Priority: P0 (CRITICAL)**

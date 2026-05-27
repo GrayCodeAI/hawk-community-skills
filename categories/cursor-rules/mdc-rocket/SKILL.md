@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable backend services with Rocket 0.5+, focusing on modern Rust async patterns, API design, and testing.
-globs: **/*.rs
+name: mdc-rocket
+description: "Definitive guidelines for building robust, performant, and maintainable backend services with Rocket 0.5+, focusing on modern Rust async patterns, API design, and testing."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # rocket Best Practices
 
 This document outlines the definitive best practices for developing with Rocket, Rust's async web framework. Adhere to these guidelines to ensure your Rocket applications are performant, secure, and easily maintainable.

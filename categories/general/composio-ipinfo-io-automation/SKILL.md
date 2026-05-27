@@ -1,8 +1,10 @@
 ---
-name: ipinfo-io-automation
+name: composio-ipinfo-io-automation
 description: "Automate Ipinfo IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ipinfo IO Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: cpa-snapshot
+description: "Skill: cpa-snapshot"
+license: MIT
+tags: [general]
+---
+
 # az snapshot
 
 ```bash

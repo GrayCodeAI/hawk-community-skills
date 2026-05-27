@@ -1,3 +1,10 @@
+---
+name: ls-919yy3lun_rust-programming-guide-assistant
+description: "Skill: ls-919yy3lun_rust-programming-guide-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-919YY3lun-rust-programming-guide-assistant
 
 GPT Title: Rust Programming Guide Assistant

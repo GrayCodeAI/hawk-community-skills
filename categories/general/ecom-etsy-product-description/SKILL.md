@@ -1,9 +1,11 @@
 ---
-name: etsy-product-description
+name: ecom-etsy-product-description
 description: "Product description writing — keyword integration, benefit-focused copy, FAQ, formatting"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Product Description

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-instrumentation-auto-python
+description: "Skill: ghcp-references-instrumentation-auto-python"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Auto-Instrumentation (Python)
 
 **Automatically create spans for LLM calls without code changes.**

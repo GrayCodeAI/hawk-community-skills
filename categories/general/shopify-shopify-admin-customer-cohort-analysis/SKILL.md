@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-customer-cohort-analysis
-role: customer-ops
+name: shopify-shopify-admin-customer-cohort-analysis
 description: "Read-only: groups customers by first-purchase month and tracks repeat purchase rate and revenue per cohort."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

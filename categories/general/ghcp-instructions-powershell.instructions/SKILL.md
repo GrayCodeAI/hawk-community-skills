@@ -1,6 +1,8 @@
 ---
-applyTo: '**/*.ps1,**/*.psm1'
-description: 'PowerShell cmdlet and scripting best practices based on Microsoft guidelines'
+name: ghcp-instructions-powershell.instructions
+description: "Skill: ghcp-instructions-powershell.instructions"
+license: MIT
+tags: [general]
 ---
 
 # PowerShell Cmdlet Development Guidelines

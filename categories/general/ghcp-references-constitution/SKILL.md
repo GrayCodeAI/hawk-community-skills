@@ -1,3 +1,10 @@
+---
+name: ghcp-references-constitution
+description: "Skill: ghcp-references-constitution"
+license: MIT
+tags: [general]
+---
+
 # Writing the Quality Constitution (File 1: QUALITY.md)
 
 The quality constitution defines what "quality" means for this specific project and makes the bar explicit, persistent, and inherited by every AI session.

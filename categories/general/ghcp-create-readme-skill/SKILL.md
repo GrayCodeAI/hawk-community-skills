@@ -1,6 +1,8 @@
 ---
-name: create-readme
-description: 'Create a README.md file for the project'
+name: ghcp-create-readme-skill
+description: "Create a README.md file for the project"
+license: MIT
+tags: [general]
 ---
 
 ## Role

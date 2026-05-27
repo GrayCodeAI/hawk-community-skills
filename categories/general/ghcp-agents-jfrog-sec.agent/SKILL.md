@@ -1,6 +1,8 @@
 ---
-name: JFrog Security Agent
-description: The dedicated Application Security agent for automated security remediation. Verifies package and version compliance, and suggests vulnerability fixes using JFrog security intelligence.
+name: ghcp-agents-jfrog-sec.agent
+description: "The dedicated Application Security agent for automated security remediation. Verifies package and version compliance, and suggests vulnerability fixes using JFrog security intelligence."
+license: MIT
+tags: [general]
 ---
 
 ### Persona and Constraints

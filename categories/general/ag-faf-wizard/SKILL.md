@@ -1,14 +1,15 @@
 ---
-name: faf-wizard
+name: ag-faf-wizard
 description: "Done-for-you .faf generator. One-click AI context for any project - new, legacy, or famous. Auto-detects stack, scores readiness, works everywhere."
+license: MIT
+tags: [faf, automation, project-setup, ai-context, productivity]
 category: productivity
 risk: safe
 source: community
 source_repo: Wolfe-Jam/faf-skills
 source_type: community
-date_added: "2026-04-07"
+date_added: 2026-04-07
 author: wolfejam
-tags: [faf, automation, project-setup, ai-context, productivity]
 tools: [claude, cursor, gemini, windsurf, any-ai]
 ---
 

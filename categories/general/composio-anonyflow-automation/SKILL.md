@@ -1,8 +1,10 @@
 ---
-name: anonyflow-automation
+name: composio-anonyflow-automation
 description: "Automate Anonyflow tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Anonyflow Automation via Rube MCP

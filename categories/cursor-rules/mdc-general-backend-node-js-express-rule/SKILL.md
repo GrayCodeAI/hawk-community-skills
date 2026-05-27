@@ -1,7 +1,10 @@
 ---
-description: Applies to all backend files, enforces Node.js with Express.js for the backend, MongoDB with Mongoose ODM for the database, and JWT for authentication.
-globs: /backend/**/*.*
+name: mdc-general-backend-node-js-express-rule
+description: "Applies to all backend files, enforces Node.js with Express.js for the backend, MongoDB with Mongoose ODM for the database, and JWT for authentication."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Backend: Node.js with Express.js
 - Database: MongoDB with Mongoose ODM
 - Authentication: JSON Web Tokens (JWT)

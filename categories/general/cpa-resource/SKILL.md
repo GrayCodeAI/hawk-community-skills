@@ -1,3 +1,10 @@
+---
+name: cpa-resource
+description: "Skill: cpa-resource"
+license: MIT
+tags: [general]
+---
+
 # az resource
 
 ```bash

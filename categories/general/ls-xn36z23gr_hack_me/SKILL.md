@@ -1,3 +1,10 @@
+---
+name: ls-xn36z23gr_hack_me
+description: "Skill: ls-xn36z23gr_hack_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xN36z23Gr-hack-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YHGAEsFFrF1Lhu91zb5yy469?se=2123-10-24T14%3A39%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-17%252014.36.47%2520-%2520A%2520die-cut%2520sticker%2520depicting%2520a%2520digital%2520drawing%2520of%2520a%2520wizard%2520in%2520a%2520fantasy%2520setting%252C%2520inspired%2520by%2520the%2520iconic%2520scene%2520%2527You%2520shall%2520not%2520pass%2521%2527%2520The%2520wizard%2520is%2520stand.png&sig=Kdtgg0zpXTcMbPgYYNeSAlR5wfy%2BOd7jHO75hBJ3sjc%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-clasp
-description: Cursor rules for typescript-clasp
-domain: engineering
+description: "Cursor rules for typescript-clasp"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -56,4 +57,3 @@ Key Conventions
 - Use clasp for version control and deployment of Google Apps Script projects.
 
 Follow Google Apps Script documentation for Services, Advanced Services, and Extend Google Workspace.
-

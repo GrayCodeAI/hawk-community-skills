@@ -1,18 +1,14 @@
 ---
-name: react-performance
-description: Optimize React rendering, bundle size, and data fetching performance. Use when optimizing React rendering performance, reducing re-renders, or improving bundle size.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.jsx'
-    keywords:
-    - waterfall
-    - bundle
-    - lazy
-    - suspense
-    - dynamic
+name: std-react-performance
+description: "Optimize React rendering, bundle size, and data fetching performance. Use when optimizing React rendering performance, reducing re-renders, or improving bundle size."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Performance
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,6 +1,8 @@
 ---
-name: php-mcp-server-generator
-description: 'Generate a complete PHP Model Context Protocol server project with tools, resources, prompts, and tests using the official PHP SDK'
+name: copilot-php-mcp-server-generator
+description: "Generate a complete PHP Model Context Protocol server project with tools, resources, prompts, and tests using the official PHP SDK"
+license: MIT
+tags: [general]
 ---
 
 # PHP MCP Server Generator

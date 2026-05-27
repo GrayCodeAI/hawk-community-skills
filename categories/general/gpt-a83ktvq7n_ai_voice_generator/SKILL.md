@@ -1,3 +1,10 @@
+---
+name: gpt-a83ktvq7n_ai_voice_generator
+description: "Skill: gpt-a83ktvq7n_ai_voice_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a83ktVq7n-ai-voice-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SMUHFxIhCwXVejGAsHqkIB7x?se=2123-10-21T16%3A32%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daiv.jpg&sig=WVyWF75suUJ8cBZbA8dG1oomtcLmiu1VLx961VQyb40%3D" width="100px" />

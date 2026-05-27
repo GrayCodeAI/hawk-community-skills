@@ -1,3 +1,10 @@
+---
+name: gpt-uibysfvbr_prompt_injection_gpt
+description: "Skill: gpt-uibysfvbr_prompt_injection_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UIbySfVbR-prompt-injection-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-t2Ht4UoEYkhzFjTYAcxI3kX7?se=2123-11-17T12%3A24%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D11b83875-fb46-4b88-8d2e-5d8bfae70e89.png&sig=ZbQ/wz3yZpyCcLpfHYrCtWOvh6mgX4oykrZZknrlI8c%3D" width="100px" />

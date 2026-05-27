@@ -1,6 +1,8 @@
 ---
-name: suggest-awesome-github-copilot-agents
-description: 'Suggest relevant GitHub Copilot Custom Agents files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing custom agents in this repository, and identifying outdated agents that need updates.'
+name: ghcp-suggest-awesome-github-copilot-agents-skill
+description: "Suggest relevant GitHub Copilot Custom Agents files from the awesome-copilot repository based on current repository context and chat history, avoiding duplicates with existing custom agents in this..."
+license: MIT
+tags: [general]
 ---
 
 # Suggest Awesome GitHub Copilot Custom Agents

@@ -1,15 +1,11 @@
 ---
 name: cursor-vscode
-description: Cursor IDE rules for vscode
-domain: engineering
+description: "Cursor IDE rules for vscode"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "VS Code: settings, extensions, workspace config"
-alwaysApply: true
 ---
 
 # VS Code / Cursor Rules

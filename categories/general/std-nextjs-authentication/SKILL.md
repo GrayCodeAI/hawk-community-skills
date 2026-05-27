@@ -1,19 +1,14 @@
 ---
-name: nextjs-authentication
-description: Secure token storage (HttpOnly Cookies) and Middleware patterns. Use when implementing authentication, secure session storage, or auth middleware in Next.js.
-metadata:
-  triggers:
-    files:
-    - 'middleware.ts'
-    - '**/auth.ts'
-    - '**/login/page.tsx'
-    keywords:
-    - cookie
-    - jwt
-    - session
-    - localstorage
-    - auth
+name: std-nextjs-authentication
+description: "Secure token storage (HttpOnly Cookies) and Middleware patterns. Use when implementing authentication, secure session storage, or auth middleware in Next.js."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Authentication & Token Management
 
 ## **Priority: P0 (CRITICAL)**

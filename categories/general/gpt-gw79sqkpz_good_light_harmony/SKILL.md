@@ -1,3 +1,10 @@
+---
+name: gpt-gw79sqkpz_good_light_harmony
+description: "Skill: gpt-gw79sqkpz_good_light_harmony"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GW79SQkPZ-good-light-harmony
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IwJjvyQF8AeRFRofuKKoMhdD?se=2124-01-07T00%3A30%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3De3cefe0d-848a-48d5-bf19-664eb439200c.png&sig=jNo4Y3nTCcEKgTRjuVMO/pEZj53zEvVfzqjiUZrOa6I%3D" width="100px" />

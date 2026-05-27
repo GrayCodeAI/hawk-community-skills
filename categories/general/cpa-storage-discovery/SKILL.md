@@ -1,3 +1,10 @@
+---
+name: cpa-storage-discovery
+description: "Skill: cpa-storage-discovery"
+license: MIT
+tags: [general]
+---
+
 # az storage-discovery
 
 ```bash

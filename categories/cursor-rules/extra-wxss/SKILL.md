@@ -1,8 +1,11 @@
 ---
-description: 微信小程序 WXSS 编写规范
-globs: **/*.wxss
-alwaysApply: false
+name: extra-wxss
+description: "微信小程序 WXSS 编写规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
+
 # WXSS 编写规范
 
 ## 基本语法规范

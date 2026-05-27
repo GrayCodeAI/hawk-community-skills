@@ -1,3 +1,10 @@
+---
+name: gpt-vi2kaim9n_whimsical_diagrams
+description: "Skill: gpt-vi2kaim9n_whimsical_diagrams"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vI2kaiM9N-whimsical-diagrams
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-w1wRg58ZPtZgXXTQJqiEwJ4H?se=2124-01-06T16%3A22%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DWhite%2520Icon%2520on%2520Gradient%2520SQ%25402x.png&sig=9eaJvzM4CZfWuo08Mik5OfaxwqRbEfZl0J333af9dRo%3D" width="100px" />

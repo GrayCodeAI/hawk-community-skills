@@ -1,5 +1,9 @@
 ---
-description: Sets general preferences for TypeScript React development, such as preferring functional components.
-globs: **/*.tsx
+name: mdc-typescript-react---general-preferences
+description: 'Skill: mdc-typescript-react---general-preferences'
+license: MIT
+tags:
+- react
 ---
+
 - Prefer functional components

@@ -1,3 +1,10 @@
+---
+name: cpa-appconfig
+description: "Skill: cpa-appconfig"
+license: MIT
+tags: [general]
+---
+
 # az appconfig
 
 ```bash

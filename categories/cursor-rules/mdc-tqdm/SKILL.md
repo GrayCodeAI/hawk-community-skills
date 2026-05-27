@@ -1,7 +1,10 @@
 ---
-description: This guide defines best practices for using the `tqdm` library to implement clear, efficient, and robust progress bars in Python applications, ensuring consistent user feedback and maintainable code.
-globs: **/*.py
+name: mdc-tqdm
+description: "This guide defines best practices for using the `tqdm` library to implement clear, efficient, and robust progress bars in Python applications, ensuring consistent user feedback and maintainable code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # tqdm Best Practices
 
 `tqdm` is the definitive library for adding progress bars to Python applications. It's lightweight, fast, and works across various environments (terminal, Jupyter). This guide outlines the mandatory practices for its use.

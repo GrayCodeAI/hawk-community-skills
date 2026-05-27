@@ -1,7 +1,10 @@
 ---
-description: Rules for defining the structure of regions in the cellular automata simulation. These rules specify the data structure needed for regions.
-globs: /src/region_structure/**/*.*
+name: mdc-region-structure-definition-rules
+description: "Rules for defining the structure of regions in the cellular automata simulation. These rules specify the data structure needed for regions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Define the Region Structure:
   - Create a comprehensive data structure to represent each region. This structure should be flexible enough to accommodate various parameters that can influence the behavior of soup cells within that region. Consider including:
     - Obstacle

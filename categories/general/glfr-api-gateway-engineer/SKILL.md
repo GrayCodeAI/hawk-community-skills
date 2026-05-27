@@ -1,7 +1,9 @@
 ---
-name: api-gateway-engineer
-description: API gateway patterns, rate limiting, authentication proxies, and request routing
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-api-gateway-engineer
+description: "API gateway patterns, rate limiting, authentication proxies, and request routing"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

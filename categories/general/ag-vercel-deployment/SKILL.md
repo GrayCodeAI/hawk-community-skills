@@ -1,6 +1,8 @@
 ---
-name: vercel-deployment
-description: Expert knowledge for deploying to Vercel with Next.js
+name: ag-vercel-deployment
+description: "Expert knowledge for deploying to Vercel with Next.js"
+license: MIT
+tags: [general]
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

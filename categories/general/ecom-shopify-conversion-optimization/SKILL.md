@@ -1,3 +1,10 @@
+---
+name: ecom-shopify-conversion-optimization
+description: "Skill: ecom-shopify-conversion-optimization"
+license: MIT
+tags: [general]
+---
+
 # Shopify Conversion Optimization
 
 Increase Shopify store conversion rates with data-driven optimization. Product pages, checkout flow, trust signals, page speed, mobile UX, and A/B testing for higher revenue per visitor.

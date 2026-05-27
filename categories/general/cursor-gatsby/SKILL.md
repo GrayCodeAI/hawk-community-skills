@@ -1,16 +1,11 @@
 ---
 name: cursor-gatsby
-description: Cursor IDE rules for gatsby
-domain: engineering
+description: "Cursor IDE rules for gatsby"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Gatsby: GraphQL data layer, plugins, static generation"
-globs: ["*.tsx", "*.jsx", "*.ts"]
-alwaysApply: true
 ---
 
 # Gatsby Cursor Rules

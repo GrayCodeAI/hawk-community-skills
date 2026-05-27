@@ -1,3 +1,10 @@
+---
+name: ls-bgsmgcyhx_visla_video_maker
+description: "Skill: ls-bgsmgcyhx_visla_video_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bGsMgcyhx-visla-video-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-bMsRDlkNjXyNmLnNYj8kNhct?se=2123-11-04T21%3A50%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DVisla_Logo_new.png&sig=p71RHbPPSPVOtYneniaLW3lVgZvIveXuYyMBXWZGAzs%3D" width="100px" />

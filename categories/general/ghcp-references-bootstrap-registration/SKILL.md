@@ -1,3 +1,10 @@
+---
+name: ghcp-references-bootstrap-registration
+description: "Skill: ghcp-references-bootstrap-registration"
+license: MIT
+tags: [general]
+---
+
 # Bootstrap And Registration
 
 Use this reference when changing `onEnable`, `onDisable`, command setup, event wiring, or startup ordering.

@@ -1,6 +1,8 @@
 ---
-applyTo: "**"
-description: 'Instructions for customizing GitHub Copilot behavior for MONGODB DBA chat mode.'
+name: ghcp-instructions-mongo-dba.instructions
+description: "Skill: ghcp-instructions-mongo-dba.instructions"
+license: MIT
+tags: [general]
 ---
 
 # MongoDB DBA Chat Mode Instructions

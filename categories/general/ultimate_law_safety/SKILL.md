@@ -1,9 +1,10 @@
 ---
 name: ultimate_law_safety
-description: Fabric pattern - ultimate_law_safety
-domain: general
+description: "Fabric pattern - ultimate_law_safety"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

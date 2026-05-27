@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_telegrambot_20250822
+description: "Skill: sys-perplexity.ai_telegrambot_20250822"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_telegramBot_20250822.md
 
 source:

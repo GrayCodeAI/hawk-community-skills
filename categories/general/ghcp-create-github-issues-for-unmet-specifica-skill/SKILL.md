@@ -1,6 +1,8 @@
 ---
-name: create-github-issues-for-unmet-specification-requirements
-description: 'Create GitHub Issues for unimplemented requirements from specification files using feature_request.yml template.'
+name: ghcp-create-github-issues-for-unmet-specifica-skill
+description: "Create GitHub Issues for unimplemented requirements from specification files using feature_request.yml template."
+license: MIT
+tags: [general]
 ---
 
 # Create GitHub Issues for Unmet Specification Requirements

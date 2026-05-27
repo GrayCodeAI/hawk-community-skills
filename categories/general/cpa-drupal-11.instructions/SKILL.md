@@ -1,3 +1,10 @@
+---
+name: cpa-drupal-11.instructions
+description: "Skill: cpa-drupal-11.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this Drupal project. The goal is to ensure consistent, high-quality code generation aligned with Drupal conventions, security best practices, and our development standards.

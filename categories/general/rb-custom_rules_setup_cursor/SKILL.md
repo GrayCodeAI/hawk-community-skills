@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_cursor
+description: "Skill: rb-custom_rules_setup_cursor"
+license: MIT
+tags: [general]
+---
+
 source: https://arc.net/l/quote/zegkkqjh
 
 # Global Rules

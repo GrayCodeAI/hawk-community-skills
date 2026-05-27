@@ -1,7 +1,10 @@
 ---
-description: Enforce modern Gradle build practices for Java and Android projects, focusing on Kotlin DSL, modularity, version catalogs, and performance optimizations.
-globs: **/*.java
+name: mdc-gradle
+description: "Enforce modern Gradle build practices for Java and Android projects, focusing on Kotlin DSL, modularity, version catalogs, and performance optimizations."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Gradle Best Practices
 
 This guide outlines the definitive best practices for building robust, maintainable, and performant Java and Android projects with Gradle, leveraging the Kotlin DSL and modern features.

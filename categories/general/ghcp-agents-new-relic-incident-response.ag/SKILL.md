@@ -1,10 +1,10 @@
 ---
-name: New Relic Incident Response Agent
-description: Identify and fix production issues by correlating New Relic observability data with code changes. Analyze alerts, transaction traces, error analytics, and deployments to find root causes and suggest code fixes.
+name: ghcp-agents-new-relic-incident-response.ag
+description: "Identify and fix production issues by correlating New Relic observability data with code changes. Analyze alerts, transaction traces, error analytics, and deployments to find root causes and sugges..."
+license: MIT
+tags: [general]
 model: gpt-4.1
-tools:
-   - new-relic-mcp-server
-   - github
+tools: None
 ---
 
 # New Relic Incident Response & Debugging Agent - System Prompt

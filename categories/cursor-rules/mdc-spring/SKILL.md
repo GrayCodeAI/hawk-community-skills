@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, maintainable, and performant Spring Boot applications using modern best practices.
-globs: **/*.java
+name: mdc-spring
+description: "Definitive guidelines for building robust, maintainable, and performant Spring Boot applications using modern best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Spring Best Practices
 
 This guide outlines essential best practices for developing with Spring Boot, ensuring your applications are well-structured, performant, secure, and easily testable.

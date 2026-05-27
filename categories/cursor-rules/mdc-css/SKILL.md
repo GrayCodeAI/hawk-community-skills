@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, performant, and accessible CSS. Focus on modern practices, robust architecture, and efficient styling patterns.
-globs: **/*
+name: mdc-css
+description: "Definitive guidelines for writing maintainable, performant, and accessible CSS. Focus on modern practices, robust architecture, and efficient styling patterns."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # CSS Best Practices
 
 This guide outlines the definitive best practices for writing CSS within our team. Adhering to these principles ensures our stylesheets are scalable, maintainable, performant, and accessible.

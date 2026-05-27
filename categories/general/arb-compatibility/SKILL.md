@@ -1,3 +1,10 @@
+---
+name: arb-compatibility
+description: "Skill: arb-compatibility"
+license: MIT
+tags: [general]
+---
+
 # Book Rule Compatibility Matrix
 
 This matrix compares the canonical `mini` rule sets and answers whether two books should be loaded together as active agent guidance.

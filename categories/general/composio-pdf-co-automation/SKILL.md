@@ -1,8 +1,10 @@
 ---
-name: pdf-co-automation
+name: composio-pdf-co-automation
 description: "Automate PDF co tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # PDF co Automation via Rube MCP

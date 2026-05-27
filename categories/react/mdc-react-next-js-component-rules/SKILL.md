@@ -1,7 +1,10 @@
 ---
-description: Enforces specific React/Next.js component development practices, including functional components, declarative JSX, UI library usage, and optimization techniques.
-globs: components/**/*.{ts,tsx,js,jsx}
+name: mdc-react-next-js-component-rules
+description: "Enforces specific React/Next.js component development practices, including functional components, declarative JSX, UI library usage, and optimization techniques."
+license: MIT
+tags: [react]
 ---
+
 - Use functional components and TypeScript interfaces.
 - Use declarative JSX.
 - Use function, not const, for components.

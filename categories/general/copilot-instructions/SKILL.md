@@ -1,6 +1,8 @@
 ---
-description: Comprehensive development guidelines for Microsoft 365 Copilot declarative agents with schema v1.5, TypeSpec integration, and Microsoft 365 Agents Toolkit workflows
-applyTo: "**.json, **.ts, **.tsp, **manifest.json, **agent.json, **declarative-agent.json"
+name: copilot-instructions
+description: "Skill: copilot-instructions"
+license: MIT
+tags: [general]
 ---
 
 # Microsoft 365 Declarative Agents Development Guidelines

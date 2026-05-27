@@ -1,3 +1,10 @@
+---
+name: ls-zz2aqahnv_product-manager-mock-prep
+description: "Skill: ls-zz2aqahnv_product-manager-mock-prep"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Zz2aQaHNv-product-manager-mock-prep
 
 GPT Title: Product Manager Mock Prep

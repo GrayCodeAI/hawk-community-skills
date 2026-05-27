@@ -1,3 +1,10 @@
+---
+name: gpt-dpogspvk1_sesame-street-stories
+description: "Skill: gpt-dpogspvk1_sesame-street-stories"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DPogSPVK1-sesame-street-stories
 
 GPT Title: Sesame Street Stories

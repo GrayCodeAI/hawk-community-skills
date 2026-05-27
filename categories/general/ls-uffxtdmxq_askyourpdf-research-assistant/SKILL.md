@@ -1,3 +1,10 @@
+---
+name: ls-uffxtdmxq_askyourpdf-research-assistant
+description: "Skill: ls-uffxtdmxq_askyourpdf-research-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant
 
 GPT Title: AskYourPDF Research Assistant

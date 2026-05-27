@@ -1,9 +1,10 @@
 ---
 name: cr-jest-unit-testing
-description: Cursor rules for jest-unit-testing
-domain: engineering
+description: "Cursor rules for jest-unit-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -129,4 +130,4 @@ describe('getUserData', () => {
     // Act & Assert
     await expect(getUserData(1)).rejects.toThrow('Failed to fetch user: Network error');
   });
-}); 
+});

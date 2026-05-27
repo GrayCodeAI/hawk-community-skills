@@ -1,12 +1,11 @@
 ---
-name: flow-nexus-swarm
-description: Cloud-based AI swarm deployment and event-driven workflow automation with Flow Nexus platform
-category: orchestration
+name: flow-flow-nexus-swarm
+description: "Cloud-based AI swarm deployment and event-driven workflow automation with Flow Nexus platform"
+license: MIT
 tags: [swarm, workflow, cloud, agents, automation, message-queue]
+category: orchestration
 version: 1.0.0
-requires:
-  - flow-nexus MCP server
-  - Active Flow Nexus account (register at flow-nexus.ruv.io)
+requires: None
 ---
 
 # Flow Nexus Swarm & Workflow Orchestration

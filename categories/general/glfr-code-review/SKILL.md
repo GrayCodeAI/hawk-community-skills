@@ -1,3 +1,10 @@
+---
+name: glfr-code-review
+description: "Skill: glfr-code-review"
+license: MIT
+tags: [general]
+---
+
 # Code Review
 
 ## Review Checklist

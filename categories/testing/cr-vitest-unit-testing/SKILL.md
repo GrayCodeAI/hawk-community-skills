@@ -1,9 +1,10 @@
 ---
 name: cr-vitest-unit-testing
-description: Cursor rules for vitest-unit-testing
-domain: engineering
+description: "Cursor rules for vitest-unit-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -147,4 +148,4 @@ describe('getForecast', () => {
     // Act & Assert
     await expect(getForecast('Tokyo')).rejects.toThrow('Failed to get forecast: Service unavailable');
   });
-}); 
+});

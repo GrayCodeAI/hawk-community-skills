@@ -1,15 +1,12 @@
 ---
 name: implementing-microsegmentation-with-guardicore
-description: >
-  Implementing microsegmentation using Akamai Guardicore Segmentation to map application
-  dependencies, create granular network policies, visualize east-west traffic flows,
-  and enforce least-privilege communication between workloads across data centers and cloud.
+description: "Implementing microsegmentation using Akamai Guardicore Segmentation to map application dependencies, create granular network policies, visualize east-west traffic flows, and enforce least-privilege..."
+license: MIT
+tags: [microsegmentation, guardicore, akamai, zero-trust, east-west-traffic, network-segmentation, lateral-movement]
 domain: cybersecurity
 subdomain: zero-trust-architecture
-tags: [microsegmentation, guardicore, akamai, zero-trust, east-west-traffic, network-segmentation, lateral-movement]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Microsegmentation with Guardicore

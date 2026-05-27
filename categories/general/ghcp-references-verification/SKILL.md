@@ -1,3 +1,10 @@
+---
+name: ghcp-references-verification
+description: "Skill: ghcp-references-verification"
+license: MIT
+tags: [general]
+---
+
 # Verification Checklist (Phase 6: Verify)
 
 Before declaring the quality playbook complete, check every benchmark below. If any fails, go back and fix it.

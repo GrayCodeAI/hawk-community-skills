@@ -1,3 +1,10 @@
+---
+name: cpa-large-storage-instance
+description: "Skill: cpa-large-storage-instance"
+license: MIT
+tags: [general]
+---
+
 # az large-storage-instance
 
 ```bash

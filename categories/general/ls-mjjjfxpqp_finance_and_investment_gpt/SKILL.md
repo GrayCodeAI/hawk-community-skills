@@ -1,3 +1,10 @@
+---
+name: ls-mjjjfxpqp_finance_and_investment_gpt
+description: "Skill: ls-mjjjfxpqp_finance_and_investment_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mJjjFXPQp-finance-and-investment-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-67dEBWJiIJXtxj5h4fUqWdZE?se=2123-12-16T00%3A26%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D2fe5fe64-12d7-4db0-8f62-cef230d440e8.png&sig=/LXNI8Sc9W400RQI5QEmqru8p0MjxLQyPvSNYmm%2BeTU%3D" width="100px" />

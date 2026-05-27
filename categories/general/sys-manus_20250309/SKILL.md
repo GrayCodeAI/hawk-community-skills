@@ -1,3 +1,10 @@
+---
+name: sys-manus_20250309
+description: "Skill: sys-manus_20250309"
+license: MIT
+tags: [general]
+---
+
 # manus_20250309
 
 source(prompt): <https://x.com/jianxliao/status/1898861051183349870>

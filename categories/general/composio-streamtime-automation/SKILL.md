@@ -1,8 +1,10 @@
 ---
-name: streamtime-automation
+name: composio-streamtime-automation
 description: "Automate Streamtime tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Streamtime Automation via Rube MCP

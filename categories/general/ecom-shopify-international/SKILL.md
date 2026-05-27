@@ -1,9 +1,11 @@
 ---
-name: shopify-international
+name: ecom-shopify-international
 description: "Shopify Markets — multi-currency, translation, duties/taxes, localized pricing, market-specific content"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify International Selling

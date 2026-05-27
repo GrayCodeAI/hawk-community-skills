@@ -1,12 +1,11 @@
 ---
-name: specialist-jira-analyst
-description: High-density JIRA analysis persona. Extracts reproduce steps, ACs, and market requirements with zero-hallucination rigor.
-metadata:
-  triggers:
-    keywords:
-    - jira analysis
-    - analyze ticket
-    - extract reproduce steps
+name: std-specialist-jira-analyst
+description: "High-density JIRA analysis persona. Extracts reproduce steps, ACs, and market requirements with zero-hallucination rigor."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 📋 Specialist: Jira Analyst

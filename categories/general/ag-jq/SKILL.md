@@ -1,12 +1,13 @@
 ---
-name: jq
+name: ag-jq
 description: "Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows."
+license: MIT
+tags: [jq, json, shell, cli, data-transformation, bash]
 category: development
 risk: safe
 source: community
-date_added: "2026-03-28"
+date_added: 2026-03-28
 author: kostakost2
-tags: [jq, json, shell, cli, data-transformation, bash]
 tools: [claude, cursor, gemini]
 ---
 

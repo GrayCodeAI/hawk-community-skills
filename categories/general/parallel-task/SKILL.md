@@ -1,7 +1,8 @@
 ---
 name: parallel-task
-description: >
-  Only to be triggered by explicit /parallel-task commands. 
+description: "Skill: parallel-task"
+license: MIT
+tags: [general]
 ---
 
 # Parallel Task Executor

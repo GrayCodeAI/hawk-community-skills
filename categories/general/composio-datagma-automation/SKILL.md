@@ -1,8 +1,10 @@
 ---
-name: datagma-automation
+name: composio-datagma-automation
 description: "Automate Datagma tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Datagma Automation via Rube MCP

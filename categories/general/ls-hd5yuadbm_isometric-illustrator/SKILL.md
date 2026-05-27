@@ -1,3 +1,10 @@
+---
+name: ls-hd5yuadbm_isometric-illustrator
+description: "Skill: ls-hd5yuadbm_isometric-illustrator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hD5YuadBM-isometric-illustrator
 
 GPT Title: Isometric illustrator

@@ -1,3 +1,10 @@
+---
+name: lira-pull_request_template
+description: "Skill: lira-pull_request_template"
+license: MIT
+tags: [general]
+---
+
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description

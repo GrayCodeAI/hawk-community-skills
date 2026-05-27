@@ -1,9 +1,10 @@
 ---
 name: create_video_chapters
-description: Fabric pattern - create_video_chapters
-domain: general
+description: "Fabric pattern - create_video_chapters"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

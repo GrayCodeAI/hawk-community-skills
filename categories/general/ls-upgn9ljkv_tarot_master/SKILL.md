@@ -1,3 +1,10 @@
+---
+name: ls-upgn9ljkv_tarot_master
+description: "Skill: ls-upgn9ljkv_tarot_master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UpGN9LJKV-tarot-master
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-aCSiFhk4reGMR7qBSma9sNUF?se=2123-12-31T19%3A50%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1bcc550f-15d8-4bed-8f9b-b3beb5dec5d9.png&sig=JMBP7IJUWPN8l22M%2BReeum0ZvCRPxHPW88eppx13yF8%3D" width="100px" />

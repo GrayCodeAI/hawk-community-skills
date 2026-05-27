@@ -1,3 +1,10 @@
+---
+name: ghcp-java-managing-local-files
+description: "Skill: ghcp-java-managing-local-files"
+license: MIT
+tags: [general]
+---
+
 # Grouping Files by Metadata
 
 Use Copilot to intelligently organize files in a folder based on their metadata.

@@ -1,3 +1,10 @@
+---
+name: gpt-getting_started
+description: "Skill: gpt-getting_started"
+license: MIT
+tags: [general]
+---
+
 # Getting Started
 
 ## How to get system prompt

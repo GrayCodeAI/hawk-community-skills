@@ -1,10 +1,12 @@
 ---
-name: market-gap-analysis
+name: ecom-market-gap-analysis
 description: "Identify underserved market gaps and unmet customer needs in e-commerce. Analyzes competitor blind spots, review pain points, search demand without adequate supply, and emerging customer segments."
-metadata:
-  nexscope:
-    emoji: "🎯"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🎯
+category: ecommerce
 ---
 
 # Market Gap Analysis 🎯

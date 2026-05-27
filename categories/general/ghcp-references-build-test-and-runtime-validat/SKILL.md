@@ -1,3 +1,10 @@
+---
+name: ghcp-references-build-test-and-runtime-validat
+description: "Skill: ghcp-references-build-test-and-runtime-validat"
+license: MIT
+tags: [general]
+---
+
 # Build, Test, And Runtime Validation
 
 Use this reference when a Minecraft plugin task touches build configuration, packaging, generated resources, deployment to a local test server, optional plugin integrations, reload behavior, or release readiness.

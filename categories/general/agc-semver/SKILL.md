@@ -1,3 +1,10 @@
+---
+name: agc-semver
+description: "Skill: agc-semver"
+license: MIT
+tags: [general]
+---
+
 # SemVer Setup
 
 Use this when the project already declares SemVer (CHANGELOG mentions "SemVer", git tags are `vX.Y.Z`, or a config file holds an explicit `X.Y.Z` version). SemVer projects have a source of truth for the current version; the script does not auto-compute.

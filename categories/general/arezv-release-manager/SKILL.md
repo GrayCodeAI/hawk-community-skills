@@ -1,6 +1,8 @@
 ---
-name: "release-manager"
+name: arezv-release-manager
 description: "Use when the user asks to plan releases, manage changelogs, coordinate deployments, create release branches, or automate versioning."
+license: MIT
+tags: [general]
 ---
 
 # Release Manager

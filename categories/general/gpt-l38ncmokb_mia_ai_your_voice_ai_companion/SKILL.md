@@ -1,3 +1,10 @@
+---
+name: gpt-l38ncmokb_mia_ai_your_voice_ai_companion
+description: "Skill: gpt-l38ncmokb_mia_ai_your_voice_ai_companion"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l38NcMokB-mia-ai-your-voice-ai-companion
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gNWlUTWznfwbwDsCGd2ko8qe?se=2123-12-09T00%3A54%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DExtension%2520Icon.png&sig=E3SXuczawydbzMDfCGRzOeQ7TY5nkH2Oz1VxX6N2UPQ%3D" width="100px" />

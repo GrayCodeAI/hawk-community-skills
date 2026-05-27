@@ -1,3 +1,10 @@
+---
+name: cpa-edge-zones
+description: "Skill: cpa-edge-zones"
+license: MIT
+tags: [general]
+---
+
 # az edge-zones
 
 ```bash

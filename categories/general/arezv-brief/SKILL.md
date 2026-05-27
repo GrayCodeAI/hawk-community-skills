@@ -1,6 +1,8 @@
 ---
-name: "brief"
+name: arezv-brief
 description: "/cs:brief <topic> — Generate a one-page strategy brief from an office-hours intake. First step in the strategic sprint pipeline."
+license: MIT
+tags: [general]
 ---
 
 # /cs:brief — One-Page Strategy Brief

@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Online Reputation Management"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "reputation"
-    - "brand-monitoring"
-    - "crisis-management"
-    - "review-management"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "online reputation management"
+name: ecom-online-reputation-management
+description: "Skill: ecom-online-reputation-management"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Online Reputation Management

@@ -1,19 +1,14 @@
 ---
 name: analyzing-cyber-kill-chain
-description: >
-  Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain framework to identify
-  which phases an adversary has completed, where defenses succeeded or failed, and what controls
-  would have interrupted the attack at earlier phases. Use when conducting post-incident analysis,
-  building prevention-focused security controls, or mapping detection gaps to kill chain phases.
-  Activates for requests involving kill chain analysis, intrusion kill chain, attack phase mapping,
-  or Lockheed Martin kill chain framework.
+description: "Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain framework to identify which phases an adversary has completed, where defenses succeeded or failed, and what controls would h..."
+license: MIT
+tags: [kill-chain, lockheed-martin, mitre-att-ck, intrusion-analysis, defense-in-depth, nist-csf]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [kill-chain, Lockheed-Martin, MITRE-ATT&CK, intrusion-analysis, defense-in-depth, NIST-CSF]
 version: 1.0.0
 author: team-cybersecurity
-license: MIT
 ---
+
 # Analyzing Cyber Kill Chain
 
 ## When to Use

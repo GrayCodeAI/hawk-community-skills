@@ -1,16 +1,17 @@
 ---
-name: "c-level-advisor"
-description: "10 C-level advisory agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. CEO, CTO, COO, CPO, CMO, CFO, CRO, CISO, CHRO, Executive Mentor. Multi-role board meetings, strategy routing, structured recommendations. For founders needing executive-level decision support."
+name: arezv-c-level-skills
+description: "10 C-level advisory agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. CEO, CTO, COO, CPO, CMO, CFO, CRO, CISO, CHRO, Executive Mentor. Multi-role board meetings, strate..."
 license: MIT
-metadata:
-  version: 2.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: executive-advisory
-  updated: 2026-03-05
-  skills_count: 28
-  scripts_count: 25
-  references_count: 52
+tags: [general]
+metadata: None
+version: 2.0.0
+author: Alireza Rezvani
+category: c-level
+domain: executive-advisory
+updated: 2026-03-05
+skills_count: 28
+scripts_count: 25
+references_count: 52
 ---
 
 # C-Level Advisory Ecosystem

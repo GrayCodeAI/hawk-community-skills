@@ -1,3 +1,10 @@
+---
+name: ls-qxqwc02q8_neila
+description: "Skill: ls-qxqwc02q8_neila"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qXqwC02q8-neila
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0zvmDYFyCbUoytJ1kcW2W1hJ?se=2124-01-14T18%3A55%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbe6ed937-3d38-49d1-a79f-6b139d41e01b.webp&sig=4Mq1WYuwzo6N6ZBh8D2k43yyWZWT/8QfGZqEbb8Aozc%3D" width="100px" />

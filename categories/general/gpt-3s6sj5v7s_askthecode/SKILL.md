@@ -1,3 +1,10 @@
+---
+name: gpt-3s6sj5v7s_askthecode
+description: "Skill: gpt-3s6sj5v7s_askthecode"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3s6SJ5V7S-askthecode
 
 GPT Title: AskTheCode

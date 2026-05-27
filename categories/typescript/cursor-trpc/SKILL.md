@@ -1,17 +1,13 @@
 ---
 name: cursor-trpc
-description: Cursor IDE rules for trpc
-domain: engineering
+description: "Cursor IDE rules for trpc"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: tRPC router setup, procedures, client usage, and error handling
-globs: **/trpc/**,**/server/routers/**
-alwaysApply: false
----
 # tRPC Rules
 
 ## Router Setup

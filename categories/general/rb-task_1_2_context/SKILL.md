@@ -1,3 +1,10 @@
+---
+name: rb-task_1_2_context
+description: "Skill: rb-task_1_2_context"
+license: MIT
+tags: [general]
+---
+
 # Context for Task 1.2: Integrate `manage_rules.py`
 
 This document provides technical context for integrating the `manage_rules.py` script into the VS Code extension. The primary challenge is executing a Python script from the extension's Node.js/TypeScript environment and ensuring the script is accessible.

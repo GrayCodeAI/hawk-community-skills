@@ -1,8 +1,10 @@
 ---
-name: token-metrics-automation
+name: composio-token-metrics-automation
 description: "Automate Token Metrics tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Token Metrics Automation via Rube MCP

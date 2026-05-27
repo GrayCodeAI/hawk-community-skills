@@ -1,3 +1,10 @@
+---
+name: cpa-reservations
+description: "Skill: cpa-reservations"
+license: MIT
+tags: [general]
+---
+
 # az reservations
 
 ```bash

@@ -1,9 +1,10 @@
 ---
 name: extract_bd_ideas
-description: Fabric pattern - extract_bd_ideas
-domain: general
+description: "Fabric pattern - extract_bd_ideas"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

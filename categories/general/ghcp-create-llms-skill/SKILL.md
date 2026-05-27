@@ -1,6 +1,8 @@
 ---
-name: create-llms
-description: 'Create an llms.txt file from scratch based on repository structure following the llms.txt specification at https://llmstxt.org/'
+name: ghcp-create-llms-skill
+description: "Create an llms.txt file from scratch based on repository structure following the llms.txt specification at https://llmstxt.org/"
+license: MIT
+tags: [general]
 ---
 
 # Create LLMs.txt File from Repository Structure

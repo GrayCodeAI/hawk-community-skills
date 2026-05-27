@@ -1,3 +1,10 @@
+---
+name: ls-mtcyehce2_coderx
+description: "Skill: ls-mtcyehce2_coderx"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mTcYEHCe2-coderx
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-iYcNqAs1nEXF2oFPP4ihbEtF?se=2124-01-17T04%3A20%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-12-19%252015.05.35%2520-%2520A%2520high-tech%2520representation%2520of%2520a%2520coding%2520environment%252C%2520featuring%2520a%25203D%2520holographic%2520display%2520of%2520code%2520and%2520algorithms%252C%2520surrounded%2520by%2520futuristic%2520gadgets%2520and%2520to.png&sig=B2TJcjbE/cQWjJ/e7dv3DxHP8iyaJCojiWkaFSrRoYE%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
-name: bpl-24
-description: System prompt - 24
-domain: general
+name: bpl-txt-24
+description: "System prompt - 24"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

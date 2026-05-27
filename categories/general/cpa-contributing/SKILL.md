@@ -1,3 +1,10 @@
+---
+name: cpa-contributing
+description: "Skill: cpa-contributing"
+license: MIT
+tags: [general]
+---
+
 # Introduction
 
 First off, thank you for considering contributing to Awesome Copilot Instructions.

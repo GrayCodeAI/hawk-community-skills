@@ -1,3 +1,10 @@
+---
+name: gpt-arzl0fm0r_zombie_starport
+description: "Skill: gpt-arzl0fm0r_zombie_starport"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ArZL0FM0r-zombie-starport
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-hp9XNhWIuJjJML66Dn8aegdM?se=2124-01-06T09%3A07%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D469efa2f-c817-4b81-a99c-1732e67546d8.png&sig=hJhVPZT1EHFhIUJJfEAsixMpKWoiyrciFGsqyWBl5vI%3D" width="100px" />

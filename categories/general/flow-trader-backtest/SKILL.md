@@ -1,9 +1,12 @@
 ---
-name: trader-backtest
-description: Run a historical backtest using npx neural-trader with Rust/NAPI engine (8-19x faster) and walk-forward validation
+name: flow-trader-backtest
+description: "Run a historical backtest using npx neural-trader with Rust/NAPI engine (8-19x faster) and walk-forward validation"
+license: MIT
+tags: [general]
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search mcp__claude-flow__neural_train mcp__claude-flow__agentdb_pattern-store
-argument-hint: "<strategy-name> --symbol <TICKER> [--period 2020-2024]"
+argument-hint: <strategy-name> --symbol <TICKER> [--period 2020-2024]
 ---
+
 Run a historical backtest using the `neural-trader` Rust/NAPI engine.
 
 Steps:

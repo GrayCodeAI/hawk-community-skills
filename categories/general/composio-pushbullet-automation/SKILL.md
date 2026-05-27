@@ -1,8 +1,10 @@
 ---
-name: pushbullet-automation
+name: composio-pushbullet-automation
 description: "Automate Pushbullet tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Pushbullet Automation via Rube MCP

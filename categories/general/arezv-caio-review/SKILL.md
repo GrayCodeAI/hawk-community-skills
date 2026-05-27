@@ -1,6 +1,8 @@
 ---
-name: "caio-review"
+name: arezv-caio-review
 description: "/cs:caio-review <plan> — Eval-demanding Chief AI Officer interrogation of any plan that involves AI: model selection, risk classification, cost economics, or AI hiring."
+license: MIT
+tags: [general]
 ---
 
 # /cs:caio-review — CAIO Forcing Questions

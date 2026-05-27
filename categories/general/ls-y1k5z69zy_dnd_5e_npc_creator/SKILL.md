@@ -1,3 +1,10 @@
+---
+name: ls-y1k5z69zy_dnd_5e_npc_creator
+description: "Skill: ls-y1k5z69zy_dnd_5e_npc_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Y1K5z69ZY-d-d-5e-npc-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HlrUM1G6xhmRMbwsOEZMi1Np?se=2123-10-19T16%3A54%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9f4b149c-daa0-4e8a-850b-94927f250efb.png&sig=VLFZCbMftu2xzmd0pV6shqW/IfP9F2wAwaznjI4eOBc%3D" width="100px" />

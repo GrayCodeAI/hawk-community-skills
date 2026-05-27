@@ -1,8 +1,10 @@
 ---
-name: walmart-review-checker
+name: ecom-walmart-review-checker
+description: "Walmart review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes WFS verified badge analysis, incentivized review detection, and Walmart-specific re..."
+license: MIT
+tags: [general]
 version: 1.0.0
-description: "Walmart review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes WFS verified badge analysis, incentivized review detection, and Walmart-specific red flag identification. No API key required."
-metadata: {"nexscope":{"emoji":"🔍","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🔍', 'category': 'ecommerce'}}
 ---
 
 # Walmart Review Checker 🔍

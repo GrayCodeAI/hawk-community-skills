@@ -1,3 +1,10 @@
+---
+name: ls-cxe3tq6ha_taxgpt
+description: "Skill: ls-cxe3tq6ha_taxgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-a8Ri8p6s360AUCTQdsOqE6l6?se=2123-10-17T20%3A41%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5c5c7a36-995e-457d-81c2-ea05a48ae583.png&sig=1oLKQr2ovckOga8UmMI%2B2o7ZGp7yWcxOK9uUcJTc3d8%3D" width="100px" />

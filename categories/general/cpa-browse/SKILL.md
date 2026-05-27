@@ -1,3 +1,10 @@
+---
+name: cpa-browse
+description: "Skill: cpa-browse"
+license: MIT
+tags: [general]
+---
+
 # az containerapp browse
 
 ```bash

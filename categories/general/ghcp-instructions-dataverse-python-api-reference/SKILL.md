@@ -1,6 +1,10 @@
 ---
-applyTo: '**'
+name: ghcp-instructions-dataverse-python-api-reference
+description: "Skill: ghcp-instructions-dataverse-python-api-reference"
+license: MIT
+tags: [general]
 ---
+
 # Dataverse SDK for Python — API Reference Guide
 
 ## DataverseClient Class

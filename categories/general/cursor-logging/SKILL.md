@@ -1,16 +1,11 @@
 ---
 name: cursor-logging
-description: Cursor IDE rules for logging
-domain: engineering
+description: "Cursor IDE rules for logging"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Logging: structured logs, levels, correlation"
-globs: ["*.ts", "*.py", "*.go"]
-alwaysApply: true
 ---
 
 # Logging Cursor Rules

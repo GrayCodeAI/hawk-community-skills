@@ -1,19 +1,11 @@
 ---
-name: "finance-skills"
+name: arezv-finance-skills
 description: "Financial analyst agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. Ratio analysis, DCF valuation, budget variance, rolling forecasts. 4 Python tools (stdlib-only)."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Alireza Rezvani
-license: MIT
-tags:
-  - finance
-  - financial-analysis
-  - dcf
-  - valuation
-  - budgeting
-agents:
-  - claude-code
-  - codex-cli
-  - openclaw
+agents: None
 ---
 
 # Finance Skills

@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-vue
+description: "Skill: inst-setup-firebase-vue"
+license: MIT
+tags: [general]
+---
+
 # Firebase + Vue Integration Setup Guide
 
 This guide provides instructions for setting up and integrating Firebase with a Vue 3 application.
@@ -364,4 +371,4 @@ const deleteFile = async (fileName: string) => {
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [VueFire Documentation](https://vuefire.vuejs.org/)
 - [Vue 3 Documentation](https://vuejs.org/)
-- [Firebase Console](https://console.firebase.google.com/) 
+- [Firebase Console](https://console.firebase.google.com/)

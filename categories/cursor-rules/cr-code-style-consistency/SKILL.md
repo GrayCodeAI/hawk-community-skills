@@ -1,9 +1,10 @@
 ---
 name: cr-code-style-consistency
-description: Cursor rules for code-style-consistency
-domain: engineering
+description: "Cursor rules for code-style-consistency"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

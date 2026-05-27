@@ -1,11 +1,12 @@
 ---
-name: aws-security-audit
+name: ag-aws-security-audit
 description: "Comprehensive AWS security posture assessment using AWS CLI and security best practices"
+license: MIT
+tags: [aws, security, audit, compliance, kiro-cli, security-assessment]
 category: security
 risk: safe
 source: community
-tags: "[aws, security, audit, compliance, kiro-cli, security-assessment]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # AWS Security Audit

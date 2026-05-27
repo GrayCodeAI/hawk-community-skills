@@ -1,17 +1,14 @@
 ---
-name: mocha-skill
-description: >
-  Generates Mocha tests in JavaScript with Chai assertions and Sinon mocking.
-  Use when user mentions "Mocha", "Chai", "sinon", "describe/it (not Jest)".
-  Triggers on: "Mocha", "Chai", "sinon", "mocha test".
-languages:
-  - JavaScript
-  - TypeScript
-category: unit-testing
+name: lt-mocha-skill
+description: "Skill: lt-mocha-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+Triggers on: Mocha", "Chai", "sinon", "mocha test".
+languages: None
+category: unit-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Mocha Testing Skill

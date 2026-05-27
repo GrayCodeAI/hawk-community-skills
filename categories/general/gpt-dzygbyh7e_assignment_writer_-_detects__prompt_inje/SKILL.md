@@ -1,3 +1,10 @@
+---
+name: gpt-dzygbyh7e_assignment_writer_-_detects__prompt_inje
+description: "Skill: gpt-dzygbyh7e_assignment_writer_-_detects__prompt_inje"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DZYgbYh7e-assignment-writer-detects-prompt-injections
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6yjYtIDIsE8BZBf9TXqtAhh6?se=2124-01-04T20%3A41%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D36b92752-165a-4dd5-a78a-49b5628f63c5.png&sig=aRHkAvGna1BC3OGOot1qudFgw94pg9lsVI2H9SQWomY%3D" width="100px" />

@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-email-deliverability-audit
-role: customer-ops
+name: shopify-shopify-admin-email-deliverability-audit
 description: "Read-only: scans the customer database for malformed emails, role accounts, disposable domains, and bounce-suspect patterns to protect sender reputation."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

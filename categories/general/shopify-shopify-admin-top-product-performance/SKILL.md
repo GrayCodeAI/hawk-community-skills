@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-top-product-performance
-role: conversion-optimization
+name: shopify-shopify-admin-top-product-performance
 description: "Rank products by revenue, units sold, and refund rate over a date range by aggregating order line items."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

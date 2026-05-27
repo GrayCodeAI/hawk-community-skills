@@ -1,3 +1,10 @@
+---
+name: cpa-cosmosdb
+description: "Skill: cpa-cosmosdb"
+license: MIT
+tags: [general]
+---
+
 # az cosmosdb
 
 ```bash

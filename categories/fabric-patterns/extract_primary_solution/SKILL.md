@@ -1,9 +1,10 @@
 ---
 name: extract_primary_solution
-description: Fabric pattern - extract_primary_solution
-domain: general
+description: "Fabric pattern - extract_primary_solution"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

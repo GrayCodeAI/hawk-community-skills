@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-loyalty-segment-export
-role: marketing
+name: shopify-shopify-admin-loyalty-segment-export
 description: "Identify high-LTV customers by order count and lifetime spend, tag them, and export a loyalty-ready contact list."
+license: MIT
+tags: [general]
+role: marketing
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - tagsAdd:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'tagsAdd': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

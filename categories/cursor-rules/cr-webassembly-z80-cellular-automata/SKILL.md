@@ -1,9 +1,10 @@
 ---
 name: cr-webassembly-z80-cellular-automata
-description: Cursor rules for webassembly-z80-cellular-automata
-domain: engineering
+description: "Cursor rules for webassembly-z80-cellular-automata"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -103,4 +104,3 @@ Plan:
     d. Optimizing the shader code to maintain performance, especially for larger simulations or complex region effects.
 
 This system will allow for complex, user-defined behaviors across the simulation space, significantly enhancing the depth and interactivity of the cellular automata simulation.
-

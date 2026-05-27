@@ -1,3 +1,10 @@
+---
+name: gpt-qqtuuwsby_crewai-assistant
+description: "Skill: gpt-qqtuuwsby_crewai-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qqTuUWsBY-crewai-assistant
 
 GPT Title: CrewAI Assistant

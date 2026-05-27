@@ -1,9 +1,11 @@
 ---
-name: shopify-blog-strategy
+name: ecom-shopify-blog-strategy
 description: "Content marketing via Shopify blog — SEO content, product education, buying guides, internal linking"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Blog Strategy

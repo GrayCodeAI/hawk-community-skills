@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for Maven projects, focusing on reproducible builds, efficient dependency management, and high code quality.
-globs: **/*.java
+name: mdc-maven
+description: "This guide provides opinionated, actionable best practices for Maven projects, focusing on reproducible builds, efficient dependency management, and high code quality."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Maven Best Practices
 
 Maven is the definitive build tool for modern Java. Adhere to these rules for consistent, maintainable, and high-quality projects.

@@ -1,3 +1,10 @@
+---
+name: gpt-b2w78kh99_hereditary_colorectal_cancer_guide
+description: "Skill: gpt-b2w78kh99_hereditary_colorectal_cancer_guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B2w78kH99-hereditary-colorectal-cancer-guide
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pyFZYhyaFPWOQbq0DSs77Hjp?se=2123-12-04T22%3A02%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0b56bf30-f506-4cf3-8857-6eaa814ad114.png&sig=HvEfScDj0wtEQE6cmQmaLtO8s9vAopt3tGLoV%2B3DA0g%3D" width="100px" />

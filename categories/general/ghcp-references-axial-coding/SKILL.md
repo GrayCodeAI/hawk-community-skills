@@ -1,3 +1,10 @@
+---
+name: ghcp-references-axial-coding
+description: "Skill: ghcp-references-axial-coding"
+license: MIT
+tags: [general]
+---
+
 # Axial Coding
 
 Group open-ended notes into structured failure taxonomies.

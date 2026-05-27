@@ -1,9 +1,11 @@
 ---
-name: framework-migration-legacy-modernize
+name: ag-framework-migration-legacy-modernize
 description: "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Legacy Code Modernization Workflow

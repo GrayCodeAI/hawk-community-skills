@@ -1,6 +1,8 @@
 ---
-description: Implement a simple token or quota system for free image generations
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-06-token-system
+description: "Implement a simple token or quota system for free image generations"
+license: MIT
+tags: [general]
 ---
 
 # Add a Basic Token or Quota System (No Authentication)

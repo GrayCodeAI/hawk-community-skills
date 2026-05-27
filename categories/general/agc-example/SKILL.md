@@ -1,3 +1,10 @@
+---
+name: agc-example
+description: "Skill: agc-example"
+license: MIT
+tags: [general]
+---
+
 # Your RAG Pipeline Is Lying to You. Here's What's Actually Going Wrong
 
 Every company I talk to right now is building a RAG pipeline. Retrieval augmented generation. You take your company's documents, you chunk them up, you embed them into a vector database, and then when someone asks a question, the system retrieves relevant chunks and feeds them to a language model. It sounds like the right architecture. It is the right architecture. And almost everyone is building it wrong.

@@ -1,9 +1,12 @@
 ---
-name: federation-init
-description: Initialize federation on this node — generate keypair and configure peers
+name: flow-federation-init
+description: "Initialize federation on this node — generate keypair and configure peers"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__hooks_post-task Read Write
-argument-hint: "[--compliance hipaa|soc2|gdpr|none]"
+argument-hint: [--compliance hipaa|soc2|gdpr|none]
 ---
+
 Initialize this node for federation. Generates an ed25519 keypair, creates the federation config, and optionally sets a compliance mode.
 
 Steps:

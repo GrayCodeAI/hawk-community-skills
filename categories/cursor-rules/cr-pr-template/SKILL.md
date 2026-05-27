@@ -1,9 +1,10 @@
 ---
 name: cr-pr-template
-description: Cursor rules for pr-template
-domain: engineering
+description: "Cursor rules for pr-template"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

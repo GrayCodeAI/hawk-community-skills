@@ -1,9 +1,10 @@
 ---
 name: cr-vue3-composition-api
-description: Cursor rules for vue3-composition-api
-domain: engineering
+description: "Cursor rules for vue3-composition-api"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -45,4 +46,3 @@ const additionalInstructions = `
 6. Follow Vue 3 style guide and naming conventions
 7. Use Vite for fast development and building
 `;
-

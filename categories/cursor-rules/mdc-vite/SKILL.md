@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for developing high-performance, maintainable applications with Vite, focusing on optimal configuration, code structure, and testing.
-globs: **/*.{js,jsx}
+name: mdc-vite
+description: "This guide provides definitive best practices for developing high-performance, maintainable applications with Vite, focusing on optimal configuration, code structure, and testing."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # vite Best Practices
 
 Vite is the modern standard for frontend tooling. Adhere to these principles to leverage its full potential, ensuring blazing-fast development and optimized production builds.

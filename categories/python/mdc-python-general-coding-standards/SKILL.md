@@ -1,7 +1,10 @@
 ---
-description: Applies general Python coding standards, including type hinting, input validation with Pydantic, background tasks, CORS handling, security utilities, PEP 8 compliance, and comprehensive testing.
-globs: **/*.py
+name: mdc-python-general-coding-standards
+description: "Applies general Python coding standards, including type hinting, input validation with Pydantic, background tasks, CORS handling, security utilities, PEP 8 compliance, and comprehensive testing."
+license: MIT
+tags: [python]
 ---
+
 - Use type hints for all function parameters and return values
 - Implement proper input validation using Pydantic
 - Use FastAPI's background tasks for long-running operations

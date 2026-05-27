@@ -1,12 +1,12 @@
 ---
 name: detecting-privilege-escalation-in-kubernetes-pods
-description: Detect and prevent privilege escalation in Kubernetes pods by monitoring security contexts, capabilities, and syscall patterns with Falco and OPA policies.
+description: "Detect and prevent privilege escalation in Kubernetes pods by monitoring security contexts, capabilities, and syscall patterns with Falco and OPA policies."
+license: MIT
+tags: [kubernetes, privilege-escalation, security-context, capabilities, detection, pod-security]
 domain: cybersecurity
 subdomain: container-security
-tags: [kubernetes, privilege-escalation, security-context, capabilities, detection, pod-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Privilege Escalation in Kubernetes Pods

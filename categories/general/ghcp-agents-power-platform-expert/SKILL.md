@@ -1,6 +1,8 @@
 ---
+name: ghcp-agents-power-platform-expert
 description: "Power Platform expert providing guidance on Code Apps, canvas apps, Dataverse, connectors, and Power Platform best practices"
-name: "Power Platform Expert"
+license: MIT
+tags: [general]
 model: GPT-4.1
 ---
 

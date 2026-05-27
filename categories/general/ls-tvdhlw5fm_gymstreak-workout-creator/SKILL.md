@@ -1,3 +1,10 @@
+---
+name: ls-tvdhlw5fm_gymstreak-workout-creator
+description: "Skill: ls-tvdhlw5fm_gymstreak-workout-creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TVDhLW5fm-gymstreak-workout-creator
 
 GPT Title: GymStreak Workout Creator

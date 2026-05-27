@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for using Redis effectively, focusing on data modeling, performance, security, and cluster-aware client usage to build robust and scalable applications.
-globs: **/*
+name: mdc-redis
+description: "This guide provides definitive, actionable best practices for using Redis effectively, focusing on data modeling, performance, security, and cluster-aware client usage to build robust and scalable ..."
+license: MIT
+tags: [database]
 ---
+
 # Redis Best Practices
 
 Redis is a powerful, single-threaded, in-memory database. Its efficiency hinges on how you interact with it. Follow these rules to ensure your applications are performant, scalable, and resilient.

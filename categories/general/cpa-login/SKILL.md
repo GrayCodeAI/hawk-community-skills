@@ -1,3 +1,10 @@
+---
+name: cpa-login
+description: "Skill: cpa-login"
+license: MIT
+tags: [general]
+---
+
 # az login
 
 Log in to Azure.

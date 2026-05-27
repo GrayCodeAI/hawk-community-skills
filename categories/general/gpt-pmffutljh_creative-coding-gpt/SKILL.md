@@ -1,3 +1,10 @@
+---
+name: gpt-pmffutljh_creative-coding-gpt
+description: "Skill: gpt-pmffutljh_creative-coding-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PmfFutLJh-creative-coding-gpt/
 
 GPT Title: Creative Coding GPT

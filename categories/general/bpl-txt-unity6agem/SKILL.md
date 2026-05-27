@@ -1,9 +1,10 @@
 ---
-name: bpl-unity6agem
-description: System prompt - unity6agem
-domain: general
+name: bpl-txt-unity6agem
+description: "System prompt - unity6agem"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

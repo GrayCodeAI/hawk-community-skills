@@ -1,16 +1,11 @@
 ---
 name: cursor-go
-description: Cursor IDE rules for go
-domain: engineering
+description: "Cursor IDE rules for go"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Go patterns: error wrapping, goroutines, interfaces"
-globs: ["*.go"]
-alwaysApply: true
 ---
 
 # Go Cursor Rules

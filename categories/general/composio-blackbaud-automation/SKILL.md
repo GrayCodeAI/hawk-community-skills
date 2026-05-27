@@ -1,8 +1,10 @@
 ---
-name: blackbaud-automation
+name: composio-blackbaud-automation
 description: "Automate Blackbaud tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Blackbaud Automation via Rube MCP

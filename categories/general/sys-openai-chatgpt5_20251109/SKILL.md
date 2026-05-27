@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt5_20251109
+description: "Skill: sys-openai-chatgpt5_20251109"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt5_20251109
 
 ## Q(user)

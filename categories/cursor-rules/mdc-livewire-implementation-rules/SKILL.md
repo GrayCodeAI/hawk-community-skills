@@ -1,7 +1,10 @@
 ---
-description: Guidelines for developing modular, reusable Livewire components.
-globs: /app/Http/Livewire/**/*.php
+name: mdc-livewire-implementation-rules
+description: "Guidelines for developing modular, reusable Livewire components."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Create modular, reusable Livewire components.
 - Use Livewire's lifecycle hooks effectively (e.g., mount, updated, etc.).
 - Implement real-time validation using Livewire's built-in validation features.

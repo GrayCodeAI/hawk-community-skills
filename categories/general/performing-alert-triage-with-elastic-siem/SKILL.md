@@ -1,12 +1,12 @@
 ---
 name: performing-alert-triage-with-elastic-siem
-description: Perform systematic alert triage in Elastic Security SIEM to rapidly classify, prioritize, and investigate security alerts for SOC operations.
+description: "Perform systematic alert triage in Elastic Security SIEM to rapidly classify, prioritize, and investigate security alerts for SOC operations."
+license: MIT
+tags: [elastic, siem, alert-triage, soc, elastic-security, detection, esql, kibana]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [elastic, siem, alert-triage, soc, elastic-security, detection, esql, kibana]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Alert Triage with Elastic SIEM

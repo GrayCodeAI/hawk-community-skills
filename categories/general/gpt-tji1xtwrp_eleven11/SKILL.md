@@ -1,3 +1,10 @@
+---
+name: gpt-tji1xtwrp_eleven11
+description: "Skill: gpt-tji1xtwrp_eleven11"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TjI1xTWrp-eleven11
 
 GPT Title: ELeven11

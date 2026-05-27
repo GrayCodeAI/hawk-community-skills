@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-price-elasticity-analyzer
-role: merchandising
+name: shopify-shopify-admin-price-elasticity-analyzer
 description: "Read-only: analyzes the relationship between product pricing and sales velocity to identify optimal price points and price-sensitive products."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - orders:query
-  - productVariants:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'orders': 'query'}, {'productVariants': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

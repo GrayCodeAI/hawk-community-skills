@@ -1,3 +1,10 @@
+---
+name: gpt-3jyn6swsc_hitchcock
+description: "Skill: gpt-3jyn6swsc_hitchcock"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3jyn6sWsC-hitchcock/
 
 GPT Title: Hitchcock

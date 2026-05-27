@@ -1,3 +1,10 @@
+---
+name: ghcp-go-ralph-loop
+description: "Skill: ghcp-go-ralph-loop"
+license: MIT
+tags: [general]
+---
+
 # Ralph Loop: Autonomous AI Task Loops
 
 Build autonomous coding loops where an AI agent picks tasks, implements them, validates against backpressure (tests, builds), commits, and repeats — each iteration in a fresh context window.

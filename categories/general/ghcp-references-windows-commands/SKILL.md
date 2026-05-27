@@ -1,3 +1,10 @@
+---
+name: ghcp-references-windows-commands
+description: "Skill: ghcp-references-windows-commands"
+license: MIT
+tags: [general]
+---
+
 # Windows Commands Reference (A-Z)
 
 Comprehensive command reference from [learn.microsoft.com](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands).

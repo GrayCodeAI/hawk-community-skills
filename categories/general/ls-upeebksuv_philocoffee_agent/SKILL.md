@@ -1,3 +1,10 @@
+---
+name: ls-upeebksuv_philocoffee_agent
+description: "Skill: ls-upeebksuv_philocoffee_agent"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UpEEBkSUv-philocoffee-agent
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-yx4BRjkujoRjAtM4a6dUEO1o?se=2124-01-21T05%3A41%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D71ddb5b4-910f-4622-9573-f686dbf53455.png&sig=%2BooRMHjaWFNWyPYqpXfS6xpYakLpl/NrCtMYkv56NqY%3D" width="100px" />

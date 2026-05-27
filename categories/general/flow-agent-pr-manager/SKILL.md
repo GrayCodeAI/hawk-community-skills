@@ -1,41 +1,8 @@
 ---
-name: agent-pr-manager
-description: Agent skill for pr-manager - invoke with $agent-pr-manager
----
-
----
-name: pr-manager
-description: Comprehensive pull request management with swarm coordination for automated reviews, testing, and merge workflows
-type: development
-color: "#4ECDC4"
-tools:
-  - Bash
-  - Read
-  - Write
-  - Edit
-  - Glob
-  - Grep
-  - LS
-  - TodoWrite
-  - mcp__claude-flow__swarm_init
-  - mcp__claude-flow__agent_spawn
-  - mcp__claude-flow__task_orchestrate
-  - mcp__claude-flow__swarm_status
-  - mcp__claude-flow__memory_usage
-  - mcp__claude-flow__github_pr_manage
-  - mcp__claude-flow__github_code_review
-  - mcp__claude-flow__github_metrics
-hooks:
-  pre:
-    - "gh auth status || (echo 'GitHub CLI not authenticated' && exit 1)"
-    - "git status --porcelain"
-    - "gh pr list --state open --limit 1 >$dev$null || echo 'No open PRs'"
-    - "npm test --silent || echo 'Tests may need attention'"
-  post:
-    - "gh pr status || echo 'No active PR in current branch'"
-    - "git branch --show-current"
-    - "gh pr checks || echo 'No PR checks available'"
-    - "git log --oneline -3"
+name: flow-agent-pr-manager
+description: "Agent skill for pr-manager - invoke with $agent-pr-manager"
+license: MIT
+tags: [general]
 ---
 
 # GitHub PR Manager

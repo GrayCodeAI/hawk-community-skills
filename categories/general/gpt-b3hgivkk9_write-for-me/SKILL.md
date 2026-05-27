@@ -1,3 +1,10 @@
+---
+name: gpt-b3hgivkk9_write-for-me
+description: "Skill: gpt-b3hgivkk9_write-for-me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B3hgivKK9-write-for-me
 
 GPT Title: Write For Me

@@ -1,9 +1,11 @@
 ---
-name: pci-compliance
+name: ag-pci-compliance
 description: "Master PCI DSS (Payment Card Industry Data Security Standard) compliance for secure payment processing and handling of cardholder data."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # PCI Compliance

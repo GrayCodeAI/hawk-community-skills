@@ -1,6 +1,8 @@
 ---
-name: "founder-mode"
+name: arezv-founder-mode
 description: "/cs:founder-mode <question> — Auto-routes any founder question to the right C-role advisor or to /cs:boardroom for multi-role topics. The single-command entry point."
+license: MIT
+tags: [general]
 ---
 
 # /cs:founder-mode — The Auto-Router

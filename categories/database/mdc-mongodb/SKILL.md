@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for designing, querying, and maintaining MongoDB databases to ensure high performance, scalability, and maintainability in cloud-native applications.
-globs: **/*
+name: mdc-mongodb
+description: "This guide provides definitive best practices for designing, querying, and maintaining MongoDB databases to ensure high performance, scalability, and maintainability in cloud-native applications."
+license: MIT
+tags: [database]
 ---
+
 # mongodb Best Practices
 
 MongoDB's flexible schema is a superpower, but with great power comes great responsibility. This guide cuts through the noise to give you the definitive, opinionated best practices for building robust, high-performance applications with MongoDB. Follow these rules to avoid common pitfalls and leverage MongoDB effectively.

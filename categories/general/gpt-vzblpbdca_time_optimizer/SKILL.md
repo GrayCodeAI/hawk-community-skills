@@ -1,3 +1,10 @@
+---
+name: gpt-vzblpbdca_time_optimizer
+description: "Skill: gpt-vzblpbdca_time_optimizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vZblpBDCa-time-optimizer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-snGqDdl6juAae1J0XJnuug6u?se=2123-10-29T05%3A05%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db66646a3-5e32-46e5-ae8a-9a937b381610.png&sig=M3jS5HI0BiNlSDWJKHFwLfDIdKzpSjOCgXhiOHSBt7o%3D" width="100px" />

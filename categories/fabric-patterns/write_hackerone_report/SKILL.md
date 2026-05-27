@@ -1,9 +1,10 @@
 ---
 name: write_hackerone_report
-description: Fabric pattern - write_hackerone_report
-domain: general
+description: "Fabric pattern - write_hackerone_report"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

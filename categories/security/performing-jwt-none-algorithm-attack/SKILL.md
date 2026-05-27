@@ -1,12 +1,12 @@
 ---
 name: performing-jwt-none-algorithm-attack
-description: Execute and test the JWT none algorithm attack to bypass signature verification by manipulating the alg header field in JSON Web Tokens.
+description: "Execute and test the JWT none algorithm attack to bypass signature verification by manipulating the alg header field in JSON Web Tokens."
+license: MIT
+tags: [jwt, none-algorithm, authentication-bypass, token-manipulation, signature-bypass, penetration-testing, owasp, web-security]
 domain: cybersecurity
 subdomain: api-security
-tags: [jwt, none-algorithm, authentication-bypass, token-manipulation, signature-bypass, penetration-testing, owasp, web-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing JWT None Algorithm Attack

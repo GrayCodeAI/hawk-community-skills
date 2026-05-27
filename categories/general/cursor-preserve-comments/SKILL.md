@@ -1,15 +1,11 @@
 ---
 name: cursor-preserve-comments
-description: Cursor IDE rules for preserve-comments
-domain: engineering
+description: "Cursor IDE rules for preserve-comments"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: preserve existing code comments during all modifications
-alwaysApply: true
 ---
 
 # Comment Preservation

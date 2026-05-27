@@ -1,3 +1,10 @@
+---
+name: gpt-krog0f5tg_thread_weaver
+description: "Skill: gpt-krog0f5tg_thread_weaver"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lK4sSXtSzMdzANVHbpRfJNhE?se=2123-10-20T21%3A29%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dthread-img.png&sig=bZQITvM1oKIvNOplzUd5gx0l40w2FKUFoIwTsNfi4qc%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ecom-woocommerce-seo
+description: "Skill: ecom-woocommerce-seo"
+license: MIT
+tags: [general]
+---
+
 # WooCommerce SEO
 
 Optimize WooCommerce stores for search engines. Covers technical SEO, product page optimization, schema markup, site speed, URL structure, and content strategy for organic traffic growth.

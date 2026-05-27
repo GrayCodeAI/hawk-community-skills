@@ -1,3 +1,10 @@
+---
+name: gpt-uveoaj6hv_valentines_day_gift_bot_
+description: "Skill: gpt-uveoaj6hv_valentines_day_gift_bot_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uVeoaj6hV-valentine-s-day-gift-bot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GvSnROkg6COJ64WJ7Wmq9Mob?se=2123-12-30T22%3A02%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc0ba0652-73ab-4e6c-8af5-2da16b3a2405.png&sig=buQ%2BYLvs4yWi3S5vqqpVUUkF3O0R8dAlniAlxGS1A8A%3D" width="100px" />

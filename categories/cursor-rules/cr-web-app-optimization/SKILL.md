@@ -1,9 +1,10 @@
 ---
 name: cr-web-app-optimization
-description: Cursor rules for web-app-optimization
-domain: engineering
+description: "Cursor rules for web-app-optimization"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -217,4 +218,3 @@ Documentation
 - Paraglide.js Documentation: https://inlang.com/m/gerre34r/library-inlang-paraglideJs/usage
 
 Refer to Svelte, SvelteKit, and Paraglide.js documentation for detailed information on components, internationalization, and best practices.
-

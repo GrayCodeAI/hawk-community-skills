@@ -1,6 +1,8 @@
 ---
-name: add-educational-comments
-description: 'Add educational comments to the file specified, or prompt asking for file to comment if one is not provided.'
+name: ghcp-add-educational-comments-skill
+description: "Add educational comments to the file specified, or prompt asking for file to comment if one is not provided."
+license: MIT
+tags: [general]
 ---
 
 # Add Educational Comments

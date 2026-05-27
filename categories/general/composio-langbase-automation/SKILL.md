@@ -1,8 +1,10 @@
 ---
-name: langbase-automation
+name: composio-langbase-automation
 description: "Automate Langbase tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Langbase Automation via Rube MCP

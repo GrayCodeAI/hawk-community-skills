@@ -1,3 +1,10 @@
+---
+name: ls-rixmr0ws1_code-optimizer
+description: "Skill: ls-rixmr0ws1_code-optimizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RixMr0ws1-code-optimizer
 
 GPT Title: Code Optimizer

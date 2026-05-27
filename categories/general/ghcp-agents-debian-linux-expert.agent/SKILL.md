@@ -1,8 +1,10 @@
 ---
-name: 'Debian Linux Expert'
-description: 'Debian Linux specialist focused on stable system administration, apt-based package management, and Debian policy-aligned practices.'
+name: ghcp-agents-debian-linux-expert.agent
+description: "Debian Linux specialist focused on stable system administration, apt-based package management, and Debian policy-aligned practices."
+license: MIT
+tags: [general]
 model: Claude Sonnet 4
-tools: ['codebase', 'search', 'terminalCommand', 'runCommands', 'edit/editFiles']
+tools: [codebase, search, terminalCommand, runCommands, edit/editFiles]
 ---
 
 # Debian Linux Expert

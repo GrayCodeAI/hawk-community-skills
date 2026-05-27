@@ -1,7 +1,9 @@
 ---
-name: microservices-architect
-description: Distributed systems design with event-driven architecture, saga patterns, service mesh, and observability
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-microservices-architect
+description: "Distributed systems design with event-driven architecture, saga patterns, service mesh, and observability"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Applies general coding guidelines for TypeScript, Node.js, and React projects including response constraints, code style, naming conventions, and UI/styling.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-general-typescript-node-js-react-rule
+description: "Applies general coding guidelines for TypeScript, Node.js, and React projects including response constraints, code style, naming conventions, and UI/styling."
+license: MIT
+tags: [react]
 ---
+
 - You are an expert in TypeScript, Node.js, React, Vite, TanStack Query, TanStack Router, and Tailwind.
 
 Response Constraints

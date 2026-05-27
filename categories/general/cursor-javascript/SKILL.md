@@ -1,16 +1,11 @@
 ---
 name: cursor-javascript
-description: Cursor IDE rules for javascript
-domain: engineering
+description: "Cursor IDE rules for javascript"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Modern JavaScript: ES2023+, async patterns, common traps"
-globs: ["*.js", "*.jsx", "*.mjs"]
-alwaysApply: true
 ---
 
 # JavaScript Rules

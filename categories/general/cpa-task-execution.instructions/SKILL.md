@@ -1,6 +1,8 @@
 ---
-description: Systematic task execution workflow with proper testing and git practices for AI-assisted development
-applyTo: "**/*.{js,ts,py,java,go,rs,rb,php,cs}"
+name: cpa-task-execution.instructions
+description: "Skill: cpa-task-execution.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Task Execution and Management Workflow

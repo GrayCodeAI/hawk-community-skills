@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-shipping-cost-analysis
-role: finance
+name: shopify-shopify-admin-shipping-cost-analysis
 description: "Read-only: aggregates shipping revenue charged to customers vs. actual shipping line costs by carrier and method."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

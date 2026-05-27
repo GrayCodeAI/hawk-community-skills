@@ -1,3 +1,10 @@
+---
+name: gpt-lfiuvahbw_gptsdex
+description: "Skill: gpt-lfiuvahbw_gptsdex"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lfIUvAHBw-gptsdex
 
 GPT Title: GPTsdex

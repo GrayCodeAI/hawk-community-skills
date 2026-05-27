@@ -1,3 +1,10 @@
+---
+name: gpt-mm8pspupz_problem_solving_your_boss_takayanagi
+description: "Skill: gpt-mm8pspupz_problem_solving_your_boss_takayanagi"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Mm8PSpuPz-problem-solving-your-boss-takayanagi
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-c4T36G75U7aaRvvudCIcoOiX?se=2124-01-23T07%3A56%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo%2520%25281%2529.png&sig=6BJkXrcewX3oy0CDa4I1nUjVk6eMojzRPmx93bIj8eU%3D" width="100px" />

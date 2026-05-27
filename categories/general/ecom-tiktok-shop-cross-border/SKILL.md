@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-cross-border
+name: ecom-tiktok-shop-cross-border
 description: "Cross-border selling on TikTok Shop — market selection, logistics, localization, compliance"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Cross-Border

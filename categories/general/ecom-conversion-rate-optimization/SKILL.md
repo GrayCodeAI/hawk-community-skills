@@ -1,3 +1,10 @@
+---
+name: ecom-conversion-rate-optimization
+description: "Skill: ecom-conversion-rate-optimization"
+license: MIT
+tags: [general]
+---
+
 # Conversion Rate Optimization
 
 Systematic CRO for e-commerce stores. Audit conversion funnels, identify drop-off points, implement fixes, and run experiments to increase revenue per visitor across all platforms.

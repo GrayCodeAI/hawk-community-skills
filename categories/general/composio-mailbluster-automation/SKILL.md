@@ -1,8 +1,10 @@
 ---
-name: mailbluster-automation
+name: composio-mailbluster-automation
 description: "Automate Mailbluster tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mailbluster Automation via Rube MCP

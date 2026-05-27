@@ -1,9 +1,11 @@
 ---
-name: secrets-management
+name: ag-secrets-management
 description: "Secure secrets management practices for CI/CD pipelines using Vault, AWS Secrets Manager, and other tools."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Secrets Management

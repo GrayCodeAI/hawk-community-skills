@@ -1,12 +1,12 @@
 ---
 name: testing-for-json-web-token-vulnerabilities
-description: Test JWT implementations for critical vulnerabilities including algorithm confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation to achieve authentication bypass and privilege escalation.
+description: "Test JWT implementations for critical vulnerabilities including algorithm confusion, none algorithm bypass, kid parameter injection, and weak secret exploitation to achieve authentication bypass an..."
+license: MIT
+tags: [jwt, json-web-token, algorithm-confusion, authentication-bypass, token-forgery, kid-injection, jku-attack]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [jwt, json-web-token, algorithm-confusion, authentication-bypass, token-forgery, kid-injection, jku-attack]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Testing for JSON Web Token Vulnerabilities

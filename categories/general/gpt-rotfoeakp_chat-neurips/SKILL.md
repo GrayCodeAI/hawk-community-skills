@@ -1,3 +1,10 @@
+---
+name: gpt-rotfoeakp_chat-neurips
+description: "Skill: gpt-rotfoeakp_chat-neurips"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-roTFoEAkP-chat-neurips
 
 GPT Title: Chat NeurIPS

@@ -1,3 +1,10 @@
+---
+name: ls-xfimv4hab_sentinel_did-0
+description: "Skill: ls-xfimv4hab_sentinel_did-0"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XfIMV4hAB-sentinel-did-0
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rIbH9igHw3Fns8Xy0XSWwqAe?se=2123-11-04T16%3A43%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db192bd02-d927-4da6-abf1-21e0560d6527.png&sig=TfPtIG5yaOCFsdbGSYJsKJDs9L3ekZ16k0oQaYiJM6Y%3D" width="100px" />

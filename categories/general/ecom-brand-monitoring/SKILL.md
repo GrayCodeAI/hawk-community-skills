@@ -1,9 +1,11 @@
 ---
-name: brand-monitoring
+name: ecom-brand-monitoring
+description: "Brand monitoring tool for tracking mentions across social media platforms. Monitor Reddit, Google News, YouTube, and DuckDuckGo for brand mentions. Includes sentiment analysis, trend tracking, cris..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "Brand monitoring tool for tracking mentions across social media platforms. Monitor Reddit, Google News, YouTube, and DuckDuckGo for brand mentions. Includes sentiment analysis, trend tracking, crisis detection, and competitor comparison. No API key required for basic monitoring."
-metadata: {"nexscope":{"emoji":"📡","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '📡', 'category': 'ecommerce'}}
 ---
 
 # Brand Monitoring 📡

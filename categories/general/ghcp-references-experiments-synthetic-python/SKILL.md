@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-synthetic-python
+description: "Skill: ghcp-references-experiments-synthetic-python"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Generating Synthetic Test Data
 
 Creating diverse, targeted test data for evaluation.

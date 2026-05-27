@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-overview
+description: "Skill: ghcp-references-experiments-overview"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Overview
 
 Systematic testing of AI systems with datasets, tasks, and evaluators.

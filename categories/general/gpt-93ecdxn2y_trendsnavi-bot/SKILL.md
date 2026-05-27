@@ -1,3 +1,10 @@
+---
+name: gpt-93ecdxn2y_trendsnavi-bot
+description: "Skill: gpt-93ecdxn2y_trendsnavi-bot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-93EcDXN2Y-guang-bao-torendofen-xi-torendonabi
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5bfp9pPaUsWrO6wMGOuVCjoS?se=2124-01-18T06%3A13%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259C%25E3%2583%25BC%25E3%2583%258901.jpg&sig=Q0y6Gt1JUL4di/5yTS9Ncq9Wg9jGJMo68Yiz2O15B/A%3D" width="100px" />
@@ -437,4 +444,3 @@ The timing of index 100 is the most searched timing, and analyze considering the
 Use normal searches such as Bing search in parallel and explain from a broad perspective
 When setting "engine" to 'google_trends, set "date" to "today 5-y". If the data is too much, set it to less than "today 12-m" and retry.
 ```
-

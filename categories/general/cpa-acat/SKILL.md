@@ -1,3 +1,10 @@
+---
+name: cpa-acat
+description: "Skill: cpa-acat"
+license: MIT
+tags: [general]
+---
+
 # az acat
 
 ```bash

@@ -1,9 +1,11 @@
 ---
-name: make-automation
+name: ag-make-automation
 description: "Automate Make (Integromat) tasks via Rube MCP (Composio): operations, enums, language and timezone lookups. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Make Automation via Rube MCP

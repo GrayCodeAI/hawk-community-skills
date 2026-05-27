@@ -1,3 +1,10 @@
+---
+name: gpt-bzjygviw5_reverse-engineering-oracle
+description: "Skill: gpt-bzjygviw5_reverse-engineering-oracle"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BZjyGviw5-reverse-engineering-oracle
 
 GPT Title: Reverse Engineering Oracle

@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for using mypy to ensure robust static type checking in Python projects, focusing on modern patterns and common pitfalls.
-globs: **/*.py
+name: mdc-mypy
+description: "This guide provides definitive, actionable best practices for using mypy to ensure robust static type checking in Python projects, focusing on modern patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # mypy Best Practices
 
 mypy is the definitive static type checker for Python. Adhering to these guidelines ensures your codebase is robust, maintainable, and catches type errors before runtime.

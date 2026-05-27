@@ -1,8 +1,8 @@
 ---
-name: llm-config
-description: Configure RuVLLM local inference with model selection, MicroLoRA fine-tuning, and SONA adaptation
-argument-hint: "[--model MODEL] [--adapter microlora|sona]"
-allowed-tools: mcp__claude-flow__ruvllm_generate_config mcp__claude-flow__ruvllm_status mcp__claude-flow__ruvllm_microlora_create mcp__claude-flow__ruvllm_microlora_adapt mcp__claude-flow__ruvllm_sona_create mcp__claude-flow__ruvllm_sona_adapt Bash
+name: flow-llm-config
+description: "Skill: flow-llm-config"
+license: MIT
+tags: [general]
 ---
 
 # LLM Configuration

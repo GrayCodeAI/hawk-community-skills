@@ -1,24 +1,14 @@
 ---
-name: ios-security
-description: Secure iOS apps with Keychain, biometrics, and data protection. Use when implementing Keychain storage, Face ID/Touch ID, or data protection in iOS.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - SecItemAdd
-    - kSecClassGenericPassword
-    - LAContext
-    - LocalAuthentication
-    - ios security
-    - swift security
-    - keychain
-    - biometric
-    - face id
-    - touch id
-    - certificate pinning
-    - app transport security
+name: std-ios-security
+description: "Secure iOS apps with Keychain, biometrics, and data protection. Use when implementing Keychain storage, Face ID/Touch ID, or data protection in iOS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Security
 
 ## **Priority: P0 (CRITICAL)**

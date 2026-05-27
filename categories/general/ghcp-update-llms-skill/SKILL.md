@@ -1,6 +1,8 @@
 ---
-name: update-llms
-description: 'Update the llms.txt file in the root folder to reflect changes in documentation or specifications following the llms.txt specification at https://llmstxt.org/'
+name: ghcp-update-llms-skill
+description: "Update the llms.txt file in the root folder to reflect changes in documentation or specifications following the llms.txt specification at https://llmstxt.org/"
+license: MIT
+tags: [general]
 ---
 
 # Update LLMs.txt File

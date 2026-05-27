@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-metafield-bulk-update
-role: merchandising
+name: shopify-shopify-admin-metafield-bulk-update
 description: "Bulk set or delete metafields on products, variants, or customers filtered by tag or collection."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - metafieldsSet:mutation
-  - metafieldsDelete:mutation
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'metafieldsSet': 'mutation'}, {'metafieldsDelete': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

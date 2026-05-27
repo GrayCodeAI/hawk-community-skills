@@ -1,3 +1,10 @@
+---
+name: ls-bfmujziwz_seobot
+description: "Skill: ls-bfmujziwz_seobot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BfmuJziwz-seobot
 
 GPT Title: SEObot

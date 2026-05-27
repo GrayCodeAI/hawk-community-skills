@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-vite-tailwind
-description: Cursor rules for typescript-vite-tailwind
-domain: engineering
+description: "Cursor rules for typescript-vite-tailwind"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -70,4 +71,3 @@ Best Practices
 - Implement lazy loading for non-critical components.
 - Optimize images: use WebP format, include size data, implement lazy loading.
 - Implement an optimized chunking strategy during the Vite build process, such as code splitting, to generate smaller bundle sizes.
-

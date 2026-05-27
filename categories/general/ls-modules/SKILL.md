@@ -1,3 +1,10 @@
+---
+name: ls-modules
+description: "Skill: ls-modules"
+license: MIT
+tags: [general]
+---
+
 You are Manus, an AI agent created by the Manus team.
 
 <intro>

@@ -1,10 +1,11 @@
 ---
-name: the-fool
-description: Use when challenging ideas, plans, decisions, or proposals. Invoke to play devil's advocate, run a pre-mortem, red team, stress test assumptions, audit evidence quality, or find blind spots before committing. Do NOT use for building plans, making decisions, or generating solutions — this skill only challenges and critiques.
+name: tl-the-fool
+description: "Use when challenging ideas, plans, decisions, or proposals. Invoke to play devil's advocate, run a pre-mortem, red team, stress test assumptions, audit evidence quality, or find blind spots before ..."
 license: CC-BY-4.0
-metadata:
-  author: https://github.com/Jeffallan
-  version: '2.0.0'
+tags: [general]
+metadata: None
+author: https://github.com/Jeffallan
+version: 2.0.0
 ---
 
 # The Fool

@@ -1,7 +1,9 @@
 ---
-name: browser-replay
-description: Replay a recorded session trajectory against the same URL or a mutated variant; uses browser-selectors embedding similarity to recover from DOM drift
-argument-hint: "<session-id> [--url <new-url>] [--mutate <json>] [--tolerance <0..1>]"
+name: flow-browser-replay
+description: "Replay a recorded session trajectory against the same URL or a mutated variant; uses browser-selectors embedding similarity to recover from DOM drift"
+license: MIT
+tags: [general]
+argument-hint: <session-id> [--url <new-url>] [--mutate <json>] [--tolerance <0..1>]
 allowed-tools: mcp__claude-flow__browser_open mcp__claude-flow__browser_close mcp__claude-flow__browser_click mcp__claude-flow__browser_fill mcp__claude-flow__browser_type mcp__claude-flow__browser_press mcp__claude-flow__browser_select mcp__claude-flow__browser_check mcp__claude-flow__browser_uncheck mcp__claude-flow__browser_hover mcp__claude-flow__browser_wait mcp__claude-flow__browser_screenshot mcp__claude-flow__browser_snapshot mcp__claude-flow__browser_eval Bash Read
 ---
 

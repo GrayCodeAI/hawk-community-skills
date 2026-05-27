@@ -1,8 +1,10 @@
 ---
-name: breeze-automation
+name: composio-breeze-automation
 description: "Automate Breeze tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Breeze Automation via Rube MCP

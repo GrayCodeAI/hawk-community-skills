@@ -1,16 +1,14 @@
 ---
-name: angular-testing
-description: Write Angular component tests using TestBed, ComponentHarness, and HttpTestingController with proper signal input handling. Use when writing component tests, mocking HTTP calls, or testing signal inputs.
-metadata:
-  triggers:
-    files:
-    - '**/*.spec.ts'
-    keywords:
-    - TestBed
-    - ComponentFixture
-    - TestHarness
-    - provideHttpClientTesting
+name: std-angular-testing
+description: "Write Angular component tests using TestBed, ComponentHarness, and HttpTestingController with proper signal input handling. Use when writing component tests, mocking HTTP calls, or testing signal i..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Testing
 
 ## **Priority: P1 (HIGH)**

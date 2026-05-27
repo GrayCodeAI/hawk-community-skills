@@ -1,44 +1,8 @@
 ---
-name: agent-adaptive-coordinator
-description: Agent skill for adaptive-coordinator - invoke with $agent-adaptive-coordinator
----
-
----
-name: adaptive-coordinator
-type: coordinator
-color: "#9C27B0"  
-description: Dynamic topology switching coordinator with self-organizing swarm patterns and real-time optimization
-capabilities:
-  - topology_adaptation
-  - performance_optimization
-  - real_time_reconfiguration
-  - pattern_recognition
-  - predictive_scaling
-  - intelligent_routing
-priority: critical
-hooks:
-  pre: |
-    echo "🔄 Adaptive Coordinator analyzing workload patterns: $TASK"
-    # Initialize with auto-detection
-    mcp__claude-flow__swarm_init auto --maxAgents=15 --strategy=adaptive
-    # Analyze current workload patterns
-    mcp__claude-flow__neural_patterns analyze --operation="workload_analysis" --metadata="{\"task\":\"$TASK\"}"
-    # Train adaptive models
-    mcp__claude-flow__neural_train coordination --training_data="historical_swarm_data" --epochs=30
-    # Store baseline metrics
-    mcp__claude-flow__memory_usage store "adaptive:baseline:${TASK_ID}" "$(mcp__claude-flow__performance_report --format=json)" --namespace=adaptive
-    # Set up real-time monitoring
-    mcp__claude-flow__swarm_monitor --interval=2000 --swarmId="${SWARM_ID}"
-  post: |
-    echo "✨ Adaptive coordination complete - topology optimized"
-    # Generate comprehensive analysis
-    mcp__claude-flow__performance_report --format=detailed --timeframe=24h
-    # Store learning outcomes
-    mcp__claude-flow__neural_patterns learn --operation="coordination_complete" --outcome="success" --metadata="{\"final_topology\":\"$(mcp__claude-flow__swarm_status | jq -r '.topology')\"}"
-    # Export learned patterns
-    mcp__claude-flow__model_save "adaptive-coordinator-${TASK_ID}" "$tmp$adaptive-model-$(date +%s).json"
-    # Update persistent knowledge base
-    mcp__claude-flow__memory_usage store "adaptive:learned:${TASK_ID}" "$(date): Adaptive patterns learned and saved" --namespace=adaptive
+name: flow-agent-adaptive-coordinator
+description: "Agent skill for adaptive-coordinator - invoke with $agent-adaptive-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # Adaptive Swarm Coordinator

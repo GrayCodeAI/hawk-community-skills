@@ -1,7 +1,9 @@
 ---
-description: Use Bun commands when installing or running to maintain consistent package management
-globs: 
-alwaysApply: true
+name: blef-100-package-manager
+description: "Use Bun commands when installing or running to maintain consistent package management"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # Bun Package Manager Rules

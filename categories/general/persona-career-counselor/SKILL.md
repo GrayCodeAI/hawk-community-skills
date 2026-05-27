@@ -1,9 +1,10 @@
 ---
 name: persona-career-counselor
-description: AI persona - career-counselor
-domain: general
+description: "AI persona - career-counselor"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

@@ -1,7 +1,8 @@
 ---
-name: 'No Heredoc File Operations'
-description: 'Prevents terminal heredoc file corruption in VS Code Copilot by enforcing use of file editing tools instead of shell redirections'
-applyTo: '**'
+name: ghcp-instructions-no-heredoc.instructions
+description: "Skill: ghcp-instructions-no-heredoc.instructions"
+license: MIT
+tags: [general]
 ---
 
 # MANDATORY: File Operation Override

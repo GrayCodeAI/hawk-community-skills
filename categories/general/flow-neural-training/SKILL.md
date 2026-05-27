@@ -1,9 +1,10 @@
 ---
-name: neural-training
-description: >
-  Neural pattern training with SONA (Self-Optimizing Neural Architecture), MoE (Mixture of Experts), and EWC++ for knowledge consolidation.
-  Use when: pattern learning, model optimization, knowledge transfer, adaptive routing.
-  Skip when: simple tasks, no learning required, one-off operations.
+name: flow-neural-training
+description: "Skill: flow-neural-training"
+license: MIT
+tags: [general]
+Use when: pattern learning, model optimization, knowledge transfer, adaptive routing.
+Skip when: simple tasks, no learning required, one-off operations.
 ---
 
 # Neural Training Skill

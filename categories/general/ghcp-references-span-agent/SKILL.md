@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-agent
+description: "Skill: ghcp-references-span-agent"
+license: MIT
+tags: [general]
+---
+
 # AGENT Spans
 
 AGENT spans represent autonomous reasoning blocks (ReAct agents, planning loops, multi-step decision making).

@@ -1,3 +1,10 @@
+---
+name: rb-01-debug_v1
+description: "Skill: rb-01-debug_v1"
+license: MIT
+tags: [general]
+---
+
 # AI Assistant - Workflow: Debugging & Error Fixing (FOCUS = DEBUGGING)
 # Applies when internal mode is Act Mode (Cline) / Debug Mode (Roo Code) for a debugging task, OR when task FOCUS is DEBUGGING.
 # Assumes General Principles (File approx. 6) processed.

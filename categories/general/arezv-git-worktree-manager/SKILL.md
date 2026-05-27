@@ -1,6 +1,8 @@
 ---
-name: "git-worktree-manager"
+name: arezv-git-worktree-manager
 description: "Git Worktree Manager"
+license: MIT
+tags: [general]
 ---
 
 # Git Worktree Manager

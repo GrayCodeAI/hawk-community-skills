@@ -1,3 +1,10 @@
+---
+name: tl-email-workers
+description: "Skill: tl-email-workers"
+license: MIT
+tags: [general]
+---
+
 # Email Workers Gotchas
 
 ## Critical Issues

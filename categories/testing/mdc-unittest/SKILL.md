@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and idiomatic `unittest` tests in Python. Focuses on structure, naming, assertions, mocking, and performance.
-globs: **/*.py
+name: mdc-unittest
+description: "Definitive guidelines for writing robust, maintainable, and idiomatic `unittest` tests in Python. Focuses on structure, naming, assertions, mocking, and performance."
+license: MIT
+tags: [testing]
 ---
+
 # unittest Best Practices
 
 This guide establishes the definitive best practices for writing `unittest` tests in Python. Adhering to these rules ensures our test suite is fast, reliable, readable, and maintainable, integrating seamlessly into our CI/CD pipeline.

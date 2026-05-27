@@ -1,14 +1,13 @@
 ---
-name: security-scanning-security-sast
-description: 'Static Application Security Testing (SAST) for code vulnerability
-
-  analysis across multiple languages and frameworks
-
-  '
+name: ag-security-scanning-security-sast
+description: "Static Application Security Testing (SAST) for code vulnerability"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
+
 # SAST Security Plugin
 
 Static Application Security Testing (SAST) for comprehensive code vulnerability detection across multiple languages, frameworks, and security patterns.

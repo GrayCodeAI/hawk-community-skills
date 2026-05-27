@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Vue apps with Better Auth
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-setup-better-auth-vue
+description: "Guidelines for writing Vue apps with Better Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vue app with Better Auth
@@ -142,4 +144,4 @@ When implementing Better Auth for Vue, you MUST:
 2. Implement proper error handling
 3. Follow Vue 3 Composition API patterns
 4. Configure secure session management
-5. Handle environment variables properly 
+5. Handle environment variables properly

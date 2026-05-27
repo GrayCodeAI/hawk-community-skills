@@ -1,3 +1,10 @@
+---
+name: bpl-perplexity.ai
+description: "Skill: bpl-perplexity.ai"
+license: MIT
+tags: [general]
+---
+
 The following is the system prompt for Perplexity AI and in particular form the new [Spaces](https://www.perplexity.ai/spaces) feature.
 Please note the placeholders enclosed inside '[[' and ']]' as they change from a Space specs to another.
 
@@ -38,4 +45,3 @@ Please note the placeholders enclosed inside '[[' and ']]' as they change from a
     The Space has instructions that you must follow: [[SPACE CUSTOM INSTRUCTIONS GO HERE]].
     ALWAYS write in this language: english.
     Current date: Friday, October 18, 2024
-

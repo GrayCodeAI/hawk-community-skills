@@ -1,3 +1,10 @@
+---
+name: cpa-aro
+description: "Skill: cpa-aro"
+license: MIT
+tags: [general]
+---
+
 # az aro
 
 ```bash

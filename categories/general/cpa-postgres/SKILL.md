@@ -1,3 +1,10 @@
+---
+name: cpa-postgres
+description: "Skill: cpa-postgres"
+license: MIT
+tags: [general]
+---
+
 # az postgres
 
 ```bash

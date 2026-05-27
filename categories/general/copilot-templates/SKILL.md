@@ -1,3 +1,10 @@
+---
+name: copilot-templates
+description: "Skill: copilot-templates"
+license: MIT
+tags: [general]
+---
+
 # Technology Stack
 
 ## Core Sections (Required)

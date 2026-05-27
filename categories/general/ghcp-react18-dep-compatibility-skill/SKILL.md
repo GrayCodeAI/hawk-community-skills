@@ -1,6 +1,8 @@
 ---
-name: react18-dep-compatibility
-description: 'React 18.3.1 and React 19 dependency compatibility matrix.'
+name: ghcp-react18-dep-compatibility-skill
+description: "React 18.3.1 and React 19 dependency compatibility matrix."
+license: MIT
+tags: [general]
 ---
 
 # React Dependency Compatibility Matrix

@@ -1,3 +1,10 @@
+---
+name: ls-dei2uqzob_ai_sheikh
+description: "Skill: ls-dei2uqzob_ai_sheikh"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DeI2uqZOB-ai-sheikh
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lfb0RCTBWprBwILU6tRH4Y5Q?se=2123-11-12T00%3A01%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da2257b91-8c66-43a2-af7e-227ea3689e52.png&sig=p4ANJToGTpQ4TWDQFg5kc4v8A838cGWmBa1fxBuFyPE%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: prd
-description: Quick PRD generation command. Usage: /prd <feature-or-problem>
+name: arezv-prd
+description: "Quick PRD generation command. Usage: /prd <feature-or-problem>"
+license: MIT
+tags: [general]
 ---
 
 # /prd

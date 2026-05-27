@@ -1,3 +1,10 @@
+---
+name: ecom-shopify-seo
+description: "Skill: ecom-shopify-seo"
+license: MIT
+tags: [general]
+---
+
 # Shopify SEO
 
 Comprehensive Shopify SEO optimization guide. Technical SEO, on-page optimization, collection pages, blog strategy, site architecture, and link building for Shopify stores.

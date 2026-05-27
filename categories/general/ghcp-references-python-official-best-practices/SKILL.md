@@ -1,3 +1,10 @@
+---
+name: ghcp-references-python-official-best-practices
+description: "Skill: ghcp-references-python-official-best-practices"
+license: MIT
+tags: [general]
+---
+
 # Python Official References and Best Practices
 
 Use these official Python resources before finalizing module architecture or implementation details.

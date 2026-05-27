@@ -1,6 +1,8 @@
 ---
 name: vet
-description: Run vet immediately after ANY logical unit of code changes. Do not batch your changes, do not wait to be asked to run vet, make sure you are proactive.
+description: "Run vet immediately after ANY logical unit of code changes. Do not batch your changes, do not wait to be asked to run vet, make sure you are proactive."
+license: MIT
+tags: [general]
 ---
 
 # Vet

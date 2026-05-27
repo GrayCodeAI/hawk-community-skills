@@ -1,6 +1,8 @@
 ---
-name: "cpo-review"
+name: arezv-cpo-review
 description: "/cs:cpo-review <plan> — JTBD-driven interrogation of product roadmap, PMF signal, and portfolio focus."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cpo-review — CPO Forcing Questions

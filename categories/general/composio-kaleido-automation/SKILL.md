@@ -1,8 +1,10 @@
 ---
-name: kaleido-automation
+name: composio-kaleido-automation
 description: "Automate Kaleido tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Kaleido Automation via Rube MCP

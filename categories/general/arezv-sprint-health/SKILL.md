@@ -1,6 +1,8 @@
 ---
-name: sprint-health
-description: Sprint health scoring and velocity analysis for agile teams. Usage: /sprint-health <analyze|velocity> [options]
+name: arezv-sprint-health
+description: "Sprint health scoring and velocity analysis for agile teams. Usage: /sprint-health <analyze|velocity> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /sprint-health

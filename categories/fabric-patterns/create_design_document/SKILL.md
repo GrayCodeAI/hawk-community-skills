@@ -1,9 +1,10 @@
 ---
 name: create_design_document
-description: Fabric pattern - create_design_document
-domain: general
+description: "Fabric pattern - create_design_document"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-relationships
+description: "Skill: ghcp-references-relationships"
+license: MIT
+tags: [general]
+---
+
 # Relationships in Power BI
 
 ## Relationship Properties

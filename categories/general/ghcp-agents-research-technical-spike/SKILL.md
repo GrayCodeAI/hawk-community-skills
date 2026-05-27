@@ -1,7 +1,9 @@
 ---
+name: ghcp-agents-research-technical-spike
 description: "Systematically research and validate technical spike documents through exhaustive investigation and controlled experimentation."
-name: "Technical spike research mode"
-tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'todo']
+license: MIT
+tags: [general]
+tools: [vscode, execute, read, edit, search, web, agent, todo]
 ---
 
 # Technical spike research mode

@@ -1,17 +1,11 @@
 ---
-name: common-mobile-visual-testing
-description: Standardizes mobile UI audits, RTL verification, and state-specific testing on iOS/Android.
-metadata:
-  triggers:
-    keywords:
-    - visual test
-    - mobile test
-    - verify ui
-    - dark mode test
-    - accessibility audit
-    - behavioral test
-    - visual regression
-    - localization test
+name: std-common-mobile-visual-testing
+description: "Standardizes mobile UI audits, RTL verification, and state-specific testing on iOS/Android."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 🕵️‍♂️ Mobile Visual & Behavioral Testing

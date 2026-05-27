@@ -1,3 +1,10 @@
+---
+name: cpa-standby-vm-pool
+description: "Skill: cpa-standby-vm-pool"
+license: MIT
+tags: [general]
+---
+
 # az standby-vm-pool
 
 ```bash

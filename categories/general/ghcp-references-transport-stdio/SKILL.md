@@ -1,3 +1,10 @@
+---
+name: ghcp-references-transport-stdio
+description: "Skill: ghcp-references-transport-stdio"
+license: MIT
+tags: [general]
+---
+
 # STDIO transport
 
 STDIO is the right choice when the server runs as a child process of the client (Claude Desktop, VS Code, MCP Inspector, a custom CLI). The client launches your executable; you read JSON-RPC frames from stdin and write them to stdout.

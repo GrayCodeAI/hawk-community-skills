@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-nuxt
+description: "Skill: inst-setup-drizzle-nuxt"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + Nuxt Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with a Nuxt 3 application.
@@ -458,4 +465,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Nuxt 3 Documentation](https://nuxt.com/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

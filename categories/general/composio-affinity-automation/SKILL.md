@@ -1,8 +1,10 @@
 ---
-name: affinity-automation
+name: composio-affinity-automation
 description: "Automate Affinity tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Affinity Automation via Rube MCP

@@ -1,9 +1,10 @@
 ---
 name: answer_interview_question
-description: Fabric pattern - answer_interview_question
-domain: general
+description: "Fabric pattern - answer_interview_question"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -41,4 +42,3 @@ OUTPUT:
 # INPUT
 
 INPUT:
-

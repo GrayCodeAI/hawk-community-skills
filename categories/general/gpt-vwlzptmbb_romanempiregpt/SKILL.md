@@ -1,3 +1,10 @@
+---
+name: gpt-vwlzptmbb_romanempiregpt
+description: "Skill: gpt-vwlzptmbb_romanempiregpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vWlzptMbb-romanempiregpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BDwfJabIH9meGNClYYHnOQmJ?se=2123-10-18T15%3A23%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D808157ad-be44-4659-a859-1ba0ea70e6ba.png&sig=eXiXQ78FlnO762sULmCveJHfHrJvpZC3Uiww1ttPVPo%3D" width="100px" />

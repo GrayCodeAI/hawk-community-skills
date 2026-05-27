@@ -1,3 +1,10 @@
+---
+name: cpa-ssl
+description: "Skill: cpa-ssl"
+license: MIT
+tags: [general]
+---
+
 # az containerapp ssl
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: cpa-sphere
+description: "Skill: cpa-sphere"
+license: MIT
+tags: [general]
+---
+
 # az sphere
 
 ```bash

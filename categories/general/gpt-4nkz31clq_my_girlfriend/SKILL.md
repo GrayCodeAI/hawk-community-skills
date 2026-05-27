@@ -1,3 +1,10 @@
+---
+name: gpt-4nkz31clq_my_girlfriend
+description: "Skill: gpt-4nkz31clq_my_girlfriend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4nkz31clQ-my-girlfriend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-zDZOvQcvCVqY7NhRzWZeONgm?se=2123-12-26T09%3A49%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D565595e4-31fe-46c9-ac93-7220e4467a5f.png&sig=XN8QiazfdqyFVW1sErAWsSzJ75QC99AJIll6SqV%2BstE%3D" width="100px" />

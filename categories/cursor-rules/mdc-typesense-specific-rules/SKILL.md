@@ -1,7 +1,10 @@
 ---
-description: Provides specific guidance related to Typesense setup, configuration, index creation, and search query optimization.
-globs: **/*.*
+name: mdc-typesense-specific-rules
+description: "Provides specific guidance related to Typesense setup, configuration, index creation, and search query optimization."
+license: MIT
+tags: [cursor-rules]
 ---
+
 3. Typesense
   - Provide guidance on Typesense setup and configuration
   - Assist with index creation and search query optimization

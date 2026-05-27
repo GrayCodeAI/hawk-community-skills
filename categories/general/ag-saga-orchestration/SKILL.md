@@ -1,9 +1,11 @@
 ---
-name: saga-orchestration
+name: ag-saga-orchestration
 description: "Patterns for managing distributed transactions and long-running business processes."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Saga Orchestration

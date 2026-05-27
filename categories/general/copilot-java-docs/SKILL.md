@@ -1,6 +1,8 @@
 ---
-name: java-docs
-description: 'Ensure that Java types are documented with Javadoc comments and follow best practices for documentation.'
+name: copilot-java-docs
+description: "Ensure that Java types are documented with Javadoc comments and follow best practices for documentation."
+license: MIT
+tags: [general]
 ---
 
 # Java Documentation (Javadoc) Best Practices

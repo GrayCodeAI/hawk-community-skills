@@ -1,9 +1,11 @@
 ---
-name: network-engineer
-description: Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
+name: ag-network-engineer
+description: "Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

@@ -1,12 +1,13 @@
 ---
-name: dev-fix
+name: std-dev-fix
 description: "Unified developer workflow for fixing bugs. Analyzes JIRA, cross-checks context, proposes a solution via implementation_plan.md, implements the fix, verifies locally with QE skills, and delivers a PR."
-metadata:
-  triggers:
-    keywords:
-    - dev fix
-    - workflow
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Dev Fix Skill
 
 > [!IMPORTANT]
@@ -76,4 +77,3 @@ Do NOT rely on "it builds" — verify the fix against the JIRA reproduction step
 - **No Blind Implementation**: Never write code before the `implementation_plan.md` is approved.
 - **No Orphan Sessions**: Always `close` browser/appium sessions used during verification.
 - **No skipping local verify**: "I checked it manually" is not enough. Provide snapshots/logs in the `walkthrough.md`.
-

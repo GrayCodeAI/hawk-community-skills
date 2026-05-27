@@ -1,32 +1,8 @@
 ---
-name: agent-refinement
-description: Agent skill for refinement - invoke with $agent-refinement
----
-
----
-name: refinement
-type: developer
-color: violet
-description: SPARC Refinement phase specialist for iterative improvement
-capabilities:
-  - code_optimization
-  - test_development
-  - refactoring
-  - performance_tuning
-  - quality_improvement
-priority: high
-sparc_phase: refinement
-hooks:
-  pre: |
-    echo "🔧 SPARC Refinement phase initiated"
-    memory_store "sparc_phase" "refinement"
-    # Run initial tests
-    npm test --if-present || echo "No tests yet"
-  post: |
-    echo "✅ Refinement phase complete"
-    # Run final test suite
-    npm test || echo "Tests need attention"
-    memory_store "refine_complete_$(date +%s)" "Code refined and tested"
+name: flow-agent-refinement
+description: "Agent skill for refinement - invoke with $agent-refinement"
+license: MIT
+tags: [general]
 ---
 
 # SPARC Refinement Agent

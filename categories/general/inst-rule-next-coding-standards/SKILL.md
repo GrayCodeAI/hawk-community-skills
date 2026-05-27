@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Nextjs 15 and React 19
-globs: **/*.tsx, **/*.ts, **/*.js, **/*.jsx
+name: inst-rule-next-coding-standards
+description: "Coding Standards & Rules for Nextjs 15 and React 19"
+license: MIT
+tags: [general]
 ---
 
 # Project Structure And App Router

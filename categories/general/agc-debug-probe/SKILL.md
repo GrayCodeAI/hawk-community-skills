@@ -1,3 +1,10 @@
+---
+name: agc-debug-probe
+description: "Skill: agc-debug-probe"
+license: MIT
+tags: [general]
+---
+
 # Raspberry Pi Debug Probe Reference
 
 ## Table of Contents

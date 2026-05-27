@@ -1,3 +1,10 @@
+---
+name: gpt-wwp6da6fq_curling_club_secretary
+description: "Skill: gpt-wwp6da6fq_curling_club_secretary"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wWp6dA6fQ-curling-club-secretary
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kUFm83HeIBCNVd6i3ZUwLYdt?se=2123-11-11T21%3A12%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da2c48cd3-549e-4778-b549-ac2cce45bd03.png&sig=uVMxHRi8tRJgd3nG0ZF5ksOxPBwenEyqp3X8F3zwbms%3D" width="100px" />

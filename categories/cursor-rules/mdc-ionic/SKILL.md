@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for developing high-performance, maintainable, and accessible Ionic applications using modern TypeScript and web standards.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-ionic
+description: "This guide provides definitive best practices for developing high-performance, maintainable, and accessible Ionic applications using modern TypeScript and web standards."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # ionic Best Practices
 
 Ionic Framework enables powerful cross-platform applications. Adhering to these guidelines ensures your codebase is robust, performant, and aligned with modern web development standards.

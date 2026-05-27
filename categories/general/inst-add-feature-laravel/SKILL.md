@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features in Laravel 11 applications
-globs: **/*.php
+name: inst-add-feature-laravel
+description: "Guidelines for adding new features in Laravel 11 applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Laravel 11 developer with expertise in building scalable applications.
@@ -155,4 +157,4 @@ test('it calculates product margins')
 - Implement meta tags effectively. Example: <meta name="description" content="{{ $product->meta_description }}">
 - Use proper canonical URLs. Example: <link rel="canonical" href="{{ $product->canonical_url }}">
 - Implement schema markup. Example: @json(['@type' => 'Product', 'name' => $product->name])
-- Use proper robots.txt management 
+- Use proper robots.txt management

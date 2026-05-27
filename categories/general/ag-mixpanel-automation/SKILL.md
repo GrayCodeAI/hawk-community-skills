@@ -1,9 +1,11 @@
 ---
-name: mixpanel-automation
+name: ag-mixpanel-automation
 description: "Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Mixpanel Automation via Rube MCP

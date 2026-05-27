@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and performant Peewee ORM code in Python, covering data modeling, querying, and application structure.
-globs: **/*.py
+name: mdc-peewee
+description: "Definitive guidelines for writing robust, maintainable, and performant Peewee ORM code in Python, covering data modeling, querying, and application structure."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # peewee Best Practices
 
 Peewee is a lightweight, expressive ORM for Python. These guidelines ensure your Peewee code is clean, efficient, and aligns with modern best practices as of 2025.

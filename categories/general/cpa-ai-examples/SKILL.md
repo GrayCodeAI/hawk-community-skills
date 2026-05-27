@@ -1,3 +1,10 @@
+---
+name: cpa-ai-examples
+description: "Skill: cpa-ai-examples"
+license: MIT
+tags: [general]
+---
+
 # az ai-examples
 
 ```bash

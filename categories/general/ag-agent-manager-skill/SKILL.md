@@ -1,9 +1,11 @@
 ---
-name: agent-manager-skill
+name: ag-agent-manager-skill
 description: "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Agent Manager Skill

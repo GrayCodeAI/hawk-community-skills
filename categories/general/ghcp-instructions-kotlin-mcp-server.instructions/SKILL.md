@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and patterns for building Model Context Protocol (MCP) servers in Kotlin using the official io.modelcontextprotocol:kotlin-sdk library.'
-applyTo: "**/*.kt, **/*.kts, **/build.gradle.kts, **/settings.gradle.kts"
+name: ghcp-instructions-kotlin-mcp-server.instructions
+description: "Skill: ghcp-instructions-kotlin-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Kotlin MCP Server Development Guidelines

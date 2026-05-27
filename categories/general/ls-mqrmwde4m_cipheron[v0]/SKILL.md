@@ -1,3 +1,10 @@
+---
+name: ls-mqrmwde4m_cipheron[v0]
+description: "Skill: ls-mqrmwde4m_cipheron[v0]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MQrMwDe4M-cipheron
 
 GPT Title: CIPHERON 🧪

@@ -1,8 +1,10 @@
 ---
-name: revolt-automation
+name: composio-revolt-automation
 description: "Automate Revolt tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Revolt Automation via Rube MCP

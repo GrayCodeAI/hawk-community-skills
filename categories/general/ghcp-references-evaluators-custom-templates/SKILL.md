@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-custom-templates
+description: "Skill: ghcp-references-evaluators-custom-templates"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: Custom Templates
 
 Design LLM judge prompts.

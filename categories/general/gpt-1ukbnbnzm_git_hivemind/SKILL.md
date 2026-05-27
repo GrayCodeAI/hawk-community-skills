@@ -1,3 +1,10 @@
+---
+name: gpt-1ukbnbnzm_git_hivemind
+description: "Skill: gpt-1ukbnbnzm_git_hivemind"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1UkbNbnZm-git-hivemind
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BG3yD8hWC5jcXNiDJEkIUUH2?se=2124-01-08T20%3A29%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DChatGPT.webp&sig=rT1kYGwyz8xMEJp35kuLg4HeeKbVQ3MdvFGC%2BTNeacA%3D" width="100px" />

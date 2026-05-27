@@ -1,3 +1,10 @@
+---
+name: gpt-majel9yno_polymetatron
+description: "Skill: gpt-majel9yno_polymetatron"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MAjEl9Yno-polymetatron
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jJKqxvSu4BJvBrqaeKjEDBOi?se=2124-01-25T20%3A52%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D939ebff8-9f8a-4d9f-9f35-bf237b036dee.png&sig=QtnCgFNLTTllXZgR3cRC2Oh4C/0EivLYkhKm/km1cqg%3D" width="100px" />

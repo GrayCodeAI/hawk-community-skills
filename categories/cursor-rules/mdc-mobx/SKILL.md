@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for structuring MobX applications with React, focusing on predictable state management, optimal rendering, and modern best practices.
-globs: **/*.{js,jsx}
+name: mdc-mobx
+description: "Definitive guidelines for structuring MobX applications with React, focusing on predictable state management, optimal rendering, and modern best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # mobx Best Practices
 
 MobX provides a powerful, reactive state management solution for React applications. This guide outlines the definitive best practices for using MobX effectively, ensuring predictable state, optimal performance, and maintainable code.

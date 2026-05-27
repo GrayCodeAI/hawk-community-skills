@@ -1,18 +1,14 @@
 ---
 name: mapping-mitre-attack-techniques
-description: >
-  Maps observed adversary behaviors, security alerts, and detection rules to MITRE ATT&CK
-  techniques and sub-techniques to quantify detection coverage and guide control prioritization.
-  Use when building an ATT&CK-based coverage heatmap, tagging SIEM alerts with technique IDs,
-  aligning security controls to adversary playbooks, or reporting threat exposure to executives.
-  Activates for requests involving ATT&CK Navigator, Sigma rules, MITRE D3FEND, or coverage gap analysis.
+description: "Maps observed adversary behaviors, security alerts, and detection rules to MITRE ATT&CK techniques and sub-techniques to quantify detection coverage and guide control prioritization. Use when build..."
+license: MIT
+tags: [mitre-att-ck, att-ck-navigator, sigma, d3fend, ttp, detection-engineering, nist-csf]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [MITRE-ATT&CK, ATT&CK-Navigator, Sigma, D3FEND, TTP, detection-engineering, NIST-CSF]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Mapping MITRE ATT&CK Techniques
 
 ## When to Use

@@ -1,7 +1,10 @@
 ---
-description: Enforces consistent code style and structure across the project, including concise code, functional programming, and descriptive variable names.
-globs: **/*.{ts,vue}
+name: mdc-code-style-and-structure-rule
+description: "Enforces consistent code style and structure across the project, including concise code, functional programming, and descriptive variable names."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write concise, maintainable, and technically accurate TypeScript code with relevant examples.
 - Use functional and declarative programming patterns; avoid classes.
 - Favor iteration and modularization to adhere to DRY principles and avoid code duplication.

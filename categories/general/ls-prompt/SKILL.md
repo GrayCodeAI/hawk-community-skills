@@ -1,3 +1,10 @@
+---
+name: ls-prompt
+description: "Skill: ls-prompt"
+license: MIT
+tags: [general]
+---
+
 # Manus AI Assistant Capabilities
 
 ## Overview

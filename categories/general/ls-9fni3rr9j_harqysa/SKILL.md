@@ -1,3 +1,10 @@
+---
+name: ls-9fni3rr9j_harqysa
+description: "Skill: ls-9fni3rr9j_harqysa"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9fnI3RR9J-hrqys
 
 GPT Title: هرقيسا

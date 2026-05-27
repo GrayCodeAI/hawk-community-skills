@@ -1,12 +1,13 @@
 ---
-name: sveltekit
+name: ag-sveltekit
 description: "Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework."
+license: MIT
+tags: [svelte, sveltekit, fullstack, ssr, ssg, typescript]
 category: frontend
 risk: safe
 source: community
-date_added: "2026-03-18"
+date_added: 2026-03-18
 author: suhaibjanjua
-tags: [svelte, sveltekit, fullstack, ssr, ssg, typescript]
 tools: [claude, cursor, gemini]
 ---
 

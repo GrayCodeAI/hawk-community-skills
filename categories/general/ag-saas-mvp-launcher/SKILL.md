@@ -1,9 +1,11 @@
 ---
-name: saas-mvp-launcher
+name: ag-saas-mvp-launcher
 description: "Use when planning or building a SaaS MVP from scratch. Provides a structured roadmap covering tech stack, architecture, auth, payments, and launch checklist."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-04"
+date_added: 2026-03-04
 ---
 
 # SaaS MVP Launcher

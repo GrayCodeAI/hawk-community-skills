@@ -1,9 +1,10 @@
 ---
 name: explain_terms
-description: Fabric pattern - explain_terms
-domain: general
+description: "Fabric pattern - explain_terms"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

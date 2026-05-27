@@ -1,10 +1,10 @@
 ---
-name: constitutional-ai
-description: Anthropic's method for training harmless AI through self-improvement. Two-phase approach - supervised learning with self-critique/revision, then RLAIF (RL from AI Feedback). Use for safety alignment, reducing harmful outputs without human labels. Powers Claude's safety system.
+name: research-constitutional-ai
+description: "Anthropic's method for training harmless AI through self-improvement. Two-phase approach - supervised learning with self-critique/revision, then RLAIF (RL from AI Feedback). Use for safety alignmen..."
+license: MIT
+tags: [safety-alignment, constitutional-ai, rlaif, self-critique, harmlessness, anthropic, ai-safety, rl-from-ai-feedback, claude]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Safety Alignment, Constitutional AI, RLAIF, Self-Critique, Harmlessness, Anthropic, AI Safety, RL From AI Feedback, Claude]
 dependencies: [transformers, torch, trl]
 ---
 
@@ -285,6 +285,3 @@ final_preference = majority_vote(prefs_1, prefs_2, prefs_3)
 - Anthropic blog: https://www.anthropic.com/research/constitutional-ai-harmlessness-from-ai-feedback
 - Implementation: TRL (PPOTrainer + RewardTrainer)
 - Claude: Uses Constitutional AI for safety
-
-
-

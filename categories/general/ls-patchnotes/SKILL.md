@@ -1,3 +1,10 @@
+---
+name: ls-patchnotes
+description: "Skill: ls-patchnotes"
+license: MIT
+tags: [general]
+---
+
 ## 1.17
 - Added Xcode export
 - Prompt updates, hotkey behavior tweaks

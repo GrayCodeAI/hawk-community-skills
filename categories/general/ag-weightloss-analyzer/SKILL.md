@@ -1,6 +1,8 @@
 ---
-name: weightloss-analyzer
-description: 分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段
+name: ag-weightloss-analyzer
+description: "分析减肥数据、计算代谢率、追踪能量缺口、管理减肥阶段"
+license: MIT
+tags: [general]
 risk: safe
 source: community
 ---

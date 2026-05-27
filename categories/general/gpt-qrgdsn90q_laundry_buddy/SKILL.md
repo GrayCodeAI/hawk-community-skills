@@ -1,3 +1,10 @@
+---
+name: gpt-qrgdsn90q_laundry_buddy
+description: "Skill: gpt-qrgdsn90q_laundry_buddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy
 
 GPT Title: Laundry Buddy

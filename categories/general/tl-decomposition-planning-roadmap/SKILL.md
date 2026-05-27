@@ -1,3 +1,10 @@
+---
+name: tl-decomposition-planning-roadmap
+description: "Skill: tl-decomposition-planning-roadmap"
+license: MIT
+tags: [general]
+---
+
 # Decomposition Planning & Roadmap - Quick Reference
 
 ## Pattern Sequence

@@ -1,15 +1,9 @@
 ---
-name: mcp-deploy-manage-agents
-description: 'Skill converted from mcp-deploy-manage-agents.prompt.md'
----
-
-````prompt
----
-mode: 'agent'
-tools: ['changes', 'search/codebase', 'edit/editFiles', 'problems']
-description: 'Deploy and manage MCP-based declarative agents in Microsoft 365 admin center with governance, assignments, and organizational distribution'
-model: 'gpt-4.1'
-tags: [mcp, m365-copilot, deployment, admin, agent-management, governance]
+name: copilot-mcp-deploy-manage-agents
+description: Skill converted from mcp-deploy-manage-agents.prompt.md
+license: MIT
+tags:
+- general
 ---
 
 # Deploy and Manage MCP-Based Agents

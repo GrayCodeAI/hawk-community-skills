@@ -1,6 +1,8 @@
 ---
-name: remember
-description: 'Transforms lessons learned into domain-organized memory instructions (global or workspace). Syntax: `/remember [>domain [scope]] lesson clue` where scope is `global` (default), `user`, `workspace`, or `ws`.'
+name: ghcp-remember-skill
+description: "Transforms lessons learned into domain-organized memory instructions (global or workspace). Syntax: `/remember [>domain [scope]] lesson clue` where scope is `global` (default), `user`, `workspace`,..."
+license: MIT
+tags: [general]
 ---
 
 # Memory Keeper

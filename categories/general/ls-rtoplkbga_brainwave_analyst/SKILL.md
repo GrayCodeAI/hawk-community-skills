@@ -1,3 +1,10 @@
+---
+name: ls-rtoplkbga_brainwave_analyst
+description: "Skill: ls-rtoplkbga_brainwave_analyst"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rTOPLKBga-brainwave-analyst
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1ZlMWhpoAo25qkv7zvurfo2Y?se=2123-10-18T09%3A16%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D107adb72-c4b1-4c64-8763-5eb2937c061a.png&sig=wZbi1166xlC4ZKACuY9p3fSB5/ZLWWTQs4Ih4asrirw%3D" width="100px" />

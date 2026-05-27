@@ -1,18 +1,14 @@
 ---
-name: ios-dependency-injection
-description: Configure protocol-based DI with property wrappers and Factory/Swinject. Use when setting up dependency injection or factory patterns in iOS.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - "@Injected"
-    - Resolver
-    - Container
-    - Swinject
-    - register
-    - resolve
+name: std-ios-dependency-injection
+description: "Configure protocol-based DI with property wrappers and Factory/Swinject. Use when setting up dependency injection or factory patterns in iOS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Dependency Injection
 
 ## **Priority: P0**

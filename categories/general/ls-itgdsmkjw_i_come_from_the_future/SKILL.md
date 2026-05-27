@@ -1,3 +1,10 @@
+---
+name: ls-itgdsmkjw_i_come_from_the_future
+description: "Skill: ls-itgdsmkjw_i_come_from_the_future"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ITgdsmKJw-i-come-from-the-future
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Nnpw7EAQ2UBusjoGTDGsJSEX?se=2123-10-17T13%3A27%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd3e0a33a-dcbc-47b5-ac04-73fc68d871ad.png&sig=bgwCOUNZ9BcxbUZ4DlA0TtEjB2H%2BA46r1wwHRMpIZ4M%3D" width="100px" />

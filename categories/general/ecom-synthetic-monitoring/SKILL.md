@@ -1,19 +1,15 @@
 ---
-nexscope:
-  name: "Synthetic Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "monitoring"
-    - "checkout"
-    - "uptime"
-    - "testing"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "synthetic monitoring"
+name: ecom-synthetic-monitoring
+description: "Skill: ecom-synthetic-monitoring"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Synthetic Monitoring

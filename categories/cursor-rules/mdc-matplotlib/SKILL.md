@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for writing clean, performant, and maintainable matplotlib code, emphasizing the object-oriented API and modern data science workflows.
-globs: **/*.py
+name: mdc-matplotlib
+description: "This guide outlines definitive best practices for writing clean, performant, and maintainable matplotlib code, emphasizing the object-oriented API and modern data science workflows."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # matplotlib Best Practices
 
 Matplotlib is the bedrock of Python data visualization. Adhering to these guidelines ensures your plots are not just visually appealing, but also robust, performant, and easily integrated into production AI/ML and data science pipelines.

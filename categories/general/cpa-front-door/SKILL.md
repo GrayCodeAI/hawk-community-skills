@@ -1,3 +1,10 @@
+---
+name: cpa-front-door
+description: "Skill: cpa-front-door"
+license: MIT
+tags: [general]
+---
+
 # az network front-door
 
 ```bash

@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for building C# applications'
-applyTo: '**/*.cs'
+name: ghcp-instructions-csharp.instructions
+description: "Skill: ghcp-instructions-csharp.instructions"
+license: MIT
+tags: [general]
 ---
 
 # C# Development

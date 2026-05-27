@@ -1,3 +1,10 @@
+---
+name: ghcp-references-data-formats-encoding
+description: "Skill: ghcp-references-data-formats-encoding"
+license: MIT
+tags: [general]
+---
+
 # Data Formats & Encoding Reference
 
 Data formats, character encodings, and serialization for web development.

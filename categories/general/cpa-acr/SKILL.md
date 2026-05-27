@@ -1,3 +1,10 @@
+---
+name: cpa-acr
+description: "Skill: cpa-acr"
+license: MIT
+tags: [general]
+---
+
 # az acr
 
 ```bash

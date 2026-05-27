@@ -1,6 +1,8 @@
 ---
-name: dataverse-python-usecase-builder
-description: 'Generate complete solutions for specific Dataverse SDK use cases with architecture recommendations'
+name: ghcp-dataverse-python-usecase-builder-skill
+description: "Generate complete solutions for specific Dataverse SDK use cases with architecture recommendations"
+license: MIT
+tags: [general]
 ---
 
 # System Instructions

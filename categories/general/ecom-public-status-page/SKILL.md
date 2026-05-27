@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Public Status Page"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "status-page"
-    - "incident-communication"
-    - "transparency"
-    - "monitoring"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "public status page"
+name: ecom-public-status-page
+description: "Skill: ecom-public-status-page"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Public Status Page

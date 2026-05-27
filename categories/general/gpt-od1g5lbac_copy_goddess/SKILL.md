@@ -1,3 +1,10 @@
+---
+name: gpt-od1g5lbac_copy_goddess
+description: "Skill: gpt-od1g5lbac_copy_goddess"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OD1G5LbAc-copy-goddess
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dXigFqMn19yVqOL5IvdvWxUz?se=2123-11-12T17%3A31%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D013e61da-c1e8-479a-818e-96fc981fd81c.png&sig=O8L3kXGpCXOmA/HzXmNVAF94AOFNJd8A9%2BPGmwHGjkY%3D" width="100px" />

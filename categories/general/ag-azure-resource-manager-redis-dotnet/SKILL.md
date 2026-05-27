@@ -1,9 +1,11 @@
 ---
-name: azure-resource-manager-redis-dotnet
-description: Azure Resource Manager SDK for Redis in .NET.
+name: ag-azure-resource-manager-redis-dotnet
+description: "Azure Resource Manager SDK for Redis in .NET."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Azure.ResourceManager.Redis (.NET)

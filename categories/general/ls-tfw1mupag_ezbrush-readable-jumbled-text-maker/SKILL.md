@@ -1,3 +1,10 @@
+---
+name: ls-tfw1mupag_ezbrush-readable-jumbled-text-maker
+description: "Skill: ls-tfw1mupag_ezbrush-readable-jumbled-text-maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tfw1MupAG-ezbrush-readable-jumbled-text-maker
 
 GPT Title: EZBRUSH Readable Jumbled Text Maker

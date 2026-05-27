@@ -1,3 +1,10 @@
+---
+name: cpa-keyvault
+description: "Skill: cpa-keyvault"
+license: MIT
+tags: [general]
+---
+
 # az keyvault
 
 ```bash

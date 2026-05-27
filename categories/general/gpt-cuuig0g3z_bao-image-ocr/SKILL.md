@@ -1,3 +1,10 @@
+---
+name: gpt-cuuig0g3z_bao-image-ocr
+description: "Skill: gpt-cuuig0g3z_bao-image-ocr"
+license: MIT
+tags: [general]
+---
+
 GPT title: Bao Image OCR
 
 GPT url: https://chat.openai.com/g/g-CuuiG0G3Z-bao-image-ocr

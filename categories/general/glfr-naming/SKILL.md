@@ -1,3 +1,10 @@
+---
+name: glfr-naming
+description: "Skill: glfr-naming"
+license: MIT
+tags: [general]
+---
+
 # Naming Conventions
 
 ## General Principles

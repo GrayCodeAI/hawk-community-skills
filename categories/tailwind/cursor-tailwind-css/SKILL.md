@@ -1,16 +1,11 @@
 ---
 name: cursor-tailwind-css
-description: Cursor IDE rules for tailwind-css
-domain: engineering
+description: "Cursor IDE rules for tailwind-css"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Tailwind CSS: utility patterns, design tokens, component extraction"
-globs: ["*.css", "*.tsx", "*.vue", "*.html"]
-alwaysApply: true
 ---
 
 # Tailwind CSS Cursor Rules

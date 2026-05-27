@@ -1,6 +1,8 @@
 ---
-description: 'Best practices for building MCP-based declarative agents and API plugins for Microsoft 365 Copilot with Model Context Protocol integration'
-applyTo: '**/{*mcp*,*agent*,*plugin*,declarativeAgent.json,ai-plugin.json,mcp.json,manifest.json}'
+name: ghcp-instructions-mcp-m365-copilot.instructions
+description: "Skill: ghcp-instructions-mcp-m365-copilot.instructions"
+license: MIT
+tags: [general]
 ---
 
 # MCP-based M365 Copilot Development Guidelines

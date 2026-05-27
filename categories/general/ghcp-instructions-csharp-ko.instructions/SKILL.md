@@ -1,6 +1,8 @@
 ---
-description: 'C# 애플리케이션 개발을 위한 코드 작성 규칙 by @jgkim999'
-applyTo: '**/*.cs'
+name: ghcp-instructions-csharp-ko.instructions
+description: "Skill: ghcp-instructions-csharp-ko.instructions"
+license: MIT
+tags: [general]
 ---
 
 # C# 코드 작성 규칙

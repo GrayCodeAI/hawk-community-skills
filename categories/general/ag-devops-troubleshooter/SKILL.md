@@ -1,9 +1,11 @@
 ---
-name: devops-troubleshooter
-description: Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability.
+name: ag-devops-troubleshooter
+description: "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

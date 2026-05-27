@@ -1,7 +1,10 @@
 ---
-description: Defines the state management approach in Svelte, recommending Svelte stores for global state. It promotes using the '$' prefix and reactive declarations and statements.
-globs: **/*.svelte
+name: mdc-svelte-state-management
+description: "Defines the state management approach in Svelte, recommending Svelte stores for global state. It promotes using the '$' prefix and reactive declarations and statements."
+license: MIT
+tags: [svelte]
 ---
+
 - State Management
   - Use Svelte stores for global state:
     typescript

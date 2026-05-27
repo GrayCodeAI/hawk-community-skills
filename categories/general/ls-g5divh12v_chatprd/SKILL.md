@@ -1,3 +1,10 @@
+---
+name: ls-g5divh12v_chatprd
+description: "Skill: ls-g5divh12v_chatprd"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-G5diVh12v-chatprd
 
 GPT Title: ChatPRD

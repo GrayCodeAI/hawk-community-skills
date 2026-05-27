@@ -1,3 +1,10 @@
+---
+name: ghcp-references-tool-primitive
+description: "Skill: ghcp-references-tool-primitive"
+license: MIT
+tags: [general]
+---
+
 # Tools
 
 Tools are functions the LLM can call. In the C# SDK they're plain methods on a class marked `[McpServerToolType]`, with each method marked `[McpServerTool]`. The SDK generates the JSON Schema from the method signature and `[Description]` attributes.

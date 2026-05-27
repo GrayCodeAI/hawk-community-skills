@@ -1,3 +1,10 @@
+---
+name: ls-vx52ird3r_ai-paper-polisher-pro
+description: "Skill: ls-vx52ird3r_ai-paper-polisher-pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro
 
 GPT Title: AI Paper Polisher Pro

@@ -1,6 +1,8 @@
 ---
-description: Coding standards and best practices for implementing Clerk authentication in TanStack applications
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-rule-clerk-tanstack-coding-standards
+description: "Coding standards and best practices for implementing Clerk authentication in TanStack applications"
+license: MIT
+tags: [general]
 ---
 
 # Coding Standards for TanStack Apps with Clerk Authentication
@@ -380,4 +382,4 @@ const useUnoptimizedQuery = () => {
 7. Document code properly
 8. Write comprehensive tests
 9. Optimize for performance
-10. Keep dependencies up to date 
+10. Keep dependencies up to date

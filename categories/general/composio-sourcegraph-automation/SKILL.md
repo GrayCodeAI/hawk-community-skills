@@ -1,8 +1,10 @@
 ---
-name: sourcegraph-automation
+name: composio-sourcegraph-automation
 description: "Automate Sourcegraph tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Sourcegraph Automation via Rube MCP

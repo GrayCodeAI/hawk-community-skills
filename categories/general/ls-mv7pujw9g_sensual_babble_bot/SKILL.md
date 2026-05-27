@@ -1,3 +1,10 @@
+---
+name: ls-mv7pujw9g_sensual_babble_bot
+description: "Skill: ls-mv7pujw9g_sensual_babble_bot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MV7pUJw9G-sensual-babble-bot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-olUuvD9rxmwU1tb59dqyddt7?se=2123-11-02T18%3A47%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D73f48c90-d75b-48df-b70d-3678144dff05.png&sig=e4/z1Gw21xU9l2j8yrBNT/xkJ%2BZS92sxYf5hDTd0IVE%3D" width="100px" />

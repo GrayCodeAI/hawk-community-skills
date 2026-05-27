@@ -1,12 +1,12 @@
 ---
 name: performing-bluetooth-security-assessment
-description: Assess Bluetooth Low Energy device security by scanning, enumerating GATT services, and detecting vulnerabilities
+description: "Assess Bluetooth Low Energy device security by scanning, enumerating GATT services, and detecting vulnerabilities"
+license: MIT
+tags: [bluetooth, ble, gatt, wireless-security]
 domain: cybersecurity
 subdomain: wireless-security
-tags: [bluetooth, ble, gatt, wireless-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Overview

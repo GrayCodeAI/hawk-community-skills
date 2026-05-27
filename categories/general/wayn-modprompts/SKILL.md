@@ -1,3 +1,10 @@
+---
+name: wayn-modprompts
+description: "Skill: wayn-modprompts"
+license: MIT
+tags: [general]
+---
+
 modprompts.md
 
 # PromptStack - User Moderation & Permissions Research

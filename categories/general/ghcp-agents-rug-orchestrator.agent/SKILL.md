@@ -1,8 +1,10 @@
 ---
-name: 'RUG'
-description: 'Pure orchestration agent that decomposes requests, delegates all work to subagents, validates outcomes, and repeats until complete.'
-tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo']
-agents: ['SWE', 'QA']
+name: ghcp-agents-rug-orchestrator.agent
+description: "Pure orchestration agent that decomposes requests, delegates all work to subagents, validates outcomes, and repeats until complete."
+license: MIT
+tags: [general]
+tools: [vscode, execute, read, agent, edit, search, web, todo]
+agents: [SWE, QA]
 ---
 
 ## Identity

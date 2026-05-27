@@ -1,6 +1,8 @@
 ---
-description: Coding standards and best practices for vanilla JavaScript apps with Better Auth Authentication
-globs: "**/*.html, **/*.js"
+name: inst-rule-better-auth-javascript-coding-stand
+description: "Coding standards and best practices for vanilla JavaScript apps with Better Auth Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Coding Standards for Vanilla JavaScript with Better Auth Authentication
@@ -355,4 +357,4 @@ function setupAuthListeners(auth) {
 12. Use proper type checking and validation
 13. Follow proper file organization
 14. Implement proper error messages and user feedback
-15. Keep the codebase maintainable and well-documented 
+15. Keep the codebase maintainable and well-documented

@@ -1,3 +1,10 @@
+---
+name: ls-5hbiqxl3a_ai-tools-consultant
+description: "Skill: ls-5hbiqxl3a_ai-tools-consultant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5HBiqXL3a-ai-tools-consultant
 
 GPT Title: AI Tools Consultant

@@ -1,9 +1,10 @@
 ---
-name: bpl-virtualbuddyapidocumentation4
-description: System prompt - virtualbuddyapidocumentation4
-domain: general
+name: bpl-txt-virtualbuddyapidocumentation4
+description: "System prompt - virtualbuddyapidocumentation4"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

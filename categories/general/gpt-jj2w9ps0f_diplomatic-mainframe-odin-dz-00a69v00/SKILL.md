@@ -1,3 +1,10 @@
+---
+name: gpt-jj2w9ps0f_diplomatic-mainframe-odin-dz-00a69v00
+description: "Skill: gpt-jj2w9ps0f_diplomatic-mainframe-odin-dz-00a69v00"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jJ2w9pS0f-diplomatic-mainframe-odin-dz-00a69v00
 
 GPT Title: Diplomatic Mainframe ODIN/DZ-00a69v00

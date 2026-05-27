@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for Android SDK development in Java, focusing on modern architecture, Jetpack libraries, performance, security, and testing.
-globs: **/*.java
+name: mdc-android-sdk
+description: "This guide provides definitive best practices for Android SDK development in Java, focusing on modern architecture, Jetpack libraries, performance, security, and testing."
+license: MIT
+tags: [mobile]
 ---
+
 # android-sdk Best Practices (Java)
 
 This guide outlines the essential practices for building robust, performant, and maintainable Android applications using Java, adhering to modern standards and leveraging the AndroidX ecosystem.

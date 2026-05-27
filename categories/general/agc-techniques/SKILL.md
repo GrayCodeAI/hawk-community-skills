@@ -1,3 +1,10 @@
+---
+name: agc-techniques
+description: "Skill: agc-techniques"
+license: MIT
+tags: [general]
+---
+
 # Rhetorical Techniques Reference
 
 Detailed examples for each of the seven techniques. Read this file when you need deeper guidance on executing a specific technique.

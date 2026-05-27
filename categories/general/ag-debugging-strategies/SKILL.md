@@ -1,9 +1,11 @@
 ---
-name: debugging-strategies
+name: ag-debugging-strategies
 description: "Transform debugging from frustrating guesswork into systematic problem-solving with proven strategies, powerful tools, and methodical approaches."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Debugging Strategies

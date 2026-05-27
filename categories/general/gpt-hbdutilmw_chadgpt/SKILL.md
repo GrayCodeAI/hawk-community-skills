@@ -1,3 +1,10 @@
+---
+name: gpt-hbdutilmw_chadgpt
+description: "Skill: gpt-hbdutilmw_chadgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hBDutiLmw-chadgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jIM5nxwJ2BCk2xs57TXxlBfM?se=2123-10-16T23%3A26%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D72dd43ca-aa0c-4c7d-97d1-2bbbbf4cdf22.png&sig=k7LU8Oc3yCeGVtJ60swvv124Gu9/SG7D8K4xpKNPIx0%3D" width="100px" />

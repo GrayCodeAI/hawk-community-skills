@@ -1,7 +1,10 @@
 ---
-description: Key conventions to follow within the TALL stack project.
-globs: /**/*.*
+name: mdc-key-conventions-rules
+description: "Key conventions to follow within the TALL stack project."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Follow Laravel's MVC architecture.
 - Use Laravel's routing system for defining application endpoints.
 - Implement proper request validation using Form Requests.

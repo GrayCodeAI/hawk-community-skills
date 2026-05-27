@@ -1,3 +1,10 @@
+---
+name: arb-traceability
+description: "Skill: arb-traceability"
+license: MIT
+tags: [general]
+---
+
 # OBEY Clean Code by Robert C. Martin
 
 Canonical full source: [full.md](full.md)

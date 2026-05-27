@@ -1,9 +1,11 @@
---- 
-name: magic-animator
-description: AI-powered animation tool for creating motion in logos, UI, icons, and social media assets.
+---
+name: ag-magic-animator
+description: "AI-powered animation tool for creating motion in logos, UI, icons, and social media assets."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-07"
+date_added: 2026-03-07
 ---
 
 # Magic Animator Skill

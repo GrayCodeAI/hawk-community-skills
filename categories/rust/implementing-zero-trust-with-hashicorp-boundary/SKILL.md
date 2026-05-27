@@ -1,12 +1,12 @@
 ---
 name: implementing-zero-trust-with-hashicorp-boundary
-description: Implement HashiCorp Boundary for identity-aware zero trust infrastructure access management with dynamic credential brokering, session recording, and Vault integration.
+description: "Implement HashiCorp Boundary for identity-aware zero trust infrastructure access management with dynamic credential brokering, session recording, and Vault integration."
+license: MIT
+tags: [zero-trust, hashicorp, boundary, privileged-access, vault, identity-aware-proxy, session-recording, just-in-time-access]
 domain: cybersecurity
 subdomain: zero-trust-architecture
-tags: [zero-trust, hashicorp, boundary, privileged-access, vault, identity-aware-proxy, session-recording, just-in-time-access]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Zero Trust with HashiCorp Boundary

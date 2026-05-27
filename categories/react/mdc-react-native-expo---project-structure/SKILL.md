@@ -1,7 +1,11 @@
 ---
-description: Enforces the recommended folder structure for React Native Expo projects at the root level, including assets, src, App.js, and app.json.
-globs: *.*
+name: mdc-react-native-expo---project-structure
+description: 'Skill: mdc-react-native-expo---project-structure'
+license: MIT
+tags:
+- react
 ---
+
 - Ensure the following folder structure is present:
   - assets/
   - src/

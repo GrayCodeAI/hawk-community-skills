@@ -1,9 +1,10 @@
 ---
 name: extract_main_activities
-description: Fabric pattern - extract_main_activities
-domain: general
+description: "Fabric pattern - extract_main_activities"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

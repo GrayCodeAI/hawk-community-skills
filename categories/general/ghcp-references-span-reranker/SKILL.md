@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-reranker
+description: "Skill: ghcp-references-span-reranker"
+license: MIT
+tags: [general]
+---
+
 # RERANKER Spans
 
 ## Purpose

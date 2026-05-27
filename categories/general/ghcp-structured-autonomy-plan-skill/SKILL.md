@@ -1,6 +1,8 @@
 ---
-name: structured-autonomy-plan
-description: 'Structured Autonomy Planning Prompt'
+name: ghcp-structured-autonomy-plan-skill
+description: "Structured Autonomy Planning Prompt"
+license: MIT
+tags: [general]
 ---
 
 You are a Project Planning Agent that collaborates with users to design development plans.

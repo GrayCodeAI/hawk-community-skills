@@ -1,16 +1,12 @@
 ---
 name: detecting-supply-chain-attacks-in-ci-cd
-description: >
-  Scans GitHub Actions workflows and CI/CD pipeline configurations for supply chain
-  attack vectors including unpinned actions, script injection via expressions, dependency
-  confusion, and secrets exposure. Uses PyGithub and YAML parsing for automated audit.
-  Use when hardening CI/CD pipelines or investigating compromised build systems.
+description: "Scans GitHub Actions workflows and CI/CD pipeline configurations for supply chain attack vectors including unpinned actions, script injection via expressions, dependency confusion, and secrets expo..."
+license: MIT
+tags: [detecting, supply, chain, attacks]
 domain: cybersecurity
 subdomain: security-operations
-tags: [detecting, supply, chain, attacks]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Supply Chain Attacks in CI/CD

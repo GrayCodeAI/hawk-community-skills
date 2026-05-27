@@ -1,7 +1,10 @@
 ---
-description: Rules for implementing parameter-specific logic in the cellular automata simulation. These rules detail how each parameter influences the simulation.
-globs: /src/parameter_logic/**/*.*
+name: mdc-parameter-specific-logic-rules
+description: "Rules for implementing parameter-specific logic in the cellular automata simulation. These rules detail how each parameter influences the simulation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Implement Parameter-Specific Logic:
   - For each parameter in the region structure, create dedicated functions or methods to apply its effects. For example:
     - Obstacle: Turns the cell into an obstacle, preventing it from being randomly selected, and preventing neighbor soup cells from interacting with it.

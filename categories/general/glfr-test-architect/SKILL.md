@@ -1,7 +1,9 @@
 ---
-name: test-architect
-description: Testing strategy with unit/integration/e2e, TDD, property-based testing, and mutation testing
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-test-architect
+description: "Testing strategy with unit/integration/e2e, TDD, property-based testing, and mutation testing"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

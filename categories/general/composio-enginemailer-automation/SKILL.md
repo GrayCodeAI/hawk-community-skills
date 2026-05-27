@@ -1,8 +1,10 @@
 ---
-name: enginemailer-automation
+name: composio-enginemailer-automation
 description: "Automate Enginemailer tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Enginemailer Automation via Rube MCP

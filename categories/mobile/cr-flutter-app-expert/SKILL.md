@@ -1,9 +1,10 @@
 ---
 name: cr-flutter-app-expert
-description: Cursor rules for flutter-app-expert
-domain: engineering
+description: "Cursor rules for flutter-app-expert"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -112,4 +113,3 @@ const testingTestingGuidelines = `
 6. Follow proper test naming conventions
 7. Implement proper CI/CD testing
 `;
-

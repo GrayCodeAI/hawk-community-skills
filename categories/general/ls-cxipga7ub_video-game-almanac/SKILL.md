@@ -1,3 +1,10 @@
+---
+name: ls-cxipga7ub_video-game-almanac
+description: "Skill: ls-cxipga7ub_video-game-almanac"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac
 
 GPT Title: Video Game Almanac

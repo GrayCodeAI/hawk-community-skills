@@ -1,12 +1,12 @@
 ---
 name: hunting-for-unusual-network-connections
-description: Hunt for unusual network connections by analyzing outbound traffic patterns, rare destinations, non-standard ports, and anomalous connection frequencies from endpoints.
+description: "Hunt for unusual network connections by analyzing outbound traffic patterns, rare destinations, non-standard ports, and anomalous connection frequencies from endpoints."
+license: MIT
+tags: [threat-hunting, mitre-attack, network-analysis, c2, anomaly-detection, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, network-analysis, c2, anomaly-detection, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting For Unusual Network Connections

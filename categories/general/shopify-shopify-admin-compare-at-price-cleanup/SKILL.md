@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-compare-at-price-cleanup
-role: merchandising
+name: shopify-shopify-admin-compare-at-price-cleanup
 description: "Removes stale compareAtPrice values where current price >= compareAtPrice (no real discount) or compareAtPrice has been set for over a configurable age threshold."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - productVariantsBulkUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'productVariantsBulkUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

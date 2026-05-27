@@ -1,3 +1,10 @@
+---
+name: ecom-tiktok-shop-analytics
+description: "Skill: ecom-tiktok-shop-analytics"
+license: MIT
+tags: [general]
+---
+
 # TikTok Shop Analytics
 
 Master TikTok Shop analytics and data-driven selling. Track shop performance, video analytics, live selling metrics, creator affiliate ROI, and advertising performance.

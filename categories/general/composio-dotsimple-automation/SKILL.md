@@ -1,8 +1,10 @@
 ---
-name: dotsimple-automation
+name: composio-dotsimple-automation
 description: "Automate Dotsimple tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Dotsimple Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: cpa-fluid-relay
+description: "Skill: cpa-fluid-relay"
+license: MIT
+tags: [general]
+---
+
 # az fluid-relay
 
 ```bash

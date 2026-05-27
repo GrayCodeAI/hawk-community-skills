@@ -1,6 +1,8 @@
 ---
-description: "DDD and .NET architecture guidelines"
-applyTo: '**/*.cs,**/*.csproj,**/Program.cs,**/*.razor'
+name: ghcp-instructions-dotnet-architecture-good-pract
+description: "Skill: ghcp-instructions-dotnet-architecture-good-pract"
+license: MIT
+tags: [general]
 ---
 
 # DDD Systems & .NET Guidelines

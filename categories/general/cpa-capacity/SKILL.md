@@ -1,3 +1,10 @@
+---
+name: cpa-capacity
+description: "Skill: cpa-capacity"
+license: MIT
+tags: [general]
+---
+
 # az capacity
 
 ```bash

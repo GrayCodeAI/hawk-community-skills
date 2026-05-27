@@ -1,3 +1,10 @@
+---
+name: gpt-l3uty06yc_sadhguru_gpt
+description: "Skill: gpt-l3uty06yc_sadhguru_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l3uty06yc-sadhguru-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ldUhAAvh6inE4zlZpElYQM8J?se=2123-10-17T16%3A19%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D03fd08fa-d6a8-4c8a-99c3-cd94982615e1.png&sig=SALi7nmga5x2cYtbXBil5BQ1ejK4cNI%2BMU6Qae6JFEI%3D" width="100px" />

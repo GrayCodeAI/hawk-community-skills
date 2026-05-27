@@ -1,9 +1,11 @@
 ---
-name: react-flow-node-ts
+name: ag-react-flow-node-ts
 description: "Create React Flow node components following established patterns with proper TypeScript types and store integration."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # React Flow Node

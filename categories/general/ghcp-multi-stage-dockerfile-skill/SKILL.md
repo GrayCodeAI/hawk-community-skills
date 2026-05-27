@@ -1,6 +1,8 @@
 ---
-name: multi-stage-dockerfile
-description: 'Create optimized multi-stage Dockerfiles for any language or framework'
+name: ghcp-multi-stage-dockerfile-skill
+description: "Create optimized multi-stage Dockerfiles for any language or framework"
+license: MIT
+tags: [general]
 ---
 
 Your goal is to help me create efficient multi-stage Dockerfiles that follow best practices, resulting in smaller, more secure container images.

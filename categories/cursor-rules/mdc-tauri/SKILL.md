@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for writing robust, performant, and secure Rust backend code in Tauri applications, focusing on modern patterns and common pitfalls.
-globs: **/*.rs
+name: mdc-tauri
+description: "This guide provides definitive, actionable best practices for writing robust, performant, and secure Rust backend code in Tauri applications, focusing on modern patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Tauri Best Practices (Rust Backend)
 
 Tauri applications thrive on a lean, secure Rust backend. This guide outlines the essential patterns and anti-patterns for writing high-quality Rust code that integrates seamlessly with your frontend.

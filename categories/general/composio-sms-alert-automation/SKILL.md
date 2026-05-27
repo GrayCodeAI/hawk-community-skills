@@ -1,8 +1,10 @@
 ---
-name: sms-alert-automation
+name: composio-sms-alert-automation
 description: "Automate SMS Alert tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # SMS Alert Automation via Rube MCP

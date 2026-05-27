@@ -1,6 +1,8 @@
 ---
-name: dotnet-best-practices
-description: 'Ensure .NET/C# code meets best practices for the solution/project.'
+name: copilot-dotnet-best-practices
+description: "Ensure .NET/C# code meets best practices for the solution/project."
+license: MIT
+tags: [general]
 ---
 
 # .NET/C# Best Practices

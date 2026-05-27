@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building high-performance, maintainable, and secure web applications with actix-web 4, focusing on modern Rust best practices.
-globs: **/*.rs
+name: mdc-actix-web
+description: "Definitive guidelines for building high-performance, maintainable, and secure web applications with actix-web 4, focusing on modern Rust best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # actix-web Best Practices
 
 Actix-web 4 is the premier choice for high-performance Rust web services. Adhere to these guidelines for clean, scalable, and production-ready code. Always run `cargo fmt` and `cargo clippy` before committing.

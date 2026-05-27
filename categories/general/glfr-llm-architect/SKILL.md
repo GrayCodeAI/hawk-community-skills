@@ -1,7 +1,9 @@
 ---
-name: llm-architect
-description: LLM system design with fine-tuning, model selection, inference optimization, and evaluation frameworks
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-llm-architect
+description: "LLM system design with fine-tuning, model selection, inference optimization, and evaluation frameworks"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

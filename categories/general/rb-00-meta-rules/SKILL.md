@@ -1,3 +1,10 @@
+---
+name: rb-00-meta-rules
+description: "Skill: rb-00-meta-rules"
+license: MIT
+tags: [general]
+---
+
 # Meta-Rules for AI Assistant Interaction
 
 You will receive a sequence of approximately 10 rule files, starting with this one (the 0th file). Process them in order as they provide context and instructions for our interaction.

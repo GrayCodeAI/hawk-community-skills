@@ -1,3 +1,10 @@
+---
+name: gpt-foawqrxih_metabolismboostergpt
+description: "Skill: gpt-foawqrxih_metabolismboostergpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FOawqrxih-metabolismboostergpt
 
 GPT Title: MetabolismBoosterGPT

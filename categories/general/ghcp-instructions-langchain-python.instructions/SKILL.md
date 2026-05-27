@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for using LangChain with Python'
-applyTo: "**/*.py"
+name: ghcp-instructions-langchain-python.instructions
+description: "Skill: ghcp-instructions-langchain-python.instructions"
+license: MIT
+tags: [general]
 ---
 
 # LangChain Python Instructions

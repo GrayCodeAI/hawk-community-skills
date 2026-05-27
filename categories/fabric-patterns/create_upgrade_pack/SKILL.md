@@ -1,9 +1,10 @@
 ---
 name: create_upgrade_pack
-description: Fabric pattern - create_upgrade_pack
-domain: general
+description: "Fabric pattern - create_upgrade_pack"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

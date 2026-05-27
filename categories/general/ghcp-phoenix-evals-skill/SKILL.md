@@ -1,12 +1,13 @@
 ---
-name: phoenix-evals
-description: Build and run evaluators for AI/LLM applications using Phoenix.
+name: ghcp-phoenix-evals-skill
+description: "Build and run evaluators for AI/LLM applications using Phoenix."
 license: Apache-2.0
+tags: [general]
 compatibility: Requires Phoenix server. Python skills need phoenix and openai packages; TypeScript skills need @arizeai/phoenix-client.
-metadata:
-  author: oss@arize.com
-  version: "1.0.0"
-  languages: "Python, TypeScript"
+metadata: None
+author: oss@arize.com
+version: 1.0.0
+languages: Python, TypeScript
 ---
 
 # Phoenix Evals

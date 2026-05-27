@@ -1,9 +1,11 @@
 ---
+name: ghcp-agents-gem-orchestrator.agent
 description: "The team lead: Orchestrates research, planning, implementation, and verification."
-name: gem-orchestrator
-argument-hint: "Describe your objective or task. Include plan_id if resuming."
-disable-model-invocation: true
-user-invocable: true
+license: MIT
+tags: [general]
+argument-hint: Describe your objective or task. Include plan_id if resuming.
+disable-model-invocation: True
+user-invocable: True
 mode: primary
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for writing Go code following idiomatic Go practices and community standards'
-applyTo: '**/*.go,**/go.mod,**/go.sum'
+name: ghcp-instructions-go.instructions
+description: "Skill: ghcp-instructions-go.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Go Development Instructions

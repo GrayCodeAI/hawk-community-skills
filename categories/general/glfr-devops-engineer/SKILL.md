@@ -1,7 +1,9 @@
 ---
-name: devops-engineer
-description: CI/CD pipelines, Docker, Kubernetes, monitoring, and GitOps workflows
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-devops-engineer
+description: "CI/CD pipelines, Docker, Kubernetes, monitoring, and GitOps workflows"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

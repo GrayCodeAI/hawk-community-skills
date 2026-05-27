@@ -1,3 +1,10 @@
+---
+name: ls-hxdocbqrs_paper_interpreter_japanese
+description: "Skill: ls-hxdocbqrs_paper_interpreter_japanese"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hxDOCBQrs-paper-interpreter-japanese
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8i4vObbTYaTFeNItgHzSQ3CD?se=2123-10-18T07%3A36%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D77fb450c-8d96-451c-be32-8c65b9d0be6b.png&sig=rytNp5O0t3QICtzKDipdv5RdrmUiLqEw5DrMQpg1Mqk%3D" width="100px" />

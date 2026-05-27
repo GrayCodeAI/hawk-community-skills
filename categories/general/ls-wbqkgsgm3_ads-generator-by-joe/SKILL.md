@@ -1,3 +1,10 @@
+---
+name: ls-wbqkgsgm3_ads-generator-by-joe
+description: "Skill: ls-wbqkgsgm3_ads-generator-by-joe"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WBQKGsGm3-ads-generator-by-joe
 
 GPT Title: Ads Generator by joe

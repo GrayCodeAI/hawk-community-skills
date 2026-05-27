@@ -1,9 +1,11 @@
 ---
-name: attack-tree-construction
+name: ag-attack-tree-construction
 description: "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders."
+license: MIT
+tags: [general]
 risk: offensive
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 > AUTHORIZED USE ONLY: Use this skill only for authorized security assessments, defensive validation, or controlled educational environments.

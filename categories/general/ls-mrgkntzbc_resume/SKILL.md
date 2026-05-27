@@ -1,3 +1,10 @@
+---
+name: ls-mrgkntzbc_resume
+description: "Skill: ls-mrgkntzbc_resume"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MrgKnTZbc-resume
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0tpK8Pe8mMuE8HB8KKPcyoRn?se=2123-12-21T20%3A47%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202024-01-14%2520at%252012.33.34%25E2%2580%25AFPM.png&sig=xiF%2Bmn%2B4uHhqgzWNSOA8F0aMnaxWguZ%2BsMb%2Bj1NYwFc%3D" width="100px" />

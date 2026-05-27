@@ -1,9 +1,10 @@
 ---
 name: cr-qwik-basic
-description: Cursor rules for qwik-basic
-domain: engineering
+description: "Cursor rules for qwik-basic"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -52,4 +53,3 @@ const additionalInstructions = `
 7. Use server$ for server-side code execution
 8. Leverage Vite plugins for optimized builds
 `;
-

@@ -1,8 +1,10 @@
 ---
-name: 'Salesforce Visualforce Development'
-description: 'Implement Visualforce pages and controllers following Salesforce MVC architecture and best practices.'
+name: ghcp-agents-salesforce-visualforce
+description: "Implement Visualforce pages and controllers following Salesforce MVC architecture and best practices."
+license: MIT
+tags: [general]
 model: claude-3.5-sonnet
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+tools: [codebase, edit/editFiles, terminalCommand, search, githubRepo]
 ---
 
 # Salesforce Visualforce Development Agent

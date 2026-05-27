@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-stack
+description: "Skill: ghcp-templates-stack"
+license: MIT
+tags: [general]
+---
+
 # Technology Stack
 
 ## Core Sections (Required)

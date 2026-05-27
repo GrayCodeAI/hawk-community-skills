@@ -1,3 +1,10 @@
+---
+name: cpa-resourcemanagement
+description: "Skill: cpa-resourcemanagement"
+license: MIT
+tags: [general]
+---
+
 # az resourcemanagement
 
 ```bash

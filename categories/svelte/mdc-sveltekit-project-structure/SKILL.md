@@ -1,7 +1,10 @@
 ---
-description: Enforces the recommended SvelteKit project structure.
-globs: src/
+name: mdc-sveltekit-project-structure
+description: "Enforces the recommended SvelteKit project structure."
+license: MIT
+tags: [svelte]
 ---
+
 - Use the recommended SvelteKit project structure:
   
   - src/

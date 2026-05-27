@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-2-keyboard-shortcuts
+description: "Skill: ghcp-references-module-2-keyboard-shortcuts"
+license: MIT
+tags: [general]
+---
+
 # Module 2: Keyboard Shortcuts
 
 ## Navigation & Editing

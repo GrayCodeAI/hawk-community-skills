@@ -1,3 +1,10 @@
+---
+name: gpt-gpt4_dalle_browsing_analysis_20231110
+description: "Skill: gpt-gpt4_dalle_browsing_analysis_20231110"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.
 Knowledge cutoff: 2023-04

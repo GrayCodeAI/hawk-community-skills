@@ -1,9 +1,10 @@
 ---
-name: bpl-follow-up-options
-description: System prompt - follow-up-options
-domain: general
+name: bpl-txt-follow-up-options
+description: "System prompt - follow-up-options"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

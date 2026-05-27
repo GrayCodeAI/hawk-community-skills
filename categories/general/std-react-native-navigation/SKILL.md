@@ -1,19 +1,14 @@
 ---
-name: react-native-navigation
-description: Set up navigation stacks and deep linking with React Navigation in React Native. Use when setting up navigation stacks or deep linking in React Native with React Navigation.
-metadata:
-  triggers:
-    files:
-    - '**/App.tsx'
-    - '**/*Navigator.tsx'
-    - '**/*Screen.tsx'
-    keywords:
-    - NavigationContainer
-    - createStackNavigator
-    - createBottomTabNavigator
-    - linking
-    - deep link
+name: std-react-native-navigation
+description: "Set up navigation stacks and deep linking with React Navigation in React Native. Use when setting up navigation stacks or deep linking in React Native with React Navigation."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Navigation
 
 ## **Priority: P1 (OPERATIONAL)**

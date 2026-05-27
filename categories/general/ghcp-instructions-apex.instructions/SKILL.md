@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines and best practices for Apex development on the Salesforce Platform'
-applyTo: '**/*.cls, **/*.trigger'
+name: ghcp-instructions-apex.instructions
+description: "Skill: ghcp-instructions-apex.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Apex Development

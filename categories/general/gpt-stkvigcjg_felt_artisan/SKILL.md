@@ -1,3 +1,10 @@
+---
+name: gpt-stkvigcjg_felt_artisan
+description: "Skill: gpt-stkvigcjg_felt_artisan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-stkviGcjg-felt-artisan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XwD9gf9yxlnJ5C17kZlkiHRp?se=2123-12-20T15%3A18%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D17ca0a6f-24f7-4049-831f-94c95ac85ef0.png&sig=54clwTRBEs4dA3Q0Uesn/nIAsqDaYDMJo7ZcB7JVTbk%3D" width="100px" />

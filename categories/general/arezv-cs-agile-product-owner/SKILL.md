@@ -1,6 +1,8 @@
 ---
-name: cs-agile-product-owner
-description: Agile product owner agent for epic breakdown, sprint planning, backlog refinement, and INVEST-compliant user story generation
+name: arezv-cs-agile-product-owner
+description: "Agile product owner agent for epic breakdown, sprint planning, backlog refinement, and INVEST-compliant user story generation"
+license: MIT
+tags: [general]
 skills: product-team/agile-product-owner, product-team/product-manager-toolkit
 domain: product
 model: sonnet

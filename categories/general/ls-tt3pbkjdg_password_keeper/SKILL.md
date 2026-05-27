@@ -1,3 +1,10 @@
+---
+name: ls-tt3pbkjdg_password_keeper
+description: "Skill: ls-tt3pbkjdg_password_keeper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TT3PBKJdg-password-keeper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FlbdS96CS9djdS1pYMFyb73u?se=2123-11-13T02%3A26%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6ff9cdc5-3e39-40aa-97ec-afdeb06dfc5d.png&sig=viybFekn4GSYP2G63NfcgmJOU8C5VyPKxs1XaTVMFxs%3D" width="100px" />

@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-duplicate-customer-finder
-role: customer-ops
+name: shopify-shopify-admin-duplicate-customer-finder
 description: "Read-only: finds likely duplicate customer records by matching email, phone, or name combinations."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

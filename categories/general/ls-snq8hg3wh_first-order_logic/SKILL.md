@@ -1,3 +1,10 @@
+---
+name: ls-snq8hg3wh_first-order_logic
+description: "Skill: ls-snq8hg3wh_first-order_logic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SnQ8Hg3Wh-first-order-logic
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2cQrzC9wxhx7pjv2VIfLNOtv?se=2123-12-24T18%3A35%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D3cd12c21-eecb-4dbf-a44a-bd74a44765ad.png&sig=x3EVf7NGyIRZVgiyudwEnnJheeYHx0UX0x1K9BcoSKo%3D" width="100px" />

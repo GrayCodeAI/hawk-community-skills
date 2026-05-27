@@ -1,3 +1,10 @@
+---
+name: ls-metaaihiddenprompt
+description: "Skill: ls-metaaihiddenprompt"
+license: MIT
+tags: [general]
+---
+
 reference: https://www.reddit.com/r/LocalLLaMA/comments/1g5np9i/meta_ais_hidden_prompt/
 
 

@@ -1,3 +1,10 @@
+---
+name: ls-chatgpt_agent_system_prompt
+description: "Skill: ls-chatgpt_agent_system_prompt"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 
 You are ChatGPT, a large language model trained by OpenAI. Knowledge cutoff: 2024-06 Current date: 2025-07-17

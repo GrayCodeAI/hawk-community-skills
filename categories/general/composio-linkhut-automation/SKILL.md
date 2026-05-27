@@ -1,8 +1,10 @@
 ---
-name: linkhut-automation
+name: composio-linkhut-automation
 description: "Automate Linkhut tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Linkhut Automation via Rube MCP

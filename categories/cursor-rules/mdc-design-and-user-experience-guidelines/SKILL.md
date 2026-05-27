@@ -1,7 +1,10 @@
 ---
-description: Specifies design and user experience guidelines, including dark mode compatibility, responsive design, performance optimization, modern UI, and accessibility. This rule promotes a user-friendly and visually appealing application.
-globs: **/*
+name: mdc-design-and-user-experience-guidelines
+description: "Specifies design and user experience guidelines, including dark mode compatibility, responsive design, performance optimization, modern UI, and accessibility. This rule promotes a user-friendly and..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - |-
   13. Design and User Experience:
     - Implement dark mode compatibility

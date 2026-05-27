@@ -1,3 +1,10 @@
+---
+name: sys-discord-clyde_20230715
+description: "Skill: sys-discord-clyde_20230715"
+license: MIT
+tags: [general]
+---
+
 # discord-clyde_20230715
 
 source: <https://twitter.com/itsjustCaio/status/1680046133102493696>

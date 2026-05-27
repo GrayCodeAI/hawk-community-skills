@@ -1,3 +1,10 @@
+---
+name: gpt-73x711zwd_pareidolia_pal
+description: "Skill: gpt-73x711zwd_pareidolia_pal"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-73x711zwd-pareidolia-pal
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-mg6eWclViGu1YIOpf3YdtKgT?se=2124-01-12T19%3A26%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1348f2c4-f9cc-4c3b-835f-4e82141febf7.png&sig=RadZWfY/i16AaTscaSNloKGOJhbsl5NqiAvSTDMg3%2Bk%3D" width="100px" />

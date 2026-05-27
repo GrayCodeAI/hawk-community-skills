@@ -1,7 +1,8 @@
 ---
-name: webapp-testing
-description: Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browser logs.
+name: composio-webapp-testing
+description: "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, and viewing browse..."
 license: Complete terms in LICENSE.txt
+tags: [general]
 ---
 
 # Web Application Testing

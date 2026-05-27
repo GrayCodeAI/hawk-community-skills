@@ -1,16 +1,11 @@
 ---
 name: cursor-sequelize
-description: Cursor IDE rules for sequelize
-domain: engineering
+description: "Cursor IDE rules for sequelize"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Sequelize: ORM models, migrations, associations"
-globs: ["*.js", "*.ts", "package.json"]
-alwaysApply: true
 ---
 
 # Sequelize Rules

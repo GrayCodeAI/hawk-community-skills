@@ -1,3 +1,11 @@
+---
+name: ls-hcqdausmv_kayak---flights,-hotels-&-cars
+description: 'Skill: ls-hcqdausmv_kayak---flights,-hotels-&-cars'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-hcqdAuSMv-kayak-flights-hotels-cars
 
 GPT Title: KAYAK - Flights, Hotels & Cars

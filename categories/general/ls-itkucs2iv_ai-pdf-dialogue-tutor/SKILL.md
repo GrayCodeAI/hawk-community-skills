@@ -1,3 +1,10 @@
+---
+name: ls-itkucs2iv_ai-pdf-dialogue-tutor
+description: "Skill: ls-itkucs2iv_ai-pdf-dialogue-tutor"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-iTKuCS2iV-ai-pdf-dui-hua-dao-shi-aka-xiao-fan-deng
 
 GPT title: AI PDF 對話導師 aka 小樊登

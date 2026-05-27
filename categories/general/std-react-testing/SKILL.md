@@ -1,17 +1,14 @@
 ---
-name: react-testing
-description: Test React components with RTL and Jest/Vitest. Use when writing React component tests with React Testing Library, Jest, or Vitest.
-metadata:
-  triggers:
-    files:
-    - '**/*.test.tsx'
-    - '**/*.spec.tsx'
-    keywords:
-    - render
-    - screen
-    - userEvent
-    - expect
+name: std-react-testing
+description: "Test React components with RTL and Jest/Vitest. Use when writing React component tests with React Testing Library, Jest, or Vitest."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Testing
 
 ## **Priority: P2 (MAINTENANCE)**

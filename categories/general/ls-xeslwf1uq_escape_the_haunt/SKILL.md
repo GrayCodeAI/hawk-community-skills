@@ -1,3 +1,10 @@
+---
+name: ls-xeslwf1uq_escape_the_haunt
+description: "Skill: ls-xeslwf1uq_escape_the_haunt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XESLWF1uQ-escape-the-haunt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2yDuma8uWgcfRI6hObA0IcNL?se=2123-10-15T04%3A00%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D27d9db5c-ad2d-4d9c-92e2-e3c0e7e1015e.png&sig=%2BLfMc3Au3GE9bGi8uf2qjIOTAojbyVf1SOqiG7bQhvc%3D" width="100px" />

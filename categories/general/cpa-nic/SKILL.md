@@ -1,3 +1,10 @@
+---
+name: cpa-nic
+description: "Skill: cpa-nic"
+license: MIT
+tags: [general]
+---
+
 # az network nic
 
 ```bash

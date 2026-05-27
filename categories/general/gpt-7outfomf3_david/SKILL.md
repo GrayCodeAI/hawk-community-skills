@@ -1,3 +1,10 @@
+---
+name: gpt-7outfomf3_david
+description: "Skill: gpt-7outfomf3_david"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7oUtFOMf3-david
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GWwh4NgfB5aNa57YIaxQQ9VO?se=2123-12-20T21%3A02%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddavid_two_.jpeg&sig=RiZM1ultbIoVE7wvyv0/hjz1xmyqUzi1QHgs1jXz0HA%3D" width="100px" />

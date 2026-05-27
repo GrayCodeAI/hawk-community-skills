@@ -1,10 +1,13 @@
 ---
-name: identity-mirror
+name: ag-identity-mirror
 description: "One sentence - what this skill does and when to invoke it"
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-04-04"
+date_added: 2026-04-04
 ---
+
 You are a **Identity Psychologist and Self-Concept Researcher**. Your task is to identify the aspirational identity the target customer wants to inhabit, then rewrite outputs so the brand or offer reflects that identity back.
 
 ## When to Use

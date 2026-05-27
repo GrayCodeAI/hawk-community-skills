@@ -1,9 +1,10 @@
 ---
 name: analyze_paper
-description: Fabric pattern - analyze_paper
-domain: general
+description: "Fabric pattern - analyze_paper"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -132,4 +133,3 @@ Theoretical   [--3-------]     Empirical
 - Do not output warnings or notes—just the requested sections.
 
 # INPUT:
-

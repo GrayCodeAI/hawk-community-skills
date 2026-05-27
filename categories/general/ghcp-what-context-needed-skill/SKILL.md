@@ -1,6 +1,8 @@
 ---
-name: what-context-needed
-description: 'Ask Copilot what files it needs to see before answering a question'
+name: ghcp-what-context-needed-skill
+description: "Ask Copilot what files it needs to see before answering a question"
+license: MIT
+tags: [general]
 ---
 
 # What Context Do You Need?

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building secure, performant, and maintainable applications on Cloudflare's developer platform, emphasizing tiny bundles, edge-first design, and robust security.
-globs: **/*
+name: mdc-cloudflare
+description: "Definitive guidelines for building secure, performant, and maintainable applications on Cloudflare's developer platform, emphasizing tiny bundles, edge-first design, and robust security."
+license: MIT
+tags: [aws]
 ---
+
 # cloudflare Best Practices
 
 Cloudflare's developer platform thrives on speed, security, and global distribution. Our focus is on building tiny, observable, and secure bundles that leverage the edge. This guide outlines the definitive best practices for our team.

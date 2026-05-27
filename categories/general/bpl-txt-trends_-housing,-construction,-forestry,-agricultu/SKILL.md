@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-housing,-construction,-forestry,-agricultu
-description: System prompt - trends_-housing,-construction,-forestry,-agricultu
-domain: general
+name: bpl-txt-trends_-housing,-construction,-forestry,-agricultu
+description: "System prompt - trends_-housing,-construction,-forestry,-agricultu"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

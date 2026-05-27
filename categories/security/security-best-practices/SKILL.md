@@ -1,11 +1,11 @@
 ---
 name: security-best-practices
-description: Implement security best practices for web applications and infrastructure. Use when securing APIs, preventing common vulnerabilities, or implementing security policies. Handles HTTPS, CORS, XSS, SQL Injection, CSRF, rate limiting, and OWASP Top 10.
-metadata:
-  tags: security, HTTPS, CORS, XSS, SQL-injection, CSRF, OWASP, rate-limiting
-  platforms: Claude, ChatGPT, Gemini
+description: "Implement security best practices for web applications and infrastructure. Use when securing APIs, preventing common vulnerabilities, or implementing security policies. Handles HTTPS, CORS, XSS, SQ..."
+license: MIT
+tags: [security, https, cors, xss, sql-injection, csrf, owasp, rate-limiting]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Security Best Practices
 

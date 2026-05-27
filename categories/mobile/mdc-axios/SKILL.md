@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using axios to build robust, maintainable, and performant HTTP clients in JavaScript/React applications.
-globs: **/*.{js,jsx}
+name: mdc-axios
+description: "Definitive guidelines for using axios to build robust, maintainable, and performant HTTP clients in JavaScript/React applications."
+license: MIT
+tags: [mobile]
 ---
+
 # axios Best Practices
 
 `axios` is the go-to HTTP client for modern JavaScript applications due to its robust features and promise-based API. These guidelines ensure your team leverages `axios` effectively, promoting clean code, centralized logic, and predictable error handling.

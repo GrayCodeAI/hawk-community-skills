@@ -1,7 +1,9 @@
 ---
-description: 使用 Zustand 进行状态管理的最佳实践
-globs: *.tsx,*.ts
-alwaysApply: false
+name: extra-zustand
+description: "使用 Zustand 进行状态管理的最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 - 使用 `create` 函数定义 store，简洁且性能更佳

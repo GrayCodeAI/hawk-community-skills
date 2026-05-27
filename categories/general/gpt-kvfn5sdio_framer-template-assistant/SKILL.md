@@ -1,3 +1,10 @@
+---
+name: gpt-kvfn5sdio_framer-template-assistant
+description: "Skill: gpt-kvfn5sdio_framer-template-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kVfn5SDio-framer-template-assistant
 
 GPT Title: Framer Partner Assistant

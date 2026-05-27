@@ -1,9 +1,10 @@
 ---
 name: create_prd
-description: Fabric pattern - create_prd
-domain: general
+description: "Fabric pattern - create_prd"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

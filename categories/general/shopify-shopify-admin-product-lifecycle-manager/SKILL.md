@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-product-lifecycle-manager
-role: merchandising
+name: shopify-shopify-admin-product-lifecycle-manager
 description: "Bulk transition products through DRAFT → ACTIVE → ARCHIVED status for seasonal launches and sunsetting."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - productUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'productUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

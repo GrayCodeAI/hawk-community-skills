@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-delivery-time-analysis
-role: fulfillment-ops
+name: shopify-shopify-admin-delivery-time-analysis
 description: "Read-only: calculates average time from fulfillment creation to delivery by carrier using fulfillment and order data."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - fulfillmentOrders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'fulfillmentOrders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

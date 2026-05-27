@@ -1,9 +1,10 @@
 ---
 name: analyze_candidates
-description: Fabric pattern - analyze_candidates
-domain: general
+description: "Fabric pattern - analyze_candidates"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

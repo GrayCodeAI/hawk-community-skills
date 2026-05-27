@@ -1,17 +1,8 @@
 ---
-name: selenide-skill
-description: >
-  Generates Selenide tests in Java. Concise UI testing framework built on
-  Selenium with automatic waits and fluent API. Use when user mentions "Selenide",
-  "$(selector)", "shouldBe(visible)", "Selenide Java". Triggers on: "Selenide",
-  "$() selector", "shouldBe", "shouldHave", "Selenide test".
-languages:
-  - Java
-category: e2e-testing
+name: lt-selenide-skill
+description: "Skill: lt-selenide-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Selenide Automation Skill

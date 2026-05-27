@@ -1,8 +1,10 @@
 ---
-name: formcarry-automation
+name: composio-formcarry-automation
 description: "Automate Formcarry tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Formcarry Automation via Rube MCP

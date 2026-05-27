@@ -1,3 +1,10 @@
+---
+name: gpt-avwwfwddg_1._lead_generation
+description: "Skill: gpt-avwwfwddg_1._lead_generation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AvwWFWDdg-1-lead-generation
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HZxjmy2aqifSYsjYiFrKETAV?se=2123-11-28T08%3A45%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DUpdated_Logo3.1.png&sig=lgxvSuYZfxlcfpJNe7bWm9/NfEndNbPsF276sVYiQFI%3D" width="100px" />

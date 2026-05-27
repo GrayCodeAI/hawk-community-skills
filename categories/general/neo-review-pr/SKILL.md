@@ -1,7 +1,8 @@
 ---
-name: review-pr
-description: Comprehensive pull request review using specialized agents
-argument-hint: "[review-aspects] [--min-impact critical|high|medium|medium-low|low]"
+name: neo-review-pr
+description: "Skill: neo-review-pr"
+license: MIT
+tags: [general]
 ---
 
 # Pull Request Review Instructions

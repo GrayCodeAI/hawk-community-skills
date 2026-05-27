@@ -1,3 +1,10 @@
+---
+name: cpa-standby-container-group-pool
+description: "Skill: cpa-standby-container-group-pool"
+license: MIT
+tags: [general]
+---
+
 # az standby-container-group-pool
 
 ```bash

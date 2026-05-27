@@ -1,9 +1,11 @@
 ---
-name: product-differentiation-ebay
+name: ecom-product-differentiation-ebay
+description: "eBay product differentiation strategy tool. Analyze competitor weaknesses, extract pain points from negative feedback, identify unique selling points, and generate actionable differentiation strate..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "eBay product differentiation strategy tool. Analyze competitor weaknesses, extract pain points from negative feedback, identify unique selling points, and generate actionable differentiation strategies. Includes eBay-specific seller feedback analysis. No API key required."
-metadata: {"nexscope":{"emoji":"🎯","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🎯', 'category': 'ecommerce'}}
 ---
 
 # Product Differentiation — eBay 🎯

@@ -1,3 +1,10 @@
+---
+name: gpt-2ixba0ymn_wedding_speech_maker
+description: "Skill: gpt-2ixba0ymn_wedding_speech_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2iXBA0YMn-wedding-speech-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-UOY52vPXrX4Z9NAZJPCWGzj0?se=2124-01-13T02%3A48%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df81ced89-c496-4a76-933b-9bb8fff51eb2.png&sig=ozK41Q7o4rHX4hnHKl/KtuQVFEBGlrDvfYsRufxH/AI%3D" width="100px" />

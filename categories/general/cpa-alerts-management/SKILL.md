@@ -1,3 +1,10 @@
+---
+name: cpa-alerts-management
+description: "Skill: cpa-alerts-management"
+license: MIT
+tags: [general]
+---
+
 # az alerts-management
 
 ```bash

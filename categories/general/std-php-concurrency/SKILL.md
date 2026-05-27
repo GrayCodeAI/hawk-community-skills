@@ -1,17 +1,14 @@
 ---
-name: php-concurrency
-description: Implement concurrency and non-blocking I/O in modern PHP. Use when implementing concurrent requests, async processing, or non-blocking I/O in PHP.
-metadata:
-  triggers:
-    files:
-    - '**/*.php'
-    keywords:
-    - Fiber
-    - suspend
-    - resume
-    - non-blocking
-    - async
+name: std-php-concurrency
+description: "Implement concurrency and non-blocking I/O in modern PHP. Use when implementing concurrent requests, async processing, or non-blocking I/O in PHP."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PHP Concurrency
 
 ## **Priority: P2 (MEDIUM)**

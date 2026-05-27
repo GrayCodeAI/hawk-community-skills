@@ -1,15 +1,11 @@
 ---
 name: cursor-git-workflow
-description: Cursor IDE rules for git-workflow
-domain: engineering
+description: "Cursor IDE rules for git-workflow"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Git workflow: commits, branches, PRs, history management"
-alwaysApply: true
 ---
 
 # Git Workflow Rules

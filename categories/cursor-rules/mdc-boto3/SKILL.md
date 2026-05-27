@@ -1,7 +1,10 @@
 ---
-description: This rule file guides developers on writing idiomatic, high-performance, and type-safe boto3 code, emphasizing client reuse, proper pagination, batch operations, and robust testing strategies.
-globs: **/*.py
+name: mdc-boto3
+description: "This rule file guides developers on writing idiomatic, high-performance, and type-safe boto3 code, emphasizing client reuse, proper pagination, batch operations, and robust testing strategies."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # boto3 Best Practices
 
 Boto3 is the definitive Python SDK for AWS. Mastering it means writing code that is performant, maintainable, and resilient. This guide outlines the essential patterns and anti-patterns for modern `boto3` development.

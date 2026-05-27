@@ -1,3 +1,10 @@
+---
+name: ghcp-references-architecture-design
+description: "Skill: ghcp-references-architecture-design"
+license: MIT
+tags: [general]
+---
+
 # Architecture & Design Patterns
 
 ## Anti-Corruption Layer Pattern

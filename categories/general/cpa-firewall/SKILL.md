@@ -1,3 +1,10 @@
+---
+name: cpa-firewall
+description: "Skill: cpa-firewall"
+license: MIT
+tags: [general]
+---
+
 # az network firewall
 
 ```bash

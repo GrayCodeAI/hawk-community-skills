@@ -1,3 +1,10 @@
+---
+name: gpt-h0eiwnf6l_buddgpt_budtender_tripsitter__thrill_fac
+description: "Skill: gpt-h0eiwnf6l_buddgpt_budtender_tripsitter__thrill_fac"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h0EIwNf6l-buddgpt-budtender-tripsitter-thrill-facilitator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0qj1AiCw5roSHSAheJ3cRwgO?se=2123-12-08T22%3A50%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DBuddGPT%2520Logo.png&sig=vLZs6YSgW9/lJUjdo/H3UxTD8UW4axdNP4l9jm7ORyI%3D" width="100px" />

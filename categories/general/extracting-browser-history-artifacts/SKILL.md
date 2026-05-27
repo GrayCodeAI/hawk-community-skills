@@ -1,12 +1,12 @@
 ---
 name: extracting-browser-history-artifacts
-description: Extract and analyze browser history, cookies, cache, downloads, and bookmarks from Chrome, Firefox, and Edge for forensic evidence of user web activity.
+description: "Extract and analyze browser history, cookies, cache, downloads, and bookmarks from Chrome, Firefox, and Edge for forensic evidence of user web activity."
+license: MIT
+tags: [forensics, browser-forensics, chrome, firefox, edge, web-history, artifact-extraction]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, browser-forensics, chrome, firefox, edge, web-history, artifact-extraction]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Extracting Browser History Artifacts

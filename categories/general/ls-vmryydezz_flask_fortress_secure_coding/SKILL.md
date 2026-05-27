@@ -1,3 +1,10 @@
+---
+name: ls-vmryydezz_flask_fortress_secure_coding
+description: "Skill: ls-vmryydezz_flask_fortress_secure_coding"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VMRYyDEZz-flask-fortress-secure-coding
 
 GPT logo: <img src="None" width="100px" />

@@ -1,9 +1,10 @@
 ---
-name: bpl-chatgpt-flipper-zero-app-builder-files
-description: System prompt - chatgpt-flipper-zero-app-builder-files
-domain: general
+name: bpl-txt-chatgpt-flipper-zero-app-builder-files
+description: "System prompt - chatgpt-flipper-zero-app-builder-files"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -223,4 +224,3 @@ Select Animation: Once you have the manifest in place, use the Flipper Zero inte
 
 2 - Installing Animations on flipper zero for xtream firmware :
 We created our own in this link : https://flipper-xtre.me/asset-packs/ , new & improved Animation / Asset system, that we can finally reveal. It lets you to create and cycle through your own Asset Packs with only a few button presses, allowing you to easily load custom Animations and Icons like never before.
-

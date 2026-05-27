@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Svelte apps with Clerk Authentication
-globs: **/*.svelte, **/*.ts, **/*.js
+name: inst-setup-clerk-svelte
+description: "Guidelines for writing Svelte apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Svelte app with Clerk Authentication
@@ -134,4 +136,4 @@ When asked about Clerk Auth implementation in Svelte, you MUST:
 1. ONLY use code patterns from this guide
 2. NEVER suggest mixing different Clerk packages
 3. ALWAYS include both client and server-side authentication
-4. ENSURE proper environment variable handling 
+4. ENSURE proper environment variable handling

@@ -1,7 +1,8 @@
 ---
-name: chrome-devtools
-description: 'Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling performance.'
+name: ghcp-chrome-devtools-skill
+description: "Expert-level browser automation, debugging, and performance analysis using Chrome DevTools MCP. Use for interacting with web pages, capturing screenshots, analyzing network traffic, and profiling p..."
 license: MIT
+tags: [general]
 ---
 
 # Chrome DevTools Agent

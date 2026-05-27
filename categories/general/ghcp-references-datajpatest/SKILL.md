@@ -1,3 +1,10 @@
+---
+name: ghcp-references-datajpatest
+description: "Skill: ghcp-references-datajpatest"
+license: MIT
+tags: [general]
+---
+
 # @DataJpaTest
 
 Testing JPA repositories with isolated data layer slice.

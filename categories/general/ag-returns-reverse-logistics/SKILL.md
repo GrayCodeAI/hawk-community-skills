@@ -1,9 +1,11 @@
 ---
-name: returns-reverse-logistics
-description: Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management.
+name: ag-returns-reverse-logistics
+description: "Codified expertise for returns authorisation, receipt and inspection, disposition decisions, refund processing, fraud detection, and warranty claims management."
+license: MIT
+tags: [general]
 risk: safe
 source: https://github.com/ai-evos/agent-skills
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## When to Use

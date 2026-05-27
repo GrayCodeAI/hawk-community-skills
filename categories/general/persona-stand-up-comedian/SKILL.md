@@ -1,9 +1,10 @@
 ---
 name: persona-stand-up-comedian
-description: AI persona - stand-up-comedian
-domain: general
+description: "AI persona - stand-up-comedian"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

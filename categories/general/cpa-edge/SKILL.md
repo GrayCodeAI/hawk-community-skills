@@ -1,3 +1,10 @@
+---
+name: cpa-edge
+description: "Skill: cpa-edge"
+license: MIT
+tags: [general]
+---
+
 # az iot edge
 
 ```bash

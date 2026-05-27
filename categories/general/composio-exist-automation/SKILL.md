@@ -1,8 +1,10 @@
 ---
-name: exist-automation
+name: composio-exist-automation
 description: "Automate Exist tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Exist Automation via Rube MCP

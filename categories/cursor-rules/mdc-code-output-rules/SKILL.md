@@ -1,7 +1,10 @@
 ---
-description: Rules for providing complete and functional code output, including necessary imports and comments.
-globs: **/*.{js,ts,html,css}
+name: mdc-code-output-rules
+description: "Rules for providing complete and functional code output, including necessary imports and comments."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - When providing code, always output the entire file content, not just new or modified parts
 - Include all necessary imports, declarations, and surrounding code to ensure the file is complete and functional
 - Provide comments or explanations for significant changes or additions within the file

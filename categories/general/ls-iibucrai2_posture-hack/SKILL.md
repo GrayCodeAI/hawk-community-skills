@@ -1,3 +1,10 @@
+---
+name: ls-iibucrai2_posture-hack
+description: "Skill: ls-iibucrai2_posture-hack"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Iibucrai2-posture-hack
 
 GPT Title: Posture Hack

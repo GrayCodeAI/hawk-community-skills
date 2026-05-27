@@ -1,9 +1,10 @@
 ---
-name: bpl-mr_ranedeer
-description: System prompt - mr_ranedeer
-domain: general
+name: bpl-txt-mr_ranedeer
+description: "System prompt - mr_ranedeer"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

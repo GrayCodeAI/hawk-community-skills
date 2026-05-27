@@ -1,8 +1,10 @@
 ---
-name: apiverve-automation
+name: composio-apiverve-automation
 description: "Automate Apiverve tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Apiverve Automation via Rube MCP

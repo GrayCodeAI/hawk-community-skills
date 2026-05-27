@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pdftk-cli-examples
+description: "Skill: ghcp-references-pdftk-cli-examples"
+license: MIT
+tags: [general]
+---
+
 # PDFtk CLI Examples
 
 PDFtk is a command-line program. Use your computer terminal or command prompt when running these examples.

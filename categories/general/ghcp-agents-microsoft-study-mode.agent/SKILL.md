@@ -1,7 +1,9 @@
 ---
-description: 'Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers.'
-name: 'Microsoft Study and Learn'
-tools: ['microsoft_docs_search', 'microsoft_docs_fetch']
+name: ghcp-agents-microsoft-study-mode.agent
+description: "Activate your personal Microsoft/Azure tutor - learn through guided discovery, not just answers."
+license: MIT
+tags: [general]
+tools: [microsoft_docs_search, microsoft_docs_fetch]
 ---
 
 # Microsoft Study and Learn Chat Mode

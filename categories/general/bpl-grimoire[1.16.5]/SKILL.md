@@ -1,3 +1,10 @@
+---
+name: bpl-grimoire[1.16.5]
+description: "Skill: bpl-grimoire[1.16.5]"
+license: MIT
+tags: [general]
+---
+
 ##
 1.16.5
 - PDF hotkey

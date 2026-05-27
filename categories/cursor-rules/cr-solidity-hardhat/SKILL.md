@@ -1,9 +1,10 @@
 ---
 name: cr-solidity-hardhat
-description: Cursor rules for solidity-hardhat
-domain: engineering
+description: "Cursor rules for solidity-hardhat"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -95,4 +96,3 @@ Documentation
 - Document code thoroughly, focusing on why rather than what.
 - Maintain up-to-date API documentation for smart contracts.
 - Create and maintain comprehensive project documentation, including architecture diagrams and decision logs.
-

@@ -1,6 +1,8 @@
 ---
-name: dotnet-design-pattern-review
-description: 'Review the C#/.NET code for design pattern implementation and suggest improvements.'
+name: ghcp-dotnet-design-pattern-review-skill
+description: "Review the C#/.NET code for design pattern implementation and suggest improvements."
+license: MIT
+tags: [general]
 ---
 
 # .NET/C# Design Pattern Review

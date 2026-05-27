@@ -1,8 +1,10 @@
 ---
-name: agenty-automation
+name: composio-agenty-automation
 description: "Automate Agenty tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Agenty Automation via Rube MCP

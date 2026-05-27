@@ -1,3 +1,10 @@
+---
+name: gpt-ji2qoymml_copywriter-gpt
+description: "Skill: gpt-ji2qoymml_copywriter-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ji2QOyMml-copywriter-gpt
 
 GPT Title: Copywriter GPT

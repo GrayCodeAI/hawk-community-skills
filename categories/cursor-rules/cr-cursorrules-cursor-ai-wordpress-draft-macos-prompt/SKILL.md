@@ -1,9 +1,10 @@
 ---
 name: cr-cursorrules-cursor-ai-wordpress-draft-macos-prompt
-description: Cursor rules for cursorrules-cursor-ai-wordpress-draft-macos-prompt
-domain: engineering
+description: "Cursor rules for cursorrules-cursor-ai-wordpress-draft-macos-prompt"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -16,4 +17,3 @@ After first installing the app, you need to configure it with your website detai
 Users can generate an Application Password in their WordPress dashboard at the bottom of the "Users -> Profile" page. This password is unique and can be easily revoked at any time.
 
 Here's a quick flow for how the new user experience (NUX) will work:
-

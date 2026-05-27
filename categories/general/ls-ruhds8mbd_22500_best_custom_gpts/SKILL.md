@@ -1,3 +1,10 @@
+---
+name: ls-ruhds8mbd_22500_best_custom_gpts
+description: "Skill: ls-ruhds8mbd_22500_best_custom_gpts"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RuhDS8mbd-22-500-best-custom-gpts
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MgGT6z8XgEqooNX79PZufM5S?se=2123-10-27T22%3A07%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbest-gpts.png&sig=MlatxQXK4pU8bZzLY/9zMjlRY2N4FEFOyMM16ZfUVTM%3D" width="100px" />

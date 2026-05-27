@@ -1,3 +1,10 @@
+---
+name: gpt-2byxoj68t_immobility_and_depression
+description: "Skill: gpt-2byxoj68t_immobility_and_depression"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2ByxoJ68T-immobility-and-depression
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CxDdjTD9v9iWy99Q6kz9ahwT?se=2123-12-22T00%3A09%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3De5140079-4371-47f3-bb7f-0eef6dd0c5c5.png&sig=gGZ3jRVTzmeG42yBrdVecuaGY5uV7zVgGrSzkMo2tXw%3D" width="100px" />

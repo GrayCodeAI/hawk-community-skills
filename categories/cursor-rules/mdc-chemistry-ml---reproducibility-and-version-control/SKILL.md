@@ -1,7 +1,11 @@
 ---
-description: Guidelines for ensuring reproducibility and proper version control in chemistry machine learning projects.
-globs: .git/**/*
+name: mdc-chemistry-ml---reproducibility-and-version-control
+description: 'Skill: mdc-chemistry-ml---reproducibility-and-version-control'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Use version control (Git) for both code and datasets.
 - Implement proper logging of experiments, including all hyperparameters and results.
 - Use tools like MLflow or Weights & Biases for experiment tracking.

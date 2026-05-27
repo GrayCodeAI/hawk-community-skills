@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-llm-tech-stack
-description: Cursor rules for typescript-llm-tech-stack
-domain: engineering
+description: "Cursor rules for typescript-llm-tech-stack"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -67,4 +68,3 @@ Utilize the following libraries effectively:
 - node-gyp (^10.2.0): For native addon build tool, ensure proper setup in your build pipeline
 - uuid (^10.0.0): For generating unique identifiers, prefer v4 for random UUIDs
 - zod (^3.23.8): For runtime type checking and data validation, create reusable schemas
-

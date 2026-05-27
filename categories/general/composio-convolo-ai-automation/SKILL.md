@@ -1,8 +1,10 @@
 ---
-name: convolo-ai-automation
+name: composio-convolo-ai-automation
 description: "Automate Convolo AI tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Convolo AI Automation via Rube MCP

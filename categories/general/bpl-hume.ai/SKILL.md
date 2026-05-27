@@ -1,3 +1,10 @@
+---
+name: bpl-hume.ai
+description: "Skill: bpl-hume.ai"
+license: MIT
+tags: [general]
+---
+
 From [elder_plinius](https://twitter.com/elder_plinius/status/1787311471455535470):
 
 --

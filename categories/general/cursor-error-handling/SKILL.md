@@ -1,16 +1,11 @@
 ---
 name: cursor-error-handling
-description: Cursor IDE rules for error-handling
-domain: engineering
+description: "Cursor IDE rules for error-handling"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Error handling: typed errors, boundaries, user messages"
-globs: ["*.ts", "*.py", "*.go", "*.rs"]
-alwaysApply: true
 ---
 
 # Error Handling Cursor Rules

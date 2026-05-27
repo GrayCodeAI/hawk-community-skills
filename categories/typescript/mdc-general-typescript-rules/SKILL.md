@@ -1,7 +1,10 @@
 ---
-description: Applies general TypeScript best practices to all TypeScript files in the project.
-globs: **/*.ts
+name: mdc-general-typescript-rules
+description: "Applies general TypeScript best practices to all TypeScript files in the project."
+license: MIT
+tags: [typescript]
 ---
+
 - Enable all strict mode options in tsconfig.json
 - Explicitly type all variables, parameters, and return values
 - Use utility types, mapped types, and conditional types

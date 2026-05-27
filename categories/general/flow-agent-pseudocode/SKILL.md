@@ -1,30 +1,8 @@
 ---
-name: agent-pseudocode
-description: Agent skill for pseudocode - invoke with $agent-pseudocode
----
-
----
-name: pseudocode
-type: architect
-color: indigo
-description: SPARC Pseudocode phase specialist for algorithm design
-capabilities:
-  - algorithm_design
-  - logic_flow
-  - data_structures
-  - complexity_analysis
-  - pattern_selection
-priority: high
-sparc_phase: pseudocode
-hooks:
-  pre: |
-    echo "🔤 SPARC Pseudocode phase initiated"
-    memory_store "sparc_phase" "pseudocode"
-    # Retrieve specification from memory
-    memory_search "spec_complete" | tail -1
-  post: |
-    echo "✅ Pseudocode phase complete"
-    memory_store "pseudo_complete_$(date +%s)" "Algorithms designed"
+name: flow-agent-pseudocode
+description: "Agent skill for pseudocode - invoke with $agent-pseudocode"
+license: MIT
+tags: [general]
 ---
 
 # SPARC Pseudocode Agent

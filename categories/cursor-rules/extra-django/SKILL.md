@@ -1,7 +1,9 @@
 ---
-description: Django 后端开发的约定和最佳实践。
-globs: **/*.py
-alwaysApply: false
+name: extra-django
+description: "Django 后端开发的约定和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Django 规则

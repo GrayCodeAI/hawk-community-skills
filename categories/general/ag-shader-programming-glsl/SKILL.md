@@ -1,9 +1,11 @@
 ---
-name: shader-programming-glsl
+name: ag-shader-programming-glsl
 description: "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Shader Programming GLSL

@@ -1,9 +1,11 @@
 ---
-name: hybrid-cloud-networking
+name: ag-hybrid-cloud-networking
 description: "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Hybrid Cloud Networking

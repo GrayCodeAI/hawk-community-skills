@@ -1,6 +1,9 @@
 ---
-description: Create comprehensive Product Requirements Documents (PRDs) by transforming feature ideas into detailed specifications.
-tools: ['codebase', 'editFiles', 'fetch', 'findTestFiles', 'list_issues', 'githubRepo', 'search', 'add_issue_comment', 'create_issue', 'update_issue', 'get_issue', 'search_issues']
+name: cpa-prd-creation.agent
+description: "Create comprehensive Product Requirements Documents (PRDs) by transforming feature ideas into detailed specifications."
+license: MIT
+tags: [general]
+tools: [codebase, editFiles, fetch, findTestFiles, list_issues, githubRepo, search, add_issue_comment, create_issue, update_issue, get_issue, search_issues]
 ---
 
 # PRD Creation

@@ -1,16 +1,11 @@
 ---
 name: cursor-windsurf-rules
-description: Cursor IDE rules for windsurf-rules
-domain: engineering
+description: "Cursor IDE rules for windsurf-rules"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Windsurf: rules files, workflows, and Cascade customization"
-globs: [".windsurfrules", ".windsurf/rules/**", ".windsurf/workflows/**"]
-alwaysApply: false
 ---
 
 # Windsurf Rules

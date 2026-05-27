@@ -1,9 +1,10 @@
 ---
-name: bpl-part1
-description: System prompt - part1
-domain: general
+name: bpl-txt-part1
+description: "System prompt - part1"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,3 +1,10 @@
+---
+name: copilot-support
+description: "Skill: copilot-support"
+license: MIT
+tags: [general]
+---
+
 # Support 
 
 ## How to file issues and get help

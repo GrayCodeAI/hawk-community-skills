@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-product-image-audit
-role: merchandising
+name: shopify-shopify-admin-product-image-audit
 description: "Read-only: flags products and variants with missing images or fewer than a minimum number of images."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

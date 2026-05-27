@@ -1,9 +1,11 @@
---- 
-name: animejs-animation
-description: Advanced JavaScript animation library skill for creating complex, high-performance web animations.
+---
+name: ag-animejs-animation
+description: "Advanced JavaScript animation library skill for creating complex, high-performance web animations."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-07"
+date_added: 2026-03-07
 ---
 
 # Anime.js Animation Skill

@@ -1,3 +1,10 @@
+---
+name: gpt-tl2xscbge_chaos-magick-assistant
+description: "Skill: gpt-tl2xscbge_chaos-magick-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TL2xSCbge-chaos-magick-assistant/
 
 GPT Title: Chaos Magick Assistant

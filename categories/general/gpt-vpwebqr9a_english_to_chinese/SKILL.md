@@ -1,3 +1,10 @@
+---
+name: gpt-vpwebqr9a_english_to_chinese
+description: "Skill: gpt-vpwebqr9a_english_to_chinese"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vPweBqr9A-english-to-chinese
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-eZQcbNx9l0QMLn7NJn9tYmc7?se=2124-01-10T14%3A12%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-03%252022.09.56%2520-%2520Craft%2520an%2520exceptional%2520logo%2520for%2520the%2520_English%2520to%2520Chinese_%2520GPT%2520that%2520creatively%2520incorporates%2520the%2520concept%2520of%2520bilingual%2520translation.%2520Imagine%2520a%2520sleek%252C%2520modern%2520.webp&sig=2YeSv41ldUJRMUBOnH27SoVoDoWTr59Eb9sUi5zDaGA%3D" width="100px" />

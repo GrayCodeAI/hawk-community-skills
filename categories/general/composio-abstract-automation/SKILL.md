@@ -1,8 +1,10 @@
 ---
-name: abstract-automation
+name: composio-abstract-automation
 description: "Automate Abstract tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Abstract Automation via Rube MCP

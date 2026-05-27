@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-chargeback-watchlist-tagger
-role: customer-ops
+name: shopify-shopify-admin-chargeback-watchlist-tagger
 description: "Identifies customers with disputed or charged-back orders and tags their customer record for proactive review on future orders."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - customerUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'customerUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

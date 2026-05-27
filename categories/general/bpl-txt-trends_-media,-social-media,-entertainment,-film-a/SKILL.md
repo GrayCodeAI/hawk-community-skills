@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-media,-social-media,-entertainment,-film-a
-description: System prompt - trends_-media,-social-media,-entertainment,-film-a
-domain: general
+name: bpl-txt-trends_-media,-social-media,-entertainment,-film-a
+description: "System prompt - trends_-media,-social-media,-entertainment,-film-a"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

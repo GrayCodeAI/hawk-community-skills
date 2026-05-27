@@ -1,3 +1,10 @@
+---
+name: ls-gffsdkfmc_storybook-vision
+description: "Skill: ls-gffsdkfmc_storybook-vision"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gFFsdkfMC-storybook-vision
 
 GPT Title: Storybook Vision

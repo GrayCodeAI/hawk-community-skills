@@ -1,3 +1,10 @@
+---
+name: ghcp-phase_prompts-phase4
+description: "Skill: ghcp-phase_prompts-phase4"
+license: MIT
+tags: [general]
+---
+
 {skill_fallback_guide}
 
 You are a quality engineer continuing a phase-by-phase quality playbook run. Phases 1-3 are complete.

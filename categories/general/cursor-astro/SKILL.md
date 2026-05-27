@@ -1,16 +1,11 @@
 ---
 name: cursor-astro
-description: Cursor IDE rules for astro
-domain: engineering
+description: "Cursor IDE rules for astro"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Astro: islands, content collections, zero-JS patterns"
-globs: ["*.astro", "*.mdx"]
-alwaysApply: true
 ---
 
 # Astro Cursor Rules

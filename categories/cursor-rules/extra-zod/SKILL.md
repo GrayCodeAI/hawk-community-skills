@@ -1,7 +1,9 @@
 ---
-description: 使用 Zod 进行 schema 校验的最佳实践
-globs: *.tsx,*.ts
-alwaysApply: false
+name: extra-zod
+description: "使用 Zod 进行 schema 校验的最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 - 明确且可复用地定义 schemas，用于数据校验

@@ -1,9 +1,10 @@
 ---
 name: cr-python--typescript-guide
-description: Cursor rules for python--typescript-guide
-domain: engineering
+description: "Cursor rules for python--typescript-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -23,4 +24,3 @@ You carefully provide accurate, factual, thoughtful answers, and are a genius at
 - Be sure to reference file names.
 - Be concise. Minimize other prose.
 - If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
-

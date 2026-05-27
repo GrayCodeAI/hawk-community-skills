@@ -1,7 +1,8 @@
 ---
-applyTo: "**.ts, **.js, package.json"
-description: "This file provides guidance on building Node.js/TypeScript applications using GitHub Copilot SDK."
-name: "GitHub Copilot SDK Node.js Instructions"
+name: ghcp-instructions-copilot-sdk-nodejs.instruction
+description: "Skill: ghcp-instructions-copilot-sdk-nodejs.instruction"
+license: MIT
+tags: [general]
 ---
 
 ## Core Principles

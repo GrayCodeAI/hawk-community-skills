@@ -1,3 +1,10 @@
+---
+name: ls-nnynl8etd_music-writer
+description: "Skill: ls-nnynl8etd_music-writer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nNynL8EtD-music-writer
 
 GPT Title: Music Writer

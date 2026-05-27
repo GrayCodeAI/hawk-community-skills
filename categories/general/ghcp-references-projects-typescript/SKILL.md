@@ -1,3 +1,10 @@
+---
+name: ghcp-references-projects-typescript
+description: "Skill: ghcp-references-projects-typescript"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Projects (TypeScript)
 
 **Organize traces by application using projects (Phoenix's top-level grouping).**

@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-nodejs-nextjs-app
-description: Cursor rules for typescript-nodejs-nextjs-app
-domain: engineering
+description: "Cursor rules for typescript-nodejs-nextjs-app"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -69,4 +70,3 @@ please also add a pagination to the list of notes
 please also add a loading state to the list of notes
 please also add an error state to the list of notes
 please add a drag and drop feature to the list of notes
-

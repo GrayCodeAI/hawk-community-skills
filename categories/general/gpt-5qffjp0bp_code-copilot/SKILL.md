@@ -1,3 +1,10 @@
+---
+name: gpt-5qffjp0bp_code-copilot
+description: "Skill: gpt-5qffjp0bp_code-copilot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5qFFjp0bP-code-copilot
 
 GPT Title: Code Copilot

@@ -1,8 +1,10 @@
 ---
-name: eodhd-apis-automation
+name: composio-eodhd-apis-automation
 description: "Automate Eodhd Apis tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Eodhd Apis Automation via Rube MCP

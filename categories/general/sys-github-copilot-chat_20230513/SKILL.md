@@ -1,3 +1,10 @@
+---
+name: sys-github-copilot-chat_20230513
+description: "Skill: sys-github-copilot-chat_20230513"
+license: MIT
+tags: [general]
+---
+
 # github-copilot-chat_20230513
 
 source: <https://twitter.com/marvinvonhagen/status/1657060506371346432>

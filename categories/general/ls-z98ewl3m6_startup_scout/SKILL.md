@@ -1,3 +1,10 @@
+---
+name: ls-z98ewl3m6_startup_scout
+description: "Skill: ls-z98ewl3m6_startup_scout"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Z98ewL3m6-startup-scout
 
 GPT logo: <img src="None" width="100px" />

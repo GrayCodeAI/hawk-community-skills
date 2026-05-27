@@ -1,3 +1,10 @@
+---
+name: gpt-zz0zmctqo_triz-master
+description: "Skill: gpt-zz0zmctqo_triz-master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zZ0ZmCtqO-triz-master
 
 GPT Title: TRIZ Master

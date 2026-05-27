@@ -1,8 +1,10 @@
 ---
-name: odoo-sales-crm-expert
+name: ag-odoo-sales-crm-expert
 description: "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
+license: MIT
+tags: [general]
 risk: safe
-source: "self"
+source: self
 ---
 
 # Odoo Sales & CRM Expert

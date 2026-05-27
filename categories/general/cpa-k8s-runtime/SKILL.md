@@ -1,3 +1,10 @@
+---
+name: cpa-k8s-runtime
+description: "Skill: cpa-k8s-runtime"
+license: MIT
+tags: [general]
+---
+
 # az k8s-runtime
 
 ```bash

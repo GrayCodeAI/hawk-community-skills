@@ -1,17 +1,14 @@
 ---
 name: building-soc-playbook-for-ransomware
-description: >
-  Builds a structured SOC incident response playbook for ransomware attacks covering detection,
-  containment, eradication, and recovery phases with specific SIEM queries, isolation procedures,
-  and decision trees. Use when SOC teams need formalized response procedures for ransomware
-  incidents aligned to NIST SP 800-61 and MITRE ATT&CK ransomware techniques.
+description: "Builds a structured SOC incident response playbook for ransomware attacks covering detection, containment, eradication, and recovery phases with specific SIEM queries, isolation procedures, and dec..."
+license: MIT
+tags: [soc, ransomware, incident-response, playbook, nist, mitre-attack, containment]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, ransomware, incident-response, playbook, nist, mitre-attack, containment]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Building SOC Playbook for Ransomware
 
 ## When to Use

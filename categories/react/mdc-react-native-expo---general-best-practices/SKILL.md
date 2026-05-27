@@ -1,7 +1,11 @@
 ---
-description: Applies general React Native Expo best practices within the src directory, such as using functional components with hooks and Expo SDK features.
-globs: src/**/*.*
+name: mdc-react-native-expo---general-best-practices
+description: 'Skill: mdc-react-native-expo---general-best-practices'
+license: MIT
+tags:
+- react
 ---
+
 - Use functional components with hooks
 - Utilize Expo SDK features and APIs
 - Implement proper navigation using React Navigation

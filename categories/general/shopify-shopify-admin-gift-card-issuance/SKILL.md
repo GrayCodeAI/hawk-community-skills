@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-gift-card-issuance
-role: conversion-optimization
+name: shopify-shopify-admin-gift-card-issuance
 description: "Issue Shopify gift cards (store credit) to customers as a goodwill gesture, post-return incentive, or loyalty reward."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customer:query
-  - giftCardCreate:mutation
+api_version: 2025-01
+graphql_operations: [{'customer': 'query'}, {'giftCardCreate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

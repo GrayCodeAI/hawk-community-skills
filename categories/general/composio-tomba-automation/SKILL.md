@@ -1,8 +1,10 @@
 ---
-name: tomba-automation
+name: composio-tomba-automation
 description: "Automate Tomba tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Tomba Automation via Rube MCP

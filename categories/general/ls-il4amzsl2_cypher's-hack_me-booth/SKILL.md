@@ -1,3 +1,10 @@
+---
+name: ls-il4amzsl2_cypher's-hack_me-booth
+description: "Skill: ls-il4amzsl2_cypher's-hack_me-booth"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IL4aMZSl2-cypher-s-hack-me-booth
 
 GPT Title: Cypher's "Hack Me" Booth

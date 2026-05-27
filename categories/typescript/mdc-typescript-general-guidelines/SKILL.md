@@ -1,7 +1,10 @@
 ---
-description: Applies general TypeScript coding standards across the project, including naming conventions, function structure, data handling, and exception handling.
-globs: **/*.ts
+name: mdc-typescript-general-guidelines
+description: "Applies general TypeScript coding standards across the project, including naming conventions, function structure, data handling, and exception handling."
+license: MIT
+tags: [typescript]
 ---
+
 - Use English for all code and documentation.
 - Always declare the type of each variable and function (parameters and return value).
 - Avoid using any.

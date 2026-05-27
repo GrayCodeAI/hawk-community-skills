@@ -1,15 +1,12 @@
 ---
 name: implementing-aws-security-hub-compliance
-description: >
-  Implementing AWS Security Hub to aggregate security findings across AWS accounts, enable
-  compliance standards like CIS AWS Foundations and PCI DSS, configure automated remediation
-  with EventBridge and Lambda, and create custom security insights for organizational risk management.
+description: "Implementing AWS Security Hub to aggregate security findings across AWS accounts, enable compliance standards like CIS AWS Foundations and PCI DSS, configure automated remediation with EventBridge ..."
+license: MIT
+tags: [cloud-security, aws, security-hub, compliance, cspm, cis-benchmark]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [cloud-security, aws, security-hub, compliance, cspm, cis-benchmark]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing AWS Security Hub Compliance

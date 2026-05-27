@@ -1,8 +1,10 @@
 ---
-name: parsehub-automation
+name: composio-parsehub-automation
 description: "Automate Parsehub tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Parsehub Automation via Rube MCP

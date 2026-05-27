@@ -1,3 +1,10 @@
+---
+name: ls-hcgltw6a5_jailbreak
+description: "Skill: ls-hcgltw6a5_jailbreak"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hCgLTW6a5-jailbreak
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YRPVLTwVpJupUr7iY4TwVOM8?se=2123-12-04T03%3A58%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3De4f5ce61-3d35-4a5a-a551-9f08017d1b92.png&sig=QBMi6IP/1uO/zbWYanXS9IiqNgceSGwP5PvEqrBi5wM%3D" width="100px" />

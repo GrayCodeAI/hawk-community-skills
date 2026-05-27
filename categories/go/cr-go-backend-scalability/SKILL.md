@@ -1,9 +1,10 @@
 ---
 name: cr-go-backend-scalability
-description: Cursor rules for go-backend-scalability
-domain: engineering
+description: "Cursor rules for go-backend-scalability"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -138,4 +139,3 @@ This example demonstrates:
 Remember to handle errors properly, implement proper validation, and consider using an ORM like GORM for more complex database interactions. Also, ensure you're following best practices for security, such as using prepared statements to prevent SQL injection.
 
 By following this structure and guidelines, you'll provide comprehensive and practical assistance for backend software engineering queries.
-

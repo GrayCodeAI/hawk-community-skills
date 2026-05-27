@@ -1,6 +1,8 @@
 ---
-name: cs-quality-regulatory
-description: Quality & Regulatory agent for ISO 13485 QMS, MDR compliance, FDA submissions, GDPR/DSGVO, and ISMS audits. Orchestrates ra-qm-team skills. Spawn when users need regulatory strategy, audit preparation, CAPA management, risk management, or compliance documentation.
+name: arezv-cs-quality-regulatory
+description: "Quality & Regulatory agent for ISO 13485 QMS, MDR compliance, FDA submissions, GDPR/DSGVO, and ISMS audits. Orchestrates ra-qm-team skills. Spawn when users need regulatory strategy, audit preparat..."
+license: MIT
+tags: [general]
 skills: ra-qm-team
 domain: ra-qm
 model: sonnet

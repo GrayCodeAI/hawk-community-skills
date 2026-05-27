@@ -1,9 +1,10 @@
 ---
 name: cr-tailwind-css-nextjs-guide
-description: Cursor rules for tailwind-css-nextjs-guide
-domain: engineering
+description: "Cursor rules for tailwind-css-nextjs-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -115,4 +116,3 @@ Biome Rules:
 - Integrate Biome into the CI/CD pipeline for automated checks
 - Keep Biome updated to the latest stable version
 - Use Biome's ignore patterns to exclude specific files or directories when necessary
-

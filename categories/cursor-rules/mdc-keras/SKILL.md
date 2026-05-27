@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and high-performance Keras 3 models, emphasizing the functional API, modern training patterns, and multi-backend compatibility.
-globs: **/*.py
+name: mdc-keras
+description: "Definitive guidelines for writing robust, maintainable, and high-performance Keras 3 models, emphasizing the functional API, modern training patterns, and multi-backend compatibility."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # keras Best Practices
 
 Keras 3 is engineered for developer experience, emphasizing debugging speed, elegance, and deployability. Adhere to these rules for production-ready, multi-backend Keras projects.

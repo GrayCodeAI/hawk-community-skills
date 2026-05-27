@@ -1,6 +1,8 @@
 ---
-name: google-workspace
+name: arezv-google-workspace
 description: "Google Workspace CLI operations: setup diagnostics, security audit, recipe discovery, and output analysis. Usage: /google-workspace <setup|audit|recipe|analyze> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /google-workspace

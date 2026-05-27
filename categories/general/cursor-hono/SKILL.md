@@ -1,16 +1,11 @@
 ---
 name: cursor-hono
-description: Cursor IDE rules for hono
-domain: engineering
+description: "Cursor IDE rules for hono"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Hono: routing, middleware, edge deployment patterns"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Hono Cursor Rules

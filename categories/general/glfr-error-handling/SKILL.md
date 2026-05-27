@@ -1,3 +1,10 @@
+---
+name: glfr-error-handling
+description: "Skill: glfr-error-handling"
+license: MIT
+tags: [general]
+---
+
 # Error Handling Rules
 
 ## Error Types

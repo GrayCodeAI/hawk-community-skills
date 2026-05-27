@@ -1,9 +1,11 @@
 ---
-name: solidity-security
+name: ag-solidity-security
 description: "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Solidity Security

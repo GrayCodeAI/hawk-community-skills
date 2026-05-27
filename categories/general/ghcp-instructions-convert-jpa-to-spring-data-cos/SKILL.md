@@ -1,6 +1,8 @@
 ---
-description: 'Step-by-step guide for converting Spring Boot JPA applications to use Azure Cosmos DB with Spring Data Cosmos'
-applyTo: '**/*.java,**/pom.xml,**/build.gradle,**/application*.properties'
+name: ghcp-instructions-convert-jpa-to-spring-data-cos
+description: "Skill: ghcp-instructions-convert-jpa-to-spring-data-cos"
+license: MIT
+tags: [general]
 ---
 
 # Convert Spring JPA project to Spring Data Cosmos

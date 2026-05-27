@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-javascript
+description: "Skill: inst-setup-neon-javascript"
+license: MIT
+tags: [general]
+---
+
 # Neon + JavaScript Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with a JavaScript application.
@@ -301,4 +308,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Node.js Documentation](https://nodejs.org/docs)
-- [Express.js Documentation](https://expressjs.com/) 
+- [Express.js Documentation](https://expressjs.com/)

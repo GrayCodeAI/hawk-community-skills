@@ -1,3 +1,10 @@
+---
+name: ghcp-github-awesome-copilot-agents
+description: "Skill: ghcp-github-awesome-copilot-agents"
+license: MIT
+tags: [general]
+---
+
 # AGENTS.md
 
 ## Project Overview

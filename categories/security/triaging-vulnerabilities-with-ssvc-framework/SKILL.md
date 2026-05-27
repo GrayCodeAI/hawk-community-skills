@@ -1,12 +1,12 @@
 ---
 name: triaging-vulnerabilities-with-ssvc-framework
-description: Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific Vulnerability Categorization (SSVC) decision tree framework to produce actionable remediation priorities.
+description: "Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific Vulnerability Categorization (SSVC) decision tree framework to produce actionable remediation priorities."
+license: MIT
+tags: [ssvc, vulnerability-triage, cisa, vulnerability-prioritization, decision-tree, cvss, remediation, risk-management]
 domain: cybersecurity
 subdomain: vulnerability-management
-tags: [ssvc, vulnerability-triage, cisa, vulnerability-prioritization, decision-tree, cvss, remediation, risk-management]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Triaging Vulnerabilities with SSVC Framework

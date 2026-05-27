@@ -1,6 +1,8 @@
 ---
-name: react19-concurrent-patterns
-description: 'Preserve React 18 concurrent patterns and adopt React 19 APIs (useTransition, useDeferredValue, Suspense, use(), useOptimistic, Actions) during migration.'
+name: ghcp-react19-concurrent-patterns-skill
+description: "Preserve React 18 concurrent patterns and adopt React 19 APIs (useTransition, useDeferredValue, Suspense, use(), useOptimistic, Actions) during migration."
+license: MIT
+tags: [general]
 ---
 
 # React 19 Concurrent Patterns

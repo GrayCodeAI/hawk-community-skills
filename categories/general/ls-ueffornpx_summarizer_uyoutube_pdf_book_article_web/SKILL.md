@@ -1,3 +1,10 @@
+---
+name: ls-ueffornpx_summarizer_uyoutube_pdf_book_article_web
+description: "Skill: ls-ueffornpx_summarizer_uyoutube_pdf_book_article_web"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chatgpt.com/g/g-uefFoRnpX-summarizer-uyoutube-pdf-book-article-web-text-code
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-EepVyw12XfLuBs2GljbAVevT?se=2124-05-03T15%3A19%3A31Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DCleanShot%25202024-05-27%2520at%252017.19.10%25402x.png&sig=2QL/47mjcjpP4S8iizCuak/oGMTJOm4b4E56Kh/H%2BXc%3D" width="100px" />

@@ -1,10 +1,12 @@
 ---
-name: ecommerce-personalization
+name: ecom-ecommerce-personalization
 description: "Design personalization strategies for e-commerce stores. Product recommendations, dynamic content, customer segmentation, and personalized email/SMS based on browsing and purchase behavior."
-metadata:
-  nexscope:
-    emoji: "🎯"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🎯
+category: ecommerce
 ---
 
 # E-Commerce Personalization 🎯

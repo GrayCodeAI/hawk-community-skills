@@ -1,3 +1,10 @@
+---
+name: ls-9ftaotnor_thumbnail_expert
+description: "Skill: ls-9ftaotnor_thumbnail_expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9FtAOTNOr-thumbnail-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-apKKYiesQRDstE3yReCrVAqk?se=2123-10-21T04%3A10%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd1979492-e2da-49ba-84bf-eef885aa7a93.png&sig=G/oxdHpG%2Bu5tAqS25TtLa1LWrhA7fZFAbX5iivRN2Es%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: tl-spectrum
+description: "Skill: tl-spectrum"
+license: MIT
+tags: [general]
+---
+
 ## Common Issues
 
 ### Connection Timeouts

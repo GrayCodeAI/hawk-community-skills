@@ -1,3 +1,10 @@
+---
+name: rb-adr-002_scoped_sync_and_cleanup
+description: "Skill: rb-adr-002_scoped_sync_and_cleanup"
+license: MIT
+tags: [general]
+---
+
 # ADR-002: Scoped Sync and Pack Cleanup
 
 ## Status
@@ -23,4 +30,3 @@ Accepted
 ## Alternatives Considered
 - Running a full sync on every `add/remove` regardless of existing assistants – rejected due to surprise updates.
 - Requiring users to run `sync` manually after every pack change – rejected because it leaves the repo in an inconsistent state by default.
-

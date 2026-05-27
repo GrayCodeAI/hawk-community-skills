@@ -1,9 +1,10 @@
 ---
 name: cr-elixir-phoenix-docker-setup
-description: Cursor rules for elixir-phoenix-docker-setup
-domain: engineering
+description: "Cursor rules for elixir-phoenix-docker-setup"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -45,4 +46,3 @@ Where:
 - **footer (optional):** One or more footers in the following format:
   - `BREAKING CHANGE: ` (for breaking changes)
   - `<issue_tracker_id>: ` (e.g., `Jira-123: Fixed bug in authentication`)
-

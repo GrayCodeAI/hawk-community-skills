@@ -1,3 +1,10 @@
+---
+name: ecom-ebay-seller-guide
+description: "Skill: ecom-ebay-seller-guide"
+license: MIT
+tags: [general]
+---
+
 # eBay Seller Guide
 
 Complete guide for selling on eBay — auction and fixed-price strategies, listing optimization, eBay SEO, shipping setup, seller ratings, and scaling from casual seller to Top Rated Seller.

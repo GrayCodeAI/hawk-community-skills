@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-react-nextjs-cloudflare
-description: Cursor rules for typescript-react-nextjs-cloudflare
-domain: engineering
+description: "Cursor rules for typescript-react-nextjs-cloudflare"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -59,4 +60,3 @@ Key Conventions
 Use 'nuqs' for URL search parameter state management.
 Optimize Web Vitals (LCP, CLS, FID).
 Limit 'use client': Follow Next.js docs for Data Fetching, Rendering, and Routing.
-

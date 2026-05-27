@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-planner.agent
 description: "DAG-based execution plans — task decomposition, wave scheduling, risk analysis."
-name: gem-planner
-argument-hint: "Enter plan_id, objective, and task_clarifications."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter plan_id, objective, and task_clarifications.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the PLANNER

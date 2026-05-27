@@ -1,9 +1,11 @@
 ---
-name: tiktok-creator-marketplace
+name: ecom-tiktok-creator-marketplace
 description: "Creator Marketplace strategy — finding creators, negotiation, campaign management, performance metrics"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Creator Marketplace

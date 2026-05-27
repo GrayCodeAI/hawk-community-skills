@@ -1,3 +1,10 @@
+---
+name: ls-erkzdxc6d_automation-consultant-by-zapier
+description: "Skill: ls-erkzdxc6d_automation-consultant-by-zapier"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ERKZdxC6D-automation-consultant-by-zapier
 
 
@@ -84,4 +91,3 @@ description_of_zap: string,
 
 } // namespace actions_zapier_com__jit_plugin
 ```
-

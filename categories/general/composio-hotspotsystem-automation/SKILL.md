@@ -1,8 +1,10 @@
 ---
-name: hotspotsystem-automation
+name: composio-hotspotsystem-automation
 description: "Automate Hotspotsystem tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Hotspotsystem Automation via Rube MCP

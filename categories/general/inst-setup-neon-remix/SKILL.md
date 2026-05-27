@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-remix
+description: "Skill: inst-setup-neon-remix"
+license: MIT
+tags: [general]
+---
+
 # Neon + Remix Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with a Remix application.
@@ -255,4 +262,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Remix Documentation](https://remix.run/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

@@ -1,9 +1,11 @@
 ---
-name: context-driven-development
+name: ag-context-driven-development
 description: "Guide for implementing and maintaining context as a managed artifact alongside code, enabling consistent AI interactions and team alignment through structured project documentation."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Context-Driven Development

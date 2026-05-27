@@ -1,3 +1,10 @@
+---
+name: sys-roblox-studio-assistant_20240320
+description: "Skill: sys-roblox-studio-assistant_20240320"
+license: MIT
+tags: [general]
+---
+
 # roblox-studio-assistant_20240320
 
 source: <https://www.reddit.com/r/roblox/comments/1bjh1ud/managed_to_jailbreak_the_roblox_assistant_ai_and/>

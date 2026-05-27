@@ -1,16 +1,11 @@
 ---
 name: cursor-elixir
-description: Cursor IDE rules for elixir
-domain: engineering
+description: "Cursor IDE rules for elixir"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Elixir: OTP, pattern matching, functional pipelines"
-globs: ["*.ex", "*.exs"]
-alwaysApply: true
 ---
 
 # Elixir Cursor Rules

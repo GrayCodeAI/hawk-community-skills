@@ -1,17 +1,14 @@
 ---
 name: implementing-alert-fatigue-reduction
-description: >
-  Implements strategies to reduce SOC alert fatigue by tuning detection rules, consolidating
-  duplicate alerts, implementing risk-based alerting, and measuring alert quality metrics to
-  maintain analyst effectiveness and prevent critical alert dismissal. Use when SOC teams face
-  overwhelming alert volumes, high false positive rates, or declining analyst performance.
+description: "Implements strategies to reduce SOC alert fatigue by tuning detection rules, consolidating duplicate alerts, implementing risk-based alerting, and measuring alert quality metrics to maintain analys..."
+license: MIT
+tags: [soc, alert-fatigue, tuning, risk-based-alerting, false-positive, siem, detection-engineering]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, alert-fatigue, tuning, risk-based-alerting, false-positive, siem, detection-engineering]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Alert Fatigue Reduction
 
 ## When to Use

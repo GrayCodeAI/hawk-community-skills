@@ -1,3 +1,10 @@
+---
+name: glfr-performance
+description: "Skill: glfr-performance"
+license: MIT
+tags: [general]
+---
+
 # Performance Rules
 
 ## Loading Strategy

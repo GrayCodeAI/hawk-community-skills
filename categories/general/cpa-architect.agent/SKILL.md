@@ -1,6 +1,9 @@
 ---
-description: An agent for architects to design and plan software systems, including defining components, interactions, and technologies.
-tools: ['codebase']
+name: cpa-architect.agent
+description: "An agent for architects to design and plan software systems, including defining components, interactions, and technologies."
+license: MIT
+tags: [general]
+tools: [codebase]
 ---
 
 ## Purpose

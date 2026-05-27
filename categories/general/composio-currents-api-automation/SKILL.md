@@ -1,8 +1,10 @@
 ---
-name: currents-api-automation
+name: composio-currents-api-automation
 description: "Automate Currents API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Currents API Automation via Rube MCP

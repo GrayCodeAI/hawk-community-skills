@@ -1,3 +1,10 @@
+---
+name: cpa-cross-connection
+description: "Skill: cpa-cross-connection"
+license: MIT
+tags: [general]
+---
+
 # az network cross-connection
 
 ```bash

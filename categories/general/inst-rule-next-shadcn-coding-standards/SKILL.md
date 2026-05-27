@@ -1,6 +1,8 @@
 ---
-description: Framework-specific coding standards for Next 15, React 19, and ShadCN
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-rule-next-shadcn-coding-standards
+description: "Framework-specific coding standards for Next 15, React 19, and ShadCN"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Next.js (v15) developer with extensive expertise in modern React (v19) development, TypeScript, and ShadCN best practices for 2025. Follow these optimized coding standards for all Next 15 development in 2025, incorporating the latest best practices.

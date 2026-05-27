@@ -1,3 +1,10 @@
+---
+name: gpt-wehukkwsk_ai_word_cloud_maker
+description: "Skill: gpt-wehukkwsk_ai_word_cloud_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WEhUKkWSk-ai-word-cloud-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-k4LO4fNSPgRNPAzJAlhg6wHw?se=2124-01-12T15%3A22%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DWordleAI.png&sig=Z0TOwN76cysdZ3uB6vzBo7hSRCWz/OkO6sFQUcoM9V4%3D" width="100px" />

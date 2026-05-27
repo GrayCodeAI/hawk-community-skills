@@ -1,7 +1,10 @@
 ---
-description: Definitive guide for building modern, maintainable, and performant PySide6 applications using best practices like UI/logic separation, modern controls, and robust type safety.
-globs: **/*.py
+name: mdc-pyside
+description: "Definitive guide for building modern, maintainable, and performant PySide6 applications using best practices like UI/logic separation, modern controls, and robust type safety."
+license: MIT
+tags: [python]
 ---
+
 # PySide6 Best Practices
 
 This guide outlines the essential best practices for developing robust, maintainable, and modern PySide6 applications. Adhere to these principles to ensure high-quality, performant, and future-proof code.

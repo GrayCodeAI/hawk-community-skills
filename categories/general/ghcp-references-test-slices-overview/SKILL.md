@@ -1,3 +1,10 @@
+---
+name: ghcp-references-test-slices-overview
+description: "Skill: ghcp-references-test-slices-overview"
+license: MIT
+tags: [general]
+---
+
 # Test Slices Overview
 
 Quick reference for selecting the right Spring Boot test slice.

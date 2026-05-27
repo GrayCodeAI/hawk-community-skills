@@ -1,9 +1,10 @@
 ---
 name: extract_all_quotes
-description: Fabric pattern - extract_all_quotes
-domain: general
+description: "Fabric pattern - extract_all_quotes"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

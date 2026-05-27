@@ -1,18 +1,14 @@
 ---
-name: laravel-database-expert
-description: 'Optimize Laravel queries with subqueries, joinSub, Redis cache-aside patterns, and read/write connection splitting. Use when writing complex joins, implementing Cache::remember with tags, or configuring database read replicas.'
-metadata:
-  triggers:
-    files:
-    - 'config/database.php'
-    - 'database/migrations/*.php'
-    keywords:
-    - join
-    - aggregate
-    - subquery
-    - selectRaw
-    - Cache
+name: std-laravel-database-expert
+description: "Optimize Laravel queries with subqueries, joinSub, Redis cache-aside patterns, and read/write connection splitting. Use when writing complex joins, implementing Cache::remember with tags, or config..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Laravel Database Expert
 
 ## **Priority: P1 (HIGH)**

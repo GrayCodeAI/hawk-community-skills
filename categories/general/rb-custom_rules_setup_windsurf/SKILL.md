@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_windsurf
+description: "Skill: rb-custom_rules_setup_windsurf"
+license: MIT
+tags: [general]
+---
+
 source: https://docs.windsurf.com/windsurf/memories
 
 # Memories & Rules

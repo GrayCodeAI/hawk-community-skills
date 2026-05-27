@@ -1,3 +1,10 @@
+---
+name: gpt-lwkxsin2t_caddie_daddy
+description: "Skill: gpt-lwkxsin2t_caddie_daddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LwKxsin2t-caddie-daddy
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0L4WorgtHfFJS5KJqclwVpX3?se=2123-11-28T16%3A28%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D3c82b7ac-bbc4-4f2b-a413-9998cfd89112.png&sig=G3crtyqEwCSKGMXLxIbDG2Nd7u98uFoxcjjKBFfyQhM%3D" width="100px" />

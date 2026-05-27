@@ -1,3 +1,10 @@
+---
+name: gpt-sagittarius
+description: "Skill: gpt-sagittarius"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/gregsadetsky/sagittarius
 
 Repo Description:

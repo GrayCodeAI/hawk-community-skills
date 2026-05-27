@@ -1,8 +1,10 @@
 ---
-name: salesforce-service-cloud-automation
+name: composio-salesforce-service-cloud-automation
 description: "Automate Salesforce Service Cloud tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Salesforce Service Cloud Automation via Rube MCP

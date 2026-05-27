@@ -1,15 +1,14 @@
 ---
-name: nestjs-scheduling
-description: Implement distributed cron jobs with Redis-based locking and BullMQ offloading in NestJS. Use when adding @Cron scheduled tasks, preventing duplicate runs across pods, or delegating heavy work to queue workers.
-metadata:
-  triggers:
-    files:
-    - '**/*.service.ts'
-    keywords:
-    - "@Cron"
-    - CronExpression
-    - ScheduleModule
+name: std-nestjs-scheduling
+description: "Implement distributed cron jobs with Redis-based locking and BullMQ offloading in NestJS. Use when adding @Cron scheduled tasks, preventing duplicate runs across pods, or delegating heavy work to q..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Task Scheduling & Jobs
 
 ## **Priority: P1 (OPERATIONAL)**

@@ -1,9 +1,10 @@
 ---
 name: cr-temporal-python
-description: Cursor rules for temporal-python
-domain: engineering
+description: "Cursor rules for temporal-python"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

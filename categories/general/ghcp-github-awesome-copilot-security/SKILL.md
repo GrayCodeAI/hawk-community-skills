@@ -1,3 +1,10 @@
+---
+name: ghcp-github-awesome-copilot-security
+description: "Skill: ghcp-github-awesome-copilot-security"
+license: MIT
+tags: [general]
+---
+
 # Security
 
 GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).

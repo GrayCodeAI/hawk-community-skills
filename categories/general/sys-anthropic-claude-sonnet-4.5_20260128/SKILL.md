@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-sonnet-4.5_20260128
+description: "Skill: sys-anthropic-claude-sonnet-4.5_20260128"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-sonnet-4.5_20260128
 
 ## Q (User)

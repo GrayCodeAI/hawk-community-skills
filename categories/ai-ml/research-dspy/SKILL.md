@@ -1,10 +1,10 @@
 ---
-name: dspy
-description: Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and agents with DSPy - Stanford NLP's framework for systematic LM programming
+name: research-dspy
+description: "Build complex AI systems with declarative programming, optimize prompts automatically, create modular RAG systems and agents with DSPy - Stanford NLP's framework for systematic LM programming"
+license: MIT
+tags: [prompt-engineering, dspy, declarative-programming, rag, agents, prompt-optimization, lm-programming, stanford-nlp, automatic-optimization, modular-ai]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Prompt Engineering, DSPy, Declarative Programming, RAG, Agents, Prompt Optimization, LM Programming, Stanford NLP, Automatic Optimization, Modular AI]
 dependencies: [dspy, openai, anthropic]
 ---
 
@@ -586,5 +586,3 @@ for call in dspy.settings.trace:
 - `references/modules.md` - Detailed module guide (Predict, ChainOfThought, ReAct, ProgramOfThought)
 - `references/optimizers.md` - Optimization algorithms (BootstrapFewShot, MIPRO, BootstrapFinetune)
 - `references/examples.md` - Real-world examples (RAG, agents, classifiers)
-
-

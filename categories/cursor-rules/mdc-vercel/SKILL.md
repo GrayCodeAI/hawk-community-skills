@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for developing and deploying applications on Vercel, ensuring optimal performance, security, and cost-efficiency.
-globs: **/*
+name: mdc-vercel
+description: "This guide outlines definitive best practices for developing and deploying applications on Vercel, ensuring optimal performance, security, and cost-efficiency."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # vercel Best Practices
 
 Vercel is the definitive platform for deploying modern web applications, especially those built with Next.js. To maximize its potential, adhere to these opinionated guidelines for performance, security, and maintainability.

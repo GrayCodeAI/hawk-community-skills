@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-fulfillment
+name: ecom-tiktok-shop-fulfillment
 description: "Fulfillment setup — Fulfilled by TikTok, self-fulfillment, shipping templates, return policies"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Fulfillment

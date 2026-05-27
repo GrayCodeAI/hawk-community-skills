@@ -1,12 +1,12 @@
 ---
 name: building-soc-escalation-matrix
-description: Build a structured SOC escalation matrix defining severity tiers, response SLAs, escalation paths, and notification procedures for security incidents.
+description: "Build a structured SOC escalation matrix defining severity tiers, response SLAs, escalation paths, and notification procedures for security incidents."
+license: MIT
+tags: [soc, escalation, incident-management, severity, sla, triage, tiered-soc]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, escalation, incident-management, severity, sla, triage, tiered-soc]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Building SOC Escalation Matrix

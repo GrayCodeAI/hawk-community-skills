@@ -1,3 +1,10 @@
+---
+name: ls-l1mjoxkjr_chat_g_putin_t
+description: "Skill: ls-l1mjoxkjr_chat_g_putin_t"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l1mjOxKJr-chat-g-putin-t
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ENeRdkDAdaoHwfh5EEMFR6Me?se=2124-01-16T15%3A39%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df8c26417-d9d2-4929-9b76-2f2802df387f.png&sig=iU3tJ6ldgj52EFTLos9qPth3boJbBV6i6whaCipOSkM%3D" width="100px" />

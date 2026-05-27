@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-seo-metadata-audit
-role: merchandising
+name: shopify-shopify-admin-seo-metadata-audit
 description: "Read-only: scans products, collections, and pages for missing SEO titles or meta descriptions."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - collections:query
-  - pages:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'collections': 'query'}, {'pages': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

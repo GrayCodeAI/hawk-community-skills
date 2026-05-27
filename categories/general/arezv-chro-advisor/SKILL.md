@@ -1,15 +1,16 @@
 ---
-name: "chro-advisor"
-description: "People leadership for scaling companies. Hiring strategy, compensation design, org structure, culture, and retention. Use when building hiring plans, designing comp frameworks, restructuring teams, managing performance, building culture, or when user mentions CHRO, HR, people strategy, talent, headcount, compensation, org design, retention, or performance management."
+name: arezv-chro-advisor
+description: "People leadership for scaling companies. Hiring strategy, compensation design, org structure, culture, and retention. Use when building hiring plans, designing comp frameworks, restructuring teams,..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: chro-leadership
-  updated: 2026-03-05
-  python-tools: hiring_plan_modeler.py, comp_benchmarker.py
-  frameworks: people-strategy, comp-frameworks, org-design
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: chro-leadership
+updated: 2026-03-05
+python-tools: hiring_plan_modeler.py, comp_benchmarker.py
+frameworks: people-strategy, comp-frameworks, org-design
 ---
 
 # CHRO Advisor

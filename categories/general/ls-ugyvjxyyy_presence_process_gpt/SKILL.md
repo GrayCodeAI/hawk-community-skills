@@ -1,3 +1,10 @@
+---
+name: ls-ugyvjxyyy_presence_process_gpt
+description: "Skill: ls-ugyvjxyyy_presence_process_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ugyVjXyyY-presence-process-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-QX8fy5YUvsxb7T2rqBCtZJOj?se=2123-10-19T11%3A32%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252012.30.50%2520-%2520Revise%2520the%2520icon%2520of%2520a%2520stylized%2520rising%2520sun%2520over%2520the%2520ocean%252C%2520making%2520it%2520more%2520vibrant%2520and%2520expressive%2520to%2520represent%2520a%2520GPT%2520from%2520the%2520future.%2520Enhance%2520the%2520colors%2520.png&sig=TpMlnkgTipdbm2pMwq%2BbGdm5lCS5FUGpO7ol3xMzziI%3D" width="100px" />

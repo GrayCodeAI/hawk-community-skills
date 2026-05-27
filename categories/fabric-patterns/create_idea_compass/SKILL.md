@@ -1,9 +1,10 @@
 ---
 name: create_idea_compass
-description: Fabric pattern - create_idea_compass
-domain: general
+description: "Fabric pattern - create_idea_compass"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

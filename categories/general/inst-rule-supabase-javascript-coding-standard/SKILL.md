@@ -1,6 +1,8 @@
 ---
-description: Coding standards and best practices for vanilla JavaScript apps with Supabase Authentication
-globs: "**/*.html, **/*.js"
+name: inst-rule-supabase-javascript-coding-standard
+description: "Coding standards and best practices for vanilla JavaScript apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Coding Standards for Vanilla JavaScript with Supabase Authentication
@@ -364,4 +366,4 @@ function setupAuthListeners(supabase) {
 12. Use proper type checking and validation
 13. Follow proper file organization
 14. Implement proper error messages and user feedback
-15. Keep the codebase maintainable and well-documented 
+15. Keep the codebase maintainable and well-documented

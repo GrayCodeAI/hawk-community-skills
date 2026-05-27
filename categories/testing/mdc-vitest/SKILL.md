@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing fast, reliable, and maintainable unit and integration tests using Vitest in modern JavaScript and TypeScript projects.
-globs: **/*.{js,ts,jsx,tsx}
+name: mdc-vitest
+description: "This guide provides opinionated, actionable best practices for writing fast, reliable, and maintainable unit and integration tests using Vitest in modern JavaScript and TypeScript projects."
+license: MIT
+tags: [testing]
 ---
+
 # Vitest Best Practices
 
 Vitest is the definitive testing framework for our Vite-powered projects. It offers a fast, Jest-compatible API with deep integration into the Vite ecosystem. Adhering to these guidelines ensures our tests are robust, performant, and easy to maintain.

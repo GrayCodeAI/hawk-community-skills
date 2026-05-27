@@ -1,22 +1,24 @@
 ---
-name: Relevance Summary
+name: copilot-workflows
 description: "Manually triggered workflow that summarizes all open issues and PRs with a /relevance-check response into a single issue"
-on:
-  workflow_dispatch:
-engine:
-  id: copilot
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-tools:
-  github:
-    toolsets: [default]
-safe-outputs:
-  create-issue:
-    title-prefix: "[Relevance Summary] "
-    labels: [report]
-    close-older-issues: true
+license: MIT
+tags: [general]
+True: None
+workflow_dispatch: None
+engine: None
+id: copilot
+permissions: None
+contents: read
+issues: read
+pull-requests: read
+tools: None
+github: None
+toolsets: [default]
+safe-outputs: None
+create-issue: None
+title-prefix: [Relevance Summary]
+labels: [report]
+close-older-issues: True
 ---
 
 # Relevance Check Summary Report

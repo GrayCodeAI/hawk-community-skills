@@ -1,21 +1,13 @@
 ---
-name: context-agent
-description: Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.
+name: ag-context-agent
+description: "Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-03-06'
+date_added: 2026-03-06
 author: renat
-tags:
-- context
-- session-management
-- continuity
-- memory
-tools:
-- claude-code
-- antigravity
-- cursor
-- gemini-cli
-- codex-cli
+tools: None
 ---
 
 # Context Agent

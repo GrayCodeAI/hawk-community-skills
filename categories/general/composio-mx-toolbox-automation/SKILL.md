@@ -1,8 +1,10 @@
 ---
-name: mx-toolbox-automation
+name: composio-mx-toolbox-automation
 description: "Automate Mx Toolbox tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mx Toolbox Automation via Rube MCP

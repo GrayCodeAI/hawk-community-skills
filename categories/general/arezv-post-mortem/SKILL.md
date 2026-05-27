@@ -1,6 +1,8 @@
 ---
-name: "post-mortem"
+name: arezv-post-mortem
 description: "/cs:post-mortem <decision> — Honest retrospective on an executed decision, scored against original assumptions and dissent. Closes the strategic sprint loop."
+license: MIT
+tags: [general]
 ---
 
 # /cs:post-mortem — Honest Retrospective

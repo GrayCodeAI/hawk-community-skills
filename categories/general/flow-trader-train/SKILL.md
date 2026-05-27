@@ -1,9 +1,12 @@
 ---
-name: trader-train
-description: Train neural models (LSTM, Transformer, N-BEATS) on market data using npx neural-trader with confidence intervals
+name: flow-trader-train
+description: "Train neural models (LSTM, Transformer, N-BEATS) on market data using npx neural-trader with confidence intervals"
+license: MIT
+tags: [general]
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__neural_train
-argument-hint: "<lstm|transformer|nbeats> --symbol <TICKER>"
+argument-hint: <lstm|transformer|nbeats> --symbol <TICKER>
 ---
+
 Train neural prediction models using neural-trader's ML engine.
 
 Steps:

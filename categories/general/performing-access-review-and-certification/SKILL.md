@@ -1,13 +1,14 @@
 ---
 name: performing-access-review-and-certification
-description: Conduct systematic access reviews and certifications to ensure users have appropriate access rights aligned with their roles. This skill covers review campaign design, reviewer selection, risk-based p
+description: "Conduct systematic access reviews and certifications to ensure users have appropriate access rights aligned with their roles. This skill covers review campaign design, reviewer selection, risk-based p"
+license: MIT
+tags: [iam, identity, access-control, access-review, certification, compliance, governance]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [iam, identity, access-control, access-review, certification, compliance, governance]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Access Review and Certification
 
 ## Overview

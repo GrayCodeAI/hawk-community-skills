@@ -1,9 +1,11 @@
 ---
-name: cost-optimization
+name: ag-cost-optimization
 description: "Strategies and patterns for optimizing cloud costs across AWS, Azure, and GCP."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Cloud Cost Optimization

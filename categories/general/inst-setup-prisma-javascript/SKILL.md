@@ -1,3 +1,10 @@
+---
+name: inst-setup-prisma-javascript
+description: "Skill: inst-setup-prisma-javascript"
+license: MIT
+tags: [general]
+---
+
 # Prisma with JavaScript Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Prisma ORM with a JavaScript application.
@@ -684,4 +691,4 @@ npx prisma studio
 5. Start the development server:
 ```bash
 node src/server.js
-``` 
+```

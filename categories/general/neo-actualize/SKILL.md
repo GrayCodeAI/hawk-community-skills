@@ -1,6 +1,8 @@
 ---
-name: actualize
+name: neo-actualize
 description: "Reconcile the project's FPF state with recent repository changes"
+license: MIT
+tags: [general]
 ---
 
 # Actualize Knowledge Base

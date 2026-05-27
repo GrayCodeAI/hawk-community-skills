@@ -1,12 +1,12 @@
 ---
 name: detecting-container-escape-with-falco-rules
-description: Detect container escape attempts in real-time using Falco runtime security rules that monitor syscalls, file access, and privilege escalation.
+description: "Detect container escape attempts in real-time using Falco runtime security rules that monitor syscalls, file access, and privilege escalation."
+license: MIT
+tags: [falco, container-escape, runtime-security, syscall-monitoring, kubernetes, detection]
 domain: cybersecurity
 subdomain: container-security
-tags: [falco, container-escape, runtime-security, syscall-monitoring, kubernetes, detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Container Escape with Falco Rules

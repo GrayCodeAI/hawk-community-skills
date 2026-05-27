@@ -1,3 +1,10 @@
+---
+name: rb-02-validation-checklist
+description: "Skill: rb-02-validation-checklist"
+license: MIT
+tags: [general]
+---
+
 ## Validation Checklist
 
 After the contributor assembles their pack:

@@ -1,3 +1,10 @@
+---
+name: ls-stuldxppo_the_illuminat_-_advanced_dark_strategy_g
+description: "Skill: ls-stuldxppo_the_illuminat_-_advanced_dark_strategy_g"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-stuLDXPPO-the-illuminat-advanced-dark-strategy-game
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZUfYYpIvC3Fh2n7MszUvm4kQ?se=2124-01-01T16%3A26%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPyramidDestroyed.png&sig=4rAtjfjgdOemedXIcXcPoiGRIwHWHTDrdBB3mAoiMOU%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: dataverse-python-advanced-patterns
-description: 'Generate production code for Dataverse SDK using advanced patterns, error handling, and optimization techniques.'
+name: ghcp-dataverse-python-advanced-patterns-skill
+description: "Generate production code for Dataverse SDK using advanced patterns, error handling, and optimization techniques."
+license: MIT
+tags: [general]
 ---
 
 You are a Dataverse SDK for Python expert. Generate production-ready Python code that demonstrates:

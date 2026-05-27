@@ -1,7 +1,10 @@
 ---
-description: Defines the structure and implementation of service classes, enforcing the use of interfaces, ServiceImpl classes, DTOs for data transfer, and transactional management.
-globs: **/src/main/java/com/example/services/*.java
+name: mdc-service-class-conventions
+description: "Defines the structure and implementation of service classes, enforcing the use of interfaces, ServiceImpl classes, DTOs for data transfer, and transactional management."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Service classes must be of type interface.
 - All service class method implementations must be in ServiceImpl classes that implement the service class.
 - All ServiceImpl classes must be annotated with @Service.

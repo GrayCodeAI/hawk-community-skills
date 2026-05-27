@@ -1,3 +1,10 @@
+---
+name: ls-omtsqwu4r_elan-busk
+description: "Skill: ls-omtsqwu4r_elan-busk"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-oMTSqwU4R-elan-busk
 
 GPT Title: Elan Busk

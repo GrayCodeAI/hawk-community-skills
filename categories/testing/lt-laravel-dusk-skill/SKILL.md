@@ -1,17 +1,8 @@
 ---
-name: laravel-dusk-skill
-description: >
-  Generates Laravel Dusk browser tests in PHP. Chrome-based E2E testing for
-  Laravel apps. Use when user mentions "Dusk", "Laravel Dusk", "$browser->visit",
-  "DuskTestCase". Triggers on: "Laravel Dusk", "Dusk test", "$browser->visit",
-  "DuskTestCase".
-languages:
-  - PHP
-category: e2e-testing
+name: lt-laravel-dusk-skill
+description: "Skill: lt-laravel-dusk-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Laravel Dusk Skill

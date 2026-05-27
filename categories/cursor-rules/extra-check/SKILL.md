@@ -1,3 +1,10 @@
+---
+name: extra-check
+description: "Skill: extra-check"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Check
 
 Perform comprehensive code quality and security checks.

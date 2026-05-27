@@ -1,9 +1,10 @@
 ---
 name: find_female_life_partner
-description: Fabric pattern - find_female_life_partner
-domain: general
+description: "Fabric pattern - find_female_life_partner"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

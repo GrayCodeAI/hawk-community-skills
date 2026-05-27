@@ -1,3 +1,10 @@
+---
+name: cpa-graph-services
+description: "Skill: cpa-graph-services"
+license: MIT
+tags: [general]
+---
+
 # az graph-services
 
 ```bash

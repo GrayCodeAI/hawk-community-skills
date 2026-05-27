@@ -1,14 +1,16 @@
 ---
-name: new-rails-project
+name: ag-new-rails-project
+description: "Create a new Rails project"
+license: MIT
+tags: [general]
 argument-hint: [project name]
-description: Create a new Rails project
 allowed-tools: Bash(rails *), Bash(bundle *), Bash(bin/*), Bash(npm *), Bash(yarn *)
 context: fork
 risk: unknown
 source: community
-metadata:
-  author: Shpigford
-  version: "1.0"
+metadata: None
+author: Shpigford
+version: 1.0
 ---
 
 Generate a new Rails project named $1 in the current directory. You may reference @CLAUDE.md for general guidance, though the guidance here takes precedence.

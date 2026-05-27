@@ -1,3 +1,10 @@
+---
+name: ecom-walmart-advertising-strategy
+description: "Skill: ecom-walmart-advertising-strategy"
+license: MIT
+tags: [general]
+---
+
 # Walmart Advertising Strategy
 
 Master Walmart Connect advertising. Sponsored Products, Sponsored Brands, Display Ads, and onsite/offsite campaigns with bidding strategy, budget allocation, and ROAS optimization.

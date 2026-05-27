@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing clean, performant, and maintainable PyTorch code, emphasizing modern best practices, explicit device management, and efficient training patterns.
-globs: **/*.py
+name: mdc-pytorch
+description: "Definitive guidelines for writing clean, performant, and maintainable PyTorch code, emphasizing modern best practices, explicit device management, and efficient training patterns."
+license: MIT
+tags: [python]
 ---
+
 # PyTorch Best Practices
 
 This guide outlines the definitive best practices for developing with PyTorch, ensuring your code is readable, performant, and production-ready. We prioritize usability, explicit control, and modern tooling.

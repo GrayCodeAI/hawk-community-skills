@@ -1,6 +1,8 @@
 ---
-name: qdrant-scaling-query-volume
-description: "Guides Qdrant query volume scaling. Use when someone asks 'query returns too many results', 'scroll performance', 'large limit values', 'paginating search results', 'fetching many vectors', or 'high cardinality results'."
+name: ghcp-scaling-query-volume-skill
+description: "Guides Qdrant query volume scaling. Use when someone asks 'query returns too many results', 'scroll performance', 'large limit values', 'paginating search results', 'fetching many vectors', or 'hig..."
+license: MIT
+tags: [general]
 ---
 
 # Scaling for Query Volume

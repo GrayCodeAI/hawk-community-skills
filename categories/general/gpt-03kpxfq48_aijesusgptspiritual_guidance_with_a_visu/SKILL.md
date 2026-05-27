@@ -1,3 +1,10 @@
+---
+name: gpt-03kpxfq48_aijesusgptspiritual_guidance_with_a_visu
+description: "Skill: gpt-03kpxfq48_aijesusgptspiritual_guidance_with_a_visu"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-03kpxFq48-aijesusgpt-spiritual-guidance-with-a-visual-touch
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wRoz4HknxNRaN13fzuXjskzP?se=2123-12-17T20%3A07%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=j7svGEpcdeahJ92SMQ411o2npDM8rF59YVby09Xp/r8%3D" width="100px" />

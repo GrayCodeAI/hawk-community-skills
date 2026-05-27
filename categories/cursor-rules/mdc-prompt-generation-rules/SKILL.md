@@ -1,7 +1,10 @@
 ---
-description: General rules to generate prompt.
-globs: **/*
+name: mdc-prompt-generation-rules
+description: "General rules to generate prompt."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Analyze the component requirements thoroughly
 - Include specific DaisyUI component suggestions
 - Specify desired Tailwind CSS classes for styling

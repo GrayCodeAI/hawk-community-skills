@@ -1,7 +1,10 @@
 ---
-description: Applies best practices for using SolidJS with TypeScript. This includes using typed reactive state, proper type definitions, and strict TypeScript mode.
-globs: **/*.tsx
+name: mdc-solidjs-typescript-best-practices
+description: "Applies best practices for using SolidJS with TypeScript. This includes using typed reactive state, proper type definitions, and strict TypeScript mode."
+license: MIT
+tags: [typescript]
 ---
+
 - Use createSignal<T>() for typed reactive state
 - Implement proper type definitions for components
 - Utilize TypeScript's strict mode

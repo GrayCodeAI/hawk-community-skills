@@ -1,3 +1,10 @@
+---
+name: gpt-htsfg2w2z_secgpt
+description: "Skill: gpt-htsfg2w2z_secgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HTsfg2w2z-secgpt/
 
 GPT Title: SecGPT

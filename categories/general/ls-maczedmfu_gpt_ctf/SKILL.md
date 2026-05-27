@@ -1,3 +1,10 @@
+---
+name: ls-maczedmfu_gpt_ctf
+description: "Skill: ls-maczedmfu_gpt_ctf"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MACzeDMfu-gpt-ctf
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xP5SnRb05W8AjPU899SCyd4N?se=2123-11-14T05%3A28%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df770fe0f-fd9c-476e-b45a-1bd11c495683.png&sig=BbaXd/hsVwKdxTnvWnizjJ6pPYErhJVftKBoogfvV8U%3D" width="100px" />

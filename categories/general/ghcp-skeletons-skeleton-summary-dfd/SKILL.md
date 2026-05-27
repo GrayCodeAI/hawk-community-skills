@@ -1,3 +1,10 @@
+---
+name: ghcp-skeletons-skeleton-summary-dfd
+description: "Skill: ghcp-skeletons-skeleton-summary-dfd"
+license: MIT
+tags: [general]
+---
+
 # Skeleton: 1.2-threatmodel-summary.mmd
 
 > **⛔ ALWAYS evaluate this skeleton after creating `1.1-threatmodel.mmd`.**

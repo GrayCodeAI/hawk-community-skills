@@ -1,3 +1,10 @@
+---
+name: cpa-import-export
+description: "Skill: cpa-import-export"
+license: MIT
+tags: [general]
+---
+
 # az import-export
 
 ```bash

@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for building secure, performant, and maintainable applications with Firebase, focusing on modern patterns and avoiding common pitfalls.
-globs: **/*
+name: mdc-firebase
+description: "This guide provides definitive, opinionated best practices for building secure, performant, and maintainable applications with Firebase, focusing on modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [database]
 ---
+
 # firebase Best Practices
 
 Firebase is a powerful Backend-as-a-Service (BaaS) that accelerates development. To leverage it effectively, you must adhere to strict best practices for security, performance, and maintainability. This guide outlines the definitive approach for our team.

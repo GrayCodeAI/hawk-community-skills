@@ -1,28 +1,13 @@
 ---
 name: deploying-software-defined-perimeter
 description: Deploying Software Defined Perimeter
+license: MIT
+tags:
+- cybersecurity
 domain: cybersecurity
 subdomain: security-operations
-tags: [cybersecurity]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
----
-
-# Deploying Software-Defined Perimeter
-
----
-domain: cybersecurity
-subdomain: zero-trust-architecture
-author: mahipal
-tags: [zero-trust, sdp, software-defined-perimeter, network-access, ztna]
-difficulty: advanced
-estimated_time: 4-6 hours
-prerequisites:
-  - Understanding of zero trust principles (NIST SP 800-207)
-  - Knowledge of CSA Software-Defined Perimeter specification
-  - Familiarity with PKI and mutual TLS authentication
-  - Experience with network security architecture
 ---
 
 ## Overview

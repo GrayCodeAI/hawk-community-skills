@@ -1,56 +1,34 @@
 ---
-name: 'OSPO Contributors Report'
-description: 'Monthly contributor activity metrics across an organization''s repositories.'
-labels: ['ospo', 'reporting', 'contributors']
-on:
-  schedule:
-    - cron: "3 2 1 * *"
-  workflow_dispatch:
-    inputs:
-      organization:
-        description: "GitHub organization to analyze (e.g. github)"
-        required: false
-        type: string
-      repositories:
-        description: "Comma-separated list of repos to analyze (e.g. owner/repo1,owner/repo2)"
-        required: false
-        type: string
-      start_date:
-        description: "Start date for the report period (YYYY-MM-DD)"
-        required: false
-        type: string
-      end_date:
-        description: "End date for the report period (YYYY-MM-DD)"
-        required: false
-        type: string
-      sponsor_info:
-        description: "Include GitHub Sponsors information for contributors"
-        required: false
-        type: boolean
-        default: false
-
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-
+name: ghcp-workflows-ospo-contributors-report
+description: "Include GitHub Sponsors information for contributors"
+license: MIT
+tags: [general]
+labels: [ospo, reporting, contributors]
+True: None
+schedule: [{'cron': '3 2 1 * *'}]
+workflow_dispatch: None
+inputs: None
+organization: None
+required: False
+type: boolean
+repositories: None
+start_date: None
+end_date: None
+sponsor_info: None
+default: False
+permissions: None
+contents: read
+issues: read
+pull-requests: read
 engine: copilot
-
-tools:
-  github:
-    toolsets:
-      - repos
-      - issues
-      - pull_requests
-      - orgs
-      - users
-  bash: true
-
-safe-outputs:
-  create-issue:
-    max: 1
-    title-prefix: "[Contributors Report] "
-
+tools: None
+github: None
+toolsets: None
+bash: True
+safe-outputs: None
+create-issue: None
+max: 1
+title-prefix: [Contributors Report]
 timeout-minutes: 60
 ---
 

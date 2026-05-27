@@ -1,3 +1,10 @@
+---
+name: gpt-e0btbrrf5_poe-bot-creator
+description: "Skill: gpt-e0btbrrf5_poe-bot-creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator
 
 GPT Title: Poe Bot Creator

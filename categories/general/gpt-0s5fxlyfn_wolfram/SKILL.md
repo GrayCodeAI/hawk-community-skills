@@ -1,3 +1,10 @@
+---
+name: gpt-0s5fxlyfn_wolfram
+description: "Skill: gpt-0s5fxlyfn_wolfram"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0S5FXLyFN-wolfram
 
 GPT Title: Wolfram

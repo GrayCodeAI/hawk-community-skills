@@ -1,20 +1,14 @@
 ---
 name: executing-red-team-exercise
-description: >
-  Executes comprehensive red team exercises that simulate real-world adversary operations
-  against an organization's people, processes, and technology. The red team operates with
-  stealth as a primary objective, employing the full attack lifecycle from initial reconnaissance
-  through objective completion while testing the organization's detection and response
-  capabilities. This differs from penetration testing by focusing on adversary emulation
-  rather than vulnerability identification. Activates for requests involving red team exercise,
-  adversary simulation, adversary emulation, or full-scope offensive security assessment.
+description: "Executes comprehensive red team exercises that simulate real-world adversary operations against an organization's people, processes, and technology. The red team operates with stealth as a primary ..."
+license: MIT
+tags: [red-team, adversary-emulation, mitre-att-ck, cobalt-strike, detection-assessment]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [red-team, adversary-emulation, MITRE-ATT&CK, Cobalt-Strike, detection-assessment]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Executing Red Team Exercise
 
 ## When to Use

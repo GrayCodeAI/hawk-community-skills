@@ -1,11 +1,8 @@
 ---
 name: design-md
-description: Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files
-allowed-tools:
-  - "stitch*:*"
-  - "Read"
-  - "Write"
-  - "web_fetch"
+description: "Skill: design-md"
+license: MIT
+tags: [general]
 ---
 
 # Stitch DESIGN.md Skill

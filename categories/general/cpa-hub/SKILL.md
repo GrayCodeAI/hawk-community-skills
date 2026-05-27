@@ -1,3 +1,10 @@
+---
+name: cpa-hub
+description: "Skill: cpa-hub"
+license: MIT
+tags: [general]
+---
+
 # az iot hub
 
 ```bash

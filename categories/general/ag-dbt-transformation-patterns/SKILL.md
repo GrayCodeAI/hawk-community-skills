@@ -1,9 +1,11 @@
 ---
-name: dbt-transformation-patterns
+name: ag-dbt-transformation-patterns
 description: "Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing."
+license: MIT
+tags: [general]
 risk: none
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # dbt Transformation Patterns

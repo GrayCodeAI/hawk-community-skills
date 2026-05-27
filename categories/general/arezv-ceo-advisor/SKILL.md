@@ -1,15 +1,16 @@
 ---
-name: "ceo-advisor"
-description: "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Use when planning strategy, preparing board presentations, managing investors, developing organizational culture, making executive decisions, fundraising, or when user mentions CEO, strategic planning, board meetings, investor updates, organizational leadership, or executive strategy."
+name: arezv-ceo-advisor
+description: "Executive leadership guidance for strategic decision-making, organizational development, and stakeholder management. Use when planning strategy, preparing board presentations, managing investors, d..."
 license: MIT
-metadata:
-  version: 2.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: ceo-leadership
-  updated: 2026-03-05
-  python-tools: strategy_analyzer.py, financial_scenario_analyzer.py
-  frameworks: executive-decisions, board-governance, leadership-culture
+tags: [general]
+metadata: None
+version: 2.0.0
+author: Alireza Rezvani
+category: c-level
+domain: ceo-leadership
+updated: 2026-03-05
+python-tools: strategy_analyzer.py, financial_scenario_analyzer.py
+frameworks: executive-decisions, board-governance, leadership-culture
 ---
 
 # CEO Advisor

@@ -1,4 +1,7 @@
 ---
-description: Structure of GlobalExceptionHandler class.
-globs: **/src/main/java/com/example/GlobalExceptionHandler.java
+name: mdc-globalexceptionhandler-class
+description: "Structure of GlobalExceptionHandler class."
+license: MIT
+tags: [cursor-rules]
 ---
+

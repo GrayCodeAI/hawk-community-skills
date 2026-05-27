@@ -1,7 +1,8 @@
 ---
 name: documentation-writing
-description: Technical documentation best practices and API documentation
+description: "Technical documentation best practices and API documentation"
 license: MIT
+tags: [general]
 compatibility: typedoc 0.25+, jsdoc 4+, markdown
 allowed-tools: read_file write_file apply_patch search_with_context
 ---

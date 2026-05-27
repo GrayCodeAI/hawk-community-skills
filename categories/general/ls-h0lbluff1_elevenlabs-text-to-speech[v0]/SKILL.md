@@ -1,3 +1,10 @@
+---
+name: ls-h0lbluff1_elevenlabs-text-to-speech[v0]
+description: "Skill: ls-h0lbluff1_elevenlabs-text-to-speech[v0]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h0lbLuFF1-elevenlabs-text-to-speech
 
 GPT Title: ElevenLabs Text To Speech

@@ -1,3 +1,10 @@
+---
+name: ls-open-notebooklm
+description: "Skill: ls-open-notebooklm"
+license: MIT
+tags: [general]
+---
+
 references: https://huggingface.co/spaces/gabrielchua/open-notebooklm/blob/main/prompts.py
 
 ```markdown

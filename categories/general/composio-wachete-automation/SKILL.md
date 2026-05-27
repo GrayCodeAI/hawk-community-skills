@@ -1,8 +1,10 @@
 ---
-name: wachete-automation
+name: composio-wachete-automation
 description: "Automate Wachete tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Wachete Automation via Rube MCP

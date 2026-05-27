@@ -1,21 +1,14 @@
 ---
-name: android-agp-upgrade
-description: Upgrade an Android project to Android Gradle Plugin (AGP) 9. Use when migrating to AGP 9, updating Gradle build files, migrating to built-in Kotlin, or adopting the new AGP DSL.
-metadata:
-  triggers:
-    files:
-    - 'build.gradle.kts'
-    - 'build.gradle'
-    - 'settings.gradle.kts'
-    - 'gradle.properties'
-    keywords:
-    - AGP 9
-    - AGP upgrade
-    - Gradle plugin
-    - built-in Kotlin
-    - new DSL
-    - migrate AGP
+name: std-android-agp-upgrade
+description: "Upgrade an Android project to Android Gradle Plugin (AGP) 9. Use when migrating to AGP 9, updating Gradle build files, migrating to built-in Kotlin, or adopting the new AGP DSL."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # AGP 9 Upgrade Workflow
 
 ## **Priority: P1**

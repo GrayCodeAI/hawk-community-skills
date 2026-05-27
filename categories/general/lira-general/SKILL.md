@@ -1,5 +1,8 @@
 ---
-applyTo: '**'
+name: lira-general
+description: "Skill: lira-general"
+license: MIT
+tags: [general]
 ---
 
 ## General Agent Rules

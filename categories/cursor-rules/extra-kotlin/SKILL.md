@@ -1,7 +1,9 @@
 ---
-description: Kotlin 开发约定和最佳实践
-globs: **/*.kt
-alwaysApply: false
+name: extra-kotlin
+description: "Kotlin 开发约定和最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 ## Kotlin 开发规范
@@ -116,5 +118,3 @@ alwaysApply: false
 - 合理使用 `lazy` 延迟初始化
 - 注意避免内存泄漏，特别是在协程和回调中
 - 使用 `use` 函数自动管理资源
-
-

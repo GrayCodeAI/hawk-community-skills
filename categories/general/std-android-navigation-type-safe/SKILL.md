@@ -1,16 +1,14 @@
 ---
-name: android-navigation-type-safe
-description: Implement type-safe Jetpack Navigation Compose routes using Kotlin serialization. Use when defining navigation graphs with type-safe destinations in Jetpack Compose.
-metadata:
-  triggers:
-    files:
-    - '**/*NavHost.kt'
-    - '**/*Graph.kt'
-    keywords:
-    - NavHost
-    - navController
-    - "@Serializable"
+name: std-android-navigation-type-safe
+description: "Implement type-safe Jetpack Navigation Compose routes using Kotlin serialization. Use when defining navigation graphs with type-safe destinations in Jetpack Compose."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Navigation Standards
 
 ## **Priority: P0**

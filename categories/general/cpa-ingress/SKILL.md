@@ -1,3 +1,10 @@
+---
+name: cpa-ingress
+description: "Skill: cpa-ingress"
+license: MIT
+tags: [general]
+---
+
 # az containerapp ingress
 
 ```bash

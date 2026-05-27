@@ -1,8 +1,10 @@
 ---
-name: bench-automation
+name: composio-bench-automation
 description: "Automate Bench tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bench Automation via Rube MCP

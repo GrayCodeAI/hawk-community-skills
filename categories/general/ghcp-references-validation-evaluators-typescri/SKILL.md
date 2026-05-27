@@ -1,3 +1,10 @@
+---
+name: ghcp-references-validation-evaluators-typescri
+description: "Skill: ghcp-references-validation-evaluators-typescri"
+license: MIT
+tags: [general]
+---
+
 # Validating Evaluators (TypeScript)
 
 Validate an LLM evaluator against human-labeled examples before deploying it.

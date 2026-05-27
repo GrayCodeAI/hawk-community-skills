@@ -1,3 +1,10 @@
+---
+name: ls-part3
+description: "Skill: ls-part3"
+license: MIT
+tags: [general]
+---
+
 ## Part 3: Conjuring, Prompt-gramming
 
 ## Chapter 9: Spells 201: Charms, Prompt Created Media

@@ -1,3 +1,10 @@
+---
+name: bpl-proton
+description: "Skill: bpl-proton"
+license: MIT
+tags: [general]
+---
+
 Lumo, Proton's AI System prompt. See full blog here: https://proton.me/blog/lumo-ai
 
 ```markdown

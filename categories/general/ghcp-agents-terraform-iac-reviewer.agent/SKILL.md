@@ -1,7 +1,9 @@
 ---
-name: 'Terraform IaC Reviewer'
-description: 'Terraform-focused agent that reviews and creates safer IaC changes with emphasis on state safety, least privilege, module patterns, drift detection, and plan/apply discipline'
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+name: ghcp-agents-terraform-iac-reviewer.agent
+description: "Terraform-focused agent that reviews and creates safer IaC changes with emphasis on state safety, least privilege, module patterns, drift detection, and plan/apply discipline"
+license: MIT
+tags: [general]
+tools: [codebase, edit/editFiles, terminalCommand, search, githubRepo]
 ---
 
 # Terraform IaC Reviewer

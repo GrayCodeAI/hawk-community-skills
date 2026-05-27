@@ -1,3 +1,10 @@
+---
+name: gpt-okegyd8q2_debt_planner_guide
+description: "Skill: gpt-okegyd8q2_debt_planner_guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-okeGYD8q2-debt-planner-guide
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-a9Oj65iJuNi6R2ZUDVrwOonG?se=2124-01-13T18%3A43%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1c1a9c61-e949-4163-be7f-8eebed3f49ff.png&sig=b26vVbWhVPqrQdMN3HJ6bUJe8FE5xmW4QkG6MoNV7PU%3D" width="100px" />

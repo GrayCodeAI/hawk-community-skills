@@ -1,8 +1,10 @@
 ---
-name: -2chat-automation
+name: composio--2chat-automation
 description: "Automate 2chat tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # 2chat Automation via Rube MCP

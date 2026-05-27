@@ -1,3 +1,10 @@
+---
+name: lira-overview
+description: "Skill: lira-overview"
+license: MIT
+tags: [general]
+---
+
 # Architecture Overview
 
 *This document provides a condensed architectural overview of the agent-rules project. For detailed implementation guidance, see the other docs/ files.*

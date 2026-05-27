@@ -1,3 +1,10 @@
+---
+name: ls-crpsq5ach_maria_montessori
+description: "Skill: ls-crpsq5ach_maria_montessori"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cRPsq5AcH-maria-montessori
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rzh2TX5kfzYB2ogxujvuyQwr?se=2123-11-23T08%3A43%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmaria-montessori.png&sig=8txbB7HcwVqRibfvUhTlJLIcMGCTvOOAYL4AFp3wtRs%3D" width="100px" />

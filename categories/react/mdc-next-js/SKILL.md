@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for Next.js applications, focusing on the `app` directory, Server Components, performance, and maintainability. Follow these rules to build robust, scalable, and performant Next.js projects.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-next-js
+description: "This guide defines definitive best practices for Next.js applications, focusing on the `app` directory, Server Components, performance, and maintainability. Follow these rules to build robust, scal..."
+license: MIT
+tags: [react]
 ---
+
 # next-js Best Practices
 
 This document outlines the definitive best practices for developing Next.js applications. Adhering to these guidelines ensures consistent, performant, and maintainable code, leveraging Next.js's strengths for modern web development.

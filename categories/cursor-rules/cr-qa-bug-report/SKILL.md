@@ -1,9 +1,10 @@
 ---
 name: cr-qa-bug-report
-description: Cursor rules for qa-bug-report
-domain: engineering
+description: "Cursor rules for qa-bug-report"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -152,4 +153,4 @@ Adapt the bug report structure based on:
 - Severity/priority scoring systems relevant to the project
 
 When creating bug reports, assess which details are most relevant to the specific issue
-and prioritize including information that will be most helpful for reproduction and resolution. 
+and prioritize including information that will be most helpful for reproduction and resolution.

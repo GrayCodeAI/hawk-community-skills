@@ -1,61 +1,9 @@
-# Neon + Astro Integration Setup Guide
-
-This guide provides step-by-step instructions for integrating Neon serverless Postgres with an Astro application.
-
-## Prerequisites
-- Node.js and npm installed
-- Astro project initialized with SSR enabled
-- Neon account and project created
-
-## Installation
-
-1. Install required dependencies:
-```bash
-npm install @neondatabase/serverless
-```
-
-## Configuration
-
-1. Create a `.env` file in your project root:
-```env
-DATABASE_URL=postgresql://<user>:<password>@<endpoint>.neon.tech/<dbname>?sslmode=require
-```
-
-2. Create a database configuration file `src/lib/db.ts`:
-```typescript
-import { neon } from '@neondatabase/serverless';
-
-const sql = neon(import.meta.env.DATABASE_URL!);
-
-export { sql };
-```
-
-## Usage Examples
-
-### Basic Database Operations
-```astro
 ---
-// src/pages/users.astro
-import { sql } from '../lib/db';
-
-interface User {
-  id: number;
-  name: string;
-  email: string;
-}
-
-let users: User[] = [];
-let error: string | null = null;
-
-try {
-  users = await sql<User[]>`
-    SELECT id, name, email
-    FROM users
-    ORDER BY name ASC
-  `;
-} catch (e: any) {
-  error = e.message;
-}
+name: inst-setup-neon-astro
+description: 'Skill: inst-setup-neon-astro'
+license: MIT
+tags:
+- general
 ---
 
 <div>
@@ -257,4 +205,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Astro Documentation](https://docs.astro.build)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

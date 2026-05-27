@@ -1,3 +1,10 @@
+---
+name: ls-txeicld5g_ai_song_maker
+description: "Skill: ls-txeicld5g_ai_song_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-txEiClD5G-ai-song-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-mUUUHpvvTJyQrL2ccIfgXXGh?se=2123-12-30T02%3A14%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D03d7c1ef-165a-4444-9b25-e535cc01f356.png&sig=i8VHBGFjluRk%2BQ%2BWlHsGm1Ktu%2BPk2RKHxc0o5M%2B5KM8%3D" width="100px" />

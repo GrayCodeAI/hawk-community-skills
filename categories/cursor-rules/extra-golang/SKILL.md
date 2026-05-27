@@ -1,7 +1,9 @@
 ---
-description: golang 编码规则和最佳实践。
-globs: **/*.go
-alwaysApply: false
+name: extra-golang
+description: "golang 编码规则和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Golang 规则

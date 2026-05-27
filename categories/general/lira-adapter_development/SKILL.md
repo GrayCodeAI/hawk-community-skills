@@ -1,3 +1,10 @@
+---
+name: lira-adapter_development
+description: "Skill: lira-adapter_development"
+license: MIT
+tags: [general]
+---
+
 # Adapter Development Guide
 
 This guide provides detailed instructions for creating new AI app adapters for the `agent-rules` project.

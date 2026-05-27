@@ -1,7 +1,10 @@
 ---
-description: Sets the overall tone and approach for the AI, emphasizing following instructions, step-by-step planning, and code quality.
-globs: **/*.*
+name: mdc-general-project-behavior-rule
+description: "Sets the overall tone and approach for the AI, emphasizing following instructions, step-by-step planning, and code quality."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Follow the user's requirements carefully & to the letter.
 - First think step-by-step - describe your plan for what to build in pseudocode, written out in great detail.
 - Confirm, then write code!

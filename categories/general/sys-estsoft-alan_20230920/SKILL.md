@@ -1,3 +1,10 @@
+---
+name: sys-estsoft-alan_20230920
+description: "Skill: sys-estsoft-alan_20230920"
+license: MIT
+tags: [general]
+---
+
 # ESTsoft-alan_20230920
 
 source: onetop4458<https://github.com/jujumilk3/leaked-system-prompts/pull/10>

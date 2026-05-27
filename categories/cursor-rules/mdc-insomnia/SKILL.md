@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for using Insomnia IDE, focusing on modern API testing, collaboration, and CI/CD integration as of 2025.
-globs: **/*
+name: mdc-insomnia
+description: "This guide provides opinionated, actionable best practices for using Insomnia IDE, focusing on modern API testing, collaboration, and CI/CD integration as of 2025."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Insomnia Best Practices (2025)
 
 Insomnia is your primary tool for API interaction, debugging, and automated testing. This guide outlines the definitive best practices for leveraging Insomnia in our API-first development pipeline, emphasizing source control, AI assistance, and CI/CD integration.

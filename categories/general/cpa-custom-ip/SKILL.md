@@ -1,3 +1,10 @@
+---
+name: cpa-custom-ip
+description: "Skill: cpa-custom-ip"
+license: MIT
+tags: [general]
+---
+
 # az network custom-ip
 
 ```bash

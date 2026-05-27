@@ -1,9 +1,10 @@
 ---
 name: cr-linux-nvidia-cuda-python
-description: Cursor rules for linux-nvidia-cuda-python
-domain: engineering
+description: "Cursor rules for linux-nvidia-cuda-python"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -33,4 +34,3 @@ author: PatrickJS/awesome-cursorrules
   - **Feedback**: Actively seek feedback on the app's functionality and user experience.  
   - **Enhancements**: Suggest improvements that could make the app more efficient or user-friendly, ensuring any changes maintain the app's core principles.  
   - **Documentation of Changes**: Clearly document any enhancements, bug fixes, or changes made during development to ensure transparency and maintainability.
-

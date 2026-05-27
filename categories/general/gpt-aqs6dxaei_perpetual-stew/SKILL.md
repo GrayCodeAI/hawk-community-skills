@@ -1,3 +1,10 @@
+---
+name: gpt-aqs6dxaei_perpetual-stew
+description: "Skill: gpt-aqs6dxaei_perpetual-stew"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AQS6DXAEi-perpetual-stew
 
 GPT Title: Perpetual Stew

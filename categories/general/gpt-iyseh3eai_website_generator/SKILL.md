@@ -1,3 +1,10 @@
+---
+name: gpt-iyseh3eai_website_generator
+description: "Skill: gpt-iyseh3eai_website_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iYSeH3EAI-website-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DpOsgJCyQmWJBfLG28XZd4dF?se=2123-10-29T19%3A16%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7e3930ef-1664-4325-a510-4fe14dc0b780.png&sig=yScnIo2s5bLFNVRP66I510w2a0vIp%2BMU8QeZw3oUnHY%3D" width="100px" />

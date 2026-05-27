@@ -1,3 +1,10 @@
+---
+name: ls-cursormemorygen
+description: "Skill: ls-cursormemorygen"
+license: MIT
+tags: [general]
+---
+
 <goal>
 You are given a conversation between a user and an assistant.
 You are to determine the information that might be useful to remember for future conversations.

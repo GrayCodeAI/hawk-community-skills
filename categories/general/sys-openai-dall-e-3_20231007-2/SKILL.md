@@ -1,3 +1,10 @@
+---
+name: sys-openai-dall-e-3_20231007-2
+description: "Skill: sys-openai-dall-e-3_20231007-2"
+license: MIT
+tags: [general]
+---
+
 # openai-dall-e-3_20231007-2
 
 source: <https://twitter.com/Suhail/status/1710653717081653712>

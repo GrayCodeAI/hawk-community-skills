@@ -1,6 +1,8 @@
 ---
+name: ghcp-agents-csharp-mcp-expert.agent
 description: "Expert assistant for developing Model Context Protocol (MCP) servers in C#"
-name: "C# MCP Server Expert"
+license: MIT
+tags: [general]
 model: GPT-4.1
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ls-qogfkdkgu_mad_art
+description: "Skill: ls-qogfkdkgu_mad_art"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qogfkDKgU-mad-art
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lgac0wPD339pMz2UYVGfFu6X?se=2123-10-19T02%3A04%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252020.02.30%2520-%2520A%2520Mad%2520magazine-style%2520comic%2520book%2520cover%2520art%2520satirizing%2520today%2527s%2520technology.%2520The%2520cover%2520features%2520exaggerated%2520caricatures%2520of%2520people%2520of%2520various%2520descents%252C%2520hum.png&sig=UspNE2tFeECwdILo3vSeewtmm6StC806rjBQdXsHKwg%3D" width="100px" />

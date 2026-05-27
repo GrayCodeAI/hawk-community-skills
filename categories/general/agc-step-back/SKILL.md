@@ -1,6 +1,8 @@
 ---
-name: step-back
-description: Use when you suspect the current approach is over-engineered, over-abstracted, or solving an imagined problem rather than the real one. Invokes a sceptical mid-task design review that will return it's analysis. Read-only - won't make changes.
+name: agc-step-back
+description: "Use when you suspect the current approach is over-engineered, over-abstracted, or solving an imagined problem rather than the real one. Invokes a sceptical mid-task design review that will return i..."
+license: MIT
+tags: [general]
 tools: Read, Grep, Glob
 model: inherit
 memory: project

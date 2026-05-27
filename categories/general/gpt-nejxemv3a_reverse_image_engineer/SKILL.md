@@ -1,3 +1,10 @@
+---
+name: gpt-nejxemv3a_reverse_image_engineer
+description: "Skill: gpt-nejxemv3a_reverse_image_engineer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nEJXemV3A-reverse-image-engineer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nWtE6TKFqEAdI1xaJKzhHkxc?se=2123-10-25T04%3A21%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D45ddc59d-9c3c-433f-8c36-adf1165b1a0d.png&sig=d9K4wkkPTThJPgzyXjTm/lm3GbLFDiyKtXoB9%2BKzkpc%3D" width="100px" />

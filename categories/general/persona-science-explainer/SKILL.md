@@ -1,9 +1,10 @@
 ---
 name: persona-science-explainer
-description: AI persona - science-explainer
-domain: general
+description: "AI persona - science-explainer"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

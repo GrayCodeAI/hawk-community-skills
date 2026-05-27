@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing React apps with Clerk Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-clerk-react
+description: "Guidelines for writing React apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap React App with Clerk Authentication
@@ -156,4 +158,4 @@ When asked about Clerk React implementation, you MUST:
 4. ALWAYS handle loading states
 5. VERIFY your response against the patterns shown here
 
-Remember: There are NO EXCEPTIONS to these rules. 
+Remember: There are NO EXCEPTIONS to these rules.

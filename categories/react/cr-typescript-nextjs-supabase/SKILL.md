@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-nextjs-supabase
-description: Cursor rules for typescript-nextjs-supabase
-domain: engineering
+description: "Cursor rules for typescript-nextjs-supabase"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -83,4 +84,3 @@ You are an expert in TypeScript, Node.js, Next.js App Router, React, Shadcn UI, 
 - Use Next.js 14's metadata API for SEO optimization.
 
 **Follow Next.js docs for Data Fetching, Rendering, and Routing.**
-

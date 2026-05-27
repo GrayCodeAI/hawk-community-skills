@@ -1,3 +1,10 @@
+---
+name: cpa-k8s-extension
+description: "Skill: cpa-k8s-extension"
+license: MIT
+tags: [general]
+---
+
 # az k8s-extension
 
 ```bash

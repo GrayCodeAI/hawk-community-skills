@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for writing robust, maintainable, and readable unit tests using Mockito with JUnit 5, focusing on modern patterns and common pitfalls.
-globs: **/*.java
+name: mdc-mockito
+description: "This guide provides definitive best practices for writing robust, maintainable, and readable unit tests using Mockito with JUnit 5, focusing on modern patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Mockito Best Practices
 
 Mockito is the indispensable mocking framework for Java unit testing. Adhere to these guidelines to ensure your tests are clear, reliable, and resistant to refactoring.

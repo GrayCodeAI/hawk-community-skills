@@ -1,3 +1,10 @@
+---
+name: gpt-znk2nmnue_beautify_your_selfie
+description: "Skill: gpt-znk2nmnue_beautify_your_selfie"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-znk2NMnUe-beautify-your-selfie
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-QbjgUho4u7GhM20KRVI4xWTN?se=2123-12-22T06%3A14%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D76276d56-cb50-4edd-905c-7a57d22a4109.png&sig=Flk4UKWruVew8ZLhwSRNnNQM2qG/jxyGbfeNz4XB9es%3D" width="100px" />

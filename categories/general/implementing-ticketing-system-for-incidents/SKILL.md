@@ -1,17 +1,14 @@
 ---
 name: implementing-ticketing-system-for-incidents
-description: >
-  Implements an integrated incident ticketing system connecting SIEM alerts to ServiceNow, Jira,
-  or TheHive for structured incident tracking, SLA management, escalation workflows, and compliance
-  documentation. Use when SOC teams need formalized incident lifecycle management with automated
-  ticket creation, assignment routing, and resolution tracking.
+description: "Implements an integrated incident ticketing system connecting SIEM alerts to ServiceNow, Jira, or TheHive for structured incident tracking, SLA management, escalation workflows, and compliance docu..."
+license: MIT
+tags: [soc, ticketing, servicenow, jira, thehive, incident-management, sla, workflow]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, ticketing, servicenow, jira, thehive, incident-management, sla, workflow]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Ticketing System for Incidents
 
 ## When to Use

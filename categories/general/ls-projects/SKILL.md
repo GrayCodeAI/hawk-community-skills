@@ -1,3 +1,10 @@
+---
+name: ls-projects
+description: "Skill: ls-projects"
+license: MIT
+tags: [general]
+---
+
 # Projects
 
 All projects list

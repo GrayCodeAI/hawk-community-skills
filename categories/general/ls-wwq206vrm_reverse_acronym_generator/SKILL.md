@@ -1,3 +1,10 @@
+---
+name: ls-wwq206vrm_reverse_acronym_generator
+description: "Skill: ls-wwq206vrm_reverse_acronym_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wWq206vRm-reverse-acronym-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-W7cGG6nlm8TD6WElMzPWpTfA?se=2123-12-30T15%3A14%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-23%252012.13.59%2520-%2520A%2520more%2520formal%2520and%2520abstract%2520representation%2520of%2520the%2520concept%2520of%2520reverse%2520acronyms.%2520The%2520image%2520depicts%2520a%2520series%2520of%2520letters%2520floating%2520in%2520an%2520organized%2520manner%2520ar.png&sig=40oV/8UamFNDBWf6UcvJfGAmyK1atEkeG9%2BvuPYRjkk%3D" width="100px" />

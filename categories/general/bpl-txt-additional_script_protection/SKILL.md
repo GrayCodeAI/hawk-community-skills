@@ -1,9 +1,10 @@
 ---
-name: bpl-additional_script_protection
-description: System prompt - additional_script_protection
-domain: general
+name: bpl-txt-additional_script_protection
+description: "System prompt - additional_script_protection"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,6 +1,8 @@
 ---
-name: playwright-generate-test
-description: 'Generate a Playwright test based on a scenario using Playwright MCP'
+name: copilot-playwright-generate-test
+description: "Generate a Playwright test based on a scenario using Playwright MCP"
+license: MIT
+tags: [general]
 ---
 
 # Test Generation with Playwright MCP

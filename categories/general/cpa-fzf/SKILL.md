@@ -1,3 +1,10 @@
+---
+name: cpa-fzf
+description: "Skill: cpa-fzf"
+license: MIT
+tags: [general]
+---
+
 # az fzf
 
 ```bash

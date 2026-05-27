@@ -1,17 +1,14 @@
 ---
-name: golang-configuration
-description: Load and validate application configuration from environment variables and config files. Use when managing Go application config with environment variables or viper.
-metadata:
-  triggers:
-    files:
-    - 'configs/**'
-    - 'cmd/**'
-    keywords:
-    - configuration
-    - env var
-    - viper
-    - koanf
+name: std-golang-configuration
+description: "Load and validate application configuration from environment variables and config files. Use when managing Go application config with environment variables or viper."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang Configuration
 
 ## **Priority: P1 (STANDARD)**

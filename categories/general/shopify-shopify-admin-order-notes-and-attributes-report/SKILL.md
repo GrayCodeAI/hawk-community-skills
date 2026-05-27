@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-order-notes-and-attributes-report
-role: order-intelligence
+name: shopify-shopify-admin-order-notes-and-attributes-report
 description: "Read-only: extracts and tabulates order notes and custom attributes for ops review of gift messages and special instructions."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

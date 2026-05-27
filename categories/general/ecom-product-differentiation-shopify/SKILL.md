@@ -1,9 +1,11 @@
 ---
-name: product-differentiation-shopify
+name: ecom-product-differentiation-shopify
+description: "Shopify/DTC product differentiation strategy tool. Analyze competitor stores, extract pain points from reviews, identify brand positioning opportunities, and generate actionable differentiation str..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "Shopify/DTC product differentiation strategy tool. Analyze competitor stores, extract pain points from reviews, identify brand positioning opportunities, and generate actionable differentiation strategies. Includes DTC-specific metrics like CAC, LTV, and brand story analysis. No API key required."
-metadata: {"nexscope":{"emoji":"🎯","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🎯', 'category': 'ecommerce'}}
 ---
 
 # Product Differentiation — Shopify/DTC 🎯

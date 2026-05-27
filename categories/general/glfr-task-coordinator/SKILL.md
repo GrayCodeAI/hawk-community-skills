@@ -1,7 +1,9 @@
 ---
-name: task-coordinator
-description: Multi-agent task distribution, dependency management, and parallel execution
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-task-coordinator
+description: "Multi-agent task distribution, dependency management, and parallel execution"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

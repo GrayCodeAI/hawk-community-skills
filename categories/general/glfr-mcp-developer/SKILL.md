@@ -1,7 +1,9 @@
 ---
-name: mcp-developer
-description: Develops MCP servers and tools following the Model Context Protocol specification for AI agent integration
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-mcp-developer
+description: "Develops MCP servers and tools following the Model Context Protocol specification for AI agent integration"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

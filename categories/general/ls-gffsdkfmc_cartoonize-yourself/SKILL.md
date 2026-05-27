@@ -1,3 +1,10 @@
+---
+name: ls-gffsdkfmc_cartoonize-yourself
+description: "Skill: ls-gffsdkfmc_cartoonize-yourself"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gFFsdkfMC-cartoonize-yourself
 
 GPT Title: Cartoonize Yourself

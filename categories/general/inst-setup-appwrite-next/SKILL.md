@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Next.js 14 apps with Appwrite
-globs: src/**/*.ts, src/**/*.tsx
+name: inst-setup-appwrite-next
+description: "Guidelines for writing Next.js 14 apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + Next.js 14 Integration Setup Guide
@@ -449,4 +451,4 @@ export function handleError(error: any, customMessage = 'Operation failed') {
   }
   
   throw new AppwriteError(customMessage, error);
-} 
+}

@@ -1,6 +1,8 @@
 ---
-description: 'Require Azure IoT Edge documentation review before proposing edge IoT architectures or Azure implementation guidance.'
-applyTo: '**/*.bicep,**/*.tf,**/*iot*.md,**/*smart-city*.md,**/*edge*.md'
+name: ghcp-instructions-azure-iot-edge-architecture.in
+description: "Skill: ghcp-instructions-azure-iot-edge-architecture.in"
+license: MIT
+tags: [general]
 ---
 
 ## Azure IoT Edge Architecture Instruction

@@ -1,15 +1,12 @@
 ---
 name: securing-api-gateway-with-aws-waf
-description: >
-  Securing API Gateway endpoints with AWS WAF by configuring managed rule groups for
-  OWASP Top 10 protection, creating custom rate limiting rules, implementing bot control,
-  setting up IP reputation filtering, and monitoring WAF metrics for security effectiveness.
+description: "Securing API Gateway endpoints with AWS WAF by configuring managed rule groups for OWASP Top 10 protection, creating custom rate limiting rules, implementing bot control, setting up IP reputation f..."
+license: MIT
+tags: [cloud-security, aws, waf, api-gateway, rate-limiting, bot-protection, owasp]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [cloud-security, aws, waf, api-gateway, rate-limiting, bot-protection, owasp]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Securing API Gateway with AWS WAF

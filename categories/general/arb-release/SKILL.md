@@ -1,3 +1,10 @@
+---
+name: arb-release
+description: "Skill: arb-release"
+license: MIT
+tags: [general]
+---
+
 # Release Process
 
 ## Goal

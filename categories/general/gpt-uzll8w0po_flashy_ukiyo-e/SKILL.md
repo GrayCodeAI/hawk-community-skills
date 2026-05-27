@@ -1,3 +1,10 @@
+---
+name: gpt-uzll8w0po_flashy_ukiyo-e
+description: "Skill: gpt-uzll8w0po_flashy_ukiyo-e"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uzll8W0po-flashy-ukiyo-e
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CNa1zRIQnALkT9B1G1Gg2jVZ?se=2123-12-14T15%3A35%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-07%252023.51.14%2520-%2520A%2520Ukiyo-e%2520style%2520artwork%2520depicting%2520a%2520general%2520wearing%2520armor%2520that%2520resembles%2520a%2520demon%252C%2520using%2520vivid%2520and%2520bold%2520colors%2520in%2520the%2520style%2520of%2520Utagawa%2520Kuniyoshi.%2520The%2520g.png&sig=anydkwToy1Xgo8I2R5JCOiZcwvdyOrG0AFrwDmq8Ccs%3D" width="100px" />

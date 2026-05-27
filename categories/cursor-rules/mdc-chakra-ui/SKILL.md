@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for using Chakra UI effectively, focusing on token-first theming, responsive design, component architecture, and performance for React 18+ applications.
-globs: **/*
+name: mdc-chakra-ui
+description: "This guide provides opinionated, actionable best practices for using Chakra UI effectively, focusing on token-first theming, responsive design, component architecture, and performance for React 18+..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # chakra-ui Best Practices
 
 Chakra UI is our definitive choice for building accessible, design-system-driven React applications. Adhere to these guidelines for a consistent, maintainable, and performant codebase.

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-overview
+description: "Skill: ghcp-references-evaluators-overview"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: Overview
 
 When and how to build automated evaluators.

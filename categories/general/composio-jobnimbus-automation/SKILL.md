@@ -1,8 +1,10 @@
 ---
-name: jobnimbus-automation
+name: composio-jobnimbus-automation
 description: "Automate Jobnimbus tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Jobnimbus Automation via Rube MCP

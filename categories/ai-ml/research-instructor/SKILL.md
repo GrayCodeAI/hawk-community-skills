@@ -1,10 +1,10 @@
 ---
-name: instructor
-description: Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle-tested structured output library
+name: research-instructor
+description: "Extract structured data from LLM responses with Pydantic validation, retry failed extractions automatically, parse complex JSON with type safety, and stream partial results with Instructor - battle..."
+license: MIT
+tags: [prompt-engineering, instructor, structured-output, pydantic, data-extraction, json-parsing, type-safety, validation, streaming, openai, anthropic]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Prompt Engineering, Instructor, Structured Output, Pydantic, Data Extraction, JSON Parsing, Type Safety, Validation, Streaming, OpenAI, Anthropic]
 dependencies: [instructor, pydantic, openai, anthropic]
 ---
 
@@ -736,5 +736,3 @@ class PartialData(BaseModel):
 - `references/validation.md` - Advanced validation patterns
 - `references/providers.md` - Provider-specific configuration
 - `references/examples.md` - Real-world use cases
-
-

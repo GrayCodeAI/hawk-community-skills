@@ -1,8 +1,10 @@
 ---
-name: route4me-automation
+name: composio-route4me-automation
 description: "Automate Route4me tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Route4me Automation via Rube MCP

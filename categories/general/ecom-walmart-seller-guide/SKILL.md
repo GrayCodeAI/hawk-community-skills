@@ -1,3 +1,10 @@
+---
+name: ecom-walmart-seller-guide
+description: "Skill: ecom-walmart-seller-guide"
+license: MIT
+tags: [general]
+---
+
 # Walmart Seller Guide
 
 Complete guide for selling on Walmart Marketplace. Covers application, listing optimization, Walmart SEO, WFS fulfillment, advertising, and scaling on America second-largest marketplace.

@@ -1,6 +1,8 @@
 ---
-name: nuget-manager
-description: 'Manage NuGet packages in .NET projects/solutions. Use this skill when adding, removing, or updating NuGet package versions. It enforces using `dotnet` CLI for package management and provides strict procedures for direct file edits only when updating versions.'
+name: copilot-nuget-manager
+description: "Manage NuGet packages in .NET projects/solutions. Use this skill when adding, removing, or updating NuGet package versions. It enforces using `dotnet` CLI for package management and provides strict..."
+license: MIT
+tags: [general]
 ---
 
 # NuGet Manager

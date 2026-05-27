@@ -1,79 +1,11 @@
 ---
-name: perf-astro
-description: 'Astro-specific performance optimizations for 95+ Lighthouse scores. Covers critical CSS inlining, compression, font loading, and LCP optimization. Use when optimizing Astro site performance, improving Astro Lighthouse scores, or configuring astro-critters. Do NOT use for non-Astro sites (use perf-web-optimization or core-web-vitals) or running Lighthouse audits (use perf-lighthouse).'
----
-
-# Astro Performance Playbook
-
-Astro-specific optimizations for 95+ Lighthouse scores.
-
-## Quick Setup
-
-```bash
-npm install astro-critters @playform/compress
-```
-
-```js
-// astro.config.mjs
-import { defineConfig } from 'astro/config'
-import critters from 'astro-critters'
-import compress from '@playform/compress'
-
-export default defineConfig({
-  integrations: [
-    critters(),
-    compress({
-      CSS: true,
-      HTML: true,
-      JavaScript: true,
-      Image: false,
-      SVG: false,
-    }),
-  ],
-})
-```
-
-## Integrations
-
-### astro-critters
-
-Automatically extracts and inlines critical CSS. No configuration needed.
-
-What it does:
-
-- Scans rendered HTML for above-the-fold elements
-- Inlines only the CSS those elements need
-- Lazy-loads the rest
-
-Build output shows what it inlined:
-
-```
-Inlined 40.70 kB (80% of original 50.50 kB) of _astro/index.xxx.css.
-```
-
-### @playform/compress
-
-Minifies HTML, CSS, and JavaScript in the final build.
-
-Options:
-
-```js
-compress({
-  CSS: true, // Minify CSS
-  HTML: true, // Minify HTML
-  JavaScript: true, // Minify JS
-  Image: false, // Skip if using external image optimization
-  SVG: false, // Skip if SVGs are already optimized
-})
-```
-
-## Layout Pattern
-
-Structure your `Layout.astro` for performance:
-
-```astro
----
-import '../styles/global.css'
+name: tl-perf-astro
+description: Astro-specific performance optimizations for 95+ Lighthouse scores. Covers
+  critical CSS inlining, compression, font loading, and LCP optimization. Use when
+  optimizing Astro site performance, improv...
+license: MIT
+tags:
+- general
 ---
 
 <!doctype html>

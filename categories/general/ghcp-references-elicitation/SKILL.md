@@ -1,3 +1,10 @@
+---
+name: ghcp-references-elicitation
+description: "Skill: ghcp-references-elicitation"
+license: MIT
+tags: [general]
+---
+
 # Elicitation
 
 Elicitation lets a tool **ask the user for input mid-execution**, via the client. The LLM doesn't see the question; the client surfaces it directly to the user. This turns one-shot tool calls into interactive flows — collecting confirmation, missing parameters, credentials (URL mode), etc.

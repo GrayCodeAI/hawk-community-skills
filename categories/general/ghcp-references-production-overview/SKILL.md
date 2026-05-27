@@ -1,3 +1,10 @@
+---
+name: ghcp-references-production-overview
+description: "Skill: ghcp-references-production-overview"
+license: MIT
+tags: [general]
+---
+
 # Production: Overview
 
 CI/CD evals vs production monitoring - complementary approaches.

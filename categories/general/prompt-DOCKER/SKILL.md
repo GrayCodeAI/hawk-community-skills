@@ -1,3 +1,10 @@
+---
+name: prompt-DOCKER
+description: "Skill: prompt-DOCKER"
+license: MIT
+tags: [general]
+---
+
 # Docker Deployment Guide
 
 Run your own prompts.chat instance using Docker Compose.

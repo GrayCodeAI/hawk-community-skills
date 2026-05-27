@@ -1,12 +1,8 @@
 ---
-name: JavaScript Language Patterns
-description: Modern JavaScript (ES2022+) patterns for clean, maintainable code.
-metadata:
-  labels: [javascript, language, es6, modern-js]
-  triggers:
-    files: ['**/*.js', '**/*.mjs', '**/*.cjs']
-    keywords:
-      [const, let, arrow, async, await, promise, destructuring, spread, class]
+name: std-language
+description: "Skill: std-language"
+license: MIT
+tags: [general]
 ---
 
 # JavaScript Language Patterns

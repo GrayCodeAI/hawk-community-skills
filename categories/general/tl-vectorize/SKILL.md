@@ -1,3 +1,10 @@
+---
+name: tl-vectorize
+description: "Skill: tl-vectorize"
+license: MIT
+tags: [general]
+---
+
 # Vectorize Gotchas
 
 ## Critical Warnings

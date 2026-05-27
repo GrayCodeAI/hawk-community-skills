@@ -1,12 +1,12 @@
 ---
 name: performing-memory-forensics-with-volatility3
-description: Analyze volatile memory dumps using Volatility 3 to extract running processes, network connections, loaded modules, and evidence of malicious activity.
+description: "Analyze volatile memory dumps using Volatility 3 to extract running processes, network connections, loaded modules, and evidence of malicious activity."
+license: MIT
+tags: [forensics, memory-forensics, volatility, ram-analysis, malware-detection, incident-response]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, memory-forensics, volatility, ram-analysis, malware-detection, incident-response]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Memory Forensics with Volatility 3

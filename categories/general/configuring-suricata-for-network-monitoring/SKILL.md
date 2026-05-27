@@ -1,16 +1,14 @@
 ---
 name: configuring-suricata-for-network-monitoring
-description: >
-  Deploys and configures Suricata IDS/IPS with Emerging Threats rulesets, EVE JSON
-  logging, and custom rules for real-time network traffic inspection, threat detection,
-  and integration with SIEM platforms for centralized security monitoring.
+description: "Deploys and configures Suricata IDS/IPS with Emerging Threats rulesets, EVE JSON logging, and custom rules for real-time network traffic inspection, threat detection, and integration with SIEM plat..."
+license: MIT
+tags: [network-security, suricata, ids, ips, network-monitoring]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, suricata, ids, ips, network-monitoring]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Configuring Suricata for Network Monitoring
 
 ## When to Use

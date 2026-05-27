@@ -1,10 +1,10 @@
 ---
-name: simpo-training
-description: Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better performance (+6.4 points on AlpacaEval 2.0). No reference model needed, more efficient than DPO. Use for preference alignment when want simpler, faster training than DPO/PPO.
+name: research-simpo
+description: "Simple Preference Optimization for LLM alignment. Reference-free alternative to DPO with better performance (+6.4 points on AlpacaEval 2.0). No reference model needed, more efficient than DPO. Use ..."
+license: MIT
+tags: [post-training, simpo, preference-optimization, alignment, dpo-alternative, reference-free, llm-alignment, efficient-training]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Post-Training, SimPO, Preference Optimization, Alignment, DPO Alternative, Reference-Free, LLM Alignment, Efficient Training]
 dependencies: [torch, transformers, datasets, trl, accelerate]
 ---
 
@@ -214,6 +214,3 @@ gradient_checkpointing: true
 - GitHub: https://github.com/princeton-nlp/SimPO
 - Models: https://huggingface.co/princeton-nlp
 - Alignment Handbook: https://github.com/huggingface/alignment-handbook
-
-
-

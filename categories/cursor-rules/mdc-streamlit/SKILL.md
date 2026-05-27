@@ -1,7 +1,10 @@
 ---
-description: Enforce modern, performant, and maintainable Streamlit development practices, focusing on caching, modularity, and robust dependency management.
-globs: **/*.py
+name: mdc-streamlit
+description: "Enforce modern, performant, and maintainable Streamlit development practices, focusing on caching, modularity, and robust dependency management."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Streamlit Best Practices
 
 This guide outlines the definitive best practices for building robust, performant, and maintainable Streamlit applications. Adhere to these rules to ensure your apps are efficient, scalable, and easy to collaborate on.

@@ -1,6 +1,8 @@
 ---
-name: speckit-updater
-description: SpecKit Safe Update
+name: ag-speckit-updater
+description: "SpecKit Safe Update"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

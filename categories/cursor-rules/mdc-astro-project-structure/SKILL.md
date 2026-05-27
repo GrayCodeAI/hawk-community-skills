@@ -1,7 +1,10 @@
 ---
-description: Enforce the recommended Astro project structure.
-globs: astro.config.mjs
+name: mdc-astro-project-structure
+description: "Enforce the recommended Astro project structure."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Astro Project Structure
 
 - Use the recommended Astro project structure:

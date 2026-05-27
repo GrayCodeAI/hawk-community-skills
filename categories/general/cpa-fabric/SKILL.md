@@ -1,3 +1,10 @@
+---
+name: cpa-fabric
+description: "Skill: cpa-fabric"
+license: MIT
+tags: [general]
+---
+
 # az fabric
 
 ```bash

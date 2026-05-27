@@ -1,8 +1,10 @@
 ---
-name: callingly-automation
+name: composio-callingly-automation
 description: "Automate Callingly tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Callingly Automation via Rube MCP

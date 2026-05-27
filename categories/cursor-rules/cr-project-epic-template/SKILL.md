@@ -1,9 +1,10 @@
 ---
 name: cr-project-epic-template
-description: Cursor rules for project-epic-template
-domain: engineering
+description: "Cursor rules for project-epic-template"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

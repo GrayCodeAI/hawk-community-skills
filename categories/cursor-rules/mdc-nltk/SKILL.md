@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for writing maintainable, performant, and type-safe NLTK code in Python, emphasizing modern patterns and avoiding common pitfalls.
-globs: **/*.py
+name: mdc-nltk
+description: "This guide provides definitive, actionable best practices for writing maintainable, performant, and type-safe NLTK code in Python, emphasizing modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # `nltk` Best Practices
 
 NLTK remains a cornerstone for classic NLP tasks. Integrate it effectively with modern Python by following these guidelines.

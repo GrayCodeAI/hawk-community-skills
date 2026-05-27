@@ -1,10 +1,10 @@
 ---
-name: moe-training
-description: Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limited compute (5× cost reduction vs dense models), implementing sparse architectures like Mixtral 8x7B or DeepSeek-V3, or scaling model capacity without proportional compute increase. Covers MoE architectures, routing mechanisms, load balancing, expert parallelism, and inference optimization.
+name: research-moe-training
+description: "Train Mixture of Experts (MoE) models using DeepSpeed or HuggingFace. Use when training large-scale models with limited compute (5× cost reduction vs dense models), implementing sparse architecture..."
+license: MIT
+tags: [emerging-techniques, moe, mixture-of-experts, sparse-models, deepspeed, expert-parallelism, mixtral, deepseek, routing, load-balancing, efficient-training]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Emerging Techniques, MoE, Mixture Of Experts, Sparse Models, DeepSpeed, Expert Parallelism, Mixtral, DeepSeek, Routing, Load Balancing, Efficient Training]
 dependencies: [deepspeed, transformers, torch, accelerate]
 ---
 
@@ -522,5 +522,3 @@ def moe_inference(x, model, top_k=2):
 - `references/architectures.md` - MoE model architectures (Mixtral, Switch, DeepSeek-V3)
 - `references/training.md` - Advanced training techniques and optimization
 - `references/inference.md` - Production deployment and serving patterns
-
-

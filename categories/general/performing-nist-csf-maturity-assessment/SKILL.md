@@ -1,13 +1,14 @@
 ---
 name: performing-nist-csf-maturity-assessment
-description: The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024, provides a comprehensive taxonomy for managing cybersecurity risk through six core Functions: Govern, Identify, Protect, Detect, 
+description: "The NIST Cybersecurity Framework (CSF) 2.0, released in February 2024, provides a comprehensive taxonomy for managing cybersecurity risk through six core Functions: Govern, Identify, Protect, Detect,"
+license: MIT
+tags: [compliance, governance, nist, csf, maturity-assessment, risk-management]
 domain: cybersecurity
 subdomain: compliance-governance
-tags: [compliance, governance, nist, csf, maturity-assessment, risk-management]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing NIST CSF Maturity Assessment
 
 ## Overview

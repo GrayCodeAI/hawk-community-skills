@@ -1,3 +1,10 @@
+---
+name: tl-r2-data-catalog
+description: "Skill: tl-r2-data-catalog"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Troubleshooting
 
 Common problems → causes → solutions.

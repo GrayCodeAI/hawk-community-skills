@@ -1,3 +1,10 @@
+---
+name: gpt-lugtwrkdw_lazy_lion_art
+description: "Skill: gpt-lugtwrkdw_lazy_lion_art"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LuGtWRKdW-lazy-lion-art
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jidQMOBPBN4omhtVAy9c1DTA?se=2124-01-20T12%3A38%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc3d73d40-5e3d-42db-9b74-7e24d79a34e5.png&sig=kIltGo%2BXyaIxi6FA1T7SSTrxgjvJt%2BaErco4NrYqFXA%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
-name: bpl-global-future-forecast-2024
-description: System prompt - global-future-forecast-2024
-domain: general
+name: bpl-txt-global-future-forecast-2024
+description: "System prompt - global-future-forecast-2024"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

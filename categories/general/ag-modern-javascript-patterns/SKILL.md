@@ -1,9 +1,11 @@
 ---
-name: modern-javascript-patterns
+name: ag-modern-javascript-patterns
 description: "Comprehensive guide for mastering modern JavaScript (ES6+) features, functional programming patterns, and best practices for writing clean, maintainable, and performant code."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Modern JavaScript Patterns

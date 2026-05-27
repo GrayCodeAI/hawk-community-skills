@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Pillow (Python Imaging Library) effectively, focusing on modern best practices, performance, and maintainability.
-globs: **/*.py
+name: mdc-pillow
+description: "Definitive guidelines for using Pillow (Python Imaging Library) effectively, focusing on modern best practices, performance, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Pillow Best Practices
 
 Pillow is the definitive image processing library for Python. Adhere to these guidelines to ensure your image manipulation code is robust, performant, and maintainable.

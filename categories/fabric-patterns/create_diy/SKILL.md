@@ -1,9 +1,10 @@
 ---
 name: create_diy
-description: Fabric pattern - create_diy
-domain: general
+description: "Fabric pattern - create_diy"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

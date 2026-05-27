@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for developing with scikit-image, ensuring maintainable, performant, and robust image processing code.
-globs: **/*.py
+name: mdc-scikit-image
+description: "This guide defines the definitive best practices for developing with scikit-image, ensuring maintainable, performant, and robust image processing code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # scikit-image Best Practices
 
 This document outlines the mandatory guidelines for all `scikit-image` development within our team. Adhering to these rules ensures consistency, performance, and long-term maintainability of our image processing pipelines.

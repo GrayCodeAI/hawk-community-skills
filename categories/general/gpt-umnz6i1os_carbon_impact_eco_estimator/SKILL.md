@@ -1,3 +1,10 @@
+---
+name: gpt-umnz6i1os_carbon_impact_eco_estimator
+description: "Skill: gpt-umnz6i1os_carbon_impact_eco_estimator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uMnZ6I1oS-carbon-impact-eco-estimator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-q35EbU3XHM3sVebjrfqeYgQZ?se=2123-12-15T18%3A07%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DCarbonImpact.Logo%2520%25281%2529.png&sig=ryXql%2B2j8xWnBXmT8DMcDcI1j75zFDG4m%2BSk0CgVkEU%3D" width="100px" />

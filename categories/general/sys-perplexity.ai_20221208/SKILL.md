@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_20221208
+description: "Skill: sys-perplexity.ai_20221208"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_20221208
 
 source: <https://twitter.com/jmilldotdev/status/1600624362394091523>

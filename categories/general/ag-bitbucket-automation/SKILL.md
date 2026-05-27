@@ -1,9 +1,11 @@
 ---
-name: bitbucket-automation
+name: ag-bitbucket-automation
 description: "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Bitbucket Automation via Rube MCP

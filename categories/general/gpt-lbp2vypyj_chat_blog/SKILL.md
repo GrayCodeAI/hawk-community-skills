@@ -1,3 +1,10 @@
+---
+name: gpt-lbp2vypyj_chat_blog
+description: "Skill: gpt-lbp2vypyj_chat_blog"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lBP2vyPYJ-chat-blog
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TDaQk5OIPXYEcjxw418afybi?se=2124-01-11T14%3A32%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dblog.png&sig=AvT%2BEYqazHFjgIfG8ZbjjacpEFZCtYRLOx2BEjCXzC8%3D" width="100px" />

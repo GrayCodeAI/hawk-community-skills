@@ -1,8 +1,10 @@
 ---
-name: listennotes-automation
+name: composio-listennotes-automation
 description: "Automate Listennotes tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Listennotes Automation via Rube MCP

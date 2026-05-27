@@ -1,3 +1,10 @@
+---
+name: gpt-vcyqffmnq_global_mask_artisan
+description: "Skill: gpt-vcyqffmnq_global_mask_artisan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VCYqFFmNq-global-mask-artisan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jzsu8dJ8rSqJ3Xcg8yaw6Jgw?se=2124-01-06T07%3A17%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc4c889fe-2c46-4464-b07d-503663155c8a.png&sig=hkTAqccDCphZK2HSV5os96Oy7tWoITwWyoi9zI0/6zY%3D" width="100px" />

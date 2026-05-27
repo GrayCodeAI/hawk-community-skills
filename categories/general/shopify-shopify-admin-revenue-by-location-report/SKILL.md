@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-revenue-by-location-report
-role: finance
+name: shopify-shopify-admin-revenue-by-location-report
 description: "Read-only: breaks down revenue by fulfillment location for multi-warehouse P&L and location performance."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - fulfillmentOrders:query
-  - locations:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'fulfillmentOrders': 'query'}, {'locations': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

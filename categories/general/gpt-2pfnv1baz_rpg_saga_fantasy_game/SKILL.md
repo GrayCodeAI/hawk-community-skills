@@ -1,3 +1,10 @@
+---
+name: gpt-2pfnv1baz_rpg_saga_fantasy_game
+description: "Skill: gpt-2pfnv1baz_rpg_saga_fantasy_game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2pfnV1baZ-rpg-saga-fantasy-game
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CQLReuh9qtXJoShiRDMt2Th3?se=2123-11-18T23%3A37%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25201212.png&sig=v2gDabdPj9GrF/lkfQbi1ot9QQqfyjknBShwIIMooVk%3D" width="100px" />

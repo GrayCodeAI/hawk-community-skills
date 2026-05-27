@@ -1,3 +1,10 @@
+---
+name: gpt-peoce9bwx_chadgpt
+description: "Skill: gpt-peoce9bwx_chadgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-peoce9bwx-chadgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-KojpfM7TGdMJRvhOXYGx4IRD?se=2124-01-06T02%3A22%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dgigachad.jpeg&sig=tqJkeJzYVyz1N77IziRBIH5U//LnvX8nkTDocYnROG8%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Auth0 with Svelte
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-rule-auth0-svelte-coding-standards
+description: "Coding Standards & Rules for Auth0 with Svelte"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte developer with expertise in Auth0 integration, TypeScript, and secure authentication practices.
@@ -59,4 +61,4 @@ You are a senior Svelte developer with expertise in Auth0 integration, TypeScrip
 - Use proper caching strategies for tokens
 - Optimize token refresh mechanisms
 - Implement efficient role-based access control
-- Use proper memoization for auth state computations 
+- Use proper memoization for auth state computations

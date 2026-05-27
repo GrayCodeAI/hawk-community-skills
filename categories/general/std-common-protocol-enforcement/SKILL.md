@@ -1,19 +1,13 @@
 ---
-name: common-protocol-enforcement
-description: Enforce Red-Team verification and adversarial protocol audit. Use when verifying tasks, performing self-scans, or checking for protocol violations. Load as composite for all sessions.
-metadata:
-  triggers:
-    keywords:
-    - verify done
-    - protocol check
-    - self-scan
-    - pre-write audit
-    - task complete
-    - audit violations
-    - retrospective
-    - scan
-    - red-team
+name: std-common-protocol-enforcement
+description: "Enforce Red-Team verification and adversarial protocol audit. Use when verifying tasks, performing self-scans, or checking for protocol violations. Load as composite for all sessions."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Protocol Enforcement (Red-Team Verification)
 
 ## **Priority: P0 (CRITICAL)**

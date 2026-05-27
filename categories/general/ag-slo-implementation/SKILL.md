@@ -1,9 +1,11 @@
 ---
-name: slo-implementation
+name: ag-slo-implementation
 description: "Framework for defining and implementing Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # SLO Implementation

@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-vercel-supabase
-description: Cursor rules for nextjs-vercel-supabase
-domain: engineering
+description: "Cursor rules for nextjs-vercel-supabase"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -143,4 +144,3 @@ This workspace contains:
 - a repo that I'm building from: nextjs-template-typescript
 
 nextjs-template-typescript is a template made my Devias Kit Pro herein Devias. I will bring elements in from their repo to mine. So be aware of that, and consider recommending bringing elements in from there as well, and following their coding style and structure.
-

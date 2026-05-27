@@ -1,3 +1,10 @@
+---
+name: ls-encrypting-strings-at-compile-time
+description: "Skill: ls-encrypting-strings-at-compile-time"
+license: MIT
+tags: [general]
+---
+
 # Encrypting Strings at Compile Time
 
 > Thank you to [SpecterOps](https://specterops.io/) for supporting this research and to [Duane](https://twitter.com/subat0mik) and [Matt](https://twitter.com/matterpreter) for proofreading and editing!

@@ -1,3 +1,10 @@
+---
+name: ls-5qhhdsfdj_diagrams-show-me
+description: "Skill: ls-5qhhdsfdj_diagrams-show-me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me
 
 GPT Title: Diagrams: Show Me

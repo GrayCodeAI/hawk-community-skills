@@ -1,16 +1,14 @@
 ---
 name: performing-bandwidth-throttling-attack-simulation
-description: >
-  Simulates bandwidth throttling and network degradation attacks using tc, iperf3, and
-  Scapy in authorized environments to test quality-of-service controls, application
-  resilience, and network monitoring detection of traffic manipulation attacks.
+description: "Simulates bandwidth throttling and network degradation attacks using tc, iperf3, and Scapy in authorized environments to test quality-of-service controls, application resilience, and network monito..."
+license: MIT
+tags: [network-security, bandwidth-throttling, qos, traffic-shaping, network-resilience]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, bandwidth-throttling, qos, traffic-shaping, network-resilience]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Bandwidth Throttling Attack Simulation
 
 ## When to Use

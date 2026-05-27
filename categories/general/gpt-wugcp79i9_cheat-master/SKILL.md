@@ -1,3 +1,10 @@
+---
+name: gpt-wugcp79i9_cheat-master
+description: "Skill: gpt-wugcp79i9_cheat-master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wUGcp79I9-cheat-master
 
 GPT Title: Cheat Master

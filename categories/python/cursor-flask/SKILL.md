@@ -1,16 +1,11 @@
 ---
 name: cursor-flask
-description: Cursor IDE rules for flask
-domain: engineering
+description: "Cursor IDE rules for flask"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Flask: blueprints, error handling, config patterns"
-globs: ["*.py"]
-alwaysApply: true
 ---
 
 # Flask Cursor Rules

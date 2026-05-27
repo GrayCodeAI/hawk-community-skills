@@ -1,6 +1,8 @@
 ---
-name: "init"
+name: arezv-init
 description: "Create a new AgentHub collaboration session with task, agent count, and evaluation criteria."
+license: MIT
+tags: [general]
 command: /hub:init
 ---
 

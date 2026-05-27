@@ -1,3 +1,10 @@
+---
+name: cpa-redisenterprise
+description: "Skill: cpa-redisenterprise"
+license: MIT
+tags: [general]
+---
+
 # az redisenterprise
 
 ```bash

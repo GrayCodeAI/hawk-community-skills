@@ -1,3 +1,10 @@
+---
+name: ls-ruhds8mbd_22.500-plus-best-custom-gpts[v0]
+description: "Skill: ls-ruhds8mbd_22.500-plus-best-custom-gpts[v0]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RuhDS8mbd-22-500-best-custom-gpts
 
 GPT Title: 22.500+ Best Custom GPTs

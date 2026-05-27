@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for building TanStack Start applications'
-applyTo: '**/*.ts, **/*.tsx, **/*.js, **/*.jsx, **/*.css, **/*.scss, **/*.json'
+name: ghcp-instructions-tanstack-start-shadcn-tailwind
+description: "Skill: ghcp-instructions-tanstack-start-shadcn-tailwind"
+license: MIT
+tags: [general]
 ---
 
 # TanStack Start with Shadcn/ui Development Guide

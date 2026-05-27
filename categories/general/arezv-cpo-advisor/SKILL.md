@@ -1,15 +1,16 @@
 ---
-name: "cpo-advisor"
-description: "Product leadership for scaling companies. Product vision, portfolio strategy, product-market fit, and product org design. Use when setting product vision, managing a product portfolio, measuring PMF, designing product teams, prioritizing at the portfolio level, reporting to the board on product, or when user mentions CPO, product strategy, product-market fit, product organization, portfolio prioritization, or roadmap strategy."
+name: arezv-cpo-advisor
+description: "Product leadership for scaling companies. Product vision, portfolio strategy, product-market fit, and product org design. Use when setting product vision, managing a product portfolio, measuring PM..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: cpo-leadership
-  updated: 2026-03-05
-  python-tools: pmf_scorer.py, portfolio_analyzer.py
-  frameworks: pmf-playbook, product-strategy, product-org-design
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: cpo-leadership
+updated: 2026-03-05
+python-tools: pmf_scorer.py, portfolio_analyzer.py
+frameworks: pmf-playbook, product-strategy, product-org-design
 ---
 
 # CPO Advisor

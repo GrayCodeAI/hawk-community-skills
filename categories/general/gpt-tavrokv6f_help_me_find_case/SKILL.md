@@ -1,3 +1,10 @@
+---
+name: gpt-tavrokv6f_help_me_find_case
+description: "Skill: gpt-tavrokv6f_help_me_find_case"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tavrOKV6f-help-me-find-case
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IfynM9AdTamXNfb0ayhtgZTT?se=2124-01-02T04%3A40%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202024-01-25%2520at%252011.32.19%25E2%2580%25AFPM.png&sig=14ppYx1g12rISnFFPKzvvVgNrrFi0TBgAHr4AtP2h8o%3D" width="100px" />

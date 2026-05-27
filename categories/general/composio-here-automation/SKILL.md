@@ -1,8 +1,10 @@
 ---
-name: here-automation
+name: composio-here-automation
 description: "Automate Here tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Here Automation via Rube MCP

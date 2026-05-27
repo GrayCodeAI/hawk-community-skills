@@ -1,3 +1,10 @@
+---
+name: extra-mermaid
+description: "Skill: extra-mermaid"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Mermaid Diagram Generation
 
 Generate Mermaid diagrams for visualizing code structure and relationships.

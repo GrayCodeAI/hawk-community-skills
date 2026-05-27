@@ -1,3 +1,10 @@
+---
+name: ghcp-references-templates
+description: "Skill: ghcp-references-templates"
+license: MIT
+tags: [general]
+---
+
 # Issue Templates
 
 Copy and customize these templates for issue bodies.

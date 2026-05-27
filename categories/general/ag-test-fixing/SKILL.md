@@ -1,9 +1,8 @@
 ---
-name: test-fixing
-description: "Systematically identify and fix all failing tests using smart grouping strategies. Use when explicitly asks to fix tests (\"fix these tests\", \"make tests pass\"), reports test failures (\"tests are failing\", \"test suite is broken\"), or completes implementation and wants tests passing."
-risk: safe
-source: community
-date_added: "2026-02-27"
+name: ag-test-fixing
+description: "Skill: ag-test-fixing"
+license: MIT
+tags: [general]
 ---
 
 # Test Fixing

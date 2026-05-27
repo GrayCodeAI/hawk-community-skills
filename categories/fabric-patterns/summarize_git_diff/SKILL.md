@@ -1,9 +1,10 @@
 ---
 name: summarize_git_diff
-description: Fabric pattern - summarize_git_diff
-domain: general
+description: "Fabric pattern - summarize_git_diff"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
