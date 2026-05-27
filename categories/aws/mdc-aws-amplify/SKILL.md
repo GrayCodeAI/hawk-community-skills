@@ -78,8 +78,8 @@ export const handler = async (event: any) => {
 ✅ **GOOD: Modular functions with shared utilities**
 ```typescript
 // amplify/functions/createUser.ts
-import { createUserInDB } from '../shared/userUtils.js';
-import { sendWelcomeEmail } from '../shared/emailService.js';
+import { createUserInDB } from 'shared/userUtils.js';
+import { sendWelcomeEmail } from 'shared/emailService.js';
 
 export const handler = async (event: any) => {
   const userData = JSON.parse(event.body);
@@ -136,7 +136,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App.tsx';
 import '@aws-amplify/ui-react/styles.css';
 import { Amplify } from 'aws-amplify';
-import outputs from '../amplify_outputs.json'; // Ensure this path is correct
+import outputs from 'amplify_outputs.json'; // Ensure this path is correct
 
 Amplify.configure(outputs);
 
@@ -170,7 +170,7 @@ Use `generateClient` for type-safe data operations. For real-time updates, prefe
 // src/App.tsx (or a data-fetching component)
 import { useEffect, useState } from 'react';
 import { generateClient } from 'aws-amplify/data';
-import type { Schema } from '../amplify/data/resource'; // Import generated types
+import type { Schema } from 'amplify/data/resource'; // Import generated types
 
 const client = generateClient<Schema>();
 

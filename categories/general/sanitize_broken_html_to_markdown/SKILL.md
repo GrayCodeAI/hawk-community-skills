@@ -157,7 +157,7 @@ import docsearch from '@docsearch/js'
 import { useRoute, useRouter } from 'vitepress'
 import type { DefaultTheme } from 'vitepress/theme'
 import { nextTick, onMounted, watch } from 'vue'
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 
 const props = defineProps<{
   algolia: DefaultTheme.AlgoliaSearchOptions
@@ -255,7 +255,7 @@ import { useData } from "vitepress";
 import DPDoc from "./DPDoc.vue";
 import DPHome from "./DPHome.vue";
 import DPPage from "./DPPage.vue";
-import NotFound from "../NotFound.vue";
+import NotFound from "NotFound.vue";
 
 const { page, frontmatter } = useData();
 </script>
@@ -293,7 +293,7 @@ const pageName = computed(() =>
 </template>
 <script lang="ts" setup>
 import { ref } from 'vue'
-import { useFlyout } from '../composables/flyout'
+import { useFlyout } from 'composables/flyout'
 import DPMenu from './DPMenu.vue'
 
 defineProps<{
@@ -908,8 +908,8 @@ html:not(.dark) .VPImage.dark {
 }
 </style><script lang="ts" setup>
 import { computed } from 'vue'
-import { normalizeLink } from '../utils/normalizeLink'
-import { EXTERNAL_URL_RE } from '../utils/shared'
+import { normalizeLink } from 'utils/normalizeLink'
+import { EXTERNAL_URL_RE } from 'utils/shared'
 
 const props = defineProps<{
   tag?: string
@@ -969,10 +969,10 @@ import {
   watchEffect,
   type Ref
 } from 'vue'
-import { pathToFile } from '../utils/pathToFile'
-import { escapeRegExp } from '../utils/shared'
-import { useData } from '../composables/data'
-import { LRUCache } from '../utils/lru'
+import { pathToFile } from 'utils/pathToFile'
+import { escapeRegExp } from 'utils/shared'
+import { useData } from 'composables/data'
+import { LRUCache } from 'utils/lru'
 
 // @ts-ignore
 import localSearchIndex from '@localSearchIndex'
@@ -1936,7 +1936,7 @@ defineProps<{
 }
 </style><script lang="ts" setup>
 import type { DefaultTheme } from 'vitepress/theme'
-import { isActive } from '../utils/shared'
+import { isActive } from 'utils/shared'
 import DPLink from './DPLink.vue'
 import { useData } from 'vitepress';
 
@@ -1999,7 +1999,7 @@ const { page } = useData()
 </style><script setup lang="ts">
 import { inBrowser, useData } from 'vitepress'
 import { computed, provide, watchEffect } from 'vue'
-import { useNav } from '../composables/nav'
+import { useNav } from 'composables/nav'
 import VPNavBar from './DPNavBar.vue'
 import VPNavScreen from './DPNavScreen.vue'
 
@@ -2310,7 +2310,7 @@ import DPFlyout from './DPFlyout.vue'
 // import VPMenuLink from './VPMenuLink.vue'
 import DPSocialLinks from './DPSocialLinks.vue'
 import { useData } from 'vitepress';
-// import { useLangs } from '../composables/langs'
+// import { useLangs } from 'composables/langs'
 
 const { site, theme } = useData()
 // const { localeLinks, currentLang } = useLangs({ correspondingLink: true })
@@ -2491,7 +2491,7 @@ defineEmits<{
 .bottom { top: 12px; left: 0; transform: translateX(4px); }
 </style>
 <script lang="ts" setup>
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 import VPNavBarMenuLink from './DPNavBarMenuLink.vue'
 import VPNavBarMenuGroup from './DPNavBarMenuGroup.vue'
 
@@ -2534,7 +2534,7 @@ const { theme } = useData()
 import type { DefaultTheme } from 'vitepress/theme'
 import { computed } from 'vue'
 import { useData } from 'vitepress'
-import { isActive } from '../utils/shared'
+import { isActive } from 'utils/shared'
 import DPFlyout from './DPFlyout.vue'
 
 const props = defineProps<{
@@ -2575,7 +2575,7 @@ const childrenActive = computed(() => isChildActive(props.item))
 <script lang="ts" setup>
 import type { DefaultTheme } from 'vitepress/theme'
 import { useData } from 'vitepress'
-import { isActive } from '../utils/shared'
+import { isActive } from 'utils/shared'
 import DPLink from './DPLink.vue'
 
 defineProps<{
@@ -3024,7 +3024,7 @@ const provider = __ALGOLIA__ ? 'algolia' : __VP_LOCAL_SEARCH__ ? 'local' : ''
 }
 </style>
 <script lang="ts" setup>
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 import DPSocialLinks from './DPSocialLinks.vue'
 
 const { theme } = useData()
@@ -3251,7 +3251,7 @@ const { site, theme } = useData()
 }
 </style>
 <script lang="ts" setup>
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 import VPNavScreenMenuLink from './DPNavScreenMenuLink.vue'
 import VPNavScreenMenuGroup from './DPNavScreenMenuGroup.vue'
 
@@ -3506,7 +3506,7 @@ const closeScreen = inject('close-screen') as () => void
 }
 </style>
 <script lang="ts" setup>
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 import DPSocialLinks from './DPSocialLinks.vue'
 
 const { theme } = useData()
@@ -3533,7 +3533,7 @@ const { theme } = useData()
 <script lang="ts" setup>
 import { ref, watch } from 'vue'
 import { useRoute } from 'vitepress'
-import { useData } from '../composables/data'
+import { useData } from 'composables/data'
 
 const { theme } = useData()
 const route = useRoute()

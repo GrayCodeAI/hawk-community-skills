@@ -506,8 +506,8 @@ function ProductGrid({ products }) {
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [ui-component-patterns](../ui-component-patterns/SKILL.md): Responsive components
-- [web-accessibility](../web-accessibility/SKILL.md): Consider alongside accessibility
+- [ui-component-patterns](SKILL.md): Responsive components
+- [web-accessibility](SKILL.md): Consider alongside accessibility
 
 ### Tags
 `#responsive` `#mobile-first` `#CSS` `#Flexbox` `#Grid` `#media-query` `#frontend`

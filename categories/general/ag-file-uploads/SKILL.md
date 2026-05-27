@@ -115,7 +115,7 @@ const command = new PutObjectCommand({
 
 Severity: CRITICAL
 
-Situation: User uploads file named "../../../etc/passwd". You use
+Situation: User uploads file named "etc/passwd". You use
 filename directly. File saved outside upload directory.
 System files overwritten.
 

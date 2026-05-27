@@ -91,7 +91,7 @@ module.exports = {
 
 **setup.ts** (global test configuration):
 ```typescript
-import { db } from '../database';
+import { db } from 'database';
 
 // Reset DB before each test
 beforeEach(async () => {
@@ -155,7 +155,7 @@ export function validatePassword(password: string): { valid: boolean; errors: st
 }
 
 // src/__tests__/utils/password.test.ts
-import { validatePassword } from '../../utils/password';
+import { validatePassword } from 'utils/password';
 
 describe('validatePassword', () => {
   it('should accept valid password', () => {
@@ -223,8 +223,8 @@ Write integration tests for API endpoints.
 ```typescript
 // src/__tests__/api/auth.test.ts
 import request from 'supertest';
-import app from '../../app';
-import { db } from '../../database';
+import app from 'app';
+import { db } from 'database';
 
 describe('POST /auth/register', () => {
   it('should register new user successfully', async () => {
@@ -476,7 +476,7 @@ export async function sendVerificationEmail(email: string, token: string): Promi
 }
 
 // src/__tests__/services/emailService.test.ts
-import { sendVerificationEmail } from '../../services/emailService';
+import { sendVerificationEmail } from 'services/emailService';
 
 // Mock fetch
 global.fetch = jest.fn();
@@ -837,8 +837,8 @@ it('should work', async () => {
 - **Compatible platforms**: Claude, ChatGPT, Gemini
 
 ### Related skills
-- [api-design](../api-design/SKILL.md): Design APIs alongside tests
-- [authentication-setup](../authentication/SKILL.md): Test authentication systems
+- [api-design](SKILL.md): Design APIs alongside tests
+- [authentication-setup](SKILL.md): Test authentication systems
 
 ### Tags
 `#testing` `#backend` `#Jest` `#Pytest` `#unit-test` `#integration-test` `#TDD` `#API-test`

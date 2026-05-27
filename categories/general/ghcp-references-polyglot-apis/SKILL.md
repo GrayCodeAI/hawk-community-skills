@@ -26,7 +26,7 @@ var api = builder.AddProject<Projects.CatalogApi>("api")
     .WaitFor(redis);
 
 // Python ML service (FastAPI)
-var ml = builder.AddUvicornApp("ml", "../ml-service", "app:app")
+var ml = builder.AddUvicornApp("ml", "ml-service", "app:app")
     .WithHttpEndpoint(targetPort: 8000)
     .WithVirtualEnvironment()
     .WithReference(redis)
@@ -34,26 +34,26 @@ var ml = builder.AddUvicornApp("ml", "../ml-service", "app:app")
     .WaitFor(redis);
 
 // TypeScript frontend (Vite + React)
-var web = builder.AddViteApp("web", "../frontend")
+var web = builder.AddViteApp("web", "frontend")
     .WithNpmPackageInstallation()
     .WithHttpEndpoint(targetPort: 5173)
     .WithReference(api);
 
 // Go event processor
-var processor = builder.AddGolangApp("processor", "../go-processor")
+var processor = builder.AddGolangApp("processor", "go-processor")
     .WithReference(rabbit)
     .WithReference(mongo)
     .WaitFor(rabbit);
 
 // Java analytics service (Spring Boot)
-var analytics = builder.AddSpringApp("analytics", "../spring-analytics")
+var analytics = builder.AddSpringApp("analytics", "spring-analytics")
     .WithHttpEndpoint(targetPort: 8080)
     .WithReference(mongo)
     .WithReference(rabbit)
     .WaitFor(mongo);
 
 // Rust high-perf worker
-var worker = builder.AddRustApp("worker", "../rust-worker")
+var worker = builder.AddRustApp("worker", "rust-worker")
     .WithReference(redis)
     .WithReference(rabbit)
     .WaitFor(redis);

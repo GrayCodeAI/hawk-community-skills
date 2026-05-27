@@ -112,7 +112,7 @@ Or from within an interactive Copilot session:
 /plugin marketplace browse awesome-copilot
 ```
 
-> **Tip**: You can also browse plugins on this site's [Plugins Directory](../../plugins/) to see descriptions, included agents, and skills before installing.
+> **Tip**: You can also browse plugins on this site's [Plugins Directory]() to see descriptions, included agents, and skills before installing.
 
 ### Browsing in VS Code
 
@@ -224,7 +224,7 @@ This repository (`awesome-copilot`) serves as both a collection of individual re
 
 ### Install Individual Plugins
 
-Browse the [Plugins Directory](../../plugins/) and install specific plugins:
+Browse the [Plugins Directory]() and install specific plugins:
 
 ```bash
 copilot plugin install context-engineering@awesome-copilot
@@ -242,7 +242,7 @@ If you only need a single agent or skill (rather than a full plugin), you can st
 - Copy a skill folder into `.github/skills/`
 - Copy a hook configuration into `.github/hooks/`
 
-See [Using the Copilot Coding Agent](../using-copilot-coding-agent/) for details on this approach.
+See [Using the Copilot Coding Agent]() for details on this approach.
 
 ## Best Practices
 
@@ -257,7 +257,7 @@ See [Using the Copilot Coding Agent](../using-copilot-coding-agent/) for details
 
 **Q: Do plugins work with the coding agent on GitHub.com?**
 
-A: Plugins are specific to GitHub Copilot CLI and the VS Code extension (currently Insiders). For the coding agent on GitHub.com, add agents, skills, and hooks directly to your repository (via a plugin if you prefer!). See [Using the Copilot Coding Agent](../using-copilot-coding-agent/) for details.
+A: Plugins are specific to GitHub Copilot CLI and the VS Code extension (currently Insiders). For the coding agent on GitHub.com, add agents, skills, and hooks directly to your repository (via a plugin if you prefer!). See [Using the Copilot Coding Agent]() for details.
 
 **Q: Can I use plugins and repository-level configuration together?**
 
@@ -277,9 +277,9 @@ A: The plugin's agents, skills, and hooks are removed from Copilot, and any cach
 
 ## Next Steps
 
-- **Browse Plugins**: Explore the [Plugins Directory](../../plugins/) for installable plugin packages
-- **Create Skills**: [Creating Effective Skills](../creating-effective-skills/) — Build skills that can be included in plugins
-- **Build Agents**: [Building Custom Agents](../building-custom-agents/) — Create agents to package in plugins
-- **Add Hooks**: [Automating with Hooks](../automating-with-hooks/) — Configure hooks for plugin automation
+- **Browse Plugins**: Explore the [Plugins Directory]() for installable plugin packages
+- **Create Skills**: [Creating Effective Skills]() — Build skills that can be included in plugins
+- **Build Agents**: [Building Custom Agents]() — Create agents to package in plugins
+- **Add Hooks**: [Automating with Hooks]() — Configure hooks for plugin automation
 
 ---

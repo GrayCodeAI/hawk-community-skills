@@ -54,5 +54,5 @@ Analyze diff + answer:
 
 ## 🔗 References
 
-- **appium-mcp**: [appium-mcp](../../quality-engineering/quality-engineering-appium-mcp/SKILL.md)
+- **appium-mcp**: [appium-mcp](SKILL.md)
 - **Scenario Details**: [scenarios](references/scenarios.md)

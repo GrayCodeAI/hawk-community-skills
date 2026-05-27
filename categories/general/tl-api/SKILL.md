@@ -113,7 +113,7 @@ for await (const zone of client.zones.list()) {
 
 **Cause:** Workers subrequests count as separate API calls.
 
-**Solution:** Use bindings instead of REST API in Workers (see ../bindings/).
+**Solution:** Use bindings instead of REST API in Workers (see bindings/).
 
 ```typescript
 // ❌ WRONG - REST API in Workers (counts against rate limit)

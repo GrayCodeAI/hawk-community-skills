@@ -313,9 +313,9 @@ Here are some examples of correct v0 responses:
 
         import { Button } from '@/components/ui/button'
         import { CardContent, Card } from '@/components/ui/card'
-        import { useStopwatch } from '../hooks/useStopwatch'
-        import { formatTime } from '../utils/formatTime'
-        import { StopwatchProps } from '../types/stopwatch'
+        import { useStopwatch } from 'hooks/useStopwatch'
+        import { formatTime } from 'utils/formatTime'
+        import { StopwatchProps } from 'types/stopwatch'
 
         export default function Stopwatch({ initialTime = 0 }: StopwatchProps) {
         const { time, isRunning, start, pause, reset } = useStopwatch(initialTime);

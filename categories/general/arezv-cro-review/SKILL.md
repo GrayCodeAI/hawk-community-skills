@@ -54,8 +54,8 @@ The pipeline-paranoid operator pressure-tests revenue assumptions. Six questions
 ## Workflow
 
 ```bash
-python ../../../skills/cro-advisor/scripts/revenue_forecast_model.py
-python ../../../skills/cro-advisor/scripts/churn_analyzer.py
+python skills/cro-advisor/scripts/revenue_forecast_model.py
+python skills/cro-advisor/scripts/churn_analyzer.py
 ```
 
 ## Output Format
@@ -103,9 +103,9 @@ python ../../../skills/cro-advisor/scripts/churn_analyzer.py
 
 ## Related
 
-- Agent: [`cs-cro-advisor`](../../agents/cs-cro-advisor.md)
-- Skill: [`cro-advisor`](../../../skills/cro-advisor/SKILL.md)
-- Execution: `../../../../business-growth/`
+- Agent: [`cs-cro-advisor`](cs-cro-advisor.md)
+- Skill: [`cro-advisor`](SKILL.md)
+- Execution: `business-growth/`
 
 ---
 

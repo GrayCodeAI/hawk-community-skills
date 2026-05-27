@@ -225,7 +225,7 @@ export type PostsType = typeof posts;
 ```typescript
 // client: src/client.ts
 import { hc } from 'hono/client';
-import type { PostsType } from '../server/routes/posts';
+import type { PostsType } from 'server/routes/posts';
 
 const client = hc<PostsType>('/api/posts');
 

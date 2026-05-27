@@ -42,4 +42,4 @@ version: 1.0
 - [WCAG 2.1 Quick Reference](https://www.w3.org/WAI/WCAG21/quickref/)
 - [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/)
 - [Deque axe Rules](https://dequeuniversity.com/rules/axe/)
-- [Web Quality Audit](../web-quality-audit/SKILL.md)
+- [Web Quality Audit](SKILL.md)

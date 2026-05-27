@@ -186,7 +186,7 @@ export const env = loadEnv();
 ```json
 {
   "name": "Node.js & PostgreSQL",
-  "dockerComposeFile": "../docker-compose.yml",
+  "dockerComposeFile": "docker-compose.yml",
   "service": "web",
   "workspaceFolder": "/app",
 
@@ -441,8 +441,8 @@ project/
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [deployment](../deployment/SKILL.md)
-- [environment-setup](../../utilities/environment-setup/SKILL.md)
+- [deployment](SKILL.md)
+- [environment-setup](SKILL.md)
 
 ### Tags
 `#environment-setup` `#Docker-Compose` `#dev-environment` `#IaC` `#Terraform` `#infrastructure`

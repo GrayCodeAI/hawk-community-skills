@@ -28,7 +28,7 @@ Re-drive a recorded session trajectory. Used for regression testing, determinist
    ```
 2. **Load the trajectory**:
    ```bash
-   Read .../trajectory.ndjson
+   Read .trajectory.ndjson
    ```
    Each line is `{ts, action, args, selector, result}`.
 3. **Open a fresh browser** via `mcp__claude-flow__browser_open` (target URL = original or `--url` override).

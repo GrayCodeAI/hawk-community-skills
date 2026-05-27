@@ -13,8 +13,8 @@ triggers: None
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [quality-manager-qmr](../quality-manager-qmr/) | Management review, quality policy |
-| [capa-officer](../capa-officer/) | CAPA system management |
-| [qms-audit-expert](../qms-audit-expert/) | Advanced audit techniques |
-| [quality-documentation-manager](../quality-documentation-manager/) | DHF, DMR, DHR management |
-| [risk-management-specialist](../risk-management-specialist/) | ISO 14971 integration |
+| [quality-manager-qmr]() | Management review, quality policy |
+| [capa-officer]() | CAPA system management |
+| [qms-audit-expert]() | Advanced audit techniques |
+| [quality-documentation-manager]() | DHF, DMR, DHR management |
+| [risk-management-specialist]() | ISO 14971 integration |

@@ -48,7 +48,7 @@ const sanitizeName = (name: string): string => {
 }
 ```
 
-This blocks: `../../../etc/passwd`, `skill\0name`, `/etc/passwd`, `skill:name`, `.hidden`, `a`.repeat(300).
+This blocks: `etc/passwd`, `skill\0name`, `/etc/passwd`, `skill:name`, `.hidden`, `a`.repeat(300).
 
 ### 2. Filesystem Isolation (Path Traversal Protection)
 
@@ -63,7 +63,7 @@ const isPathSafe = (basePath: string, targetPath: string): boolean => {
 }
 ```
 
-Both paths are **fully resolved** (`resolve()`) before comparison — relative paths, symlinks, and `..` sequences are eliminated before the check. The OS-specific separator (`sep`) is used to prevent tricks like `/allowed/dir../escape`.
+Both paths are **fully resolved** (`resolve()`) before comparison — relative paths, symlinks, and `..` sequences are eliminated before the check. The OS-specific separator (`sep`) is used to prevent tricks like `/allowed/direscape`.
 
 This guard is applied at every write, read, and delete operation: `installSkillForAgent()`, `getInstallPath()`, `getCanonicalPath()`, `removeSkill()`, and `isSkillInstalled()`.
 

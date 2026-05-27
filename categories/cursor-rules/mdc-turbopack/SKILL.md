@@ -253,7 +253,7 @@ Import CSS and other assets directly within the components that use them. This a
 ❌ BAD: Global CSS imports for component-specific styles
 ```jsx
 // src/app/layout.tsx
-import '../styles/button.css'; // Global import for a specific button style
+import 'styles/button.css'; // Global import for a specific button style
 
 export default function RootLayout({ children }) { /* ... */ }
 ```
@@ -333,7 +333,7 @@ const nextConfig = {
     resolveAlias: {
       '@my-custom-alias': '/path/to/custom/module',
     },
-    root: '../../', // For monorepos with linked dependencies outside project root
+    root: '', // For monorepos with linked dependencies outside project root
   },
 };
 module.exports = nextConfig;
@@ -361,7 +361,7 @@ import { someFunction } from 'sibling-package'; // Fails to resolve
 // next.config.js (assuming project-root and sibling-package are in the same parent directory)
 const nextConfig = {
   turbopack: {
-    root: '../../', // Adjusts the root to include parent directory
+    root: '', // Adjusts the root to include parent directory
   },
 };
 module.exports = nextConfig;

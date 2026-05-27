@@ -633,7 +633,7 @@ public function testServerDiscoversTools(): void
 {
     $server = Server::builder()
         ->setServerInfo('Test Server', '1.0.0')
-        ->setDiscovery(__DIR__ . '/../src', ['.'])
+        ->setDiscovery(__DIR__ . '/src', ['.'])
         ->build();
     
     $capabilities = $server->getCapabilities();

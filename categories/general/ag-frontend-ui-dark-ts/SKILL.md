@@ -256,7 +256,7 @@ export default {
 /* Font faces */
 @font-face {
   font-family: 'Segoe UI';
-  src: url('../assets/fonts/Segoe UI.ttf') format('truetype');
+  src: url('assets/fonts/Segoe UI.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -264,7 +264,7 @@ export default {
 
 @font-face {
   font-family: 'Segoe UI';
-  src: url('../assets/fonts/Segoe UI Bold.ttf') format('truetype');
+  src: url('assets/fonts/Segoe UI Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -272,7 +272,7 @@ export default {
 
 @font-face {
   font-family: 'Segoe UI';
-  src: url('../assets/fonts/Segoe UI Italic.ttf') format('truetype');
+  src: url('assets/fonts/Segoe UI Italic.ttf') format('truetype');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -280,7 +280,7 @@ export default {
 
 @font-face {
   font-family: 'Segoe UI';
-  src: url('../assets/fonts/Segoe UI Bold Italic.ttf') format('truetype');
+  src: url('assets/fonts/Segoe UI Bold Italic.ttf') format('truetype');
   font-weight: 700;
   font-style: italic;
   font-display: swap;

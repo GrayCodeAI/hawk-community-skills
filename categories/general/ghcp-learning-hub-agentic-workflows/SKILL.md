@@ -71,9 +71,9 @@ gh aw compile --validate --no-emit workflows/my-new-workflow.md
 ## Learn More
 
 - **Official documentation**: [GitHub Agentic Workflows](https://gh.io/gh-aw) — full specification and reference
-- **Browse workflows**: [Awesome Copilot Workflows](../../workflows/) — community-contributed collection
+- **Browse workflows**: [Awesome Copilot Workflows]() — community-contributed collection
 - **Contributing guide**: [CONTRIBUTING.md](https://github.com/github/awesome-copilot/blob/main/CONTRIBUTING.md#adding-agentic-workflows) — detailed contribution guidelines
-- **Related**: [Automating with Hooks](../automating-with-hooks/) — deterministic automation for Copilot agent sessions
-- **Related**: [Using the Copilot Coding Agent](../using-copilot-coding-agent/) — the agent that powers agentic workflows
+- **Related**: [Automating with Hooks]() — deterministic automation for Copilot agent sessions
+- **Related**: [Using the Copilot Coding Agent]() — the agent that powers agentic workflows
 
 ---

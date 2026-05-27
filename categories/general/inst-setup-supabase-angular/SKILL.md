@@ -30,8 +30,8 @@ As an AI language model, you MUST follow these guidelines when implementing Supa
 ```typescript
 // lib/supabase.ts
 import { createClient } from '@supabase/supabase-js'
-import { environment } from '../environments/environment'
-import type { Database } from '../types/supabase'
+import { environment } from 'environments/environment'
+import type { Database } from 'types/supabase'
 
 export const supabase = createClient<Database>(
   environment.supabase.url,
@@ -52,7 +52,7 @@ export const supabase = createClient<Database>(
 import { Injectable, inject } from '@angular/core'
 import { Router } from '@angular/router'
 import { BehaviorSubject, Observable } from 'rxjs'
-import { supabase } from '../lib/supabase'
+import { supabase } from 'lib/supabase'
 import type { User, Session } from '@supabase/supabase-js'
 
 @Injectable({
@@ -116,7 +116,7 @@ export class AuthService {
 // components/auth.component.ts
 import { Component, inject } from '@angular/core'
 import { FormBuilder, Validators } from '@angular/forms'
-import { AuthService } from '../services/auth.service'
+import { AuthService } from 'services/auth.service'
 
 @Component({
   selector: 'app-auth',
@@ -172,7 +172,7 @@ export class AuthComponent {
 // guards/auth.guard.ts
 import { Injectable } from '@angular/core'
 import { Router } from '@angular/router'
-import { AuthService } from '../services/auth.service'
+import { AuthService } from 'services/auth.service'
 import { map, tap } from 'rxjs/operators'
 
 @Injectable({

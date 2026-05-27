@@ -193,7 +193,7 @@ import { Button } from '@/components/ui/button'
 import { userSchema } from '@/lib/schemas'
 
 // ❌ Bad
-import { Button } from '../components/ui/button'
+import { Button } from 'components/ui/button'
 ```
 
 ## Adding Components

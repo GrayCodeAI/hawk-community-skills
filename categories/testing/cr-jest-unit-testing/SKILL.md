@@ -39,12 +39,12 @@ Write maintainable tests with descriptive names grouped in describe blocks
 
 ```js
 // Mock dependencies before imports
-jest.mock('../api/taxRate', () => ({
+jest.mock('api/taxRate', () => ({
   getTaxRate: jest.fn(() => 0.1), // Mock tax rate as 10%
 }));
 
 // Import module under test
-const { calculateTotal } = require('../utils/calculateTotal');
+const { calculateTotal } = require('utils/calculateTotal');
 
 describe('calculateTotal', () => {
   beforeEach(() => {
@@ -82,13 +82,13 @@ describe('calculateTotal', () => {
 
 ```ts
 // Mock dependencies before imports
-jest.mock('../api/userService', () => ({
+jest.mock('api/userService', () => ({
   fetchUser: jest.fn(),
 }));
 
 // Import the mocked module and the function to test
-import { fetchUser } from '../api/userService';
-import { getUserData } from '../utils/userUtils';
+import { fetchUser } from 'api/userService';
+import { getUserData } from 'utils/userUtils';
 
 // Define TypeScript interfaces
 interface User {

@@ -13,7 +13,7 @@ triggers: None
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [quality-manager-qms-iso13485](../quality-manager-qms-iso13485/) | QMS process management |
-| [capa-officer](../capa-officer/) | CAPA system oversight |
-| [qms-audit-expert](../qms-audit-expert/) | Internal audit program |
-| [quality-documentation-manager](../quality-documentation-manager/) | Document control oversight |
+| [quality-manager-qms-iso13485]() | QMS process management |
+| [capa-officer]() | CAPA system oversight |
+| [qms-audit-expert]() | Internal audit program |
+| [quality-documentation-manager]() | Document control oversight |

@@ -47,7 +47,7 @@ For non-interactive execution:
 copilot -p "/fleet Update the auth docs, refactor the auth service, and add related tests." --no-ask-user
 ```
 
-> **Prompt mode and repo hooks (v1.0.40+)**: When using `copilot -p "..."` (prompt mode), repository hooks are disabled by default for security. If your `/fleet` workflow relies on hooks (e.g., auto-formatting or lint checks after edits), opt in by setting `GITHUB_COPILOT_PROMPT_MODE_REPO_HOOKS=true` before running. See [Automating with Hooks](../automating-with-hooks/) for details.
+> **Prompt mode and repo hooks (v1.0.40+)**: When using `copilot -p "..."` (prompt mode), repository hooks are disabled by default for security. If your `/fleet` workflow relies on hooks (e.g., auto-formatting or lint checks after edits), opt in by setting `GITHUB_COPILOT_PROMPT_MODE_REPO_HOOKS=true` before running. See [Automating with Hooks]() for details.
 
 The important behavior is different from a single chat turn:
 
@@ -126,8 +126,8 @@ No. They can run sequentially when one step depends on another, or in parallel w
 
 ## Next steps
 
-- Read [Building Custom Agents](../building-custom-agents/) to design coordinator and worker agents.
-- Revisit [What are Agents, Skills, and Instructions](../what-are-agents-skills-instructions/) for the broader customization model.
-- Keep the [GitHub Copilot Terminology Glossary](../github-copilot-terminology-glossary/) nearby when comparing terminology across products.
+- Read [Building Custom Agents]() to design coordinator and worker agents.
+- Revisit [What are Agents, Skills, and Instructions]() for the broader customization model.
+- Keep the [GitHub Copilot Terminology Glossary]() nearby when comparing terminology across products.
 
 ---

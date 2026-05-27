@@ -12,7 +12,7 @@ tags:
 
 | Skill | Relationship |
 |-------|-------------|
-| [threat-detection](../threat-detection/SKILL.md) | Red team technique execution generates realistic TTPs that validate threat hunting hypotheses |
-| [incident-response](../incident-response/SKILL.md) | Red team activity should trigger incident response procedures — detection and response quality is a primary success metric |
-| [cloud-security](../cloud-security/SKILL.md) | Cloud posture findings (IAM misconfigs, S3 exposure) become red team attack path targets |
-| [security-pen-testing](../security-pen-testing/SKILL.md) | Pen testing focuses on specific vulnerability exploitation; red team focuses on end-to-end kill-chain simulation to crown jewels |
+| [threat-detection](SKILL.md) | Red team technique execution generates realistic TTPs that validate threat hunting hypotheses |
+| [incident-response](SKILL.md) | Red team activity should trigger incident response procedures — detection and response quality is a primary success metric |
+| [cloud-security](SKILL.md) | Cloud posture findings (IAM misconfigs, S3 exposure) become red team attack path targets |
+| [security-pen-testing](SKILL.md) | Pen testing focuses on specific vulnerability exploitation; red team focuses on end-to-end kill-chain simulation to crown jewels |

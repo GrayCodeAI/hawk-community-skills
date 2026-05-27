@@ -1061,7 +1061,7 @@ import * as TE from 'fp-ts/TaskEither'
 import * as E from 'fp-ts/Either'
 import * as O from 'fp-ts/Option'
 import { describe, it, expect, vi } from 'vitest'
-import * as UserService from '../user.service'
+import * as UserService from 'user.service'
 
 // Create mock dependencies
 const createMockDeps = (overrides: Partial<UserDeps> = {}): UserDeps => ({
@@ -1169,8 +1169,8 @@ import * as TE from 'fp-ts/TaskEither'
 import * as E from 'fp-ts/Either'
 import { pipe } from 'fp-ts/function'
 import { describe, it, expect, beforeAll, afterAll } from 'vitest'
-import { buildDeps, destroyDeps, AppDeps } from '../../deps'
-import * as UserService from '../../services/user.service'
+import { buildDeps, destroyDeps, AppDeps } from 'deps'
+import * as UserService from 'services/user.service'
 
 describe('UserService Integration', () => {
   let container: PostgreSqlContainer
@@ -1230,7 +1230,7 @@ describe('UserService Integration', () => {
 import * as fc from 'fast-check'
 import * as E from 'fp-ts/Either'
 import { describe, it, expect } from 'vitest'
-import { validateEmail, validatePassword } from '../../validation'
+import { validateEmail, validatePassword } from 'validation'
 
 describe('Validation Properties', () => {
   it('valid emails should pass validation', () => {

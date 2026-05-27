@@ -371,7 +371,7 @@ script = Path("hf-jobs/scripts/foo.py").read_text()
 hf_jobs("uv", {"script": script})
 
 # ✅ URL: host the script somewhere reachable
-hf_jobs("uv", {"script": "https://huggingface.co/datasets/uv-scripts/.../raw/main/foo.py"})
+hf_jobs("uv", {"script": "https://huggingface.co/datasets/uv-scripts/.raw/main/foo.py"})
 
 # ✅ URL from GitHub
 hf_jobs("uv", {"script": "https://raw.githubusercontent.com/huggingface/trl/main/trl/scripts/sft.py"})

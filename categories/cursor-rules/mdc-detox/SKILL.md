@@ -49,8 +49,8 @@ class LoginPage {
 export default new LoginPage();
 
 // tests/login.e2e.js
-import LoginPage from '../pages/LoginPage';
-import HomeScreen from '../pages/HomeScreen';
+import LoginPage from 'pages/LoginPage';
+import HomeScreen from 'pages/HomeScreen';
 
 describe('Login Flow', () => {
   beforeEach(async () => {

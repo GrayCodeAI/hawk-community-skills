@@ -17,11 +17,11 @@ status: deprecated
 
 | You want to... | Use this instead |
 |----------------|-----------------|
-| **Write** a blog post, article, or guide | [content-production](../content-production/) |
-| **Plan** what content to create, topic clusters, calendar | [content-strategy](../content-strategy/) |
-| **Analyze brand voice** | [content-production](../content-production/) (includes `brand_voice_analyzer.py`) |
-| **Optimize SEO** for existing content | [content-production](../content-production/) (includes `seo_optimizer.py`) |
-| **Create social media content** | [social-content](../social-content/) |
+| **Write** a blog post, article, or guide | [content-production]() |
+| **Plan** what content to create, topic clusters, calendar | [content-strategy]() |
+| **Analyze brand voice** | [content-production]() (includes `brand_voice_analyzer.py`) |
+| **Optimize SEO** for existing content | [content-production]() (includes `seo_optimizer.py`) |
+| **Create social media content** | [social-content]() |
 
 ## Why the Change
 

@@ -13,9 +13,9 @@ triggers: None
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [content-creator](../content-creator/) | App description copywriting |
-| [marketing-demand-acquisition](../marketing-demand-acquisition/) | Launch promotion campaigns |
-| [marketing-strategy-pmm](../marketing-strategy-pmm/) | Go-to-market planning |
+| [content-creator]() | App description copywriting |
+| [marketing-demand-acquisition]() | Launch promotion campaigns |
+| [marketing-strategy-pmm]() | Go-to-market planning |
 
 ## Proactive Triggers
 

@@ -316,7 +316,7 @@ jobs:
       - name: Install and Test
         run: |
           cd claude-code-flow$claude-code-flow && npm install && npm test
-          cd ../..$ruv-swarm$npm && npm install && npm test:all
+          cd ..$ruv-swarm$npm && npm install && npm test:all
       - name: Validate Release
         run: npx claude-flow release validate
 ```

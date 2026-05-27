@@ -16,7 +16,7 @@ author: mahipal
 3. Parse each log entry extracting: IP, timestamp, method, URI, status code, response size, user-agent, referer.
 4. Apply detection rules:
    - SQL injection: `UNION SELECT`, `OR 1=1`, `' OR '`, hex encoding patterns
-   - LFI/Path traversal: `../`, `/etc/passwd`, `/proc/self`, `php://filter`
+   - LFI/Path traversal: ``, `/etc/passwd`, `/proc/self`, `php://filter`
    - XSS: `<script>`, `javascript:`, `onerror=`, `onload=`
    - Scanner signatures: nikto, sqlmap, dirbuster, gobuster, wfuzz user-agents
    - Brute force: >50 POST requests to login endpoints from same IP in 5 minutes

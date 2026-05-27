@@ -77,4 +77,4 @@ See [implementation examples](references/implementation.md)
 ## References
 
 - [Implementation Examples](references/implementation.md)
-- [common/security-standards](../../common/common-security-standards/SKILL.md)
+- [common/security-standards](SKILL.md)

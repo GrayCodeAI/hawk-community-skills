@@ -88,11 +88,11 @@ After generating migrated code, validate against the "Gotchas" section of the re
 
 | Need | Where to look |
 |------|----------------|
-| Full Playwright patterns, POM, cloud | `playwright-skill` and [playwright-skill/reference/cloud-integration.md](../playwright-skill/reference/cloud-integration.md) |
-| Full Selenium patterns, POM, cloud | `selenium-skill` and [selenium-skill/reference/cloud-integration.md](../selenium-skill/reference/cloud-integration.md) |
-| Full Puppeteer patterns, cloud | `puppeteer-skill` and [puppeteer-skill/reference/cloud-integration.md](../puppeteer-skill/reference/cloud-integration.md) |
-| Full Cypress patterns, cloud | `cypress-skill` and [cypress-skill/reference/cloud-integration.md](../cypress-skill/reference/cloud-integration.md) |
-| TestMu capabilities (all frameworks) | [shared/testmu-cloud-reference.md](../shared/testmu-cloud-reference.md) |
+| Full Playwright patterns, POM, cloud | `playwright-skill` and [playwright-skill/reference/cloud-integration.md](cloud-integration.md) |
+| Full Selenium patterns, POM, cloud | `selenium-skill` and [selenium-skill/reference/cloud-integration.md](cloud-integration.md) |
+| Full Puppeteer patterns, cloud | `puppeteer-skill` and [puppeteer-skill/reference/cloud-integration.md](cloud-integration.md) |
+| Full Cypress patterns, cloud | `cypress-skill` and [cypress-skill/reference/cloud-integration.md](cloud-integration.md) |
+| TestMu capabilities (all frameworks) | [shared/testmu-cloud-reference.md](testmu-cloud-reference.md) |
 
 ## Validation Workflow
 

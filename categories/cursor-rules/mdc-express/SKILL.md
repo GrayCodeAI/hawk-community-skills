@@ -150,7 +150,7 @@ Install `npm i express-async-handler`. This eliminates repetitive `try/catch` bl
 **`src/controllers/userController.js`**
 ```javascript
 const asyncHandler = require('express-async-handler');
-const userService = require('../services/userService');
+const userService = require('services/userService');
 
 exports.getUsers = asyncHandler(async (req, res) => {
   const users = await userService.getAllUsers();
@@ -204,8 +204,8 @@ exports.validateUser = (req, res, next) => {
 **`src/routes/userRoutes.js`**
 ```javascript
 const router = require('express').Router();
-const { createUser } = require('../controllers/userController');
-const { validateUser } = require('../validation/userValidation');
+const { createUser } = require('controllers/userController');
+const { validateUser } = require('validation/userValidation');
 
 router.post('/', validateUser, createUser);
 ```
@@ -262,7 +262,7 @@ Catch all errors and return consistent JSON responses.
 
 **`src/middlewares/errorMiddleware.js`**
 ```javascript
-const { nodeEnv } = require('../config/config');
+const { nodeEnv } = require('config/config');
 
 const notFound = (req, res, next) => {
   const error = new Error(`Not Found - ${req.originalUrl}`);
@@ -357,10 +357,10 @@ Install `npm i --save-dev jest supertest`.
 **`src/tests/user.test.js`**
 ```javascript
 const request = require('supertest');
-const app = require('../app'); // Test your app.js directly
+const app = require('app'); // Test your app.js directly
 const mongoose = require('mongoose');
-const User = require('../models/User');
-const { mongoURI } = require('../config/config');
+const User = require('models/User');
+const { mongoURI } = require('config/config');
 
 beforeAll(async () => {
   await mongoose.connect(mongoURI);

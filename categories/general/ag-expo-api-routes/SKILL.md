@@ -336,7 +336,7 @@ export async function requireAuth(request: Request) {
 }
 
 // app/api/protected+api.ts
-import { requireAuth } from "../../utils/auth";
+import { requireAuth } from "utils/auth";
 
 export async function GET(request: Request) {
   const { userId } = await requireAuth(request);

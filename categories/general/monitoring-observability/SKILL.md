@@ -379,8 +379,8 @@ Golden Signals:
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [deployment](../deployment/SKILL.md): Monitoring alongside deployment
-- [security](../security/SKILL.md): Security event monitoring
+- [deployment](SKILL.md): Monitoring alongside deployment
+- [security](SKILL.md): Security event monitoring
 
 ### Tags
 `#monitoring` `#observability` `#Prometheus` `#Grafana` `#logging` `#metrics` `#infrastructure`

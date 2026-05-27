@@ -13,7 +13,7 @@ triggers: None
 
 | Skill | Integration Point |
 |-------|-------------------|
-| [senior-devops](../senior-devops/) | CI/CD security, infrastructure hardening |
-| [senior-secops](../senior-secops/) | Security monitoring, incident response |
-| [senior-backend](../senior-backend/) | Secure API development |
-| [senior-architect](../senior-architect/) | Security architecture decisions |
+| [senior-devops]() | CI/CD security, infrastructure hardening |
+| [senior-secops]() | Security monitoring, incident response |
+| [senior-backend]() | Secure API development |
+| [senior-architect]() | Security architecture decisions |

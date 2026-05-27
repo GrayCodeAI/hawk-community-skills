@@ -154,7 +154,7 @@ Improve module resolution readability and prevent deep relative imports. Configu
 ❌ BAD
 ```javascript
 // src/components/Button.js
-import { helperFunction } from '../../../../utils/helpers';
+import { helperFunction } from 'utils/helpers';
 ```
 
 ✅ GOOD

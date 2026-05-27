@@ -58,7 +58,7 @@ export type NewUser = typeof users.$inferInsert;
 import { drizzle } from 'drizzle-orm/node-postgres';
 import { Pool } from 'pg';
 import * as schema from './schema';
-import { environment } from '../../environments/environment';
+import { environment } from 'environments/environment';
 
 const pool = new Pool({
   connectionString: environment.databaseUrl,
@@ -97,8 +97,8 @@ export default {
 ```typescript
 // src/app/services/user.service.ts
 import { Injectable } from '@angular/core';
-import { db } from '../db';
-import { users, type User, type NewUser } from '../db/schema';
+import { db } from 'db';
+import { users, type User, type NewUser } from 'db/schema';
 import { eq } from 'drizzle-orm';
 import { Observable, from } from 'rxjs';
 
@@ -154,8 +154,8 @@ export class UserService {
 ```typescript
 // src/app/components/user-list/user-list.component.ts
 import { Component, OnInit } from '@angular/core';
-import { UserService } from '../../services/user.service';
-import { type User, type NewUser } from '../../db/schema';
+import { UserService } from 'services/user.service';
+import { type User, type NewUser } from 'db/schema';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 
 @Component({

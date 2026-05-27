@@ -41,7 +41,7 @@ dependencies:
 
 Templates in `templates/` directory:
 - **ML/AI**: ICML 2026, ICLR 2026, NeurIPS 2025, ACL/EMNLP, AAAI 2026, COLM 2025
-- **Systems** (OSDI, NSDI, ASPLOS, SOSP): See [systems-paper-writing](../systems-paper-writing/) skill
+- **Systems** (OSDI, NSDI, ASPLOS, SOSP): See [systems-paper-writing]() skill
 
 **Compiling to PDF:**
 - **VS Code/Cursor**: Install LaTeX Workshop extension + TeX Live → Save to auto-compile
@@ -63,4 +63,4 @@ See [templates/README.md](templates/README.md) for detailed setup instructions.
 
 **ML/AI Venues:** [NeurIPS](https://neurips.cc/Conferences/2025/PaperInformation/StyleFiles) | [ICML](https://icml.cc/Conferences/2025/AuthorInstructions) | [ICLR](https://iclr.cc/Conferences/2026/AuthorGuide) | [ACL](https://github.com/acl-org/acl-style-files)
 
-**Systems Venues:** See the [systems-paper-writing](../systems-paper-writing/) skill for OSDI, NSDI, ASPLOS, SOSP links and guides
+**Systems Venues:** See the [systems-paper-writing]() skill for OSDI, NSDI, ASPLOS, SOSP links and guides

@@ -100,7 +100,7 @@ CRITICAL: Perform the following steps exactly as described:
 
 **Merge single file from worktree:**
 ```bash
-> /worktrees merge src/app.js --from ../project-feature
+> /worktrees merge src/app.js --from project-feature
 # Prompts for merge strategy
 # Executes: git checkout feature-branch -- src/app.js
 ```
@@ -133,7 +133,7 @@ CRITICAL: Perform the following steps exactly as described:
 
 **Directory merge with conflicts:**
 ```bash
-> /worktrees merge src/components/ --from ../project-refactor
+> /worktrees merge src/components/ --from project-refactor
 # Strategy D: Manual merge with conflicts
 # git merge --no-commit refactor-branch
 # Helps resolve any conflicts
@@ -208,13 +208,13 @@ git commit -m "feat: combine auth, API, and UI improvements from feature branche
 
 ### Take a Feature File Without Full Merge
 ```bash
-> /worktrees merge src/new-feature.js --from ../project-feature
+> /worktrees merge src/new-feature.js --from project-feature
 # Gets just the file, not the entire branch
 ```
 
 ### Partial Bugfix from Hotfix Branch
 ```bash
-> /worktrees merge --patch src/utils.js --from ../project-hotfix
+> /worktrees merge --patch src/utils.js --from project-hotfix
 # Select only the specific bug fix hunks, not all changes
 ```
 
@@ -231,7 +231,7 @@ git commit -m "feat: combine auth, API, and UI improvements from feature branche
 # First review what will be merged
 > /worktrees compare src/module.js
 # Then merge with confidence
-> /worktrees merge src/module.js --from ../project-feature
+> /worktrees merge src/module.js --from project-feature
 ```
 
 ## Important Notes
@@ -257,10 +257,10 @@ After merging, consider cleaning up worktrees that are no longer needed:
 git worktree list
 
 # Remove specific worktree (clean state required)
-git worktree remove ../project-feature
+git worktree remove project-feature
 
 # Force remove (discards uncommitted changes)
-git worktree remove --force ../project-feature
+git worktree remove --force project-feature
 
 # Clean up stale worktree references
 git worktree prune
@@ -307,6 +307,6 @@ The command will prompt you about cleanup after each successful merge to help ma
 ```bash
 > /worktrees create feature-branch
 > /worktrees compare src/
-> /worktrees merge src/module.js --from ../project-feature-branch
+> /worktrees merge src/module.js --from project-feature-branch
 # After merge, cleanup is offered automatically
 ```

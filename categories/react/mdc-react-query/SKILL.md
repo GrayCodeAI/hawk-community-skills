@@ -54,7 +54,7 @@ useQuery(['users', { id: userId }], fetchUserById); // Object literal creates ne
 ```typescript
 // hooks/useUsers.ts
 import { useQuery } from '@tanstack/react-query';
-import { fetchUsers, User } from '../api'; // Assume api.ts defines fetchUsers
+import { fetchUsers, User } from 'api'; // Assume api.ts defines fetchUsers
 
 const userKeys = {
   all: ['users'] as const,
@@ -69,7 +69,7 @@ export function useUsers(filters?: { status?: string }) {
 }
 
 // components/UserList.tsx
-import { useUsers } from '../hooks/useUsers';
+import { useUsers } from 'hooks/useUsers';
 
 function UserList({ statusFilter }: { statusFilter?: string }) {
   const { data: users, isLoading, error } = useUsers({ status: statusFilter });
@@ -92,7 +92,7 @@ function UserList({ statusFilter }: { statusFilter?: string }) {
 ```typescript
 // components/UserList.tsx
 import { useQuery } from '@tanstack/react-query';
-import { fetchUsers } from '../api';
+import { fetchUsers } from 'api';
 
 function UserList({ statusFilter }: { statusFilter?: string }) {
   // Logic is duplicated if another component needs users
@@ -122,7 +122,7 @@ export async function fetchUserById(id: string): Promise<User> {
 
 // hooks/useUser.ts
 import { useQuery } from '@tanstack/react-query';
-import { fetchUserById } from '../api';
+import { fetchUserById } from 'api';
 
 const userKeys = {
   detail: (id: string) => ['users', id] as const,
@@ -166,7 +166,7 @@ export function useUser(userId: string) {
 ```typescript
 // hooks/useUserProfile.ts
 import { useQuery } from '@tanstack/react-query';
-import { fetchUserProfile } from '../api';
+import { fetchUserProfile } from 'api';
 
 export function useUserProfile(userId?: string) {
   return useQuery({
@@ -181,7 +181,7 @@ export function useUserProfile(userId?: string) {
 
 ```typescript
 // components/UserProfile.tsx
-import { useUserProfile } from '../hooks/useUserProfile';
+import { useUserProfile } from 'hooks/useUserProfile';
 
 function UserProfile({ userId }: { userId?: string }) {
   // React Hook Rules: Hooks must be called unconditionally
@@ -203,7 +203,7 @@ function UserProfile({ userId }: { userId?: string }) {
 ```typescript
 // hooks/useActiveUsers.ts
 import { useQuery } from '@tanstack/react-query';
-import { fetchUsers, User } from '../api';
+import { fetchUsers, User } from 'api';
 
 export function useActiveUsers() {
   return useQuery<User[], Error, string[]>({ // Specify transformed data type
@@ -214,7 +214,7 @@ export function useActiveUsers() {
 }
 
 // components/ActiveUserNames.tsx
-import { useActiveUsers } from '../hooks/useActiveUsers';
+import { useActiveUsers } from 'hooks/useActiveUsers';
 
 function ActiveUserNames() {
   const { data: activeUserNames, isLoading } = useActiveUsers();
@@ -235,7 +235,7 @@ function ActiveUserNames() {
 ```typescript
 // components/ActiveUserNames.tsx
 import { useQuery } from '@tanstack/react-query';
-import { fetchUsers } from '../api';
+import { fetchUsers } from 'api';
 
 function ActiveUserNames() {
   const { data: users, isLoading } = useQuery({
@@ -266,7 +266,7 @@ function ActiveUserNames() {
 ```typescript
 // hooks/useCreateTodo.ts
 import { useMutation, useQueryClient } from '@tanstack/react-query';
-import { createTodo, Todo } from '../api';
+import { createTodo, Todo } from 'api';
 
 export function useCreateTodo() {
   const queryClient = useQueryClient();
@@ -280,7 +280,7 @@ export function useCreateTodo() {
 }
 
 // components/TodoForm.tsx
-import { useCreateTodo } from '../hooks/useCreateTodo';
+import { useCreateTodo } from 'hooks/useCreateTodo';
 
 function TodoForm() {
   const { mutate, isLoading } = useCreateTodo();
@@ -308,7 +308,7 @@ function TodoForm() {
 ```typescript
 // hooks/useUpdateTodo.ts
 import { useMutation, useQueryClient } from '@tanstack/react-query';
-import { updateTodo, Todo } from '../api';
+import { updateTodo, Todo } from 'api';
 
 export function useUpdateTodo() {
   const queryClient = useQueryClient();
@@ -344,7 +344,7 @@ export function useUpdateTodo() {
 ```typescript
 // utils/routeLoaders.ts (Example with a router loader)
 import { QueryClient } from '@tanstack/react-query';
-import { fetchProjectById } from '../api';
+import { fetchProjectById } from 'api';
 
 export const projectLoader = (queryClient: QueryClient) => async ({ params }: { params: { projectId: string } }) => {
   const queryKey = ['projects', params.projectId];
@@ -359,7 +359,7 @@ export const projectLoader = (queryClient: QueryClient) => async ({ params }: { 
 // components/ProjectLink.tsx
 import { Link } from 'react-router-dom'; // Assuming react-router-dom
 import { useQueryClient } from '@tanstack/react-query';
-import { fetchProjectById } from '../api';
+import { fetchProjectById } from 'api';
 
 function ProjectLink({ projectId, projectName }: { projectId: string; projectName: string }) {
   const queryClient = useQueryClient();

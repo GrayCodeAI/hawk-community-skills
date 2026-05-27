@@ -63,7 +63,7 @@ import VisualUpdateOptions = powerbi.extensibility.visual.VisualUpdateOptions;
 import IVisual = powerbi.extensibility.visual.IVisual;
 import IVisualHost = powerbi.extensibility.IVisualHost;
 
-import "./../style/visual.less";
+import "./style/visual.less";
 
 export class Visual implements IVisual {
     private target: HTMLElement;
@@ -566,7 +566,7 @@ export class VisualTestUtils {
 import * as React from 'react';
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
-import ReactCircleCard from '../src/component';
+import ReactCircleCard from 'src/component';
 
 describe('ReactCircleCard', () => {
     const mockProps = {

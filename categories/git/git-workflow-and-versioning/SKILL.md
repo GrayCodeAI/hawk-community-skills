@@ -152,18 +152,18 @@ For parallel AI agent work, use git worktrees to run multiple branches simultane
 
 ```bash
 # Create a worktree for a feature branch
-git worktree add ../project-feature-a feature/task-creation
-git worktree add ../project-feature-b feature/user-settings
+git worktree add project-feature-a feature/task-creation
+git worktree add project-feature-b feature/user-settings
 
 # Each worktree is a separate directory with its own branch
 # Agents can work in parallel without interfering
-ls ../
+ls 
   project/              ← main branch
   project-feature-a/    ← task-creation branch
   project-feature-b/    ← user-settings branch
 
 # When done, merge and clean up
-git worktree remove ../project-feature-a
+git worktree remove project-feature-a
 ```
 
 Benefits:

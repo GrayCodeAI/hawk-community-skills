@@ -101,8 +101,8 @@ export const queryClient = new QueryClient({
 ```typescript
 // src/hooks/useUsers.ts
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query';
-import { db } from '../db';
-import { users, type User, type NewUser } from '../db/schema';
+import { db } from 'db';
+import { users, type User, type NewUser } from 'db/schema';
 import { eq } from 'drizzle-orm';
 
 // Fetch all users
@@ -188,8 +188,8 @@ export function useDeleteUser() {
 ```typescript
 // src/components/UserList.tsx
 import { useState } from 'react';
-import { useUsers, useCreateUser, useDeleteUser } from '../hooks/useUsers';
-import type { NewUser } from '../db/schema';
+import { useUsers, useCreateUser, useDeleteUser } from 'hooks/useUsers';
+import type { NewUser } from 'db/schema';
 
 export function UserList() {
   const [newUser, setNewUser] = useState<NewUser>({
@@ -252,8 +252,8 @@ export function UserList() {
 }
 
 // src/components/UserDetail.tsx
-import { useUser, useUpdateUser } from '../hooks/useUsers';
-import type { User } from '../db/schema';
+import { useUser, useUpdateUser } from 'hooks/useUsers';
+import type { User } from 'db/schema';
 
 interface Props {
   id: number;
@@ -309,8 +309,8 @@ export function UserDetail({ id }: Props) {
 ```typescript
 // src/hooks/useInfiniteUsers.ts
 import { useInfiniteQuery } from '@tanstack/react-query';
-import { db } from '../db';
-import { users, type User } from '../db/schema';
+import { db } from 'db';
+import { users, type User } from 'db/schema';
 
 const PAGE_SIZE = 10;
 
@@ -334,7 +334,7 @@ export function useInfiniteUsers() {
 }
 
 // src/components/InfiniteUserList.tsx
-import { useInfiniteUsers } from '../hooks/useInfiniteUsers';
+import { useInfiniteUsers } from 'hooks/useInfiniteUsers';
 
 export function InfiniteUserList() {
   const {

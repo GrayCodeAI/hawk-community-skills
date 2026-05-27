@@ -49,7 +49,7 @@ Repeat for each image. The Contents API creates a commit per file.
 ![Description](https://github.com/{owner}/{repo}/raw/{username}/images/docs/images/my-image.png)
 ```
 
-> **Important:** Use `github.com/{owner}/{repo}/raw/{branch}/{path}` format, NOT `raw.githubusercontent.com`. The `raw.githubusercontent.com` URLs return 404 for private repos. The `github.com/.../raw/...` format works because the browser sends auth cookies when the viewer is logged in and has repo access.
+> **Important:** Use `github.com/{owner}/{repo}/raw/{branch}/{path}` format, NOT `raw.githubusercontent.com`. The `raw.githubusercontent.com` URLs return 404 for private repos. The `github.com/.raw/...` format works because the browser sends auth cookies when the viewer is logged in and has repo access.
 
 **Pros:** Works for any repo the viewer has access to, images live in version control, no expiration.
 **Cons:** Creates commits, viewers must be authenticated, images won't render in email notifications or for users without repo access.
@@ -117,7 +117,7 @@ await browser.close();
 ## Common pitfalls
 
 - **`raw.githubusercontent.com` returns 404 for private repos** even with a valid token in the URL. GitHub's CDN does not pass auth headers through.
-- **API download URLs are temporary.** URLs returned by `gh api repos/.../contents/...` with `download_url` include a token that expires.
+- **API download URLs are temporary.** URLs returned by `gh api repos/.contents/...` with `download_url` include a token that expires.
 - **`upload/policies/assets` requires a browser session.** Do not attempt to call this endpoint from the CLI.
 - **Base64 encoding for large files** can hit API payload limits. The Contents API has a ~100MB file size limit but practical limits are lower for base64-encoded payloads.
 - **Email notifications** will not render images that require authentication. If email readability matters, use the browser upload method.

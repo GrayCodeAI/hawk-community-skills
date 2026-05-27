@@ -97,9 +97,9 @@ The biggest risk in approved decisions is forgetting why someone disagreed. When
 
 ## Related
 
-- Skill: [`decision-logger`](../../../skills/decision-logger/SKILL.md)
-- Agent: [`cs-chief-of-staff`](../../agents/cs-chief-of-staff.md)
-- Bridge: [`../../references/llm-wiki-bridge.md`](../../references/llm-wiki-bridge.md)
+- Skill: [`decision-logger`](SKILL.md)
+- Agent: [`cs-chief-of-staff`](cs-chief-of-staff.md)
+- Bridge: [`references/llm-wiki-bridge.md`](llm-wiki-bridge.md)
 
 ---
 

@@ -39,7 +39,7 @@ The JTBD-driven builder cuts the roadmap in half. Six questions to surface what 
 ### 4. RICE Score
 **Reach, Impact, Confidence, Effort — what's the score and where does this rank in the queue?**
 ```bash
-python ../../../../product-team/product-manager-toolkit/scripts/rice_prioritizer.py
+python product-team/product-manager-toolkit/scripts/rice_prioritizer.py
 ```
 
 ### 5. Opportunity Cost
@@ -55,8 +55,8 @@ python ../../../../product-team/product-manager-toolkit/scripts/rice_prioritizer
 
 1. **Run the analyses:**
    ```bash
-   python ../../../skills/cpo-advisor/scripts/pmf_scorer.py
-   python ../../../skills/cpo-advisor/scripts/portfolio_analyzer.py
+   python skills/cpo-advisor/scripts/pmf_scorer.py
+   python skills/cpo-advisor/scripts/portfolio_analyzer.py
    ```
 2. **Answer the six questions.**
 3. **Apply the verdict.**
@@ -103,9 +103,9 @@ python ../../../../product-team/product-manager-toolkit/scripts/rice_prioritizer
 
 ## Related
 
-- Agent: [`cs-cpo-advisor`](../../agents/cs-cpo-advisor.md)
-- Skill: [`cpo-advisor`](../../../skills/cpo-advisor/SKILL.md)
-- Execution: `../../../../product-team/product-manager-toolkit/`
+- Agent: [`cs-cpo-advisor`](cs-cpo-advisor.md)
+- Skill: [`cpo-advisor`](SKILL.md)
+- Execution: `product-team/product-manager-toolkit/`
 
 ---
 

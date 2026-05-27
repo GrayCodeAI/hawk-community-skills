@@ -157,7 +157,7 @@ ctx.waitUntil(
 
 ```bash
 cd tail-worker && wrangler deploy
-cd ../producer && wrangler deploy
+cd producer && wrangler deploy
 ```
 
 ### 10. No Event Retry

@@ -522,8 +522,8 @@ function Text<C extends React.ElementType = 'span'>({
 - **Compatible Platforms**: Claude, ChatGPT, Gemini
 
 ### Related Skills
-- [web-accessibility](../web-accessibility/SKILL.md): Accessible components
-- [state-management](../state-management/SKILL.md): Component state management
+- [web-accessibility](SKILL.md): Accessible components
+- [state-management](SKILL.md): Component state management
 
 ### Tags
 `#UI-components` `#React` `#design-patterns` `#composition` `#TypeScript` `#frontend`

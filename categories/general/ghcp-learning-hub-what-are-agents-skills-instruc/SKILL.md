@@ -22,7 +22,7 @@ Agents are configuration files (`*.agent.md`) that describe:
 
 When you assign an issue to Copilot or open the **Agents** panel in VS Code, these configurations let you swap in a specialized assistant. Each agent in this repo lives under `agents/` and includes metadata about the tools it depends on.
 
-In products that support delegation, a primary agent can also launch temporary subagents for focused work such as planning, research, or review. See [Agents and Subagents](../agents-and-subagents/) for the coordination model.
+In products that support delegation, a primary agent can also launch temporary subagents for focused work such as planning, research, or review. See [Agents and Subagents]() for the coordination model.
 
 ### When to reach for an agent
 
@@ -93,7 +93,7 @@ By combining all three, teams can achieve:
 ## Next steps
 
 - Explore the rest of the **Fundamentals** track for deeper dives on chat modes, collections, and MCP servers.
-- Browse the [Awesome Agents](../../agents/), [Skills](../../skills/), and [Instructions](../../instructions/) directories for inspiration.
+- Browse the [Awesome Agents](), [Skills](), and [Instructions]() directories for inspiration.
 - Try generating your own artifacts, then add them to the repo to keep the Learning Hub evolving.
 
 ---

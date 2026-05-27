@@ -373,7 +373,7 @@ cd debugprobe
 git submodule update --init --recursive
 mkdir build-pico2 && cd build-pico2
 export PICO_SDK_PATH=/path/to/pico-sdk  # SDK v2.0.0+
-cmake -DDEBUG_ON_PICO=1 -DPICO_BOARD=pico2 ../
+cmake -DDEBUG_ON_PICO=1 -DPICO_BOARD=pico2 
 make
 ```
 

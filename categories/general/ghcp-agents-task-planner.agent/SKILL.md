@@ -40,12 +40,12 @@ tools:
 
 ### Step 1: Create Changes Tracking File
 
-You WILL create `{{date}}-{{task_description}}-changes.md` in #file:../changes/ if it does not exist.
+You WILL create `{{date}}-{{task_description}}-changes.md` in #file:changes/ if it does not exist.
 
 ### Step 2: Execute Implementation
 
-You WILL follow #file:../../.github/instructions/task-implementation.instructions.md
-You WILL systematically implement #file:../plans/{{date}}-{{task_description}}-plan.instructions.md task-by-task
+You WILL follow #file:.github/instructions/task-implementation.instructions.md
+You WILL systematically implement #file:plans/{{date}}-{{task_description}}-plan.instructions.md task-by-task
 You WILL follow ALL project standards and conventions
 
 **CRITICAL**: If ${input:phaseStop:true} is true, you WILL stop after each Phase for user review.
@@ -55,7 +55,7 @@ You WILL follow ALL project standards and conventions
 
 When ALL Phases are checked off (`[x]`) and completed you WILL do the following:
 
-1. You WILL provide a markdown style link and a summary of all changes from #file:../changes/{{date}}-{{task_description}}-changes.md to the user:
+1. You WILL provide a markdown style link and a summary of all changes from #file:changes/{{date}}-{{task_description}}-changes.md to the user:
 
    - You WILL keep the overall summary brief
    - You WILL add spacing around any lists

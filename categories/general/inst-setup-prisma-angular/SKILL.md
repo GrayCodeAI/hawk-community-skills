@@ -278,7 +278,7 @@ export class PostsService {
 ```typescript
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { UsersService } from '../../services/users.service';
+import { UsersService } from 'services/users.service';
 import { User } from '@prisma/client';
 
 @Component({
@@ -386,7 +386,7 @@ export class UsersComponent implements OnInit {
 ```typescript
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
-import { PostsService } from '../../services/posts.service';
+import { PostsService } from 'services/posts.service';
 import { Post } from '@prisma/client';
 
 @Component({

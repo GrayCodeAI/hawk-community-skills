@@ -39,7 +39,7 @@ See [implementation examples](references/example.md)
 ## Caching Strategy
 
 - **Application Cache**: Use `@nestjs/cache-manager` for computation results.
- - **Deep Dive**: See **[Caching & Redis](../nestjs-caching/SKILL.md)** for L1/L2 strategies and Invalidation patterns.
+ - **Deep Dive**: See **[Caching & Redis](SKILL.md)** for L1/L2 strategies and Invalidation patterns.
 - **HTTP Cache**: Set `Cache-Control` headers for client-side caching (CDN/Browser).
 - **Distributed**: In microservices, use Redis store, not memory store.
 

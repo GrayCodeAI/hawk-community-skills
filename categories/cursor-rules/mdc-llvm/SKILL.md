@@ -125,7 +125,7 @@ Use CMake effectively for incremental builds. Avoid full rebuilds.
 
 ```bash
 # Configure for debug with assertions
-cmake -G Ninja -DLLVM_ENABLE_ASSERTIONS=On -DCMAKE_BUILD_TYPE=Debug ../llvm-project/llvm
+cmake -G Ninja -DLLVM_ENABLE_ASSERTIONS=On -DCMAKE_BUILD_TYPE=Debug llvm-project/llvm
 # Build only the necessary targets
 ninja MyPassName
 ```

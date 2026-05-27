@@ -162,7 +162,7 @@ const handleLogout = async () => {
 import { ref } from 'vue';
 import { useCollection, useDocument } from 'vuefire';
 import { collection, doc, addDoc, updateDoc, deleteDoc, query, orderBy, limit } from 'firebase/firestore';
-import { db } from '../firebase';
+import { db } from 'firebase';
 
 // Collection reference
 const todosCollection = collection(db, 'todos');
@@ -269,7 +269,7 @@ const deleteTodo = async (todoId: string) => {
 ```vue
 <script setup lang="ts">
 import { ref } from 'vue';
-import { storage } from '../firebase';
+import { storage } from 'firebase';
 import { ref as storageRef, uploadBytes, getDownloadURL, deleteObject } from 'firebase/storage';
 import { useCurrentUser } from 'vuefire';
 

@@ -70,8 +70,8 @@ describe('calculateDiscount', () => {
 **Mocking strategy**:
 ```typescript
 // Mock external dependencies
-jest.mock('../services/emailService');
-import { sendEmail } from '../services/emailService';
+jest.mock('services/emailService');
+import { sendEmail } from 'services/emailService';
 
 describe('UserService', () => {
   it('should send welcome email on registration', async () => {
@@ -277,8 +277,8 @@ it('should return false for non-palindrome', () => {
 - **Compatible platforms**: Claude, ChatGPT, Gemini
 
 ### Related skills
-- [backend-testing](../backend-testing/SKILL.md)
-- [code-review](../code-review/SKILL.md)
+- [backend-testing](SKILL.md)
+- [code-review](SKILL.md)
 
 ### Tags
 `#testing` `#test-strategy` `#TDD` `#unit-test` `#integration-test` `#E2E` `#code-quality`

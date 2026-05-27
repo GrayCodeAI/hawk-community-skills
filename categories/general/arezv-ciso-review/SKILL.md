@@ -55,8 +55,8 @@ The risk-paranoid threat-modeler. Six questions before any production change tha
 ## Workflow
 
 ```bash
-python ../../../skills/ciso-advisor/scripts/risk_quantifier.py
-python ../../../skills/ciso-advisor/scripts/compliance_tracker.py
+python skills/ciso-advisor/scripts/risk_quantifier.py
+python skills/ciso-advisor/scripts/compliance_tracker.py
 ```
 
 ## Output Format
@@ -106,9 +106,9 @@ python ../../../skills/ciso-advisor/scripts/compliance_tracker.py
 
 ## Related
 
-- Agent: [`cs-ciso-advisor`](../../agents/cs-ciso-advisor.md)
-- Skill: [`ciso-advisor`](../../../skills/ciso-advisor/SKILL.md)
-- Compliance: `../../../../ra-qm-team/`
+- Agent: [`cs-ciso-advisor`](cs-ciso-advisor.md)
+- Skill: [`ciso-advisor`](SKILL.md)
+- Compliance: `ra-qm-team/`
 
 ---
 

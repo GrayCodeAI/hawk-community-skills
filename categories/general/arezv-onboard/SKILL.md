@@ -111,15 +111,15 @@ Saved to `~/.claude/company-context.md`:
 
 By default, `~/.claude/company-context.md` is local to the founder's machine. To make it persistent across machines / shareable:
 
-- **Markdown vault (recommended):** see [`../../references/llm-wiki-bridge.md`](../../references/llm-wiki-bridge.md)
+- **Markdown vault (recommended):** see [`references/llm-wiki-bridge.md`](llm-wiki-bridge.md)
 - **Encrypted dotfile sync:** age + git
 - **Shared team:** keep in a private repo, symlink from `~/.claude/`
 
 ## Related
 
-- Skill: [`cs-onboard`](../../../skills/cs-onboard/SKILL.md) — the underlying interview protocol
-- Skill: [`context-engine`](../../../skills/context-engine/SKILL.md) — reads this file
-- Reference: [`../../references/llm-wiki-bridge.md`](../../references/llm-wiki-bridge.md)
+- Skill: [`cs-onboard`](SKILL.md) — the underlying interview protocol
+- Skill: [`context-engine`](SKILL.md) — reads this file
+- Reference: [`references/llm-wiki-bridge.md`](llm-wiki-bridge.md)
 
 ---
 

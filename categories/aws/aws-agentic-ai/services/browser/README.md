@@ -357,7 +357,7 @@ aws logs tail /aws/bedrock-agentcore/browser/<AGENT_ID> \
 ---
 
 **Related Services**:
-- [Runtime Service](../runtime/README.md) - Agent execution
-- [Code Interpreter](../code-interpreter/README.md) - Data processing
-- [Memory Service](../memory/README.md) - State management
-- [Observability Service](../observability/README.md) - Monitoring
+- [Runtime Service](README.md) - Agent execution
+- [Code Interpreter](README.md) - Data processing
+- [Memory Service](README.md) - State management
+- [Observability Service](README.md) - Monitoring

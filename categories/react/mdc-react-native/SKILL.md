@@ -77,7 +77,7 @@ Configure and use absolute imports to avoid deeply nested relative paths.
 **❌ BAD:**
 
 ```typescript
-import { Button } from '../../../../components/Button/Button';
+import { Button } from 'components/Button/Button';
 ```
 
 **✅ GOOD:**

@@ -227,6 +227,6 @@ aws cloudwatch get-metric-statistics \
 ---
 
 **Related Services**:
-- [Runtime Service](../runtime/README.md) - Agent execution environment
-- [Memory Service](../memory/README.md) - State management
-- [Observability Service](../observability/README.md) - Monitoring and tracing
+- [Runtime Service](README.md) - Agent execution environment
+- [Memory Service](README.md) - State management
+- [Observability Service](README.md) - Monitoring and tracing

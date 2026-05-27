@@ -121,5 +121,5 @@ file /tmp/screenshot.png
 
 ## Cross-References
 
-- [`engineering/browser-automation`](../browser-automation/SKILL.md) — General browser automation patterns via CDP/Playwright
-- [`engineering/performance-profiler`](../performance-profiler/SKILL.md) — Performance analysis that may complement visual captures
+- [`engineering/browser-automation`](SKILL.md) — General browser automation patterns via CDP/Playwright
+- [`engineering/performance-profiler`](SKILL.md) — Performance analysis that may complement visual captures

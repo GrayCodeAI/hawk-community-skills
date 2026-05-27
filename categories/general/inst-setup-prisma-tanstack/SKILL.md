@@ -88,7 +88,7 @@ export { prisma }
 
 2. Create API service functions `src/services/api.ts`:
 ```typescript
-import { prisma } from '../lib/prisma'
+import { prisma } from 'lib/prisma'
 import type { User, Post, Prisma } from '@prisma/client'
 
 export const api = {
@@ -209,7 +209,7 @@ export function QueryProvider({ children }: { children: React.ReactNode }) {
 2. Create custom hooks for users `src/hooks/useUsers.ts`:
 ```typescript
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
-import { api } from '../services/api'
+import { api } from 'services/api'
 import type { User, Prisma } from '@prisma/client'
 
 export function useUsers() {
@@ -263,7 +263,7 @@ export function useUser(id: number) {
 3. Create custom hooks for posts `src/hooks/usePosts.ts`:
 ```typescript
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
-import { api } from '../services/api'
+import { api } from 'services/api'
 import type { Post, Prisma } from '@prisma/client'
 
 export function usePosts() {
@@ -319,7 +319,7 @@ export function usePost(id: number) {
 1. Create a users component `src/components/Users.tsx`:
 ```typescript
 import { useState } from 'react'
-import { useUsers } from '../hooks/useUsers'
+import { useUsers } from 'hooks/useUsers'
 
 export function Users() {
   const { users, isLoading, error, createUser, updateUser, deleteUser } = useUsers()
@@ -371,7 +371,7 @@ export function Users() {
 2. Create a posts component `src/components/Posts.tsx`:
 ```typescript
 import { useState } from 'react'
-import { usePosts } from '../hooks/usePosts'
+import { usePosts } from 'hooks/usePosts'
 
 export function Posts() {
   const { posts, isLoading, error, createPost, updatePost, deletePost } = usePosts()
