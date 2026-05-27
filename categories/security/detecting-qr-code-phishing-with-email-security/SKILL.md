@@ -92,3 +92,6 @@ QR code phishing (quishing) is a rapidly growing attack vector where malicious U
 - Mobile devices alert on malicious QR destinations
 - User reporting rate for quishing simulations exceeds 50%
 - False positive rate for QR detection below 1%
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

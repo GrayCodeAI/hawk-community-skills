@@ -39,3 +39,4 @@ MISP (Malware Information Sharing Platform) is an open-source threat intelligenc
 ## Expected Output
 
 A JSON report summarizing events created, attributes added, tags applied, feed sync status, and any correlation hits against existing intelligence, with event IDs and distribution metadata.
+@ref(api-reference.md)

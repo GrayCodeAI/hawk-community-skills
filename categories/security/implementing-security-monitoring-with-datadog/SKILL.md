@@ -18,3 +18,4 @@ Configure Datadog Cloud SIEM for security event monitoring, create detection rul
 - Datadog account with Security Monitoring enabled
 - Python 3.9+ with `datadog-api-client` library
 - API and Application keys from Datadog
+@ref(api-reference.md)

@@ -39,3 +39,4 @@ Test connectivity between pods to verify policies are correctly enforced.
 ## Expected Output
 
 JSON audit report listing all network policies, unprotected namespaces, policy rule counts, and connectivity test results.
+@ref(api-reference.md)

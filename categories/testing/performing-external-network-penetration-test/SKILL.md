@@ -326,3 +326,6 @@ meterpreter> keyscan_start
 - NIST SP 800-115: Technical Guide to Information Security Testing: https://csrc.nist.gov/publications/detail/sp/800-115/final
 - OSSTMM v3: https://www.isecom.org/OSSTMM.3.pdf
 - MITRE ATT&CK: https://attack.mitre.org/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

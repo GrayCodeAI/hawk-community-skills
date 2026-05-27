@@ -138,3 +138,6 @@ ZPA supports clientless browser-based access for web applications, enabling ZTNA
 - CISA Zero Trust Maturity Model v2.0 - Network Pillar
 - Zscaler Private Access Architecture Guide
 - CSA Software-Defined Perimeter and Zero Trust Specification v2.0
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

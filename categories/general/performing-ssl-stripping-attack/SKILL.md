@@ -244,3 +244,4 @@ ping -c 1 192.168.1.1
 3. Add Content-Security-Policy: upgrade-insecure-requests header
 4. Implement certificate transparency monitoring for the domain
 ```
+@ref(api-reference.md)

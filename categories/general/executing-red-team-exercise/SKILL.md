@@ -167,3 +167,4 @@ Convert red team findings into defensive improvements:
 3. Enhance PowerShell logging (Script Block Logging, Module Logging)
 4. Deploy memory-scanning EDR capability to detect process injection
 ```
+@ref(api-reference.md)

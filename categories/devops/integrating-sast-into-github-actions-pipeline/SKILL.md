@@ -311,3 +311,6 @@ QUALITY GATE: FAILED
 
 Action Required: Fix blocking findings before merge is permitted.
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

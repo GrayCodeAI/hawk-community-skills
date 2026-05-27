@@ -256,3 +256,6 @@ prowler aws -M json-ocsf -o ./prowler_results/
 - AzureHound: https://github.com/BloodHoundAD/AzureHound
 - AWS Penetration Testing Policy: https://aws.amazon.com/security/penetration-testing/
 - HackTricks Cloud: https://cloud.hacktricks.wiki/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

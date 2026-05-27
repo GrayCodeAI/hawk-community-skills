@@ -125,3 +125,4 @@ Document analysis in structured format:
 - **Analysis without confidence levels**: Diamond Model conclusions presented without confidence qualifiers appear more certain than the evidence supports.
 - **Ignoring the victim vertex**: Analysis often over-focuses on adversary/capability and neglects victim characterization, which provides crucial context for predicting future targeting.
 - **Static diagrams**: Diamond events should be time-stamped and evolve as new evidence emerges. Static diagrams without version history mask analytic evolution.
+@ref(api-reference.md)

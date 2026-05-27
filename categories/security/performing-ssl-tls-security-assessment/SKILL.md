@@ -38,3 +38,4 @@ Produce a JSON report with compliance findings and remediation recommendations.
 ## Expected Output
 
 JSON report with supported protocols, accepted cipher suites, certificate details, vulnerability results (Heartbleed, ROBOT), and HSTS status.
+@ref(api-reference.md)

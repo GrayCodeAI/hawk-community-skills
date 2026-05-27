@@ -241,3 +241,6 @@ FAILED CHECKS:
 
 QUALITY GATE: FAILED (2 HIGH severity findings)
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

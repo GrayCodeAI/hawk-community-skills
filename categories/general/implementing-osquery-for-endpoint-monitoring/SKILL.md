@@ -31,3 +31,4 @@ python scripts/agent.py --results-dir /var/log/osquery/results/ --output osquery
 ```json
 {"schedule": {"process_snapshot": {"query": "SELECT pid, name, path, cmdline, uid FROM processes WHERE on_disk = 0;", "interval": 300}}}
 ```
+@ref(api-reference.md)

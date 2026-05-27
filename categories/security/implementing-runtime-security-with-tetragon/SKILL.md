@@ -262,3 +262,6 @@ spec:
 - [CNCF Tetragon Project Page](https://www.cncf.io/projects/tetragon/)
 - [eBPF Security Observability with Tetragon - CoreWeave](https://docs.coreweave.com/security/tutorials/ebpf-observability)
 - [Kubernetes Security: eBPF & Tetragon for Runtime Monitoring](https://medium.com/@noah_h/kubernetes-security-ebpf-tetragon-for-runtime-monitoring-policy-enforcement-819b6ed97953)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

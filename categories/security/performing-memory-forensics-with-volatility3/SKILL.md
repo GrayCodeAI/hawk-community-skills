@@ -282,3 +282,4 @@ Memory Forensics Analysis:
 
   Extracted Artifacts:   15 files dumped to /analysis/extracted/
 ```
+@ref(api-reference.md)

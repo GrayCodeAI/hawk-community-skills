@@ -223,3 +223,4 @@ PhotoRec Recovery Summary:
   Output Directory: /cases/case-2024-001/recovered/all/
   Hash Manifest:    /cases/case-2024-001/recovered/recovered_hashes.txt
 ```
+@ref(api-reference.md)

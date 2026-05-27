@@ -315,3 +315,4 @@ if __name__ == "__main__":
 - [NIST SP 800-125B - Secure Virtual Network Configuration](https://csrc.nist.gov/publications/detail/sp/800-125b/final)
 - [PCI DSS v4.0 - Network Segmentation](https://www.pcisecuritystandards.org/)
 - [Faddom Network Segmentation Best Practices 2025](https://faddom.com/10-network-segmentation-best-practices-to-know-in-2025/)
+@ref(api-reference.md)

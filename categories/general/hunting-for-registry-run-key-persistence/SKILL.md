@@ -39,3 +39,4 @@ Registry Run keys (T1547.001) are one of the most commonly used persistence mech
 ## Expected Output
 
 A JSON report listing suspicious Run key entries with the registry path, value written, modifying process, timestamp, MITRE technique mapping, severity rating, and recommended Sigma detection rules.
+@ref(api-reference.md)

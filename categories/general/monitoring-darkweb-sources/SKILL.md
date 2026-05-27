@@ -117,3 +117,4 @@ For each dark web finding:
 - **Missing clearnet sources**: Most dark web intelligence programs miss Telegram channels, Discord servers, and paste sites which operate on the clearnet and host significant criminal activity.
 - **Inadequate legal review**: Dark web monitoring must be reviewed by legal counsel — passive monitoring is generally lawful but active participation in criminal markets is not.
 - **No evidence preservation**: Dark web content disappears rapidly. Capture timestamped evidence immediately upon discovery using commercial service exports.
+@ref(api-reference.md)

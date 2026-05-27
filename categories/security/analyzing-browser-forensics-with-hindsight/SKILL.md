@@ -213,3 +213,6 @@ if __name__ == "__main__":
 - Chrome Forensics Guide: https://allenace.medium.com/hindsight-chrome-forensics-made-simple-425db99fa5ed
 - Browser Forensics Tools: https://www.cyberforensicacademy.com/blog/browser-forensics-tools-how-to-extract-user-activity
 - Chromium Source (History): https://source.chromium.org/chromium/chromium/src/+/main:components/history/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

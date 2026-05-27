@@ -38,3 +38,4 @@ Reconstruct chronological execution timeline from all Prefetch files.
 ## Expected Output
 
 JSON report with execution history, suspicious executables, renamed binary indicators, and timeline reconstruction.
+@ref(api-reference.md)

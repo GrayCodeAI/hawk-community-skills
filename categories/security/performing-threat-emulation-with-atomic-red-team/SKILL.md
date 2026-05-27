@@ -45,3 +45,4 @@ for test in tests.get("atomic_tests", []):
     print(f"Test: {test['name']}")
     print(f"  Platforms: {test.get('supported_platforms', [])}")
 ```
+@ref(api-reference.md)

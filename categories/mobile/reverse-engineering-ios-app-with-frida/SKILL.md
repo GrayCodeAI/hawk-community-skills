@@ -233,3 +233,6 @@ if (ObjC.available) {
 - **Swift-only classes**: Pure Swift classes without `@objc` annotation are not visible through `ObjC.classes`. Use `Module.enumerateExports()` instead.
 - **Stripped binaries**: Release builds strip debug symbols. Combine frida-trace with class-dump output for effective analysis.
 - **Anti-Frida measures**: Sophisticated apps check for Frida artifacts (frida-server process, Frida agent strings in memory, injected libraries in dyld). Use stealthy Frida builds or Frida Gadget injection.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -299,3 +299,6 @@ kubectl get namespaces -L pod-security.kubernetes.io/enforce
 6. **Combine with Gatekeeper** for additional custom policies beyond PSA
 7. **Use restricted profile** for all production workloads
 8. **Document exemptions** with clear justification
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

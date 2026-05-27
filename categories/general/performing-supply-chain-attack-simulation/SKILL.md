@@ -32,3 +32,4 @@ Software supply chain attacks exploit trust in package registries through typosq
 ## Output
 
 JSON report with risk scores per package, detected attack vectors, hash verification results, and CVE findings.
+@ref(api-reference.md)

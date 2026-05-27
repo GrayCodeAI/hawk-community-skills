@@ -425,3 +425,4 @@ sudo iptables -I FORWARD -s 10.10.5.23 -j DROP
 2. Credential dumping not detected (no LSASS monitoring)
 3. 30-minute gap between first lateral movement and alert
 ```
+@ref(api-reference.md)

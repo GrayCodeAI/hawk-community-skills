@@ -239,3 +239,6 @@ resource "aws_iam_role" "app_role" {
 - [When and Where to Use Permission Boundaries - AWS Security Blog](https://aws.amazon.com/blogs/security/when-and-where-to-use-iam-permissions-boundaries/)
 - [AWS Example Permission Boundary - GitHub](https://github.com/aws-samples/example-permissions-boundary)
 - [AWS Prescriptive Guidance - Creating Permission Boundaries](https://docs.aws.amazon.com/prescriptive-guidance/latest/transitioning-to-multiple-aws-accounts/creating-a-permissions-boundary.html)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

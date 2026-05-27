@@ -338,3 +338,6 @@ for site in sites:
 - building-vulnerability-data-pipeline-with-api
 - implementing-wazuh-for-vulnerability-detection
 - performing-remediation-validation-scanning
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

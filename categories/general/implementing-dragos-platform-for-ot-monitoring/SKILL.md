@@ -341,3 +341,4 @@ SIEM INTEGRATION:
   Status: [Connected/Disconnected]
   Events Forwarded (Last 24h): [count]
 ```
+@ref(api-reference.md)

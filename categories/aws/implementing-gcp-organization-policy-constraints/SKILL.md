@@ -249,3 +249,6 @@ gcloud asset search-all-resources \
 - GCP Organization Policy Constraints: https://docs.google.com/resource-manager/docs/organization-policy/org-policy-constraints
 - GCP Policy Intelligence: https://cloud.google.com/policy-intelligence
 - CIS GCP Foundations Benchmark
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

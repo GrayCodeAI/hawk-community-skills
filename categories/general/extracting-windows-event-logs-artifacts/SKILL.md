@@ -323,3 +323,4 @@ Windows Event Log Analysis Summary:
     Hayabusa: /analysis/hayabusa_timeline.csv
     Critical Events: /analysis/critical_events.json
 ```
+@ref(api-reference.md)

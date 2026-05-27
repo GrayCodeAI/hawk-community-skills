@@ -346,3 +346,4 @@ The user profile update endpoint at `PUT /api/users/{id}` accepts a `role` field
 5. Use allowlists for mass assignment (only permit expected fields)
 6. Implement audit logging for all access control decisions
 ```
+@ref(api-reference.md)

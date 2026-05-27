@@ -119,3 +119,6 @@ Deploy Cisco Duo multi-factor authentication across enterprise applications, VPN
 - [ ] Authentication logs forwarded to SIEM
 - [ ] Bypass/emergency access procedures tested
 - [ ] MFA fatigue detection alerts configured
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

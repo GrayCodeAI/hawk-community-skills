@@ -184,3 +184,4 @@ Add authorization middleware that verifies the authenticated user's ID matches
 the order's userId field before returning order data. Implement UUIDs instead
 of sequential integers for order identifiers to prevent enumeration.
 ```
+@ref(api-reference.md)

@@ -279,3 +279,4 @@ Registry Analysis Summary:
   Installed Software:     127 applications
   Suspicious Findings:    3 items flagged for review
 ```
+@ref(api-reference.md)

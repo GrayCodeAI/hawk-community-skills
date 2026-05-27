@@ -112,3 +112,4 @@ Convert successful hunt queries into SIEM detection rules using Sigma format for
 - **Hunting without baselines**: Cannot identify anomalies without knowing normal. Spend time on baseline documentation before hunting.
 - **Query performance impact**: Broad queries against production SIEM during business hours can degrade analyst workflows. Schedule intensive hunts during off-peak hours.
 - **Ignoring false positives systematically**: Track false positive rates per query. Queries with >80% FP rate should be refined or retired before operationalization.
+@ref(api-reference.md)

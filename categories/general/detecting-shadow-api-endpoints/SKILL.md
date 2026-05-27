@@ -351,3 +351,4 @@ plugins:
 - Checkmarx Shadow and Zombie APIs: https://checkmarx.com/learn/api-security/shadow-zombie-apis-undocumented-api-vulnerabilities-threaten-security-posture/
 - Treblle Shadow API Tools: https://treblle.com/blog/top-tools-for-detecting-shadow-apis-and-how-treblle-differs
 - SecureLayer7 Shadow APIs: https://blog.securelayer7.net/shadow-apis-explained-risks-detection-and-prevention/
+@ref(api-reference.md)

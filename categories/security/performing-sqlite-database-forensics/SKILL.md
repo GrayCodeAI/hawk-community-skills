@@ -265,3 +265,6 @@ def decode_mozilla_timestamp(moz_ts: int) -> datetime:
 - Belkasoft SQLite Analysis: https://belkasoft.com/sqlite-analysis
 - Spyder Forensics SQLite Training: https://www.spyderforensics.com/sqlite-forensic-fundamentals-2025/
 - Forensic Analysis of Damaged SQLite Databases: https://www.forensicfocus.com/articles/forensic-analysis-of-damaged-sqlite-databases/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

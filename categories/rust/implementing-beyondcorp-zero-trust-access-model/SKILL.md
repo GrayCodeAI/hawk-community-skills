@@ -313,3 +313,6 @@ VPN DECOMMISSION STATUS:
   Users still on VPN:              148 (5%)
   Planned decommission:            2026-03-15
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -186,3 +186,6 @@ vssadmin list shadows
 - MFT Slack Space Forensic Value: https://www.sygnia.co/blog/the-forensic-value-of-mft-slack-space/
 - MFTECmd Documentation: https://ericzimmerman.github.io/
 - SANS FOR500: Windows Forensic Analysis
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

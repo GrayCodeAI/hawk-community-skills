@@ -126,3 +126,6 @@ Primary Record Type: [A/TXT/CNAME/NULL]
 Data Volume Estimate: [Bytes exfiltrated]
 Risk Level: [Critical/High/Medium/Low]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

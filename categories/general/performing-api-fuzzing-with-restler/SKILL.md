@@ -355,3 +355,4 @@ EOF
 - Uncovered: POST /admin/migrate, DELETE /admin/cache,
   PUT /config/advanced, POST /webhooks/test
 ```
+@ref(api-reference.md)

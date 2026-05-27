@@ -189,3 +189,6 @@ LaZagne is an open-source post-exploitation tool designed to retrieve credential
 - [ ] Domain credentials validated against AD
 - [ ] Lateral movement opportunities identified from recovered creds
 - [ ] Evidence documented with appropriate handling procedures
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

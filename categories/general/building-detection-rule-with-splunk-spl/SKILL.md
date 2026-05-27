@@ -224,3 +224,6 @@ index=notable
 - [Writing Practical Splunk Detection Rules](https://medium.com/@vitbukac/practical-splunk-detection-rules-how-to-part-1-crawl-a24bc39a4b9d)
 - [Configure Correlation Searches - Splunk Documentation](https://help.splunk.com/en/splunk-enterprise-security-8/splunk-app-for-pci-compliance/installation-and-configuration-manual/6.1/configure-correlation-searches/configure-correlation-searches)
 - [SOC Prime - Correlation Events in Splunk](https://socprime.com/blog/creating-correlation-events-in-splunk-using-alerts/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -305,3 +305,6 @@ MISCONFIGURATION:
 
 QUALITY GATE: FAILED (2 Critical, 5 High findings)
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

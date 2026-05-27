@@ -209,3 +209,6 @@ Code Execution as SYSTEM
 - SharpHound: https://github.com/BloodHoundAD/SharpHound
 - MITRE ATT&CK S0521: https://attack.mitre.org/software/S0521/
 - SpecterOps BloodHound Documentation: https://bloodhound.readthedocs.io/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -278,3 +278,6 @@ Define triage procedures based on precursor confidence level:
 - [ ] Block identified C2 infrastructure
 - [ ] Escalate to incident response team
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

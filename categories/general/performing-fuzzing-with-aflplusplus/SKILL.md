@@ -48,3 +48,4 @@ and persistent mode for high-throughput fuzzing.
   paths found: 1847
   exec speed: 2145/sec
 ```
+@ref(api-reference.md)

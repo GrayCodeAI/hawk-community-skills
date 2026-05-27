@@ -390,3 +390,4 @@ sudo zeekctl netstats
 3. Investigate self-signed TLS certificate on 198.51.100.33
 4. Block 45.33.32.156 and enforce SSH key-only authentication
 ```
+@ref(api-reference.md)

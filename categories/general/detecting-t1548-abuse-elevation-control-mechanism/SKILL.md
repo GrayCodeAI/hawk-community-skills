@@ -116,3 +116,6 @@ User Context: [Account]
 Risk Level: [Critical/High/Medium]
 ATT&CK Technique: [T1548.00x]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

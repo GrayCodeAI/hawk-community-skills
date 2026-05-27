@@ -250,3 +250,4 @@ Autopsy Case Analysis Summary:
   Timeline Events:  1,234,567 entries (filtered to incident window: 892)
   Report:          /cases/case-2024-001/reports/autopsy_report.html
 ```
+@ref(api-reference.md)

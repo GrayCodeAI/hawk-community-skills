@@ -64,3 +64,4 @@ The agent uses bleak's asyncio API to discover nearby BLE devices, connect to ta
   "risk_score": 7.5
 }
 ```
+@ref(api-reference.md)

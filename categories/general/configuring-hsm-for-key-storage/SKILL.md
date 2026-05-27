@@ -70,3 +70,6 @@ Application --> PKCS#11 API --> HSM Provider --> Hardware HSM
 - [ ] Signing/verification uses HSM-resident keys
 - [ ] Keys cannot be exported (non-extractable)
 - [ ] Key listing shows all HSM-stored objects
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

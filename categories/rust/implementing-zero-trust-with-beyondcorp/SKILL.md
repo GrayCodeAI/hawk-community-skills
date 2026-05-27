@@ -41,3 +41,4 @@ Query IAP audit logs, verify policy enforcement, and identify gaps in zero trust
 ## Expected Output
 
 JSON report containing IAP-protected resources, access level definitions, policy binding audit results, and zero trust coverage metrics.
+@ref(api-reference.md)

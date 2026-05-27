@@ -99,3 +99,6 @@ Spearphishing simulation is a targeted social engineering attack vector used by 
 - [ ] Campaign tracked with delivery and interaction metrics
 - [ ] Evidence collected for engagement report
 - [ ] Cleanup performed on infrastructure post-campaign
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

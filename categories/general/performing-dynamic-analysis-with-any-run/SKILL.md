@@ -253,3 +253,4 @@ DROPPED FILES
 payload.dll  SHA-256: abc123... Detection: 48/72 (VirusTotal)
 config.dat   SHA-256: def456... (encrypted configuration)
 ```
+@ref(api-reference.md)

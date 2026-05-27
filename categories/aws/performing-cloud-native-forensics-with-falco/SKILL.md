@@ -47,3 +47,4 @@ falco -r /etc/falco/custom_rules.yaml -o json_output=true
 # Parse JSON alerts
 cat /var/log/falco/alerts.json | python3 -c "import json,sys; [print(json.loads(l)['output']) for l in sys.stdin]"
 ```
+@ref(api-reference.md)

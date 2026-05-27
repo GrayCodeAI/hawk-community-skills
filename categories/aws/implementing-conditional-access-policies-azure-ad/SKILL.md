@@ -36,3 +36,4 @@ Configure Microsoft Entra ID (Azure AD) Conditional Access policies for zero tru
 - [ ] Audit logging enabled and forwarding to SIEM
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
+@ref(api-reference.md)

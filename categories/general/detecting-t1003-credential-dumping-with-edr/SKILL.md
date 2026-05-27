@@ -134,3 +134,6 @@ ATT&CK Technique: [T1003.00x]
 Risk Level: [Critical/High/Medium]
 Credentials at Risk: [Scope assessment]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

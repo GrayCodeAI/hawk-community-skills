@@ -348,3 +348,4 @@ The `.git` directory is accessible on the production server. Using git-dumper, t
 7. Enable TLS 1.2+ on all endpoints; redirect HTTP to HTTPS
 8. Implement secret scanning in CI/CD pipeline (trufflehog/gitleaks)
 ```
+@ref(api-reference.md)

@@ -158,3 +158,6 @@ Security is organized into 9 series based on COSO principles:
 - AICPA SOC 2 Reporting Guide
 - COSO Internal Control Framework 2013
 - Secureframe SOC 2 Trust Services Criteria Guide: https://secureframe.com/hub/soc-2/trust-services-criteria
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

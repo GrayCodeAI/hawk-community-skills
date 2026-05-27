@@ -46,3 +46,4 @@ for step in job.get("steps", []):
     if "${{" in run_cmd and "github.event" in run_cmd:
         print(f"Script injection risk: {run_cmd[:80]}")
 ```
+@ref(api-reference.md)

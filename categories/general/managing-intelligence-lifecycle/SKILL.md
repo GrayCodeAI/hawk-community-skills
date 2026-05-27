@@ -107,3 +107,4 @@ Track metrics quarterly: PIR coverage rate, IOC true positive rate, time-to-diss
 - **Tactical-only focus**: Overemphasis on IOC sharing neglects strategic intelligence that informs security investment and risk decisions.
 - **No metrics program**: Cannot demonstrate CTI program value without tracking detection contributions, true positive rates, and stakeholder satisfaction.
 - **Underfunded collection**: PIRs cannot be answered without appropriate collection sources; document and escalate gaps rather than producing low-confidence estimates.
+@ref(api-reference.md)

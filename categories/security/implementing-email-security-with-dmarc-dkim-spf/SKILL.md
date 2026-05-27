@@ -34,3 +34,4 @@ DKIM: selector1 OK, selector2 OK
 DMARC: v=DMARC1; p=none; rua=mailto:dmarc@example.com (WARN: policy=none, no enforcement)
 Risk: HIGH - p=none with ~all allows email spoofing
 ```
+@ref(api-reference.md)

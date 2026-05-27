@@ -230,3 +230,6 @@ strings process_dump.dmp | findstr -i "password\|token\|session\|bearer"
 - OWASP Thick Client Testing Guide: https://owasp.org/www-project-thick-client-top-10/
 - Ghidra: https://ghidra-sre.org/
 - Echo Mirage: https://sourceforge.net/projects/echomirage/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

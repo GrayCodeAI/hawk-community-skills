@@ -407,3 +407,6 @@ tailscale up --authkey=$TS_AUTHKEY --hostname=ci-runner-$CI_JOB_ID
 - [Headscale - Open Source Control Server](https://github.com/juanfont/headscale)
 - [WireGuard Protocol](https://www.wireguard.com/protocol/)
 - [Tailscale SSH](https://tailscale.com/kb/1193/tailscale-ssh/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

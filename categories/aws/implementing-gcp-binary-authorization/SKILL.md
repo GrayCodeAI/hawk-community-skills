@@ -259,3 +259,6 @@ spec:
 - SLSA Framework: https://slsa.dev
 - Sigstore/Cosign for container signing
 - Google Software Supply Chain Security Best Practices
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

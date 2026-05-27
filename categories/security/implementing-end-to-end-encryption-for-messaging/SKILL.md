@@ -56,3 +56,6 @@ Each message uses a unique encryption key derived from a ratcheting chain. After
 - [ ] Forward secrecy: old keys cannot decrypt new messages
 - [ ] Out-of-order messages can be decrypted
 - [ ] Tampered messages are rejected by authentication
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

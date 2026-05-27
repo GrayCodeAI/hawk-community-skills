@@ -68,3 +68,6 @@ Envelope encryption is a strategy where data is encrypted with a data encryption
 - [ ] Plaintext DEK is wiped from memory after use
 - [ ] Encryption context is validated during decryption
 - [ ] Key rotation re-encrypts DEKs with new master key
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

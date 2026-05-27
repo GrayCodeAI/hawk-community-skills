@@ -43,3 +43,4 @@ spray = df[df["status"] == "failed"].groupby(["source_ip", "password_hash"]).agg
     accounts=("username", "nunique")).reset_index()
 sprays = spray[spray["accounts"] > 10]
 ```
+@ref(api-reference.md)

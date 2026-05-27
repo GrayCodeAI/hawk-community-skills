@@ -213,3 +213,6 @@ kubectl run frontend-test --image=busybox --labels=app=frontend --restart=Never 
 - [Calico Network Policies](https://docs.tigera.io/calico/latest/network-policy/)
 - [Cilium Network Policies](https://docs.cilium.io/en/stable/security/policy/)
 - [Network Policy Editor](https://editor.networkpolicy.io/)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -219,3 +219,4 @@ python3 jwt_tool.py <JWT_TOKEN> -S hs256 -p "discovered_secret" \
 - Ignore jku/x5u headers or validate against known endpoints
 - Set appropriate token expiration (exp) and implement token revocation
 ```
+@ref(api-reference.md)

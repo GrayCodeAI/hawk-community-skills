@@ -204,3 +204,6 @@ kubectl auth can-i delete nodes --as=system:serviceaccount:app:web-server
 - [rbac-tool GitHub](https://github.com/alcideio/rbac-tool)
 - [KubiScan - Risky Permissions Scanner](https://github.com/cyberark/KubiScan)
 - [CIS Kubernetes Benchmark - Section 5.1](https://www.cisecurity.org/benchmark/kubernetes)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

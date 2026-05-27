@@ -64,3 +64,6 @@ Hash cracking is an essential skill for penetration testers and security auditor
 - [ ] Mask attack cracks short passwords
 - [ ] Results report shows password strength distribution
 - [ ] All operations performed within authorized scope
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -150,3 +150,6 @@ Access Mask: [Granted access value]
 Risk Level: [Critical/High/Medium/Low]
 ATT&CK Sub-Technique: [T1055.xxx]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

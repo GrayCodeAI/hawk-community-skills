@@ -209,3 +209,6 @@ TRANSPARENCY LOG:
   Log index range: 24658135-24658137
   Verification: https://search.sigstore.dev
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

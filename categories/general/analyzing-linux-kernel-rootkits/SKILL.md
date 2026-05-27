@@ -40,3 +40,4 @@ Run rkhunter and chkrootkit to detect known rootkit signatures, suspicious files
 ## Expected Output
 
 JSON report containing detected syscall hooks, hidden kernel modules, modified IDT entries, suspicious /proc discrepancies, and rkhunter findings.
+@ref(api-reference.md)

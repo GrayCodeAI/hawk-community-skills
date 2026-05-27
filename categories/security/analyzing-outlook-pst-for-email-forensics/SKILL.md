@@ -239,3 +239,6 @@ Key headers for forensic investigation:
 - libpff Documentation: https://github.com/libyal/libpff
 - PST File Format Specification: https://docs.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/
 - SANS Email Forensics: https://www.sans.org/blog/email-forensics/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

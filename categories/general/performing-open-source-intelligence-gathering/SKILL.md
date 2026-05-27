@@ -104,3 +104,6 @@ Open Source Intelligence (OSINT) gathering is the first active phase of a red te
 - [ ] Credential leak assessment completed
 - [ ] Attack surface map documented
 - [ ] OSINT report compiled for engagement team
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -236,3 +236,6 @@ Get-WinEvent -LogName "Microsoft-Windows-AppLocker/EXE and DLL" `
 - **Forgetting Application Identity service**: AppLocker requires the AppIDSvc service running. If it stops, all rules stop enforcing.
 - **Admin bypass**: Local administrators can bypass AppLocker by default. For full enforcement, combine with WDAC which enforces for all users including admins.
 - **DLL rule performance**: Enabling DLL rules creates significant performance overhead. Only enable in high-security environments where the tradeoff is justified.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

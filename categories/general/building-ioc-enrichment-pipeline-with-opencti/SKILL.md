@@ -244,3 +244,6 @@ class CustomEnrichmentConnector:
 
 if __name__ == "__main__":
     connector = CustomEnrichmentConnector()
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

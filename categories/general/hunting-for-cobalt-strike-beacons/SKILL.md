@@ -41,3 +41,4 @@ Combine multiple indicators (TLS + timing + HTTP profile) into a composite beaco
 ## Expected Output
 
 JSON report containing detected beacon candidates with confidence scores, TLS fingerprints, timing analysis, HTTP profile matches, and recommended response actions.
+@ref(api-reference.md)

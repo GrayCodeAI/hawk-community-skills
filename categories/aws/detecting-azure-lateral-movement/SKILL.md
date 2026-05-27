@@ -54,3 +54,4 @@ Create Sentinel playbooks (Logic Apps) to automatically revoke suspicious OAuth 
 ## Expected Output
 
 JSON report containing detected lateral movement indicators, correlated event chains, affected identities, and recommended containment actions with MITRE ATT&CK technique mappings.
+@ref(api-reference.md)

@@ -492,3 +492,4 @@ RECOMMENDED ACTIONS:
   2. Block unauthorized sources at industrial firewall
   3. Validate PLC register values against known-good state
 ```
+@ref(api-reference.md)

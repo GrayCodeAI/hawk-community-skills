@@ -39,3 +39,4 @@ Cross-reference account changes with authentication events to identify initial c
 ## Expected Output
 
 JSON report with detected account manipulation events, privileged group changes, shadow admin indicators, and timeline correlation.
+@ref(api-reference.md)

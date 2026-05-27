@@ -218,3 +218,6 @@ After applying the bypass:
 - **Multi-layer pinning**: Apps may implement pinning at multiple levels (OkHttp + custom TrustManager). Bypass all layers.
 - **Binary-level pinning**: Some apps validate certificates in native C/C++ code, which requires Interceptor.attach at native function addresses rather than Java/ObjC hooks.
 - **Dynamic pinning updates**: Apps using TrustKit or similar may fetch updated pins from a server. Monitor for pin rotation during testing.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

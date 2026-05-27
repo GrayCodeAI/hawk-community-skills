@@ -71,3 +71,4 @@ GUID Accessed: [Replication GUID]
 Risk Level: [Critical/High/Medium/Low]
 Recommended Action: [Disable account, reset krbtgt, investigate]
 ```
+@ref(api-reference.md)

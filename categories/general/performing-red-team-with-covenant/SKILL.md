@@ -43,3 +43,4 @@ Generate an operations report documenting all actions, timestamps, and findings.
 ## Expected Output
 
 JSON report with listener configuration, active grunts, executed tasks, and task output for engagement documentation.
+@ref(api-reference.md)

@@ -32,3 +32,4 @@ python scripts/agent.py --log-file /var/log/syslog --chain-file log_chain.json -
 
 ### Tamper Detection
 If entry 42 is modified, chain_hash[42] will not match SHA256(chain_hash[41] + ...), and all entries from 42 onward will be flagged as invalid.
+@ref(api-reference.md)

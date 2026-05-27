@@ -78,3 +78,6 @@ TLS 1.3 (RFC 8446) is the latest version of the Transport Layer Security protoco
 - [ ] OCSP stapling is functional
 - [ ] Certificate chain is valid and complete
 - [ ] testssl.sh reports no vulnerabilities
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

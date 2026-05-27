@@ -64,3 +64,6 @@ Pass-the-Ticket (PtT) is a lateral movement technique that uses stolen Kerberos 
 - [ ] Tickets injected into attacker session
 - [ ] Lateral movement demonstrated using stolen tickets
 - [ ] Evidence captured for reporting
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

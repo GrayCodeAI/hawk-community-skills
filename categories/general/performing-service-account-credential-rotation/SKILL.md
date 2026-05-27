@@ -248,3 +248,6 @@ def verify_service_health(service_endpoints, max_retries=3, delay=10):
 - [AWS Secrets Manager Rotation](https://docs.aws.amazon.com/secretsmanager/latest/userguide/rotating-secrets.html)
 - [Microsoft gMSA Documentation](https://learn.microsoft.com/en-us/windows-server/security/group-managed-service-accounts/group-managed-service-accounts-overview)
 - [HashiCorp Vault Database Secrets Engine](https://developer.hashicorp.com/vault/docs/secrets/databases)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

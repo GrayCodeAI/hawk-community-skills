@@ -36,3 +36,4 @@ Deploy privileged access management for database systems including Oracle, SQL S
 - [ ] Audit logging enabled and forwarding to SIEM
 - [ ] Documentation and runbooks complete
 - [ ] Compliance evidence generated
+@ref(api-reference.md)

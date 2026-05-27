@@ -52,3 +52,4 @@ detection:
   condition: pipe_created | near service_installed
 level: high
 ```
+@ref(api-reference.md)

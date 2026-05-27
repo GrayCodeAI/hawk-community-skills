@@ -254,3 +254,6 @@ DATA_SOURCE_TECHNIQUE_MAP = {
 - [CardinalOps - SIEM Detection Coverage Report 2025](https://www.helpnetsecurity.com/2025/06/09/siem-detection-coverage/)
 - [Datadog - Cloud SIEM MITRE ATT&CK Map](https://www.datadoghq.com/blog/cloud-siem-mitre-attack-map/)
 - [Picus Security - MITRE ATT&CK Framework Guide](https://www.picussecurity.com/mitre-attack-framework)
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

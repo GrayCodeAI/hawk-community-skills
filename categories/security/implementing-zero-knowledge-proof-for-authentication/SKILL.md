@@ -57,3 +57,6 @@ Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret
 - [ ] Non-interactive proof is verifiable offline
 - [ ] Multiple authentications produce different transcripts
 - [ ] Protocol resists replay attacks
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

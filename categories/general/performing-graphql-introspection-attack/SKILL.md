@@ -501,3 +501,4 @@ production database credentials, and execute admin-only mutations.
 5. Disable field suggestions in error messages to prevent schema reconstruction
 6. Rate limit GraphQL requests per query, not just per HTTP request
 ```
+@ref(api-reference.md)

@@ -76,3 +76,6 @@ Risk Level: [Critical/High/Medium/Low]
 Confidence: [High/Medium/Low]
 Recommended Action: [Containment, investigation, monitoring]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -239,3 +239,6 @@ FAILING ALERTS:
 
 QUALITY GATE: FAILED (1 HIGH, 2 MEDIUM findings)
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

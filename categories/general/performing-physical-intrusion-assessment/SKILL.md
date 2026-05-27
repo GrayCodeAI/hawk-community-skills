@@ -189,3 +189,6 @@ Search external waste containers and recycling bins for:
 - NIST SP 800-116 Rev. 1: Smart Card PIV guidelines
 - Deviant Ollam - Physical Security Assessment methodology
 - MITRE ATT&CK T1200: https://attack.mitre.org/techniques/T1200/
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

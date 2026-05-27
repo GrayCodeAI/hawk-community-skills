@@ -230,3 +230,4 @@ RECOMMENDED DETECTIONS
 2. Threshold alert for LSASS access patterns
 3. Behavioral rule for beacon-interval network traffic
 ```
+@ref(api-reference.md)

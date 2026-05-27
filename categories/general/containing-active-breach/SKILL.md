@@ -206,3 +206,4 @@ BUSINESS IMPACT
 - 3 user workstations isolated (users reassigned to loaners)
 - Estimated restoration: pending eradication completion
 ```
+@ref(api-reference.md)

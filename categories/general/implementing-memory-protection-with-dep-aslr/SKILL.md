@@ -77,3 +77,6 @@ GPO: Computer Configuration → Admin Templates → Windows Components
 - **DEP compatibility**: Legacy 32-bit applications may crash with DEP AlwaysOn. Use OptOut with exceptions.
 - **Mandatory ASLR breaking apps**: Some applications are not ASLR-compatible. Test before enforcing ForceRelocateImages.
 - **CFG limited to compiled-in support**: CFG only works for applications compiled with /guard:cf. Cannot be retroactively applied.
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

@@ -98,3 +98,6 @@ Adversary-in-the-Middle (AiTM) phishing attacks use reverse-proxy infrastructure
 - SIEM alerts fire on simulated AiTM sign-in patterns
 - Web proxy blocks connections to known PhaaS infrastructure
 - Post-compromise rules detect inbox rule creation after suspicious auth
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

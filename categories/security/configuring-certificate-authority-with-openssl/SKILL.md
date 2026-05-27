@@ -68,3 +68,6 @@ Root CA (offline, air-gapped)
 - [ ] CRL is generated and accessible
 - [ ] Revoked certificates appear in CRL
 - [ ] Certificate policies are correctly embedded
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

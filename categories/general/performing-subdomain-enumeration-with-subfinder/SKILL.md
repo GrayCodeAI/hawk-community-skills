@@ -178,3 +178,6 @@ subfinder -d example.com -silent | httpx -silent | gowitness file -f - -P screen
 - Investigate subdomains with CNAME pointing to unclaimed services
 - Restrict access to development and staging environments
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

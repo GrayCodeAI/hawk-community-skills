@@ -94,3 +94,6 @@ IOCs Identified: [List]
 Detection Rules Created/Updated: [List]
 Recommendations: [Next steps]
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)

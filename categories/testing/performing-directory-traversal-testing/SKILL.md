@@ -308,3 +308,4 @@ Original `../` stripped by filter. Successful bypass: `....//....//....//etc/pas
 4. Remove sensitive files from web-accessible directories
 5. Disable PHP wrappers (allow_url_include, allow_url_fopen) if not required
 ```
+@ref(api-reference.md)

@@ -238,3 +238,6 @@ SECRETS:
 
 SCORE: 6/10 (Remediate 5 HIGH findings)
 ```
+@ref(api-reference.md)
+@ref(standards.md)
+@ref(workflows.md)
