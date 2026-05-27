@@ -1,3 +1,10 @@
+---
+name: ghcp-references-mockmvc-classic
+description: "Skill: ghcp-references-mockmvc-classic"
+license: MIT
+tags: [general]
+---
+
 # MockMvc Classic
 
 Traditional MockMvc API for Spring MVC controller tests (pre-Spring Boot 3.2 or legacy codebases).

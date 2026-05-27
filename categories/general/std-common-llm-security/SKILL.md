@@ -1,19 +1,13 @@
 ---
-name: common-llm-security
-description: OWASP LLM Top 10 (2025) audit checklist for AI applications, agent tools, RAG pipelines, and prompt construction. Use when performing any security review touching LLM client code, prompt templates, agent tools, or vector stores.
-metadata:
-  triggers:
-    keywords:
-    - LLM security
-    - prompt injection
-    - agent security
-    - RAG security
-    - AI security
-    - openai
-    - anthropic
-    - langchain
-    - LLM review
+name: std-common-llm-security
+description: "OWASP LLM Top 10 (2025) audit checklist for AI applications, agent tools, RAG pipelines, and prompt construction. Use when performing any security review touching LLM client code, prompt templates,..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # OWASP LLM Top 10 Security Checklist (2025)
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,8 +1,10 @@
 ---
-name: buildkite-automation
+name: composio-buildkite-automation
 description: "Automate Buildkite tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Buildkite Automation via Rube MCP

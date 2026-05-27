@@ -1,6 +1,8 @@
 ---
-name: csharp-tunit
-description: 'Get best practices for TUnit unit testing, including data-driven tests'
+name: ghcp-csharp-tunit-skill
+description: "Get best practices for TUnit unit testing, including data-driven tests"
+license: MIT
+tags: [general]
 ---
 
 # TUnit Best Practices

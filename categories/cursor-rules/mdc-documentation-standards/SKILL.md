@@ -1,7 +1,10 @@
 ---
-description: Sets documentation standards, including README files, JSDoc comments, and concise inline comments. This makes the codebase easier to understand and maintain.
-globs: **/*.{svelte,js,ts}
+name: mdc-documentation-standards
+description: "Sets documentation standards, including README files, JSDoc comments, and concise inline comments. This makes the codebase easier to understand and maintain."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Documentation
   - Maintain up-to-date README files for the project and major components
   - Use JSDoc comments for functions and complex logic

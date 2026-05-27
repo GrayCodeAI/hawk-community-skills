@@ -1,3 +1,10 @@
+---
+name: tl-email-routing
+description: "Skill: tl-email-routing"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Troubleshooting
 
 ## Critical Pitfalls

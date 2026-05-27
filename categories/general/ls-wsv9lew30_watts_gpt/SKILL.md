@@ -1,3 +1,10 @@
+---
+name: ls-wsv9lew30_watts_gpt
+description: "Skill: ls-wsv9lew30_watts_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wsv9lew30-watts-gpt
 
 GPT logo: <img src="None" width="100px" />

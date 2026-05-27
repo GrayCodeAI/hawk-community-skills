@@ -1,3 +1,11 @@
+---
+name: gpt-zf7qcel88_text-style-transfer---alice
+description: 'Skill: gpt-zf7qcel88_text-style-transfer---alice'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-ZF7qcel88-style-transfer
 
 GPT Title: Text Style Transfer: Alice

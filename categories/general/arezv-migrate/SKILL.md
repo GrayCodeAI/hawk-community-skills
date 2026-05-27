@@ -1,9 +1,8 @@
 ---
-name: "migrate"
-description: >-
-  Migrate from Cypress or Selenium to Playwright. Use when user mentions
-  "cypress", "selenium", "migrate tests", "convert tests", "switch to
-  playwright", "move from cypress", or "replace selenium".
+name: arezv-migrate
+description: "Skill: arezv-migrate"
+license: MIT
+tags: [general]
 ---
 
 # Migrate to Playwright

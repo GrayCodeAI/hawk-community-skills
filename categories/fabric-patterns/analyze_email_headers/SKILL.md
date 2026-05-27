@@ -1,9 +1,10 @@
 ---
 name: analyze_email_headers
-description: Fabric pattern - analyze_email_headers
-domain: general
+description: "Fabric pattern - analyze_email_headers"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,8 +1,10 @@
 ---
-name: updown-io-automation
+name: composio-updown-io-automation
 description: "Automate Updown IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Updown IO Automation via Rube MCP

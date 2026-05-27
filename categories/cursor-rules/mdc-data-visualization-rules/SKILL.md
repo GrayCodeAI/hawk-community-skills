@@ -1,7 +1,10 @@
 ---
-description: Defines rules for creating informative and visually appealing plots using matplotlib and seaborn, emphasizing proper labels, titles, legends, and color schemes.
-globs: **/*.py
+name: mdc-data-visualization-rules
+description: "Defines rules for creating informative and visually appealing plots using matplotlib and seaborn, emphasizing proper labels, titles, legends, and color schemes."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use matplotlib for low-level plotting control and customization.
 - Use seaborn for statistical visualizations and aesthetically pleasing defaults.
 - Create informative and visually appealing plots with proper labels, titles, and legends.

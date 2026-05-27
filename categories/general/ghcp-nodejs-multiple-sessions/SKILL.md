@@ -1,3 +1,10 @@
+---
+name: ghcp-nodejs-multiple-sessions
+description: "Skill: ghcp-nodejs-multiple-sessions"
+license: MIT
+tags: [general]
+---
+
 # Working with Multiple Sessions
 
 Manage multiple independent conversations simultaneously.

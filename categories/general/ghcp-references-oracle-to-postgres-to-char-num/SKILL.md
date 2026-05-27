@@ -1,3 +1,10 @@
+---
+name: ghcp-references-oracle-to-postgres-to-char-num
+description: "Skill: ghcp-references-oracle-to-postgres-to-char-num"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL: TO_CHAR() Numeric Conversions
 
 ## Contents

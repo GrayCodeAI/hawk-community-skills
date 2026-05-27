@@ -1,9 +1,10 @@
 ---
-name: bpl-security-protocols
-description: System prompt - security-protocols
-domain: general
+name: bpl-txt-security-protocols
+description: "System prompt - security-protocols"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

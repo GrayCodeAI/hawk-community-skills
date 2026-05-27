@@ -1,6 +1,8 @@
 ---
-name: update-avm-modules-in-bicep
-description: 'Update Azure Verified Modules (AVM) to latest versions in Bicep files.'
+name: ghcp-update-avm-modules-in-bicep-skill
+description: "Update Azure Verified Modules (AVM) to latest versions in Bicep files."
+license: MIT
+tags: [general]
 ---
 
 # Update Azure Verified Modules in Bicep Files

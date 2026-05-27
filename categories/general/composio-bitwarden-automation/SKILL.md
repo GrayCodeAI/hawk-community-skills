@@ -1,8 +1,10 @@
 ---
-name: bitwarden-automation
+name: composio-bitwarden-automation
 description: "Automate Bitwarden tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bitwarden Automation via Rube MCP

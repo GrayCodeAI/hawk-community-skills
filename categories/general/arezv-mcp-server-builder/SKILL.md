@@ -1,6 +1,8 @@
 ---
-name: "mcp-server-builder"
+name: arezv-mcp-server-builder
 description: "MCP Server Builder"
+license: MIT
+tags: [general]
 ---
 
 # MCP Server Builder

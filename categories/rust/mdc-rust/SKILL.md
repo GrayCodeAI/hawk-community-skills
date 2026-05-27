@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing idiomatic, performant, and maintainable Rust code, focusing on modern best practices for structure, patterns, and error handling.
-globs: **/*
+name: mdc-rust
+description: "Definitive guidelines for writing idiomatic, performant, and maintainable Rust code, focusing on modern best practices for structure, patterns, and error handling."
+license: MIT
+tags: [rust]
 ---
+
 # Rust Best Practices
 
 This guide outlines our team's definitive best practices for writing Rust code. Adhere to these principles to ensure consistency, performance, and maintainability across all projects.

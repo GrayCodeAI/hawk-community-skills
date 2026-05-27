@@ -1,3 +1,10 @@
+---
+name: ls-jekwplx6n_peptide-pioneer
+description: "Skill: ls-jekwplx6n_peptide-pioneer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jeKWPlx6n-peptide-pioneer
 
 GPT Title: Peptide Pioneer

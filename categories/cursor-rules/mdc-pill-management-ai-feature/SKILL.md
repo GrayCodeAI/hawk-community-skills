@@ -1,7 +1,10 @@
 ---
-description: Rules for the AI-powered pill management feature, focusing on tracking user interactions and generating insights.
-globs: **/pillManagement/**/*.ts
+name: mdc-pill-management-ai-feature
+description: "Rules for the AI-powered pill management feature, focusing on tracking user interactions and generating insights."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Design a feature for a pill management app that tracks user interactions with medications (Take/Skip) and generates monthly adherence reports.
 - The app should:
   - Display pills for "Morning," "Afternoon," and "Night" with buttons for "Take" and "Skip."

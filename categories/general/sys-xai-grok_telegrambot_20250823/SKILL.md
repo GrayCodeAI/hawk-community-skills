@@ -1,3 +1,10 @@
+---
+name: sys-xai-grok_telegrambot_20250823
+description: "Skill: sys-xai-grok_telegrambot_20250823"
+license: MIT
+tags: [general]
+---
+
 # xAI-grok_telegramBot_20250823
 
 source:

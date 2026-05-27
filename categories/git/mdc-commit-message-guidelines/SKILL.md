@@ -1,7 +1,10 @@
 ---
-description: Provides guidelines for creating conventional commit messages, ensuring they adhere to a specific format and are concise.
-globs: *
+name: mdc-commit-message-guidelines
+description: "Provides guidelines for creating conventional commit messages, ensuring they adhere to a specific format and are concise."
+license: MIT
+tags: [git]
 ---
+
 - Always suggest a conventional commit with a type and optional scope in lowercase letters.
 - Keep the commit message concise and within 60 characters.
 - Ensure the commit message is ready to be pasted into the terminal without further editing.

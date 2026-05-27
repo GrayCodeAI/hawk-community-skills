@@ -1,3 +1,10 @@
+---
+name: ghcp-references-ax-setup
+description: "Skill: ghcp-references-ax-setup"
+license: MIT
+tags: [general]
+---
+
 # ax CLI — Troubleshooting
 
 Consult this only when an `ax` command fails. Do NOT run these checks proactively.

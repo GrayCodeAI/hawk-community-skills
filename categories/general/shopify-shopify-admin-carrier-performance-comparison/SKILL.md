@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-carrier-performance-comparison
-role: fulfillment-ops
+name: shopify-shopify-admin-carrier-performance-comparison
 description: "Read-only: compares delivery times and shipping costs across carriers used in fulfillments to inform carrier mix and contract decisions."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - fulfillments:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'fulfillments': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,6 +1,8 @@
 ---
-description: 'Limitations and restrictions of Power Apps Component Framework'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-limitations.instructions
+description: "Skill: ghcp-instructions-pcf-limitations.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Limitations

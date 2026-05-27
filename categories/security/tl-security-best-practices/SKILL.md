@@ -1,9 +1,11 @@
 ---
-name: security-best-practices
-description: Perform language and framework specific security best-practice reviews and suggest improvements. Use when the user explicitly requests security best practices guidance, a security review or report, or secure-by-default coding help. Supports Python, JavaScript/TypeScript, and Go. Do NOT use for general code review, debugging, threat modeling (use security-threat-model), or non-security tasks.
-metadata:
-  author: github.com/openai/skills
-  version: '1.0.0'
+name: tl-security-best-practices
+description: "Perform language and framework specific security best-practice reviews and suggest improvements. Use when the user explicitly requests security best practices guidance, a security review or report,..."
+license: MIT
+tags: [security]
+metadata: None
+author: github.com/openai/skills
+version: 1.0.0
 ---
 
 # Security Best Practices

@@ -1,7 +1,9 @@
 ---
-description: CSS 和样式规范
-globs: *.css, *.scss, *.less, *.styled.ts
-alwaysApply: false
+name: extra-css
+description: "CSS 和样式规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # CSS 和样式规范

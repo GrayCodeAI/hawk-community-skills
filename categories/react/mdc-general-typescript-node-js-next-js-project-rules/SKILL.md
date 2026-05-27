@@ -1,7 +1,10 @@
 ---
-description: General project rules for TypeScript, Node.js, and Next.js projects, covering code style, structure, naming conventions, and TypeScript usage.
-globs: /**/*.(ts|tsx|js|jsx)
+name: mdc-general-typescript-node-js-next-js-project-rules
+description: "General project rules for TypeScript, Node.js, and Next.js projects, covering code style, structure, naming conventions, and TypeScript usage."
+license: MIT
+tags: [react]
 ---
+
 - Write concise, technical TypeScript code with accurate examples.
 - Use functional and declarative programming patterns; avoid classes.
 - Prefer iteration and modularization over code duplication.

@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for using aiohttp, focusing on efficient, robust, and maintainable asynchronous HTTP client code.
-globs: **/*.py
+name: mdc-aiohttp
+description: "This guide defines definitive best practices for using aiohttp, focusing on efficient, robust, and maintainable asynchronous HTTP client code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # `aiohttp` Best Practices
 
 `aiohttp` is our go-to for high-performance asynchronous HTTP client operations. These rules ensure our `aiohttp` code is consistent, efficient, and resilient.

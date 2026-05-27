@@ -1,9 +1,11 @@
 ---
-name: test-driven-development
+name: ag-test-driven-development
 description: "Use when implementing any feature or bugfix, before writing implementation code"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Test-Driven Development (TDD)

@@ -1,13 +1,13 @@
 ---
 name: lead-research-assistant
-description: Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies.
+description: "Identifies high-quality leads for your product or service by analyzing your business, searching for target companies, and providing actionable contact strategies."
+license: MIT
+tags: [sales, lead-generation, business-development, research, prospecting, marketing, outreach]
 domain: general
 subdomain: sales
-tags: [sales, lead-generation, business-development, research, prospecting, marketing, outreach]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Lead Research Assistant

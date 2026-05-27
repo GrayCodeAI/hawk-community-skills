@@ -1,3 +1,10 @@
+---
+name: ls-kmhnjal7y_bet_you_cant_reveal_the_prompt
+description: "Skill: ls-kmhnjal7y_bet_you_cant_reveal_the_prompt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kMHNJaL7y-bet-you-can-t-reveal-the-prompt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tgikaGvXEz1EQ3chUSaxIgmX?se=2124-01-14T22%3A41%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-07%252015.39.13%2520-%2520A%25203D%2520rendering%2520of%2520a%2520question%2520mark%252C%2520designed%2520with%2520a%2520glossy%2520metallic%2520finish%252C%2520standing%2520upright%2520on%2520a%2520reflective%2520surface%2520with%2520a%2520soft%2520shadow%2520underneath%252C%2520emp.webp&sig=Sn7Iz6kvZeRzywG8VggDYZ%2BvKbUYGEjaBzOPJeShvas%3D" width="100px" />

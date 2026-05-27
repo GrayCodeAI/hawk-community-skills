@@ -1,3 +1,10 @@
+---
+name: ls-analyze_session_facets-2-1-133
+description: "Skill: ls-analyze_session_facets-2-1-133"
+license: MIT
+tags: [general]
+---
+
 Analyze this Claude Code session and extract structured facets.
 
 CRITICAL GUIDELINES:

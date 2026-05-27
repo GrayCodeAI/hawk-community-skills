@@ -1,16 +1,11 @@
 ---
 name: cursor-sqlite
-description: Cursor IDE rules for sqlite
-domain: engineering
+description: "Cursor IDE rules for sqlite"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "SQLite: queries, WAL mode, migrations, edge deployment"
-globs: ["*.sql", "*.ts", "*.db"]
-alwaysApply: true
 ---
 
 # SQLite Cursor Rules

@@ -1,7 +1,9 @@
 ---
-description: Automated setup for Peekaboo vision-enabled MCP server
-globs: ""
-alwaysApply: false
+name: extra-mcp-peekaboo-setup
+description: "Automated setup for Peekaboo vision-enabled MCP server"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # MCP Peekaboo Setup

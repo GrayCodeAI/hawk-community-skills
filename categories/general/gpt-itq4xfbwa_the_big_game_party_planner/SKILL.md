@@ -1,3 +1,10 @@
+---
+name: gpt-itq4xfbwa_the_big_game_party_planner
+description: "Skill: gpt-itq4xfbwa_the_big_game_party_planner"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ItQ4XFBwa-the-big-game-party-planner
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BR1l8GTAHqj3RkHSI8P5qPzC?se=2123-12-03T21%3A00%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D41ccf8bd-c352-4612-86ea-6fdf1a13cde8.png&sig=pNIU%2BfPkbo1ZqNZu/9hnY/VUWDAl528n4xDM9CexvFY%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: lexoffice-automation
+name: composio-lexoffice-automation
 description: "Automate Lexoffice tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Lexoffice Automation via Rube MCP

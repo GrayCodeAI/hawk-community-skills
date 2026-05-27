@@ -1,10 +1,9 @@
 ---
-name: qdrant-scaling-data-volume
-description: "Guides Qdrant data volume scaling decisions. Use when someone asks 'data doesn't fit on one node', 'too much data', 'need more storage', 'vertical or horizontal scaling', 'tenant scaling', 'time window rotation', or 'data growth exceeds capacity'."
-allowed-tools:
-  - Read
-  - Grep
-  - Glob
+name: ghcp-scaling-data-volume-skill
+description: "Guides Qdrant data volume scaling decisions. Use when someone asks 'data doesn't fit on one node', 'too much data', 'need more storage', 'vertical or horizontal scaling', 'tenant scaling', 'time wi..."
+license: MIT
+tags: [general]
+allowed-tools: None
 ---
 
 # Scaling Data Volume

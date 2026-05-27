@@ -1,14 +1,9 @@
 ---
-description: "Strategic planning and architecture assistant focused on thoughtful analysis before implementation. Helps developers understand codebases, clarify requirements, and develop comprehensive implementation strategies."
-name: "Plan Mode - Strategic Planning & Architecture"
-tools:
-  - search/codebase
-  - vscode/extensions
-  - web/fetch
-  - read/problems
-  - search/searchResults
-  - search/usages
-  - vscode/vscodeAPI
+name: ghcp-agents-plan.agent
+description: "Strategic planning and architecture assistant focused on thoughtful analysis before implementation. Helps developers understand codebases, clarify requirements, and develop comprehensive implementa..."
+license: MIT
+tags: [general]
+tools: None
 ---
 
 # Plan Mode - Strategic Planning & Architecture Assistant

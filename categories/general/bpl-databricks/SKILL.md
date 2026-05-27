@@ -1,3 +1,10 @@
+---
+name: bpl-databricks
+description: "Skill: bpl-databricks"
+license: MIT
+tags: [general]
+---
+
 # Databrick's DBRX Instruct model system prompt
 
 Some facts by Sandeep Krishnamurthy on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7178902971324227584/)

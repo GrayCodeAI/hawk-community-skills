@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using cheerio effectively in Node.js projects, focusing on robust web scraping, performance, and maintainable code.
-globs: **/*.{js,jsx}
+name: mdc-cheerio
+description: "Definitive guidelines for using cheerio effectively in Node.js projects, focusing on robust web scraping, performance, and maintainable code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # cheerio Best Practices
 
 `cheerio` is your lightweight, server-side jQuery for Node.js, ideal for fast HTML parsing and manipulation. Follow these rules to build efficient, maintainable, and robust scraping solutions.

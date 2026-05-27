@@ -1,7 +1,10 @@
 ---
-description: Prioritizes the method for editing code and defines verbosity levels.
-globs: *
+name: mdc-editing-code-rules
+description: "Prioritizes the method for editing code and defines verbosity levels."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Editing Code (prioritized choices):
   - Return completely edited file
 - Verbosity: I may use V=[0-3] to define code detail:

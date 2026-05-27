@@ -1,18 +1,14 @@
 ---
-name: nextjs-security
-description: Secure Next.js App Router with middleware auth, Server Action validation, CSP headers, and taint APIs. Use when adding authentication middleware, validating Server Action inputs with Zod, or preventing secret leakage to client bundles.
-metadata:
-  triggers:
-    files:
-    - 'app/**/actions.ts'
-    - 'middleware.ts'
-    keywords:
-    - action
-    - boundary
-    - sanitize
-    - auth
-    - jose
+name: std-nextjs-security
+description: "Secure Next.js App Router with middleware auth, Server Action validation, CSP headers, and taint APIs. Use when adding authentication middleware, validating Server Action inputs with Zod, or preven..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Next.js Security
 
 ## **Priority: P0 (CRITICAL)**

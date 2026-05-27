@@ -1,3 +1,10 @@
+---
+name: ghcp-references-reference
+description: "Skill: ghcp-references-reference"
+license: MIT
+tags: [general]
+---
+
 # Reference Index
 
 | File | Brief description |

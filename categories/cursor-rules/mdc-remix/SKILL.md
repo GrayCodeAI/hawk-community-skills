@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for building robust, performant, and maintainable applications with Remix, emphasizing co-location, type safety, and efficient data handling.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-remix
+description: "This guide outlines definitive best practices for building robust, performant, and maintainable applications with Remix, emphasizing co-location, type safety, and efficient data handling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Remix Best Practices
 
 Remix provides a powerful full-stack framework built on React Router v7. Adhering to these guidelines ensures a consistent, high-quality codebase that leverages Remix's strengths for server-rendered applications.

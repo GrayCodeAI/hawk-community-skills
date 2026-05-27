@@ -1,3 +1,10 @@
+---
+name: ls-biespnsiu_swiss-allocations-pour-perte-de-gain
+description: "Skill: ls-biespnsiu_swiss-allocations-pour-perte-de-gain"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BiESPNsiU-swiss-allocations-pour-perte-de-gain
 
 GPT Title: Swiss Allocations pour perte de gain

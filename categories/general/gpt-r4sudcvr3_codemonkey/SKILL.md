@@ -1,3 +1,10 @@
+---
+name: gpt-r4sudcvr3_codemonkey
+description: "Skill: gpt-r4sudcvr3_codemonkey"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-r4sudcvR3-code-monkey
 
 GPT Title: Code Monkey

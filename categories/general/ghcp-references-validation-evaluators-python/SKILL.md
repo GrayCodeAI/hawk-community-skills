@@ -1,3 +1,10 @@
+---
+name: ghcp-references-validation-evaluators-python
+description: "Skill: ghcp-references-validation-evaluators-python"
+license: MIT
+tags: [general]
+---
+
 # Validating Evaluators (Python)
 
 Validate LLM evaluators against human-labeled examples. Target >80% TPR/TNR/Accuracy.

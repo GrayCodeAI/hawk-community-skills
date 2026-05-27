@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Poetry for Python dependency management, packaging, and project structure, emphasizing modern best practices as of 2025.
-globs: **/*.py
+name: mdc-poetry
+description: "Definitive guidelines for using Poetry for Python dependency management, packaging, and project structure, emphasizing modern best practices as of 2025."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # poetry Best Practices
 
 Poetry is the de-facto standard for modern Python project management. This guide outlines our team's definitive best practices for leveraging Poetry's full power, ensuring reproducible builds, streamlined development, and robust packaging.

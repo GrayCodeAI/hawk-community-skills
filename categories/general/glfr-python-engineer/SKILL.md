@@ -1,7 +1,9 @@
 ---
-name: python-engineer
-description: Python 3.12+ with typing, async/await, dataclasses, pydantic, and packaging
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-python-engineer
+description: "Python 3.12+ with typing, async/await, dataclasses, pydantic, and packaging"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

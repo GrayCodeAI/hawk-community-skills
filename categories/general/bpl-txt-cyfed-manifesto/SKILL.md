@@ -1,9 +1,10 @@
 ---
-name: bpl-cyfed-manifesto
-description: System prompt - cyfed-manifesto
-domain: general
+name: bpl-txt-cyfed-manifesto
+description: "System prompt - cyfed-manifesto"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

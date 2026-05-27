@@ -1,3 +1,10 @@
+---
+name: ls-4rf4rwwe7_plugin-surf
+description: "Skill: ls-4rf4rwwe7_plugin-surf"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf
 
 GPT Title: plugin surf

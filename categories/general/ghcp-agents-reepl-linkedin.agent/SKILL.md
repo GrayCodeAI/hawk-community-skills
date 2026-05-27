@@ -1,6 +1,8 @@
 ---
-name: reepl-linkedin
+name: ghcp-agents-reepl-linkedin.agent
 description: "AI-powered LinkedIn content creation, scheduling, and analytics agent. Create posts, carousels, and manage your LinkedIn presence with GitHub Copilot."
+license: MIT
+tags: [general]
 ---
 
 # Reepl -- LinkedIn Content Agent

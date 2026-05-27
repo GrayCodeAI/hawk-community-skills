@@ -1,3 +1,10 @@
+---
+name: gpt-me6blv4cf_carrier-pidgeon[v1]
+description: "Skill: gpt-me6blv4cf_carrier-pidgeon[v1]"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-me6BlV4cF-carrier-pidgeon
 
 GPT title: Carrier Pidgeon

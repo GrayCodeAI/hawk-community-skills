@@ -1,17 +1,14 @@
 ---
-name: nextjs-data-fetching
-description: Implement Fetch API, Caching, and Revalidation strategies in Next.js. Use when fetching data, configuring cache behavior, or implementing revalidation in Next.js.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/service.ts'
-    keywords:
-    - fetch
-    - revalidate
-    - no-store
-    - force-cache
+name: std-nextjs-data-fetching
+description: "Implement Fetch API, Caching, and Revalidation strategies in Next.js. Use when fetching data, configuring cache behavior, or implementing revalidation in Next.js."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Data Fetching (App Router)
 
 ## **Priority: P0 (CRITICAL)**

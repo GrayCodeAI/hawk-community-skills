@@ -1,20 +1,14 @@
 ---
 name: implementing-honeypot-for-ransomware-detection
-description: >
-  Deploys canary files, honeypot shares, and decoy systems to detect ransomware
-  activity at the earliest possible stage. Configures canary tokens embedded in
-  strategic file locations that trigger alerts when ransomware attempts encryption,
-  uses honeypot network shares that mimic high-value targets, and deploys Thinkst
-  Canary appliances for comprehensive deception-based detection. Activates for
-  requests involving ransomware honeypots, canary files, deception technology for
-  ransomware, or early ransomware alerting.
+description: "Deploys canary files, honeypot shares, and decoy systems to detect ransomware activity at the earliest possible stage. Configures canary tokens embedded in strategic file locations that trigger ale..."
+license: MIT
+tags: [ransomware, detection, honeypot, canary, defense, deception]
 domain: cybersecurity
 subdomain: ransomware-defense
-tags: [ransomware, detection, honeypot, canary, defense, deception]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Honeypot for Ransomware Detection
 
 ## When to Use

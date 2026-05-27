@@ -1,7 +1,9 @@
 ---
-name: pii-detect
-description: Detect and flag personally identifiable information (PII) in text, code, and configurations
-argument-hint: "<input-text>"
+name: flow-pii-detect
+description: "Detect and flag personally identifiable information (PII) in text, code, and configurations"
+license: MIT
+tags: [general]
+argument-hint: <input-text>
 allowed-tools: mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_scan mcp__claude-flow__aidefence_analyze mcp__claude-flow__transfer_detect-pii Bash
 ---
 

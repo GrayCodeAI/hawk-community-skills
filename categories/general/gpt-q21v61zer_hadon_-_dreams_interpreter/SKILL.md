@@ -1,3 +1,10 @@
+---
+name: gpt-q21v61zer_hadon_-_dreams_interpreter
+description: "Skill: gpt-q21v61zer_hadon_-_dreams_interpreter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-q21V61Zer-hadon-dreams-interpreter
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BwwzGGuqGpNY48dvcOhKPSJl?se=2123-11-12T20%3A22%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dpurple%2520eye.png&sig=MzUL7qfDRe08erY0MrSOiWBM2gWT%2ByVdm/jXnCWDMe8%3D" width="100px" />

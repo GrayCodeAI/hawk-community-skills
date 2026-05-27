@@ -1,9 +1,10 @@
 ---
 name: enrich_blog_post
-description: Fabric pattern - enrich_blog_post
-domain: general
+description: "Fabric pattern - enrich_blog_post"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

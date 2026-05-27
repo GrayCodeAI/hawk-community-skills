@@ -1,6 +1,8 @@
 ---
-name: kotlin-springboot
-description: 'Get best practices for developing applications with Spring Boot and Kotlin.'
+name: ghcp-kotlin-springboot-skill
+description: "Get best practices for developing applications with Spring Boot and Kotlin."
+license: MIT
+tags: [general]
 ---
 
 # Spring Boot with Kotlin Best Practices

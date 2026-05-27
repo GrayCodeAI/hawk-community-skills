@@ -1,7 +1,10 @@
 ---
-description: Provides definitive best practices for using Tailwind CSS, focusing on maintainability, performance, and scalability in modern web development.
-globs: **/*.{css,html,jsx,tsx,vue}
+name: mdc-tailwind
+description: "Provides definitive best practices for using Tailwind CSS, focusing on maintainability, performance, and scalability in modern web development."
+license: MIT
+tags: [tailwind]
 ---
+
 # tailwind Best Practices
 
 Tailwind CSS is a powerful utility-first framework. These rules ensure our projects leverage Tailwind effectively, promoting consistency, performance, and maintainability across the team.

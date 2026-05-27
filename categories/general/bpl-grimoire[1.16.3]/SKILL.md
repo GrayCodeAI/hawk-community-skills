@@ -1,3 +1,10 @@
+---
+name: bpl-grimoire[1.16.3]
+description: "Skill: bpl-grimoire[1.16.3]"
+license: MIT
+tags: [general]
+---
+
 ## 1.16.3
 - Prompt updates to hopefully get rid of "this project is hard and will require lots of work" nonsense.
 - Minor updates to readme and projects

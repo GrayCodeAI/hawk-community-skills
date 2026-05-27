@@ -1,3 +1,10 @@
+---
+name: ls-ugiq14alf_competency_based_interview_coach_by_veed
+description: "Skill: ls-ugiq14alf_competency_based_interview_coach_by_veed"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ugiq14Alf-competency-based-interview-coach-by-veedence
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IiXnJuBwQnyQK4WCu0oPuisl?se=2124-01-04T22%3A02%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D28980d8b-0f50-4052-8f16-5271c8a91e5f.jpg&sig=CEL/GBQx3e4m2kRHnSh4Kr6MvJdKawVDc04K4DyRF3o%3D" width="100px" />

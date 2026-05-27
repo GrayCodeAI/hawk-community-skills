@@ -1,3 +1,10 @@
+---
+name: cpa-debug
+description: "Skill: cpa-debug"
+license: MIT
+tags: [general]
+---
+
 # az containerapp debug
 
 ```bash

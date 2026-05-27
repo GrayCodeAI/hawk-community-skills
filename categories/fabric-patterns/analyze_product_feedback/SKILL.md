@@ -1,9 +1,10 @@
 ---
 name: analyze_product_feedback
-description: Fabric pattern - analyze_product_feedback
-domain: general
+description: "Fabric pattern - analyze_product_feedback"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,9 +1,11 @@
 ---
-name: observability-monitoring-monitor-setup
+name: ag-observability-monitoring-monitor-setup
 description: "You are a monitoring and observability expert specializing in implementing comprehensive monitoring solutions. Set up metrics collection, distributed tracing, log aggregation, and create insightful da"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Monitoring and Observability Setup

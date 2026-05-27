@@ -1,18 +1,12 @@
 ---
-name: flutter-auto-route-navigation
-description: Implement typed routing, nested routes, and guards using auto_route in Flutter. Use when adding navigation flows, nested routes, or route guards with auto_route.
-metadata:
-  triggers:
-    files:
-    - '**/router.dart'
-    - '**/app_router.dart'
-    keywords:
-    - AutoRoute
-    - AutoRouter
-    - router
-    - guards
-    - navigate
-    - push
+name: std-flutter-auto-route-navigation
+description: "Implement typed routing, nested routes, and guards using auto_route in Flutter. Use when adding navigation flows, nested routes, or route guards with auto_route."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
 
 # AutoRoute Navigation

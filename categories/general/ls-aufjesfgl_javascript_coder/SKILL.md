@@ -1,3 +1,10 @@
+---
+name: ls-aufjesfgl_javascript_coder
+description: "Skill: ls-aufjesfgl_javascript_coder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-auFjesfgL-javascript-coder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TXiueSSPXRcWqAP5AYA7HfgN?se=2123-10-24T17%3A52%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D754608f9-354f-484e-9692-4f46a96e93fe.png&sig=AkjjM5zY%2BjKVWshvO1wC7BGP3GAtbr4a6SqWDeyB4B8%3D" width="100px" />

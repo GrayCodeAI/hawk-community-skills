@@ -1,9 +1,10 @@
 ---
 name: cr-semiotic-react-dataviz
-description: Cursor rules for semiotic-react-dataviz
-domain: engineering
+description: "Cursor rules for semiotic-react-dataviz"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,3 +1,10 @@
+---
+name: cpa-maps
+description: "Skill: cpa-maps"
+license: MIT
+tags: [general]
+---
+
 # az maps
 
 ```bash

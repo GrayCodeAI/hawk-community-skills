@@ -1,3 +1,10 @@
+---
+name: cpa-baremetalinstance
+description: "Skill: cpa-baremetalinstance"
+license: MIT
+tags: [general]
+---
+
 # az baremetalinstance
 
 ```bash

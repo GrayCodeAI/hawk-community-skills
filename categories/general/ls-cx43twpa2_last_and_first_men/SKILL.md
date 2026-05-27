@@ -1,3 +1,10 @@
+---
+name: ls-cx43twpa2_last_and_first_men
+description: "Skill: ls-cx43twpa2_last_and_first_men"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cx43TWpA2-last-and-first-men
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wn8jvd75sv7dzZico1aTZdUT?se=2123-10-20T18%3A01%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2eabfa88-6755-4fb6-9821-0f7da91d26d0.png&sig=t%2BISH5TubPvw2jk3qf/UVFqirEG6cCqdiYvWkVK/8XM%3D" width="100px" />

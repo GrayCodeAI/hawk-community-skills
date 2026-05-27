@@ -1,6 +1,8 @@
 ---
-name: "rag-architect"
+name: arezv-rag-architect
 description: "Use when the user asks to design RAG pipelines, optimize retrieval strategies, choose embedding models, implement vector search, or build knowledge retrieval systems."
+license: MIT
+tags: [general]
 ---
 
 # RAG Architect - POWERFUL

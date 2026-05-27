@@ -1,6 +1,8 @@
 ---
-description: 'Playwright test generation instructions'
-applyTo: '**'
+name: ghcp-instructions-playwright-typescript.instruct
+description: "Skill: ghcp-instructions-playwright-typescript.instruct"
+license: MIT
+tags: [general]
 ---
 
 ## Test Writing Guidelines

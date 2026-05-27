@@ -1,3 +1,10 @@
+---
+name: ecom-competitive-pricing-strategy
+description: "Skill: ecom-competitive-pricing-strategy"
+license: MIT
+tags: [general]
+---
+
 # Competitive Pricing Strategy
 
 Develop data-driven pricing strategies for e-commerce. Competitive analysis, price positioning, psychological pricing, margin optimization, and dynamic repricing across marketplaces.

@@ -1,3 +1,10 @@
+---
+name: ls-plkok5lz7_arabic_scribe
+description: "Skill: ls-plkok5lz7_arabic_scribe"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-plKoK5LZ7-arabic-scribe
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-PqptXJXDhILCcqFRnyMZdyJW?se=2123-10-16T20%3A23%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1e1ec2c4-d8ed-4299-ad4b-7f9e5ab6e673.png&sig=8%2BXTrPpLsWOvFZHbLf1hRKGRftsCRcBmgLD/exOrbd8%3D" width="100px" />

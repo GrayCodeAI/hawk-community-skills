@@ -1,22 +1,14 @@
 ---
-name: typescript-tooling
-description: Development tools, linting, and build config for TypeScript. Use when configuring ESLint, Prettier, Jest, Vitest, tsconfig, or any TS build tooling.
-metadata:
-  triggers:
-    files:
-    - 'tsconfig.json'
-    - '.eslintrc.*'
-    - 'jest.config.*'
-    - 'package.json'
-    keywords:
-    - eslint
-    - prettier
-    - jest
-    - vitest
-    - build
-    - compile
-    - lint
+name: std-typescript-tooling
+description: "Development tools, linting, and build config for TypeScript. Use when configuring ESLint, Prettier, Jest, Vitest, tsconfig, or any TS build tooling."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # TypeScript Tooling
 
 ## **Priority: P1 (OPERATIONAL)**

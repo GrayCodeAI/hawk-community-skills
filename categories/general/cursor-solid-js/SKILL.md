@@ -1,16 +1,11 @@
 ---
 name: cursor-solid-js
-description: Cursor IDE rules for solid-js
-domain: engineering
+description: "Cursor IDE rules for solid-js"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "SolidJS: fine-grained reactivity, signals, JSX without VDOM"
-globs: ["*.tsx", "*.jsx", "*.ts"]
-alwaysApply: true
 ---
 
 # SolidJS Cursor Rules

@@ -1,11 +1,8 @@
 ---
-name: JavaScript Best Practices
-description: Idiomatic JavaScript patterns and conventions for maintainable code.
-metadata:
-  labels: [javascript, best-practices, conventions, code-quality]
-  triggers:
-    files: ['**/*.js', '**/*.mjs']
-    keywords: [module, import, export, error, validation]
+name: std-best-practices
+description: "Skill: std-best-practices"
+license: MIT
+tags: [general]
 ---
 
 # JavaScript Best Practices

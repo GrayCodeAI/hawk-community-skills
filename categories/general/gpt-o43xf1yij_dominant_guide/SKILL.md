@@ -1,3 +1,10 @@
+---
+name: gpt-o43xf1yij_dominant_guide
+description: "Skill: gpt-o43xf1yij_dominant_guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-O43XF1yij-dominant-guide
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kWY6weOdC05MZPCNBZqHDg4O?se=2123-10-18T07%3A10%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8373747a-2c91-43c6-aa2c-8f9efb618ed4.png&sig=59cYd8WqJDphWWZjrKYauTFS3EVqigZB1e1PAHIUA7w%3D" width="100px" />

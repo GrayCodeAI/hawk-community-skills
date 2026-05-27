@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-repeat-purchase-rate
-role: order-intelligence
+name: shopify-shopify-admin-repeat-purchase-rate
 description: "Read-only: calculates what percentage of customers place 2+ orders within N days, segmented by product or collection."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

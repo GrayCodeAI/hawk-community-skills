@@ -1,7 +1,9 @@
 ---
-description: Migration guide for updating SwiftUI apps from ObservableObject to the @Observable macro
-globs: "**/*.swift"
-alwaysApply: false
+name: extra-swift-observable
+description: "Migration guide for updating SwiftUI apps from ObservableObject to the @Observable macro"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 Here is the content from the Apple Developer documentation page "Migrating from the Observable Object protocol to the Observable macro" converted to Markdown format.

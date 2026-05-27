@@ -1,7 +1,10 @@
 ---
-description: Specific rules for Starknet React projects, focusing on blockchain integration.
-globs: starknet/**/*.tsx
+name: mdc-starknet-react-rules
+description: "Specific rules for Starknet React projects, focusing on blockchain integration."
+license: MIT
+tags: [react]
 ---
+
 - Centralize blockchain connection management
 - Implement automatic reconnection and error handling
 - Use React hooks for transaction status management

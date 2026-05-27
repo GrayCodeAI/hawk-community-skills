@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, secure, and scalable Terraform configurations. Focuses on structure, naming, state management, and automation.
-globs: **/*.tf
+name: mdc-terraform
+description: "Definitive guidelines for writing maintainable, secure, and scalable Terraform configurations. Focuses on structure, naming, state management, and automation."
+license: MIT
+tags: [devops]
 ---
+
 # Terraform Best Practices
 
 Terraform configurations are production-grade software. Treat them with the same rigor: readable, versioned, testable, and governed by automated policies. This guide provides opinionated, actionable best practices for our team's Terraform development, ensuring consistency, reliability, and security.

@@ -1,12 +1,12 @@
 ---
 name: triaging-security-incident-with-ir-playbook
-description: Classify and prioritize security incidents using structured IR playbooks to determine severity, assign response teams, and initiate appropriate response procedures.
+description: "Classify and prioritize security incidents using structured IR playbooks to determine severity, assign response teams, and initiate appropriate response procedures."
+license: MIT
+tags: [incident-response, triage, playbook, severity-classification, soc]
 domain: cybersecurity
 subdomain: incident-response
-tags: [incident-response, triage, playbook, severity-classification, soc]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Triaging Security Incidents with IR Playbooks

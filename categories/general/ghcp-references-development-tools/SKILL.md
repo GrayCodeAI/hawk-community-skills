@@ -1,3 +1,10 @@
+---
+name: ghcp-references-development-tools
+description: "Skill: ghcp-references-development-tools"
+license: MIT
+tags: [general]
+---
+
 # Development Tools Reference
 
 Tools and workflows for web development.

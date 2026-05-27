@@ -1,9 +1,11 @@
 ---
-name: shopify-subscription-setup
+name: ecom-shopify-subscription-setup
 description: "Subscription program setup — recurring billing, frequency options, churn reduction, lifetime value"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Subscription Setup

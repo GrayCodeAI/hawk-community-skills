@@ -1,7 +1,10 @@
 ---
-description: Defines testing guidelines, including using Vitest for unit and integration tests and aiming for high test coverage. This rule emphasizes the importance of thorough testing for code quality.
-globs: **/*
+name: mdc-testing-guidelines
+description: "Defines testing guidelines, including using Vitest for unit and integration tests and aiming for high test coverage. This rule emphasizes the importance of thorough testing for code quality."
+license: MIT
+tags: [testing]
 ---
+
 - |-
   5. Testing:
     - Use Vitest for unit and integration tests

@@ -1,21 +1,14 @@
 ---
-name: typescript-security
-description: Validate input, secure auth tokens, and prevent injection attacks in TypeScript. Use when validating input, handling auth tokens, sanitizing data, or managing secrets and sensitive configuration.
-metadata:
-  triggers:
-    files:
-    - '**/*.ts'
-    - '**/*.tsx'
-    keywords:
-    - validate
-    - sanitize
-    - xss
-    - injection
-    - auth
-    - password
-    - secret
-    - token
+name: std-typescript-security
+description: "Validate input, secure auth tokens, and prevent injection attacks in TypeScript. Use when validating input, handling auth tokens, sanitizing data, or managing secrets and sensitive configuration."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # TypeScript Security
 
 ## **Priority: P0 (CRITICAL)**

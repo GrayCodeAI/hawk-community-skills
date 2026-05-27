@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for developing Power Platform custom connectors with Model Context Protocol (MCP) integration for Microsoft Copilot Studio'
-applyTo: '**/*.{json,csx,md}'
+name: ghcp-instructions-power-platform-mcp-development
+description: "Skill: ghcp-instructions-power-platform-mcp-development"
+license: MIT
+tags: [general]
 ---
 
 # Power Platform MCP Custom Connector Development

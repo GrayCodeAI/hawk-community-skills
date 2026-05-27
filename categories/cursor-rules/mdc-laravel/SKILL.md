@@ -1,7 +1,10 @@
 ---
-description: Definitive guide for writing clean, performant, and secure Laravel applications, emphasizing modern best practices and common pitfalls.
-globs: **/*.php
+name: mdc-laravel
+description: "Definitive guide for writing clean, performant, and secure Laravel applications, emphasizing modern best practices and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Laravel Best Practices (2025)
 
 This guide outlines the definitive best practices for developing robust, scalable, and maintainable Laravel applications. Adhere to these principles to ensure your codebase is clean, performant, and secure, aligning with PSR-12, PHP The Right Way, and Laravel's conventions.

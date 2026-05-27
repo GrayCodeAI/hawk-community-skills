@@ -1,9 +1,10 @@
 ---
 name: improve_writing
-description: Fabric pattern - improve_writing
-domain: general
+description: "Fabric pattern - improve_writing"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

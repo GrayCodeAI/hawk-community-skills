@@ -1,9 +1,11 @@
 ---
-name: amplitude-automation
+name: ag-amplitude-automation
 description: "Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts, user identification. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Amplitude Automation via Rube MCP

@@ -1,6 +1,8 @@
 ---
-name: write-tests
-description: Systematically add test coverage for all local code changes using specialized review and development agents. Add tests for uncommitted changes (including untracked files), or if everything is commited, then will cover latest commit.
+name: neo-write-tests
+description: "Systematically add test coverage for all local code changes using specialized review and development agents. Add tests for uncommitted changes (including untracked files), or if everything is commi..."
+license: MIT
+tags: [general]
 argument-hint: what tests or modules to focus on
 ---
 

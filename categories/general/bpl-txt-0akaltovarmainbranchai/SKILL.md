@@ -1,9 +1,10 @@
 ---
-name: bpl-0akaltovarmainbranchai
-description: System prompt - 0akaltovarmainbranchai
-domain: general
+name: bpl-txt-0akaltovarmainbranchai
+description: "System prompt - 0akaltovarmainbranchai"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

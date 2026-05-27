@@ -1,9 +1,10 @@
 ---
 name: t_find_negative_thinking
-description: Fabric pattern - t_find_negative_thinking
-domain: general
+description: "Fabric pattern - t_find_negative_thinking"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

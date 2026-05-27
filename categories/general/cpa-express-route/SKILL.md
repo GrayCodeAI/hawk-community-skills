@@ -1,3 +1,10 @@
+---
+name: cpa-express-route
+description: "Skill: cpa-express-route"
+license: MIT
+tags: [general]
+---
+
 # az network express-route
 
 ```bash

@@ -1,86 +1,18 @@
 ---
 name: skill-standardization
-description: Standardize and validate SKILL.md files to match the project specification. Use when creating new skills, converting existing skills to standard format, or validating skill file structure. Handles section heading conversion, frontmatter standardization, and missing section detection.
+description: Standardize and validate SKILL.md files to match the project specification.
+  Use when creating new skills, converting existing skills to standard format, or
+  validating skill file structure. Handles ...
+license: MIT
+tags:
+- skill-management
+- standardization
+- validation
+- automation
+- scripting
 allowed-tools: Bash Read Write Edit Glob Grep
-metadata:
-  tags: skill-management, standardization, validation, automation, scripting
-  platforms: Claude, ChatGPT, Gemini
----
-
-
-# Skill Standardization
-
-## When to use this skill
-
-- Creating new SKILL.md files following the standard template
-- Converting existing skills with non-standard section headings
-- Validating skill files against the project specification
-- Batch processing multiple skill files for consistency
-- Ensuring all skills have required sections (Examples, Best practices, References)
-
-## Instructions
-
-### Step 1: Run the conversion script
-
-Execute the main conversion script to standardize all SKILL.md files:
-
-```bash
-cd /path/to/.agent-skills
-python3 scripts/convert_skills.py
-```
-
-This script will:
-- Convert Korean section headings to English
-- Standardize frontmatter (add missing tags, platforms)
-- Add missing required sections with templates
-
-### Step 2: Remove duplicate sections
-
-If files have duplicate sections after conversion:
-
-```bash
-python3 scripts/remove_duplicates.py
-```
-
-### Step 3: Final cleanup
-
-For any remaining non-standard headings:
-
-```bash
-python3 scripts/final_cleanup.py
-```
-
-## Available Scripts
-
-| Script | Purpose |
-|--------|---------|
-| `convert_skills.py` | Main conversion script - handles section headings, frontmatter, missing sections |
-| `remove_duplicates.py` | Removes duplicate Examples, Best practices, References sections |
-| `final_cleanup.py` | Direct string replacement for remaining Korean headings |
-
-## Section Heading Conversions
-
-| Legacy heading | Standard heading |
-|--------|---------|
-| `## Purpose (legacy)` | `## Purpose` |
-| `## When to Use (legacy)` | `## When to use this skill` |
-| `## Procedure (legacy)` | `## Instructions` |
-| `## Examples (legacy)` | `## Examples` |
-| `## Best Practices (legacy)` | `## Best practices` |
-| `## References (legacy)` | `## References` |
-| `## Output Format (legacy)` | `## Output format` |
-| `## Constraints (legacy)` | `## Constraints` |
-| `## Metadata (legacy)` | `## Metadata` |
-| `### Step N (legacy):` | `### Step N:` |
-
-## Standard SKILL.md Structure
-
-```markdown
----
-name: skill-name
-description: Clear description (max 1024 chars)
-tags: [tag1, tag2]
-platforms: [Claude, ChatGPT, Gemini]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
 
 # Skill Title

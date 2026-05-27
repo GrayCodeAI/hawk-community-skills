@@ -1,3 +1,10 @@
+---
+name: ls-copycoder
+description: "Skill: ls-copycoder"
+license: MIT
+tags: [general]
+---
+
 repo: https://github.com/uebylive/copycoder
 
 ```python

@@ -1,3 +1,10 @@
+---
+name: ls-127os2st3_fab_feature_advantage_benefits_product_a
+description: "Skill: ls-127os2st3_fab_feature_advantage_benefits_product_a"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-127Os2st3-fab-feature-advantage-benefits-product-analysis
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tXFCyZbAeZLF6U3d40Ho8SWC?se=2124-01-04T20%3A32%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc0cf0392-e30e-4c6b-896e-6feb154fa766.png&sig=nwx0OGhvOBpqyz/XE/GPOmSzAMId8T6bA0vL0ox/2FE%3D" width="100px" />

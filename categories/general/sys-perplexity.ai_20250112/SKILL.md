@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_20250112
+description: "Skill: sys-perplexity.ai_20250112"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_20250112
 
 source: <https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060>

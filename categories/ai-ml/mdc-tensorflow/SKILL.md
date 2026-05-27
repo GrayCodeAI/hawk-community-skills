@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for writing TensorFlow code, focusing on `tf.keras` for models, `tf.data` for input pipelines, and `@tf.function` for performance, ensuring reproducible, scalable, and production-ready ML systems.
-globs: **/*.py
+name: mdc-tensorflow
+description: "This guide defines the definitive best practices for writing TensorFlow code, focusing on `tf.keras` for models, `tf.data` for input pipelines, and `@tf.function` for performance, ensuring reproduc..."
+license: MIT
+tags: [ai-ml]
 ---
+
 # tensorflow Best Practices
 
 This document outlines our team's definitive guidelines for writing TensorFlow code. Adhering to these practices ensures maintainable, performant, and reproducible machine learning systems.

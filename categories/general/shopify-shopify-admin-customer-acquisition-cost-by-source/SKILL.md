@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-customer-acquisition-cost-by-source
-role: customer-ops
+name: shopify-shopify-admin-customer-acquisition-cost-by-source
 description: "Read-only: estimates customer acquisition cost (CAC) per traffic source by joining order count per landing site / referrer with configurable ad spend."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

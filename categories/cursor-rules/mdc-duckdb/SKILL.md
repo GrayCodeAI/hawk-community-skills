@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing high-performance, maintainable, and robust DuckDB SQL queries and scripts, focusing on modern analytical workloads.
-globs: **/*
+name: mdc-duckdb
+description: "This guide provides opinionated, actionable best practices for writing high-performance, maintainable, and robust DuckDB SQL queries and scripts, focusing on modern analytical workloads."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # duckdb Best Practices
 
 DuckDB is our go-to for analytical workloads. These rules ensure our DuckDB scripts are not only performant but also readable, reproducible, and easy to maintain. Adhere to these guidelines for all new and refactored DuckDB code.

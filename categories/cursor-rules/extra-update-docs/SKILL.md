@@ -1,3 +1,10 @@
+---
+name: extra-update-docs
+description: "Skill: extra-update-docs"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Update Documentation
 
 You will generate LLM-optimized documentation with concrete file references and flexible formatting.

@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-vue
+description: "Skill: inst-setup-neon-vue"
+license: MIT
+tags: [general]
+---
+
 # Neon + Vue Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with a Vue 3 application.
@@ -336,4 +343,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Vue 3 Documentation](https://vuejs.org/)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

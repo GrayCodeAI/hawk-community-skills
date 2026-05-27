@@ -1,7 +1,11 @@
 ---
-description: Provides guidelines for creating React components, emphasizing careful planning, existing component checks, and prompt generation in SPA.
-globs: apps/spa/src/components/**/*.tsx
+name: mdc-react-component-creation---spa-app
+description: 'Skill: mdc-react-component-creation---spa-app'
+license: MIT
+tags:
+- react
 ---
+
 - Carefully consider the component's purpose, functionality, and design.
 - Think slowly, step by step, and outline your reasoning.
 - Check if a similar component already exists in any of the following locations

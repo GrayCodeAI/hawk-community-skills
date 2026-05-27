@@ -1,15 +1,17 @@
 ---
-name: mise-configurator
+name: ag-mise-configurator
 description: "Generate production-ready mise.toml setups for local development, CI/CD pipelines, and toolchain standardization."
+license: MIT
+tags: [mise, devops, ci-cd, toolchain, runtimes, automation]
 category: devops
 risk: safe
 source: self
 source_type: self
-date_added: "2026-04-16"
+date_added: 2026-04-16
 author: community
-tags: [mise, devops, ci-cd, toolchain, runtimes, automation]
 tools: [claude, cursor, gemini]
 ---
+
 # Mise Configurator
 
 ## Overview

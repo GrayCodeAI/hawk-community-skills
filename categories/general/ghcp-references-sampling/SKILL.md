@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sampling
+description: "Skill: ghcp-references-sampling"
+license: MIT
+tags: [general]
+---
+
 # Sampling
 
 Sampling lets a tool **call the LLM through the client** instead of bringing its own model. The server says "summarise this for me" and the client routes the request to whatever model the user has configured (Claude, GPT, local model, anything). Costs and rate limits live with the client, not the server.

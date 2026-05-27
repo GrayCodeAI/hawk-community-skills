@@ -1,7 +1,10 @@
 ---
-description: Rules related to building and deploying the Tauri application.
-globs: vite.config.ts
+name: mdc-build-and-deployment-rules
+description: "Rules related to building and deploying the Tauri application."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Vite for fast development and optimized production builds of the Svelte app.
 - Leverage Tauri's built-in updater for seamless application updates.
 - Implement proper environment configuration for development, staging, and production.

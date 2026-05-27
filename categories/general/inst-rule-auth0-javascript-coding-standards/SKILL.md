@@ -1,6 +1,8 @@
 ---
-description: Coding standards and best practices for vanilla JavaScript apps with Auth0 Authentication
-globs: "**/*.html, **/*.js"
+name: inst-rule-auth0-javascript-coding-standards
+description: "Coding standards and best practices for vanilla JavaScript apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Coding Standards for Vanilla JavaScript with Auth0 Authentication
@@ -349,4 +351,4 @@ function setupAuthListeners(auth0Client) {
 12. Use proper type checking and validation
 13. Follow proper file organization
 14. Implement proper error messages and user feedback
-15. Keep the codebase maintainable and well-documented 
+15. Keep the codebase maintainable and well-documented

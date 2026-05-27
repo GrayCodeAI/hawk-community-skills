@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and secure Jenkins Pipelines using modern best practices.
-globs: **/*
+name: mdc-jenkins
+description: "Definitive guidelines for writing robust, maintainable, and secure Jenkins Pipelines using modern best practices."
+license: MIT
+tags: [devops]
 ---
+
 # jenkins Best Practices
 
 This guide outlines essential best practices for developing Jenkins Pipelines. Adhere to these rules to ensure your CI/CD processes are efficient, secure, and maintainable.

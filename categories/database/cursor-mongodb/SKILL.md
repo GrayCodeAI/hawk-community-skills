@@ -1,16 +1,11 @@
 ---
 name: cursor-mongodb
-description: Cursor IDE rules for mongodb
-domain: engineering
+description: "Cursor IDE rules for mongodb"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "MongoDB: schema design, indexing, aggregation"
-globs: ["*.ts", "*.js"]
-alwaysApply: true
 ---
 
 # MongoDB Cursor Rules

@@ -1,3 +1,10 @@
+---
+name: bpl-augment-code
+description: "Skill: bpl-augment-code"
+license: MIT
+tags: [general]
+---
+
 Augment Agent system prompt. Check: [https://www.augmentcode.com/blog/meet-augment-agent](https://www.augmentcode.com/blog/meet-augment-agent)
 
 ```markdown

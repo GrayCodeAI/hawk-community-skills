@@ -1,8 +1,10 @@
 ---
-name: timelinesai-automation
+name: composio-timelinesai-automation
 description: "Automate Timelinesai tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Timelinesai Automation via Rube MCP

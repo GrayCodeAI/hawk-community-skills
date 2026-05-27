@@ -1,3 +1,10 @@
+---
+name: cpa-durabletask
+description: "Skill: cpa-durabletask"
+license: MIT
+tags: [general]
+---
+
 # az durabletask
 
 ```bash

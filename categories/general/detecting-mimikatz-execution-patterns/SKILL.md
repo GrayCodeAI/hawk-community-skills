@@ -1,12 +1,12 @@
 ---
 name: detecting-mimikatz-execution-patterns
-description: Detect Mimikatz execution through command-line patterns, LSASS access signatures, binary indicators, and in-memory detection of known modules.
+description: "Detect Mimikatz execution through command-line patterns, LSASS access signatures, binary indicators, and in-memory detection of known modules."
+license: MIT
+tags: [threat-hunting, mitre-attack, mimikatz, credential-dumping, edr, t1003, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, mimikatz, credential-dumping, edr, t1003, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Mimikatz Execution Patterns

@@ -1,19 +1,14 @@
 ---
-name: cypress-skill
-description: >
-  Generates production-grade Cypress E2E and component tests in JavaScript
-  or TypeScript. Supports local execution and TestMu AI cloud. Use when
-  the user asks to write Cypress tests, set up Cypress, test with cy commands,
-  or mentions "Cypress", "cy.visit", "cy.get", "cy.intercept". Triggers on:
-  "Cypress", "cy.", "component test", "E2E test", "TestMu", "LambdaTest".
-languages:
-  - JavaScript
-  - TypeScript
-category: e2e-testing
+name: lt-cypress-skill
+description: "Skill: lt-cypress-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+or mentions "Cypress", "cy.visit", "cy.get", "cy.intercept". Triggers on: None
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Cypress Automation Skill

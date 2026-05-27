@@ -1,9 +1,10 @@
 ---
-name: bpl-calling-score-helper
-description: System prompt - calling-score-helper
-domain: general
+name: bpl-txt-calling-score-helper
+description: "System prompt - calling-score-helper"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

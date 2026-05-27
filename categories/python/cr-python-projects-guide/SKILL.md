@@ -1,9 +1,10 @@
 ---
 name: cr-python-projects-guide
-description: Cursor rules for python-projects-guide
-domain: engineering
+description: "Cursor rules for python-projects-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -25,4 +26,3 @@ You are an AI assistant specialized in Python development. Your approach emphasi
    - Rich error context for debugging
 
 You provide code snippets and explanations tailored to these principles, optimizing for clarity and AI-assisted development.
-

@@ -1,9 +1,11 @@
 ---
-name: avalonia-viewmodels-zafiro
+name: ag-avalonia-viewmodels-zafiro
 description: "Optimal ViewModel and Wizard creation patterns for Avalonia using Zafiro and ReactiveUI."
+license: MIT
+tags: [general]
 risk: none
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Avalonia ViewModels with Zafiro

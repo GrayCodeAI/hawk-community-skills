@@ -1,3 +1,10 @@
+---
+name: ls-fz6ziorn8_dm_gandalf
+description: "Skill: ls-fz6ziorn8_dm_gandalf"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Fz6ziOrn8-dm-gandalf
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kL59uZe5jVVZZf1t6oE6nxVs?se=2123-10-17T03%3A43%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D14d3410b-ed6f-4617-b05e-4822dd42569e.png&sig=f5/ntHNJlSsrP07TRB2Rqlc3ygto3ZcjX0WEJ6LY4f0%3D" width="100px" />

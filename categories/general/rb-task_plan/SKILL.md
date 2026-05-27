@@ -1,3 +1,10 @@
+---
+name: rb-task_plan
+description: "Skill: rb-task_plan"
+license: MIT
+tags: [general]
+---
+
 **1. Cross-Platform Compatibility & Rule Adaptation**
 
 *   [x] **1.a. Define Core Universal Rules:**

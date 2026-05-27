@@ -1,9 +1,11 @@
 ---
-name: stripe-automation
+name: ag-stripe-automation
 description: "Automate Stripe tasks via Rube MCP (Composio): customers, charges, subscriptions, invoices, products, refunds. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Stripe Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: sys-github-copilot-commit-title-generator_20
+description: "Skill: sys-github-copilot-commit-title-generator_20"
+license: MIT
+tags: [general]
+---
+
 # github-copilot-commit-title-generator_20260326
 
 ## Q(USER):

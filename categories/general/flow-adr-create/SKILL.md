@@ -1,7 +1,9 @@
 ---
-name: adr-create
-description: Create a new Architecture Decision Record with sequential numbering and AgentDB registration
-argument-hint: "<title>"
+name: flow-adr-create
+description: "Create a new Architecture Decision Record with sequential numbering and AgentDB registration"
+license: MIT
+tags: [general]
+argument-hint: <title>
 allowed-tools: mcp__claude-flow__agentdb_hierarchical-store mcp__claude-flow__agentdb_hierarchical-query mcp__claude-flow__agentdb_causal-edge mcp__claude-flow__memory_store mcp__claude-flow__memory_search Bash Read Write Edit Grep Glob
 ---
 

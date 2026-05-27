@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-bulk-fulfillment-creation
-role: fulfillment-ops
+name: shopify-shopify-admin-bulk-fulfillment-creation
 description: "Batch-fulfill open fulfillment orders with tracking numbers. Supports partial fulfillment and customer notification toggle."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - fulfillmentOrders:query
-  - fulfillmentCreate:mutation
+api_version: 2025-01
+graphql_operations: [{'fulfillmentOrders': 'query'}, {'fulfillmentCreate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

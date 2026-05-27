@@ -1,12 +1,12 @@
 ---
 name: performing-ransomware-incident-response
-description: Execute a structured ransomware incident response including containment, decryption assessment, recovery from backups, and eradication of ransomware persistence mechanisms.
+description: "Execute a structured ransomware incident response including containment, decryption assessment, recovery from backups, and eradication of ransomware persistence mechanisms."
+license: MIT
+tags: [incident-response, ransomware, dfir, recovery, eradication, encryption]
 domain: cybersecurity
 subdomain: incident-response
-tags: [incident-response, ransomware, dfir, recovery, eradication, encryption]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Ransomware Incident Response

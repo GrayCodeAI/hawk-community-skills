@@ -1,6 +1,8 @@
 ---
-description: 'Terraform Conventions and Guidelines'
-applyTo: '**/*.tf'
+name: ghcp-instructions-terraform.instructions
+description: "Skill: ghcp-instructions-terraform.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Terraform Conventions

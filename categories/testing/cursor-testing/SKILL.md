@@ -1,15 +1,11 @@
 ---
 name: cursor-testing
-description: Cursor IDE rules for testing
-domain: engineering
+description: "Cursor IDE rules for testing"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Testing: test design, mocking strategy, coverage philosophy"
-alwaysApply: true
 ---
 
 # Testing Rules

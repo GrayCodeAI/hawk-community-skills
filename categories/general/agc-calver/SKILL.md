@@ -1,3 +1,10 @@
+---
+name: agc-calver
+description: "Skill: agc-calver"
+license: MIT
+tags: [general]
+---
+
 # CalVer Setup
 
 Use this when the project has no existing version convention, or has explicitly opted into date-based versions like `YYYY.M.COMMITS` (e.g. `2026.4.142`).

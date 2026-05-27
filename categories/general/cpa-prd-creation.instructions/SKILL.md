@@ -1,6 +1,8 @@
 ---
-description: Workflow for creating comprehensive Product Requirements Documents (PRDs) for AI-assisted development
-applyTo: "**/*.md"
+name: cpa-prd-creation.instructions
+description: "Skill: cpa-prd-creation.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Product Requirements Document (PRD) Creation Workflow

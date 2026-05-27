@@ -1,6 +1,8 @@
 ---
-name: content-research-writer
-description: Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing process from solo effort to collaborative partnership.
+name: composio-content-research-writer
+description: "Assists in writing high-quality content by conducting research, adding citations, improving hooks, iterating on outlines, and providing real-time feedback on each section. Transforms your writing p..."
+license: MIT
+tags: [general]
 ---
 
 # Content Research Writer
@@ -535,4 +537,3 @@ Recommended structure for writing projects:
 - Creating presentation content
 - Writing case studies
 - Developing course outlines
-

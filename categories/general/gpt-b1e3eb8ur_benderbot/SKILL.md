@@ -1,3 +1,10 @@
+---
+name: gpt-b1e3eb8ur_benderbot
+description: "Skill: gpt-b1e3eb8ur_benderbot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B1E3EB8Ur-benderbot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-sKiEnpEgFnBVwi53mZxfhbox?se=2124-01-21T21%3A53%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D11b86bb0-dc0d-4766-ab2d-a007f85c2c71.png&sig=Sb8VYu4Wp33O31/c5gzMwfu3bSxvRZUKq7IvUJfVmcs%3D" width="100px" />

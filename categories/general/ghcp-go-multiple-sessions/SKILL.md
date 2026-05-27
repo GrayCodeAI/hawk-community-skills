@@ -1,3 +1,10 @@
+---
+name: ghcp-go-multiple-sessions
+description: "Skill: ghcp-go-multiple-sessions"
+license: MIT
+tags: [general]
+---
+
 # Working with Multiple Sessions
 
 Manage multiple independent conversations simultaneously.

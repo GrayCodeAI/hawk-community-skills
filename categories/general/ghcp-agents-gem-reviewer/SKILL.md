@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-reviewer
 description: "Security auditing, code review, OWASP scanning, PRD compliance verification."
-name: gem-reviewer
-argument-hint: "Enter task_id, plan_id, plan_path, review_scope (plan|task|wave), and review criteria for compliance and security audit."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, review_scope (plan|task|wave), and review criteria for compliance and security audit.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the REVIEWER

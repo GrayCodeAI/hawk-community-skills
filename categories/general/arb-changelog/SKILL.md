@@ -1,3 +1,10 @@
+---
+name: arb-changelog
+description: "Skill: arb-changelog"
+license: MIT
+tags: [general]
+---
+
 # Changelog
 
 ## v0.5 - 2026-05-04

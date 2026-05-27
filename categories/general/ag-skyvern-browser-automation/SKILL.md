@@ -1,17 +1,17 @@
 ---
-name: skyvern-browser-automation
+name: ag-skyvern-browser-automation
 description: "AI-powered browser automation — navigate sites, fill forms, extract structured data, log in with stored credentials, and build reusable workflows."
+license: AGPL-3.0
+tags: [browser-automation, mcp, web-scraping, form-filling, ai-agents, workflow-automation]
 category: browser-automation
 risk: safe
 source: community
 source_repo: Skyvern-AI/skyvern
 source_type: official
-date_added: "2026-04-23"
+date_added: 2026-04-23
 author: mark1ian
-tags: [browser-automation, mcp, web-scraping, form-filling, ai-agents, workflow-automation]
 tools: [claude, cursor, gemini, codex]
-license: "AGPL-3.0"
-license_source: "https://github.com/Skyvern-AI/skyvern/blob/main/LICENSE"
+license_source: https://github.com/Skyvern-AI/skyvern/blob/main/LICENSE
 ---
 
 # Skyvern Browser Automation -- CLI Judgment Procedure

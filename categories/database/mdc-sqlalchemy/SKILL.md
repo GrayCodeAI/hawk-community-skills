@@ -1,7 +1,10 @@
 ---
-description: This guide enforces modern SQLAlchemy 2.x best practices for Python applications, ensuring type-safe, performant, and maintainable database interactions.
-globs: **/*.py
+name: mdc-sqlalchemy
+description: "This guide enforces modern SQLAlchemy 2.x best practices for Python applications, ensuring type-safe, performant, and maintainable database interactions."
+license: MIT
+tags: [database]
 ---
+
 # SQLAlchemy Best Practices (2.x Style)
 
 This document outlines the definitive best practices for using SQLAlchemy 2.x in our projects. We exclusively adopt the "2-style" API, leveraging its fully typed, declarative features for robust and maintainable code.

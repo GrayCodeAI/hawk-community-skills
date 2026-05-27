@@ -1,9 +1,11 @@
 ---
-name: projection-patterns
+name: ag-projection-patterns
 description: "Build read models and projections from event streams. Use when implementing CQRS read sides, building materialized views, or optimizing query performance in event-sourced systems."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Projection Patterns

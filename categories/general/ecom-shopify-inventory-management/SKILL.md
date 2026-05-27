@@ -1,9 +1,11 @@
 ---
-name: shopify-inventory-management
+name: ecom-shopify-inventory-management
 description: "Multi-location inventory — transfers, low stock alerts, demand forecasting, safety stock, ABC analysis"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Inventory Management

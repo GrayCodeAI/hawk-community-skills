@@ -1,7 +1,9 @@
 ---
-name: adr-verify
-description: Read back adr-patterns + adr-edges namespaces, surface dangling refs / supersede cycles / status mismatches; exit 1 on cycles
-argument-hint: ""
+name: flow-adr-verify
+description: "Read back adr-patterns + adr-edges namespaces, surface dangling refs / supersede cycles / status mismatches; exit 1 on cycles"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash mcp__claude-flow__memory_list mcp__claude-flow__memory_retrieve
 ---
 

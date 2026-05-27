@@ -1,3 +1,10 @@
+---
+name: ls-kk6aek1dp_simplified-notion-avatar-designer
+description: "Skill: ls-kk6aek1dp_simplified-notion-avatar-designer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kK6aEk1dP-simplified-notion-avatar-designer
 
 GPT Title: Simplified Notion Avatar Designer

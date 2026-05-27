@@ -1,3 +1,10 @@
+---
+name: cpa-grafana
+description: "Skill: cpa-grafana"
+license: MIT
+tags: [general]
+---
+
 # az grafana
 
 ```bash

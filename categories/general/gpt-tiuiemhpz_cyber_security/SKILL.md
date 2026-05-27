@@ -1,3 +1,10 @@
+---
+name: gpt-tiuiemhpz_cyber_security
+description: "Skill: gpt-tiuiemhpz_cyber_security"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TIUIeMHPZ-cyber-security
 
 GPT logo: <img src="None" width="100px" />

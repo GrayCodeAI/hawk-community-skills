@@ -1,31 +1,8 @@
 ---
-name: agent-security-manager
-description: Agent skill for security-manager - invoke with $agent-security-manager
----
-
----
-name: security-manager
-type: security
-color: "#F44336"
-description: Implements comprehensive security mechanisms for distributed consensus protocols
-capabilities:
-  - cryptographic_security
-  - attack_detection
-  - key_management
-  - secure_communication
-  - threat_mitigation
-priority: critical
-hooks:
-  pre: |
-    echo "🔐 Security Manager securing: $TASK"
-    # Initialize security protocols
-    if [[ "$TASK" == *"consensus"* ]]; then
-      echo "🛡️  Activating cryptographic verification"
-    fi
-  post: |
-    echo "✅ Security protocols verified"
-    # Run security audit
-    echo "🔍 Conducting post-operation security audit"
+name: flow-agent-security-manager
+description: "Agent skill for security-manager - invoke with $agent-security-manager"
+license: MIT
+tags: [general]
 ---
 
 # Consensus Security Manager

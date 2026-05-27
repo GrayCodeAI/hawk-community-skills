@@ -1,3 +1,10 @@
+---
+name: gpt-l40jmwxnv_can't-hack-this[0.3]
+description: "Skill: gpt-l40jmwxnv_can't-hack-this[0.3]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l40jmWXnV-can-t-hack-this
 
 GPT Title: Can't Hack This

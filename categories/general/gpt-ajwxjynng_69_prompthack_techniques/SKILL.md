@@ -1,3 +1,10 @@
+---
+name: gpt-ajwxjynng_69_prompthack_techniques
+description: "Skill: gpt-ajwxjynng_69_prompthack_techniques"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aJwxJyNng-69-prompthack-techniques
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-s0WsylxbMDXHfyLu42HT9Y9b?se=2123-12-24T07%3A26%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DAnonymous_emblem.svg.png&sig=y9tbIsEXTyL8wRtJ4jx9DE5jUcJ7j6kOQpExjK3/Fns%3D" width="100px" />

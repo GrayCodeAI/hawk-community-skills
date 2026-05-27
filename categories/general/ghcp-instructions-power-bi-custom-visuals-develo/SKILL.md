@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive Power BI custom visuals development guide covering React, D3.js integration, TypeScript patterns, testing frameworks, and advanced visualization techniques.'
-applyTo: '**/*.{ts,tsx,js,jsx,json,less,css}'
+name: ghcp-instructions-power-bi-custom-visuals-develo
+description: "Skill: ghcp-instructions-power-bi-custom-visuals-develo"
+license: MIT
+tags: [general]
 ---
 
 # Power BI Custom Visuals Development Best Practices

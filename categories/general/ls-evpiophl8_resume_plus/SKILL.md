@@ -1,3 +1,10 @@
+---
+name: ls-evpiophl8_resume_plus
+description: "Skill: ls-evpiophl8_resume_plus"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EvpiOphL8-resume
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-vFtWaT8bb0SKE8O90gXHuXpW?se=2124-01-22T17%3A42%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D_3bf6ef66-206b-443c-93ea-a94895f4ceec.jpg&sig=GEBYTGO3PZzI6LIdYO0vLEc0UnZXGSZX9Nyh7cGUPuU%3D" width="100px" />

@@ -1,9 +1,11 @@
 ---
-name: frontend-security-coder
-description: Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.
+name: ag-frontend-security-coder
+description: "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

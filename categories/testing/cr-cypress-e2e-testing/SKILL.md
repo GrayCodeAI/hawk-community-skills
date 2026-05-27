@@ -1,9 +1,10 @@
 ---
 name: cr-cypress-e2e-testing
-description: Cursor rules for cypress-e2e-testing
-domain: engineering
+description: "Cursor rules for cypress-e2e-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

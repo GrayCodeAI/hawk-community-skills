@@ -1,3 +1,10 @@
+---
+name: tl-component-identification-sizing
+description: "Skill: tl-component-identification-sizing"
+license: MIT
+tags: [general]
+---
+
 # Component Identification & Sizing - Quick Reference
 
 ## Component Definition

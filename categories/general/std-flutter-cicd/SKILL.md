@@ -1,23 +1,14 @@
 ---
-name: flutter-cicd
-description: Set up CI/CD pipelines for Flutter apps. Use when configuring automated testing, build, or deployment workflows with GitHub Actions or Fastlane.
-metadata:
-  triggers:
-    files:
-    - '.github/workflows/**.yml'
-    - 'fastlane/**'
-    - 'android/fastlane/**'
-    - 'ios/fastlane/**'
-    keywords:
-    - ci
-    - cd
-    - pipeline
-    - build
-    - deploy
-    - release
-    - action
-    - workflow
+name: std-flutter-cicd
+description: "Set up CI/CD pipelines for Flutter apps. Use when configuring automated testing, build, or deployment workflows with GitHub Actions or Fastlane."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # CI/CD Standards
 
 ## **Priority: P1 (HIGH)**

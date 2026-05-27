@@ -1,16 +1,11 @@
 ---
 name: cursor-kotlin
-description: Cursor IDE rules for kotlin
-domain: engineering
+description: "Cursor IDE rules for kotlin"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Kotlin: coroutines, null safety, idiomatic patterns"
-globs: ["*.kt", "*.kts"]
-alwaysApply: true
 ---
 
 # Kotlin Cursor Rules

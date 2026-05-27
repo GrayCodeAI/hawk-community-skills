@@ -1,17 +1,14 @@
 ---
 name: performing-deception-technology-deployment
-description: >
-  Deploys deception technology including honeypots, honeytokens, and decoy systems to detect
-  attackers who have bypassed perimeter defenses, providing high-fidelity alerts with near-zero
-  false positive rates. Use when SOC teams need early warning of lateral movement, credential abuse,
-  or internal reconnaissance by deploying convincing traps across the network.
+description: "Deploys deception technology including honeypots, honeytokens, and decoy systems to detect attackers who have bypassed perimeter defenses, providing high-fidelity alerts with near-zero false positi..."
+license: MIT
+tags: [soc, deception, honeypot, honeytoken, canary, lateral-movement, detection]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, deception, honeypot, honeytoken, canary, lateral-movement, detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Deception Technology Deployment
 
 ## When to Use

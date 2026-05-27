@@ -1,3 +1,10 @@
+---
+name: ecom-omnichannel-ecommerce
+description: "Skill: ecom-omnichannel-ecommerce"
+license: MIT
+tags: [general]
+---
+
 # Omnichannel E-Commerce
 
 Plan and execute omnichannel e-commerce strategy. Unify selling across Amazon, Shopify, Walmart, TikTok Shop, eBay, and Etsy with consistent branding, inventory sync, and customer experience.

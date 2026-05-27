@@ -1,18 +1,8 @@
 ---
-name: junit-5-skill
-description: >
-  Generates production-grade JUnit 5 unit and integration tests in Java.
-  Covers assertions, parameterized tests, lifecycle hooks, mocking with
-  Mockito, and nested tests. Use when user mentions "JUnit", "JUnit 5",
-  "@Test", "assertEquals", "Assertions", "Java unit test". Triggers on:
-  "JUnit", "@Test", "assertEquals", "Java test", "unit test Java".
-languages:
-  - Java
-category: unit-testing
+name: lt-junit-5-skill
+description: "Skill: lt-junit-5-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # JUnit 5 Testing Skill

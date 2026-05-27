@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building robust, scalable, and maintainable NestJS applications using TypeScript, emphasizing modern patterns and common pitfalls.
-globs: **/*.{ts,tsx}
+name: mdc-nestjs
+description: "This guide provides opinionated, actionable best practices for building robust, scalable, and maintainable NestJS applications using TypeScript, emphasizing modern patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # NestJS Best Practices
 
 NestJS is a powerful framework for building scalable Node.js applications. Adhering to these guidelines ensures your projects are maintainable, performant, and secure.

@@ -1,7 +1,10 @@
 ---
-description: Defines best practices for API routes in SvelteKit, focusing on request handling, response formatting, and global middleware.
-globs: src/routes/api/**/*.ts
+name: mdc-sveltekit-api-routes
+description: "Defines best practices for API routes in SvelteKit, focusing on request handling, response formatting, and global middleware."
+license: MIT
+tags: [svelte]
 ---
+
 - Create API routes in the src/routes/api/ directory.
 - Implement proper request handling and response formatting in API routes.
 - Use SvelteKit's hooks for global API middleware.

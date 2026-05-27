@@ -1,9 +1,11 @@
 ---
-name: shopify-cart-abandonment
+name: ecom-shopify-cart-abandonment
 description: "Cart abandonment recovery — email sequences, SMS, retargeting, exit intent, checkout friction audit"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Cart Abandonment

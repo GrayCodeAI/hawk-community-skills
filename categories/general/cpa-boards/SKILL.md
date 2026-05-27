@@ -1,3 +1,10 @@
+---
+name: cpa-boards
+description: "Skill: cpa-boards"
+license: MIT
+tags: [general]
+---
+
 # az boards
 
 ```bash

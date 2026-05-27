@@ -1,7 +1,10 @@
 ---
-description: Enforces best practices for Solidity smart contract development, covering aspects like function visibility, naming conventions, and upgradeability patterns.
-globs: **/*.sol
+name: mdc-solidity-best-practices
+description: "Enforces best practices for Solidity smart contract development, covering aspects like function visibility, naming conventions, and upgradeability patterns."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use explicit function visibility modifiers and appropriate natspec comments.
 - Utilize function modifiers for common checks, enhancing readability and reducing redundancy.
 - Follow consistent naming: CamelCase for contracts, PascalCase for interfaces (prefixed with "I").

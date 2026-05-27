@@ -1,20 +1,14 @@
 ---
-name: android-deployment
-description: Configure release signing, R8 obfuscation, and App Bundle publishing for Android. Use when setting up signing configs, enabling minification, adding ProGuard keep rules, or preparing for Play Store submission.
-metadata:
-  triggers:
-    files:
-    - 'build.gradle.kts'
-    - 'proguard-rules.pro'
-    keywords:
-    - signingConfigs
-    - proguard
-    - minifyEnabled
-    - isMinifyEnabled
-    - isShrinkResources
-    - .aab
-    - releaseKeystore
+name: std-android-deployment
+description: "Configure release signing, R8 obfuscation, and App Bundle publishing for Android. Use when setting up signing configs, enabling minification, adding ProGuard keep rules, or preparing for Play Store..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Deployment Standards
 
 ## **Priority: P0**

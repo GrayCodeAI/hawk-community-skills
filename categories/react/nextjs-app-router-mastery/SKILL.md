@@ -1,7 +1,8 @@
 ---
 name: nextjs-app-router-mastery
-description: Next.js 14+ App Router patterns, server components, and data fetching
+description: "Next.js 14+ App Router patterns, server components, and data fetching"
 license: MIT
+tags: [react]
 compatibility: nextjs 14+, react 18+
 allowed-tools: read_file write_file apply_patch search_with_context run_command
 ---

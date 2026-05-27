@@ -1,3 +1,10 @@
+---
+name: ghcp-references-common-mistakes-python
+description: "Skill: ghcp-references-common-mistakes-python"
+license: MIT
+tags: [general]
+---
+
 # Common Mistakes (Python)
 
 Patterns that LLMs frequently generate incorrectly from training data.

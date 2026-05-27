@@ -1,7 +1,9 @@
 ---
-description: Documentation and usage patterns for Swift Argument Parser for command-line tools
-globs: "**/*.swift"
-alwaysApply: false
+name: extra-swift-argument-parser
+description: "Documentation and usage patterns for Swift Argument Parser for command-line tools"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # https://swiftpackageindex.com/apple/swift-argument-parser/1.5.1/documentation/argumentparser llms-full.txt
@@ -734,4 +736,3 @@ Current page is ExpressibleByStringLiteral Implementations
 
 |
 |
-

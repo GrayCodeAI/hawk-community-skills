@@ -1,3 +1,10 @@
+---
+name: ls-0rxyqrcl3_secure_sentinel
+description: "Skill: ls-0rxyqrcl3_secure_sentinel"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0RxyQRcl3-secure-sentinel
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-coVTJW81JrcLJEk6L3dUIIkz?se=2123-12-18T18%3A04%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D73d17a6d-ea42-43c5-a4f6-7a9eced42c7f.png&sig=3ijdNDxqPr1VSzT1VPTx10tYNzFHn9in6ko95pZ9a7E%3D" width="100px" />

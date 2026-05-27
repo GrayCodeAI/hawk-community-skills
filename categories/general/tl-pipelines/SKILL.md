@@ -1,3 +1,10 @@
+---
+name: tl-pipelines
+description: "Skill: tl-pipelines"
+license: MIT
+tags: [general]
+---
+
 # Pipelines Gotchas
 
 ## Critical Issues

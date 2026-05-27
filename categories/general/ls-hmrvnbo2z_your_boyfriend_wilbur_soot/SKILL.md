@@ -1,3 +1,10 @@
+---
+name: ls-hmrvnbo2z_your_boyfriend_wilbur_soot
+description: "Skill: ls-hmrvnbo2z_your_boyfriend_wilbur_soot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HmrVnBO2Z-your-boyfriend-wilbur-soot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9dZzE4cgyQA85gvbTfHhXV02?se=2123-10-20T01%3A41%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dstatic-assets-upload6854210079409137949.webp&sig=iiFvmAK9MHxBBdOhqsK4oKNooA7FJga6RC4oFJ%2BumQE%3D" width="100px" />

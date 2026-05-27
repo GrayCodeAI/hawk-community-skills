@@ -1,3 +1,10 @@
+---
+name: ghcp-references-gomarkdown
+description: "Skill: ghcp-references-gomarkdown"
+license: MIT
+tags: [general]
+---
+
 # gomarkdown/markdown Reference
 
 Go library for parsing Markdown and rendering HTML. Fast, extensible, and thread-safe.

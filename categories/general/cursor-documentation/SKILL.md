@@ -1,15 +1,11 @@
 ---
 name: cursor-documentation
-description: Cursor IDE rules for documentation
-domain: engineering
+description: "Cursor IDE rules for documentation"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Documentation: code docs, READMEs, ADRs, maintenance"
-alwaysApply: true
 ---
 
 # Documentation Rules

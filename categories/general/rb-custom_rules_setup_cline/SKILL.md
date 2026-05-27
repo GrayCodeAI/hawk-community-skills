@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_cline
+description: "Skill: rb-custom_rules_setup_cline"
+license: MIT
+tags: [general]
+---
+
 source: https://docs.cline.bot/improving-your-prompting-skills/prompting
 https://docs.cursor.com/context/rules-for-ai
 

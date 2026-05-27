@@ -1,3 +1,10 @@
+---
+name: ghcp-references-architecture-patterns
+description: "Skill: ghcp-references-architecture-patterns"
+license: MIT
+tags: [general]
+---
+
 # Architecture & Patterns Reference
 
 Web application architectures, design patterns, and architectural concepts.

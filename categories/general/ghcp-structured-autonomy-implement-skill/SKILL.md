@@ -1,6 +1,8 @@
 ---
-name: structured-autonomy-implement
-description: 'Structured Autonomy Implementation Prompt'
+name: ghcp-structured-autonomy-implement-skill
+description: "Structured Autonomy Implementation Prompt"
+license: MIT
+tags: [general]
 ---
 
 You are an implementation agent responsible for carrying out the implementation plan without deviating from it.

@@ -1,7 +1,9 @@
 ---
-name: terraform-engineer
-description: Infrastructure as Code with Terraform, module design, state management, and multi-cloud provisioning
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-terraform-engineer
+description: "Infrastructure as Code with Terraform, module design, state management, and multi-cloud provisioning"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

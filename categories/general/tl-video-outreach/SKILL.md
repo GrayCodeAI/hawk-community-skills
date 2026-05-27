@@ -1,12 +1,13 @@
 ---
-name: video-outreach
-description: "When the user wants to build video-first cold outreach, create personalized video at scale, implement async selling, or use AI demo generation for prospecting. Also use when the user mentions 'video outreach,' 'personalized video,' 'video prospecting,' 'Tavus,' 'Sendspark,' 'HeyGen,' 'video email,' 'async selling,' 'video demo,' or 'made this for you.' This skill covers video-first outreach systems from personalization through conversion optimization. Do NOT use for technical implementation, code review, or software architecture."
-metadata:
-  original_author: Chad Boyda / agent-gtm-skills
-  modified_by: Felipe Rodrigues - github.com/felipfr
-  source: https://github.com/chadboyda/agent-gtm-skills
-  version: '1.0.0'
-
+name: tl-video-outreach
+description: "When the user wants to build video-first cold outreach, create personalized video at scale, implement async selling, or use AI demo generation for prospecting. Also use when the user mentions 'vide..."
+license: MIT
+tags: [general]
+metadata: None
+original_author: Chad Boyda / agent-gtm-skills
+modified_by: Felipe Rodrigues - github.com/felipfr
+source: https://github.com/chadboyda/agent-gtm-skills
+version: 1.0.0
 ---
 
 # Video-First Cold Outreach

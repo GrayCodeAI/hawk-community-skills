@@ -1,8 +1,10 @@
 ---
-name: sitespeakai-automation
+name: composio-sitespeakai-automation
 description: "Automate Sitespeakai tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Sitespeakai Automation via Rube MCP

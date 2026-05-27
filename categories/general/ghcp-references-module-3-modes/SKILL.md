@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-3-modes
+description: "Skill: ghcp-references-module-3-modes"
+license: MIT
+tags: [general]
+---
+
 # Module 3: Interaction Modes
 
 ## Interactive Mode (default)

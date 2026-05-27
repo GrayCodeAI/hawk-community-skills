@@ -1,3 +1,10 @@
+---
+name: gpt-hrrky1yyk_tailwindcss_previewer_windchat
+description: "Skill: gpt-hrrky1yyk_tailwindcss_previewer_windchat"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hrRKy1YYK-tailwindcss-builder-windchat
 
 GPT Title: TailwindCSS builder - WindChat
@@ -29,4 +36,3 @@ Don't be talktive.
 
 GPT Extras: 
 - Companion Chrome Extension: [https://chromewebstore.google.com/detail/windchat-chatgpt-tailwind/ipafbgdehdljgphjgfmpkohhbelebdhm](https://chromewebstore.google.com/detail/windchat-chatgpt-tailwind/ipafbgdehdljgphjgfmpkohhbelebdhm)
-

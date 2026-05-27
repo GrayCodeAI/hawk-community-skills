@@ -1,18 +1,8 @@
 ---
-name: karma-skill
-description: >
-  Generates Karma test runner configurations for browser-based JavaScript testing.
-  Works with Jasmine, Mocha, or QUnit. Use when user mentions "Karma",
-  "karma.conf.js", "browser test runner". Triggers on: "Karma", "karma.conf",
-  "karma test runner", "browser-based JS test".
-languages:
-  - JavaScript
-  - TypeScript
-category: unit-testing
+name: lt-karma-skill
+description: "Skill: lt-karma-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Karma Testing Skill

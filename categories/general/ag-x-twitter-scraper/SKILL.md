@@ -1,11 +1,12 @@
 ---
-name: x-twitter-scraper
+name: ag-x-twitter-scraper
 description: "X/Twitter automation skill for tweet search, follower export, media download, posting, replies, DMs, webhooks, MCP, SDKs, and the TweetClaw OpenClaw plugin."
+license: MIT
+tags: [twitter, x-api, tweet-search, twitter-api, twitter-scraper, follower-export, automation, mcp, sdk, webhooks, openclaw, tweetclaw]
 category: data
 risk: safe
 source: community
-tags: "[twitter, x-api, tweet-search, twitter-api, twitter-scraper, follower-export, automation, mcp, sdk, webhooks, openclaw, tweetclaw]"
-date_added: "2026-02-28"
+date_added: 2026-02-28
 ---
 
 # X (Twitter) Scraper - Xquik

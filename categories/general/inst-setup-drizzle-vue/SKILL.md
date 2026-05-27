@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-vue
+description: "Skill: inst-setup-drizzle-vue"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + Vue Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with a Vue 3 application.
@@ -377,4 +384,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Vue 3 Documentation](https://vuejs.org)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

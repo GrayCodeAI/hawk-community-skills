@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt-ios_20230614
+description: "Skill: sys-openai-chatgpt-ios_20230614"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt-ios_20230614
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/1>

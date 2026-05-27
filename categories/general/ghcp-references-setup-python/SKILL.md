@@ -1,3 +1,10 @@
+---
+name: ghcp-references-setup-python
+description: "Skill: ghcp-references-setup-python"
+license: MIT
+tags: [general]
+---
+
 # Setup: Python
 
 Packages required for Phoenix evals and experiments.

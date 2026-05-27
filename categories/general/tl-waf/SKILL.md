@@ -1,3 +1,10 @@
+---
+name: tl-waf
+description: "Skill: tl-waf"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Troubleshooting
 
 ## Execution Order

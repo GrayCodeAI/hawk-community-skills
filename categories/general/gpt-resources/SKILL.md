@@ -1,3 +1,10 @@
+---
+name: gpt-resources
+description: "Skill: gpt-resources"
+license: MIT
+tags: [general]
+---
+
 # Learning Resources and Tools
 
 ## Useful GPT Index Sites/Tools

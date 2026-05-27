@@ -1,3 +1,10 @@
+---
+name: cpa-healthcareapis
+description: "Skill: cpa-healthcareapis"
+license: MIT
+tags: [general]
+---
+
 # az healthcareapis
 
 ```bash

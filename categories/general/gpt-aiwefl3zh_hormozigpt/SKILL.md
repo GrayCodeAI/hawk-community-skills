@@ -1,3 +1,10 @@
+---
+name: gpt-aiwefl3zh_hormozigpt
+description: "Skill: gpt-aiwefl3zh_hormozigpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aIWEfl3zH-hormozigpt
 
 GPT Title: HormoziGPT

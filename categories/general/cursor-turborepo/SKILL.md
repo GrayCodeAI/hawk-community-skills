@@ -1,16 +1,11 @@
 ---
 name: cursor-turborepo
-description: Cursor IDE rules for turborepo
-domain: engineering
+description: "Cursor IDE rules for turborepo"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Turborepo: monorepo structure, caching, task pipelines"
-globs: ["turbo.json", "package.json"]
-alwaysApply: true
 ---
 
 # Turborepo Cursor Rules

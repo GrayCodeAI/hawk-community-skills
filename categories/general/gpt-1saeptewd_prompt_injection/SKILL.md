@@ -1,3 +1,10 @@
+---
+name: gpt-1saeptewd_prompt_injection
+description: "Skill: gpt-1saeptewd_prompt_injection"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1SaePtEwD-prompt-injection
 
 GPT logo: <img src="None" width="100px" />

@@ -1,9 +1,11 @@
 ---
-name: competitive-landscape
+name: ag-competitive-landscape
 description: "Comprehensive frameworks for analyzing competition, identifying differentiation opportunities, and developing winning market positioning strategies."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Competitive Landscape Analysis

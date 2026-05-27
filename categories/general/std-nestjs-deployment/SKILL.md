@@ -1,16 +1,14 @@
 ---
-name: nestjs-deployment
-description: Containerize NestJS apps with multi-stage Docker builds, tune Node.js memory, and implement graceful shutdown hooks. Use when writing Dockerfiles, configuring K8s deployments, or adding shutdown hooks for NestJS.
-metadata:
-  triggers:
-    files:
-    - 'k8s/**'
-    - 'helm/**'
-    keywords:
-    - Dockerfile
-    - max-old-space-size
-    - shutdown hooks
+name: std-nestjs-deployment
+description: "Containerize NestJS apps with multi-stage Docker builds, tune Node.js memory, and implement graceful shutdown hooks. Use when writing Dockerfiles, configuring K8s deployments, or adding shutdown ho..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Deployment & Ops Standards
 
 ## **Priority: P1 (OPERATIONAL)**

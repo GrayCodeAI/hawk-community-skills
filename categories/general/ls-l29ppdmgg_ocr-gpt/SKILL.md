@@ -1,3 +1,10 @@
+---
+name: ls-l29ppdmgg_ocr-gpt
+description: "Skill: ls-l29ppdmgg_ocr-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-L29PpDmgg-ocr-gpt
 
 GPT Title: OCR-GPT

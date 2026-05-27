@@ -1,13 +1,8 @@
 ---
 name: read-github
-description: |
-  Read and search GitHub repository documentation via gitmcp.io MCP service.
-
-  **WHEN TO USE:**
-  - User provides a GitHub URL
-  - User mentions a specific repo in owner/repo format
-  - User asks "what does this repo do?", "read the docs for X repo", or similar
-  - User wants to search code or docs within a repo
+description: "Skill: read-github"
+license: MIT
+tags: [general]
 ---
 
 # Read GitHub Docs

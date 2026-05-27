@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-retriever
+description: "Skill: ghcp-references-span-retriever"
+license: MIT
+tags: [general]
+---
+
 # RETRIEVER Spans
 
 ## Purpose

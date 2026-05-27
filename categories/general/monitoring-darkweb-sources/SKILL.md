@@ -1,19 +1,14 @@
 ---
 name: monitoring-darkweb-sources
-description: >
-  Monitors dark web forums, marketplaces, paste sites, and ransomware leak sites for mentions
-  of organizational assets, leaked credentials, threatened attacks, and threat actor communications
-  to provide early warning intelligence. Use when establishing dark web monitoring coverage,
-  investigating specific data breach claims, or enriching incident investigations with dark web
-  context. Activates for requests involving dark web OSINT, leak site monitoring, credential
-  exposure, Recorded Future dark web, or Tor hidden service intelligence.
+description: "Monitors dark web forums, marketplaces, paste sites, and ransomware leak sites for mentions of organizational assets, leaked credentials, threatened attacks, and threat actor communications to prov..."
+license: MIT
+tags: [dark-web, osint, credential-monitoring, ransomware-leaks, recorded-future, spiderfoot, cti]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [dark-web, OSINT, credential-monitoring, ransomware-leaks, Recorded-Future, SpiderFoot, CTI]
 version: 1.0.0
 author: team-cybersecurity
-license: MIT
 ---
+
 # Monitoring Dark Web Sources
 
 ## When to Use

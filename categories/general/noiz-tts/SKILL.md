@@ -1,10 +1,10 @@
 ---
-name: tts
-description: "Use this skill whenever the user wants to convert text into speech, generate audio from text, or produce voiceovers. Triggers include: any mention of 'TTS', 'text to speech', 'speak', 'say', 'voice', 'read aloud', 'audio narration', 'voiceover', 'dubbing', or requests to turn written content into spoken audio. Also use when converting EPUB/PDF/SRT/articles to audio, cloning voices from reference audio, controlling emotion or speed in speech, aligning speech to subtitle timelines, or producing per-segment voice-mapped audio."
-permissions:
-  - network
-  - filesystem
-metadata: {"openclaw": {"primaryEnv": "NOIZ_API_KEY"}}
+name: noiz-tts
+description: "Use this skill whenever the user wants to convert text into speech, generate audio from text, or produce voiceovers. Triggers include: any mention of 'TTS', 'text to speech', 'speak', 'say', 'voice..."
+license: MIT
+tags: [general]
+permissions: None
+metadata: {'openclaw': {'primaryEnv': 'NOIZ_API_KEY'}}
 ---
 
 # tts

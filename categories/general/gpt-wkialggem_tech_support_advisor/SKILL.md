@@ -1,3 +1,10 @@
+---
+name: gpt-wkialggem_tech_support_advisor
+description: "Skill: gpt-wkialggem_tech_support_advisor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor
 
 GPT Title: Tech Support Advisor

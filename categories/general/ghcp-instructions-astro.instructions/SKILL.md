@@ -1,6 +1,8 @@
 ---
-description: 'Astro development standards and best practices for content-driven websites'
-applyTo: '**/*.astro, **/*.ts, **/*.js, **/*.md, **/*.mdx'
+name: ghcp-instructions-astro.instructions
+description: "Skill: ghcp-instructions-astro.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Astro Development Instructions

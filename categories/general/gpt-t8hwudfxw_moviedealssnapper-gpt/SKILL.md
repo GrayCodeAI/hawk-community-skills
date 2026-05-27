@@ -1,3 +1,10 @@
+---
+name: gpt-t8hwudfxw_moviedealssnapper-gpt
+description: "Skill: gpt-t8hwudfxw_moviedealssnapper-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-T8HWuDfxW-moviedealssnapper-gpt/
 
 GPT Title: MovieDealsSnapper GPT

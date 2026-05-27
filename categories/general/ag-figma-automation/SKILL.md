@@ -1,9 +1,11 @@
 ---
-name: figma-automation
+name: ag-figma-automation
 description: "Automate Figma tasks via Rube MCP (Composio): files, components, design tokens, comments, exports. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Figma Automation via Rube MCP

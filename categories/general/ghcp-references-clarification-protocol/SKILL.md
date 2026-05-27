@@ -1,3 +1,10 @@
+---
+name: ghcp-references-clarification-protocol
+description: "Skill: ghcp-references-clarification-protocol"
+license: MIT
+tags: [general]
+---
+
 # Clarification Protocol
 
 Before beginning analysis, pause and ask the user at most **2 targeted questions** when:

@@ -1,3 +1,10 @@
+---
+name: gpt-iz6q2vorh_bridge_theater
+description: "Skill: gpt-iz6q2vorh_bridge_theater"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IZ6Q2vorH-bridge-theater
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DInBZ16TEJnQgN0gj7NR7ZDX?se=2123-10-17T00%3A31%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dedd85992-be35-42b4-8c4d-4c328e654831.png&sig=3koVsTBNPVKqSAiNm/X2bIW/D%2B3ktjbky8ncMP7t5kM%3D" width="100px" />

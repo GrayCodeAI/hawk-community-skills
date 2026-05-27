@@ -1,7 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts,package.json,package-lock.json,yarn.lock,pnpm-lock.yaml"
-description: Security Scanning Guidelines for Node.js projects
-source: https://github.com/lirantal/agent-rules
+name: lira-security-scanning
+description: "Skill: lira-security-scanning"
+license: MIT
+tags: [general]
 ---
 
 # Security Scanning Guidelines 

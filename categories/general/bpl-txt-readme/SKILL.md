@@ -1,9 +1,10 @@
 ---
-name: bpl-readme
-description: System prompt - readme
-domain: general
+name: bpl-txt-readme
+description: "System prompt - readme"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

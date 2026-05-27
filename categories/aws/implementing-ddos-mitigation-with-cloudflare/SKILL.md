@@ -1,12 +1,12 @@
 ---
 name: implementing-ddos-mitigation-with-cloudflare
-description: Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol, and application-layer attacks.
+description: "Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF rules, Bot Management, and origin protection to mitigate volumetric, protocol, and application-layer attacks."
+license: MIT
+tags: [ddos, cloudflare, ddos-mitigation, rate-limiting, waf, bot-management, layer-7, volumetric-attack, network-security]
 domain: cybersecurity
 subdomain: network-security
-tags: [ddos, cloudflare, ddos-mitigation, rate-limiting, waf, bot-management, layer-7, volumetric-attack, network-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing DDoS Mitigation with Cloudflare

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-production-guardrails
+description: "Skill: ghcp-references-production-guardrails"
+license: MIT
+tags: [general]
+---
+
 # Production: Guardrails vs Evaluators
 
 Guardrails block in real-time. Evaluators measure asynchronously.

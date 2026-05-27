@@ -1,3 +1,10 @@
+---
+name: cpa-scvmm
+description: "Skill: cpa-scvmm"
+license: MIT
+tags: [general]
+---
+
 # az scvmm
 
 ```bash

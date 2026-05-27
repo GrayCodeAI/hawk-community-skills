@@ -1,3 +1,10 @@
+---
+name: gpt-copycoder
+description: "Skill: gpt-copycoder"
+license: MIT
+tags: [general]
+---
+
 repo: https://github.com/uebylive/copycoder
 
 ```python

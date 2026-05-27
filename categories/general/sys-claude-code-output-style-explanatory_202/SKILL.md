@@ -1,3 +1,10 @@
+---
+name: sys-claude-code-output-style-explanatory_202
+description: "Skill: sys-claude-code-output-style-explanatory_202"
+license: MIT
+tags: [general]
+---
+
 # claude-code-output-style-explanatory_20251007
 
 source: Extracted from Claude Code CLI (cli.js)

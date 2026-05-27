@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing performant, maintainable, and idiomatic Dask code, focusing on real-world scenarios and modern patterns.
-globs: **/*.py
+name: mdc-dask
+description: "This guide provides opinionated, actionable best practices for writing performant, maintainable, and idiomatic Dask code, focusing on real-world scenarios and modern patterns."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Dask Best Practices
 
 Dask is a powerful library for scaling Python, but it introduces new paradigms. Writing effective Dask code requires understanding its lazy execution model and distributed computing overhead. This guide outlines critical best practices to ensure your Dask pipelines are reliable, performant, and easy to maintain.

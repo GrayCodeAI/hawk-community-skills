@@ -1,9 +1,10 @@
 ---
 name: extract_main_idea
-description: Fabric pattern - extract_main_idea
-domain: general
+description: "Fabric pattern - extract_main_idea"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

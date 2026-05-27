@@ -1,6 +1,8 @@
 ---
+name: ghcp-agents-php-mcp-expert
 description: "Expert assistant for PHP MCP server development using the official PHP SDK with attribute-based discovery"
-name: "PHP MCP Expert"
+license: MIT
+tags: [general]
 model: GPT-4.1
 ---
 

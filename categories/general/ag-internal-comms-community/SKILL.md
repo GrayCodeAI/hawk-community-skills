@@ -1,9 +1,11 @@
 ---
-name: internal-comms-community
+name: ag-internal-comms-community
 description: "To write internal communications, use this skill for:"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## When to use this skill

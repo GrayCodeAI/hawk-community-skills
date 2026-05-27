@@ -1,23 +1,14 @@
 ---
-name: android-architecture
-description: Apply Clean Architecture layering, modularization, and Unidirectional Data Flow in Android projects. Use when setting up project structure, placing code in layers, configuring feature/core modules, or implementing UDF patterns.
-metadata:
-  triggers:
-    files:
-    - 'build.gradle.kts'
-    - 'settings.gradle.kts'
-    keywords:
-    - clean-architecture
-    - module
-    - layers
-    - domain
-    - UDF
-    - unidirectional
-    - feature module
-    - core module
-    - presentation layer
-    - data layer
+name: std-android-architecture
+description: "Apply Clean Architecture layering, modularization, and Unidirectional Data Flow in Android projects. Use when setting up project structure, placing code in layers, configuring feature/core modules,..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Architecture Standards
 
 ## **Priority: P0 (CRITICAL)**

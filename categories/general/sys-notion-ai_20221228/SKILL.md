@@ -1,3 +1,10 @@
+---
+name: sys-notion-ai_20221228
+description: "Skill: sys-notion-ai_20221228"
+license: MIT
+tags: [general]
+---
+
 # notion-ai_20221228
 
 source: <https://www.latent.space/p/reverse-prompt-eng>

@@ -1,9 +1,10 @@
 ---
 name: summarize_meeting
-description: Fabric pattern - summarize_meeting
-domain: general
+description: "Fabric pattern - summarize_meeting"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

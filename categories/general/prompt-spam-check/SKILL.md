@@ -1,38 +1,8 @@
 ---
-name: "Spam & Self-Promotion Check"
-description: >
-  Detects spam, self-promotion, and direct prompts.csv edits in issues and PRs.
-  Automatically labels detected items as wontfix and closes them with an explanatory comment.
-on:
-  issues:
-    types: [opened, edited]
-  pull_request:
-    types: [opened, edited]
-    forks: ["*"]
-  skip-bots: [github-actions, copilot, dependabot]
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-engine: copilot
-tools:
-  github:
-    toolsets: [issues, pull_requests, repos]
-safe-outputs:
-  add-labels:
-    allowed: [wontfix]
-    max: 5
-    target: "*"
-  add-comment:
-    max: 5
-    target: "*"
-  close-issue:
-    max: 5
-    target: "*"
-  close-pull-request:
-    max: 5
-    target: "*"
-timeout-minutes: 5
+name: prompt-spam-check
+description: "Skill: prompt-spam-check"
+license: MIT
+tags: [general]
 ---
 
 # Spam & Self-Promotion Check Agent

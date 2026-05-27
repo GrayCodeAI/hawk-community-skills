@@ -1,3 +1,10 @@
+---
+name: bpl-copilot
+description: "Skill: bpl-copilot"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot - github.com Web Chat (unverified)
 
 - **Contributed by**: [MohamedM-Haroon](https://github.com/MohamedM-Haroon)

@@ -1,3 +1,10 @@
+---
+name: ls-ccnlcdji1_nash_linter
+description: "Skill: ls-ccnlcdji1_nash_linter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CcNlCDjI1-nash-linter
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WLmMerOkrHyAV7thBbus178p?se=2124-01-19T09%3A53%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0c14e5b3-6f5a-4936-b6bb-275618358196.png&sig=xhmy7fn99jMAPEDX90reLi%2BOleUEhVqUz11bewbrZNw%3D" width="100px" />

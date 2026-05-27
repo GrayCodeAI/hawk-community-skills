@@ -1,3 +1,10 @@
+---
+name: ls-h8n6hlgbx_parent_pursuit
+description: "Skill: ls-h8n6hlgbx_parent_pursuit"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h8N6HLgbx-parent-pursuit
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-488YVqBbWB2TRloiDBuW25hV?se=2124-01-14T21%3A40%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-07%252016.39.40%2520-%2520Create%2520an%2520ultra-realistic%2520image%2520that%2520embodies%2520the%2520essence%2520of%2520%2527Parent%2520Pursuit%252C%2527%2520a%2520digital%2520assistant%2520designed%2520to%2520offer%2520comprehensive%2520parenting%2520advice.%2520T.webp&sig=WwXaIlJGEdZfEXXq5Q6g6g4BvT/pFtCHIBikcQrTGEU%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-qy58rqrgv_forensic_ai_photography__expert
+description: "Skill: gpt-qy58rqrgv_forensic_ai_photography__expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qy58rqRgv-forensic-ai-photography-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BOhlyAxwJpJ70K833nkGOEli?se=2123-10-16T22%3A39%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df5fce8e3-2523-4dfb-a3e0-1cf737fd0e38.png&sig=Pyg6NdL1ulAIBWf5dgUyYu28qtenaJcNMjPv7ztbrT8%3D" width="100px" />

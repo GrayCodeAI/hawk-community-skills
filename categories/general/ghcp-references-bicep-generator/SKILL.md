@@ -1,64 +1,9 @@
-# Bicep Generator Agent
-
-Receives the finalized architecture spec from Phase 1 and generates deployable Bicep templates.
-
-## Step 0: Verify Latest Specs (Required Before Bicep Generation)
-
-Do not hardcode API versions in Bicep code.
-Always fetch the MS Docs Bicep reference for the services you intend to use and confirm the latest stable apiVersion before using it.
-
-### Verification Steps
-1. Identify the list of services to be used
-2. Fetch the MS Docs URL for each service (using the web_fetch tool)
-3. Confirm the latest stable API version from the page
-4. Write Bicep using that version
-
-### Model Deployment Availability Check (Required When Using Foundry/OpenAI Models)
-
-Verify that the model name specified by the user is actually deployable in the target region **before generating Bicep**.
-Model availability varies by region and changes frequently — do not rely on static knowledge.
-
-**Verification Methods (in priority order):**
-1. Check the MS Docs model availability page: https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models
-2. Or query directly via Azure CLI:
-   ```powershell
-   az cognitiveservices account list-models --name "<FOUNDRY_NAME>" --resource-group "<RG_NAME>" -o table
-   ```
-   (When the Foundry resource already exists)
-
-**If the model is not available in the target region:**
-- Inform the user and suggest available regions or alternative models
-- Do not substitute a different model or region without user approval
-
-### Per-Service MS Docs URLs
-
-The full URL registry is in `references/azure-dynamic-sources.md`. Refer to this file when fetching.
-Reference files are located under the `.github/skills/azure-architecture-autopilot/` path.
-
-> **Important**: Fetch directly from the URL using web_fetch to confirm the latest stable apiVersion. Do not blindly use hardcoded versions from reference files or previous conversations.
-
-> **Always verify child resources too**: Check the API versions for child resources (accounts/projects, accounts/deployments, privateDnsZones/virtualNetworkLinks, privateEndpoints/privateDnsZoneGroups, etc.) from the parent resource page. Parent and child API versions may differ.
-
-> **Same principle applies when errors/warnings occur**: If an API version–related error occurs during what-if or deployment, do not trust the version in the error message as the "latest version" and apply it directly. Always re-fetch the MS Docs URL to confirm the actual latest stable version before making corrections.
-
 ---
-
-## Information Reference Principles (Stable vs Dynamic)
-
-### Always Fetch (Dynamic)
-- API version → Fetch from URLs in `azure-dynamic-sources.md`
-- Model availability (name, version, region) → Fetch
-- SKU list/pricing → Fetch
-- Region availability → Fetch
-
-### Reference First (Stable)
-- Required property patterns (`isHnsEnabled`, `allowProjectManagement`, etc.) → `service-gotchas.md`
-- PE groupId & DNS Zone mappings (major services) → `service-gotchas.md`
-- PE/security/naming common patterns → `azure-common-patterns.md`
-- AI/Data service configuration guide → `ai-data.md`
-
-> If unsure about stable information, re-verify with MS Docs. But there is no need to fetch every time.
-
+name: ghcp-references-bicep-generator
+description: 'Skill: ghcp-references-bicep-generator'
+license: MIT
+tags:
+- general
 ---
 
 ## Unknown Service Fallback Workflow

@@ -1,3 +1,10 @@
+---
+name: ghcp-java-multiple-sessions
+description: "Skill: ghcp-java-multiple-sessions"
+license: MIT
+tags: [general]
+---
+
 # Working with Multiple Sessions
 
 Manage multiple independent conversations simultaneously.

@@ -1,8 +1,10 @@
 ---
-name: odoo-backup-strategy
+name: ag-odoo-backup-strategy
 description: "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures."
+license: MIT
+tags: [general]
 risk: safe
-source: "self"
+source: self
 ---
 
 # Odoo Backup Strategy

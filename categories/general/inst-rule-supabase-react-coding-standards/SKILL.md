@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for React apps with Supabase
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-rule-supabase-react-coding-standards
+description: "Coding Standards & Rules for React apps with Supabase"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in Supabase integration.
@@ -58,4 +60,4 @@ You are a senior React developer with expertise in Supabase integration.
 - Implement proper CORS policies
 - Use proper input sanitization
 - Implement proper rate limiting
-- Use proper audit logging for sensitive operations 
+- Use proper audit logging for sensitive operations

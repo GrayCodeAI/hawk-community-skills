@@ -1,5 +1,9 @@
 ---
-description: Recommends implementing lazy-loading for improved performance within SolidJS.
-globs: src/**/*.jsx
+name: mdc-solidjs---lazy-loading
+description: 'Skill: mdc-solidjs---lazy-loading'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Implement lazy-loading for improved performance

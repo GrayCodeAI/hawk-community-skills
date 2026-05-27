@@ -1,3 +1,10 @@
+---
+name: sys-proton-lumo_20250727
+description: "Skill: sys-proton-lumo_20250727"
+license: MIT
+tags: [general]
+---
+
 # proton-lumo_20250727
 
 ## Identity & Personality

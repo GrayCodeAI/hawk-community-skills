@@ -1,9 +1,11 @@
 ---
-name: gdpr-data-handling
+name: ag-gdpr-data-handling
 description: "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # GDPR Data Handling

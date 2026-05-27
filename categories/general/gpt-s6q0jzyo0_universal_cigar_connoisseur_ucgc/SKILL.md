@@ -1,3 +1,10 @@
+---
+name: gpt-s6q0jzyo0_universal_cigar_connoisseur_ucgc
+description: "Skill: gpt-s6q0jzyo0_universal_cigar_connoisseur_ucgc"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-S6q0JzyO0-universal-cigar-connoisseur-ucgc
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-AfimXAdpSDHftbzdfbCukgD0?se=2124-01-24T19%3A12%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1b2917d1-1796-4972-898e-458a431a5979.png&sig=Y5bgGfycup%2B4ai0Fj5b43MCPV8du5FCnL1CCyqreQng%3D" width="100px" />

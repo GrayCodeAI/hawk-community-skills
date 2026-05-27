@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, secure, and maintainable Tornado applications using modern Python 3.9+ async/await patterns and best practices.
-globs: **/*.py
+name: mdc-tornado
+description: "Definitive guidelines for writing high-performance, secure, and maintainable Tornado applications using modern Python 3.9+ async/await patterns and best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # tornado Best Practices
 
 Tornado is a powerful, non-blocking web framework ideal for high-concurrency applications, WebSockets, and long-polling. These rules enforce modern (Python 3.9+, 2025 standards) best practices, ensuring your code is performant, secure, and maintainable.

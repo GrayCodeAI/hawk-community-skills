@@ -1,3 +1,10 @@
+---
+name: gpt-pzyr2opq2_arabegpt
+description: "Skill: gpt-pzyr2opq2_arabegpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PzYr2opQ2-arabegpt
 
 GPT logo: <img src="None" width="100px" />

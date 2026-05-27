@@ -1,3 +1,10 @@
+---
+name: rb-task_1_3_context
+description: "Skill: rb-task_1_3_context"
+license: MIT
+tags: [general]
+---
+
 # Context for Task 1.3: Implement a Basic Command
 
 This document provides detailed steps for implementing the first basic command in the VS Code extension, which will execute the `manage_rules.py` script's `list-rules` command and display the output.

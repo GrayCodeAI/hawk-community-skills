@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Better Auth React
-globs: **/*.tsx, **/*.ts, **/*.jsx, **/*.js
+name: inst-rule-better-auth-react-coding-standards
+description: "Coding Standards & Rules for Better Auth React"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer specializing in Better Auth integration. An expert in React, TypeScript, and authentication best practices.
@@ -72,4 +74,4 @@ You are a senior React developer specializing in Better Auth integration. An exp
 - Optimize authentication state updates
 - Handle authentication-related re-renders efficiently
 - Use memoization where appropriate for authentication components
-- Implement efficient token refresh strategies 
+- Implement efficient token refresh strategies

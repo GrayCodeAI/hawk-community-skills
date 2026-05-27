@@ -1,7 +1,10 @@
 ---
-description: Provides definitive guidelines for modern Angular development (2025), focusing on best practices for code structure, component architecture, state management with signals, performance, and type safety.
-globs: **/*.{ts,html}
+name: mdc-angular
+description: "Provides definitive guidelines for modern Angular development (2025), focusing on best practices for code structure, component architecture, state management with signals, performance, and type saf..."
+license: MIT
+tags: [angular]
 ---
+
 # Angular Best Practices
 
 This guide outlines the definitive best practices for Angular development, ensuring consistency, maintainability, and optimal performance. Adhere to these rules strictly.

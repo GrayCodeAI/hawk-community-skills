@@ -1,13 +1,8 @@
 ---
-name: agent-topology-optimizer
-description: Agent skill for topology-optimizer - invoke with $agent-topology-optimizer
----
-
----
-name: Topology Optimizer
-type: agent
-category: optimization
-description: Dynamic swarm topology reconfiguration and communication pattern optimization
+name: flow-agent-topology-optimizer
+description: "Agent skill for topology-optimizer - invoke with $agent-topology-optimizer"
+license: MIT
+tags: [general]
 ---
 
 # Topology Optimizer Agent

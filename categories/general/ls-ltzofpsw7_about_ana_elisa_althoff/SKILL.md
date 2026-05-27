@@ -1,3 +1,10 @@
+---
+name: ls-ltzofpsw7_about_ana_elisa_althoff
+description: "Skill: ls-ltzofpsw7_about_ana_elisa_althoff"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LtzoFpsw7-about-ana-elisa-althoff
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GVpmlKPSm6Qk7ghhjCjIhY7l?se=2123-11-04T18%3A45%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreen%2520Shot%25202023-11-28%2520at%252018.45.34.png&sig=ga%2BPxUfvZcx41%2Bi2gwxd%2B4xHBh6wcj/g8t4gQxdbfcE%3D" width="100px" />

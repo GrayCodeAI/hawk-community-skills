@@ -1,7 +1,10 @@
 ---
-description: Enforces the use of classes for complex state management (state machines) in Svelte components. Applies specifically to `.svelte.ts` files.
-globs: **/*.svelte.ts
+name: mdc-class-based-state-management
+description: "Enforces the use of classes for complex state management (state machines) in Svelte components. Applies specifically to `.svelte.ts` files."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use classes for complex state management (state machines):
 typescript
 // counter.svelte.ts

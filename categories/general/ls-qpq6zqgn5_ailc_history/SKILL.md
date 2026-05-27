@@ -1,3 +1,10 @@
+---
+name: ls-qpq6zqgn5_ailc_history
+description: "Skill: ls-qpq6zqgn5_ailc_history"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QpQ6ZqGn5-ailc-history
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZvLcOfbB3NMIef4LHFFX9Ah5?se=2123-10-23T01%3A43%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dailchistory.jpg&sig=lOaofH3XESGRrMsL5tB1yH2/%2BfuWrBIuH/5eYfcdJHQ%3D" width="100px" />

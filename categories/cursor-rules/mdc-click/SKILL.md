@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for building robust, maintainable, and user-friendly command-line interfaces (CLIs) using the `click` Python library, emphasizing modern patterns and common pitfalls.
-globs: **/*.py
+name: mdc-click
+description: "This guide outlines definitive best practices for building robust, maintainable, and user-friendly command-line interfaces (CLIs) using the `click` Python library, emphasizing modern patterns and c..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # click Best Practices
 
 `click` is the undisputed standard for building Python CLIs. Follow these rules to ensure your tools are consistent, maintainable, and a joy to use.

@@ -1,3 +1,10 @@
+---
+name: cpa-mcc
+description: "Skill: cpa-mcc"
+license: MIT
+tags: [general]
+---
+
 # az mcc
 
 ```bash

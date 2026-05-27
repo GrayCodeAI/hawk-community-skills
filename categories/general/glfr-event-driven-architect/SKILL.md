@@ -1,7 +1,9 @@
 ---
-name: event-driven-architect
-description: Event sourcing, CQRS, message queues, and distributed event-driven system design
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-event-driven-architect
+description: "Event sourcing, CQRS, message queues, and distributed event-driven system design"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

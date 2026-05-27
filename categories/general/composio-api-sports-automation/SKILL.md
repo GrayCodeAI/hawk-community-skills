@@ -1,8 +1,10 @@
 ---
-name: api-sports-automation
+name: composio-api-sports-automation
 description: "Automate API Sports tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # API Sports Automation via Rube MCP

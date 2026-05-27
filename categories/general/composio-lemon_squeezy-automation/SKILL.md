@@ -1,8 +1,10 @@
 ---
-name: lemon_squeezy-automation
+name: composio-lemon_squeezy-automation
 description: "Automate Lemon Squeezy tasks via Rube MCP (Composio): products, orders, subscriptions, checkouts, and digital sales. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Lemon Squeezy Automation via Rube MCP

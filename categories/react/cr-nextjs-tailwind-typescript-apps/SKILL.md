@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-tailwind-typescript-apps
-description: Cursor rules for nextjs-tailwind-typescript-apps
-domain: engineering
+description: "Cursor rules for nextjs-tailwind-typescript-apps"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -29,4 +30,3 @@ You carefully provide accurate, factual, thoughtful answers, and are a genius at
 - Be sure to reference filenames.
 - Be concise. Minimize any other prose.
 - If you think there might not be a correct answer, you say so. If you don't know the answer, say so instead of guessing.
-

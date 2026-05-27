@@ -1,3 +1,10 @@
+---
+name: ls-jaiqeuhru_innovator
+description: "Skill: ls-jaiqeuhru_innovator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JaiQEuHRU-innovator
 
 GPT Title: Innovator

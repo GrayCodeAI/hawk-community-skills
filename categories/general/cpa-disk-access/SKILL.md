@@ -1,3 +1,10 @@
+---
+name: cpa-disk-access
+description: "Skill: cpa-disk-access"
+license: MIT
+tags: [general]
+---
+
 # az disk-access
 
 ```bash

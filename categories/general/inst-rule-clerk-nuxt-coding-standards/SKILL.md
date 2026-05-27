@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Clerk in Nuxt.js
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-rule-clerk-nuxt-coding-standards
+description: "Coding Standards & Rules for Clerk in Nuxt.js"
+license: MIT
+tags: [general]
 ---
 
 # Clerk Authentication Coding Standards for Nuxt.js
@@ -135,4 +137,4 @@ Remember:
 2. Maintain consistent coding patterns
 3. Follow Nuxt.js best practices
 4. Keep code clean and maintainable
-5. Document everything properly 
+5. Document everything properly

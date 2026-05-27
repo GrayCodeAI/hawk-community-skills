@@ -1,3 +1,10 @@
+---
+name: ghcp-runnable-examples-cli-app
+description: "Skill: ghcp-runnable-examples-cli-app"
+license: MIT
+tags: [general]
+---
+
 # Runnable Example: CLI Application
 
 **When the app is invoked from the command line** (e.g., `python -m myapp`, a CLI tool with argparse/click).

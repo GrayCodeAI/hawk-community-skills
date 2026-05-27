@@ -1,9 +1,10 @@
 ---
 name: cr-wordpress-php-guzzle-gutenberg
-description: Cursor rules for wordpress-php-guzzle-gutenberg
-domain: engineering
+description: "Cursor rules for wordpress-php-guzzle-gutenberg"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -18,4 +19,3 @@ author: PatrickJS/awesome-cursorrules
 - Favor functional paradigms over object-oriented ones, favor composition over inheritance, but be consistent with WordPress ecosystem best practices.
 
 - Optimize for readability.
-

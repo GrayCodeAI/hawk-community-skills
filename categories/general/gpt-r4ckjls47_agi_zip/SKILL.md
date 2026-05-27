@@ -1,3 +1,10 @@
+---
+name: gpt-r4ckjls47_agi_zip
+description: "Skill: gpt-r4ckjls47_agi_zip"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-r4ckjls47-agi-zip
 
 GPT Title: Agi.zip

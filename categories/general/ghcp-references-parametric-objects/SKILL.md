@@ -1,3 +1,10 @@
+---
+name: ghcp-references-parametric-objects
+description: "Skill: ghcp-references-parametric-objects"
+license: MIT
+tags: [general]
+---
+
 # FreeCAD Parametric Objects
 
 Reference guide for creating FeaturePython objects, scripted objects, properties, view providers, and serialization.

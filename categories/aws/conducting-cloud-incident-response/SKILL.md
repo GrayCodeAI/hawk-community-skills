@@ -1,17 +1,12 @@
 ---
 name: conducting-cloud-incident-response
-description: >
-  Responds to security incidents in cloud environments (AWS, Azure, GCP) by performing
-  identity-based containment, cloud-native log analysis, resource isolation, and forensic
-  evidence acquisition adapted for ephemeral cloud infrastructure. Activates for requests
-  involving cloud incident response, AWS security incident, Azure compromise, GCP breach,
-  cloud forensics, or cloud identity compromise.
+description: "Responds to security incidents in cloud environments (AWS, Azure, GCP) by performing identity-based containment, cloud-native log analysis, resource isolation, and forensic evidence acquisition ada..."
+license: MIT
+tags: [cloud-ir, aws-forensics, azure-incident-response, gcp-security, identity-containment]
 domain: cybersecurity
 subdomain: incident-response
-tags: [cloud-IR, AWS-forensics, Azure-incident-response, GCP-security, identity-containment]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Conducting Cloud Incident Response

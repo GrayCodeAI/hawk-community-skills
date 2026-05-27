@@ -1,8 +1,10 @@
 ---
-name: cabinpanda-automation
+name: composio-cabinpanda-automation
 description: "Automate Cabinpanda tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Cabinpanda Automation via Rube MCP

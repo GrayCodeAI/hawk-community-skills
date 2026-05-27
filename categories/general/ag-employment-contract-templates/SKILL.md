@@ -1,9 +1,11 @@
 ---
-name: employment-contract-templates
+name: ag-employment-contract-templates
 description: "Templates and patterns for creating legally sound employment documentation including contracts, offer letters, and HR policies."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Employment Contract Templates

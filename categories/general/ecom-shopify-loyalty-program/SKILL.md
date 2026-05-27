@@ -1,9 +1,11 @@
 ---
-name: shopify-loyalty-program
+name: ecom-shopify-loyalty-program
 description: "Customer loyalty and rewards — points systems, VIP tiers, referral programs, app selection"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Loyalty Program

@@ -1,3 +1,10 @@
+---
+name: ls-9yoqoprmw_cheat-day
+description: "Skill: ls-9yoqoprmw_cheat-day"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9yOqoPrmW-cheat-day/
 
 GPT Title: Cheat Day

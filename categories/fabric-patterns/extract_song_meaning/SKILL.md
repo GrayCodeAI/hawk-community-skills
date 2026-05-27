@@ -1,9 +1,10 @@
 ---
 name: extract_song_meaning
-description: Fabric pattern - extract_song_meaning
-domain: general
+description: "Fabric pattern - extract_song_meaning"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,18 +1,14 @@
 ---
-name: flutter-layer-based-clean-architecture
-description: Enforce inward dependency flow, pure domain layers, and DTO-to-entity mapping in Flutter DDD architecture. Use when structuring domain, infrastructure, application, or presentation layers.
-metadata:
-  triggers:
-    files:
-    - 'lib/domain/**'
-    - 'lib/infrastructure/**'
-    - 'lib/application/**'
-    keywords:
-    - dto
-    - mapper
-    - Either
-    - Failure
+name: std-flutter-layer-based-clean-architecture
+description: "Enforce inward dependency flow, pure domain layers, and DTO-to-entity mapping in Flutter DDD architecture. Use when structuring domain, infrastructure, application, or presentation layers."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Layer-Based Clean Architecture
 
 ## **Priority: P0 (CRITICAL)**

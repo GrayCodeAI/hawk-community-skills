@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, performant, and robust LangChain applications using modern best practices (LCEL, LangGraph, Pydantic, `create_agent`).
-globs: **/*.py
+name: mdc-langchain
+description: "Definitive guidelines for writing maintainable, performant, and robust LangChain applications using modern best practices (LCEL, LangGraph, Pydantic, `create_agent`)."
+license: MIT
+tags: [ai-ml]
 ---
+
 # LangChain Best Practices
 
 This guide outlines the definitive best practices for developing with LangChain. Adhere to these rules to ensure your LLM applications are modular, scalable, and production-ready.

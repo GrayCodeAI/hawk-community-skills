@@ -1,7 +1,11 @@
 ---
-description: Provides additional instructions for TypeScript React development, including file extensions, strict checks, and error handling.
-globs: **/*.tsx
+name: mdc-typescript-react---additional-instructions
+description: 'Skill: mdc-typescript-react---additional-instructions'
+license: MIT
+tags:
+- react
 ---
+
 - Use .tsx extension for files with JSX
 - Implement strict TypeScript checks
 - Utilize React.lazy and Suspense for code-splitting

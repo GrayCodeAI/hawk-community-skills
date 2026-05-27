@@ -1,3 +1,10 @@
+---
+name: ls-f5mabvmu3_jargon-interpreter
+description: "Skill: ls-f5mabvmu3_jargon-interpreter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-f5MAbVmU3-jargon-interpreter
 
 GPT Title: Jargon Interpreter

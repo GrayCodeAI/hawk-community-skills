@@ -1,11 +1,12 @@
 ---
-name: videodb-skills
+name: ag-videodb-skills
 description: "Upload, stream, search, edit, transcribe, and generate AI video and audio using the VideoDB SDK."
+license: MIT
+tags: [video, editing, transcription, subtitles, search, streaming, ai-generation, media]
 category: media
 risk: safe
 source: community
-tags: "[video, editing, transcription, subtitles, search, streaming, ai-generation, media]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # VideoDB Skills

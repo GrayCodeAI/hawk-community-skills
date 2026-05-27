@@ -1,9 +1,10 @@
 ---
-name: bpl-changelog
-description: System prompt - changelog
-domain: general
+name: bpl-txt-changelog
+description: "System prompt - changelog"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

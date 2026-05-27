@@ -1,3 +1,10 @@
+---
+name: ls-openai-assistants-api-documentation
+description: "Skill: ls-openai-assistants-api-documentation"
+license: MIT
+tags: [general]
+---
+
 # Assistants API
 
 [**Assistants API Beta**](https://platform.openai.com/docs/assistants/overview/agents)

@@ -1,3 +1,11 @@
+---
+name: gpt-esifep4gm_react-gpt---project-builder
+description: 'Skill: gpt-esifep4gm_react-gpt---project-builder'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder
 
 GPT Title: React GPT - Project Builder

@@ -1,7 +1,10 @@
 ---
-description: Rules for content management using Markdown and MDX files in Astro.
-globs: src/content/**/*.{md,mdx}
+name: mdc-astro-content-management
+description: "Rules for content management using Markdown and MDX files in Astro."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Content Management
 
 - Use Markdown (.md) or MDX (.mdx) files for content-heavy pages.

@@ -1,20 +1,23 @@
 ---
-description: 'Checks PRs for potential duplicate agents, instructions, skills, and workflows already in the repository'
-on:
-  pull_request:
-    types: [opened, synchronize, reopened]
-permissions:
-  contents: read
-  pull-requests: read
-tools:
-  github:
-    toolsets: [repos, pull_requests]
-safe-outputs:
-  add-comment:
-    max: 1
-    hide-older-comments: true
-  noop:
-    report-as-issue: false
+name: ghcp-workflows-pr-duplicate-check
+description: "Checks PRs for potential duplicate agents, instructions, skills, and workflows already in the repository"
+license: MIT
+tags: [general]
+True: None
+pull_request: None
+types: [opened, synchronize, reopened]
+permissions: None
+contents: read
+pull-requests: read
+tools: None
+github: None
+toolsets: [repos, pull_requests]
+safe-outputs: None
+add-comment: None
+max: 1
+hide-older-comments: True
+noop: None
+report-as-issue: False
 ---
 
 # PR Duplicate Check

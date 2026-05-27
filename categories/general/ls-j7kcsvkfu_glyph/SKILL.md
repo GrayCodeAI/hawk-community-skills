@@ -1,3 +1,10 @@
+---
+name: ls-j7kcsvkfu_glyph
+description: "Skill: ls-j7kcsvkfu_glyph"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-J7KCSvKFu-glyph
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TXk6iWCzpuozsz8jMmxbPXqg?se=2124-01-06T14%3A34%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D5168034989_1f5ca3d576_o.png&sig=QIKqaas3MNFJlthWJX1Fe/liN6jAhIfxF2G0wKL9z1M%3D" width="100px" />

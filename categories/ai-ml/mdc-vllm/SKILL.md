@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, maintainable, and production-ready LLM inference code using vLLM.
-globs: **/*.py
+name: mdc-vllm
+description: "Definitive guidelines for writing high-performance, maintainable, and production-ready LLM inference code using vLLM."
+license: MIT
+tags: [ai-ml]
 ---
+
 # vLLM Best Practices
 
 vLLM is the gold standard for high-throughput LLM inference. Adhere to these guidelines to maximize performance, ensure reproducibility, and maintain robust LLM services.

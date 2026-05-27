@@ -1,3 +1,10 @@
+---
+name: arb-designing-data-intensive-applications.mi
+description: "Skill: arb-designing-data-intensive-applications.mi"
+license: MIT
+tags: [general]
+---
+
 # OBEY Designing Data-Intensive Applications by Martin Kleppmann
 
 ## When to use

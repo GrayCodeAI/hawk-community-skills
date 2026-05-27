@@ -1,3 +1,10 @@
+---
+name: gpt-projectideas
+description: "Skill: gpt-projectideas"
+license: MIT
+tags: [general]
+---
+
 20 quests
 
 ## Classic starters

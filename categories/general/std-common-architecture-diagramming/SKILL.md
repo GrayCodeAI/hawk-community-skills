@@ -1,19 +1,14 @@
 ---
-name: common-architecture-diagramming
-description: Standards for creating clear, audience-appropriate C4 and UML architecture diagrams with Mermaid. Use when producing system context diagrams, container views, sequence diagrams, or updating ARCHITECTURE.md files.
-metadata:
-  triggers:
-    files:
-    - 'ARCHITECTURE.md'
-    - '**/*.mermaid'
-    - '**/*.drawio'
-    keywords:
-    - diagram
-    - architecture
-    - c4
-    - system design
-    - mermaid
+name: std-common-architecture-diagramming
+description: "Standards for creating clear, audience-appropriate C4 and UML architecture diagrams with Mermaid. Use when producing system context diagrams, container views, sequence diagrams, or updating ARCHITE..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Architecture Diagramming Standard
 
 ## **Priority: P1 (Standard)**

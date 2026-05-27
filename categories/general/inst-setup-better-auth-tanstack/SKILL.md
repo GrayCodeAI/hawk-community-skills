@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing TanStack apps with Better Auth Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-better-auth-tanstack
+description: "Guidelines for writing TanStack apps with Better Auth Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap TanStack App with Better Auth Authentication
@@ -306,4 +308,4 @@ function HomeComponent() {
     </div>
   );
 }
-``` 
+```

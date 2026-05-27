@@ -1,9 +1,10 @@
 ---
 name: cr-htmx-go-basic
-description: Cursor rules for htmx-go-basic
-domain: engineering
+description: "Cursor rules for htmx-go-basic"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -47,4 +48,3 @@ const additionalInstructions = `
 6. Implement graceful shutdown for the server
 7. Use Go modules for dependency management
 `;
-

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for integrating Auth0 securely and efficiently, preventing common identity attacks, and leveraging modern authentication patterns.
-globs: **/*
+name: mdc-auth0
+description: "Definitive guidelines for integrating Auth0 securely and efficiently, preventing common identity attacks, and leveraging modern authentication patterns."
+license: MIT
+tags: [security]
 ---
+
 # auth0 Best Practices
 
 This guide outlines the definitive best practices for integrating Auth0 into our applications. Adhering to these standards is critical for maintaining a robust security posture against modern identity threats.

@@ -1,3 +1,10 @@
+---
+name: ghcp-.github-copilot-instructions
+description: "Skill: ghcp-.github-copilot-instructions"
+license: MIT
+tags: [general]
+---
+
 The following instructions are only to be applied when performing a code review.
 
 ## README updates

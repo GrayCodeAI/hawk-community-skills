@@ -1,3 +1,10 @@
+---
+name: extra-commit
+description: "Skill: extra-commit"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Commit
 
 Create well-formatted commits with conventional commit messages and emojis.

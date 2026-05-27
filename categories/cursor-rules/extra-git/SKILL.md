@@ -1,7 +1,9 @@
 ---
-description: 辅助生成 git 提交信息
-globs:
-alwaysApply: false
+name: extra-git
+description: "辅助生成 git 提交信息"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Git 规则
@@ -51,6 +53,3 @@ feat(web): implement email verification workflow
 | 修复分支   | fix/[问题ID]-[描述]  | fix/issue-42-login-crash  |
 | 发布分支   | release/[版本]       | release/v2.1.0            |
 | 热修复分支 | hotfix/[版本]-[描述] | hotfix/v2.0.1-payment-fix |
-
-
-

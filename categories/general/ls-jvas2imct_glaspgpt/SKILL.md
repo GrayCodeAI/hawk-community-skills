@@ -1,3 +1,10 @@
+---
+name: ls-jvas2imct_glaspgpt
+description: "Skill: ls-jvas2imct_glaspgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JvAs2IMCT-glaspgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wosDS4HBEQCHmdV3937pzL5f?se=2124-01-15T09%3A53%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dglasp_logo_120.png&sig=0zjmQ7b/5bLfV/itn%2B92Esi2CzbCEN28kmiYZp3FYY8%3D" width="100px" />

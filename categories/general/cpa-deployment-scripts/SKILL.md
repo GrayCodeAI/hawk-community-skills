@@ -1,3 +1,10 @@
+---
+name: cpa-deployment-scripts
+description: "Skill: cpa-deployment-scripts"
+license: MIT
+tags: [general]
+---
+
 # az deployment-scripts
 
 ```bash

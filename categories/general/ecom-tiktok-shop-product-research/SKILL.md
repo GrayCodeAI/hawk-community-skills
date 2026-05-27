@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-product-research
+name: ecom-tiktok-shop-product-research
 description: "Product research for TikTok Shop — viral potential scoring, creator demand, category analysis"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Product Research

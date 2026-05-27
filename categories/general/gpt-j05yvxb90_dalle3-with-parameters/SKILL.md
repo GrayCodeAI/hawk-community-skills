@@ -1,3 +1,10 @@
+---
+name: gpt-j05yvxb90_dalle3-with-parameters
+description: "Skill: gpt-j05yvxb90_dalle3-with-parameters"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-J05Yvxb90
 
 GPT Title: DALLE3 with Parameters

@@ -1,8 +1,10 @@
 ---
-name: ticketmaster-automation
+name: composio-ticketmaster-automation
 description: "Automate Ticketmaster tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ticketmaster Automation via Rube MCP

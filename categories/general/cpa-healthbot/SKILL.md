@@ -1,3 +1,10 @@
+---
+name: cpa-healthbot
+description: "Skill: cpa-healthbot"
+license: MIT
+tags: [general]
+---
+
 # az healthbot
 
 ```bash

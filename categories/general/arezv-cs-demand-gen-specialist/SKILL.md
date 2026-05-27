@@ -1,6 +1,8 @@
 ---
-name: cs-demand-gen-specialist
-description: Demand generation and customer acquisition specialist for lead generation, conversion optimization, and multi-channel acquisition campaigns
+name: arezv-cs-demand-gen-specialist
+description: "Demand generation and customer acquisition specialist for lead generation, conversion optimization, and multi-channel acquisition campaigns"
+license: MIT
+tags: [general]
 skills: marketing-skill/marketing-demand-acquisition
 domain: marketing
 model: sonnet

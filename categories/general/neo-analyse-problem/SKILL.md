@@ -1,6 +1,8 @@
 ---
-name: analyse-problem
-description: Comprehensive A3 one-page problem analysis with root cause and action plan
+name: neo-analyse-problem
+description: "Comprehensive A3 one-page problem analysis with root cause and action plan"
+license: MIT
+tags: [general]
 argument-hint: Optional problem description to document
 ---
 
@@ -387,4 +389,3 @@ DATE: 2024-11-14
 - Update A3 as situation evolves (living document until closed)
 - Consider A3 for: incidents, recurring issues, major improvements
 - Overkill for: small bugs, one-line fixes, trivial issues
-

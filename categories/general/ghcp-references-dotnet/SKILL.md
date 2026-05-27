@@ -1,3 +1,10 @@
+---
+name: ghcp-references-dotnet
+description: "Skill: ghcp-references-dotnet"
+license: MIT
+tags: [general]
+---
+
 # Semantic Kernel for .NET
 
 Use this reference when the target project is written in C# or another .NET language.

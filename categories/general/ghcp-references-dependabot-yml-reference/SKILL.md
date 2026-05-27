@@ -1,3 +1,10 @@
+---
+name: ghcp-references-dependabot-yml-reference
+description: "Skill: ghcp-references-dependabot-yml-reference"
+license: MIT
+tags: [general]
+---
+
 # Dependabot YAML Options Reference
 
 Complete reference for all configuration options in `.github/dependabot.yml`.

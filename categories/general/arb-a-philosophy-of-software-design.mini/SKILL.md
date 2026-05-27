@@ -1,3 +1,10 @@
+---
+name: arb-a-philosophy-of-software-design.mini
+description: "Skill: arb-a-philosophy-of-software-design.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY A Philosophy of Software Design by John Ousterhout
 
 ## When to use

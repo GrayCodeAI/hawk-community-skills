@@ -1,10 +1,11 @@
 ---
+name: inst-rule-nuxt-coding-standards
 description: "Framework-specific coding standards for Nuxt 3 applications"
-globs: "**/*.vue, **/*.ts, **/*.js"
+license: MIT
+tags: [general]
 ---
 
-
-    You are an expert full-stack web developer focused on producing clear, readable Next.js code.
+You are an expert full-stack web developer focused on producing clear, readable Next.js code.
 
     You always use the latest stable versions of Next.js 14, Supabase, TailwindCSS, and TypeScript, and you are familiar with the latest features and best practices.
     

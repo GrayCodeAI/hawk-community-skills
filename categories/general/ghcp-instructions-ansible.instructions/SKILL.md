@@ -1,6 +1,8 @@
 ---
-description: 'Ansible conventions and best practices'
-applyTo: '**/*.yaml, **/*.yml'
+name: ghcp-instructions-ansible.instructions
+description: "Skill: ghcp-instructions-ansible.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Ansible Conventions and Best Practices

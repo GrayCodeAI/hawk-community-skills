@@ -1,7 +1,9 @@
 ---
-name: cost-conversation
-description: Per-conversation cost view — list every session in cost-tracking with started-at, message count, top model, and total cost
-argument-hint: ""
+name: flow-cost-conversation
+description: "Per-conversation cost view — list every session in cost-tracking with started-at, message count, top model, and total cost"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash
 ---
 

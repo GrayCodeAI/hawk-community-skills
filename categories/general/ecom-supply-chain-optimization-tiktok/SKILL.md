@@ -1,8 +1,10 @@
 ---
-name: supply-chain-optimization-tiktok
+name: ecom-supply-chain-optimization-tiktok
+description: "Supply Chain Bottleneck Analyzer for TikTok Shop sellers. Diagnose cash flow, inventory turnover, affiliate commissions, and return rates. Includes FBT cost analysis, influencer payout optimization..."
+license: MIT
+tags: [general]
 version: 1.0.0
-description: "Supply Chain Bottleneck Analyzer for TikTok Shop sellers. Diagnose cash flow, inventory turnover, affiliate commissions, and return rates. Includes FBT cost analysis, influencer payout optimization, and viral product lifecycle management. No API key required for basic analysis."
-metadata: {"nexscope":{"emoji":"📦","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '📦', 'category': 'ecommerce'}}
 ---
 
 # Supply Chain Optimization — TikTok Shop 📦
@@ -162,5 +164,3 @@ TikTok Shop-specific bottlenecks:
 ---
 
 **Part of [Nexscope AI](https://www.nexscope.ai/?co-from=skill) — AI tools for e-commerce sellers.**
-
-

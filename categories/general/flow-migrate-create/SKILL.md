@@ -1,7 +1,9 @@
 ---
-name: migrate-create
-description: Create a new sequentially numbered database migration with up/down SQL files
-argument-hint: "<name>"
+name: flow-migrate-create
+description: "Create a new sequentially numbered database migration with up/down SQL files"
+license: MIT
+tags: [general]
+argument-hint: <name>
 allowed-tools: Read Write Glob Bash mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__agentdb_pattern-search
 ---
 

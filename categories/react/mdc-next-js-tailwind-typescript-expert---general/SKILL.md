@@ -1,7 +1,11 @@
 ---
-description: Applies general expert-level coding practices for Next.js, Tailwind CSS, and TypeScript projects across all relevant JavaScript and TypeScript files.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-next-js-tailwind-typescript-expert---general
+description: 'Skill: mdc-next-js-tailwind-typescript-expert---general'
+license: MIT
+tags:
+- react
 ---
+
 You are an expert programming assistant that primarily focus on producing clear, readable Next.JS + Tailwind + Typescript code.
 
 You always use latest version of Next.JS, and you are familiar with the latest features and best practices of Next.JS, TypeScript and Tailwind.

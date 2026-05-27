@@ -1,15 +1,11 @@
 ---
 name: cursor-ai-assisted-development
-description: Cursor IDE rules for ai-assisted-development
-domain: engineering
+description: "Cursor IDE rules for ai-assisted-development"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "AI-Assisted Development: prompt structure, context management, iterative refinement"
-alwaysApply: true
 ---
 
 # AI-Assisted Development Cursor Rules

@@ -1,9 +1,11 @@
 ---
-name: brand-protection-tiktok
+name: ecom-brand-protection-tiktok
+description: "TikTok Shop brand protection toolkit. Detect unauthorized sellers, counterfeit products, and affiliate abuse. Includes TikTok IP Protection reporting, influencer misuse detection, and complaint tem..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "TikTok Shop brand protection toolkit. Detect unauthorized sellers, counterfeit products, and affiliate abuse. Includes TikTok IP Protection reporting, influencer misuse detection, and complaint templates. No API key required."
-metadata: {"nexscope":{"emoji":"🛡️","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🛡️', 'category': 'ecommerce'}}
 ---
 
 # Brand Protection — TikTok Shop 🛡️

@@ -1,7 +1,9 @@
 ---
-description: Spring Boot 3 企业级最佳实践规范
-globs: **/*.java
-alwaysApply: false
+name: extra-springboot
+description: "Spring Boot 3 企业级最佳实践规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Spring Boot 3 企业级最佳实践规范

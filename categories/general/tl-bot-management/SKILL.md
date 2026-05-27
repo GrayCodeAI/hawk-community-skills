@@ -1,3 +1,10 @@
+---
+name: tl-bot-management
+description: "Skill: tl-bot-management"
+license: MIT
+tags: [general]
+---
+
 # Bot Management Gotchas
 
 ## Common Errors

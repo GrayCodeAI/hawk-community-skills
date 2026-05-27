@@ -1,19 +1,14 @@
 ---
-name: golang-tooling
-description: Go developer toolchain — gopls LSP diagnostics, linting, formatting, and vet. Use when setting up Go tooling, running linters, or integrating gopls with Claude Code.
-metadata:
-  triggers:
-    files:
-    - 'golangci.yml'
-    keywords:
-    - gopls
-    - golangci-lint
-    - go vet
-    - goimports
-    - staticcheck
-    - go tooling
-    - go lint
+name: std-golang-tooling
+description: "Go developer toolchain — gopls LSP diagnostics, linting, formatting, and vet. Use when setting up Go tooling, running linters, or integrating gopls with Claude Code."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang Tooling Standards
 
 ## **Priority: P1 (Operational)**

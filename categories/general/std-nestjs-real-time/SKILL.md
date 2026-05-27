@@ -1,17 +1,14 @@
 ---
-name: nestjs-real-time
-description: Implement WebSocket gateways with Socket.io and Server-Sent Events endpoints in NestJS. Use when building chat features, live feeds, or choosing between WebSocket and SSE for real-time communication.
-metadata:
-  triggers:
-    files:
-    - '**/*.gateway.ts'
-    - '**/*.controller.ts'
-    - 'Socket.io'
-    keywords:
-    - WebSocketGateway
-    - SubscribeMessage
-    - Sse
+name: std-nestjs-real-time
+description: "Implement WebSocket gateways with Socket.io and Server-Sent Events endpoints in NestJS. Use when building chat features, live feeds, or choosing between WebSocket and SSE for real-time communication."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Real-Time & WebSockets
 
 ## **Priority: P1 (OPERATIONAL)**

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-flushsync-guide
+description: "Skill: ghcp-references-flushsync-guide"
+license: MIT
+tags: [general]
+---
+
 # flushSync Guide
 
 ## Import

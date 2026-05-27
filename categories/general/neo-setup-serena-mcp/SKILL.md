@@ -1,6 +1,8 @@
 ---
-name: setup-serena-mcp
-description: Guide for setup Serena MCP server for semantic code retrieval and editing capabilities
+name: neo-setup-serena-mcp
+description: "Guide for setup Serena MCP server for semantic code retrieval and editing capabilities"
+license: MIT
+tags: [general]
 argument-hint: Optional - specific configuration preferences or client type
 ---
 

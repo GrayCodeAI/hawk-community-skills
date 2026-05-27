@@ -1,8 +1,10 @@
 ---
-name: emailable-automation
+name: composio-emailable-automation
 description: "Automate Emailable tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Emailable Automation via Rube MCP

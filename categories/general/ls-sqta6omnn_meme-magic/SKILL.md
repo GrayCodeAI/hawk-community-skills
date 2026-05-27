@@ -1,3 +1,10 @@
+---
+name: ls-sqta6omnn_meme-magic
+description: "Skill: ls-sqta6omnn_meme-magic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SQTa6OMNN-meme-magic
 
 GPT Title: Meme Magic

@@ -1,11 +1,11 @@
 ---
-routine_id: fulfillment-sla-watchdog
+name: shopify-routines
 description: "Twice daily on weekdays — checks for overdue fulfillments and stalled shipments."
-cron: "0 10,15 * * 1-5"
-skills_used:
-  - shopify-admin-fulfillment-status-digest
-  - shopify-admin-delivery-time-analysis
-  - shopify-admin-split-shipment-planner
+license: MIT
+tags: [general]
+routine_id: fulfillment-sla-watchdog
+cron: 0 10,15 * * 1-5
+skills_used: None
 notify: slack
 ---
 

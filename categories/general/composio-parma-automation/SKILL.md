@@ -1,8 +1,10 @@
 ---
-name: parma-automation
+name: composio-parma-automation
 description: "Automate Parma tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Parma Automation via Rube MCP

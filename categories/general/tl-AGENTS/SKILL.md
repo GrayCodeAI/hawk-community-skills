@@ -1,3 +1,10 @@
+---
+name: tl-AGENTS
+description: "Skill: tl-AGENTS"
+license: MIT
+tags: [general]
+---
+
 # AGENTS.md
 
 Guidance for AI Coding Agents when working with code in this repository.

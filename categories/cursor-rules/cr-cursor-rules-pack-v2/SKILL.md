@@ -1,9 +1,10 @@
 ---
 name: cr-cursor-rules-pack-v2
-description: Cursor rules for cursor-rules-pack-v2
-domain: engineering
+description: "Cursor rules for cursor-rules-pack-v2"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

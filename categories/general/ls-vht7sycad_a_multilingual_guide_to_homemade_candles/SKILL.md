@@ -1,3 +1,10 @@
+---
+name: ls-vht7sycad_a_multilingual_guide_to_homemade_candles
+description: "Skill: ls-vht7sycad_a_multilingual_guide_to_homemade_candles"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Vht7SYCad-a-multilingual-guide-to-homemade-candles
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-T9Z3d2SetUCl39Gwz1OoX4fI?se=2123-11-18T16%3A17%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D401d49e5-1511-4fac-bfad-279cb31c2a0d.png&sig=FE520SdLu9IWgoKcGaUp%2BuJEQdiPuTBS0I3xUP/aIbo%3D" width="100px" />

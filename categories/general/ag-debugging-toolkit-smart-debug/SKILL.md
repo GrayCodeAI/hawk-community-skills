@@ -1,9 +1,11 @@
 ---
-name: debugging-toolkit-smart-debug
+name: ag-debugging-toolkit-smart-debug
 description: "Use when working with debugging toolkit smart debug"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

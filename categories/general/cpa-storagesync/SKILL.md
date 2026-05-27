@@ -1,3 +1,10 @@
+---
+name: cpa-storagesync
+description: "Skill: cpa-storagesync"
+license: MIT
+tags: [general]
+---
+
 # az storagesync
 
 ```bash

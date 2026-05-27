@@ -1,12 +1,12 @@
 ---
 name: analyzing-slack-space-and-file-system-artifacts
-description: Examine file system slack space, MFT entries, USN journal, and alternate data streams to recover hidden data and reconstruct file activity on NTFS volumes.
+description: "Examine file system slack space, MFT entries, USN journal, and alternate data streams to recover hidden data and reconstruct file activity on NTFS volumes."
+license: MIT
+tags: [forensics, slack-space, ntfs, mft, usn-journal, alternate-data-streams, file-system-analysis]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, slack-space, ntfs, mft, usn-journal, alternate-data-streams, file-system-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Slack Space and File System Artifacts

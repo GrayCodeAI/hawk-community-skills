@@ -1,7 +1,11 @@
 ---
-description: Provides guidelines for creating React components, emphasizing careful planning, existing component checks, and prompt generation.
-globs: packages/ui/src/components/**/*.tsx
+name: mdc-react-component-creation---general
+description: 'Skill: mdc-react-component-creation---general'
+license: MIT
+tags:
+- react
 ---
+
 - Carefully consider the component's purpose, functionality, and design.
 - Think slowly, step by step, and outline your reasoning.
 - Check if a similar component already exists in any of the following locations

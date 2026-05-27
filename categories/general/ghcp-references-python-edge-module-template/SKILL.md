@@ -1,3 +1,10 @@
+---
+name: ghcp-references-python-edge-module-template
+description: "Skill: ghcp-references-python-edge-module-template"
+license: MIT
+tags: [general]
+---
+
 # Python IoT Edge Module Template
 
 Use this template to structure implementation proposals and reviews.

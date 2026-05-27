@@ -1,3 +1,10 @@
+---
+name: ghcp-references-error-analysis
+description: "Skill: ghcp-references-error-analysis"
+license: MIT
+tags: [general]
+---
+
 # Error Analysis
 
 Review traces to discover failure modes before building evaluators.

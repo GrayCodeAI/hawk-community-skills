@@ -1,6 +1,8 @@
 ---
-name: ai-prompt-engineering-safety-review
-description: 'Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safety, bias, security vulnerabilities, and effectiveness while providing detailed improvement recommendations with extensive frameworks, testing methodologies, and educational content.'
+name: ghcp-ai-prompt-engineering-safety-review-skill
+description: "Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safety, bias, security vulnerabilities, and effectiveness while providing detailed improvement recomme..."
+license: MIT
+tags: [general]
 ---
 
 # AI Prompt Engineering Safety Review & Improvement

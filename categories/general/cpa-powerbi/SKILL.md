@@ -1,3 +1,10 @@
+---
+name: cpa-powerbi
+description: "Skill: cpa-powerbi"
+license: MIT
+tags: [general]
+---
+
 # az powerbi
 
 ```bash

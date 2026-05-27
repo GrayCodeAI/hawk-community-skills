@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-overview
+description: "Skill: ghcp-references-fundamentals-overview"
+license: MIT
+tags: [general]
+---
+
 # Overview and Traces & Spans
 
 This document covers the fundamental concepts of OpenInference traces and spans in Phoenix.

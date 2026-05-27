@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-return-initiation
-role: customer-support
+name: shopify-shopify-admin-return-initiation
 description: "Create a formal Shopify Return record for an order, specifying line items, quantities, and return reason — the first step in the native returns workflow."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - order:query
-  - returnCreate:mutation
+api_version: 2025-01
+graphql_operations: [{'order': 'query'}, {'returnCreate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

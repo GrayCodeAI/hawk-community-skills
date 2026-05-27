@@ -1,3 +1,10 @@
+---
+name: ls-cmwskjzse_linus_transformer
+description: "Skill: ls-cmwskjzse_linus_transformer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cMWSKjzSE-linus-transformer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-qUhbKOx8TejRD9olamUP7Icj?se=2124-01-07T18%3A08%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D294a0ba2-b1e0-40c5-90ae-38f74f65b66d.png&sig=1h8b7z4vmat9ZSuhtHQhp%2ByhHujTZioPIYolmExp8c0%3D" width="100px" />

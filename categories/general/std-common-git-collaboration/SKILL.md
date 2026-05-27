@@ -1,15 +1,13 @@
 ---
-name: common-git-collaboration
-description: Enforce version control best practices for commits, branching, pull requests, and repository security. Use when writing commits, creating branches, merging, or opening pull requests.
-metadata:
-  triggers:
-    keywords:
-    - commit
-    - branch
-    - merge
-    - pull-request
-    - git
+name: std-common-git-collaboration
+description: "Enforce version control best practices for commits, branching, pull requests, and repository security. Use when writing commits, creating branches, merging, or opening pull requests."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Git & Collaboration
 
 ## **Priority: P0 (OPERATIONAL)**

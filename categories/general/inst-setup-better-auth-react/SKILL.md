@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing React apps with Better Auth
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-setup-better-auth-react
+description: "Guidelines for writing React apps with Better Auth"
+license: MIT
+tags: [general]
 ---
 
 # Setting up Better Auth in React Applications
@@ -128,4 +130,4 @@ export function ProtectedRoute({ children }) {
   }
 
   return children;
-} 
+}

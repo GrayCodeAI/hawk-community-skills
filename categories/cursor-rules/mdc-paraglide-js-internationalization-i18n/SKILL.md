@@ -1,7 +1,10 @@
 ---
-description: Details Paraglide.js i18n implementations.
-globs: **/*.svelte
+name: mdc-paraglide-js-internationalization-i18n
+description: "Details Paraglide.js i18n implementations."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Paraglide.js for internationalization: https://inlang.com/m/gerre34r/library-inlang-paraglideJs
 - Install Paraglide.js: `npm install @inlang/paraglide-js`
 - Set up language files in the `languages` directory.

@@ -1,21 +1,14 @@
 ---
-title: 'Installing and Using Plugins'
-description: 'Learn how to find, install, and manage plugins that extend GitHub Copilot CLI with reusable agents, skills, hooks, and integrations.'
-authors:
-  - GitHub Copilot Learning Hub Team
+name: ghcp-learning-hub-installing-and-using-plugins
+description: "Learn how to find, install, and manage plugins that extend GitHub Copilot CLI with reusable agents, skills, hooks, and integrations."
+license: MIT
+tags: [general]
+title: Installing and Using Plugins
+authors: None
 lastUpdated: 2026-04-27
-estimatedReadingTime: '8 minutes'
-tags:
-  - plugins
-  - copilot-cli
-  - fundamentals
-relatedArticles:
-  - ./building-custom-agents.md
-  - ./creating-effective-skills.md
-  - ./automating-with-hooks.md
-prerequisites:
-  - GitHub Copilot CLI installed
-  - Basic understanding of agents, skills, and hooks
+estimatedReadingTime: 8 minutes
+relatedArticles: None
+prerequisites: None
 ---
 
 Plugins are installable packages that extend GitHub Copilot CLI with reusable agents, skills, hooks, and servers, all bundled into a single unit you can install with one command. Instead of manually copying agent files and configuring MCP servers across every project, plugins let you install a curated set of capabilities and share them with your team.

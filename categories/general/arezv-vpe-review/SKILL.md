@@ -1,6 +1,8 @@
 ---
-name: "vpe-review"
+name: arezv-vpe-review
 description: "/cs:vpe-review <plan> — Throughput-first VP of Engineering interrogation of any plan that touches delivery, eng hiring, team structure, or production discipline."
+license: MIT
+tags: [general]
 ---
 
 # /cs:vpe-review — VPE Forcing Questions

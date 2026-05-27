@@ -1,3 +1,10 @@
+---
+name: ecom-price-optimization-tool
+description: "Skill: ecom-price-optimization-tool"
+license: MIT
+tags: [general]
+---
+
 # Price Optimization Tool
 
 Optimize product pricing using data-driven methods. Elasticity analysis, competitor benchmarking, margin modeling, and A/B price testing to maximize revenue and profit across e-commerce platforms.

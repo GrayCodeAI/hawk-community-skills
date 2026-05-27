@@ -1,10 +1,10 @@
 ---
-name: model-merging
-description: Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating specialized models by blending domain-specific expertise (math + coding + chat), improving performance beyond single models, or experimenting rapidly with model variants. Covers SLERP, TIES-Merging, DARE, Task Arithmetic, linear merging, and production deployment strategies.
+name: research-model-merging
+description: "Merge multiple fine-tuned models using mergekit to combine capabilities without retraining. Use when creating specialized models by blending domain-specific expertise (math + coding + chat), improv..."
+license: MIT
+tags: [emerging-techniques, model-merging, mergekit, slerp, ties, dare, task-arithmetic, model-fusion, no-retraining, multi-capability, arcee-ai]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Emerging Techniques, Model Merging, Mergekit, SLERP, TIES, DARE, Task Arithmetic, Model Fusion, No Retraining, Multi-Capability, Arcee AI]
 dependencies: [mergekit, transformers, torch]
 ---
 
@@ -535,5 +535,3 @@ mergekit-yaml config.yml ./merged-model
 - `references/methods.md` - Deep dive into merge algorithms
 - `references/examples.md` - Real-world merge configurations
 - `references/evaluation.md` - Benchmarking and testing strategies
-
-

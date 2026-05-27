@@ -1,3 +1,10 @@
+---
+name: cpa-cli-translator
+description: "Skill: cpa-cli-translator"
+license: MIT
+tags: [general]
+---
+
 # az cli-translator
 
 ```bash

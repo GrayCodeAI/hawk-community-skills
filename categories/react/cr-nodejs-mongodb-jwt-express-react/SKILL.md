@@ -1,9 +1,10 @@
 ---
 name: cr-nodejs-mongodb-jwt-express-react
-description: Cursor rules for nodejs-mongodb-jwt-express-react
-domain: engineering
+description: "Cursor rules for nodejs-mongodb-jwt-express-react"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -73,5 +74,4 @@ Track Requests and Entries separately (numbered 1, 2, 3)
 Implement payment status tracking in Request model  
 Create Entry only after admin approval and payment completion  
 Admin interface for managing and approving Requests  
-Implement state transitions (Request: pending -> approved -> Entry created)  
-
+Implement state transitions (Request: pending -> approved -> Entry created)

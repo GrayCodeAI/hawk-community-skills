@@ -1,26 +1,14 @@
 ---
-name: common-api-design
-description: Apply REST API conventions — HTTP semantics, status codes, versioning, pagination, and OpenAPI standards for any framework. Use when designing endpoints, choosing HTTP methods, implementing pagination, or writing OpenAPI specs.
-metadata:
-  triggers:
-    files:
-    - '**/*.controller.ts'
-    - '**/*.router.ts'
-    - '**/*.routes.ts'
-    - '**/routes/**'
-    - '**/controllers/**'
-    - '**/handlers/**'
-    keywords:
-    - rest api
-    - endpoint
-    - http method
-    - status code
-    - versioning
-    - pagination
-    - openapi
-    - api design
-    - api contract
+name: std-common-api-design
+description: "Apply REST API conventions — HTTP semantics, status codes, versioning, pagination, and OpenAPI standards for any framework. Use when designing endpoints, choosing HTTP methods, implementing paginat..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Common API Design Standards
 
 ## **Priority: P1 (OPERATIONAL)**

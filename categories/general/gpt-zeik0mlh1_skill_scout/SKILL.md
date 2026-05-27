@@ -1,3 +1,10 @@
+---
+name: gpt-zeik0mlh1_skill_scout
+description: "Skill: gpt-zeik0mlh1_skill_scout"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZEik0mLH1-skill-scout
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-T7l12X1Qrtaib9pZA6jfw092?se=2124-01-09T15%3A47%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D937ffc3f-4981-4925-ac96-6c5bdb306cab.png&sig=BCQ15Q4Uo6LV0KyYLKYhUpTpXrmI91VDJSm6E5TXcTo%3D" width="100px" />

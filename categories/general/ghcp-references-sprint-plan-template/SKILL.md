@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sprint-plan-template
+description: "Skill: ghcp-references-sprint-plan-template"
+license: MIT
+tags: [general]
+---
+
 # Sprint Plan Template
 
 ## Plan File

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing consistent, performant, and maintainable C++ and Blueprint code in Unreal Engine 5.x projects.
-globs: **/*
+name: mdc-unreal-engine
+description: "Definitive guidelines for writing consistent, performant, and maintainable C++ and Blueprint code in Unreal Engine 5.x projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # unreal-engine Best Practices
 
 This guide outlines the essential coding standards and architectural patterns for developing robust and efficient Unreal Engine 5.x projects. Adhere to these rules to ensure high-quality, collaborative, and performant game development.

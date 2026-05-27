@@ -1,3 +1,10 @@
+---
+name: gpt-txvxl45pu_hacking_mentor
+description: "Skill: gpt-txvxl45pu_hacking_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TXVXl45pu-hacking-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IxtQsMmGs0Qz6gnGDpeR8baf?se=2123-12-19T06%3A31%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D517af475-1327-4b77-95b1-2a5dfc785bd4.png&sig=93SfONOjVqUxs8Wb/TIYLq1wlB/2rC5CgsCZ2hWintg%3D" width="100px" />

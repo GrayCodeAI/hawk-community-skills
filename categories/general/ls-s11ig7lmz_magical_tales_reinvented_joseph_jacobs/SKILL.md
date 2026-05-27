@@ -1,3 +1,10 @@
+---
+name: ls-s11ig7lmz_magical_tales_reinvented_joseph_jacobs
+description: "Skill: ls-s11ig7lmz_magical_tales_reinvented_joseph_jacobs"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-s11IG7lMZ-magical-tales-reinvented-joseph-jacobs
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZtqTi3YQnZKjHQvmqis6tIXL?se=2124-01-12T15%3A37%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFamous%2520Fairy%2520Tales%2520Retold.png&sig=MycJyt2qwbI/BbhgYNsvC3CXLh7p5XzmckbOiai3CoM%3D" width="100px" />

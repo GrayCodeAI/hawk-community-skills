@@ -1,13 +1,14 @@
 ---
 name: conducting-internal-reconnaissance-with-bloodhound-ce
-description: Conduct internal Active Directory reconnaissance using BloodHound Community Edition to map attack paths, identify privilege escalation chains, and discover misconfigurations in domain environments.
+description: "Conduct internal Active Directory reconnaissance using BloodHound Community Edition to map attack paths, identify privilege escalation chains, and discover misconfigurations in domain environments."
+license: MIT
+tags: [red-team, reconnaissance, bloodhound, active-directory, attack-paths, privilege-escalation, graph-analysis]
 domain: cybersecurity
 subdomain: red-teaming
-tags: [red-team, reconnaissance, bloodhound, active-directory, attack-paths, privilege-escalation, graph-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Conducting Internal Reconnaissance with BloodHound CE
 
 ## Overview

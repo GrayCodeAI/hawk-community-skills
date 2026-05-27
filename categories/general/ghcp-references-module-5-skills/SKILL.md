@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-5-skills
+description: "Skill: ghcp-references-module-5-skills"
+license: MIT
+tags: [general]
+---
+
 # Module 5: Skills System
 
 ## What are skills?

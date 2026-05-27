@@ -1,7 +1,9 @@
 ---
-description: Use server actions when creating or updating logic that mutates data in Next.js
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-800-server-actions
+description: "Use server actions when creating or updating logic that mutates data in Next.js"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Server Actions Rules

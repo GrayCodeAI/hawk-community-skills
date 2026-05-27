@@ -1,3 +1,9 @@
+---
+name: lira-requirements
+description: "Skill: lira-requirements"
+license: MIT
+tags: [general]
+---
 
 # Product Requirements Document (PRD)
 

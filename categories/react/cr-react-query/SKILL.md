@@ -1,9 +1,10 @@
 ---
 name: cr-react-query
-description: Cursor rules for react-query
-domain: engineering
+description: "Cursor rules for react-query"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -47,4 +48,3 @@ const additionalInstructions = `
 6. Use query invalidation for data refetching
 7. Follow React Query naming conventions for consistency
 `;
-

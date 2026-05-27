@@ -1,7 +1,10 @@
 ---
-description: Rules for performance optimization in Astro, emphasizing static generation and partial hydration.
-globs: src/**/*.*
+name: mdc-astro-performance-optimization
+description: "Rules for performance optimization in Astro, emphasizing static generation and partial hydration."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Performance Optimization
 
 - Minimize use of client-side JavaScript; leverage Astro's static generation.

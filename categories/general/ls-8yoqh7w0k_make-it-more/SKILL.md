@@ -1,3 +1,10 @@
+---
+name: ls-8yoqh7w0k_make-it-more
+description: "Skill: ls-8yoqh7w0k_make-it-more"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8YoqH7W0k-make-it-more
 
 GPT Title: Make It MORE

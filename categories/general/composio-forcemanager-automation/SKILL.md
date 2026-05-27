@@ -1,8 +1,10 @@
 ---
-name: forcemanager-automation
+name: composio-forcemanager-automation
 description: "Automate Forcemanager tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Forcemanager Automation via Rube MCP

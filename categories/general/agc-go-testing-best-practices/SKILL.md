@@ -1,3 +1,10 @@
+---
+name: agc-go-testing-best-practices
+description: "Skill: agc-go-testing-best-practices"
+license: MIT
+tags: [general]
+---
+
 # Go Unit Testing Best Practices 2025
 
 **The Go testing ecosystem has undergone its most significant evolution since the language's inception, with Go 1.24's revolutionary `testing/synctest` package fundamentally changing how concurrent code is tested**. This comprehensive guide synthesises current best practices from official documentation, major open-source projects like Kubernetes and Docker, and engineering teams at Google, Uber, and Netflix.

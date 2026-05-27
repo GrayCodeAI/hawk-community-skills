@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-wismo-bulk-status-report
-role: customer-support
+name: shopify-shopify-admin-wismo-bulk-status-report
 description: "Identify orders at risk of generating WISMO support tickets: shipped orders with stale tracking, and unfulfilled orders past their SLA window."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

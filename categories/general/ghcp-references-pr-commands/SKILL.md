@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pr-commands
+description: "Skill: ghcp-references-pr-commands"
+license: MIT
+tags: [general]
+---
+
 # Dependabot PR Comment Commands
 
 Interact with Dependabot pull requests by commenting `@dependabot <command>`. Dependabot acknowledges commands with a thumbs-up reaction.

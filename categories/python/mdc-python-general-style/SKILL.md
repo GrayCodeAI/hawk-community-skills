@@ -1,7 +1,10 @@
 ---
-description: Applies general Python style guidelines including functional programming preferences and naming conventions.
-globs: **/*.py
+name: mdc-python-general-style
+description: "Applies general Python style guidelines including functional programming preferences and naming conventions."
+license: MIT
+tags: [python]
 ---
+
 - Write concise, technical responses with accurate Python examples.
 - Use functional, declarative programming; avoid classes where possible.
 - Prefer iteration and modularization over code duplication.

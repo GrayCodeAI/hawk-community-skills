@@ -1,7 +1,10 @@
 ---
-description: Configurations for Django settings file with the list of dependencies and conventions.
-globs: **/settings.py
+name: mdc-django-settings
+description: "Configurations for Django settings file with the list of dependencies and conventions."
+license: MIT
+tags: [python]
 ---
+
 - Django
 - Django REST Framework (for API development)
 - Celery (for background tasks)

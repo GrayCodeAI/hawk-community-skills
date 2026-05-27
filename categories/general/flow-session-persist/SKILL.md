@@ -1,7 +1,9 @@
 ---
-name: session-persist
-description: Persist and restore agent sessions across conversations with state snapshots
-argument-hint: "[--save|--restore|--list]"
+name: flow-session-persist
+description: "Persist and restore agent sessions across conversations with state snapshots"
+license: MIT
+tags: [general]
+argument-hint: [--save|--restore|--list]
 allowed-tools: mcp__claude-flow__session_save mcp__claude-flow__session_restore mcp__claude-flow__session_list mcp__claude-flow__session_info mcp__claude-flow__session_delete mcp__claude-flow__hooks_session-start mcp__claude-flow__hooks_session-end mcp__claude-flow__hooks_session-restore Bash
 ---
 

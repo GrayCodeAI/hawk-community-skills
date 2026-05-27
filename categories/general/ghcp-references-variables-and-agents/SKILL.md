@@ -1,3 +1,10 @@
+---
+name: ghcp-references-variables-and-agents
+description: "Skill: ghcp-references-variables-and-agents"
+license: MIT
+tags: [general]
+---
+
 # Pipeline Variables, Variable Groups & Agents
 
 ## Table of Contents

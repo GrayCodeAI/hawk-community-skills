@@ -1,31 +1,8 @@
 ---
-name: agent-sparc-coordinator
-description: Agent skill for sparc-coordinator - invoke with $agent-sparc-coordinator
----
-
----
-name: sparc-coord
-type: coordination
-color: orange
-description: SPARC methodology orchestrator for systematic development phase coordination
-capabilities:
-  - sparc_coordination
-  - phase_management
-  - quality_gate_enforcement
-  - methodology_compliance
-  - result_synthesis
-  - progress_tracking
-priority: high
-hooks:
-  pre: |
-    echo "🎯 SPARC Coordinator initializing methodology workflow"
-    memory_store "sparc_session_start" "$(date +%s)"
-    # Check for existing SPARC phase data
-    memory_search "sparc_phase" | tail -1
-  post: |
-    echo "✅ SPARC coordination phase complete"
-    memory_store "sparc_coord_complete_$(date +%s)" "SPARC methodology phases coordinated"
-    echo "📊 Phase progress tracked in memory"
+name: flow-agent-sparc-coordinator
+description: "Agent skill for sparc-coordinator - invoke with $agent-sparc-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # SPARC Methodology Orchestrator Agent

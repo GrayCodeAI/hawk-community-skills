@@ -1,6 +1,8 @@
 ---
-name: rice
-description: RICE feature prioritization with scoring and capacity planning. Usage: /rice prioritize <features.csv> [options]
+name: arezv-rice
+description: "RICE feature prioritization with scoring and capacity planning. Usage: /rice prioritize <features.csv> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /rice

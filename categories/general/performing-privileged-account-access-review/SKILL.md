@@ -1,12 +1,12 @@
 ---
 name: performing-privileged-account-access-review
-description: Conduct systematic reviews of privileged accounts to validate access rights, identify excessive permissions, and enforce least privilege across PAM infrastructure.
+description: "Conduct systematic reviews of privileged accounts to validate access rights, identify excessive permissions, and enforce least privilege across PAM infrastructure."
+license: MIT
+tags: [pam, access-review, privileged-accounts, least-privilege, compliance, audit, identity-governance]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [pam, access-review, privileged-accounts, least-privilege, compliance, audit, identity-governance]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Privileged Account Access Review

@@ -1,13 +1,11 @@
 ---
-name: debugger
-description: 'Debugging specialist for errors, test failures, and unexpected
-
-  behavior. Use proactively when encountering any issues.
-
-  '
+name: ag-debugger
+description: "Debugging specialist for errors, test failures, and unexpected"
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

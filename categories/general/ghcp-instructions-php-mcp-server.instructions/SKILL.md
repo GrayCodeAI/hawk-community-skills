@@ -1,6 +1,8 @@
 ---
-description: 'Best practices for building Model Context Protocol servers in PHP using the official PHP SDK with attribute-based discovery and multiple transport options'
-applyTo: '**/*.php'
+name: ghcp-instructions-php-mcp-server.instructions
+description: "Skill: ghcp-instructions-php-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # PHP MCP Server Development Best Practices

@@ -1,3 +1,10 @@
+---
+name: bpl-chatgpt-bio-tool-and-memory
+description: "Skill: bpl-chatgpt-bio-tool-and-memory"
+license: MIT
+tags: [general]
+---
+
 # ChatGPT: Memory and how it works
 
 OpenAI announced the general availability of the [memories](https://x.com/OpenAI/status/1784992796669096181) feature today!

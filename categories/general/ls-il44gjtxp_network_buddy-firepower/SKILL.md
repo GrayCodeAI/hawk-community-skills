@@ -1,3 +1,10 @@
+---
+name: ls-il44gjtxp_network_buddy-firepower
+description: "Skill: ls-il44gjtxp_network_buddy-firepower"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Il44gjtxp-network-buddy-firepower
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FQRbu7jzqDvHELM5wP8D9fDM?se=2124-01-23T13%3A39%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D18bed3ec-ad55-4e6f-b884-47b243eb1cbc.png&sig=6RLk0ego8opKGlgyke/B%2B3KDuICJH9jEvbjcCI6Ravo%3D" width="100px" />

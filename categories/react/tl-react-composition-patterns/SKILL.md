@@ -1,10 +1,11 @@
 ---
-name: react-composition-patterns
-description: React composition patterns that scale. Use when refactoring components with boolean prop proliferation, building flexible component libraries, or designing reusable APIs. Triggers on tasks involving compound components, render props, context providers, or component architecture. Includes React 19 API changes. Do NOT use for React/Next.js performance optimization (use react-best-practices instead).
+name: tl-react-composition-patterns
+description: "React composition patterns that scale. Use when refactoring components with boolean prop proliferation, building flexible component libraries, or designing reusable APIs. Triggers on tasks involvin..."
 license: MIT
-metadata:
-  author: vercel
-  version: '1.0.0'
+tags: [react]
+metadata: None
+author: vercel
+version: 1.0.0
 ---
 
 # React Composition Patterns

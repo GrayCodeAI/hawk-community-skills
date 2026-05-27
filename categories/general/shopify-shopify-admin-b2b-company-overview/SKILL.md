@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-b2b-company-overview
-role: customer-ops
+name: shopify-shopify-admin-b2b-company-overview
 description: "Read-only: lists B2B company accounts with locations, catalogs, and payment terms for wholesale management."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - companies:query
-  - companyLocations:query
+api_version: 2025-01
+graphql_operations: [{'companies': 'query'}, {'companyLocations': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

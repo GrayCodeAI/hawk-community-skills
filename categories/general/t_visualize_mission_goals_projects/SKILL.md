@@ -1,9 +1,10 @@
 ---
 name: t_visualize_mission_goals_projects
-description: Fabric pattern - t_visualize_mission_goals_projects
-domain: general
+description: "Fabric pattern - t_visualize_mission_goals_projects"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: glfr-accessibility
+description: "Skill: glfr-accessibility"
+license: MIT
+tags: [general]
+---
+
 # Accessibility
 
 ## WCAG 2.2 Compliance

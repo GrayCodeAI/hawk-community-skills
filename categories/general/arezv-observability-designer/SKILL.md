@@ -1,6 +1,8 @@
 ---
-name: "observability-designer"
+name: arezv-observability-designer
 description: "Observability Designer (POWERFUL)"
+license: MIT
+tags: [general]
 ---
 
 # Observability Designer (POWERFUL)

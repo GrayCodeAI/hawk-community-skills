@@ -1,9 +1,11 @@
 ---
-name: miro-automation
+name: ag-miro-automation
 description: "Automate Miro tasks via Rube MCP (Composio): boards, items, sticky notes, frames, sharing, connectors. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Miro Automation via Rube MCP

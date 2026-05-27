@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for generating modern Terraform code for Azure'
-applyTo: '**/*.tf'
+name: ghcp-instructions-generate-modern-terraform-code
+description: "Skill: ghcp-instructions-generate-modern-terraform-code"
+license: MIT
+tags: [general]
 ---
 
 ## 1. Use Latest Terraform and Providers

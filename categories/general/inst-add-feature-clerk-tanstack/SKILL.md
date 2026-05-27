@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding features to TanStack apps with Clerk Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-add-feature-clerk-tanstack
+description: "Guidelines for adding features to TanStack apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features to TanStack App with Clerk Authentication
@@ -310,4 +312,4 @@ export function useOptimisticUpdate() {
 7. Use proper data pagination
 8. Implement proper data filtering
 9. Use proper data sorting
-10. Implement proper data search 
+10. Implement proper data search

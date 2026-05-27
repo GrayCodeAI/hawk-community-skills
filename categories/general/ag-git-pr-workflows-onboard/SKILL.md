@@ -1,9 +1,11 @@
 ---
-name: git-pr-workflows-onboard
+name: ag-git-pr-workflows-onboard
 description: "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You"
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Onboard

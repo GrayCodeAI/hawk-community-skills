@@ -1,3 +1,10 @@
+---
+name: sys-cluely_20250611
+description: "Skill: sys-cluely_20250611"
+license: MIT
+tags: [general]
+---
+
 # cluely_20250611
 
 ## Prompt (Extracted from electron framework)

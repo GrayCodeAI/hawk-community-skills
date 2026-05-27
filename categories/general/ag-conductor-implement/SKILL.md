@@ -1,9 +1,11 @@
 ---
-name: conductor-implement
+name: ag-conductor-implement
 description: "Execute tasks from a track's implementation plan following TDD workflow"
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Implement Track

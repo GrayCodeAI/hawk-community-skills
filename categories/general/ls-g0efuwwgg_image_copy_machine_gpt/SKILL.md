@@ -1,3 +1,10 @@
+---
+name: ls-g0efuwwgg_image_copy_machine_gpt
+description: "Skill: ls-g0efuwwgg_image_copy_machine_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-g0efUwWgG-image-copy-machine-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-zmxdifSnxX3fEIBuV4HOWMlc?se=2123-10-22T13%3A26%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dadc2378f-06c7-4b93-8c8e-4c1542cb99e1.png&sig=EXUWYir9OhLzhfdrQlTmwu4pPYEGIzh52gJTIie48wg%3D" width="100px" />

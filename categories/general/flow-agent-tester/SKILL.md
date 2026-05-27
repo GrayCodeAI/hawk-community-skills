@@ -1,30 +1,8 @@
 ---
-name: agent-tester
-description: Agent skill for tester - invoke with $agent-tester
----
-
----
-name: tester
-type: validator
-color: "#F39C12"
-description: Comprehensive testing and quality assurance specialist
-capabilities:
-  - unit_testing
-  - integration_testing
-  - e2e_testing
-  - performance_testing
-  - security_testing
-priority: high
-hooks:
-  pre: |
-    echo "🧪 Tester agent validating: $TASK"
-    # Check test environment
-    if [ -f "jest.config.js" ] || [ -f "vitest.config.ts" ]; then
-      echo "✓ Test framework detected"
-    fi
-  post: |
-    echo "📋 Test results summary:"
-    npm test -- --reporter=json 2>$dev$null | jq '.numPassedTests, .numFailedTests' 2>$dev$null || echo "Tests completed"
+name: flow-agent-tester
+description: "Agent skill for tester - invoke with $agent-tester"
+license: MIT
+tags: [general]
 ---
 
 # Testing and Quality Assurance Agent

@@ -1,7 +1,9 @@
 ---
-description: Manage async client-side data with TanStack Query (AKA React Query) (queries, mutations, invalidation)
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-2007-tanstack-query
+description: "Manage async client-side data with TanStack Query (AKA React Query) (queries, mutations, invalidation)"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # TanStack Query Rules

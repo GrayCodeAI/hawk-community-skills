@@ -1,16 +1,11 @@
 ---
 name: cursor-payload-cms
-description: Cursor IDE rules for payload-cms
-domain: engineering
+description: "Cursor IDE rules for payload-cms"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Payload CMS: collections, fields, hooks, access control, admin UI"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Payload CMS Cursor Rules

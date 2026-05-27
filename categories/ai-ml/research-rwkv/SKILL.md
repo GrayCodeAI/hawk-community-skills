@@ -1,10 +1,10 @@
 ---
-name: rwkv-architecture
-description: RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV cache. Train like GPT (parallel), infer like RNN (sequential). Linux Foundation AI project. Production at Windows, Office, NeMo. RWKV-7 (March 2025). Models up to 14B parameters.
+name: research-rwkv
+description: "RNN+Transformer hybrid with O(n) inference. Linear time, infinite context, no KV cache. Train like GPT (parallel), infer like RNN (sequential). Linux Foundation AI project. Production at Windows, O..."
+license: MIT
+tags: [rwkv, model-architecture, rnn, transformer-hybrid, linear-complexity, infinite-context, efficient-inference, linux-foundation, alternative-architecture]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [RWKV, Model Architecture, RNN, Transformer Hybrid, Linear Complexity, Infinite Context, Efficient Inference, Linux Foundation, Alternative Architecture]
 dependencies: [rwkv, torch, transformers]
 ---
 
@@ -256,5 +256,3 @@ out2, state = model.forward(tokens2, state)  # Has context from tokens1
 - Models: https://huggingface.co/BlinkDL
 - Linux Foundation AI: Official project
 - Production: Microsoft Windows, Office integration, NeMo support
-
-

@@ -1,3 +1,10 @@
+---
+name: glfr-api-design
+description: "Skill: glfr-api-design"
+license: MIT
+tags: [general]
+---
+
 # API Design
 
 ## REST Conventions

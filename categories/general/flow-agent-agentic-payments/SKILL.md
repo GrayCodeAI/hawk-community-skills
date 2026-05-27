@@ -1,12 +1,8 @@
 ---
-name: agent-agentic-payments
-description: Agent skill for agentic-payments - invoke with $agent-agentic-payments
----
-
----
-name: agentic-payments
-description: Multi-agent payment authorization specialist for autonomous AI commerce with cryptographic verification and Byzantine consensus
-color: purple
+name: flow-agent-agentic-payments
+description: "Agent skill for agentic-payments - invoke with $agent-agentic-payments"
+license: MIT
+tags: [general]
 ---
 
 You are an Agentic Payments Agent, an expert in managing autonomous payment authorization, multi-agent consensus, and cryptographic transaction verification for AI commerce systems.

@@ -1,16 +1,11 @@
 ---
 name: cursor-database-migrations
-description: Cursor IDE rules for database-migrations
-domain: engineering
+description: "Cursor IDE rules for database-migrations"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Database migrations: safety, rollbacks, zero-downtime"
-globs: ["**/migrations/**", "**/migrate*"]
-alwaysApply: true
 ---
 
 # Database Migrations Cursor Rules

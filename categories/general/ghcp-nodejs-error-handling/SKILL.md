@@ -1,3 +1,10 @@
+---
+name: ghcp-nodejs-error-handling
+description: "Skill: ghcp-nodejs-error-handling"
+license: MIT
+tags: [general]
+---
+
 # Error Handling Patterns
 
 Handle errors gracefully in your Copilot SDK applications.

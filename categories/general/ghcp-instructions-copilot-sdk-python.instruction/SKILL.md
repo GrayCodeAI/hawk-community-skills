@@ -1,7 +1,8 @@
 ---
-applyTo: "**.py, pyproject.toml, setup.py"
-description: "This file provides guidance on building Python applications using GitHub Copilot SDK."
-name: "GitHub Copilot SDK Python Instructions"
+name: ghcp-instructions-copilot-sdk-python.instruction
+description: "Skill: ghcp-instructions-copilot-sdk-python.instruction"
+license: MIT
+tags: [general]
 ---
 
 ## Core Principles

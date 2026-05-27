@@ -1,12 +1,12 @@
 ---
 name: testing-for-sensitive-data-exposure
-description: Identifying sensitive data exposure vulnerabilities including API key leakage, PII in responses, insecure storage, and unprotected data transmission during security assessments.
+description: "Identifying sensitive data exposure vulnerabilities including API key leakage, PII in responses, insecure storage, and unprotected data transmission during security assessments."
+license: MIT
+tags: [penetration-testing, data-exposure, pii, owasp, web-security, api-keys, secrets]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, data-exposure, pii, owasp, web-security, api-keys, secrets]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Testing for Sensitive Data Exposure

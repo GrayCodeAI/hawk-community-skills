@@ -1,6 +1,8 @@
 ---
-description: 'Using code components in Power Pages sites'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-power-pages.instructions
+description: "Skill: ghcp-instructions-pcf-power-pages.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Use Code Components in Power Pages

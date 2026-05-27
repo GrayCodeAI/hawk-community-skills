@@ -1,3 +1,10 @@
+---
+name: gpt-q8psl4tbp_shadowheart_gpt
+description: "Skill: gpt-q8psl4tbp_shadowheart_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Q8PSl4Tbp-shadowheart-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-4wXCGXPW2wEhgg4aBlpGWb6m?se=2124-01-21T04%3A38%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddownload.jpg&sig=cDSdy/4VGcTqrlDrxRNWieOhBxib4E1rSdqgLwEAVuc%3D" width="100px" />

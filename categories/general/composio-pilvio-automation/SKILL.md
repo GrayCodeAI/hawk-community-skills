@@ -1,8 +1,10 @@
 ---
-name: pilvio-automation
+name: composio-pilvio-automation
 description: "Automate Pilvio tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Pilvio Automation via Rube MCP

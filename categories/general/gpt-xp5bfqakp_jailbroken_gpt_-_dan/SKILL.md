@@ -1,3 +1,10 @@
+---
+name: gpt-xp5bfqakp_jailbroken_gpt_-_dan
+description: "Skill: gpt-xp5bfqakp_jailbroken_gpt_-_dan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xP5BfQAKP-jailbroken-gpt-dan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Aqfv1lU8QPDOZJS8cngGrKWA?se=2123-11-26T23%3A09%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1d31b2e3-29cf-4e44-82f5-5087234b7567.png&sig=nDxd2NoHgqbLOV87vEahaFwj%2B77Q4pjtKbTxd8oqVDY%3D" width="100px" />

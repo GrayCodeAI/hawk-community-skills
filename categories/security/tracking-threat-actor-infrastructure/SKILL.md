@@ -1,13 +1,14 @@
 ---
 name: tracking-threat-actor-infrastructure
-description: Threat actor infrastructure tracking involves monitoring and mapping adversary-controlled assets including command-and-control (C2) servers, phishing domains, exploit kit hosts, bulletproof hosting, a
+description: "Threat actor infrastructure tracking involves monitoring and mapping adversary-controlled assets including command-and-control (C2) servers, phishing domains, exploit kit hosts, bulletproof hosting, a"
+license: MIT
+tags: [threat-intelligence, cti, ioc, mitre-attack, stix, infrastructure-tracking, shodan, censys, passive-dns]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [threat-intelligence, cti, ioc, mitre-attack, stix, infrastructure-tracking, shodan, censys, passive-dns]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Tracking Threat Actor Infrastructure
 
 ## Overview

@@ -1,7 +1,10 @@
 ---
-description: Guidelines for structuring routes and dependencies in FastAPI applications, stored in the routers directory.
-globs: **/routers/*.py
+name: mdc-fastapi-route-specific-rules
+description: "Guidelines for structuring routes and dependencies in FastAPI applications, stored in the routers directory."
+license: MIT
+tags: [python]
 ---
+
 - File structure: exported router, sub-routes, utilities, static content, types (models, schemas).
 - Avoid unnecessary curly braces in conditional statements.
 - For single-line statements in conditionals, omit curly braces.

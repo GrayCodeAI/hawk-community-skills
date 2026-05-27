@@ -1,3 +1,10 @@
+---
+name: ls-n4phpmueo_paces_gpt
+description: "Skill: ls-n4phpmueo_paces_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-N4PHpmUeO-paces-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IpttTRADuFFeYcznRx9OOQe6?se=2123-12-30T22%3A16%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D49c7cd7b-d2c7-4d78-b96b-cca2cfaafb21.png&sig=lFkpZJRR%2BSWxcAM0smD4kQon/CVACEeTt/kzBjuVj1o%3D" width="100px" />

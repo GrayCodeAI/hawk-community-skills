@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-collection-reorganization
-role: merchandising
+name: shopify-shopify-admin-collection-reorganization
 description: "Reorder products in a manual Shopify collection by inventory level, moving in-stock products to the top and out-of-stock to the bottom."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - collection:query
-  - collectionReorderProducts:mutation
+api_version: 2025-01
+graphql_operations: [{'collection': 'query'}, {'collectionReorderProducts': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

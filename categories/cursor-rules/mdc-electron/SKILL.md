@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building secure, performant, and maintainable Electron applications using modern patterns and consistent tooling.
-globs: **/*.{js,jsx}
+name: mdc-electron
+description: "This guide provides opinionated, actionable best practices for building secure, performant, and maintainable Electron applications using modern patterns and consistent tooling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Electron Best Practices
 
 Electron development demands a disciplined approach to security, performance, and maintainability. This guide outlines the definitive best practices for our team, leveraging modern Electron features and tooling (targeting Electron 28+).

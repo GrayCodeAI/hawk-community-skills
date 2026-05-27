@@ -1,3 +1,10 @@
+---
+name: gpt-ln2qgmotw_gasgpt
+description: "Skill: gpt-ln2qgmotw_gasgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lN2QGmoTw-gasgpt
 
 GPT Title: GASGPT

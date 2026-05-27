@@ -1,6 +1,8 @@
 ---
-description: 'R language and document formats (R, Rmd, Quarto): coding standards and Copilot guidance for idiomatic, safe, and consistent code generation.'
-applyTo: '**/*.R, **/*.r, **/*.Rmd, **/*.rmd, **/*.qmd'
+name: ghcp-instructions-r.instructions
+description: "Skill: ghcp-instructions-r.instructions"
+license: MIT
+tags: [general]
 ---
 
 # R Programming Language Instructions

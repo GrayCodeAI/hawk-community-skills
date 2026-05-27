@@ -1,6 +1,8 @@
 ---
-name: "run"
+name: arezv-run
 description: "Run a single experiment iteration. Edit the target file, evaluate, keep or discard."
+license: MIT
+tags: [general]
 command: /ar:run
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-custom-patterns
+description: "Skill: ghcp-references-custom-patterns"
+license: MIT
+tags: [general]
+---
+
 # Custom Patterns Reference
 
 Detailed reference for defining custom secret scanning patterns using regular expressions at the repository, organization, and enterprise level.

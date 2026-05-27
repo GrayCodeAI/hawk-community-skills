@@ -1,8 +1,10 @@
 ---
-name: turbot-pipes-automation
+name: composio-turbot-pipes-automation
 description: "Automate Turbot Pipes tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Turbot Pipes Automation via Rube MCP

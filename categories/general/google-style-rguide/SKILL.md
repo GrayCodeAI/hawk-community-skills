@@ -1,9 +1,10 @@
 ---
 name: google-style-rguide
-description: Google official style guide for rguide
-domain: engineering
+description: "Google official style guide for rguide"
+license: MIT
 tags: [google, style-guide, rguide]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 

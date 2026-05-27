@@ -1,8 +1,10 @@
 ---
-name: openperplex-automation
+name: composio-openperplex-automation
 description: "Automate Openperplex tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Openperplex Automation via Rube MCP

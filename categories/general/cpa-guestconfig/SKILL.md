@@ -1,3 +1,10 @@
+---
+name: cpa-guestconfig
+description: "Skill: cpa-guestconfig"
+license: MIT
+tags: [general]
+---
+
 # az guestconfig
 
 ```bash

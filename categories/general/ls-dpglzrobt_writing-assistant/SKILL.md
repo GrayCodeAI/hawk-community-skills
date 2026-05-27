@@ -1,3 +1,10 @@
+---
+name: ls-dpglzrobt_writing-assistant
+description: "Skill: ls-dpglzrobt_writing-assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DpGlZrobT-writing-assistant
 
 GPT Title: Writing Assistant

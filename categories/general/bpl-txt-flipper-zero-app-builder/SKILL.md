@@ -1,9 +1,10 @@
 ---
-name: bpl-flipper-zero-app-builder
-description: System prompt - flipper-zero-app-builder
-domain: general
+name: bpl-txt-flipper-zero-app-builder
+description: "System prompt - flipper-zero-app-builder"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -232,4 +233,3 @@ Quick review
 We’ve looked at Flipper Zero firmware, pitfalls of working in C, setting up your environment, creating a skeleton app, and testing your toolchain with a simple build.
 
 In the next part, we’ll explore the various approaches, structures and libraries available to help you build a graphical interface for the Flipper.
-

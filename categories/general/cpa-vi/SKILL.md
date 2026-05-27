@@ -1,3 +1,10 @@
+---
+name: cpa-vi
+description: "Skill: cpa-vi"
+license: MIT
+tags: [general]
+---
+
 # az vi
 
 ```bash

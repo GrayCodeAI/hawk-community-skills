@@ -1,8 +1,10 @@
 ---
-name: 'Arch Linux Expert'
-description: 'Arch Linux specialist focused on pacman, rolling-release maintenance, and Arch-centric system administration workflows.'
+name: ghcp-agents-arch-linux-expert.agent
+description: "Arch Linux specialist focused on pacman, rolling-release maintenance, and Arch-centric system administration workflows."
+license: MIT
+tags: [general]
 model: GPT-5
-tools: ['codebase', 'search', 'terminalCommand', 'runCommands', 'edit/editFiles']
+tools: [codebase, search, terminalCommand, runCommands, edit/editFiles]
 ---
 
 # Arch Linux Expert

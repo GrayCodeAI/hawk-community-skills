@@ -1,9 +1,11 @@
 ---
-name: shopify-google-channel
+name: ecom-shopify-google-channel
 description: "Google integration — Shopping feed, Performance Max, free listings, Merchant Center optimization"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Google Channel

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-anti-patterns
+description: "Skill: ghcp-references-fundamentals-anti-patterns"
+license: MIT
+tags: [general]
+---
+
 # Anti-Patterns
 
 Common mistakes and fixes.

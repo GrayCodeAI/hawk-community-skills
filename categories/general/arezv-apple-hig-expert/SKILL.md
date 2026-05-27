@@ -1,12 +1,13 @@
 ---
-name: apple-hig-expert
+name: arezv-apple-hig-expert
 description: "Expert guidance on Apple Human Interface Guidelines (HIG). Covers iOS, macOS, and visionOS with 2026 Liquid Glass aesthetics and accessibility-first design."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: design
-  updated: 2026-04-09
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: design
+updated: 2026-04-09
 ---
 
 # Apple HIG Expert

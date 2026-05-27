@@ -1,3 +1,10 @@
+---
+name: ls-gjvyw7f3o_homebrewery_5e_monster_maker
+description: "Skill: ls-gjvyw7f3o_homebrewery_5e_monster_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Gjvyw7F3o-homebrewery-5e-monster-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-IJwBef6vJ4UUS9li4Tdm9Yl1?se=2124-01-11T19%3A58%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202024-02-04%2520at%25209.57.13%25E2%2580%25AFAM.png&sig=ipIx6jaCih9/VYjcZVbQfD5jl1gvkcqmNGCiVZlgwD8%3D" width="100px" />

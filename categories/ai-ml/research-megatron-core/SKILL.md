@@ -1,10 +1,10 @@
 ---
-name: training-llms-megatron
-description: Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core with advanced parallelism strategies. Use when training models >1B parameters, need maximum GPU efficiency (47% MFU on H100), or require tensor/pipeline/sequence/context/expert parallelism. Production-ready framework used for Nemotron, LLaMA, DeepSeek.
+name: research-megatron-core
+description: "Trains large language models (2B-462B parameters) using NVIDIA Megatron-Core with advanced parallelism strategies. Use when training models >1B parameters, need maximum GPU efficiency (47% MFU on H..."
+license: MIT
+tags: [megatron-core, large-scale-training, nvidia, tensor-parallelism, pipeline-parallelism, model-parallelism, h100, distributed-training, production]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Megatron-Core, Large-Scale Training, NVIDIA, Tensor Parallelism, Pipeline Parallelism, Model Parallelism, H100, Distributed Training, Production]
 dependencies: [megatron-core, torch, apex, transformer-engine]
 ---
 
@@ -362,5 +362,3 @@ Stabilize training:
   - "Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism" (2019)
   - "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM" (2021)
 - NeMo Framework: https://docs.nvidia.com/nemo-framework/ (built on Megatron-Core)
-
-

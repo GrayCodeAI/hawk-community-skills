@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for building robust, performant, and secure Nuxt applications, emphasizing modern patterns and common pitfalls.
-globs: **/*.{vue,js,ts}
+name: mdc-nuxt
+description: "This guide provides definitive, actionable best practices for building robust, performant, and secure Nuxt applications, emphasizing modern patterns and common pitfalls."
+license: MIT
+tags: [vue]
 ---
+
 # Nuxt Best Practices
 
 This document outlines the essential guidelines for developing high-quality Nuxt applications. Adhere to these rules to ensure maintainable, performant, and secure code.

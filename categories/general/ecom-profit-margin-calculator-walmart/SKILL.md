@@ -1,8 +1,10 @@
 ---
-name: profit-margin-calculator-walmart
+name: ecom-profit-margin-calculator-walmart
+description: "Walmart profit margin calculator for sellers. Calculate cost breakdowns including WFS fulfillment, storage fees, and referral fees. Includes comparison with Amazon FBA and lower competition advanta..."
+license: MIT
+tags: [general]
 version: 1.0.0
-description: "Walmart profit margin calculator for sellers. Calculate cost breakdowns including WFS fulfillment, storage fees, and referral fees. Includes comparison with Amazon FBA and lower competition advantage analysis. No API key required."
-metadata: {"nexscope":{"emoji":"💰","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '💰', 'category': 'ecommerce'}}
 ---
 
 # Profit Margin Calculator — Walmart 💰

@@ -1,3 +1,10 @@
+---
+name: cpa-deployment
+description: "Skill: cpa-deployment"
+license: MIT
+tags: [general]
+---
+
 # az deployment
 
 ```bash

@@ -1,7 +1,10 @@
 ---
-description: Applies general HTMX best practices to all HTML files in the project, ensuring consistent use of HTMX attributes for requests, content swapping, and user feedback.
-globs: **/*.html
+name: mdc-htmx-best-practices-general
+description: "Applies general HTMX best practices to all HTML files in the project, ensuring consistent use of HTMX attributes for requests, content swapping, and user feedback."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use hx-get for GET requests
 - Implement hx-post for POST requests
 - Utilize hx-trigger for custom events

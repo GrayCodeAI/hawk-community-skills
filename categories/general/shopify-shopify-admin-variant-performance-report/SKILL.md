@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-variant-performance-report
-role: merchandising
+name: shopify-shopify-admin-variant-performance-report
 description: "Rank every product variant by revenue, units sold, and refund rate, then cross-reference against current inventory to identify dead weight vs. top performers."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - productVariants:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'productVariants': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

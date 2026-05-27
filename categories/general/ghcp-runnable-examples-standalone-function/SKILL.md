@@ -1,3 +1,10 @@
+---
+name: ghcp-runnable-examples-standalone-function
+description: "Skill: ghcp-runnable-examples-standalone-function"
+license: MIT
+tags: [general]
+---
+
 # Runnable Example: Standalone Function (No Server)
 
 **When the app is a plain Python function or module** — no web framework, no server, no infrastructure.

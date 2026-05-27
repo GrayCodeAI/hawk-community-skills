@@ -1,3 +1,10 @@
+---
+name: ls-8ocwvlenu_calendar-gpt
+description: "Skill: ls-8ocwvlenu_calendar-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt
 
 GPT Title: Calendar GPT

@@ -1,15 +1,13 @@
 ---
-name: quality-engineering-jira-integration
-description: "Jira ↔ Zephyr traceability: fetch story AC and components, detect existing TC links, link new Zephyr TCs back to Jira, and apply has-zephyr-tests labels. Use after creating Zephyr test cases that need linking, when fetching a Jira story's details for test generation, or when auditing and cleaning up stale TC links."
-metadata:
-  triggers:
-    keywords:
-    - jira issue
-    - zephyr link
-    - has-zephyr-tests
-    - traceability
-    - link test case
+name: std-quality-engineering-jira-integration
+description: "Jira ↔ Zephyr traceability: fetch story AC and components, detect existing TC links, link new Zephyr TCs back to Jira, and apply has-zephyr-tests labels. Use after creating Zephyr test cases that n..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Jira Integration Standards
 
 ## **Priority: P1 (HIGH)**

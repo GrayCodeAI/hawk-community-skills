@@ -1,9 +1,11 @@
 ---
-name: zustand-store-ts
+name: ag-zustand-store-ts
 description: "Create Zustand stores following established patterns with proper TypeScript types and middleware."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Zustand Store

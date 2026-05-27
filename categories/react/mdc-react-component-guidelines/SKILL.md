@@ -1,7 +1,10 @@
 ---
-description: Defines guidelines for creating reusable and maintainable React components.
-globs: components/**/*.tsx
+name: mdc-react-component-guidelines
+description: "Defines guidelines for creating reusable and maintainable React components."
+license: MIT
+tags: [react]
 ---
+
 - Prioritize reusability and modularity
 - Ensure consistent naming conventions
 - Follow React best practices and patterns

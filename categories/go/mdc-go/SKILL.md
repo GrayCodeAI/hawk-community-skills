@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing clear, simple, performant, and maintainable Go code, adhering to Google's style and modern best practices.
-globs: **/*
+name: mdc-go
+description: "Definitive guidelines for writing clear, simple, performant, and maintainable Go code, adhering to Google's style and modern best practices."
+license: MIT
+tags: [go]
 ---
+
 # Go Best Practices
 
 This guide outlines our team's definitive Go coding standards, emphasizing clarity, simplicity, performance, and maintainability. Adhere to these principles to ensure a consistent, high-quality codebase that aligns with Google's Go Style Guide.

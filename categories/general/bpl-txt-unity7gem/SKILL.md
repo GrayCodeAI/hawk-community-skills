@@ -1,9 +1,10 @@
 ---
-name: bpl-unity7gem
-description: System prompt - unity7gem
-domain: general
+name: bpl-txt-unity7gem
+description: "System prompt - unity7gem"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

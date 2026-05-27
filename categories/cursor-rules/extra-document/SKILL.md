@@ -1,7 +1,9 @@
 ---
-description: markdown 文件编写规则
-globs: *.md
-alwaysApply: false
+name: extra-document
+description: "markdown 文件编写规则"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # 文档规范
@@ -45,9 +47,3 @@ alwaysApply: false
 - 添加适当的注释解释关键部分
 - 说明代码的预期输出或行为
 - 更新示例以匹配最新API
-
-
-
-
-
-

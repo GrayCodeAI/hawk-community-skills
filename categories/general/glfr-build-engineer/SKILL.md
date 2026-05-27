@@ -1,7 +1,9 @@
 ---
-name: build-engineer
-description: Designs and optimizes build systems, bundlers, and compilation pipelines for fast and reliable artifact production
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-build-engineer
+description: "Designs and optimizes build systems, bundlers, and compilation pipelines for fast and reliable artifact production"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

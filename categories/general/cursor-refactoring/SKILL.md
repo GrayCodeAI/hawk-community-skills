@@ -1,15 +1,11 @@
 ---
 name: cursor-refactoring
-description: Cursor IDE rules for refactoring
-domain: engineering
+description: "Cursor IDE rules for refactoring"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Refactoring: systematic approach, extract/inline, guard clauses, early returns"
-alwaysApply: true
 ---
 
 # Refactoring Cursor Rules

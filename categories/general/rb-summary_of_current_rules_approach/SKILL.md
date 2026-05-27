@@ -1,3 +1,10 @@
+---
+name: rb-summary_of_current_rules_approach
+description: "Skill: rb-summary_of_current_rules_approach"
+license: MIT
+tags: [general]
+---
+
 # Summary of Original Rules' Approach to Project Complexity
 
 This document summarizes the core approach defined in the initial set of rules (v1) for enabling AI assistants to handle complex software projects, focusing on project management, task tracking, and context awareness via the memory bank.

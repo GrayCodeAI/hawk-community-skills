@@ -1,5 +1,9 @@
 ---
-description: Enforces the preference for functional components in SolidJS projects within the components directory.
-globs: src/components/**/*.jsx
+name: mdc-solidjs---functional-components-preference
+description: 'Skill: mdc-solidjs---functional-components-preference'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Always use functional components instead of class components.

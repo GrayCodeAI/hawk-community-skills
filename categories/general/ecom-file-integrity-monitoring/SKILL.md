@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "File Integrity Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "security"
-    - "monitoring"
-    - "file-integrity"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "file integrity monitoring"
+name: ecom-file-integrity-monitoring
+description: "Skill: ecom-file-integrity-monitoring"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # File Integrity Monitoring

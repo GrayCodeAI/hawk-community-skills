@@ -1,3 +1,10 @@
+---
+name: ghcp-references-star-schema
+description: "Skill: ghcp-references-star-schema"
+license: MIT
+tags: [general]
+---
+
 # Star Schema Design for Power BI
 
 ## Overview

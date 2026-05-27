@@ -1,3 +1,10 @@
+---
+name: sys-chatglm4_20240821
+description: "Skill: sys-chatglm4_20240821"
+license: MIT
+tags: [general]
+---
+
 # ChatGLM4_20240821
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/44>

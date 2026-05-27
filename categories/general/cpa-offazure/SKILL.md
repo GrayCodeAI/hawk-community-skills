@@ -1,3 +1,10 @@
+---
+name: cpa-offazure
+description: "Skill: cpa-offazure"
+license: MIT
+tags: [general]
+---
+
 # az offazure
 
 ```bash

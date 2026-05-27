@@ -1,7 +1,9 @@
 ---
-name: documentation-engineer
-description: Creates technical documentation including API references, guides, tutorials, and architecture decision records
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-documentation-engineer
+description: "Creates technical documentation including API references, guides, tutorials, and architecture decision records"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

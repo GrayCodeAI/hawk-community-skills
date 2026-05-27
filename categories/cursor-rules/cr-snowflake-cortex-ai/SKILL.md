@@ -1,9 +1,10 @@
 ---
 name: cr-snowflake-cortex-ai
-description: Cursor rules for snowflake-cortex-ai
-domain: engineering
+description: "Cursor rules for snowflake-cortex-ai"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

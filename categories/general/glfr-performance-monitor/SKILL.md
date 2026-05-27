@@ -1,7 +1,9 @@
 ---
-name: performance-monitor
-description: Monitor agent execution, track token usage, measure response quality, and optimize workflows
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-performance-monitor
+description: "Monitor agent execution, track token usage, measure response quality, and optimize workflows"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

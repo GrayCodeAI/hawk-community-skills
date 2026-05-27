@@ -1,3 +1,10 @@
+---
+name: gpt-bra8gwilu_ruby.wasm_javascript_helper
+description: "Skill: gpt-bra8gwilu_ruby.wasm_javascript_helper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BrA8GwiLU-ruby-wasm-javascript-helper
 
 GPT logo: <img src="None" width="100px" />

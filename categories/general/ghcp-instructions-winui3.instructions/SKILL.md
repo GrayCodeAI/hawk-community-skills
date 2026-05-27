@@ -1,6 +1,8 @@
 ---
-description: 'WinUI 3 and Windows App SDK coding guidelines. Prevents common UWP API misuse, enforces correct XAML namespaces, threading, windowing, and MVVM patterns for desktop Windows apps.'
-applyTo: '**/*.xaml, **/*.cs, **/*.csproj'
+name: ghcp-instructions-winui3.instructions
+description: "Skill: ghcp-instructions-winui3.instructions"
+license: MIT
+tags: [general]
 ---
 
 # WinUI 3 / Windows App SDK

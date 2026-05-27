@@ -1,17 +1,8 @@
 ---
-name: mstest-skill
-description: >
-  Generates MSTest tests in C#. Microsoft's built-in testing framework for .NET.
-  Use when user mentions "MSTest", "[TestMethod]", "[TestClass]",
-  "Assert.AreEqual". Triggers on: "MSTest", "[TestMethod]", "[TestClass]",
-  "Microsoft test framework".
-languages:
-  - C#
-category: unit-testing
+name: lt-mstest-skill
+description: "Skill: lt-mstest-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # MSTest Testing Skill

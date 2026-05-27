@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for building robust, performant, and maintainable cross-platform mobile applications with Expo, leveraging modern React Native patterns and the latest SDK features.
-globs: **/*
+name: mdc-expo
+description: "This guide provides definitive, opinionated best practices for building robust, performant, and maintainable cross-platform mobile applications with Expo, leveraging modern React Native patterns an..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # expo Best Practices
 
 This document outlines the definitive standards for Expo development. Adhere to these guidelines to ensure consistency, performance, and maintainability across our projects.

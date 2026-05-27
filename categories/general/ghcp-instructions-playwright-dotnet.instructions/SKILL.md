@@ -1,6 +1,8 @@
 ---
-description: 'Playwright .NET test generation instructions'
-applyTo: '**'
+name: ghcp-instructions-playwright-dotnet.instructions
+description: "Skill: ghcp-instructions-playwright-dotnet.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Playwright .NET Test Generation Instructions

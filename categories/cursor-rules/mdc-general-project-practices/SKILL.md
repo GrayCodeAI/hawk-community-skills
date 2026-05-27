@@ -1,7 +1,10 @@
 ---
-description: This rule outlines general project practices, including agile methodologies, modularity, DRY principles, performance, and security considerations applicable to all files.
-globs: **/*.*
+name: mdc-general-project-practices
+description: "This rule outlines general project practices, including agile methodologies, modularity, DRY principles, performance, and security considerations applicable to all files."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Follow best practices, lean towards agile methodologies
 - Prioritize modularity, DRY, performance, and security
 - First break tasks into distinct prioritized steps, then follow the steps

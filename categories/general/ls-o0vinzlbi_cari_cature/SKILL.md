@@ -1,3 +1,10 @@
+---
+name: ls-o0vinzlbi_cari_cature
+description: "Skill: ls-o0vinzlbi_cari_cature"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-O0vInZlBi-cari-cature
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nHVerWH1FPmB3anh73qjrQam?se=2123-10-25T01%3A44%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dae78a6e3-ed98-4dcd-ba99-f801eec770db.webp&sig=QVi3A8SRDA5lZbQwrioa/psaw5weQNRvv8QXno7DzUE%3D" width="100px" />

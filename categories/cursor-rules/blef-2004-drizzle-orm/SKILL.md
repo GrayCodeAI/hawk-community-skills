@@ -1,7 +1,9 @@
 ---
-description: Use Drizzle with PostgreSQL to define and modify schemas in a flexible SQL-like manner
-globs: src/**/*.{ts,tsx}, drizzle.config.ts
-alwaysApply: false
+name: blef-2004-drizzle-orm
+description: "Use Drizzle with PostgreSQL to define and modify schemas in a flexible SQL-like manner"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Drizzle ORM (Postgres) Rules

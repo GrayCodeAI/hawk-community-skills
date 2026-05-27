@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Supabase in React applications
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-add-feature-supabase-react
+description: "Guidelines for adding new features with Supabase in React applications"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features with Supabase in React
@@ -264,4 +266,4 @@ supabase gen types typescript --local > src/types/supabase.ts
 
 # Deploy database changes
 supabase db push
-``` 
+```

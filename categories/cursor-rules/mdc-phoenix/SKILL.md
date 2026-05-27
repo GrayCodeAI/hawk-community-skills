@@ -1,7 +1,10 @@
 ---
-description: Provides definitive guidelines for building robust, maintainable, and performant Phoenix applications using modern Elixir best practices, focusing on context-driven design, strict formatting, and effective testing.
-globs: **/*
+name: mdc-phoenix
+description: "Provides definitive guidelines for building robust, maintainable, and performant Phoenix applications using modern Elixir best practices, focusing on context-driven design, strict formatting, and e..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # phoenix Best Practices
 
 This guide outlines the definitive best practices for developing Phoenix applications. Adhere to these rules to ensure consistency, maintainability, and high performance across our codebase.

@@ -1,6 +1,8 @@
 ---
-name: a11y-audit
-description: Scan a frontend project for WCAG 2.2 accessibility violations and fix them. Usage: /a11y-audit [path]
+name: arezv-cmd-a11y-audit
+description: "Scan a frontend project for WCAG 2.2 accessibility violations and fix them. Usage: /a11y-audit [path]"
+license: MIT
+tags: [general]
 ---
 
 # /a11y-audit

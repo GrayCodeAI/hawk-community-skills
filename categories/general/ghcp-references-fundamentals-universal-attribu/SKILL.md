@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-universal-attribu
+description: "Skill: ghcp-references-fundamentals-universal-attribu"
+license: MIT
+tags: [general]
+---
+
 # Universal Attributes
 
 This document covers attributes that can be used on any span kind in OpenInference.

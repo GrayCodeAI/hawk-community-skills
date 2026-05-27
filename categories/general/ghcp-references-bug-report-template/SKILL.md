@@ -1,3 +1,10 @@
+---
+name: ghcp-references-bug-report-template
+description: "Skill: ghcp-references-bug-report-template"
+license: MIT
+tags: [general]
+---
+
 # Bug Report Template
 
 Use this template when creating bug reports for Oracle-to-PostgreSQL migration defects.

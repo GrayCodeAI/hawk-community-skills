@@ -1,16 +1,11 @@
 ---
 name: cursor-nestjs
-description: Cursor IDE rules for nestjs
-domain: engineering
+description: "Cursor IDE rules for nestjs"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "NestJS: decorators, modules, guards, interceptors, DTOs"
-globs: ["*.ts"]
-alwaysApply: true
 ---
 
 # NestJS Cursor Rules

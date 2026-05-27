@@ -1,8 +1,10 @@
 ---
-name: interzoid-automation
+name: composio-interzoid-automation
 description: "Automate Interzoid tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Interzoid Automation via Rube MCP

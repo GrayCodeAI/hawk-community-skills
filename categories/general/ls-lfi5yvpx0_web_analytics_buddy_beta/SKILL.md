@@ -1,3 +1,10 @@
+---
+name: ls-lfi5yvpx0_web_analytics_buddy_beta
+description: "Skill: ls-lfi5yvpx0_web_analytics_buddy_beta"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lfI5Yvpx0-web-analytics-buddy-beta
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nkD9gLRKjCNBLfCI5wnHP5Cv?se=2123-10-21T22%3A54%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D56e59843-94b5-4ffe-8878-cec0c3adba64.png&sig=XcddQ9qlk3HwnvKKPepwHWH/15dtu0QH9nDH7iN/VxI%3D" width="100px" />

@@ -1,7 +1,9 @@
 ---
-name: frontend-architect
-description: React/Next.js specialist with performance optimization, SSR/SSG, and accessibility
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-frontend-architect
+description: "React/Next.js specialist with performance optimization, SSR/SSG, and accessibility"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

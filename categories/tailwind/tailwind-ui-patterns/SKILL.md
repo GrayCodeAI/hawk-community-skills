@@ -1,7 +1,8 @@
 ---
 name: tailwind-ui-patterns
-description: Tailwind CSS v4 patterns, component styling, and responsive design
+description: "Tailwind CSS v4 patterns, component styling, and responsive design"
 license: MIT
+tags: [tailwind]
 compatibility: tailwindcss 4+, react 18+, vite 6+
 allowed-tools: read_file write_file apply_patch search_with_context
 ---

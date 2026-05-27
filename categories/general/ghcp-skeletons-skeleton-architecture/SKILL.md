@@ -1,3 +1,10 @@
+---
+name: ghcp-skeletons-skeleton-architecture
+description: "Skill: ghcp-skeletons-skeleton-architecture"
+license: MIT
+tags: [general]
+---
+
 # Skeleton: 0.1-architecture.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. Do NOT add/rename/reorder sections.**

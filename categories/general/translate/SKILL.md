@@ -1,9 +1,10 @@
 ---
 name: translate
-description: Fabric pattern - translate
-domain: general
+description: "Fabric pattern - translate"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,5 +1,8 @@
 ---
-name: claude-code
+name: agc-claude-code
+description: "Skill: agc-claude-code"
+license: MIT
+tags: [general]
 display_name: Claude Code
 aliases: [claude-code, claudecode, cc]
 output_file: resources/outputs/claude-code.md

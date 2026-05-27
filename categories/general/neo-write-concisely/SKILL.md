@@ -1,6 +1,8 @@
 ---
-name: write-concisely
-description: Apply writing rules to any documentation that humans will read. Makes your writing clearer, stronger, and more professional.
+name: neo-write-concisely
+description: "Apply writing rules to any documentation that humans will read. Makes your writing clearer, stronger, and more professional."
+license: MIT
+tags: [general]
 ---
 
 # Writing Clearly and Concisely

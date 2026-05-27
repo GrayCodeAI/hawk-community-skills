@@ -1,3 +1,10 @@
+---
+name: ecom-multichannel-ecommerce
+description: "Skill: ecom-multichannel-ecommerce"
+license: MIT
+tags: [general]
+---
+
 # Multichannel E-Commerce Management
 
 Manage e-commerce operations across multiple marketplaces and channels. Inventory sync, order routing, listing management, and unified analytics for Amazon, Shopify, Walmart, eBay, Etsy, and TikTok Shop.

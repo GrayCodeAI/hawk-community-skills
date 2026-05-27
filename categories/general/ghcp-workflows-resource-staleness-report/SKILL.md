@@ -1,17 +1,20 @@
 ---
-description: Weekly report identifying stale and aging resources across agents, prompts, instructions, hooks, and skills folders
-on:
-  schedule: weekly
-permissions:
-  contents: read
-tools:
-  github:
-    toolsets: [repos]
-safe-outputs:
-  create-issue:
-    max: 1
-    close-older-issues: true
-  noop:
+name: ghcp-workflows-resource-staleness-report
+description: "Weekly report identifying stale and aging resources across agents, prompts, instructions, hooks, and skills folders"
+license: MIT
+tags: [general]
+True: None
+schedule: weekly
+permissions: None
+contents: read
+tools: None
+github: None
+toolsets: [repos]
+safe-outputs: None
+create-issue: None
+max: 1
+close-older-issues: True
+noop: None
 ---
 
 # Resource Staleness Report

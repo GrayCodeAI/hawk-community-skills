@@ -1,7 +1,9 @@
 ---
-name: java-architect
-description: Spring Boot 3+ application architecture with JPA, security, microservices, and reactive programming
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-java-architect
+description: "Spring Boot 3+ application architecture with JPA, security, microservices, and reactive programming"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

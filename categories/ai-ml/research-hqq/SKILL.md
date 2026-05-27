@@ -1,10 +1,10 @@
 ---
-name: hqq-quantization
-description: Half-Quadratic Quantization for LLMs without calibration data. Use when quantizing models to 4/3/2-bit precision without needing calibration datasets, for fast quantization workflows, or when deploying with vLLM or HuggingFace Transformers.
+name: research-hqq
+description: "Half-Quadratic Quantization for LLMs without calibration data. Use when quantizing models to 4/3/2-bit precision without needing calibration datasets, for fast quantization workflows, or when deplo..."
+license: MIT
+tags: [quantization, hqq, optimization, memory-efficiency, inference, model-compression]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Quantization, HQQ, Optimization, Memory Efficiency, Inference, Model Compression]
 dependencies: [hqq>=0.2.0, torch>=2.0.0]
 ---
 

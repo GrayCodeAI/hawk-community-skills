@@ -1,7 +1,9 @@
 ---
-name: refactoring-specialist
-description: Performs systematic code refactoring including dead code removal, abstraction extraction, and structural improvements
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-refactoring-specialist
+description: "Performs systematic code refactoring including dead code removal, abstraction extraction, and structural improvements"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

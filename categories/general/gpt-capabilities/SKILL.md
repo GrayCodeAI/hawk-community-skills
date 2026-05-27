@@ -1,3 +1,10 @@
+---
+name: gpt-capabilities
+description: "Skill: gpt-capabilities"
+license: MIT
+tags: [general]
+---
+
 # Manus AI Assistant Capabilities
 
 ## Overview

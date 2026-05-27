@@ -1,9 +1,10 @@
 ---
 name: clean_text
-description: Fabric pattern - clean_text
-domain: general
+description: "Fabric pattern - clean_text"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-instrumentation-auto-typescrip
+description: "Skill: ghcp-references-instrumentation-auto-typescrip"
+license: MIT
+tags: [general]
+---
+
 # Auto-Instrumentation (TypeScript)
 
 Automatically create spans for LLM calls without code changes.

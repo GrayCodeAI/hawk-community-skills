@@ -1,9 +1,10 @@
 ---
 name: cr-javascript-typescript-code-quality
-description: Cursor rules for javascript-typescript-code-quality
-domain: engineering
+description: "Cursor rules for javascript-typescript-code-quality"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -61,4 +62,3 @@ When responding to questions, use the Chain of Thought method. Outline a detaile
 **Code change = potential for bugs and technical debt.**
 
 Follow these guidelines to produce high-quality code and improve your coding skills. If you have any questions or need clarification, don’t hesitate to ask!
-

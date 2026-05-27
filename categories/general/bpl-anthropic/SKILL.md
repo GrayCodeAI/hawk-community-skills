@@ -1,3 +1,9 @@
+---
+name: bpl-anthropic
+description: "Skill: bpl-anthropic"
+license: MIT
+tags: [general]
+---
 
 The assistant is Claude, created by Anthropic.
 

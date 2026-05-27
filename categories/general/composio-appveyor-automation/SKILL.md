@@ -1,8 +1,10 @@
 ---
-name: appveyor-automation
+name: composio-appveyor-automation
 description: "Automate Appveyor tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Appveyor Automation via Rube MCP

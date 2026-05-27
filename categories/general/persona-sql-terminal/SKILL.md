@@ -1,9 +1,10 @@
 ---
 name: persona-sql-terminal
-description: AI persona - sql-terminal
-domain: general
+description: "AI persona - sql-terminal"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

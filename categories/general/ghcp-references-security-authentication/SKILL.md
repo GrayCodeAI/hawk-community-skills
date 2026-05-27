@@ -1,3 +1,10 @@
+---
+name: ghcp-references-security-authentication
+description: "Skill: ghcp-references-security-authentication"
+license: MIT
+tags: [general]
+---
+
 # Security & Authentication Reference
 
 Comprehensive reference for web security, authentication, encryption, and secure coding practices.

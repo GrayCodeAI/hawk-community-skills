@@ -1,21 +1,14 @@
 ---
-name: android-state
-description: Configure ViewModel state emission with StateFlow, sealed UiState classes, and lifecycle-safe collection in Android. Use when working with ViewModels, UiState patterns, or exposing state to Compose UI.
-metadata:
-  triggers:
-    files:
-    - '**/*ViewModel.kt'
-    - '**/*UiState.kt'
-    keywords:
-    - viewmodel
-    - stateflow
-    - livedata
-    - uistate
-    - MutableStateFlow
-    - collectAsState
-    - viewModelScope
-    - UiState
+name: std-android-state
+description: "Configure ViewModel state emission with StateFlow, sealed UiState classes, and lifecycle-safe collection in Android. Use when working with ViewModels, UiState patterns, or exposing state to Compose..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android State Management
 
 ## **Priority: P0**

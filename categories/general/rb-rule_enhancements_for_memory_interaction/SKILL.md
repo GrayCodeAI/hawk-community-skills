@@ -1,3 +1,10 @@
+---
+name: rb-rule_enhancements_for_memory_interaction
+description: "Skill: rb-rule_enhancements_for_memory_interaction"
+license: MIT
+tags: [general]
+---
+
 # Rule Enhancements for Memory Bank Interaction
 
 This document outlines suggestions for improving the AI assistant's rules to foster better, more proactive interaction with the project's memory bank files. The goal is to reduce errors caused by missed context and improve overall alignment with project requirements, architecture, and status.

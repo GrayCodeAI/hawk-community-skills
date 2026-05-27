@@ -1,3 +1,10 @@
+---
+name: gpt-madfuqnyi_catholic_saints_speak_to_a_saint_-_relig
+description: "Skill: gpt-madfuqnyi_catholic_saints_speak_to_a_saint_-_relig"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MAdfUqnYi-catholic-saints-speak-to-a-saint-religion-talks
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-fkdWjbt5gIBPlKGa0P08gOTk?se=2123-12-30T02%3A03%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D4173ae9b-ad98-4dbc-864f-531404a3a25b.png&sig=IuJqPZzoSQBCdGgSOdH6QYLQqM4837iqnH%2Bamo4w/pc%3D" width="100px" />

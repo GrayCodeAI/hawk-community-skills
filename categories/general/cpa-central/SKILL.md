@@ -1,3 +1,10 @@
+---
+name: cpa-central
+description: "Skill: cpa-central"
+license: MIT
+tags: [general]
+---
+
 # az iot central
 
 ```bash

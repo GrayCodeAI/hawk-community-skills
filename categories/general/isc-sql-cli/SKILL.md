@@ -1,59 +1,16 @@
 ---
-name: sql-cli
-description: Token-efficient MySQL/PostgreSQL operations using mycli and native CLI tools (Windows/Mac/Linux compatible). Replaces Artisan Tinker for database queries with 87% token savings.
-activation_keywords: database, sql, mysql, postgres, query, tables, schema, count rows, subscription data, user data, database structure, show tables, artisan tinker
+name: isc-sql-cli
+description: Token-efficient MySQL/PostgreSQL operations using mycli and native CLI
+  tools (Windows/Mac/Linux compatible). Replaces Artisan Tinker for database queries
+  with 87% token savings.
+license: MIT
+tags:
+- general
+activation_keywords: database, sql, mysql, postgres, query, tables, schema, count
+  rows, subscription data, user data, database structure, show tables, artisan tinker
 token_savings: 87% vs agent approach (200 vs 1,500+ tokens)
 replaces: Artisan Tinker, database-query-expert agent
 version: 1.0.0
----
-
-# SQL-CLI Skill
-
-**Purpose**: Fast, efficient database operations without agent overhead
-
-## Auto-Activation Triggers
-
-**Primary Keywords**:
-- "database", "sql", "mysql", "postgres", "query database"
-- "show tables", "count rows", "table structure"
-- "subscription data", "user data", "payment data"
-- "run query", "execute sql", "database schema"
-
-**Context-Aware Triggers**:
-- User asks to check data: "show active subscriptions"
-- User needs counts: "how many users are active"
-- User wants schema info: "what fields does users table have"
-- User mentions Artisan Tinker: automatically suggest sql-cli instead
-
-**Example Activations**:
-- "Show me all active subscriptions" → Use sql-cli skill
-- "Count users registered in last 30 days" → Use sql-cli skill
-- "What tables are in the database?" → Use sql-cli skill
-- "Describe the users table structure" → Use sql-cli skill
-
----
-
-## 🎨 **VISUAL OUTPUT FORMATTING**
-
-**CRITICAL: All sql-cli output MUST use the colored-output formatter skill!**
-
-### Use Colored-Output Skill
-
-**Every response MUST start with:**
-```bash
-bash .claude/skills/colored-output/color.sh skill-header "sql-cli" "Message here..."
-```
-
-**Example formatted output:**
-```bash
-bash .claude/skills/colored-output/color.sh skill-header "sql-cli" "Executing database query..."
-bash .claude/skills/colored-output/color.sh progress "" "Connecting to database"
-bash .claude/skills/colored-output/color.sh info "" "Found 142 rows"
-bash .claude/skills/colored-output/color.sh success "" "Query completed successfully"
-```
-
-**WHY:** Using the centralized formatter ensures consistent colors across ALL components!
-
 ---
 
 ## Replaces

@@ -1,7 +1,11 @@
 ---
-description: Applies general best practices for using HTMX with Go, focusing on server-side rendering and request handling.
-globs: **/*.go
+name: mdc-htmx-and-go---best-practices
+description: 'Skill: mdc-htmx-and-go---best-practices'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Use html/template for server-side rendering
 - Implement http.HandlerFunc for handling HTMX requests
 - Utilize gorilla/mux for routing if needed

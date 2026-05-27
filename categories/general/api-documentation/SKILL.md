@@ -1,11 +1,11 @@
 ---
 name: api-documentation
-description: Create comprehensive API documentation for developers. Use when documenting REST APIs, GraphQL schemas, or SDK methods. Handles OpenAPI/Swagger, interactive docs, examples, and API reference guides.
-metadata:
-  tags: API-documentation, OpenAPI, Swagger, REST, GraphQL, developer-docs
-  platforms: Claude, ChatGPT, Gemini
+description: "Create comprehensive API documentation for developers. Use when documenting REST APIs, GraphQL schemas, or SDK methods. Handles OpenAPI/Swagger, interactive docs, examples, and API reference guides."
+license: MIT
+tags: [api-documentation, openapi, swagger, rest, graphql, developer-docs]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # API Documentation
 

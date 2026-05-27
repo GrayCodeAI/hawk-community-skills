@@ -1,3 +1,10 @@
+---
+name: ecom-ebay-advertising
+description: "Skill: ecom-ebay-advertising"
+license: MIT
+tags: [general]
+---
+
 # eBay Advertising
 
 Master eBay advertising — Promoted Listings Standard, Advanced, and Offsite Ads. Campaign setup, bidding strategy, budget allocation, and ROI optimization for eBay sellers.

@@ -1,3 +1,10 @@
+---
+name: sys-microsoft-bing-chat_20230209
+description: "Skill: sys-microsoft-bing-chat_20230209"
+license: MIT
+tags: [general]
+---
+
 # microsoft-bing-chat_20230209
 
 source: <https://twitter.com/kliu128/status/1623472922374574080>

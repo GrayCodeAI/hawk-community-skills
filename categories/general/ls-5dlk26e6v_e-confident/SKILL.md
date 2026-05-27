@@ -1,3 +1,10 @@
+---
+name: ls-5dlk26e6v_e-confident
+description: "Skill: ls-5dlk26e6v_e-confident"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5DlK26E6v-e-confident
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xqf0fhiUpAkoq7bEcIWBxeMs?se=2123-10-19T17%3A11%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc4897b8c-d2a0-4a3d-b0d6-a815abab9940.png&sig=ODVWm6YPgu%2BYBZWVibieUOvVD7OeNqPy7DloPe9oxIg%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: General rules for Swift and SwiftUI coding style, focusing on maintainability and latest documentation.
-globs: **/*.swift
+name: mdc-swiftui-general-rules
+description: "General rules for Swift and SwiftUI coding style, focusing on maintainability and latest documentation."
+license: MIT
+tags: [mobile]
 ---
+
 - You are an expert in coding with Swift and SwiftUI.
 - Always write maintainable and clean code.
 - Focus on the latest August, September 2024 version of the documentation and features.

@@ -1,3 +1,10 @@
+---
+name: ghcp-python-pyinstaller-frozen-build
+description: "Skill: ghcp-python-pyinstaller-frozen-build"
+license: MIT
+tags: [general]
+---
+
 # Deploying Copilot SDK Apps with PyInstaller
 
 Package a Copilot SDK application into a standalone executable using PyInstaller (or Nuitka).

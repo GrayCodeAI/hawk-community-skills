@@ -1,3 +1,10 @@
+---
+name: gpt-9bzdkimqc_girlfriend_luna
+description: "Skill: gpt-9bzdkimqc_girlfriend_luna"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9bzdKiMqc-girlfriend-luna
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tCvjT36kPKQUNbq6xCbCerck?se=2123-10-18T13%3A10%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dperson2.jpg&sig=qKZsbT4nC95geSbBcBDpAs2rR2WYB09Sn87BtxqaXFQ%3D" width="100px" />

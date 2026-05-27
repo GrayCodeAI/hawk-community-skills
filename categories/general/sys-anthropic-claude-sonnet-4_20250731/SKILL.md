@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-sonnet-4_20250731
+description: "Skill: sys-anthropic-claude-sonnet-4_20250731"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-sonnet-4_20250731
 
 source: <https://platform.claude.com/docs/en/release-notes/system-prompts#claude-sonnet-4>

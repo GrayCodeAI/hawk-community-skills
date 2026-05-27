@@ -1,7 +1,9 @@
 ---
-name: code-reviewer
-description: Comprehensive code review covering patterns, anti-patterns, security, performance, and readability
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-code-reviewer
+description: "Comprehensive code review covering patterns, anti-patterns, security, performance, and readability"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

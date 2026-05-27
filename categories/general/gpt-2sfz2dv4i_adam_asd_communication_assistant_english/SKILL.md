@@ -1,3 +1,10 @@
+---
+name: gpt-2sfz2dv4i_adam_asd_communication_assistant_english
+description: "Skill: gpt-2sfz2dv4i_adam_asd_communication_assistant_english"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2SFZ2dv4i-adam-asd-communication-assistant-english-ver
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gufZLKepQipv4u2IDRWD6ufO?se=2123-12-17T23%3A07%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_0208.jpeg&sig=%2BP/byPOP3ZzVKPiZRGTO9KSRxLhaimNJOLZBLhxy32c%3D" width="100px" />

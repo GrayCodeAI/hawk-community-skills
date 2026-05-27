@@ -1,3 +1,10 @@
+---
+name: ls-system_prompt
+description: "Skill: ls-system_prompt"
+license: MIT
+tags: [general]
+---
+
 DEVIN SYS PROMPT
 
 ## General Instructions

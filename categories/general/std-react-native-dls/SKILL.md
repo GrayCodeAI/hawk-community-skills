@@ -1,20 +1,14 @@
 ---
-name: react-native-dls
-description: Enforce design token usage in React Native. Use when enforcing a design system, preventing hardcoded styles, or implementing theme tokens in React Native.
-metadata:
-  triggers:
-    files:
-    - '**/*Screen.tsx'
-    - '**/*Component.tsx'
-    - '**/theme/**'
-    - '**/styles/**'
-    keywords:
-    - StyleSheet
-    - styled-components
-    - theme
-    - colors
-    - spacing
+name: std-react-native-dls
+description: "Enforce design token usage in React Native. Use when enforcing a design system, preventing hardcoded styles, or implementing theme tokens in React Native."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Design System
 
 ## **Priority: P1 (OPERATIONAL)**

@@ -1,17 +1,14 @@
 ---
-name: nestjs-architecture
-description: Design decoupled, testable NestJS module boundaries with feature, core, and shared modules. Use when structuring module imports, creating feature modules, or enforcing separation of concerns in NestJS.
-metadata:
-  triggers:
-    files:
-    - '**/*.module.ts'
-    - 'main.ts'
-    keywords:
-    - NestFactory
-    - Module
-    - Controller
-    - Injectable
+name: std-nestjs-architecture
+description: "Design decoupled, testable NestJS module boundaries with feature, core, and shared modules. Use when structuring module imports, creating feature modules, or enforcing separation of concerns in Nes..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # NestJS Architecture Expert
 
 ## **Priority: P0 (CRITICAL)**

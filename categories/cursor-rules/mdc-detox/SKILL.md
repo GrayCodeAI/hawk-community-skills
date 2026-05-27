@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing reliable, maintainable, and performant end-to-end tests with Detox in React Native applications.
-globs: **/*.{js,jsx}
+name: mdc-detox
+description: "This guide provides definitive, opinionated best practices for writing reliable, maintainable, and performant end-to-end tests with Detox in React Native applications."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # detox Best Practices
 
 Detox is the definitive choice for E2E testing in React Native. These rules ensure your tests are fast, stable, and easy to maintain, leveraging modern JavaScript and Detox's gray-box capabilities.

@@ -1,3 +1,10 @@
+---
+name: cpa-dms
+description: "Skill: cpa-dms"
+license: MIT
+tags: [general]
+---
+
 # az dms
 
 ```bash

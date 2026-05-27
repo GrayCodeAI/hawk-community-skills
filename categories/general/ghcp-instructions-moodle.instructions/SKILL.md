@@ -1,6 +1,8 @@
 ---
-applyTo: '**/*.php, **/*.js, **/*.mustache, **/*.xml, **/*.css, **/*.scss'
-description: 'Instructions for GitHub Copilot to generate code in a Moodle project context.'
+name: ghcp-instructions-moodle.instructions
+description: "Skill: ghcp-instructions-moodle.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Project Context
@@ -54,4 +56,3 @@ It includes:
 - Clear and specific answers in the Moodle context.
 - Always include files with full paths.
 - If there are multiple ways to do something, use the approach recommended by Moodle.
-

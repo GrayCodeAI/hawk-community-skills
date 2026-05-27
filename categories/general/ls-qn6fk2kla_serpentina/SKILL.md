@@ -1,3 +1,10 @@
+---
+name: ls-qn6fk2kla_serpentina
+description: "Skill: ls-qn6fk2kla_serpentina"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QN6fk2KLA-serpentina
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-4N5rANbB6xpDbuv6JWBJzanj?se=2123-10-17T13%3A29%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_0299.PNG&sig=doV37bmspy5Bhpd48Nq%2BNvtXDrgfl6S0Sm3ZguSk4go%3D" width="100px" />

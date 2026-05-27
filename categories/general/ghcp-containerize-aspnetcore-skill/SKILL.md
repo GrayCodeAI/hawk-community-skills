@@ -1,6 +1,8 @@
 ---
-name: containerize-aspnetcore
-description: 'Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the project.'
+name: ghcp-containerize-aspnetcore-skill
+description: "Containerize an ASP.NET Core project by creating Dockerfile and .dockerfile files customized for the project."
+license: MIT
+tags: [general]
 ---
 
 # ASP.NET Core Docker Containerization Prompt

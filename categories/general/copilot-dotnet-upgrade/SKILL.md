@@ -1,6 +1,8 @@
 ---
-name: dotnet-upgrade
-description: 'Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution'
+name: copilot-dotnet-upgrade
+description: "Ready-to-use prompts for comprehensive .NET framework upgrade analysis and execution"
+license: MIT
+tags: [general]
 ---
 
 # Project Discovery & Assessment

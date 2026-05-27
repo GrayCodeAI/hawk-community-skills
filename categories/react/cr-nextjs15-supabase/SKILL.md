@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs15-supabase
-description: Cursor rules for nextjs15-supabase
-domain: engineering
+description: "Cursor rules for nextjs15-supabase"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

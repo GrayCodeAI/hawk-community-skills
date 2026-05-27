@@ -1,3 +1,10 @@
+---
+name: gpt-bt0ihrprq_rust_samurai
+description: "Skill: gpt-bt0ihrprq_rust_samurai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BT0Ihrprq-rust-samurai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-NFzt4T3oAOTwJlrVSfb0r072?se=2123-10-24T09%3A25%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DRust%2520GPT%2520logo.png&sig=XojneO1A0D6m0xUyNphMWby//d/U%2B21m9qNqzbWLggc%3D" width="100px" />

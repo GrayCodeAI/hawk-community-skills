@@ -1,3 +1,10 @@
+---
+name: cpa-workload-orchestration
+description: "Skill: cpa-workload-orchestration"
+license: MIT
+tags: [general]
+---
+
 # az workload-orchestration
 
 ```bash

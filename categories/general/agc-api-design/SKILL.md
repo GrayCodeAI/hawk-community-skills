@@ -1,3 +1,10 @@
+---
+name: agc-api-design
+description: "Skill: agc-api-design"
+license: MIT
+tags: [general]
+---
+
 # API Design Guidelines Reference
 
 Complete reference for Swift API design conventions based on official Swift.org guidelines.

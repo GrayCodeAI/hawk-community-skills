@@ -1,6 +1,8 @@
 ---
-name: agent-evaluation
-description: Evaluate and improve Claude Code commands, skills, and agents. Use when testing prompt effectiveness, validating context engineering choices, or measuring improvement quality.
+name: neo-agent-evaluation
+description: "Evaluate and improve Claude Code commands, skills, and agents. Use when testing prompt effectiveness, validating context engineering choices, or measuring improvement quality."
+license: MIT
+tags: [general]
 ---
 
 # Evaluation Methods for Claude Code Agents

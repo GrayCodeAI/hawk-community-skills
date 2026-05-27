@@ -1,3 +1,10 @@
+---
+name: gpt-pjkcfqihi_dr._emojistein
+description: "Skill: gpt-pjkcfqihi_dr._emojistein"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PjkCFqIhi-dr-emojistein
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-cXsxo1urFS0CH89U8F9QNEsc?se=2124-01-05T22%3A18%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_2117.WEBP&sig=pRfnthpA9EDD/5LXjK4HJFFCO9LTGIYy3GbPQxa6Ymw%3D" width="100px" />

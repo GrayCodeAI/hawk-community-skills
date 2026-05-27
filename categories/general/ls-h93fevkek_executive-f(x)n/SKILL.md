@@ -1,3 +1,10 @@
+---
+name: ls-h93fevkek_executive-f(x)n
+description: "Skill: ls-h93fevkek_executive-f(x)n"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H93fevKeK-executive-f-x-n
 
 GPT Title: Executive f(x)n

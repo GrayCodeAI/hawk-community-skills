@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building maintainable, performant, and type-safe Vue 3 applications using modern best practices, Composition API, and TypeScript.
-globs: **/*.{js,jsx,ts,tsx,vue}
+name: mdc-vue3
+description: "Definitive guidelines for building maintainable, performant, and type-safe Vue 3 applications using modern best practices, Composition API, and TypeScript."
+license: MIT
+tags: [vue]
 ---
+
 # Vue 3 Best Practices
 
 This guide outlines the essential rules for developing high-quality Vue 3 applications. Adhere to these standards to ensure consistency, readability, and long-term maintainability across our codebase.

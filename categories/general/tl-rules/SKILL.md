@@ -1,8 +1,11 @@
 ---
+name: tl-rules
+description: "Skill: tl-rules"
+license: MIT
+tags: [composition, context, state, typescript, dependency-injection]
 title: Define Generic Context Interfaces for Dependency Injection
 impact: HIGH
 impactDescription: enables dependency-injectable state across use-cases
-tags: composition, context, state, typescript, dependency-injection
 ---
 
 ## Define Generic Context Interfaces for Dependency Injection

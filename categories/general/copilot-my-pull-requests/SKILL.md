@@ -1,6 +1,8 @@
 ---
-name: my-pull-requests
-description: 'List my pull requests in the current repository'
+name: copilot-my-pull-requests
+description: "List my pull requests in the current repository"
+license: MIT
+tags: [general]
 ---
 
 Search the current repo (using #githubRepo for the repo info) and list any pull requests you find (using #list_pull_requests) that are assigned to me.

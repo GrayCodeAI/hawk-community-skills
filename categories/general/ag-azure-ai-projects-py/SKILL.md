@@ -1,9 +1,11 @@
 ---
-name: azure-ai-projects-py
+name: ag-azure-ai-projects-py
 description: "Build AI applications on Microsoft Foundry using the azure-ai-projects SDK."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure AI Projects Python SDK (Foundry SDK)

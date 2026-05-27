@@ -1,10 +1,12 @@
 ---
-name: ssh-penetration-testing
-description: "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security."
+name: ag-ssh-penetration-testing
+description: "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the c..."
+license: MIT
+tags: [general]
 risk: offensive
 source: community
 author: zebbern
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 > AUTHORIZED USE ONLY: Use this skill only for authorized security assessments, defensive validation, or controlled educational environments.

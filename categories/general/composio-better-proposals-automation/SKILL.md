@@ -1,8 +1,10 @@
 ---
-name: better-proposals-automation
+name: composio-better-proposals-automation
 description: "Automate Better Proposals tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Better Proposals Automation via Rube MCP

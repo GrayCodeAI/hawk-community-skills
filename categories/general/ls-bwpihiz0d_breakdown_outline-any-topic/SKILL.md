@@ -1,3 +1,10 @@
+---
+name: ls-bwpihiz0d_breakdown_outline-any-topic
+description: "Skill: ls-bwpihiz0d_breakdown_outline-any-topic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bWpihiZ0d-breakdown-outline-any-topic
 
 GPT Title: Breakdown: Outline Any Topic

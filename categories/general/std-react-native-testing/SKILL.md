@@ -1,20 +1,14 @@
 ---
-name: react-native-testing
-description: Test React Native components with Jest and React Native Testing Library. Use when writing Jest or React Native Testing Library tests for React Native components.
-metadata:
-  triggers:
-    files:
-    - '**/*.test.tsx'
-    - '**/*.spec.tsx'
-    - '__tests__/**'
-    keywords:
-    - test
-    - testing
-    - jest
-    - render
-    - fireEvent
-    - waitFor
+name: std-react-native-testing
+description: "Test React Native components with Jest and React Native Testing Library. Use when writing Jest or React Native Testing Library tests for React Native components."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Testing
 
 ## **Priority: P1 (OPERATIONAL)**

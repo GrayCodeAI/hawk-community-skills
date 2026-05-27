@@ -1,9 +1,10 @@
 ---
 name: persona-personal-finance-advisor
-description: AI persona - personal-finance-advisor
-domain: general
+description: "AI persona - personal-finance-advisor"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

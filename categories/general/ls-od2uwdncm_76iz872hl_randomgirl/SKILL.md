@@ -1,3 +1,10 @@
+---
+name: ls-od2uwdncm_76iz872hl_randomgirl
+description: "Skill: ls-od2uwdncm_76iz872hl_randomgirl"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-od2UwDNcm-randomgirl
 
 GPT Title: RandomGirl

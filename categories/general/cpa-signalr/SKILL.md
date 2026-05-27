@@ -1,3 +1,10 @@
+---
+name: cpa-signalr
+description: "Skill: cpa-signalr"
+license: MIT
+tags: [general]
+---
+
 # az signalr
 
 ```bash

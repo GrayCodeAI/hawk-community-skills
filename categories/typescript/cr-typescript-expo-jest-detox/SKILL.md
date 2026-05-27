@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-expo-jest-detox
-description: Cursor rules for typescript-expo-jest-detox
-domain: engineering
+description: "Cursor rules for typescript-expo-jest-detox"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -29,4 +30,3 @@ Key Conventions
 API Documentation
 
 Refer to Expo's documentation for detailed information on Views, Blueprints, and Extensions for best practices.
-

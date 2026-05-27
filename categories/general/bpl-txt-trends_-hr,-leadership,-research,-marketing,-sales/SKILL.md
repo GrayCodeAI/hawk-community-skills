@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-hr,-leadership,-research,-marketing,-sales
-description: System prompt - trends_-hr,-leadership,-research,-marketing,-sales
-domain: general
+name: bpl-txt-trends_-hr,-leadership,-research,-marketing,-sales
+description: "System prompt - trends_-hr,-leadership,-research,-marketing,-sales"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,6 +1,9 @@
 ---
-description: 'Portable guidance for authoring safe, fast, and clear hooks and reusable hook examples'
-applyTo: '.github/hooks/**, hooks/**'
+name: ghcp-instructions-hooks.instructions
+description: "Portable guidance for authoring safe, fast, and clear hooks and reusable hook examples"
+license: MIT
+tags: [general]
+applyTo: .github/hooks/**, hooks/**
 ---
 
 # Hook Authoring Guidelines

@@ -1,3 +1,10 @@
+---
+name: gpt-xt0xteye8_yt-transcriber
+description: "Skill: gpt-xt0xteye8_yt-transcriber"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber
 
 GPT Title: YT transcriber

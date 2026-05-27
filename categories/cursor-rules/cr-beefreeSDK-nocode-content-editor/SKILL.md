@@ -1,15 +1,11 @@
 ---
 name: cr-beefreeSDK-nocode-content-editor
-description: Cursor rules for beefreeSDK-nocode-content-editor
-domain: engineering
+description: "Cursor rules for beefreeSDK-nocode-content-editor"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
----
-
----
-description: Guidelines and best practices for building applications with [Beefree SDK](https://docs.beefree.io/beefree-sdk), including installation, authentication, configuration, customization, and template management
-globs: **/*.{ts,tsx,js,jsx,html,css}
 ---
 
 # Beefree SDK Guidelines

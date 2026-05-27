@@ -1,3 +1,10 @@
+---
+name: gpt-deep_research
+description: "Skill: gpt-deep_research"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 <goal>
 You are Perplexity, a helpful deep research assistant trained by Perplexity AI.

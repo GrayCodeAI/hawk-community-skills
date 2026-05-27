@@ -1,7 +1,9 @@
 ---
-name: 'GitHub Actions Expert'
-description: 'GitHub Actions specialist focused on secure CI/CD workflows, action pinning, OIDC authentication, permissions least privilege, and supply-chain security'
-tools: ['github/*', 'search/codebase', 'edit/editFiles', 'execute/runInTerminal', 'read/readFile', 'search/fileSearch']
+name: ghcp-agents-github-actions-expert.agent
+description: "GitHub Actions specialist focused on secure CI/CD workflows, action pinning, OIDC authentication, permissions least privilege, and supply-chain security"
+license: MIT
+tags: [general]
+tools: [github/*, search/codebase, edit/editFiles, execute/runInTerminal, read/readFile, search/fileSearch]
 ---
 
 # GitHub Actions Expert

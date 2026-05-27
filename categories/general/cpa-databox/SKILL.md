@@ -1,3 +1,10 @@
+---
+name: cpa-databox
+description: "Skill: cpa-databox"
+license: MIT
+tags: [general]
+---
+
 # az databox
 
 ```bash

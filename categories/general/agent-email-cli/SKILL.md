@@ -1,6 +1,8 @@
 ---
 name: agent-email-cli
-description: Operate the agent-email CLI to create disposable inboxes, poll for new mail, retrieve full message details, and manage local mailbox profiles. Use when the user needs terminal-based email inbox access for LLM or agent automation workflows.
+description: "Operate the agent-email CLI to create disposable inboxes, poll for new mail, retrieve full message details, and manage local mailbox profiles. Use when the user needs terminal-based email inbox acc..."
+license: MIT
+tags: [general]
 ---
 
 # Agent Email CLI

@@ -1,6 +1,8 @@
 ---
-description: UI improvements for the text-to-image generation app
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-05-ui-improvements
+description: "UI improvements for the text-to-image generation app"
+license: MIT
+tags: [general]
 ---
 
 # Enhance the User Interface with ShadCN and Tailwind

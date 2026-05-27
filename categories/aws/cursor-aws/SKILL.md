@@ -1,16 +1,11 @@
 ---
 name: cursor-aws
-description: Cursor IDE rules for aws
-domain: engineering
+description: "Cursor IDE rules for aws"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "AWS: well-architected patterns, IAM, serverless"
-globs: ["*.tf", "*.ts", "*.yaml"]
-alwaysApply: true
 ---
 
 # AWS Cursor Rules

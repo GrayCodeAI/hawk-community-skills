@@ -1,9 +1,10 @@
 ---
 name: create_user_story
-description: Fabric pattern - create_user_story
-domain: general
+description: "Fabric pattern - create_user_story"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

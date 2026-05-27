@@ -1,8 +1,10 @@
 ---
-name: fireberry-automation
+name: composio-fireberry-automation
 description: "Automate Fireberry tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Fireberry Automation via Rube MCP

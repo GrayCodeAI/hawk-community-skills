@@ -1,8 +1,10 @@
 ---
-name: fitbit-automation
+name: composio-fitbit-automation
 description: "Automate Fitbit tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Fitbit Automation via Rube MCP

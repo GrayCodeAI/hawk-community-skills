@@ -1,9 +1,11 @@
 ---
-name: database-optimizer
-description: Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
+name: ag-database-optimizer
+description: "Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

@@ -1,3 +1,10 @@
+---
+name: ecom-dynamic-pricing-ecommerce
+description: "Skill: ecom-dynamic-pricing-ecommerce"
+license: MIT
+tags: [general]
+---
+
 # Dynamic Pricing for E-Commerce
 
 Implement dynamic pricing strategies for e-commerce businesses. Demand-based pricing, competitor-responsive repricing, time-based adjustments, and algorithmic pricing models.

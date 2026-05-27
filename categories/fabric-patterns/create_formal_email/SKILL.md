@@ -1,9 +1,10 @@
 ---
 name: create_formal_email
-description: Fabric pattern - create_formal_email
-domain: general
+description: "Fabric pattern - create_formal_email"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -60,4 +61,4 @@ Your task is to assist in writing or responding to emails by understanding the c
 
 **# INPUT:**
 
-INPUT: 
+INPUT:

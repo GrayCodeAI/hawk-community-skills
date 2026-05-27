@@ -1,3 +1,10 @@
+---
+name: gpt-hobbfg8u1_aboutme
+description: "Skill: gpt-hobbfg8u1_aboutme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hOBBFG8U1-aboutme
 
 GPT Title: AboutMe

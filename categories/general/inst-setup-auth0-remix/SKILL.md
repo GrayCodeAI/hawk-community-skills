@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Remix apps with Auth0 Auth
-globs: **/*.ts, **/*.tsx
+name: inst-setup-auth0-remix
+description: "Guidelines for writing Remix apps with Auth0 Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Remix app with Auth0 Auth
@@ -212,4 +214,4 @@ When implementing Auth0 Auth for Remix, you MUST:
 2. Implement proper error handling
 3. Follow Remix loader/action patterns
 4. Configure secure session storage
-5. Handle environment variables properly 
+5. Handle environment variables properly

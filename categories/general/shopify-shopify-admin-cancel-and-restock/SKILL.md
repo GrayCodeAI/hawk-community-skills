@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-cancel-and-restock
-role: fulfillment-ops
+name: shopify-shopify-admin-cancel-and-restock
 description: "Cancel an unfulfilled order, optionally restock inventory, and optionally notify the customer — all in a single validated workflow."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - order:query
-  - orderCancel:mutation
+api_version: 2025-01
+graphql_operations: [{'order': 'query'}, {'orderCancel': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

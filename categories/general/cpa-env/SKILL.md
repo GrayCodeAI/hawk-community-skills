@@ -1,3 +1,10 @@
+---
+name: cpa-env
+description: "Skill: cpa-env"
+license: MIT
+tags: [general]
+---
+
 # az containerapp env
 
 ```bash

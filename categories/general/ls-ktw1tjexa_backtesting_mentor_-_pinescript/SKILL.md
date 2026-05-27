@@ -1,3 +1,10 @@
+---
+name: ls-ktw1tjexa_backtesting_mentor_-_pinescript
+description: "Skill: ls-ktw1tjexa_backtesting_mentor_-_pinescript"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ktw1TjExA-backtesting-mentor-pinescript
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1UZeZT6nwvmF2pYViaRL3EGg?se=2124-01-11T15%3A48%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-27%252008.50.27%2520-%2520Create%2520a%2520minimalist%2520image%2520representing%2520the%2520theme%2520%2527Test%2520and%2520Optimize%2527%252C%2520focusing%2520on%2520lab%2520equipment%2520for%2520testing%2520and%2520a%2520gear%2520for%2520optimization.%2520Use%2520the%2520color.png&sig=oCkO/OjauHfhHgJvLBJdhANIjmwjg7jbBlvfnI9HlM8%3D" width="100px" />

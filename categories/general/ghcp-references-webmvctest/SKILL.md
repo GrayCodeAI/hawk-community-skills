@@ -1,3 +1,10 @@
+---
+name: ghcp-references-webmvctest
+description: "Skill: ghcp-references-webmvctest"
+license: MIT
+tags: [general]
+---
+
 # @WebMvcTest
 
 Testing Spring MVC controllers with focused slice tests.

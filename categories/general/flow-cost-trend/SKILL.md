@@ -1,7 +1,9 @@
 ---
-name: cost-trend
-description: Read every docs/benchmarks/runs/*.json and surface drift in win rate, latency, escalation rate, and LLM-baseline cost over time
-argument-hint: ""
+name: flow-cost-trend
+description: "Read every docs/benchmarks/runs/*.json and surface drift in win rate, latency, escalation rate, and LLM-baseline cost over time"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Specifies NestJS-specific architectural principles, modular design, and testing practices within the 'src' directory.
-globs: src/**/*.*
+name: mdc-nestjs-general-guidelines
+description: "Specifies NestJS-specific architectural principles, modular design, and testing practices within the 'src' directory."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use modular architecture
 - Encapsulate the API in modules.
   - One module per main domain/route.

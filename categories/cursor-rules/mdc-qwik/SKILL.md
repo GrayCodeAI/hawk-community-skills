@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for building high-performance, resumable Qwik applications, focusing on maximizing lazy loading and ensuring optimal developer experience.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-qwik
+description: "This guide outlines definitive best practices for building high-performance, resumable Qwik applications, focusing on maximizing lazy loading and ensuring optimal developer experience."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # qwik Best Practices
 
 Qwik is an edge-first framework built on **resumability**, not hydration. This means your application's JavaScript is only loaded and executed when absolutely necessary, leading to instant Time-To-Interactive (TTI). Our guidelines prioritize this core principle.

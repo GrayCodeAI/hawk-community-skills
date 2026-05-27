@@ -1,9 +1,10 @@
 ---
 name: extract_ethical_framework
-description: Fabric pattern - extract_ethical_framework
-domain: general
+description: "Fabric pattern - extract_ethical_framework"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

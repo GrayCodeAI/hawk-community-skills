@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-datasets-python
+description: "Skill: ghcp-references-experiments-datasets-python"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Datasets in Python
 
 Creating and managing evaluation datasets.

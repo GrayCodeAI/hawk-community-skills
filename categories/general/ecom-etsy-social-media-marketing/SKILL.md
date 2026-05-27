@@ -1,9 +1,11 @@
 ---
-name: etsy-social-media-marketing
+name: ecom-etsy-social-media-marketing
 description: "Social media marketing for Etsy — Pinterest, Instagram, TikTok strategies to drive shop traffic"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Social Media Marketing

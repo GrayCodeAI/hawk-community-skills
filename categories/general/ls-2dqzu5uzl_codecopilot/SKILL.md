@@ -1,3 +1,10 @@
+---
+name: ls-2dqzu5uzl_codecopilot
+description: "Skill: ls-2dqzu5uzl_codecopilot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2DQzU5UZl-codecopilot
 
 GPT Title: GPT Code Copilot

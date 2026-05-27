@@ -1,5 +1,8 @@
 ---
-description: Interactive wizard to design an SLO with SLI, target, error budget, and burn-rate alerts
+name: arezv-slo-design
+description: "Interactive wizard to design an SLO with SLI, target, error budget, and burn-rate alerts"
+license: MIT
+tags: [general]
 ---
 
 # /slo-design

@@ -1,9 +1,11 @@
 ---
-name: context-management-context-save
+name: ag-context-management-context-save
 description: "Use when working with context management context save"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Context Save Tool: Intelligent Context Management Specialist

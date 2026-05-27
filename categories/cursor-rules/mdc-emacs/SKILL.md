@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing clean, maintainable, and performant Emacs Lisp code and configurations, emphasizing modern best practices, robust organization, and effective tooling.
-globs: **/*
+name: mdc-emacs
+description: "Definitive guidelines for writing clean, maintainable, and performant Emacs Lisp code and configurations, emphasizing modern best practices, robust organization, and effective tooling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # emacs Best Practices
 
 This guide outlines the definitive best practices for Emacs Lisp development and configuration. Adhere to these rules to ensure your code is maintainable, performant, and integrates seamlessly with the Emacs ecosystem.

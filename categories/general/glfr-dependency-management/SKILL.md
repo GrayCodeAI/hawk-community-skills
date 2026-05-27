@@ -1,3 +1,10 @@
+---
+name: glfr-dependency-management
+description: "Skill: glfr-dependency-management"
+license: MIT
+tags: [general]
+---
+
 # Dependency Management
 
 ## Version Pinning

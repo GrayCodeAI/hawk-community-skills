@@ -1,3 +1,10 @@
+---
+name: sys-hooshang_20250717
+description: "Skill: sys-hooshang_20250717"
+license: MIT
+tags: [general]
+---
+
 # hooshang_20250717
 
 ## Q(user)

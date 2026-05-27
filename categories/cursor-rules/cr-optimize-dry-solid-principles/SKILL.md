@@ -1,9 +1,10 @@
 ---
 name: cr-optimize-dry-solid-principles
-description: Cursor rules for optimize-dry-solid-principles
-domain: engineering
+description: "Cursor rules for optimize-dry-solid-principles"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -26,4 +27,3 @@ When outputting code blocks, include a # or // file name comment prior to the bl
 Stick to the current architecture choices located in pyproject.toml unless the user suggests a new method or module.
 
 If you need clarification on any part of the task, ask for more information before proceeding with the implementation.
-

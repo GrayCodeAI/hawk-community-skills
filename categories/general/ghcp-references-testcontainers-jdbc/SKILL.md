@@ -1,3 +1,10 @@
+---
+name: ghcp-references-testcontainers-jdbc
+description: "Skill: ghcp-references-testcontainers-jdbc"
+license: MIT
+tags: [general]
+---
+
 # Testcontainers JDBC
 
 Testing JPA repositories with real databases using Testcontainers.

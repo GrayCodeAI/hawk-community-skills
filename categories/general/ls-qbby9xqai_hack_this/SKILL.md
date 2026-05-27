@@ -1,3 +1,10 @@
+---
+name: ls-qbby9xqai_hack_this
+description: "Skill: ls-qbby9xqai_hack_this"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qbbY9xQai-hack-this
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oqp9Gk7IbHW1mUNMoeaiIwoA?se=2123-11-17T09%3A08%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Def748a2b-db39-4cf8-9c03-a4914abfaf51.png&sig=s1IVsbsjtX7ErfaldLcQ%2B/jpG9LcPFmybOiSu5neut4%3D" width="100px" />

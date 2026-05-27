@@ -1,7 +1,9 @@
 ---
-description: Apply Tailwind utilities when styling to keep layouts simple and uniform
-globs: src/**/*.{tsx,css}
-alwaysApply: false
+name: blef-2002-tailwindcss
+description: "Apply Tailwind utilities when styling to keep layouts simple and uniform"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Tailwind CSS Rules

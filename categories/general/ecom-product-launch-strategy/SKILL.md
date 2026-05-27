@@ -1,10 +1,12 @@
 ---
-name: product-launch-strategy
-description: "Plan and execute e-commerce product launches. Pre-launch, launch day, and post-launch playbooks for Amazon, Shopify, and multi-channel sellers. Covers inventory, pricing, advertising, and review strategy."
-metadata:
-  nexscope:
-    emoji: "🚀"
-    category: ecommerce
+name: ecom-product-launch-strategy
+description: "Plan and execute e-commerce product launches. Pre-launch, launch day, and post-launch playbooks for Amazon, Shopify, and multi-channel sellers. Covers inventory, pricing, advertising, and review st..."
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🚀
+category: ecommerce
 ---
 
 # Product Launch Strategy 🚀

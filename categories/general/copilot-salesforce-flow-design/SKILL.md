@@ -1,6 +1,8 @@
 ---
-name: salesforce-flow-design
-description: 'Salesforce Flow architecture decisions, flow type selection, bulk safety validation, and fault handling standards. Use this skill when designing or reviewing Record-Triggered, Screen, Autolaunched, Scheduled, or Platform Event flows to ensure correct type selection, no DML/Get Records in loops, proper fault connectors on all data-changing elements, and appropriate automation density checks before deployment.'
+name: copilot-salesforce-flow-design
+description: "Salesforce Flow architecture decisions, flow type selection, bulk safety validation, and fault handling standards. Use this skill when designing or reviewing Record-Triggered, Screen, Autolaunched,..."
+license: MIT
+tags: [general]
 ---
 
 # Salesforce Flow Design and Validation

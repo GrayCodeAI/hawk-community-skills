@@ -1,3 +1,10 @@
+---
+name: gpt-rrmi8gao0_matplotlib_assistant
+description: "Skill: gpt-rrmi8gao0_matplotlib_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Rrmi8GAo0-matplotlib-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5Al9oMRfUWzh2M1ppMOY9TMM?se=2123-10-21T20%3A15%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1200px-Matplotlib_icon.png&sig=yeIiXsAiQ3C4I%2BznWDIZAUosq4D8bLZvGnzTV7eU3SI%3D" width="100px" />

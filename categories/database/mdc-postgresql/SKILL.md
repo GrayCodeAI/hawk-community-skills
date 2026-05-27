@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for writing clean, performant, and maintainable PostgreSQL SQL, focusing on modern conventions and avoiding common pitfalls.
-globs: **/*
+name: mdc-postgresql
+description: "This guide defines the definitive best practices for writing clean, performant, and maintainable PostgreSQL SQL, focusing on modern conventions and avoiding common pitfalls."
+license: MIT
+tags: [database]
 ---
+
 # PostgreSQL Best Practices
 
 This document outlines the mandatory best practices for all PostgreSQL SQL development. Adherence ensures consistency, readability, performance, and maintainability across our codebase.

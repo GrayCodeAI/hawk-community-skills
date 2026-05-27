@@ -1,3 +1,10 @@
+---
+name: sys-xai-grok_20240307
+description: "Skill: sys-xai-grok_20240307"
+license: MIT
+tags: [general]
+---
+
 # xAI-grok_20240307
 
 source: <https://twitter.com/somewheresy/status/1765779220981031266>

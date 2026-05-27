@@ -1,8 +1,10 @@
 ---
-name: google-cloud-vision-automation
+name: composio-google-cloud-vision-automation
 description: "Automate Google Cloud Vision tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Google Cloud Vision Automation via Rube MCP

@@ -1,7 +1,10 @@
 ---
-description: This rule enforces Next.js App Router best practices in the 'app' directory.
-globs: app/**/*.*
+name: mdc-next-js-app-router-best-practices
+description: "This rule enforces Next.js App Router best practices in the 'app' directory."
+license: MIT
+tags: [react]
 ---
+
 - Use server components by default
 - Implement client components only when necessary
 - Utilize the new file-based routing system

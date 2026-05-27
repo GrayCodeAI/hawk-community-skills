@@ -1,23 +1,14 @@
 ---
-name: ios-performance
-description: Profile and optimize iOS apps with Instruments, memory management, and rendering techniques. Use when profiling iOS apps with Instruments or optimizing memory and rendering.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - Instruments
-    - Allocations
-    - Leaks
-    - dequeueReusableCell
-    - ios performance
-    - swift performance
-    - optimize ios
-    - time profiler
-    - frame drops
-    - main thread
-    - slow scroll
+name: std-ios-performance
+description: "Profile and optimize iOS apps with Instruments, memory management, and rendering techniques. Use when profiling iOS apps with Instruments or optimizing memory and rendering."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Performance
 
 ## **Priority: P0**

@@ -1,5 +1,9 @@
 ---
-description: Specifies the use of createEffect for handling side effects in SolidJS components.
-globs: src/components/**/*.jsx
+name: mdc-solidjs---side-effects-handling
+description: 'Skill: mdc-solidjs---side-effects-handling'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Utilize createEffect() for side effects.

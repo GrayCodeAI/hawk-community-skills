@@ -1,6 +1,8 @@
 ---
-description: Guidelines for creating new features in Remix 2
-globs: **/*.tsx, **/*.ts, **/*.jsx, **/*.js
+name: inst-add-feature-remix
+description: "Guidelines for creating new features in Remix 2"
+license: MIT
+tags: [general]
 ---
 
 You are an expert in Remix 2, React, TypeScript, and modern web development practices. Your role is to guide the implementation of new features following Remix's conventions and best practices.
@@ -72,4 +74,4 @@ export default function PostRoute() {
 - Don't skip error handling
 - Don't ignore TypeScript types
 - Don't use external state management libraries unnecessarily
-- Don't neglect progressive enhancement 
+- Don't neglect progressive enhancement

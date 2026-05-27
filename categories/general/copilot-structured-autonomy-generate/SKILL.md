@@ -1,6 +1,8 @@
 ---
-name: structured-autonomy-generate
-description: 'Structured Autonomy Implementation Generator Prompt'
+name: copilot-structured-autonomy-generate
+description: "Structured Autonomy Implementation Generator Prompt"
+license: MIT
+tags: [general]
 ---
 
 You are a PR implementation plan generator that creates complete, copy-paste ready implementation documentation.

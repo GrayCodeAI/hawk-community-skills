@@ -1,12 +1,13 @@
 ---
-name: "prompt-engineer-toolkit"
-description: "Analyzes and rewrites prompts for better AI output, creates reusable prompt templates for marketing use cases (ad copy, email campaigns, social media), and structures end-to-end AI content workflows. Use when the user wants to improve prompts for AI-assisted marketing, build prompt templates, or optimize AI content workflows. Also use when the user mentions 'prompt engineering,' 'improve my prompts,' 'AI writing quality,' 'prompt templates,' or 'AI content workflow.'"
+name: arezv-prompt-engineer-toolkit
+description: "Analyzes and rewrites prompts for better AI output, creates reusable prompt templates for marketing use cases (ad copy, email campaigns, social media), and structures end-to-end AI content workflow..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: marketing
-  updated: 2026-03-06
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: marketing
+updated: 2026-03-06
 ---
 
 # Prompt Engineer Toolkit

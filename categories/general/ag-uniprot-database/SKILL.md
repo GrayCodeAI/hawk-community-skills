@@ -1,9 +1,10 @@
 ---
-name: uniprot-database
-description: Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.
+name: ag-uniprot-database
+description: "Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ servi..."
 license: Unknown
-metadata:
-    skill-author: K-Dense Inc.
+tags: [general]
+metadata: None
+skill-author: K-Dense Inc.
 risk: safe
 source: community
 ---

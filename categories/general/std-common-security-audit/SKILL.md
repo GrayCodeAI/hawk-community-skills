@@ -1,21 +1,14 @@
 ---
-name: common-security-audit
-description: Probe for hardcoded secrets, injection surfaces, unguarded routes, and infrastructure weaknesses across Node, Go, Dart, Java, Python, and Rust codebases. Use when performing security audits, vulnerability scans, secrets detection, or penetration testing.
-metadata:
-  triggers:
-    files:
-    - 'package.json'
-    - 'go.mod'
-    - 'pubspec.yaml'
-    - 'pom.xml'
-    keywords:
-    - Dockerfile
-    - security audit
-    - vulnerability scan
-    - secrets detection
-    - injection probe
-    - pentest
+name: std-common-security-audit
+description: "Probe for hardcoded secrets, injection surfaces, unguarded routes, and infrastructure weaknesses across Node, Go, Dart, Java, Python, and Rust codebases. Use when performing security audits, vulner..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Security Audit
 
 ## **Priority: P0 (CRITICAL)**

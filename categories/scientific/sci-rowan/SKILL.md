@@ -1,11 +1,12 @@
 ---
-name: rowan
-description: Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API. Use for pKa and macropKa prediction, conformer and tautomer ensembles, docking and analogue docking, protein-ligand cofolding, MSA generation, molecular dynamics, permeability, descriptor workflows, and related small-molecule or protein modeling tasks. Ideal for programmatic batch screening, multi-step chemistry pipelines, and workflows that would otherwise require maintaining local HPC/GPU infrastructure.
+name: sci-rowan
+description: "Rowan is a cloud-native molecular modeling and medicinal-chemistry workflow platform with a Python API. Use for pKa and macropKa prediction, conformer and tautomer ensembles, docking and analogue d..."
 license: Proprietary (API key required)
+tags: [scientific]
 compatibility: Python 3.12+, API key required
-metadata:
-  skill-author: Rowan Science
-  trigger-keywords: ["pKa prediction", "molecular docking", "conformer search", "chemistry workflow", "drug discovery", "SMILES", "protein structure", "batch molecular modeling", "cloud chemistry"]
+metadata: None
+skill-author: Rowan Science
+trigger-keywords: [pKa prediction, molecular docking, conformer search, chemistry workflow, drug discovery, SMILES, protein structure, batch molecular modeling, cloud chemistry]
 ---
 
 # Rowan: Cloud-Native Molecular-Modeling and Drug-Design Workflows

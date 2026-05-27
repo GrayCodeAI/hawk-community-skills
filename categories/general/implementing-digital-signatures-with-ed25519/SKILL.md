@@ -1,13 +1,14 @@
 ---
 name: implementing-digital-signatures-with-ed25519
-description: Ed25519 is a high-performance digital signature algorithm using the Edwards curve Curve25519. It provides 128-bit security with 64-byte signatures and 32-byte keys, offering significant advantages ove
+description: "Ed25519 is a high-performance digital signature algorithm using the Edwards curve Curve25519. It provides 128-bit security with 64-byte signatures and 32-byte keys, offering significant advantages ove"
+license: MIT
+tags: [cryptography, digital-signatures, ed25519, authentication, integrity]
 domain: cybersecurity
 subdomain: cryptography
-tags: [cryptography, digital-signatures, ed25519, authentication, integrity]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Digital Signatures with Ed25519
 
 ## Overview

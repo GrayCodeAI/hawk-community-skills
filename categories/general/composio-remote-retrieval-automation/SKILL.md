@@ -1,8 +1,10 @@
 ---
-name: remote-retrieval-automation
+name: composio-remote-retrieval-automation
 description: "Automate Remote Retrieval tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Remote Retrieval Automation via Rube MCP

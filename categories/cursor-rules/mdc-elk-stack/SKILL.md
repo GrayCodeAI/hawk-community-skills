@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for emitting, structuring, and managing logs within the ELK stack, ensuring robust observability and efficient troubleshooting.
-globs: **/*
+name: mdc-elk-stack
+description: "Definitive guidelines for emitting, structuring, and managing logs within the ELK stack, ensuring robust observability and efficient troubleshooting."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # elk-stack Best Practices
 
 The ELK (Elasticsearch-Logstash-Kibana) stack is our standard for centralized logging and observability. Adhering to these guidelines ensures our logs are consistent, actionable, and efficient, enabling rapid troubleshooting and deep insights.

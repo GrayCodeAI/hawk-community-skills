@@ -1,9 +1,11 @@
 ---
-name: fabric-lakehouse
-description: 'Use this skill to get context about Fabric Lakehouse and its features for software systems and AI-powered functions. It offers descriptions of Lakehouse data components, organization with schemas and shortcuts, access control, and code examples. This skill supports users in designing, building, and optimizing Lakehouse solutions using best practices.'
-metadata:
-  author: tedvilutis
-  version: "1.0"
+name: copilot-fabric-lakehouse
+description: "Use this skill to get context about Fabric Lakehouse and its features for software systems and AI-powered functions. It offers descriptions of Lakehouse data components, organization with schemas a..."
+license: MIT
+tags: [general]
+metadata: None
+author: tedvilutis
+version: 1.0
 ---
 
 # When to Use This Skill
@@ -103,4 +105,3 @@ See [PySpark code](references/pyspark.md) for details.
 ## Getting data into Lakehouse
 
 See [Get data](references/getdata.md) for details.
-

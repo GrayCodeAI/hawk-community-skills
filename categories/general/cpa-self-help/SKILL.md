@@ -1,3 +1,10 @@
+---
+name: cpa-self-help
+description: "Skill: cpa-self-help"
+license: MIT
+tags: [general]
+---
+
 # az self-help
 
 ```bash

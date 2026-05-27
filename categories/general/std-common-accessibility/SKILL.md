@@ -1,23 +1,14 @@
 ---
-name: common-accessibility
-description: Enforce WCAG 2.2 AA compliance with semantic HTML, ARIA roles, keyboard navigation, and color contrast standards for web UIs. Use when building interactive components, adding form labels, fixing focus traps, or auditing a11y compliance.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.jsx'
-    - '**/*.html'
-    - '**/*.vue'
-    - '**/*.component.html'
-    keywords:
-    - accessibility
-    - a11y
-    - wcag
-    - aria
-    - screen reader
-    - focus
-    - alt text
+name: std-common-accessibility
+description: "Enforce WCAG 2.2 AA compliance with semantic HTML, ARIA roles, keyboard navigation, and color contrast standards for web UIs. Use when building interactive components, adding form labels, fixing fo..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Common Accessibility (a11y) Standards
 
 ## **Priority: P1 (OPERATIONAL)**

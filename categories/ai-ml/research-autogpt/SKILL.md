@@ -1,10 +1,10 @@
 ---
-name: autogpt-agents
-description: Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, deploying persistent autonomous agents, or building complex multi-step AI automation systems.
+name: research-autogpt
+description: "Autonomous AI agent platform for building and deploying continuous agents. Use when creating visual workflow agents, deploying persistent autonomous agents, or building complex multi-step AI automa..."
+license: MIT
+tags: [agents, autogpt, autonomous-agents, workflow-automation, visual-builder, ai-platform]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Agents, AutoGPT, Autonomous Agents, Workflow Automation, Visual Builder, AI Platform]
 dependencies: [autogpt-platform>=0.4.0]
 ---
 

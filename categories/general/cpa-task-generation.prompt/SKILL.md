@@ -1,6 +1,9 @@
 ---
+name: cpa-task-generation.prompt
+description: "Convert a PRD into actionable development tasks with clear dependencies"
+license: MIT
+tags: [general]
 mode: agent
-description: Convert a PRD into actionable development tasks with clear dependencies
 ---
 
 # Task Generation Prompt

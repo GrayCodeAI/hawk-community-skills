@@ -1,3 +1,10 @@
+---
+name: gpt-hbn0pjmra_jamesdashnergpt
+description: "Skill: gpt-hbn0pjmra_jamesdashnergpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hbn0PJmRA-jamesdashnergpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-59vmYr7Eht04zy0fs4zPnjov?se=2124-01-07T03%3A06%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D125b0d6b-7a0a-46d2-a646-5ae6853b5238.png&sig=ERzLJm3YuA2Ny0yqN4U7QcgAjWhOKkLGHG92HlzUSyU%3D" width="100px" />

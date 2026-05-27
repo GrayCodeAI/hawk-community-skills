@@ -1,3 +1,10 @@
+---
+name: gpt-esche39cx_transcribe_master
+description: "Skill: gpt-esche39cx_transcribe_master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ESchE39Cx-transcribe-master
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-w0N084WQ0VgD7J1k8zqB3AhY?se=2123-12-12T07%3A33%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DTranscribe%2520Master%2520logo.png&sig=ZlS9kypv7ztIELPogOfJoVgsqIdzc/MSY5rCd4Z4uU0%3D" width="100px" />

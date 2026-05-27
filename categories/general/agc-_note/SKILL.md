@@ -1,3 +1,10 @@
+---
+name: agc-_note
+description: "Skill: agc-_note"
+license: MIT
+tags: [general]
+---
+
 Note for this skill, if my PR to Excalidraw's MCP server gets merged (https://github.com/excalidraw/excalidraw-mcp/pull/32) the SKILL.md will need one line updated.
 
 Line 106 currently says:

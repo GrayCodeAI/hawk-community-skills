@@ -1,3 +1,10 @@
+---
+name: ghcp-references-cli-commands
+description: "Skill: ghcp-references-cli-commands"
+license: MIT
+tags: [general]
+---
+
 # CodeQL CLI Command Reference
 
 Detailed reference for the CodeQL CLI — installation, database creation, analysis, SARIF upload, and CI integration.

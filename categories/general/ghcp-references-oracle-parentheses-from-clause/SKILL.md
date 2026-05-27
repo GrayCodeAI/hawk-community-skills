@@ -1,3 +1,10 @@
+---
+name: ghcp-references-oracle-parentheses-from-clause
+description: "Skill: ghcp-references-oracle-parentheses-from-clause"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL: Parentheses in FROM Clause
 
 ## Contents

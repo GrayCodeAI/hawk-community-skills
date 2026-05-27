@@ -1,9 +1,10 @@
 ---
 name: cr-react-tanstack-router-query
-description: Cursor rules for react-tanstack-router-query
-domain: engineering
+description: "Cursor rules for react-tanstack-router-query"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,12 +1,12 @@
 ---
-name: bpl-flipper-zero-app
-description: System prompt - flipper-zero-app
-domain: general
+name: bpl-txt-flipper-zero-app
+description: "System prompt - flipper-zero-app"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 - Intro
 In this tutorial, you will be creating a simple program that moves a small box around the screen, giving you the building blocks to create your own plugins down the line.
@@ -470,6 +470,3 @@ App(
 )
 
 and with that, we are ready to compile and flash!
-
-
-

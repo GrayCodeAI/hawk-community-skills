@@ -1,7 +1,9 @@
 ---
-name: legacy-modernizer
-description: Plans and executes legacy codebase migrations with incremental strategies and risk mitigation
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-legacy-modernizer
+description: "Plans and executes legacy codebase migrations with incremental strategies and risk mitigation"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

@@ -1,16 +1,11 @@
 ---
 name: cursor-tauri
-description: Cursor IDE rules for tauri
-domain: engineering
+description: "Cursor IDE rules for tauri"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Tauri: commands, events, Rust backend patterns"
-globs: ["*.rs", "*.ts", "*.tsx", "*.svelte", "*.vue"]
-alwaysApply: true
 ---
 
 # Tauri Cursor Rules

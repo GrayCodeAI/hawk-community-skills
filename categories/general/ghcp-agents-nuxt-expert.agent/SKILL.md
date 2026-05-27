@@ -1,8 +1,10 @@
 ---
-description: 'Expert Nuxt developer specializing in Nuxt 3, Nitro, server routes, data fetching strategies, and performance optimization with Vue 3 and TypeScript'
-name: 'Expert Nuxt Developer'
-model: 'Claude Sonnet 4.5'
-tools: ["changes", "codebase", "edit/editFiles", "extensions", "fetch", "githubRepo", "new", "openSimpleBrowser", "problems", "runCommands", "runTasks", "search", "searchResults", "terminalLastCommand", "terminalSelection", "testFailure", "usages", "vscodeAPI"]
+name: ghcp-agents-nuxt-expert.agent
+description: "Expert Nuxt developer specializing in Nuxt 3, Nitro, server routes, data fetching strategies, and performance optimization with Vue 3 and TypeScript"
+license: MIT
+tags: [general]
+model: Claude Sonnet 4.5
+tools: [changes, codebase, edit/editFiles, extensions, fetch, githubRepo, new, openSimpleBrowser, problems, runCommands, runTasks, search, searchResults, terminalLastCommand, terminalSelection, testFailure, usages, vscodeAPI]
 ---
 
 # Expert Nuxt Developer

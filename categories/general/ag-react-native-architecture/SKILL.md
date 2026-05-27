@@ -1,9 +1,11 @@
 ---
-name: react-native-architecture
+name: ag-react-native-architecture
 description: "Production-ready patterns for React Native development with Expo, including navigation, state management, native modules, and offline-first architecture."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # React Native Architecture

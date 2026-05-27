@@ -1,3 +1,10 @@
+---
+name: glfr-database
+description: "Skill: glfr-database"
+license: MIT
+tags: [general]
+---
+
 # Database
 
 ## Query Patterns

@@ -1,6 +1,8 @@
 ---
-name: judge-with-debate
-description: Evaluate solutions through multi-round debate between independent judges until consensus
+name: neo-judge-with-debate
+description: "Evaluate solutions through multi-round debate between independent judges until consensus"
+license: MIT
+tags: [general]
 argument-hint: Solution path(s) and evaluation criteria
 ---
 

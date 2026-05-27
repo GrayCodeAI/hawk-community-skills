@@ -1,7 +1,8 @@
 ---
-
-name: Senior Cloud Architect
-description: Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation
+name: ghcp-agents-arch.agent
+description: "Expert in modern architecture design patterns, NFR requirements, and creating comprehensive architectural diagrams and documentation"
+license: MIT
+tags: [general]
 ---
 
 # Senior Cloud Architect Agent

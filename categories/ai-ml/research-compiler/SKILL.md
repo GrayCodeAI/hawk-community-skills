@@ -1,10 +1,10 @@
 ---
-name: ara-compiler
-description: Compiles any research input — PDF papers, GitHub repositories, experiment logs, code directories, or raw notes — into a complete Agent-Native Research Artifact (ARA) with cognitive layer (claims, concepts, heuristics), physical layer (configs, code stubs), exploration graph, and grounded evidence. Use when ingesting a paper or codebase into a structured, machine-executable knowledge package, building an ARA from scratch, or converting research outputs into a falsifiable, agent-traversable form.
+name: research-compiler
+description: "Compiles any research input — PDF papers, GitHub repositories, experiment logs, code directories, or raw notes — into a complete Agent-Native Research Artifact (ARA) with cognitive layer (claims, c..."
+license: MIT
+tags: [ara, research-artifacts, knowledge-extraction, paper-ingestion, exploration-graph, provenance, research-tooling, epistemic-compilation]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [ARA, Research Artifacts, Knowledge Extraction, Paper Ingestion, Exploration Graph, Provenance, Research Tooling, Epistemic Compilation]
 dependencies: []
 ---
 

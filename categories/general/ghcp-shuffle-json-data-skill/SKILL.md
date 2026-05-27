@@ -1,6 +1,8 @@
 ---
-name: shuffle-json-data
-description: 'Shuffle repetitive JSON objects safely by validating schema consistency before randomising entries.'
+name: ghcp-shuffle-json-data-skill
+description: "Shuffle repetitive JSON objects safely by validating schema consistency before randomising entries."
+license: MIT
+tags: [general]
 ---
 
 # Shuffle JSON Data

@@ -1,12 +1,12 @@
 ---
 name: detecting-process-hollowing-technique
-description: Detect process hollowing (T1055.012) by analyzing memory-mapped sections, hollowed process indicators, and parent-child process anomalies in EDR telemetry.
+description: "Detect process hollowing (T1055.012) by analyzing memory-mapped sections, hollowed process indicators, and parent-child process anomalies in EDR telemetry."
+license: MIT
+tags: [threat-hunting, mitre-attack, process-hollowing, process-injection, edr, t1055, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, process-hollowing, process-injection, edr, t1055, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Process Hollowing Technique

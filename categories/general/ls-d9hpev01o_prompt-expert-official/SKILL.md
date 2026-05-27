@@ -1,3 +1,10 @@
+---
+name: ls-d9hpev01o_prompt-expert-official
+description: "Skill: ls-d9hpev01o_prompt-expert-official"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-d9HpEv01O-prompt-expert-official
 
 GPT Title: Prompt Expert Official

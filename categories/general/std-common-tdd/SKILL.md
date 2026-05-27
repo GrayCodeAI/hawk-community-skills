@@ -1,23 +1,14 @@
 ---
-name: common-tdd
-description: 'Implements a strict Red-Green-Refactor loop to ensure zero production code is written without a prior failing test. Use when: creating new features, fixing bugs, or expanding test coverage.'
-metadata:
-  triggers:
-    files:
-    - '**/*.test.ts'
-    - '**/*.spec.ts'
-    - '**/*_test.go'
-    - '**/*Test.java'
-    - '**/*_test.dart'
-    - '**/*_spec.rb'
-    keywords:
-    - tdd
-    - unit test
-    - write test
-    - red green refactor
-    - failing test
-    - test coverage
+name: std-common-tdd
+description: "Implements a strict Red-Green-Refactor loop to ensure zero production code is written without a prior failing test. Use when: creating new features, fixing bugs, or expanding test coverage."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Test-Driven Development (TDD) Standard
 
 ## **Priority: P0 — Iron Law**

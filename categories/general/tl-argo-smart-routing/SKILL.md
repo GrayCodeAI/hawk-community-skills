@@ -1,3 +1,10 @@
+---
+name: tl-argo-smart-routing
+description: "Skill: tl-argo-smart-routing"
+license: MIT
+tags: [general]
+---
+
 ## Best Practices Summary
 
 **Smart Shield Note:** Argo Smart Routing evolving into Smart Shield. Best practices below remain applicable; monitor Cloudflare changelog for Smart Shield updates.

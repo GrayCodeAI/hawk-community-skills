@@ -1,3 +1,10 @@
+---
+name: gpt-e0ykqlz8u_epic_image_amplifier
+description: "Skill: gpt-e0ykqlz8u_epic_image_amplifier"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-E0yKQlZ8u-epic-image-amplifier
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dxmshvhDqfIPZKHH3ILaFeUG?se=2124-01-18T20%3A18%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DApp%2520Icon%2520Edited.png&sig=PaIGnc3pXL8soXP85i98rwrVjIHMkTqjpyJquE2NiLo%3D" width="100px" />

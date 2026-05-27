@@ -1,3 +1,10 @@
+---
+name: ls-9pkhaweyb_mr.-ranedeer[2.7]
+description: "Skill: ls-9pkhaweyb_mr.-ranedeer[2.7]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer
 
 GPT Title: Mr. Ranedeer

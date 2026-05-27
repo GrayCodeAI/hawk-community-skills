@@ -1,3 +1,10 @@
+---
+name: gpt-lvbtv5osn_music_muse
+description: "Skill: gpt-lvbtv5osn_music_muse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lvBtV5OSN-music-muse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-q1ZSv4mldd9XApZC8VWUsTpp?se=2123-10-20T15%3A04%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7f58df1-ae84-4ebe-b0a6-f6e6c8d2040d.png&sig=Ls9YKuNGeB/IfQa8MQVnVJWph6nM63M8dlBmj50Wk3c%3D" width="100px" />

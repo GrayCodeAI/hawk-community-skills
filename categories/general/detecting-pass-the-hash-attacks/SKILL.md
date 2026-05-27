@@ -1,12 +1,12 @@
 ---
 name: detecting-pass-the-hash-attacks
-description: Detect Pass-the-Hash attacks by analyzing NTLM authentication patterns, identifying Type 3 logons with NTLM where Kerberos is expected, and correlating with credential dumping.
+description: "Detect Pass-the-Hash attacks by analyzing NTLM authentication patterns, identifying Type 3 logons with NTLM where Kerberos is expected, and correlating with credential dumping."
+license: MIT
+tags: [threat-hunting, mitre-attack, pass-the-hash, credential-access, t1550, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, pass-the-hash, credential-access, t1550, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Pass The Hash Attacks

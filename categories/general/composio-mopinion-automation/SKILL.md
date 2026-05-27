@@ -1,8 +1,10 @@
 ---
-name: mopinion-automation
+name: composio-mopinion-automation
 description: "Automate Mopinion tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mopinion Automation via Rube MCP

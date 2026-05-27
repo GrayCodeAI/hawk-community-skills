@@ -1,25 +1,10 @@
 ---
-name: kotlin-language
-description: Write idiomatic Kotlin 1.9+ with null safety, sealed classes, and expression syntax. Use when working with Kotlin null safety, data classes, sealed interfaces, extension functions, or migrating Java code to Kotlin.
-metadata:
-  triggers:
-    files:
-    - '**/*.kt'
-    - '**/*.kts'
-    keywords:
-    - val
-    - var
-    - "?."
-    - "?:"
-    - "!!"
-    - data class
-    - sealed
-    - when
-    - extension
-    - lazy
-    - lateinit
-    - object
+name: std-kotlin-language
+description: "Skill: std-kotlin-language"
+license: MIT
+tags: [general]
 ---
+
 # Kotlin Language Patterns
 
 ## **Priority: P0 (CRITICAL)**

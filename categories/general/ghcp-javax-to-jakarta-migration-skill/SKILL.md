@@ -1,7 +1,9 @@
 ---
-name: javax-to-jakarta-migration
+name: ghcp-javax-to-jakarta-migration-skill
 description: "Migrate Java code from javax.* to jakarta.* namespace. Use when upgrading to Tomcat 11, Jakarta EE 10, or when javax imports are detected in the codebase."
-argument-hint: "File, package, or module to migrate"
+license: MIT
+tags: [general]
+argument-hint: File, package, or module to migrate
 ---
 
 # javax → jakarta Migration Skill

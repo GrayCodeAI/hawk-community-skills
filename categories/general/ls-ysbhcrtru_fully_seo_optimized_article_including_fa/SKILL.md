@@ -1,3 +1,10 @@
+---
+name: ls-ysbhcrtru_fully_seo_optimized_article_including_fa
+description: "Skill: ls-ysbhcrtru_fully_seo_optimized_article_including_fa"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ySbhcRtru-fully-seo-optimized-article-including-faq-s
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9FJw9NckvXfmBgxuhJQBTok7?se=2123-10-26T10%3A42%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f1cb97d-65f2-4da2-9f15-7ccaed91260d.png&sig=%2BGRlPVIKfj/KCzzuBEdkwnVyDVK8w/gRaVscTrY9xOk%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-ld6ohsby7_sec_cyber_disclosure_advisor
+description: "Skill: ls-ld6ohsby7_sec_cyber_disclosure_advisor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ld6OHsby7-sec-cyber-disclosure-advisor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-91783ZhGRCLyfzRK83LSOtcJ?se=2124-01-20T14%3A35%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dad66bbbb-2855-43ca-9291-07d121fa5261.png&sig=t2XJKGpwn/Y7p/7SvKV5Wg3xubQMjbRkFRujspcb7v8%3D" width="100px" />

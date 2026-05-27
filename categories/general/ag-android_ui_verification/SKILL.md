@@ -1,9 +1,11 @@
 ---
-name: android_ui_verification
-description: Automated end-to-end UI testing and verification on an Android Emulator using ADB.
+name: ag-android_ui_verification
+description: "Automated end-to-end UI testing and verification on an Android Emulator using ADB."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-28"
+date_added: 2026-02-28
 ---
 
 # Android UI Verification Skill

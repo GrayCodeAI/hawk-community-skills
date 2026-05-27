@@ -1,31 +1,8 @@
 ---
-name: agent-raft-manager
-description: Agent skill for raft-manager - invoke with $agent-raft-manager
----
-
----
-name: raft-manager
-type: coordinator
-color: "#2196F3"
-description: Manages Raft consensus algorithm with leader election and log replication
-capabilities:
-  - leader_election
-  - log_replication
-  - follower_management
-  - membership_changes
-  - consistency_verification
-priority: high
-hooks:
-  pre: |
-    echo "🗳️  Raft Manager starting: $TASK"
-    # Check cluster health before operations
-    if [[ "$TASK" == *"election"* ]]; then
-      echo "🎯 Preparing leader election process"
-    fi
-  post: |
-    echo "📝 Raft operation complete"
-    # Verify log consistency
-    echo "🔍 Validating log replication and consistency"
+name: flow-agent-raft-manager
+description: "Agent skill for raft-manager - invoke with $agent-raft-manager"
+license: MIT
+tags: [general]
 ---
 
 # Raft Consensus Manager

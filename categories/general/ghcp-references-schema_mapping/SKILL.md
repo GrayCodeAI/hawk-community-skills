@@ -1,3 +1,10 @@
+---
+name: ghcp-references-schema_mapping
+description: "Skill: ghcp-references-schema_mapping"
+license: MIT
+tags: [general]
+---
+
 # Schema Type Mapping (Step 5b)
 
 If the project has a schema validation layer, you need to understand what each field accepts before writing boundary tests. Common validation layers by language: Pydantic models (Python), JSON Schema (any), TypeScript interfaces/Zod schemas (TypeScript), Bean Validation annotations (Java), case class codecs/Circe decoders (Scala), serde attributes (Rust). Without this mapping, you'll write mutations that the schema rejects before they reach the code you're trying to test — producing validation errors instead of meaningful boundary tests.

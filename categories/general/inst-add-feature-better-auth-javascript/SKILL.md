@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding features to vanilla JavaScript apps with Better Auth Authentication
-globs: "**/*.html, **/*.js"
+name: inst-add-feature-better-auth-javascript
+description: "Guidelines for adding features to vanilla JavaScript apps with Better Auth Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features to Vanilla JavaScript App with Better Auth Authentication
@@ -337,4 +339,4 @@ async function checkPermission(permission) {
 12. Use Better Auth's built-in social login providers
 13. Implement proper MFA flows when required
 14. Use proper security headers in your application
-15. Implement proper session handling and token refresh logic 
+15. Implement proper session handling and token refresh logic

@@ -1,6 +1,8 @@
 ---
-name: commit
-description: ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task.
+name: ag-commit
+description: "ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trig..."
+license: MIT
+tags: [general]
 risk: critical
 source: community
 ---

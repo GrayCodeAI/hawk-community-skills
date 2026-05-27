@@ -1,3 +1,10 @@
+---
+name: cpa-data-boundary
+description: "Skill: cpa-data-boundary"
+license: MIT
+tags: [general]
+---
+
 # az data-boundary
 
 ```bash

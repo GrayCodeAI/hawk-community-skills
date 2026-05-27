@@ -1,8 +1,10 @@
 ---
-name: ngrok-automation
+name: composio-ngrok-automation
 description: "Automate Ngrok tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ngrok Automation via Rube MCP

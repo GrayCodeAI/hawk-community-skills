@@ -1,9 +1,10 @@
 ---
 name: fix_typos
-description: Fabric pattern - fix_typos
-domain: general
+description: "Fabric pattern - fix_typos"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

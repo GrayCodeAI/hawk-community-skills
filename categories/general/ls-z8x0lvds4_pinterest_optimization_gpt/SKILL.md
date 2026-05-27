@@ -1,3 +1,10 @@
+---
+name: ls-z8x0lvds4_pinterest_optimization_gpt
+description: "Skill: ls-z8x0lvds4_pinterest_optimization_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Z8x0lVds4-pinterest-optimization-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Yxw4X6SsWpYxvEuYg54IeaSI?se=2124-01-11T02%3A57%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D079c0fbc-8419-4594-b8ec-c9d787ec2a10.png&sig=yqL7webfIxuH16LWRvW%2BOHMb9NH9q4rwvgdO05FZRVs%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-zfq1k76cv_iterative_coding
+description: "Skill: gpt-zfq1k76cv_iterative_coding"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZfQ1k76Cv-iterative-coding
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YFFZgp3kvvmRbF5zkTMRqUgv?se=2124-01-17T19%3A37%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-10%252012.29.49%2520-%2520Create%2520a%2520flat%252C%2520icon-style%2520profile%2520picture%2520that%2520depicts%2520the%2520concept%2520of%2520rotating%2520or%2520flipping%252C%2520focusing%2520on%2520an%2520AI%2520software%2520engineer%2520theme.%2520Use%2520shades%2520of%2520b.webp&sig=ipyDqCR4G8Zq4swLDuT%2BtfUUg3gxThRbqEqC9PZlr0s%3D" width="100px" />

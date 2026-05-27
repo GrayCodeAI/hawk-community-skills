@@ -1,7 +1,10 @@
 ---
-description: Provides guidelines for using Svelte 5 runes ($state, $derived, $effect, $props, $bindable, $inspect) for reactive state management and lifecycle events.
-globs: **/*.svelte
+name: mdc-svelte-runes-usage
+description: "Provides guidelines for using Svelte 5 runes ($state, $derived, $effect, $props, $bindable, $inspect) for reactive state management and lifecycle events."
+license: MIT
+tags: [svelte]
 ---
+
 - `$state`: Declare reactive state
   typescript
   let count = $state(0);

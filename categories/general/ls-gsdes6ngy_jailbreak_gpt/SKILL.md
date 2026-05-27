@@ -1,3 +1,10 @@
+---
+name: ls-gsdes6ngy_jailbreak_gpt
+description: "Skill: ls-gsdes6ngy_jailbreak_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GsdEs6ngy-jailbreak-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5uATz1QM10oa1nmj8Gdh8yo5?se=2123-12-25T16%3A32%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D%25E4%25B8%258B%25E8%25BD%25BD%2520%25283%2529.png&sig=xNrx2l/Vyu/uIfmXPzorGTHuvmQsEaZRuwRbwDxNvsU%3D" width="100px" />

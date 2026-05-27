@@ -1,3 +1,10 @@
+---
+name: ls-heyiuku3a_ai_girlfriend
+description: "Skill: ls-heyiuku3a_ai_girlfriend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HEYIuKu3A-ai-girlfriend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8Gw2tC5OO3KN3b5X1Cj2qYxm?se=2123-10-21T13%3A29%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D39a1b225-e1e4-436b-a335-15007b86d37a.webp&sig=svoUmtJ7K3TEHTeGb57MhK0AW1m8sCFq/M623S/839s%3D" width="100px" />

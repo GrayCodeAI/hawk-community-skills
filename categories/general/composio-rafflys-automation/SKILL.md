@@ -1,8 +1,10 @@
 ---
-name: rafflys-automation
+name: composio-rafflys-automation
 description: "Automate Rafflys tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Rafflys Automation via Rube MCP

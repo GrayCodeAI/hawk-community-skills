@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for configuring and using flake8 to enforce Python code quality, style, and catch common errors.
-globs: **/*.py
+name: mdc-flake8
+description: "This guide provides definitive, actionable best practices for configuring and using flake8 to enforce Python code quality, style, and catch common errors."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # flake8 Best Practices
 
 `flake8` is your essential Python linter, combining `pycodestyle`, `pyflakes`, and `mccabe` complexity checks with a powerful plugin ecosystem. It ensures your codebase adheres to PEP 8, catches common bugs, and maintains high quality. This guide outlines the definitive approach to using `flake8` effectively.

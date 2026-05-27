@@ -1,12 +1,12 @@
 ---
 name: containing-active-security-breach
-description: Rapidly contain an active security breach by isolating compromised systems, blocking attacker communications, and preserving evidence while minimizing business disruption.
+description: "Rapidly contain an active security breach by isolating compromised systems, blocking attacker communications, and preserving evidence while minimizing business disruption."
+license: MIT
+tags: [incident-response, containment, breach-response, network-isolation, dfir]
 domain: cybersecurity
 subdomain: incident-response
-tags: [incident-response, containment, breach-response, network-isolation, dfir]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Containing an Active Security Breach

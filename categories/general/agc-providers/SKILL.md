@@ -1,3 +1,10 @@
+---
+name: agc-providers
+description: "Skill: agc-providers"
+license: MIT
+tags: [general]
+---
+
 # Diagrams Providers and Node Categories
 
 All nodes are imported as `from diagrams.<provider>.<category> import <Node>`.

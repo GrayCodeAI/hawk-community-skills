@@ -1,16 +1,14 @@
 ---
-name: testcafe-skill
-description: >
-  Generates TestCafe automation tests in JavaScript or TypeScript. Supports local
-  and TestMu AI cloud. Triggers on: "TestCafe", "test cafe", "fixture/test".
-languages:
-  - JavaScript
-  - TypeScript
-category: e2e-testing
+name: lt-testcafe-skill
+description: "Skill: lt-testcafe-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+and TestMu AI cloud. Triggers on: TestCafe", "test cafe", "fixture/test".
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # TestCafe Automation Skill

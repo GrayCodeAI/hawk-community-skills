@@ -1,3 +1,10 @@
+---
+name: cpa-resource-mover
+description: "Skill: cpa-resource-mover"
+license: MIT
+tags: [general]
+---
+
 # az resource-mover
 
 ```bash

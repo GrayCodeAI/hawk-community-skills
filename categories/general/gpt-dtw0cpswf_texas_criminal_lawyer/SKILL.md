@@ -1,3 +1,10 @@
+---
+name: gpt-dtw0cpswf_texas_criminal_lawyer
+description: "Skill: gpt-dtw0cpswf_texas_criminal_lawyer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Dtw0CPsWF-texas-criminal-lawyer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SprF35SJq4Onp1jiUhEyWSoT?se=2123-11-19T06%3A18%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D3d15005e-b0e4-4172-8641-5af8719a07f3.png&sig=OcL7vgnT9nyM3hPk3H2/BbkHpMTLeUtmG2mRfgHjy68%3D" width="100px" />

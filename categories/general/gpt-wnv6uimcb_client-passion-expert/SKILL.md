@@ -1,3 +1,10 @@
+---
+name: gpt-wnv6uimcb_client-passion-expert
+description: "Skill: gpt-wnv6uimcb_client-passion-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wNV6uiMcB-compassionate-companion/
 
 GPT Title: Client Passion Expert

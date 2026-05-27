@@ -1,3 +1,10 @@
+---
+name: gpt-z1dphbrzh_cognitive_bias_detector
+description: "Skill: gpt-z1dphbrzh_cognitive_bias_detector"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Z1dPHBRzh-cognitive-bias-detector
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-eFR6pnVcag52Zqwlf6ruxYg2?se=2123-10-21T01%3A01%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0cd6f8f2-98a2-4f84-a827-bbbb18e8aa98.png&sig=%2BEzm2qJj8rDrVtADGLiRDZCwAGm4S3uYIoS9bWxiyV8%3D" width="100px" />

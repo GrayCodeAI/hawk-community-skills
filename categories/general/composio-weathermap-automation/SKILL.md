@@ -1,8 +1,10 @@
 ---
-name: weathermap-automation
+name: composio-weathermap-automation
 description: "Automate Weathermap tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Weathermap Automation via Rube MCP

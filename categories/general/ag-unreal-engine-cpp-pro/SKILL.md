@@ -1,9 +1,11 @@
 ---
-name: unreal-engine-cpp-pro
+name: ag-unreal-engine-cpp-pro
 description: "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices."
+license: MIT
+tags: [general]
 risk: safe
 source: self
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Unreal Engine C++ Pro

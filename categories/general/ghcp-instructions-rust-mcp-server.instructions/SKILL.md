@@ -1,6 +1,8 @@
 ---
-description: 'Best practices for building Model Context Protocol servers in Rust using the official rmcp SDK with async/await patterns'
-applyTo: '**/*.rs'
+name: ghcp-instructions-rust-mcp-server.instructions
+description: "Skill: ghcp-instructions-rust-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Rust MCP Server Development Best Practices

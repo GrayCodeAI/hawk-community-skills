@@ -1,9 +1,10 @@
 ---
 name: cr-alpha-skills-quant-factor-research
-description: Cursor rules for alpha-skills-quant-factor-research
-domain: engineering
+description: "Cursor rules for alpha-skills-quant-factor-research"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

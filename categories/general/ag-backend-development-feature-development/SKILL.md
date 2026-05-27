@@ -1,9 +1,11 @@
 ---
-name: backend-development-feature-development
+name: ag-backend-development-feature-development
 description: "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 Orchestrate end-to-end feature development from requirements to production deployment:

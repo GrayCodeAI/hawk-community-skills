@@ -1,8 +1,11 @@
 ---
-description: 
-globs: *.vue
-alwaysApply: false
+name: extra-vue
+description: "Skill: extra-vue"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
+
 # Vue 开发规范
 
 ## 组件命名

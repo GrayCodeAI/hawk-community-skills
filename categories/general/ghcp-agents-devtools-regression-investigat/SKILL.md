@@ -1,8 +1,10 @@
 ---
-name: 'DevTools Regression Investigator'
-description: 'Browser regression specialist for reproducing broken user flows, collecting console and network evidence, and narrowing likely root causes with Chrome DevTools MCP.'
+name: ghcp-agents-devtools-regression-investigat
+description: "Browser regression specialist for reproducing broken user flows, collecting console and network evidence, and narrowing likely root causes with Chrome DevTools MCP."
+license: MIT
+tags: [general]
 model: GPT-5
-tools: ['codebase', 'search', 'fetch', 'findTestFiles', 'problems', 'runCommands', 'runTasks', 'runTests', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'openSimpleBrowser']
+tools: [codebase, search, fetch, findTestFiles, problems, runCommands, runTasks, runTests, terminalLastCommand, terminalSelection, testFailure, openSimpleBrowser]
 ---
 
 # DevTools Regression Investigator

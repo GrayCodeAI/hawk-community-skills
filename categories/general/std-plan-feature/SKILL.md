@@ -1,12 +1,13 @@
 ---
-name: plan-feature
+name: std-plan-feature
 description: "Interactive workflow to plan a new feature from scratch, from Interview to Task List."
-metadata:
-  triggers:
-    keywords:
-    - plan feature
-    - workflow
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Plan Feature Skill
 
 > [!IMPORTANT]
@@ -62,4 +63,3 @@ Once the plan and tasks are ready, hand over to the implementation workflow.
 
 **Instruction**:
 "The planning phase is complete. Now run `/implement-feature docs/specs/prd-[feature_name].md` to begin the technical implementation phase."
-

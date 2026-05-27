@@ -1,5 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts"
+name: lira-file-system.instructions
+description: "Skill: lira-file-system.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Paths, Files and File System operations security guidelines

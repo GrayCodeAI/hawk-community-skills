@@ -1,3 +1,10 @@
+---
+name: gpt-sdtfivcco_can_you_figure_out_my_prompt_1_easy_to_b
+description: "Skill: gpt-sdtfivcco_can_you_figure_out_my_prompt_1_easy_to_b"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sdtFivCcO-can-you-figure-out-my-prompt-1-easy-to-break
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-450z5UgSaCcaZWADWpENmebH?se=2123-11-19T05%3A27%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1e285360-d032-470f-8cb4-50238231ac8e.png&sig=sjpePiTtYeSuYpgtwt82P48eqd0asSoulGj6Euyyiww%3D" width="100px" />

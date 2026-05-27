@@ -1,3 +1,10 @@
+---
+name: ls-n0xnddn5g_fort_knox
+description: "Skill: ls-n0xnddn5g_fort_knox"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-N0XNDdN5G-fort-knox
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9iK4LCUEw8QCvfLIvCvSQLM4?se=2123-10-23T01%3A11%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Drobot-768x960.jpg&sig=YTAO5b%2BCq8UxaJM57hhIujZEHYpJvOF/yIVzrgbDK4A%3D" width="100px" />

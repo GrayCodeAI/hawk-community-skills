@@ -1,16 +1,11 @@
 ---
 name: cursor-zustand
-description: Cursor IDE rules for zustand
-domain: engineering
+description: "Cursor IDE rules for zustand"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Zustand: store patterns, selectors, middleware, persist"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Zustand Cursor Rules

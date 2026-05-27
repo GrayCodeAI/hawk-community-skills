@@ -1,3 +1,10 @@
+---
+name: gpt-476kmatpz_gpt_architect
+description: "Skill: gpt-476kmatpz_gpt_architect"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-476KmATpZ-gpt-architect
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RqL1Bx77VnhsmM2huVhSsa5i?se=2123-10-20T17%3A44%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0a2ccc75-587d-4ef2-8079-ae765bb6fb94.png&sig=jIvVob7yB6pra7T%2Bf/D%2BQleXgqawkc%2BUwGX128RyXYA%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: mboum-automation
+name: composio-mboum-automation
 description: "Automate Mboum tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mboum Automation via Rube MCP

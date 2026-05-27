@@ -1,6 +1,8 @@
 ---
-name: java-refactoring-remove-parameter
-description: 'Refactoring using Remove Parameter in Java Language'
+name: ghcp-java-refactoring-remove-parameter-skill
+description: "Refactoring using Remove Parameter in Java Language"
+license: MIT
+tags: [general]
 ---
 
 # Refactoring Java Methods with Remove Parameter

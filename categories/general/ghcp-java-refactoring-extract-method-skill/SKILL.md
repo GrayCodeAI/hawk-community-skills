@@ -1,6 +1,8 @@
 ---
-name: java-refactoring-extract-method
-description: 'Refactoring using Extract Methods in Java Language'
+name: ghcp-java-refactoring-extract-method-skill
+description: "Refactoring using Extract Methods in Java Language"
+license: MIT
+tags: [general]
 ---
 
 # Refactoring Java Methods with Extract Method

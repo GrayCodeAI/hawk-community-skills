@@ -1,9 +1,12 @@
 ---
-name: doc-gen
-description: Generate and maintain documentation with drift detection
-argument-hint: "[--target PATH]"
+name: flow-doc-gen
+description: "Generate and maintain documentation with drift detection"
+license: MIT
+tags: [general]
+argument-hint: [--target PATH]
 allowed-tools: Bash(npx *) mcp__claude-flow__hooks_worker-dispatch mcp__claude-flow__memory_store CronCreate Read Write
 ---
+
 Generate docs via MCP worker dispatch:
 `mcp__claude-flow__hooks_worker-dispatch({ trigger: "document" })`
 

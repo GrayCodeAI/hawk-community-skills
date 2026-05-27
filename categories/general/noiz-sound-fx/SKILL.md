@@ -1,10 +1,10 @@
 ---
-name: sound-fx
-description: "Use this skill whenever the user wants to generate sound effects, ambient audio, or short audio clips from a text description. Triggers include: any mention of 'sound effect', 'sfx', 'generate sound', 'make a sound', 'audio effect', 'ambient sound', 'foley', 'sound clip', 'noise', or requests to produce a specific sound (e.g. 'make a gunshot sound', 'generate thunder', 'create the sound of rain'). Also use when the user describes an action or scenario and wants the corresponding audio (e.g. 'someone getting spanked', 'a door slamming', 'cartoon boing'). Do NOT use for speech synthesis, music generation with melody/lyrics, or voice cloning."
-permissions:
-  - network
-  - filesystem
-metadata: {"openclaw": {"primaryEnv": "NOIZ_API_KEY"}}
+name: noiz-sound-fx
+description: "Use this skill whenever the user wants to generate sound effects, ambient audio, or short audio clips from a text description. Triggers include: any mention of 'sound effect', 'sfx', 'generate soun..."
+license: MIT
+tags: [general]
+permissions: None
+metadata: {'openclaw': {'primaryEnv': 'NOIZ_API_KEY'}}
 ---
 
 # sound-fx

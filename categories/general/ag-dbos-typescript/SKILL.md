@@ -1,9 +1,11 @@
 ---
-name: dbos-typescript
-description: "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control."
+name: ag-dbos-typescript
+description: "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for ..."
+license: MIT
+tags: [general]
 risk: safe
-source: "https://docs.dbos.dev/"
-date_added: "2026-02-27"
+source: https://docs.dbos.dev/
+date_added: 2026-02-27
 ---
 
 # DBOS TypeScript Best Practices

@@ -1,3 +1,10 @@
+---
+name: rb-product_requirement_docs
+description: "Skill: rb-product_requirement_docs"
+license: MIT
+tags: [general]
+---
+
 # Product Requirement Document (PRD)
 
 ## Motive:

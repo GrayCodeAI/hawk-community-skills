@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Clerk in SvelteKit
-globs: **/*.svelte, **/*.ts, **/*.js
+name: inst-add-feature-clerk-svelte
+description: "Guidelines for adding new features with Clerk in SvelteKit"
+license: MIT
+tags: [general]
 ---
 
 You are a senior SvelteKit developer with expertise in Clerk authentication integration.
@@ -176,4 +178,4 @@ export const clerkOptions = {
 - Use lazy loading for auth components. Example:
 ```typescript
 const UserProfile = import('../components/UserProfile.svelte')
-``` 
+```

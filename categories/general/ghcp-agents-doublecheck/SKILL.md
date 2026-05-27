@@ -1,9 +1,9 @@
 ---
-description: 'Interactive verification agent for AI-generated output. Runs a three-layer pipeline (self-audit, source verification, adversarial review) and produces structured reports with source links for human review.'
-name: Doublecheck
-tools:
-  - web_search
-  - web_fetch
+name: ghcp-agents-doublecheck
+description: "Interactive verification agent for AI-generated output. Runs a three-layer pipeline (self-audit, source verification, adversarial review) and produces structured reports with source links for human..."
+license: MIT
+tags: [general]
+tools: None
 ---
 
 # Doublecheck Agent

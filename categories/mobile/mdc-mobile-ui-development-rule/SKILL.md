@@ -1,7 +1,10 @@
 ---
-description: General rules pertaining to Mobile UI development. Covers UI/UX best practices, state management, and navigation patterns.
-globs: **/mobile/**/*.*
+name: mdc-mobile-ui-development-rule
+description: "General rules pertaining to Mobile UI development. Covers UI/UX best practices, state management, and navigation patterns."
+license: MIT
+tags: [mobile]
 ---
+
 - You are an expert in Mobile UI development.
 - Focus on UI and styling best practices.
 - Implement Navigation patterns effectively.

@@ -1,6 +1,8 @@
 ---
-description: 'Scala 2.12/2.13 programming language coding conventions and best practices following Databricks style guide for functional programming, type safety, and production code quality.'
-applyTo: '**/*.scala, **/build.sbt, **/build.sc'
+name: ghcp-instructions-scala2.instructions
+description: "Skill: ghcp-instructions-scala2.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Scala Best Practices

@@ -1,14 +1,14 @@
 ---
-name: skill-check
+name: ag-skill-check
 description: "Validate Claude Code skills against the agentskills specification. Catches structural, semantic, and naming issues before users do."
+license: MIT
+tags: [validation, linter, agentskills, skill-authoring, code-quality]
 category: development
 risk: safe
 source: https://github.com/olgasafonova/SkillCheck-Free
-date_added: "2026-03-11"
+date_added: 2026-03-11
 author: olgasafonova
-tags: [validation, linter, agentskills, skill-authoring, code-quality]
 tools: [claude, cursor, windsurf, codex-cli]
-license: MIT
 allowed-tools: Read Glob
 compatibility: claude-code
 ---

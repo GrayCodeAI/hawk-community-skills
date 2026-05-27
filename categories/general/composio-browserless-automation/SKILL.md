@@ -1,8 +1,10 @@
 ---
-name: browserless-automation
+name: composio-browserless-automation
 description: "Automate Browserless tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Browserless Automation via Rube MCP

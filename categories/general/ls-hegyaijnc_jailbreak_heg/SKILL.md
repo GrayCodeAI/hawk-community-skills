@@ -1,3 +1,10 @@
+---
+name: ls-hegyaijnc_jailbreak_heg
+description: "Skill: ls-hegyaijnc_jailbreak_heg"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HEGyaIJNC-jailbreak
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RIKPM7v0ibEn9WvCD2UqS4nO?se=2123-10-20T17%3A35%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9a588c7b-9f97-472c-bf9f-787f40189dfc.png&sig=b4V1trLiVZ1iEZxgtKjthTnR5dwTRgrE90agAcqml84%3D" width="100px" />

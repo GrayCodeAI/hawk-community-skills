@@ -1,9 +1,10 @@
 ---
 name: analyze_risk
-description: Fabric pattern - analyze_risk
-domain: general
+description: "Fabric pattern - analyze_risk"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

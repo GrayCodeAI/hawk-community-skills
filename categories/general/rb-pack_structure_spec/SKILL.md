@@ -1,3 +1,10 @@
+---
+name: rb-pack_structure_spec
+description: "Skill: rb-pack_structure_spec"
+license: MIT
+tags: [general]
+---
+
 # Specification: Pack Structure
 
 **1. Purpose**
@@ -54,4 +61,3 @@ The `rules/` directory drives rule generation for all assistants and **may only 
 
 - `packs add` and `packs sync` validate the presence of required root items, manifest fields, and numeric prefixes for directories and files.
 - During `project sync`, numeric prefixes are stripped and renamed as needed for target assistants. Files or directories without required prefixes are rejected to avoid undefined ordering.
-

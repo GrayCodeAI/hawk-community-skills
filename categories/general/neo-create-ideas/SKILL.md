@@ -1,6 +1,8 @@
 ---
-name: create-ideas
-description: Generate ideas in one shot using creative sampling
+name: neo-create-ideas
+description: "Generate ideas in one shot using creative sampling"
+license: MIT
+tags: [general]
 argument-hint: Topic or problem to generate ideas for. Optional amount of ideas to generate.
 ---
 

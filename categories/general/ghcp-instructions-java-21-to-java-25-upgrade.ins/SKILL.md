@@ -1,6 +1,8 @@
 ---
-applyTo: ['*']
-description: "Comprehensive best practices for adopting new Java 25 features since the release of Java 21."
+name: ghcp-instructions-java-21-to-java-25-upgrade.ins
+description: "Skill: ghcp-instructions-java-21-to-java-25-upgrade.ins"
+license: MIT
+tags: [general]
 ---
 
 # Java 21 to Java 25 Upgrade Guide

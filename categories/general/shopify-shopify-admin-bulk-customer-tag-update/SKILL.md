@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-bulk-customer-tag-update
-role: customer-support
+name: shopify-shopify-admin-bulk-customer-tag-update
 description: "Adds and/or removes tags across a filtered set of customers — supports query-based selection, explicit ID lists, and union/replace tag modes."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - customerUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'customerUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

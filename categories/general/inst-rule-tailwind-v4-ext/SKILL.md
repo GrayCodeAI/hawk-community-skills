@@ -1,6 +1,8 @@
 ---
-description: Tailwind CSS usage rules for styling (2025 best practices)
-globs: **/*.{html,js,jsx,ts,tsx,vue,svelte,css,scss,sass,md,mdx,php,blade.php,ejs,hbs,twig,liquid,njk,pug,astro,xml,json,yml,yaml,svg}
+name: inst-rule-tailwind-v4-ext
+description: "Tailwind CSS usage rules for styling (2025 best practices)"
+license: MIT
+tags: [general]
 ---
 
 ## General Guidelines

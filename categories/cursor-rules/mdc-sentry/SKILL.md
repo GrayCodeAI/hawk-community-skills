@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for integrating and using Sentry for error tracking and performance monitoring, ensuring optimal setup, performance, and debuggability across all applications.
-globs: **/*
+name: mdc-sentry
+description: "Definitive guidelines for integrating and using Sentry for error tracking and performance monitoring, ensuring optimal setup, performance, and debuggability across all applications."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Sentry Best Practices
 
 Sentry is our definitive platform for error tracking and performance monitoring. Proper integration ensures we debug faster, ship more reliably, and maintain high application health. This guide outlines the mandatory best practices for all projects.

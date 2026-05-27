@@ -1,3 +1,10 @@
+---
+name: ls-uw0upgmnu_co-founder_id
+description: "Skill: ls-uw0upgmnu_co-founder_id"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UW0upGmnu-co-founder-id
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wAtczPacqBEE3cN7dnxoxObB?se=2124-01-06T18%3A17%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D53059e6f-d8d8-4dbb-93e4-4d6b3ba208b4.png&sig=MEZ7ABP0GKu%2BOTGrIEfGxztBd4mTLpkCd63URx0F3xQ%3D" width="100px" />

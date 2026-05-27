@@ -1,6 +1,8 @@
 ---
-name: power-platform-mcp-connector-suite
-description: 'Generate complete Power Platform custom connector with MCP integration for Copilot Studio - includes schema generation, troubleshooting, and validation'
+name: ghcp-power-platform-mcp-connector-suite-skill
+description: "Generate complete Power Platform custom connector with MCP integration for Copilot Studio - includes schema generation, troubleshooting, and validation"
+license: MIT
+tags: [general]
 ---
 
 # Power Platform MCP Connector Suite

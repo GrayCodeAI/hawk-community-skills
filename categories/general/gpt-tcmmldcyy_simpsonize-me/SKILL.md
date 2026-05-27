@@ -1,3 +1,10 @@
+---
+name: gpt-tcmmldcyy_simpsonize-me
+description: "Skill: gpt-tcmmldcyy_simpsonize-me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me
 
 GPT Title: Simpsonize Me

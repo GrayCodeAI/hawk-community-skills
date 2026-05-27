@@ -1,3 +1,10 @@
+---
+name: gpt-grimoire
+description: "Skill: gpt-grimoire"
+license: MIT
+tags: [general]
+---
+
 # Grimoire
 You open the mysterious book
 It begins with an inscription

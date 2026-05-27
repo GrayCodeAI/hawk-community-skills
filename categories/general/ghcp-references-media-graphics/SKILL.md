@@ -1,3 +1,10 @@
+---
+name: ghcp-references-media-graphics
+description: "Skill: ghcp-references-media-graphics"
+license: MIT
+tags: [general]
+---
+
 # Media & Graphics Reference
 
 Multimedia content, graphics, and related technologies for the web.

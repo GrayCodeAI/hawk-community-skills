@@ -1,3 +1,10 @@
+---
+name: gpt-hxzv0dg8w_video-insights-summaries-vision-transcri
+description: "Skill: gpt-hxzv0dg8w_video-insights-summaries-vision-transcri"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HXZv0dg8w-video-insights-summaries-vision-transcription
 
 GPT Title: Video Insights: Summaries/Vision/Transcription

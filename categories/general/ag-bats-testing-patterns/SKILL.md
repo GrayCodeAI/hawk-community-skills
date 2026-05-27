@@ -1,9 +1,11 @@
 ---
-name: bats-testing-patterns
+name: ag-bats-testing-patterns
 description: "Master Bash Automated Testing System (Bats) for comprehensive shell script testing. Use when writing tests for shell scripts, CI/CD pipelines, or requiring test-driven development of shell utilities."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Bats Testing Patterns

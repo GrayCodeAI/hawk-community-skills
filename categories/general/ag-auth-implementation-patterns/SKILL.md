@@ -1,9 +1,11 @@
 ---
-name: auth-implementation-patterns
+name: ag-auth-implementation-patterns
 description: "Build secure, scalable authentication and authorization systems using industry-standard patterns and modern best practices."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Authentication & Authorization Implementation Patterns

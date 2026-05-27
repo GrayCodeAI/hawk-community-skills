@@ -1,6 +1,8 @@
 ---
-name: setup-arxiv-mcp
-description: Guide for setup arXiv paper search MCP server using Docker MCP
+name: neo-setup-arxiv-mcp
+description: "Guide for setup arXiv paper search MCP server using Docker MCP"
+license: MIT
+tags: [general]
 argument-hint: Optional - specific research topics or paper sources to configure
 ---
 

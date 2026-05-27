@@ -1,9 +1,10 @@
 ---
 name: cr-java-general-purpose
-description: Cursor rules for java-general-purpose
-domain: engineering
+description: "Cursor rules for java-general-purpose"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

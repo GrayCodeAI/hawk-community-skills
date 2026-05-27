@@ -1,12 +1,12 @@
 ---
 name: hunting-for-living-off-the-land-binaries
-description: Proactively hunt for adversary abuse of legitimate system binaries (LOLBins) to execute malicious payloads while evading detection.
+description: "Proactively hunt for adversary abuse of legitimate system binaries (LOLBins) to execute malicious payloads while evading detection."
+license: MIT
+tags: [threat-hunting, mitre-attack, lolbins, edr, siem, proactive-detection, defense-evasion]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, lolbins, edr, siem, proactive-detection, defense-evasion]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting for Living-off-the-Land Binaries (LOLBins)

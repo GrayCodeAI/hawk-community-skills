@@ -1,8 +1,10 @@
 ---
-name: brex-staging-automation
+name: composio-brex-staging-automation
 description: "Automate Brex Staging tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Brex Staging Automation via Rube MCP

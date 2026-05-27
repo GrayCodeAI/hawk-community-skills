@@ -1,9 +1,11 @@
 ---
-name: arize-link
-description: Generates deep links to the Arize UI for traces, spans, sessions, datasets, labeling queues, evaluators, and annotation configs. Produces clickable URLs for sharing Arize resources with team members. Use when the user wants to link to or open a trace, span, session, dataset, evaluator, or annotation config in the Arize UI.
-metadata:
-  author: arize
-  version: "1.0"
+name: copilot-arize-link
+description: "Generates deep links to the Arize UI for traces, spans, sessions, datasets, labeling queues, evaluators, and annotation configs. Produces clickable URLs for sharing Arize resources with team member..."
+license: MIT
+tags: [general]
+metadata: None
+author: arize
+version: 1.0
 ---
 
 # Arize Link

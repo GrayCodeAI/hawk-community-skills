@@ -1,3 +1,10 @@
+---
+name: glfr-security
+description: "Skill: glfr-security"
+license: MIT
+tags: [general]
+---
+
 # Security Rules
 
 ## Secrets Management

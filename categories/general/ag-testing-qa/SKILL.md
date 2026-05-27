@@ -1,10 +1,12 @@
 ---
-name: testing-qa
+name: ag-testing-qa
 description: "Comprehensive testing and QA workflow covering unit testing, integration testing, E2E testing, browser automation, and quality assurance."
+license: MIT
+tags: [general]
 category: workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Testing/QA Workflow Bundle

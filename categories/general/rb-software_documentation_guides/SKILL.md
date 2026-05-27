@@ -1,3 +1,10 @@
+---
+name: rb-software_documentation_guides
+description: "Skill: rb-software_documentation_guides"
+license: MIT
+tags: [general]
+---
+
 ## Additional Notes:
 
 1. **Product Requirements Documents (PRDs):** PRDs serve multiple purposes: defining product scope and goals, aligning stakeholders across teams, and mitigating risks early in development. They offer significant utility by providing clarity on product vision, prioritizing features, ensuring quality, and enabling traceability throughout the development lifecycle . While traditionally detailed in Waterfall, PRDs are adapted for Agile methodologies as leaner, iterative documents. Related documents include Market Requirements Documents (MRDs) and Functional Requirements Documents (FRDs).

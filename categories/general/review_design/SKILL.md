@@ -1,9 +1,10 @@
 ---
 name: review_design
-description: Fabric pattern - review_design
-domain: general
+description: "Fabric pattern - review_design"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

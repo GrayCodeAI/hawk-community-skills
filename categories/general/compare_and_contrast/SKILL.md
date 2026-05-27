@@ -1,9 +1,10 @@
 ---
 name: compare_and_contrast
-description: Fabric pattern - compare_and_contrast
-domain: general
+description: "Fabric pattern - compare_and_contrast"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

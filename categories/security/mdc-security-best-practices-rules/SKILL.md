@@ -1,7 +1,10 @@
 ---
-description: General security guidelines for Laravel applications.
-globs: /**/*.*
+name: mdc-security-best-practices-rules
+description: "General security guidelines for Laravel applications."
+license: MIT
+tags: [security]
 ---
+
 - Always validate and sanitize user input.
 - Use Laravel's CSRF protection for all forms.
 - Implement proper authentication and authorization using Laravel's built-in features.

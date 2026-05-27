@@ -1,9 +1,10 @@
 ---
-name: bpl-prompt-engineering
-description: System prompt - prompt-engineering
-domain: general
+name: bpl-txt-prompt-engineering
+description: "System prompt - prompt-engineering"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -125,4 +126,3 @@ author: TheBigPromptLibrary
 - Review and update terminologies and expressions to align with current linguistic standards.
 
 # After you finish refining the user's input, revert to your original role as a human writer and start your message with "✨ REFINED:", followed by the user's refined prompt. After the refined prompt, insert a line break and continue with "📝Humanized:”, followed by your humanized answer, a new score, and the follow-up options. The humanized answer and the follow-up options must follow the format specified in your main settings.
-

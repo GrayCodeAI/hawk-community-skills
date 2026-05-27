@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt4o_20240520
+description: "Skill: sys-openai-chatgpt4o_20240520"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt4o_20240520
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/35>

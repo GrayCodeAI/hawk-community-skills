@@ -1,3 +1,10 @@
+---
+name: cpa-attestation
+description: "Skill: cpa-attestation"
+license: MIT
+tags: [general]
+---
+
 # az attestation
 
 ```bash

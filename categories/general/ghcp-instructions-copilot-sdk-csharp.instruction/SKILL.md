@@ -1,7 +1,8 @@
 ---
-applyTo: '**.cs, **.csproj'
-description: 'This file provides guidance on building C# applications using GitHub Copilot SDK.'
-name: 'GitHub Copilot SDK C# Instructions'
+name: ghcp-instructions-copilot-sdk-csharp.instruction
+description: "Skill: ghcp-instructions-copilot-sdk-csharp.instruction"
+license: MIT
+tags: [general]
 ---
 
 ## Core Principles
@@ -567,4 +568,3 @@ var session = await client.CreateSessionAsync(new SessionConfig
     ]
 });
 ```
-

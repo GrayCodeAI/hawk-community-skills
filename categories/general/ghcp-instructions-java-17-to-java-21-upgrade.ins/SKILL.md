@@ -1,6 +1,8 @@
 ---
-applyTo: ['*']
-description: "Comprehensive best practices for adopting new Java 21 features since the release of Java 17."
+name: ghcp-instructions-java-17-to-java-21-upgrade.ins
+description: "Skill: ghcp-instructions-java-17-to-java-21-upgrade.ins"
+license: MIT
+tags: [general]
 ---
 
 # Java 17 to Java 21 Upgrade Guide

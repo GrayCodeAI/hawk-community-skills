@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-shadcn-ui-nextjs
-description: Cursor rules for typescript-shadcn-ui-nextjs
-domain: engineering
+description: "Cursor rules for typescript-shadcn-ui-nextjs"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -63,4 +64,3 @@ Key Conventions:
   - Avoid for data fetching or state management
 
 Follow Next.js docs for Data Fetching, Rendering, and Routing
-

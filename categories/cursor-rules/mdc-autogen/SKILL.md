@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated best practices for structuring, optimizing, and testing autogen multi-agent systems to ensure maintainability, reproducibility, and cost-efficiency.
-globs: **/*.py
+name: mdc-autogen
+description: "This guide provides opinionated best practices for structuring, optimizing, and testing autogen multi-agent systems to ensure maintainability, reproducibility, and cost-efficiency."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # autogen Best Practices
 
 Building robust `autogen` applications requires disciplined adherence to specific patterns. This guide outlines the definitive best practices for our team, focusing on modularity, performance, and testability.

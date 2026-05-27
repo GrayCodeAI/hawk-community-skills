@@ -1,3 +1,10 @@
+---
+name: cpa-replica
+description: "Skill: cpa-replica"
+license: MIT
+tags: [general]
+---
+
 # az containerapp replica
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: arb-process
+description: "Skill: arb-process"
+license: MIT
+tags: [general]
+---
+
 # Rule Compression Process
 
 ## Goal

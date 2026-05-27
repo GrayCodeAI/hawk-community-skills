@@ -1,3 +1,10 @@
+---
+name: ls-summarize_conversation-2-1-133
+description: "Skill: ls-summarize_conversation-2-1-133"
+license: MIT
+tags: [general]
+---
+
 Generate a concise, sentence-case title (3-7 words) that captures the main topic or goal of this coding session. The title should be clear enough that the user recognizes the session in a list. Use sentence case: capitalize only the first word and proper nouns.
 
 Return JSON with a single "title" field.

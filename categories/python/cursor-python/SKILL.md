@@ -1,16 +1,11 @@
 ---
 name: cursor-python
-description: Cursor IDE rules for python
-domain: engineering
+description: "Cursor IDE rules for python"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Python best practices: type hints, pathlib, pytest, clean error handling"
-globs: ["*.py"]
-alwaysApply: true
 ---
 
 # Python Rules

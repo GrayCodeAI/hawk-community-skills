@@ -1,7 +1,9 @@
 ---
-name: cloud-architect
-description: AWS/GCP/Azure multi-cloud patterns, IaC, cost optimization, and well-architected framework
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-cloud-architect
+description: "AWS/GCP/Azure multi-cloud patterns, IaC, cost optimization, and well-architected framework"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

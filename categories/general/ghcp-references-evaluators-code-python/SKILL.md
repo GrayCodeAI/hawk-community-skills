@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-code-python
+description: "Skill: ghcp-references-evaluators-code-python"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: Code Evaluators in Python
 
 Deterministic evaluators without LLM. Fast, cheap, reproducible.

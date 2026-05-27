@@ -1,3 +1,10 @@
+---
+name: rb-feature_tasks
+description: "Skill: rb-feature_tasks"
+license: MIT
+tags: [general]
+---
+
 # Prioritized Features & Tasks for Custom User Prompt Framework
 
 This document outlines the prioritized features and tasks derived from the PRD, including dependencies, to guide development and implementation.

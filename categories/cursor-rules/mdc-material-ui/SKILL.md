@@ -1,7 +1,10 @@
 ---
-description: Provides definitive guidelines for building scalable, performant, and maintainable React applications using Material-UI (MUI), focusing on modern best practices.
-globs: **/*
+name: mdc-material-ui
+description: "Provides definitive guidelines for building scalable, performant, and maintainable React applications using Material-UI (MUI), focusing on modern best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Material-UI (MUI) Best Practices
 
 This guide outlines the definitive best practices for developing React applications with Material-UI (MUI). Adhere to these standards to ensure consistent, performant, and maintainable code across our projects.

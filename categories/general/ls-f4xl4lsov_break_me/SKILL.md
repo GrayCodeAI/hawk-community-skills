@@ -1,3 +1,10 @@
+---
+name: ls-f4xl4lsov_break_me
+description: "Skill: ls-f4xl4lsov_break_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-f4XL4LSov-break-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MI3xSC7TZ7OxzXm0Y1Jkb50Z?se=2123-12-14T07%3A16%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da4192347-5bb7-4fce-8317-542bf97c2243.png&sig=qhYpXQ9SJaOJGY36mOUcRIBHSHeBrwrI9fDnXvMuBOk%3D" width="100px" />

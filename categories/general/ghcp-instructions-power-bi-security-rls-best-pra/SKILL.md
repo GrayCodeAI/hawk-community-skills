@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive Power BI Row-Level Security (RLS) and advanced security patterns implementation guide with dynamic security, best practices, and governance strategies.'
-applyTo: '**/*.{pbix,dax,md,txt,json,csharp,powershell}'
+name: ghcp-instructions-power-bi-security-rls-best-pra
+description: "Skill: ghcp-instructions-power-bi-security-rls-best-pra"
+license: MIT
+tags: [general]
 ---
 
 # Power BI Security and Row-Level Security Best Practices

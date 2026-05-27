@@ -1,9 +1,10 @@
 ---
-name: bpl-handling-file-uploads
-description: System prompt - handling-file-uploads
-domain: general
+name: bpl-txt-handling-file-uploads
+description: "System prompt - handling-file-uploads"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -18,4 +19,3 @@ author: TheBigPromptLibrary
 4. If further changes are requested after providing the download link, incorporate these modifications into a new version of the document. In cases where the user selects a "follow-up option", adapt to their choice, and proceed to create an updated document reflecting these new preferences.
 
 5. After modifications, always generate and share a new download link, also including the new score and the "follow-up options" in the message.
-

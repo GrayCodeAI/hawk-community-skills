@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-material-ui-tailwind-css
-description: Cursor rules for nextjs-material-ui-tailwind-css
-domain: engineering
+description: "Cursor rules for nextjs-material-ui-tailwind-css"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -62,4 +63,3 @@ Nola liste des dépendance
   "tailwindcss": "^3.4.3",
   "typescript": "^5.4.5"
 }
-

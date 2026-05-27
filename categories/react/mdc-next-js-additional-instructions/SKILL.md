@@ -1,7 +1,10 @@
 ---
-description: This rule provides additional instructions for Next.js development, covering various aspects such as TypeScript, SEO, image optimization, styling, and error handling.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-next-js-additional-instructions
+description: "This rule provides additional instructions for Next.js development, covering various aspects such as TypeScript, SEO, image optimization, styling, and error handling."
+license: MIT
+tags: [react]
 ---
+
 - Use TypeScript for type safety
 - Implement proper metadata for SEO
 - Utilize Next.js Image component for optimized images

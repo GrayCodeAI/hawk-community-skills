@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building high-performance, maintainable, and secure FastAPI applications using modern Python best practices.
-globs: **/*.py
+name: mdc-fastapi
+description: "Definitive guidelines for building high-performance, maintainable, and secure FastAPI applications using modern Python best practices."
+license: MIT
+tags: [python]
 ---
+
 # FastAPI Best Practices
 
 FastAPI is the go-to for high-performance Python APIs. This guide ensures your projects are scalable, secure, and maintainable from day one.

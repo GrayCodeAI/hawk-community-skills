@@ -1,22 +1,14 @@
 ---
-name: android-concurrency
-description: Write correct coroutine scopes, Flow collection, and dispatcher injection in Android. Use when writing suspend functions, choosing between StateFlow and SharedFlow, or injecting Dispatchers for testability.
-metadata:
-  triggers:
-    files:
-    - '**/*ViewModel.kt'
-    - '**/*UseCase.kt'
-    - '**/*Repository.kt'
-    keywords:
-    - suspend
-    - viewModelScope
-    - lifecycleScope
-    - Flow
-    - coroutine
-    - Dispatcher
-    - DispatcherProvider
-    - GlobalScope
+name: std-android-concurrency
+description: "Write correct coroutine scopes, Flow collection, and dispatcher injection in Android. Use when writing suspend functions, choosing between StateFlow and SharedFlow, or injecting Dispatchers for tes..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Concurrency Standards
 
 ## **Priority: P0**

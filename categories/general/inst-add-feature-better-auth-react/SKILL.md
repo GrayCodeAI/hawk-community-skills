@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Better Auth in React
-globs: **/*.tsx, **/*.ts, **/*.jsx, **/*.js
+name: inst-add-feature-better-auth-react
+description: "Guidelines for adding new features with Better Auth in React"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in implementing Better Auth authentication features.
@@ -238,4 +240,4 @@ test('user can sign in', async () => {
   await waitFor(() => {
     expect(screen.getByText(/welcome/i)).toBeInTheDocument()
   })
-}) 
+})

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-challenge_gate
+description: "Skill: ghcp-references-challenge_gate"
+license: MIT
+tags: [general]
+---
+
 # Challenge Gate — Bug Validity Review
 
 ## Purpose

@@ -1,3 +1,10 @@
+---
+name: inst-setup-prisma-tanstack
+description: "Skill: inst-setup-prisma-tanstack"
+license: MIT
+tags: [general]
+---
+
 # Prisma with TanStack Query Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Prisma ORM with TanStack Query (formerly React Query) in a React application.
@@ -531,4 +538,4 @@ npx prisma generate
 4. Use Prisma Studio for database management:
 ```bash
 npx prisma studio
-``` 
+```

@@ -1,6 +1,8 @@
 ---
-name: dataverse-python-quickstart
-description: 'Generate Python SDK setup + CRUD + bulk + paging snippets using official patterns.'
+name: ghcp-dataverse-python-quickstart-skill
+description: "Generate Python SDK setup + CRUD + bulk + paging snippets using official patterns."
+license: MIT
+tags: [general]
 ---
 
 You are assisting with Microsoft Dataverse SDK for Python (preview).

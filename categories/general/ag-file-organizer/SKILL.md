@@ -1,9 +1,11 @@
 ---
-name: file-organizer
+name: ag-file-organizer
 description: "6. Reduces Clutter: Identifies old files you probably don't need anymore"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # File Organizer

@@ -1,6 +1,8 @@
 ---
-description: 'Using dependent libraries in PCF components'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-dependent-libraries.instru
+description: "Skill: ghcp-instructions-pcf-dependent-libraries.instru"
+license: MIT
+tags: [general]
 ---
 
 # Dependent Libraries (Preview)

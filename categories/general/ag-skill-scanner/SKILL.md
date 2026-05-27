@@ -1,6 +1,8 @@
 ---
-name: skill-scanner
+name: ag-skill-scanner
 description: "Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

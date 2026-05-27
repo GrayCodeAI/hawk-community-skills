@@ -1,9 +1,10 @@
 ---
-name: bpl-nn
-description: System prompt - nn
-domain: general
+name: bpl-txt-nn
+description: "System prompt - nn"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

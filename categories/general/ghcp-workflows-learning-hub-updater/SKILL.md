@@ -1,24 +1,23 @@
 ---
-name: "Learning Hub Updater"
+name: ghcp-workflows-learning-hub-updater
 description: "Daily check for new GitHub Copilot features and updates. Opens a PR if the Learning Hub needs updating."
-on:
-  schedule: daily
-  workflow_dispatch:
-tools:
-  bash: ["curl", "gh"]
-  edit:
-  web-fetch:
-  github:
-    toolsets: [repos]
-safe-outputs:
-  allowed-domains:
-    - github.blog
-    - code.visualstudio.com
-    - nishanil.github.io
-  create-pull-request:
-    labels: [automated-update, copilot-updates]
-    title-prefix: "[bot] "
-    base-branch: staged
+license: MIT
+tags: [general]
+True: None
+schedule: daily
+workflow_dispatch: None
+tools: None
+bash: [curl, gh]
+edit: None
+web-fetch: None
+github: None
+toolsets: [repos]
+safe-outputs: None
+allowed-domains: None
+create-pull-request: None
+labels: [automated-update, copilot-updates]
+title-prefix: [bot]
+base-branch: staged
 ---
 
 # Check for Awesome GitHub Copilot Updates

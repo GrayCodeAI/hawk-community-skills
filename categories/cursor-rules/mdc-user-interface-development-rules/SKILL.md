@@ -1,7 +1,10 @@
 ---
-description: Rules for developing the user interface for manipulating the region grid. This rule focuses on interactive elements and visual representation.
-globs: /ui/**/*.*
+name: mdc-user-interface-development-rules
+description: "Rules for developing the user interface for manipulating the region grid. This rule focuses on interactive elements and visual representation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Develop the User Interface:
   - Design and implement a comprehensive user interface for manipulating the region grid. This should include:
     a. A visual representation of the region grid, possibly overlaid on the main simulation view.

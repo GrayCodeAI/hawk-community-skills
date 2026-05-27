@@ -1,3 +1,10 @@
+---
+name: cpa-connectedk8s
+description: "Skill: cpa-connectedk8s"
+license: MIT
+tags: [general]
+---
+
 # az connectedk8s
 
 ```bash

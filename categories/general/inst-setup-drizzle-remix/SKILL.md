@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-remix
+description: "Skill: inst-setup-drizzle-remix"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + Remix Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with a Remix application.
@@ -356,4 +363,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Remix Documentation](https://remix.run/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

@@ -1,3 +1,10 @@
+---
+name: gpt-ovct9za3d_lyric-visualizer
+description: "Skill: gpt-ovct9za3d_lyric-visualizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ovCt9ZA3d-lyric-visualizer
 
 GPT Title: Lyric Visualizer

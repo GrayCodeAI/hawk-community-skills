@@ -1,9 +1,10 @@
 ---
 name: cr-vue-3-nuxt-3-typescript
-description: Cursor rules for vue-3-nuxt-3-typescript
-domain: engineering
+description: "Cursor rules for vue-3-nuxt-3-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

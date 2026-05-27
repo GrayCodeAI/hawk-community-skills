@@ -1,9 +1,10 @@
 ---
 name: cr-svelte-5-vs-svelte-4
-description: Cursor rules for svelte-5-vs-svelte-4
-domain: engineering
+description: "Cursor rules for svelte-5-vs-svelte-4"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

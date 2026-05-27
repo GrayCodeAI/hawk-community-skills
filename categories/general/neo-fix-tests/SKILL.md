@@ -1,6 +1,8 @@
 ---
-name: fix-tests
-description: Systematically fix all failing tests after business logic changes or refactoring
+name: neo-fix-tests
+description: "Systematically fix all failing tests after business logic changes or refactoring"
+license: MIT
+tags: [general]
 argument-hint: what tests or modules to focus on
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for configuring webpack, focusing on performance, maintainability, and modern development workflows in 2025.
-globs: **/*.{js,jsx}
+name: mdc-webpack
+description: "This guide provides opinionated, actionable best practices for configuring webpack, focusing on performance, maintainability, and modern development workflows in 2025."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # webpack Best Practices
 
 webpack remains the cornerstone of modern JavaScript application builds. Adhering to these definitive guidelines ensures your projects are performant, maintainable, and aligned with current best practices.

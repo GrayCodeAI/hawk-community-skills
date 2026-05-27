@@ -1,8 +1,10 @@
 ---
-name: cal-automation
+name: composio-cal-automation
 description: "Automate Cal tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Cal Automation via Rube MCP

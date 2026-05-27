@@ -1,3 +1,10 @@
+---
+name: cpa-session
+description: "Skill: cpa-session"
+license: MIT
+tags: [general]
+---
+
 # az containerapp session
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: gpt-eaiwwknk4_walkure_report
+description: "Skill: gpt-eaiwwknk4_walkure_report"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Eaiwwknk4-walku-re-report
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6thAQGbvWOTsMANSmN3Yvx3L?se=2124-01-12T12%3A53%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DAlbedoBase_XL_minimal_logo_Valkyrie_2.jpg&sig=QL0qYJfSrrT0667ZPSve%2B2jE6wsceaMjwa%2BLnrsP7NE%3D" width="100px" />

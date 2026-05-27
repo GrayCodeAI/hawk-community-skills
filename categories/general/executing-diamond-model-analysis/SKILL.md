@@ -1,19 +1,14 @@
 ---
 name: executing-diamond-model-analysis
-description: >
-  Applies the Diamond Model of Intrusion Analysis to structure adversary activity into its four
-  core vertices (adversary, capability, infrastructure, victim) and identifies relationships between
-  them to pivot investigations and attribute campaigns. Use when analyzing a completed intrusion,
-  linking disparate incidents to a common threat actor, or building structured analytic products
-  for threat intelligence dissemination. Activates for requests involving Diamond Model, intrusion
-  analysis, campaign clustering, or adversary attribution methodology.
+description: "Applies the Diamond Model of Intrusion Analysis to structure adversary activity into its four core vertices (adversary, capability, infrastructure, victim) and identifies relationships between them..."
+license: MIT
+tags: [diamond-model, intrusion-analysis, attribution, campaign-clustering, cti, mitre-att-ck]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [Diamond-Model, intrusion-analysis, attribution, campaign-clustering, CTI, MITRE-ATT&CK]
 version: 1.0.0
 author: team-cybersecurity
-license: MIT
 ---
+
 # Executing Diamond Model Analysis
 
 ## When to Use

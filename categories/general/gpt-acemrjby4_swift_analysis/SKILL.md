@@ -1,3 +1,10 @@
+---
+name: gpt-acemrjby4_swift_analysis
+description: "Skill: gpt-acemrjby4_swift_analysis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-acEMRJBy4-swift-analysis
 
 GPT logo: <img src="None" width="100px" />

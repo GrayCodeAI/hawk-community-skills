@@ -1,6 +1,8 @@
 ---
-name: eyeball
-description: 'Document analysis with inline source screenshots. When you ask Copilot to analyze a document, Eyeball generates a Word doc where every factual claim includes a highlighted screenshot from the source material so you can verify it with your own eyes.'
+name: ghcp-eyeball-skill
+description: "Document analysis with inline source screenshots. When you ask Copilot to analyze a document, Eyeball generates a Word doc where every factual claim includes a highlighted screenshot from the sourc..."
+license: MIT
+tags: [general]
 ---
 
 # Eyeball

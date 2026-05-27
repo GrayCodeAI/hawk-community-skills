@@ -1,3 +1,10 @@
+---
+name: ghcp-references-update-mode
+description: "Skill: ghcp-references-update-mode"
+license: MIT
+tags: [general]
+---
+
 # Update mode
 
 Use this workflow when the input is an existing documentation Markdown file or the user asks to refresh existing component documentation.

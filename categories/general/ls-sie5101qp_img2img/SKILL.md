@@ -1,3 +1,10 @@
+---
+name: ls-sie5101qp_img2img
+description: "Skill: ls-sie5101qp_img2img"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SIE5101qP-img2img
 
 GPT Title: img2img & image edit

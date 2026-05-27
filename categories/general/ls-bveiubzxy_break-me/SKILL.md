@@ -1,3 +1,10 @@
+---
+name: ls-bveiubzxy_break-me
+description: "Skill: ls-bveiubzxy_break-me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BVeIubZXY-break-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FeOgPOR9PshjmgYvSSkdW83g?se=2123-12-22T04%3A49%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202024-01-12%2520at%252023.15.12.png&sig=jqbseuxU9l8HFObMVYpc39jdVmujGmL/YinmSY87Hr0%3D" width="100px" />

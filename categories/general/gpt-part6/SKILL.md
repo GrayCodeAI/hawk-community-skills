@@ -1,3 +1,10 @@
+---
+name: gpt-part6
+description: "Skill: gpt-part6"
+license: MIT
+tags: [general]
+---
+
 ## Part 6: Alchemy
 
 ## Chapter 17: Wizard's gotta eat!

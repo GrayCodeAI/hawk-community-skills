@@ -1,9 +1,10 @@
 ---
 name: cr-github
-description: Cursor rules for github
-domain: engineering
+description: "Cursor rules for github"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -248,4 +249,3 @@ Regularly review and refactor your code to improve its structure, readability, a
 9. Use Version Control
 
 Version control systems meticulously track every change made to your codebase, enabling you to understand the evolution of your code and revert to previous versions if needed. This creates a safety net for code refactoring and prevents accidental deletions or overwrites. Use version control systems like GitHub, GitLab, and Bitbucket to track changes to your codebase and collaborate effectively with others.
-

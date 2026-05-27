@@ -1,3 +1,10 @@
+---
+name: ghcp-references-aspnetcore
+description: "Skill: ghcp-references-aspnetcore"
+license: MIT
+tags: [general]
+---
+
 ## Modify code
 
 Make these necessary changes to the app.

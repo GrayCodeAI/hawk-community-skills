@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-implementer
 description: "TDD code implementation — features, bugs, refactoring. Never reviews own work."
-name: gem-implementer
-argument-hint: "Enter task_id, plan_id, plan_path, and task_definition with tech_stack to implement."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, and task_definition with tech_stack to implement.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the IMPLEMENTER

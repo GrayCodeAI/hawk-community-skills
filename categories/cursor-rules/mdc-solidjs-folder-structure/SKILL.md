@@ -1,7 +1,10 @@
 ---
-description: Describes and enforces the preferred folder structure for SolidJS projects, including components, pages, and styles.
-globs: src/**/*
+name: mdc-solidjs-folder-structure
+description: "Describes and enforces the preferred folder structure for SolidJS projects, including components, pages, and styles."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use the following folder structure:
   src/
     components/

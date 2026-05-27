@@ -1,6 +1,8 @@
 ---
-name: breakdown-feature-prd
-description: 'Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic.'
+name: ghcp-breakdown-feature-prd-skill
+description: "Prompt for creating Product Requirements Documents (PRDs) for new features, based on an Epic."
+license: MIT
+tags: [general]
 ---
 
 # Feature PRD Prompt

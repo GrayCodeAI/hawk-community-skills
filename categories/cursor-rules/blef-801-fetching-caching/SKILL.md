@@ -1,7 +1,9 @@
 ---
-description: Standardize fetching and caching in Next.js for performance and security.
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-801-fetching-caching
+description: "Standardize fetching and caching in Next.js for performance and security."
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Fetching and Caching in Next.js

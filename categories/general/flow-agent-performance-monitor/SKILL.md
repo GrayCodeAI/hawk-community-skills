@@ -1,13 +1,8 @@
 ---
-name: agent-performance-monitor
-description: Agent skill for performance-monitor - invoke with $agent-performance-monitor
----
-
----
-name: Performance Monitor
-type: agent
-category: optimization
-description: Real-time metrics collection, bottleneck analysis, SLA monitoring and anomaly detection
+name: flow-agent-performance-monitor
+description: "Agent skill for performance-monitor - invoke with $agent-performance-monitor"
+license: MIT
+tags: [general]
 ---
 
 # Performance Monitor Agent

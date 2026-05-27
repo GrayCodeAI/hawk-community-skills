@@ -1,7 +1,9 @@
 ---
-name: cost-budget-check
-description: Read accumulated cost-tracking spend + budget config, compute utilization, emit 50/75/90/100% alert ladder
-argument-hint: "[--period today|week|month|all]"
+name: flow-cost-budget-check
+description: "Read accumulated cost-tracking spend + budget config, compute utilization, emit 50/75/90/100% alert ladder"
+license: MIT
+tags: [general]
+argument-hint: [--period today|week|month|all]
 allowed-tools: Bash mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_list mcp__claude-flow__memory_store
 ---
 

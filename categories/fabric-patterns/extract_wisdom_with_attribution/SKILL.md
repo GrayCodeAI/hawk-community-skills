@@ -1,9 +1,10 @@
 ---
 name: extract_wisdom_with_attribution
-description: Fabric pattern - extract_wisdom_with_attribution
-domain: general
+description: "Fabric pattern - extract_wisdom_with_attribution"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

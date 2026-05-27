@@ -1,9 +1,10 @@
 ---
 name: create_ai_jobs_analysis
-description: Fabric pattern - create_ai_jobs_analysis
-domain: general
+description: "Fabric pattern - create_ai_jobs_analysis"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using TanStack Query (formerly React Query) to manage server state efficiently, ensure type safety, and optimize performance in React applications.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-react-query
+description: "Definitive guidelines for using TanStack Query (formerly React Query) to manage server state efficiently, ensure type safety, and optimize performance in React applications."
+license: MIT
+tags: [react]
 ---
+
 # TanStack Query (react-query) Best Practices
 
 This document outlines the definitive best practices for using TanStack Query in our React applications. Adhering to these guidelines ensures consistent, performant, and maintainable data fetching and state management.

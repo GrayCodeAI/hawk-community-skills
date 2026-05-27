@@ -1,3 +1,10 @@
+---
+name: cpa-managementpartner
+description: "Skill: cpa-managementpartner"
+license: MIT
+tags: [general]
+---
+
 # az managementpartner
 
 ```bash

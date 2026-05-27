@@ -1,9 +1,11 @@
 ---
-name: github-issue-creator
+name: ag-github-issue-creator
 description: "Turn error logs, screenshots, voice notes, and rough bug reports into crisp, developer-ready GitHub issues with repro steps, impact, and evidence."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # GitHub Issue Creator

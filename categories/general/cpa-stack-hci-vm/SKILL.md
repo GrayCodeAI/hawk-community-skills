@@ -1,3 +1,10 @@
+---
+name: cpa-stack-hci-vm
+description: "Skill: cpa-stack-hci-vm"
+license: MIT
+tags: [general]
+---
+
 # az stack-hci-vm
 
 ```bash

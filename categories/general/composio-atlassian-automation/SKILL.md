@@ -1,8 +1,10 @@
 ---
-name: atlassian-automation
+name: composio-atlassian-automation
 description: "Automate Atlassian tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Atlassian Automation via Rube MCP

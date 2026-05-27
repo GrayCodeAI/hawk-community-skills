@@ -1,3 +1,10 @@
+---
+name: gpt-fta4fq7wj_hot_mods
+description: "Skill: gpt-fta4fq7wj_hot_mods"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-fTA4FQ7wj-hot-mods
 
 GPT Title: Hot Mods

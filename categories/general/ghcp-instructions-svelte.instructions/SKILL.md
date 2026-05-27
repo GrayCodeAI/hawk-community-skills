@@ -1,6 +1,8 @@
 ---
-description: 'Svelte 5 and SvelteKit development standards and best practices for component-based user interfaces and full-stack applications'
-applyTo: '**/*.svelte, **/*.ts, **/*.js, **/*.css, **/*.scss, **/*.json'
+name: ghcp-instructions-svelte.instructions
+description: "Skill: ghcp-instructions-svelte.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Svelte 5 and SvelteKit Development Instructions

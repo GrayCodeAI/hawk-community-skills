@@ -1,9 +1,10 @@
 ---
-name: bpl-user-manual
-description: System prompt - user-manual
-domain: general
+name: bpl-txt-user-manual
+description: "System prompt - user-manual"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

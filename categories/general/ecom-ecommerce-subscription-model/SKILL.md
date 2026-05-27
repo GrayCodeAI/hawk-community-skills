@@ -1,3 +1,10 @@
+---
+name: ecom-ecommerce-subscription-model
+description: "Skill: ecom-ecommerce-subscription-model"
+license: MIT
+tags: [general]
+---
+
 # E-Commerce Subscription Model
 
 Design and launch subscription-based e-commerce businesses. Subscribe-and-save, membership boxes, replenishment models, pricing tiers, and churn reduction strategies.

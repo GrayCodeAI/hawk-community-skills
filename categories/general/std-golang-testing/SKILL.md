@@ -1,17 +1,14 @@
 ---
-name: golang-testing
-description: Write unit tests with table-driven patterns and interface mocking in Go. Use when writing Go unit tests, table-driven tests, or using mock interfaces.
-metadata:
-  triggers:
-    files:
-    - '**/*_test.go'
-    keywords:
-    - testing
-    - unit tests
-    - go test
-    - mocking
-    - testify
+name: std-golang-testing
+description: "Write unit tests with table-driven patterns and interface mocking in Go. Use when writing Go unit tests, table-driven tests, or using mock interfaces."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang Testing
 
 ## **Priority: P0 (CRITICAL)**

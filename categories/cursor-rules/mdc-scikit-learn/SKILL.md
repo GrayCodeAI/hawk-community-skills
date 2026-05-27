@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and performant scikit-learn code, emphasizing consistent preprocessing, API adherence, and data leakage prevention.
-globs: **/*.py
+name: mdc-scikit-learn
+description: "Definitive guidelines for writing robust, maintainable, and performant scikit-learn code, emphasizing consistent preprocessing, API adherence, and data leakage prevention."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # scikit-learn Best Practices
 
 This guide outlines our team's definitive best practices for using and extending scikit-learn. Adhering to these rules ensures consistent, reproducible, and production-ready machine learning code.

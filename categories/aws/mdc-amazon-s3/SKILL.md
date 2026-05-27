@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for interacting with Amazon S3, focusing on security, performance, cost optimization, and maintainable code in modern AWS applications.
-globs: **/*
+name: mdc-amazon-s3
+description: "This guide provides definitive best practices for interacting with Amazon S3, focusing on security, performance, cost optimization, and maintainable code in modern AWS applications."
+license: MIT
+tags: [aws]
 ---
+
 # amazon-s3 Best Practices
 
 Amazon S3 is the backbone of object storage in AWS. Adhering to these guidelines ensures your S3 implementations are secure, performant, cost-effective, and maintainable.

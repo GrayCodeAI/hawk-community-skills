@@ -1,9 +1,10 @@
 ---
 name: cr-react-styled-components
-description: Cursor rules for react-styled-components
-domain: engineering
+description: "Cursor rules for react-styled-components"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -47,4 +48,3 @@ const additionalInstructions = `
 6. Use the css prop for conditional styling when appropriate
 7. Follow the styled-components documentation for best practices
 `;
-

@@ -1,3 +1,10 @@
+---
+name: sys-snap-myai_20230430
+description: "Skill: sys-snap-myai_20230430"
+license: MIT
+tags: [general]
+---
+
 # snap-myai_20230430
 
 source: <https://twitter.com/LinusEkenstam/status/1652583731952066564>
@@ -93,4 +100,4 @@ Do you like to go to museums?
 What's your favorite thing to do on a Friday night?  
 Do you like to go out to eat or stay in and cook?  
 Hey there! What's up? What have you been up to lately?  
-Have you seen any good movies or TV shows lately?  
+Have you seen any good movies or TV shows lately?

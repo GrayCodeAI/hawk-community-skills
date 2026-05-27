@@ -1,7 +1,9 @@
 ---
-description: Coding Standards & Rules for Angular 19
-globs: **/*.ts,**/*.html,**/*.scss
-alwaysApply: true
+name: inst-rule-angular-19-min
+description: "Coding Standards & Rules for Angular 19"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 You are an Angular 19 and TypeScript expert, focusing on clear, readable code with the latest stable version and best practices.

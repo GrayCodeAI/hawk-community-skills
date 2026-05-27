@@ -1,9 +1,10 @@
 ---
 name: ask_uncle_duke
-description: Fabric pattern - ask_uncle_duke
-domain: general
+description: "Fabric pattern - ask_uncle_duke"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

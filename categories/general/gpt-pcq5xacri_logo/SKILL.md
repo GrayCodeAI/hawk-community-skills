@@ -1,3 +1,10 @@
+---
+name: gpt-pcq5xacri_logo
+description: "Skill: gpt-pcq5xacri_logo"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pCq5xaCri-logo
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lvZdHWZGgQwvsX1a7z6jDqjp?se=2123-10-24T06%3A40%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D001.jpg&sig=TiSo//G1KZ6wuBgQEpI2kzsvwxZ3R8HRIWZEFGabBi4%3D" width="100px" />

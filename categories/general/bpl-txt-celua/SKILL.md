@@ -1,9 +1,10 @@
 ---
-name: bpl-celua
-description: System prompt - celua
-domain: general
+name: bpl-txt-celua
+description: "System prompt - celua"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -4146,4 +4147,3 @@ string table:
 split(character) -> table of strings separated by character  
 endsWith('string') : boolean - Returns true if the string ends with the given string
 startsWith('string') : boolean - Returns true if the string starts with the given string
-

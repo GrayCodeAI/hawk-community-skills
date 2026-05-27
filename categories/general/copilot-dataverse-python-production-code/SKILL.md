@@ -1,6 +1,8 @@
 ---
-name: dataverse-python-production-code
-description: 'Generate production-ready Python code using Dataverse SDK with error handling, optimization, and best practices'
+name: copilot-dataverse-python-production-code
+description: "Generate production-ready Python code using Dataverse SDK with error handling, optimization, and best practices"
+license: MIT
+tags: [general]
 ---
 
 # System Instructions

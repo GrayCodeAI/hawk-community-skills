@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, performant, and maintainable `llamaindex-js` applications using modern TypeScript best practices.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-llamaindex-js
+description: "Definitive guidelines for writing robust, performant, and maintainable `llamaindex-js` applications using modern TypeScript best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # llamaindex-js Best Practices
 
 This document outlines the definitive best practices for developing with `llamaindex-js` (LlamaIndex.TS). Adhering to these guidelines ensures your applications are type-safe, performant, scalable, and easy to maintain.

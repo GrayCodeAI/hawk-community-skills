@@ -1,6 +1,8 @@
 ---
-name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session or facing 3+ independent issues that can be investigated without shared state or dependencies - dispatches fresh subagent for each task with code review between tasks, enabling fast iteration with quality gates
+name: neo-subagent-driven-development
+description: "Use when executing implementation plans with independent tasks in the current session or facing 3+ independent issues that can be investigated without shared state or dependencies - dispatches fres..."
+license: MIT
+tags: [general]
 ---
 
 # Subagent-Driven Development

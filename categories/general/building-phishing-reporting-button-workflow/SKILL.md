@@ -1,13 +1,14 @@
 ---
 name: building-phishing-reporting-button-workflow
-description: Implement a phishing report button in email clients with automated triage workflow that analyzes user-reported suspicious emails and provides feedback to reporters.
+description: "Implement a phishing report button in email clients with automated triage workflow that analyzes user-reported suspicious emails and provides feedback to reporters."
+license: MIT
+tags: [phishing-reporting, email-security, incident-response, security-awareness, outlook, microsoft-365, soar]
 domain: cybersecurity
 subdomain: phishing-defense
-tags: [phishing-reporting, email-security, incident-response, security-awareness, outlook, microsoft-365, soar]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Building Phishing Reporting Button Workflow
 
 ## Overview

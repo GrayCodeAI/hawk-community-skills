@@ -1,3 +1,10 @@
+---
+name: bpl-grimoire[2.0]
+description: "Skill: bpl-grimoire[2.0]"
+license: MIT
+tags: [general]
+---
+
 # Prompt to media:
 ## Ai images:
 
@@ -98,4 +105,3 @@ https://github.com/smol-ai/developer
 
 # Data analysis
 https://julius.ai/
-

@@ -1,3 +1,10 @@
+---
+name: gpt-v8dghlbiu_prompt_injection_maker
+description: "Skill: gpt-v8dghlbiu_prompt_injection_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-v8DghLbiu-prompt-injection-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-eqTSaPYUmVIrQfbSN0WEMduR?se=2123-10-22T16%3A48%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dilus_5.webp&sig=g/kNJOATHBzt5NRZUxOa1/KtzsI4%2BWgU0AYgm50rulg%3D" width="100px" />

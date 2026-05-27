@@ -1,6 +1,8 @@
 ---
-description: 'C# アプリケーション構築指針 by @tsubakimoto'
-applyTo: '**/*.cs'
+name: ghcp-instructions-csharp-ja.instructions
+description: "Skill: ghcp-instructions-csharp-ja.instructions"
+license: MIT
+tags: [general]
 ---
 
 # C# アプリケーション開発

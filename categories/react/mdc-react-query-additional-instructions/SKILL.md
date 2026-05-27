@@ -1,7 +1,10 @@
 ---
-description: This rule lists additional instructions for using React Query, including TypeScript usage, error handling, and debugging tools.
-globs: src/**/*.tsx
+name: mdc-react-query-additional-instructions
+description: "This rule lists additional instructions for using React Query, including TypeScript usage, error handling, and debugging tools."
+license: MIT
+tags: [react]
 ---
+
 - Use TypeScript for type safety with React Query
 - Implement proper error boundaries for query errors
 - Utilize React Query DevTools for debugging

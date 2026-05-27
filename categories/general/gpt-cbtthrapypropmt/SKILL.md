@@ -1,3 +1,10 @@
+---
+name: gpt-cbtthrapypropmt
+description: "Skill: gpt-cbtthrapypropmt"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 I am not a CBT therapist, but reading popular books about CBT really helped me overcome my anxiety and other issues. Sharing a prompt that is helping me:
 "

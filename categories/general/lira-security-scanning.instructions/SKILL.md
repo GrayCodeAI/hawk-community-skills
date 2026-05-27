@@ -1,5 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts,package.json,package-lock.json,yarn.lock,pnpm-lock.yaml"
+name: lira-security-scanning.instructions
+description: "Skill: lira-security-scanning.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Security Scanning Guidelines 

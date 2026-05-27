@@ -1,9 +1,12 @@
 ---
-name: ddd-context
-description: Create and manage a DDD bounded context with standard directory structure
-argument-hint: "<context-name>"
+name: flow-ddd-context
+description: "Create and manage a DDD bounded context with standard directory structure"
+license: MIT
+tags: [general]
+argument-hint: <context-name>
 allowed-tools: Bash(mkdir * find * ls *) Read Write Edit Grep Glob mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__agentdb_hierarchical-store
 ---
+
 Create a bounded context directory structure for the given context name.
 
 Parse `$ARGUMENTS` as the context name (kebab-case). If empty, list existing contexts.

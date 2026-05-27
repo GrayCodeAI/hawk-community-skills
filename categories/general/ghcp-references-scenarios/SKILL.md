@@ -1,3 +1,10 @@
+---
+name: ghcp-references-scenarios
+description: "Skill: ghcp-references-scenarios"
+license: MIT
+tags: [general]
+---
+
 # Scenario Challenges
 
 Present these as real-world situations. Ask the user what commands/shortcuts they'd use.

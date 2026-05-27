@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for configuring and using Vim/Neovim as a high-performance, terminal-centric IDE, emphasizing modern practices, efficient plugin management, and advanced workflows.
-globs: **/*
+name: mdc-vim
+description: "Definitive guidelines for configuring and using Vim/Neovim as a high-performance, terminal-centric IDE, emphasizing modern practices, efficient plugin management, and advanced workflows."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # vim Best Practices
 
 Vim (and especially Neovim) is a powerful, programmable editor. Treat it as a foundation for a custom IDE. This guide focuses on modern Neovim practices, which are largely applicable to Vim 8+ with appropriate plugin choices.

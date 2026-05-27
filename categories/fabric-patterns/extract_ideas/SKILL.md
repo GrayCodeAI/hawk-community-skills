@@ -1,9 +1,10 @@
 ---
 name: extract_ideas
-description: Fabric pattern - extract_ideas
-domain: general
+description: "Fabric pattern - extract_ideas"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -47,4 +48,3 @@ END EXAMPLE OUTPUT
 # INPUT
 
 INPUT:
-

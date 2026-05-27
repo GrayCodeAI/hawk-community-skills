@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Share of Shelf"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "digital-shelf"
-    - "visibility"
-    - "category-analysis"
-    - "monitoring"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "share of shelf"
+name: ecom-share-of-shelf
+description: "Skill: ecom-share-of-shelf"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Share of Shelf

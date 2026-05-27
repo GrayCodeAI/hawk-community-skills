@@ -1,3 +1,10 @@
+---
+name: gpt-h8ddj1odo_llm-daily
+description: "Skill: gpt-h8ddj1odo_llm-daily"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H8dDj1Odo-llm-daily
 
 GPT Title: LLM Daily

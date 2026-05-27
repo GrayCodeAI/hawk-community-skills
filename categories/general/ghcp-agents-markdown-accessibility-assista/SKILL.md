@@ -1,12 +1,10 @@
 ---
-description: 'Improves the accessibility of markdown files using five GitHub best practices'
-name: Markdown Accessibility Assistant
-model: 'Claude Sonnet 4.6'
-tools:
-  - read
-  - edit
-  - search
-  - execute
+name: ghcp-agents-markdown-accessibility-assista
+description: "Improves the accessibility of markdown files using five GitHub best practices"
+license: MIT
+tags: [general]
+model: Claude Sonnet 4.6
+tools: None
 ---
 
 # Markdown Accessibility Assistant

@@ -1,3 +1,10 @@
+---
+name: glfr-git-workflow
+description: "Skill: glfr-git-workflow"
+license: MIT
+tags: [general]
+---
+
 # Git Workflow
 
 ## Commit Messages

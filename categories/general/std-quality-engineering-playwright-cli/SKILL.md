@@ -1,14 +1,11 @@
 ---
-name: quality-engineering-playwright-cli
-description: Standardizes token-efficient browser automation via playwright-cli. Use for web verification, navigation, and capturing snapshots/logs.
-metadata:
-  triggers:
-    keywords:
-    - playwright-cli
-    - browser automation
-    - web verify
-    - browser navigate
-    - page verification
+name: std-quality-engineering-playwright-cli
+description: "Standardizes token-efficient browser automation via playwright-cli. Use for web verification, navigation, and capturing snapshots/logs."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 🎭 Playwright CLI (Web Automation)

@@ -1,8 +1,10 @@
 ---
-name: polygon-io-automation
+name: composio-polygon-io-automation
 description: "Automate Polygon IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Polygon IO Automation via Rube MCP

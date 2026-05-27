@@ -1,3 +1,10 @@
+---
+name: ghcp-references-instancio
+description: "Skill: ghcp-references-instancio"
+license: MIT
+tags: [general]
+---
+
 # Instancio
 
 Generate complex test objects automatically. Use when entities/DTOs have 3+ properties.

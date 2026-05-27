@@ -1,3 +1,10 @@
+---
+name: cpa-dedicated-hsm
+description: "Skill: cpa-dedicated-hsm"
+license: MIT
+tags: [general]
+---
+
 # az dedicated-hsm
 
 ```bash

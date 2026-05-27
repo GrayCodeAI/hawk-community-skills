@@ -1,6 +1,8 @@
 ---
-name: codeql
-description: Comprehensive guide for setting up and configuring CodeQL code scanning via GitHub Actions workflows and the CodeQL CLI. This skill should be used when users need help with code scanning configuration, CodeQL workflow files, CodeQL CLI commands, SARIF output, security analysis setup, or troubleshooting CodeQL analysis.
+name: ghcp-codeql-skill
+description: "Comprehensive guide for setting up and configuring CodeQL code scanning via GitHub Actions workflows and the CodeQL CLI. This skill should be used when users need help with code scanning configurat..."
+license: MIT
+tags: [general]
 ---
 
 # CodeQL Code Scanning

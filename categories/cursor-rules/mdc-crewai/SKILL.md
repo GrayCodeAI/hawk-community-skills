@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, maintainable, and scalable multi-agent systems using CrewAI, focusing on modularity, clear role definition, and disciplined LLM configuration.
-globs: **/*.py
+name: mdc-crewai
+description: "Definitive guidelines for building robust, maintainable, and scalable multi-agent systems using CrewAI, focusing on modularity, clear role definition, and disciplined LLM configuration."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # CrewAI Best Practices
 
 This document outlines the definitive best practices for developing with CrewAI, ensuring your multi-agent systems are maintainable, performant, and production-ready. Adhere to these guidelines for all new and existing CrewAI projects.

@@ -1,3 +1,10 @@
+---
+name: gpt-a4ygo3q49_fantasy-book-weaver
+description: "Skill: gpt-a4ygo3q49_fantasy-book-weaver"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver
 
 GPT Title: [deleted] Fantasy Book Weaver

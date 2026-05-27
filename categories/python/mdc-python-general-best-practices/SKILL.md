@@ -1,7 +1,10 @@
 ---
-description: Applies general Python coding best practices across all Python files in the project, focusing on code clarity, style, and maintainability.
-globs: **/*.py
+name: mdc-python-general-best-practices
+description: "Applies general Python coding best practices across all Python files in the project, focusing on code clarity, style, and maintainability."
+license: MIT
+tags: [python]
 ---
+
 - Follow PEP 8 style guide for formatting.
 - Use docstrings to document functions and classes.
 - Write simple and clear code; avoid unnecessary complexity.

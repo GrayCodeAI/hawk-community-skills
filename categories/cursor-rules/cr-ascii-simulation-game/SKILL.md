@@ -1,9 +1,10 @@
 ---
 name: cr-ascii-simulation-game
-description: Cursor rules for ascii-simulation-game
-domain: engineering
+description: "Cursor rules for ascii-simulation-game"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -118,4 +119,3 @@ like conway's game of life, nations should be able to "see" eachother and react 
 like conway's game of life, the nations should be able to "see" the resources and react to them
 
 there should be a chart page that tracks just about everything that can be tracked in the game
-

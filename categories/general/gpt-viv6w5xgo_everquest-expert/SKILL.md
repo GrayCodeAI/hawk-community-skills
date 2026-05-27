@@ -1,3 +1,10 @@
+---
+name: gpt-viv6w5xgo_everquest-expert
+description: "Skill: gpt-viv6w5xgo_everquest-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert
 
 GPT Title: EverQuest Expert

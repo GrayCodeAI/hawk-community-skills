@@ -1,3 +1,10 @@
+---
+name: gpt-t92zakhgy_fluidgpt_inofficial
+description: "Skill: gpt-t92zakhgy_fluidgpt_inofficial"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-T92Zakhgy-fluidgpt-inofficial
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-s0klPAGELa1q2lsBukgbT9pw?se=2124-01-05T20%3A55%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dfluid.png&sig=JIFY6PWL%2BNOMaIrlq/TZjJbY9asaZ7RDtph/ok8xxg4%3D" width="100px" />

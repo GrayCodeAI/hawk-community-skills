@@ -1,3 +1,10 @@
+---
+name: cpa-network-analytics
+description: "Skill: cpa-network-analytics"
+license: MIT
+tags: [general]
+---
+
 # az network-analytics
 
 ```bash

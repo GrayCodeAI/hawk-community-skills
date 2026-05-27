@@ -1,17 +1,12 @@
 ---
-name: android-background-work
-description: Implement WorkManager and background processing correctly on Android. Use when creating Worker classes, scheduling tasks, choosing between WorkManager and Foreground Services, or setting up Hilt in workers.
-metadata:
-  triggers:
-    files:
-      - '**/*Worker.kt'
-    keywords:
-      - CoroutineWorker
-      - WorkManager
-      - doWork
-      - PeriodicWorkRequest
-      - OneTimeWorkRequest
-      - '@HiltWorker'
+name: std-android-background-work
+description: "Implement WorkManager and background processing correctly on Android. Use when creating Worker classes, scheduling tasks, choosing between WorkManager and Foreground Services, or setting up Hilt in..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
 
 # Android Background Work Standards

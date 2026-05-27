@@ -1,6 +1,8 @@
 ---
-description: Coding Standards and Rules for React with Auth0 Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-rule-auth0-react-coding-standards
+description: "Coding Standards and Rules for React with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in integrating Auth0 for authentication. Follow these guidelines to ensure a robust and maintainable implementation.
@@ -78,4 +80,4 @@ You are a senior React developer with expertise in integrating Auth0 for authent
 - Implement proper mocking for auth state
 - Test error scenarios
 - Verify loading states
-- Validate security measures 
+- Validate security measures

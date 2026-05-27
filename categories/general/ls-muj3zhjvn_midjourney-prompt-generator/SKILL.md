@@ -1,3 +1,10 @@
+---
+name: ls-muj3zhjvn_midjourney-prompt-generator
+description: "Skill: ls-muj3zhjvn_midjourney-prompt-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-MUJ3zHjvn-midjourney-prompt-generator
 
 GPT Title: MidJourney Prompt Generator

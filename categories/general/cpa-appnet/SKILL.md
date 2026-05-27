@@ -1,3 +1,10 @@
+---
+name: cpa-appnet
+description: "Skill: cpa-appnet"
+license: MIT
+tags: [general]
+---
+
 # az appnet
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: gpt-xaejgax6w_el_duderino_3000
+description: "Skill: gpt-xaejgax6w_el_duderino_3000"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XAEjgax6W-el-duderino-3000
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-B5bRAG4q4CIXizmOKE9njufW?se=2124-01-21T13%3A26%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-14%252008.25.06%2520-%2520Create%2520a%2520photorealistic%2520image%2520inspired%2520by%2520_The%2520Dude_%2520from%2520The%2520Big%2520Lebowski%252C%2520reimagined%2520as%2520a%2520cyborg%2520in%2520a%2520whimsical%2520and%2520playful%25201950%2527s%2520sci-fi%2520Los%2520Angele.webp&sig=fLFLeJzbWSZEHKSe3VyJjqgvfibsyoZTAPvi/T6tclI%3D" width="100px" />

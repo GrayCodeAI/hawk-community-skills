@@ -1,3 +1,10 @@
+---
+name: ls-vyzt7bvam_ai-doctor
+description: "Skill: ls-vyzt7bvam_ai-doctor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor
 
 GPT Title: AI Doctor

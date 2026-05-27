@@ -1,7 +1,10 @@
 ---
-description: Enforces general code quality and style guidelines across the entire project, including TypeScript best practices, functional programming principles, and code review processes.
-globs: **/*.*
+name: mdc-general-code-quality-and-style
+description: "Enforces general code quality and style guidelines across the entire project, including TypeScript best practices, functional programming principles, and code review processes."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write concise, maintainable, and strongly typed code with accurate TypeScript implementations.
 - Embrace functional, declarative programming. Avoid OOP and classes.
 - Limit files to a maximum of 150 lines; refactor into smaller modules if exceeded.

@@ -1,3 +1,10 @@
+---
+name: ghcp-skeletons-skeleton-inventory
+description: "Skill: ghcp-skeletons-skeleton-inventory"
+license: MIT
+tags: [general]
+---
+
 # Skeleton: threat-inventory.json
 
 > **⛔ Use EXACT field names shown below. Common errors: `display_name` (wrong→`display`), `category` (wrong→`stride_category`), `name` (wrong→`title`).**

@@ -1,3 +1,10 @@
+---
+name: ls-2hbpcasle_employee_resignation_letter_-_custom_gpt
+description: "Skill: ls-2hbpcasle_employee_resignation_letter_-_custom_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2hBPCASLE-employee-resignation-letter-custom-gpt-prompt
 
 GPT logo: <img src="None" width="100px" />

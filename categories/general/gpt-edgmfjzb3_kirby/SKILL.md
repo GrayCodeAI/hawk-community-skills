@@ -1,3 +1,10 @@
+---
+name: gpt-edgmfjzb3_kirby
+description: "Skill: gpt-edgmfjzb3_kirby"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eDGmfjZb3-kirby
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-sqAJDdIiWO2vZyZl8VAKpEUt?se=2123-10-24T14%3A13%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1c4c34a5-c69e-4004-8367-9a85a1c5fb8c.png&sig=bvti/f7SXe7ttncD6KvuFhFdwwjxNjn8slytYHuzRvo%3D" width="100px" />

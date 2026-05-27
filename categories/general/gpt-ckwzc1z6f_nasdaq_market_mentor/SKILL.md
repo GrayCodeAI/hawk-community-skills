@@ -1,3 +1,10 @@
+---
+name: gpt-ckwzc1z6f_nasdaq_market_mentor
+description: "Skill: gpt-ckwzc1z6f_nasdaq_market_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ckWZC1Z6f-nasdaq-market-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nC72sU4k4RBfXl7Hpyc0fzek?se=2123-10-18T00%3A44%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db544f74e-e3b2-4336-8223-da9614f38151.png&sig=CkfnB8dA5UvrBLlKHX/zrsWOnjYGAU6RAlPdRzVHeTQ%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: csharp-async
-description: 'Get best practices for C# async programming'
+name: ghcp-csharp-async-skill
+description: "Get best practices for C# async programming"
+license: MIT
+tags: [general]
 ---
 
 # C# Async Programming Best Practices

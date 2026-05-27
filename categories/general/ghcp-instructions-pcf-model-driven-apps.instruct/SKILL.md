@@ -1,6 +1,8 @@
 ---
-description: 'Code components for model-driven apps implementation and configuration'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-model-driven-apps.instruct
+description: "Skill: ghcp-instructions-pcf-model-driven-apps.instruct"
+license: MIT
+tags: [general]
 ---
 
 # Code Components for Model-Driven Apps

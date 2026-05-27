@@ -1,10 +1,12 @@
 ---
-name: linux-shell-scripting
-description: "Provide production-ready shell script templates for common Linux system administration tasks including backups, monitoring, user management, log analysis, and automation. These scripts serve as building blocks for security operations and penetration testing environments."
+name: ag-linux-shell-scripting
+description: "Provide production-ready shell script templates for common Linux system administration tasks including backups, monitoring, user management, log analysis, and automation. These scripts serve as bui..."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 author: zebbern
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Linux Production Shell Scripts

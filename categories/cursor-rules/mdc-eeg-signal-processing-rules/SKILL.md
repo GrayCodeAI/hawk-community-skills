@@ -1,7 +1,10 @@
 ---
-description: Rules for EEG signal processing related files, focusing on data integrity and algorithm efficiency.
-globs: /eeg_processing/**/*.*
+name: mdc-eeg-signal-processing-rules
+description: "Rules for EEG signal processing related files, focusing on data integrity and algorithm efficiency."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Develop robust algorithms for EEG data analysis and visualization.
 - Implement real-time signal processing and feature extraction.
 - Ensure data integrity and accuracy throughout the processing pipeline.

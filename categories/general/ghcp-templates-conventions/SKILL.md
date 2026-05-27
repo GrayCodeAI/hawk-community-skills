@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-conventions
+description: "Skill: ghcp-templates-conventions"
+license: MIT
+tags: [general]
+---
+
 # Coding Conventions
 
 ## Core Sections (Required)

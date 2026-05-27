@@ -1,3 +1,10 @@
+---
+name: cpa-blueprint
+description: "Skill: cpa-blueprint"
+license: MIT
+tags: [general]
+---
+
 # az blueprint
 
 ```bash

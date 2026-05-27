@@ -1,8 +1,10 @@
 ---
-name: zyte-api-automation
+name: composio-zyte-api-automation
 description: "Automate Zyte API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Zyte API Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: gpt-dynarmicregisterallocator
+description: "Skill: gpt-dynarmicregisterallocator"
+license: MIT
+tags: [general]
+---
+
 # Register Allocation (x64 Backend)
 
 `HostLoc`s contain values. A `HostLoc` ("host value location") is either a host CPU register or a host spill location.

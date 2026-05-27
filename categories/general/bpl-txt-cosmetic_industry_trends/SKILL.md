@@ -1,9 +1,10 @@
 ---
-name: bpl-cosmetic_industry_trends
-description: System prompt - cosmetic_industry_trends
-domain: general
+name: bpl-txt-cosmetic_industry_trends
+description: "System prompt - cosmetic_industry_trends"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

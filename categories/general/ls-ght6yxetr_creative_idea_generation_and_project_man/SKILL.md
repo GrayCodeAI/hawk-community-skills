@@ -1,3 +1,10 @@
+---
+name: ls-ght6yxetr_creative_idea_generation_and_project_man
+description: "Skill: ls-ght6yxetr_creative_idea_generation_and_project_man"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ght6YXetr-creative-idea-generation-and-project-management
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-78rIQUvkdtCeKE6QpwhzFxPh?se=2123-11-04T12%3A51%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcreativity.png&sig=%2BUpIoDl5OzuVR1v1EvFiJvgS5Bbvk7rMj1cfskpgo94%3D" width="100px" />

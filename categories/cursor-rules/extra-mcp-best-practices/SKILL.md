@@ -1,7 +1,9 @@
 ---
-description: Best practices for developing Model Context Protocol (MCP) tools with proper configuration and behavior
-globs: "*.mcp, mcp-*/**"
-alwaysApply: false
+name: extra-mcp-best-practices
+description: "Best practices for developing Model Context Protocol (MCP) tools with"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # MCP Best Practices - May 26, 2025

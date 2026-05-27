@@ -1,9 +1,10 @@
 ---
 name: rate_ai_result
-description: Fabric pattern - rate_ai_result
-domain: general
+description: "Fabric pattern - rate_ai_result"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

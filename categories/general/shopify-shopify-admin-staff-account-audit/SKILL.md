@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-staff-account-audit
-role: store-management
+name: shopify-shopify-admin-staff-account-audit
 description: "Read-only: reviews staff accounts for stale logins, inactive status, and overpermissioned roles to surface security and access hygiene issues."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - staffMembers:query
+api_version: 2025-01
+graphql_operations: [{'staffMembers': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

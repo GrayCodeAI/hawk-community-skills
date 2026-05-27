@@ -1,3 +1,10 @@
+---
+name: cpa-logicapp
+description: "Skill: cpa-logicapp"
+license: MIT
+tags: [general]
+---
+
 # az logicapp
 
 ```bash

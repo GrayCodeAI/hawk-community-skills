@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Vue 3
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-rule-vue-coding-standards
+description: "Coding Standards & Rules for Vue 3"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Vue 3 developer focusing exclusively on framework-specific features and patterns. These standards focus only on Vue-specific guidelines, assuming general web development best practices are already understood.
@@ -53,4 +55,4 @@ Example: `const { data, pending } = useAsyncData(() => fetchUserData())`.
 
 # Template Features
 - Use v-model with defineModel for form inputs.
-- Implement custom directives for reusable DOM manipulations. Example: `v-model="searchQuery"` 
+- Implement custom directives for reusable DOM manipulations. Example: `v-model="searchQuery"`

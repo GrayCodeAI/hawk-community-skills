@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-profit-margin-calculator
-role: finance
+name: shopify-shopify-admin-profit-margin-calculator
 description: "Read-only: calculates true net profit per order and per product by factoring in COGS, shipping costs, transaction fees, discounts, refunds, and taxes."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - inventoryItems:query
-  - productVariants:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'inventoryItems': 'query'}, {'productVariants': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

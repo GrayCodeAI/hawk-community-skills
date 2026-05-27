@@ -1,3 +1,10 @@
+---
+name: rb-architecture
+description: "Skill: rb-architecture"
+license: MIT
+tags: [general]
+---
+
 # System Architecture Document
 
 ## Overview:

@@ -1,9 +1,10 @@
 ---
 name: google-style-shellguide
-description: Google official style guide for shellguide
-domain: engineering
+description: "Google official style guide for shellguide"
+license: MIT
 tags: [google, style-guide, shellguide]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 

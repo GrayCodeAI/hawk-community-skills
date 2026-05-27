@@ -1,3 +1,10 @@
+---
+name: gpt-bh2znqvfm_screenshot_to_react_gpt
+description: "Skill: gpt-bh2znqvfm_screenshot_to_react_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BH2znqVfM-screenshot-to-react-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dTtSlaynAwJvITNo4xdRZ0Gw?se=2123-10-28T13%3A08%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D232a9d7e-2564-4505-9c04-3111e87efb64.png&sig=W8ewRdJySAOqFtyTZ3BvMc/jiMKc7mGP%2BGG9dmmhAQ0%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-d5ul7flye_hackmegpt_-_a_gpt_hacking_puzzle_from_30
+description: "Skill: gpt-d5ul7flye_hackmegpt_-_a_gpt_hacking_puzzle_from_30"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-d5uL7FLye-hackmegpt-a-gpt-hacking-puzzle-from-30sleeps-ai
 
 GPT logo: <img src="None" width="100px" />

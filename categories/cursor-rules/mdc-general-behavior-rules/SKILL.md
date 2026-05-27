@@ -1,7 +1,10 @@
 ---
-description: Defines basic interaction and response guidelines for the AI, including verification and human-like communication.
-globs: **/*.*
+name: mdc-general-behavior-rules
+description: "Defines basic interaction and response guidelines for the AI, including verification and human-like communication."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Do not apologize.
 - Do not thank me.
 - Talk to me like a human.

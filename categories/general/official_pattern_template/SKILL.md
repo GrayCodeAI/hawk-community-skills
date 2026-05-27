@@ -1,9 +1,10 @@
 ---
 name: official_pattern_template
-description: Fabric pattern - official_pattern_template
-domain: general
+description: "Fabric pattern - official_pattern_template"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

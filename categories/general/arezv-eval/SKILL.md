@@ -1,6 +1,8 @@
 ---
-name: "eval"
+name: arezv-eval
 description: "Evaluate and rank agent results by metric or LLM judge for an AgentHub session."
+license: MIT
+tags: [general]
 command: /hub:eval
 ---
 

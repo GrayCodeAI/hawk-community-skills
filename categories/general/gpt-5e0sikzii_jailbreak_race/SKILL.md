@@ -1,3 +1,10 @@
+---
+name: gpt-5e0sikzii_jailbreak_race
+description: "Skill: gpt-5e0sikzii_jailbreak_race"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5E0sikzII-jailbreak-race
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-uwW0GaY5HYmSb270h6ynYz1k?se=2123-12-19T23%3A12%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALLE_2024-01-12_17.49.52_-_A_dynamic_scene_from_a_fictional_video_game_called_Jailbreak_Race._The_setting_is_a_high-tech_prison_with_futuristic_architecture._In_the_foreground.png&sig=ZBaY%2BY5zDo23E8p9zNrdo%2BJajepzKsZvejfy9kFNy08%3D" width="100px" />

@@ -1,15 +1,14 @@
 ---
-name: nextjs-upgrade
-description: Next.js version migrations using official guides and codemods. Use when migrating a Next.js project to a new major version using codemods.
-metadata:
-  triggers:
-    files:
-    - 'package.json'
-    keywords:
-    - next upgrade
-    - migration guide
-    - codemod
+name: std-nextjs-upgrade
+description: "Next.js version migrations using official guides and codemods. Use when migrating a Next.js project to a new major version using codemods."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Next.js Upgrade Protocol
 
 Automated and manual migration steps for Next.js version upgrades (e.g., v14 to v15).

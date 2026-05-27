@@ -1,13 +1,13 @@
 ---
 name: building-ai-agent-on-cloudflare
-description: Builds AI agents on Cloudflare using the Agents SDK with state management, real-time WebSockets, scheduled tasks, tool integration, and chat capabilities.
+description: "Builds AI agents on Cloudflare using the Agents SDK with state management, real-time WebSockets, scheduled tasks, tool integration, and chat capabilities."
+license: MIT
+tags: [ai-agents, cloudflare, workers, agents-sdk, websockets, state-management, chatbot, durable-objects]
 domain: ai-ml
 subdomain: cloudflare-agents
-tags: [ai-agents, cloudflare, workers, agents-sdk, websockets, state-management, chatbot, durable-objects]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Building Cloudflare Agents

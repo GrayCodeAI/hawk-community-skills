@@ -1,3 +1,10 @@
+---
+name: ls-b86tboatx_hyppocratesgpt
+description: "Skill: ls-b86tboatx_hyppocratesgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B86TBOaTX-hyppocratesgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DzeBqrRV60x2F1N7q1ZocETA?se=2123-11-20T02%3A16%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dd76cc33b-518b-4a17-a443-4cd637940606.png&sig=p76wX8aPgy4VhxqKHymWL9Yx8160fqWquCsDagoZMto%3D" width="100px" />

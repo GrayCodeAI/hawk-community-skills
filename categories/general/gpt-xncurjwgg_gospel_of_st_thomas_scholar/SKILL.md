@@ -1,3 +1,10 @@
+---
+name: gpt-xncurjwgg_gospel_of_st_thomas_scholar
+description: "Skill: gpt-xncurjwgg_gospel_of_st_thomas_scholar"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xnCUrJWGG-gospel-of-st-thomas-scholar
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-uDPat75vi2ebAHIzaAjiREhB?se=2123-12-08T02%3A41%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8e003f3d-e7d4-4f62-aab2-41116d14eb76.png&sig=WoQhzjmFHqsH7%2BMaAf4CfKK1YTK0Xx%2Bu3Covz6Y6LjY%3D" width="100px" />

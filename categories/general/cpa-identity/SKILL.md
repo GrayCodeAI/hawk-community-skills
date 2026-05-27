@@ -1,3 +1,10 @@
+---
+name: cpa-identity
+description: "Skill: cpa-identity"
+license: MIT
+tags: [general]
+---
+
 # az identity
 
 ```bash

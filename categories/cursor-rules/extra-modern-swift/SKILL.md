@@ -1,3 +1,10 @@
+---
+name: extra-modern-swift
+description: "Skill: extra-modern-swift"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Modern Swift Development
 
 Write idiomatic SwiftUI code following Apple's latest architectural recommendations and best practices.

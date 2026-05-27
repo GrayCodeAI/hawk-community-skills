@@ -1,3 +1,10 @@
+---
+name: cpa-cloud-service
+description: "Skill: cpa-cloud-service"
+license: MIT
+tags: [general]
+---
+
 # az cloud-service
 
 ```bash

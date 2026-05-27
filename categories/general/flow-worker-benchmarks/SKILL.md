@@ -1,7 +1,9 @@
 ---
-name: worker-benchmarks
-description: Run comprehensive worker system benchmarks and performance analysis
-user-invocable: true
+name: flow-worker-benchmarks
+description: "Run comprehensive worker system benchmarks and performance analysis"
+license: MIT
+tags: [general]
+user-invocable: True
 ---
 
 # Worker Benchmarks Skill

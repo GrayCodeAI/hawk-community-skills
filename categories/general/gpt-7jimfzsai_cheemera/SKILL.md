@@ -1,3 +1,10 @@
+---
+name: gpt-7jimfzsai_cheemera
+description: "Skill: gpt-7jimfzsai_cheemera"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7JIMFzSAI-cheemera
 
 GPT logo: <img src="None" width="100px" />

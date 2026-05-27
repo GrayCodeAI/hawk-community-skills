@@ -1,7 +1,9 @@
 ---
-name: react-specialist
-description: React 19 development with hooks, state management, concurrent features, and component architecture
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-react-specialist
+description: "React 19 development with hooks, state management, concurrent features, and component architecture"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

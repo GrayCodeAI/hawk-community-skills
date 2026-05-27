@@ -1,14 +1,17 @@
 ---
-description: 
-globs: 
-alwaysApply: false
+name: wayn-clerk-auth-check
+description: "Skill: wayn-clerk-auth-check"
+license: MIT
+tags: [general]
+alwaysApply: False
 ---
+
 This rule helps ensure that React components using Convex queries with Clerk authentication correctly handle loading and authentication states before attempting to fetch data, especially for admin-protected queries.
 
 ````
 name: convex-clerk-admin-auth-guard
 description: Ensures React components correctly handle auth state before calling admin-protected Convex queries.
-globs: src/**/*.{ts,tsx}
+globs: "src/**/*".{ts,tsx}
 condition: |
   // Heuristic: Component uses useQuery/usePaginatedQuery for an "admin" query
   // AND does NOT seem to have robust useConvexAuth handling for skipping.
@@ -57,4 +60,3 @@ advice: |
   This prevents queries from running before authentication is resolved, avoiding "No identity found" errors from `requireAdminRole` in your Convex functions.
 
 ````
-

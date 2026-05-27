@@ -1,17 +1,12 @@
 ---
 name: securing-azure-with-microsoft-defender
-description: >
-  This skill instructs security practitioners on deploying Microsoft Defender for Cloud
-  as a cloud-native application protection platform for Azure, multi-cloud, and hybrid
-  environments. It covers enabling Defender plans for servers, containers, storage, and
-  databases, configuring security recommendations, managing Secure Score, and integrating
-  with the unified Defender portal for centralized threat management.
+description: "This skill instructs security practitioners on deploying Microsoft Defender for Cloud as a cloud-native application protection platform for Azure, multi-cloud, and hybrid environments. It covers en..."
+license: MIT
+tags: [microsoft-defender, azure-security, cnapp, secure-score, cloud-workload-protection]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [microsoft-defender, azure-security, cnapp, secure-score, cloud-workload-protection]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Securing Azure with Microsoft Defender

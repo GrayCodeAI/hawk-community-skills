@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and high-quality end-to-end tests with Playwright in TypeScript.
-globs: **/*.{js,ts}
+name: mdc-playwright
+description: "Definitive guidelines for writing robust, maintainable, and high-quality end-to-end tests with Playwright in TypeScript."
+license: MIT
+tags: [testing]
 ---
+
 # Playwright Best Practices
 
 Playwright is the gold standard for reliable E2E testing. These rules ensure your tests are fast, stable, and easy to maintain, aligning with modern 2025 development standards for reliability, quality, and structure.

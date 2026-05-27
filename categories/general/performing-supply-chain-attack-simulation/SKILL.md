@@ -1,12 +1,12 @@
 ---
 name: performing-supply-chain-attack-simulation
-description: Simulate and detect software supply chain attacks including typosquatting detection via Levenshtein distance, dependency confusion testing against private registries, package hash verification with pip, and known vulnerability scanning with pip-audit.
+description: "Simulate and detect software supply chain attacks including typosquatting detection via Levenshtein distance, dependency confusion testing against private registries, package hash verification with..."
+license: MIT
+tags: [supply-chain, typosquatting, dependency-confusion, package-verification, pip-audit, pypi, software-composition-analysis]
 domain: cybersecurity
 subdomain: application-security
-tags: [supply-chain, typosquatting, dependency-confusion, package-verification, pip-audit, PyPI, software-composition-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Supply Chain Attack Simulation

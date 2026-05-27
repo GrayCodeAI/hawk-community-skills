@@ -1,3 +1,10 @@
+---
+name: cpa-zones
+description: "Skill: cpa-zones"
+license: MIT
+tags: [general]
+---
+
 # az zones
 
 ```bash

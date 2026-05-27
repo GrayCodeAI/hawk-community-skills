@@ -1,9 +1,10 @@
 ---
-name: workflow-automation
-description: >
-  Workflow creation, execution, and template management. Automates complex multi-step processes with agent coordination.
-  Use when: automating processes, creating reusable workflows, orchestrating multi-step tasks.
-  Skip when: simple single-step tasks, ad-hoc operations.
+name: flow-workflow-automation
+description: "Skill: flow-workflow-automation"
+license: MIT
+tags: [general]
+Use when: automating processes, creating reusable workflows, orchestrating multi-step tasks.
+Skip when: simple single-step tasks, ad-hoc operations.
 ---
 
 # Workflow Automation Skill

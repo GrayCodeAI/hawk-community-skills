@@ -1,3 +1,10 @@
+---
+name: arb-mini
+description: "Skill: arb-mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Clean Code by Robert C. Martin
 
 ## When to use

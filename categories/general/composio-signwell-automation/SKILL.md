@@ -1,8 +1,10 @@
 ---
-name: signwell-automation
+name: composio-signwell-automation
 description: "Automate Signwell tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Signwell Automation via Rube MCP

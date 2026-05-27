@@ -1,8 +1,10 @@
 ---
-name: ocrspace-automation
+name: composio-ocrspace-automation
 description: "Automate Ocrspace tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ocrspace Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-transport-http
+description: "Skill: ghcp-references-transport-http"
+license: MIT
+tags: [general]
+---
+
 # Streamable HTTP transport (ASP.NET Core)
 
 Streamable HTTP is the modern remote transport. A single endpoint accepts JSON-RPC over HTTP POST and (optionally) streams responses back as Server-Sent Events when the server has more than one message to send.

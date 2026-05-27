@@ -1,3 +1,10 @@
+---
+name: gpt-projects
+description: "Skill: gpt-projects"
+license: MIT
+tags: [general]
+---
+
 # Projects
 
 All projects list

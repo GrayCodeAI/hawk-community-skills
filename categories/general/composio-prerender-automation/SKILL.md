@@ -1,8 +1,10 @@
 ---
-name: prerender-automation
+name: composio-prerender-automation
 description: "Automate Prerender tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Prerender Automation via Rube MCP

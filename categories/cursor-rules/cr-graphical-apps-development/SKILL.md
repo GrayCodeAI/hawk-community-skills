@@ -1,9 +1,10 @@
 ---
 name: cr-graphical-apps-development
-description: Cursor rules for graphical-apps-development
-domain: engineering
+description: "Cursor rules for graphical-apps-development"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -43,4 +44,3 @@ Pyllments code is prioritized on being developer-friendly, where extensibility a
 # Documentation
 
 Docstrings should use a NumPy/SciPy style.
-

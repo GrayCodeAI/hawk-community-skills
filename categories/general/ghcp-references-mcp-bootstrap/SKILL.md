@@ -1,3 +1,10 @@
+---
+name: ghcp-references-mcp-bootstrap
+description: "Skill: ghcp-references-mcp-bootstrap"
+license: MIT
+tags: [general]
+---
+
 # MCP Bootstrap — Quick Reference
 
 Everything an agent needs to start calling the FlowStudio MCP server.

@@ -1,3 +1,10 @@
+---
+name: gpt-wadwnw2j3_character-forger
+description: "Skill: gpt-wadwnw2j3_character-forger"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-waDWNw2J3-character-forger
 
 GPT Title: Character Forger

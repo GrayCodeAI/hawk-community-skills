@@ -1,13 +1,13 @@
 ---
 name: aws-serverless-eda
-description: AWS serverless and event-driven architecture expert based on Well-Architected Framework. Covers Lambda, API Gateway, DynamoDB, Step Functions, EventBridge, SQS, SNS, and patterns.
+description: "AWS serverless and event-driven architecture expert based on Well-Architected Framework. Covers Lambda, API Gateway, DynamoDB, Step Functions, EventBridge, SQS, SNS, and patterns."
+license: MIT
+tags: [aws, serverless, lambda, event-driven, step-functions, eventbridge, sqs, sns, dynamodb, api-gateway, microservices]
 domain: cloud
 subdomain: aws
-tags: [aws, serverless, lambda, event-driven, step-functions, eventbridge, sqs, sns, dynamodb, api-gateway, microservices]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # AWS Serverless & Event-Driven Architecture

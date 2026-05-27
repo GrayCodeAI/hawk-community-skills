@@ -1,6 +1,8 @@
 ---
-name: cs-senior-engineer
-description: Senior Engineer agent for architecture decisions, code review, DevOps, and API design. Orchestrates engineering and engineering-team skills for technical implementation work. Spawn when users need system design, code quality review, CI/CD pipeline setup, or infrastructure decisions.
+name: arezv-cs-senior-engineer
+description: "Senior Engineer agent for architecture decisions, code review, DevOps, and API design. Orchestrates engineering and engineering-team skills for technical implementation work. Spawn when users need ..."
+license: MIT
+tags: [general]
 skills: engineering
 domain: engineering
 model: sonnet

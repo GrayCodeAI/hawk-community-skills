@@ -1,8 +1,10 @@
 ---
-name: nango-automation
+name: composio-nango-automation
 description: "Automate Nango tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Nango Automation via Rube MCP

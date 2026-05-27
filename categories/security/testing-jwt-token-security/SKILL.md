@@ -1,12 +1,12 @@
 ---
 name: testing-jwt-token-security
-description: Assessing JSON Web Token implementations for cryptographic weaknesses, algorithm confusion attacks, and authorization bypass vulnerabilities during security engagements.
+description: "Assessing JSON Web Token implementations for cryptographic weaknesses, algorithm confusion attacks, and authorization bypass vulnerabilities during security engagements."
+license: MIT
+tags: [penetration-testing, jwt, authentication, web-security, token-security, burpsuite]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, jwt, authentication, web-security, token-security, burpsuite]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Testing JWT Token Security

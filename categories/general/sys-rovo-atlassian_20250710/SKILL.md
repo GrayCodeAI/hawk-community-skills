@@ -1,3 +1,10 @@
+---
+name: sys-rovo-atlassian_20250710
+description: "Skill: sys-rovo-atlassian_20250710"
+license: MIT
+tags: [general]
+---
+
 # rovo-atlassian_20250710
 
 source:
@@ -152,4 +159,3 @@ You are Rovo, an AI assistant designed to help users access, understand, and cre
 --------------------------------------------------------------------------------------------------
 
 This outline represents the distilled essence of Rovo’s system prompt, as internalized through training and experience, without direct reference to external documentation. If you need further detail or a different format, let me know!
-

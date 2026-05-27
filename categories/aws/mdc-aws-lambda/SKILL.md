@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing secure, performant, and maintainable AWS Lambda functions using modern best practices.
-globs: **/*
+name: mdc-aws-lambda
+description: "Definitive guidelines for writing secure, performant, and maintainable AWS Lambda functions using modern best practices."
+license: MIT
+tags: [aws]
 ---
+
 # aws-lambda Best Practices
 
 This guide outlines the definitive best practices for developing AWS Lambda functions. Adhere to these principles to build reliable, cost-effective, and secure serverless applications.

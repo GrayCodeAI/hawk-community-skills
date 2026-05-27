@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing React apps with Appwrite and TanStack Query
-globs: src/**/*.ts, src/**/*.tsx
+name: inst-setup-appwrite-tanstack
+description: "Guidelines for writing React apps with Appwrite and TanStack Query"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + TanStack Query Integration Setup Guide
@@ -313,4 +315,4 @@ export function handleError(error: any, customMessage = 'Operation failed') {
   }
   
   throw new AppwriteError(customMessage, error);
-} 
+}

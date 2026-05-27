@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-listing-optimization
+name: ecom-tiktok-shop-listing-optimization
 description: "Product listing optimization — titles, descriptions, images, video, attributes for TikTok search"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Listing Optimization

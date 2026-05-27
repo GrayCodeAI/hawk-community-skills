@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines and best practices for building Azure Functions in C# using the isolated worker model'
-applyTo: '**/*.cs, **/host.json, **/local.settings.json, **/*.csproj'
+name: ghcp-instructions-azure-functions-csharp.instruc
+description: "Skill: ghcp-instructions-azure-functions-csharp.instruc"
+license: MIT
+tags: [general]
 ---
 
 # Azure Functions C# Development
@@ -100,4 +102,3 @@ applyTo: '**/*.cs, **/host.json, **/local.settings.json, **/*.csproj'
 - If `RunOnStartup = true` is set on a `TimerTrigger` in a production app, flag it as a risk and suggest using deployment slots or feature flags instead.
 - If `async void` is used in any function, flag it immediately — use `async Task` instead.
 - If retry logic is implemented manually with `Thread.Sleep` or `Task.Delay` inside a function, suggest replacing with host-level retry policies or Polly resilience pipelines.
-

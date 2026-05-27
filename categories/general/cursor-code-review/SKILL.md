@@ -1,15 +1,11 @@
 ---
 name: cursor-code-review
-description: Cursor IDE rules for code-review
-domain: engineering
+description: "Cursor IDE rules for code-review"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Code review: reviewing approach, authoring PRs, feedback conventions"
-alwaysApply: true
 ---
 
 # Code Review Rules

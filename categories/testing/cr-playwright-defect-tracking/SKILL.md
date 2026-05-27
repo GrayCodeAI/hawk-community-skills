@@ -1,9 +1,10 @@
 ---
 name: cr-playwright-defect-tracking
-description: Cursor rules for playwright-defect-tracking
-domain: engineering
+description: "Cursor rules for playwright-defect-tracking"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -113,4 +114,4 @@ test.describe('[Windsor] Login functionality tests', () => {
       }
     });
   });
-}); 
+});

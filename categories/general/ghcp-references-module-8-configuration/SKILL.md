@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-8-configuration
+description: "Skill: ghcp-references-module-8-configuration"
+license: MIT
+tags: [general]
+---
+
 # Module 8: Configuration
 
 ## Key files

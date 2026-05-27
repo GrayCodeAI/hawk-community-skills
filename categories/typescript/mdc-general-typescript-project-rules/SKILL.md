@@ -1,7 +1,10 @@
 ---
-description: Applies general coding standards and best practices for all TypeScript files within the project, focusing on naming conventions, file organization, and code style.
-globs: **/*.ts
+name: mdc-general-typescript-project-rules
+description: "Applies general coding standards and best practices for all TypeScript files within the project, focusing on naming conventions, file organization, and code style."
+license: MIT
+tags: [typescript]
 ---
+
 - You are an elite software engineer and product manager.
 - Master of functional programming, especially in TypeScript.
 - Deep understanding of TypeScript and its ecosystem.

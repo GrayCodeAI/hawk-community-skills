@@ -1,3 +1,10 @@
+---
+name: ls-uakxfhsfo_socratic-mentor
+description: "Skill: ls-uakxfhsfo_socratic-mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UaKXFhSfO-socratic-mentor
 
 GPT Title: Socratic Mentor

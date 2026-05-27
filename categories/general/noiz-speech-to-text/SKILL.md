@@ -1,10 +1,10 @@
 ---
-name: speech-to-text
-description: "Use this skill whenever the user wants to transcribe audio to text, convert speech to text, or get a transcript from an audio or video file. Triggers include: any mention of 'transcribe', 'transcription', 'speech to text', 'STT', 'convert audio to text', 'what does this audio say', 'get transcript', 'subtitle generation', or requests to extract spoken words from a file. Also use when the user wants speaker identification from audio, timestamps for captions, or multilingual transcription."
-permissions:
-  - network
-  - filesystem
-metadata: {"openclaw": {"primaryEnv": "NOIZ_API_KEY"}}
+name: noiz-speech-to-text
+description: "Use this skill whenever the user wants to transcribe audio to text, convert speech to text, or get a transcript from an audio or video file. Triggers include: any mention of 'transcribe', 'transcri..."
+license: MIT
+tags: [general]
+permissions: None
+metadata: {'openclaw': {'primaryEnv': 'NOIZ_API_KEY'}}
 ---
 
 # speech-to-text

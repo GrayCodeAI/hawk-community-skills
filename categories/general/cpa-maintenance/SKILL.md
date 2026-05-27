@@ -1,3 +1,10 @@
+---
+name: cpa-maintenance
+description: "Skill: cpa-maintenance"
+license: MIT
+tags: [general]
+---
+
 # az maintenance
 
 ```bash

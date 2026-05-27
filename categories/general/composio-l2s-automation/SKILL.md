@@ -1,8 +1,10 @@
 ---
-name: l2s-automation
+name: composio-l2s-automation
 description: "Automate L2s tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # L2s Automation via Rube MCP

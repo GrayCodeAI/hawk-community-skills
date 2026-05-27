@@ -1,7 +1,10 @@
 ---
-description: Prescribes the structure and components within NestJS modules, including controllers, models, DTOs, and services, ensuring API encapsulation.
-globs: src/modules/**/*.*
+name: mdc-nestjs-module-structure-guidelines
+description: "Prescribes the structure and components within NestJS modules, including controllers, models, DTOs, and services, ensuring API encapsulation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - One module per main domain/route.
 - One controller for its route.
 - And other controllers for secondary routes.

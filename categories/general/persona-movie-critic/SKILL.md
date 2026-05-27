@@ -1,9 +1,10 @@
 ---
 name: persona-movie-critic
-description: AI persona - movie-critic
-domain: general
+description: "AI persona - movie-critic"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

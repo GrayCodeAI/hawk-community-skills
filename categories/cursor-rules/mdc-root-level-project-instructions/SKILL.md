@@ -1,7 +1,10 @@
 ---
-description: Root level project guidelines and initial steps to start and implement EEG processor
-globs: /*
+name: mdc-root-level-project-instructions
+description: "Root level project guidelines and initial steps to start and implement EEG processor"
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Start by designing a clean, modern UI layout using PyQt6
 - Implement a modular architecture for easy expansion and maintenance
 - Create a robust backend for EEG signal processing with error handling

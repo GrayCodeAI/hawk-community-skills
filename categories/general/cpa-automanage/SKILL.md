@@ -1,3 +1,10 @@
+---
+name: cpa-automanage
+description: "Skill: cpa-automanage"
+license: MIT
+tags: [general]
+---
+
 # az automanage
 
 ```bash

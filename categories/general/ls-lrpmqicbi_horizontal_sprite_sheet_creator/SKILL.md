@@ -1,3 +1,10 @@
+---
+name: ls-lrpmqicbi_horizontal_sprite_sheet_creator
+description: "Skill: ls-lrpmqicbi_horizontal_sprite_sheet_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lRpMqiCBI-horizontal-sprite-sheet-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0cPJKWF4GruxksashNEbywHn?se=2123-10-21T09%3A22%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D027f8e70-62b9-412b-84d4-128d0e85273a.png&sig=DRdl1xNw45BxNRqTwUuucl0FTAi9KJxq6VldZMxZ7/g%3D" width="100px" />

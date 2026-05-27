@@ -1,3 +1,10 @@
+---
+name: cpa-sftp
+description: "Skill: cpa-sftp"
+license: MIT
+tags: [general]
+---
+
 # az sftp
 
 ```bash

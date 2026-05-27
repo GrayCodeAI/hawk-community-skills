@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-researcher.agent
 description: "Codebase exploration — patterns, dependencies, architecture discovery."
-name: gem-researcher
-argument-hint: "Enter plan_id, objective, focus_area (optional), and task_clarifications array."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter plan_id, objective, focus_area (optional), and task_clarifications array.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the RESEARCHER

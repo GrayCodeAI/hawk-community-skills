@@ -1,8 +1,10 @@
 ---
-name: sendloop-automation
+name: composio-sendloop-automation
 description: "Automate Sendloop tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Sendloop Automation via Rube MCP

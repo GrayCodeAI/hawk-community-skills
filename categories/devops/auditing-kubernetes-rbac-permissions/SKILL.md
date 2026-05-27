@@ -1,13 +1,14 @@
 ---
 name: auditing-kubernetes-rbac-permissions
-description: Kubernetes Role-Based Access Control (RBAC) auditing systematically reviews roles, cluster roles, bindings, and service account permissions to identify overly permissive access, privilege escalation p
+description: "Kubernetes Role-Based Access Control (RBAC) auditing systematically reviews roles, cluster roles, bindings, and service account permissions to identify overly permissive access, privilege escalation p"
+license: MIT
+tags: [containers, kubernetes, security, rbac, access-control]
 domain: cybersecurity
 subdomain: container-security
-tags: [containers, kubernetes, security, RBAC, access-control]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Auditing Kubernetes RBAC Permissions
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+name: cpa-function
+description: "Skill: cpa-function"
+license: MIT
+tags: [general]
+---
+
 # az containerapp function
 
 ```bash

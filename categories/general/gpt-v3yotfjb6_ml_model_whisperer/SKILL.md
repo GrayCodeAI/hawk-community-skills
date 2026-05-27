@@ -1,3 +1,10 @@
+---
+name: gpt-v3yotfjb6_ml_model_whisperer
+description: "Skill: gpt-v3yotfjb6_ml_model_whisperer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-V3YoTfjb6-ml-model-whisperer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-E3wifRSPL0OwGcamzc2BwyMv?se=2123-10-29T07%3A26%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7c91b6b4-fd89-4ce6-9097-8592f142d5cb.png&sig=3QTf7DZlIgeP9TuhBw04dHXQ/hZKh6R1eRWzx2N6rvc%3D" width="100px" />

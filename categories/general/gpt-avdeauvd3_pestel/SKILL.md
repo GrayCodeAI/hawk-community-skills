@@ -1,3 +1,10 @@
+---
+name: gpt-avdeauvd3_pestel
+description: "Skill: gpt-avdeauvd3_pestel"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AvdeAuVd3-pestel
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CzV4yH4R6DD50xmWuJWgylzJ?se=2123-12-23T02%3A15%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D938aaf1c-b9e1-41f1-af68-8d6e1c0a5476.png&sig=1R5rrL6uN6/eElpsFLb1Z/VsOmy6iEyYsYQMBX6PlZs%3D" width="100px" />

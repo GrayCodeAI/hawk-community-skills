@@ -1,7 +1,10 @@
 ---
-description: This rule emphasizes security, scalability, and maintainability best practices in Go API development.
-globs: /*/**/*_api.go
+name: mdc-go-api-security-and-best-practices
+description: "This rule emphasizes security, scalability, and maintainability best practices in Go API development."
+license: MIT
+tags: [go]
 ---
+
 - Implement input validation for API endpoints.
 - Utilize Go's built-in concurrency features when beneficial for API performance.
 - Follow RESTful API design principles and best practices.

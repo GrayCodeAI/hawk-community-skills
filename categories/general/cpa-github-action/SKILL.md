@@ -1,3 +1,10 @@
+---
+name: cpa-github-action
+description: "Skill: cpa-github-action"
+license: MIT
+tags: [general]
+---
+
 # az containerapp github-action
 
 ```bash

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing efficient, maintainable, and secure Python applications using Pony ORM.
-globs: **/*.py
+name: mdc-pony
+description: "Definitive guidelines for writing efficient, maintainable, and secure Python applications using Pony ORM."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # pony Best Practices
 
 Pony ORM simplifies database interactions with Pythonic syntax and powerful optimizations. Adhere to these rules for robust, high-performance applications.

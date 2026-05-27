@@ -1,3 +1,11 @@
+---
+name: gpt-qhlxar3ya_gptinfinite---loc-(lockout-controller)
+description: 'Skill: gpt-qhlxar3ya_gptinfinite---loc-(lockout-controller)'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-QHlXar3YA-gptinfinite-loc-lockout-controller
 
 GPT Title: GptInfinite - LOC (Lockout Controller)

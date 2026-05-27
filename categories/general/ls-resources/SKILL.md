@@ -1,3 +1,10 @@
+---
+name: ls-resources
+description: "Skill: ls-resources"
+license: MIT
+tags: [general]
+---
+
 # Learning Resources and Tools
 
 ## Useful GPT Index Sites/Tools

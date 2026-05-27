@@ -1,8 +1,10 @@
 ---
-name: coinmarketcal-automation
+name: composio-coinmarketcal-automation
 description: "Automate Coinmarketcal tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Coinmarketcal Automation via Rube MCP

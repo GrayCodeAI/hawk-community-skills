@@ -1,6 +1,8 @@
 ---
-name: Neon Performance Analyzer
-description: Identify and fix slow Postgres queries automatically using Neon's branching workflow. Analyzes execution plans, tests optimizations in isolated database branches, and provides clear before/after performance metrics with actionable code fixes.
+name: ghcp-agents-neon-optimization-analyzer.age
+description: "Identify and fix slow Postgres queries automatically using Neon's branching workflow. Analyzes execution plans, tests optimizations in isolated database branches, and provides clear before/after pe..."
+license: MIT
+tags: [general]
 ---
 
 # Neon Performance Analyzer

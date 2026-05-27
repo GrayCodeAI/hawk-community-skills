@@ -1,3 +1,10 @@
+---
+name: gpt-6ieq5asfx_salvador
+description: "Skill: gpt-6ieq5asfx_salvador"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6iEq5asfX-salvador
 
 GPT Title: Salvador

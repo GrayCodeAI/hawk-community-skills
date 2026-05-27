@@ -1,3 +1,10 @@
+---
+name: ghcp-references-layout-and-navigation
+description: "Skill: ghcp-references-layout-and-navigation"
+license: MIT
+tags: [general]
+---
+
 # Layout and Navigation
 
 ## Layout Components

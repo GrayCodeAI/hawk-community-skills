@@ -1,19 +1,12 @@
 ---
 name: detecting-golden-ticket-forgery
-description: Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769 for RC4 encryption downgrades (0x17), abnormal ticket lifetimes, and krbtgt account anomalies in Splunk and Elastic SIEM
+description: "Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769 for RC4 encryption downgrades (0x17), abnormal ticket lifetimes, and krbtgt account anomalies in Splunk and Elastic SIEM"
+license: MIT
+tags: [general]
 domain: cybersecurity
 subdomain: threat-detection
-tags:
-  - golden-ticket
-  - kerberos
-  - active-directory
-  - mimikatz
-  - splunk
-  - credential-theft
-  - windows-security
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Golden Ticket Forgery

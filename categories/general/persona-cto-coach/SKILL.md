@@ -1,9 +1,10 @@
 ---
 name: persona-cto-coach
-description: AI persona - cto-coach
-domain: general
+description: "AI persona - cto-coach"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

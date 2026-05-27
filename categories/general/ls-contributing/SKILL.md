@@ -1,3 +1,10 @@
+---
+name: ls-contributing
+description: "Skill: ls-contributing"
+license: MIT
+tags: [general]
+---
+
 # Contributing Guidelines
 
 Please follow the format below; it is important to keep the format consistent for the [`idxtool`](./.scripts/README.md).

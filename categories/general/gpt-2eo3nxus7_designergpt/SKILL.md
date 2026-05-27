@@ -1,3 +1,10 @@
+---
+name: gpt-2eo3nxus7_designergpt
+description: "Skill: gpt-2eo3nxus7_designergpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2Eo3NxuS7-designergpt
 
 GPT Title: DesignerGPT

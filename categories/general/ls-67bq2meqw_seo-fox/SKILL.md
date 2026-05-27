@@ -1,3 +1,10 @@
+---
+name: ls-67bq2meqw_seo-fox
+description: "Skill: ls-67bq2meqw_seo-fox"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-67BQ2meqw-seo-fox
 
 GPT Title: SEO Fox

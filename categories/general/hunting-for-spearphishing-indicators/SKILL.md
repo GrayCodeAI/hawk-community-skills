@@ -1,12 +1,12 @@
 ---
 name: hunting-for-spearphishing-indicators
-description: Hunt for spearphishing campaign indicators across email logs, endpoint telemetry, and network data to detect targeted email attacks.
+description: "Hunt for spearphishing campaign indicators across email logs, endpoint telemetry, and network data to detect targeted email attacks."
+license: MIT
+tags: [threat-hunting, mitre-attack, spearphishing, initial-access, email-security, t1566, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, spearphishing, initial-access, email-security, t1566, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting For Spearphishing Indicators

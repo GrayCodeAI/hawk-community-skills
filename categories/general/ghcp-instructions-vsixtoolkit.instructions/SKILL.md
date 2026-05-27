@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for Visual Studio extension (VSIX) development using Community.VisualStudio.Toolkit'
-applyTo: '**/*.cs, **/*.vsct, **/*.xaml, **/source.extension.vsixmanifest'
+name: ghcp-instructions-vsixtoolkit.instructions
+description: "Skill: ghcp-instructions-vsixtoolkit.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Visual Studio Extension Development with Community.VisualStudio.Toolkit

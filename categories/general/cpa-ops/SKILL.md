@@ -1,3 +1,10 @@
+---
+name: cpa-ops
+description: "Skill: cpa-ops"
+license: MIT
+tags: [general]
+---
+
 # az iot ops
 
 ```bash

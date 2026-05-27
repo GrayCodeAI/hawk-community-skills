@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building secure, typed, and maintainable integrations with the Notion API using modern best practices and official SDKs.
-globs: **/*
+name: mdc-notion-api
+description: "Definitive guidelines for building secure, typed, and maintainable integrations with the Notion API using modern best practices and official SDKs."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # notion-api Best Practices
 
 This guide establishes the definitive best practices for interacting with the Notion API. Adhering to these rules ensures our integrations are secure, performant, type-safe, and easily maintainable. We prioritize official SDKs and structured data handling.

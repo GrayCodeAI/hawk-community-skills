@@ -1,16 +1,11 @@
 ---
 name: cursor-pytorch
-description: Cursor IDE rules for pytorch
-domain: engineering
+description: "Cursor IDE rules for pytorch"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "PyTorch: neural networks, model training, GPU optimization"
-globs: ["*.py", "requirements.txt", "pyproject.toml"]
-alwaysApply: true
 ---
 
 # PyTorch Rules

@@ -1,11 +1,11 @@
 ---
-name: database-schema-design
-description: Design and optimize database schemas for SQL and NoSQL databases. Use when creating new databases, designing tables, defining relationships, indexing strategies, or database migrations. Handles PostgreSQL, MySQL, MongoDB, normalization, and performance optimization.
-metadata:
-  tags: database, schema, SQL, NoSQL, PostgreSQL, MySQL, MongoDB, migration
-  platforms: Claude, ChatGPT, Gemini
+name: database-schema-design-supercent
+description: "Design and optimize database schemas for SQL and NoSQL databases. Use when creating new databases, designing tables, defining relationships, indexing strategies, or database migrations. Handles Pos..."
+license: MIT
+tags: [database, schema, sql, nosql, postgresql, mysql, mongodb, migration]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Database Schema Design
 

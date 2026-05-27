@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-tanstack
+description: "Skill: inst-setup-neon-tanstack"
+license: MIT
+tags: [general]
+---
+
 # Neon + TanStack Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with TanStack Query (formerly React Query).
@@ -313,4 +320,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [TanStack Query Documentation](https://tanstack.com/query/latest)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

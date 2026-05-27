@@ -1,3 +1,11 @@
+---
+name: gpt-ecpd3klyj_monster-manual---official-guide-of-the-s
+description: 'Skill: gpt-ecpd3klyj_monster-manual---official-guide-of-the-s'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-eCPd3klyj-monster-manual-official-guide-of-the-strange
 
 GPT Title: Monster Manual - Official Guide of the Strange

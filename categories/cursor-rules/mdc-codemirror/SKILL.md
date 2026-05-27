@@ -1,7 +1,10 @@
 ---
-description: This guide defines best practices for building and maintaining CodeMirror 6-based editors, focusing on modularity, immutable state, extension-driven configuration, and modern JavaScript/TypeScript patterns.
-globs: **/*.{js,jsx}
+name: mdc-codemirror
+description: "This guide defines best practices for building and maintaining CodeMirror 6-based editors, focusing on modularity, immutable state, extension-driven configuration, and modern JavaScript/TypeScript ..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # CodeMirror 6 Best Practices
 
 This document outlines the definitive best practices for developing with CodeMirror. We exclusively target **CodeMirror 6 (CM6)**. Any reference to CodeMirror 5 (CM5) is for historical context only; **CM5 must not be used in new development and should be actively migrated away from.**

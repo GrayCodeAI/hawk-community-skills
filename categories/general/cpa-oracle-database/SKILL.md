@@ -1,3 +1,10 @@
+---
+name: cpa-oracle-database
+description: "Skill: cpa-oracle-database"
+license: MIT
+tags: [general]
+---
+
 # az oracle-database
 
 ```bash

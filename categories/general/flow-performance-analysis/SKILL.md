@@ -1,9 +1,10 @@
 ---
-name: performance-analysis
-version: 1.0.0
-description: Comprehensive performance analysis, bottleneck detection, and optimization recommendations for Claude Flow swarms
-category: monitoring
+name: flow-performance-analysis
+description: "Comprehensive performance analysis, bottleneck detection, and optimization recommendations for Claude Flow swarms"
+license: MIT
 tags: [performance, bottleneck, optimization, profiling, metrics, analysis]
+version: 1.0.0
+category: monitoring
 author: Claude Flow Team
 ---
 

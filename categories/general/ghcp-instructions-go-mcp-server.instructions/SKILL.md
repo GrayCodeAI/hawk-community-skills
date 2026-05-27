@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and patterns for building Model Context Protocol (MCP) servers in Go using the official github.com/modelcontextprotocol/go-sdk package.'
-applyTo: "**/*.go, **/go.mod, **/go.sum"
+name: ghcp-instructions-go-mcp-server.instructions
+description: "Skill: ghcp-instructions-go-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Go MCP Server Development Guidelines

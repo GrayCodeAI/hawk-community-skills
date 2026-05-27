@@ -1,8 +1,9 @@
 ---
-source: "https://github.com/huggingface/skills/tree/main/skills/huggingface-llm-trainer"
-name: hugging-face-model-trainer
-description: Train or fine-tune TRL language models on Hugging Face Jobs, including SFT, DPO, GRPO, and GGUF export.
+name: ag-hugging-face-model-trainer
+description: "Train or fine-tune TRL language models on Hugging Face Jobs, including SFT, DPO, GRPO, and GGUF export."
 license: Complete terms in LICENSE.txt
+tags: [general]
+source: https://github.com/huggingface/skills/tree/main/skills/huggingface-llm-trainer
 risk: unknown
 ---
 

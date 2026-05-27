@@ -1,7 +1,9 @@
 ---
-description: React 19 组件模式、Hooks 与最佳实践
-globs: **/*.jsx,**/*.tsx
-alwaysApply: false
+name: extra-react
+description: "React 19 组件模式、Hooks 与最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # React 19 规则

@@ -1,18 +1,12 @@
 ---
 name: analyzing-network-packets-with-scapy
-description: Craft, send, sniff, and dissect network packets using Scapy for protocol analysis, network reconnaissance, and traffic anomaly detection in authorized security testing
+description: "Craft, send, sniff, and dissect network packets using Scapy for protocol analysis, network reconnaissance, and traffic anomaly detection in authorized security testing"
+license: MIT
+tags: [general]
 domain: cybersecurity
 subdomain: network-security
-tags:
-  - scapy
-  - packet-analysis
-  - network-forensics
-  - protocol-dissection
-  - pcap
-  - traffic-analysis
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Network Packets with Scapy

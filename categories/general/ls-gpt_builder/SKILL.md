@@ -1,3 +1,10 @@
+---
+name: ls-gpt_builder
+description: "Skill: ls-gpt_builder"
+license: MIT
+tags: [general]
+---
+
 The following instructions are lifted verbatim from the offical OpenAI post entitled "GPT Builder" found [here](https://help.openai.com/en/articles/8770868-gpt-builder).
 
 ```

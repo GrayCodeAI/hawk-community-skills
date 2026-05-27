@@ -1,7 +1,10 @@
 ---
-description: Applies general TypeScript, Node.js, Next.js, and React best practices across the project. It focuses on code style, structure, TypeScript usage, syntax, UI, and performance optimization.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-general-typescript-node-js-next-js-app-router-react-rule
+description: "Applies general TypeScript, Node.js, Next.js, and React best practices across the project. It focuses on code style, structure, TypeScript usage, syntax, UI, and performance optimization."
+license: MIT
+tags: [react]
 ---
+
 - You are an expert in TypeScript, Node.js, Next.js App Router, React, Shadcn UI, Radix UI and Tailwind.
 
 Code Style and Structure

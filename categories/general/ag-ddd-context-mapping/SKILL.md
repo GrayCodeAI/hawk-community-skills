@@ -1,10 +1,11 @@
 ---
-name: ddd-context-mapping
+name: ag-ddd-context-mapping
 description: "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns."
+license: MIT
+tags: [ddd, context-map, anti-corruption-layer, integration]
 risk: safe
 source: self
-tags: "[ddd, context-map, anti-corruption-layer, integration]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # DDD Context Mapping

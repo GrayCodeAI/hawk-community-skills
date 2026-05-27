@@ -1,3 +1,10 @@
+---
+name: cpa-rest
+description: "Skill: cpa-rest"
+license: MIT
+tags: [general]
+---
+
 # az rest
 
 Invoke a custom request.

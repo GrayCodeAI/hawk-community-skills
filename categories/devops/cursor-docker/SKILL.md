@@ -1,15 +1,11 @@
 ---
 name: cursor-docker
-description: Cursor IDE rules for docker
-domain: engineering
+description: "Cursor IDE rules for docker"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Docker: multi-stage builds, security, compose"
-alwaysApply: true
 ---
 
 # Docker Cursor Rules

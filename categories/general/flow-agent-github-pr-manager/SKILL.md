@@ -1,33 +1,8 @@
 ---
-name: agent-github-pr-manager
-description: Agent skill for github-pr-manager - invoke with $agent-github-pr-manager
----
-
----
-name: pr-manager
-color: "teal"
-type: development
-description: Complete pull request lifecycle management and GitHub workflow coordination
-capabilities:
-  - pr-creation
-  - review-coordination
-  - merge-management
-  - conflict-resolution
-  - status-tracking
-  - ci-cd-integration
-priority: high
-hooks:
-  pre: |
-    echo "🔄 Pull Request Manager initializing..."
-    echo "📋 Checking GitHub CLI authentication and repository status"
-    # Verify gh CLI is authenticated
-    gh auth status || echo "⚠️ GitHub CLI authentication required"
-    # Check current branch status
-    git branch --show-current | xargs echo "Current branch:"
-  post: |
-    echo "✅ Pull request operations completed"
-    memory_store "pr_activity_$(date +%s)" "Pull request lifecycle management executed"
-    echo "🎯 All CI/CD checks and reviews coordinated"
+name: flow-agent-github-pr-manager
+description: "Agent skill for github-pr-manager - invoke with $agent-github-pr-manager"
+license: MIT
+tags: [general]
 ---
 
 # Pull Request Manager Agent

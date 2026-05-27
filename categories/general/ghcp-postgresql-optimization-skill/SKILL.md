@@ -1,6 +1,8 @@
 ---
-name: postgresql-optimization
-description: 'PostgreSQL-specific development assistant focusing on unique PostgreSQL features, advanced data types, and PostgreSQL-exclusive capabilities. Covers JSONB operations, array types, custom types, range/geometric types, full-text search, window functions, and PostgreSQL extensions ecosystem.'
+name: ghcp-postgresql-optimization-skill
+description: "PostgreSQL-specific development assistant focusing on unique PostgreSQL features, advanced data types, and PostgreSQL-exclusive capabilities. Covers JSONB operations, array types, custom types, ran..."
+license: MIT
+tags: [general]
 ---
 
 # PostgreSQL Development Assistant

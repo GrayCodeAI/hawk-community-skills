@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-next
+description: "Skill: inst-setup-drizzle-next"
+license: MIT
+tags: [general]
+---
+
 # Drizzle ORM with Next.js Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with a Next.js application.
@@ -271,4 +278,4 @@ npm run db:push
 3. View and manage database with Drizzle Studio:
 ```bash
 npm run db:studio
-``` 
+```

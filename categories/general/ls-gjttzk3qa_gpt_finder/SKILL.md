@@ -1,3 +1,10 @@
+---
+name: ls-gjttzk3qa_gpt_finder
+description: "Skill: ls-gjttzk3qa_gpt_finder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GJttZk3QA-gpt-finder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-34Lu6rRZIcqCgZle8lOPnJXX?se=2123-10-19T15%3A12%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5390a068-4105-4631-999a-a98d9728a7dc.png&sig=bFISxSlc3nWPlvIRZ1zCp2tEqXQOLX0IRZrtzTUSyuQ%3D" width="100px" />

@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-inventory-valuation-report
-role: merchandising
+name: shopify-shopify-admin-inventory-valuation-report
 description: "Read-only: calculates total inventory value (quantity × cost) per location and per vendor for accounting and insurance."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - inventoryItems:query
-  - locations:query
-  - productVariants:query
+api_version: 2025-01
+graphql_operations: [{'inventoryItems': 'query'}, {'locations': 'query'}, {'productVariants': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

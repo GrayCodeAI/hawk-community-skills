@@ -1,9 +1,11 @@
 ---
-name: github-actions-templates
+name: ag-github-actions-templates
 description: "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # GitHub Actions Templates

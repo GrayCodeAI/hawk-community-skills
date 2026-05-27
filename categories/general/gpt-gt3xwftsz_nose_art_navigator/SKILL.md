@@ -1,3 +1,10 @@
+---
+name: gpt-gt3xwftsz_nose_art_navigator
+description: "Skill: gpt-gt3xwftsz_nose_art_navigator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gt3xWftsz-nose-art-navigator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-bimFt8qeIxyE1KEKmN2mSnhY?se=2123-11-30T02%3A32%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D51d8c98c-b1a1-40d1-aa70-fdb7e5d9f027.png&sig=EVSAXWbxdRvRr%2BVGbhr3ui9LyNflssRqjue%2B3UUE2Zk%3D" width="100px" />

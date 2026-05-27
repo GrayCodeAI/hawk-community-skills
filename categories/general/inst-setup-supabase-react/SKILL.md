@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing React apps with Supabase Auth
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-setup-supabase-react
+description: "Guidelines for writing React apps with Supabase Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap React app with Supabase Auth
@@ -134,4 +136,4 @@ When implementing Supabase Auth in React, you MUST:
 2. Implement proper error handling
 3. Use the AuthProvider for state management
 4. Protect sensitive routes
-5. Handle authentication state changes 
+5. Handle authentication state changes

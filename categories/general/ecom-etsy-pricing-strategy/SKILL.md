@@ -1,9 +1,11 @@
 ---
-name: etsy-pricing-strategy
+name: ecom-etsy-pricing-strategy
 description: "Etsy pricing — cost calculation, competitor pricing, perceived value, shipping cost integration, sales and coupons"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Pricing Strategy

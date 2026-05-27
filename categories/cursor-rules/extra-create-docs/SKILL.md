@@ -1,3 +1,10 @@
+---
+name: extra-create-docs
+description: "Skill: extra-create-docs"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Create Docs
 
 Create comprehensive documentation for specified components or features.

@@ -1,3 +1,10 @@
+---
+name: ls-wbbzmd3l3_learn_gutenberg_blocks
+description: "Skill: ls-wbbzmd3l3_learn_gutenberg_blocks"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WbbzMd3l3-learn-gutenberg-blocks
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-PODgADRXn3pFVanO9ppsZZN0?se=2123-11-21T08%3A55%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Db537e346-7e00-451c-841c-5d1fea5425ff.png&sig=JVHZwPbFtAkdd64j%2BmpDXTuuK2tM02cxEZXR7WtDH3s%3D" width="100px" />

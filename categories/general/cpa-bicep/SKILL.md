@@ -1,3 +1,10 @@
+---
+name: cpa-bicep
+description: "Skill: cpa-bicep"
+license: MIT
+tags: [general]
+---
+
 # az bicep
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ghcp-github-awesome-copilot-support
+description: "Skill: ghcp-github-awesome-copilot-support"
+license: MIT
+tags: [general]
+---
+
 # Support 
 
 ## How to file issues and get help

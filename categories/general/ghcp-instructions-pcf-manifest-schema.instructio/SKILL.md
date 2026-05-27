@@ -1,6 +1,8 @@
 ---
-description: 'Complete manifest schema reference for PCF components with all available XML elements'
-applyTo: '**/*.xml'
+name: ghcp-instructions-pcf-manifest-schema.instructio
+description: "Skill: ghcp-instructions-pcf-manifest-schema.instructio"
+license: MIT
+tags: [general]
 ---
 
 # Manifest Schema Reference

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing robust, performant, and maintainable Python code using SciPy, aligning with modern scientific computing standards.
-globs: **/*.py
+name: mdc-scipy
+description: "This guide provides opinionated, actionable best practices for writing robust, performant, and maintainable Python code using SciPy, aligning with modern scientific computing standards."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # SciPy Best Practices
 
 This document outlines the definitive best practices for developing with SciPy. Adhering to these guidelines ensures your code is clean, efficient, and compatible with the broader scientific Python ecosystem.

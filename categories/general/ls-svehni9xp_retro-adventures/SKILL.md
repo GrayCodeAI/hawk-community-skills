@@ -1,3 +1,10 @@
+---
+name: ls-svehni9xp_retro-adventures
+description: "Skill: ls-svehni9xp_retro-adventures"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-svehnI9xP-retro-adventures
 
 GPT Title: Retro Adventures

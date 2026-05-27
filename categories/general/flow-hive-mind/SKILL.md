@@ -1,9 +1,10 @@
 ---
-name: hive-mind
-description: >
-  Byzantine fault-tolerant consensus and distributed coordination. Queen-led hierarchical swarm management with multiple consensus strategies.
-  Use when: distributed coordination, fault-tolerant operations, multi-agent consensus, collective decision making.
-  Skip when: single-agent tasks, simple operations, local-only work.
+name: flow-hive-mind
+description: "Skill: flow-hive-mind"
+license: MIT
+tags: [general]
+Use when: distributed coordination, fault-tolerant operations, multi-agent consensus, collective decision making.
+Skip when: single-agent tasks, simple operations, local-only work.
 ---
 
 # Hive-Mind Skill

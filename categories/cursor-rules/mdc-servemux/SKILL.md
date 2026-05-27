@@ -1,7 +1,10 @@
 ---
-description: This rule file provides definitive guidelines for using Go's `http.ServeMux` effectively, leveraging Go 1.22+ features for robust, maintainable, and secure API development.
-globs: **/*.go
+name: mdc-servemux
+description: "This rule file provides definitive guidelines for using Go's `http.ServeMux` effectively, leveraging Go 1.22+ features for robust, maintainable, and secure API development."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # servemux Best Practices
 
 Go's `http.ServeMux`, especially with the enhancements in Go 1.22+, is the definitive choice for building performant and maintainable HTTP services. This guide outlines the best practices for its use.

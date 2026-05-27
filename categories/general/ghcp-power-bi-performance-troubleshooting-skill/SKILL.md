@@ -1,6 +1,8 @@
 ---
-name: power-bi-performance-troubleshooting
-description: 'Systematic Power BI performance troubleshooting prompt for identifying, diagnosing, and resolving performance issues in Power BI models, reports, and queries.'
+name: ghcp-power-bi-performance-troubleshooting-skill
+description: "Systematic Power BI performance troubleshooting prompt for identifying, diagnosing, and resolving performance issues in Power BI models, reports, and queries."
+license: MIT
+tags: [general]
 ---
 
 # Power BI Performance Troubleshooting Guide

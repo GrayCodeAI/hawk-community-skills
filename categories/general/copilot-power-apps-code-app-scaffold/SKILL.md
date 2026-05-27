@@ -1,6 +1,8 @@
 ---
-name: power-apps-code-app-scaffold
-description: 'Scaffold a complete Power Apps Code App project with PAC CLI setup, SDK integration, and connector configuration'
+name: copilot-power-apps-code-app-scaffold
+description: "Scaffold a complete Power Apps Code App project with PAC CLI setup, SDK integration, and connector configuration"
+license: MIT
+tags: [general]
 ---
 
 # Power Apps Code Apps Project Scaffolding

@@ -1,3 +1,10 @@
+---
+name: gpt-a0wobxipo_search-analytics-for-gpt
+description: "Skill: gpt-a0wobxipo_search-analytics-for-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a0WoBxiPo-search-analytics-for-gpt
 
 GPT Title: Search Analytics for GPT

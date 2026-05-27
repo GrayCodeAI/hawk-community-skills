@@ -1,6 +1,8 @@
 ---
-name: "setup"
+name: arezv-setup
 description: "Set up a new autoresearch experiment interactively. Collects domain, target file, eval command, metric, direction, and evaluator."
+license: MIT
+tags: [general]
 command: /ar:setup
 ---
 

@@ -1,8 +1,10 @@
 ---
-name: demio-automation
+name: composio-demio-automation
 description: "Automate Demio tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Demio Automation via Rube MCP

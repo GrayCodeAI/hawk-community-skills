@@ -1,9 +1,10 @@
 ---
 name: create_rpg_summary
-description: Fabric pattern - create_rpg_summary
-domain: general
+description: "Fabric pattern - create_rpg_summary"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

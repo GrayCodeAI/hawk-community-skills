@@ -1,6 +1,8 @@
 ---
-description: 'Guidance for Fedora (Red Hat family) systems, dnf workflows, SELinux, and modern systemd practices.'
-applyTo: '**'
+name: ghcp-instructions-fedora-linux.instructions
+description: "Skill: ghcp-instructions-fedora-linux.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Fedora Administration Guidelines

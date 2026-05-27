@@ -1,3 +1,10 @@
+---
+name: ghcp-references-state-sessions-and-phases
+description: "Skill: ghcp-references-state-sessions-and-phases"
+license: MIT
+tags: [general]
+---
+
 # State, Sessions, And Phases
 
 Use this reference when designing player state, match flow, cooldowns, respawn logic, class selection, or round progression.

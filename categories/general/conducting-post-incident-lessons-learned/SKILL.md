@@ -1,12 +1,12 @@
 ---
 name: conducting-post-incident-lessons-learned
-description: Facilitate structured post-incident reviews to identify root causes, document what worked and failed, and produce actionable recommendations to improve future incident response.
+description: "Facilitate structured post-incident reviews to identify root causes, document what worked and failed, and produce actionable recommendations to improve future incident response."
+license: MIT
+tags: [incident-response, lessons-learned, post-incident, after-action-review, process-improvement]
 domain: cybersecurity
 subdomain: incident-response
-tags: [incident-response, lessons-learned, post-incident, after-action-review, process-improvement]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Conducting Post-Incident Lessons Learned

@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-concerns
+description: "Skill: ghcp-templates-concerns"
+license: MIT
+tags: [general]
+---
+
 # Codebase Concerns
 
 ## Core Sections (Required)

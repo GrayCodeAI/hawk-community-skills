@@ -1,6 +1,8 @@
 ---
-name: csharp-xunit
-description: 'Get best practices for XUnit unit testing, including data-driven tests'
+name: copilot-csharp-xunit
+description: "Get best practices for XUnit unit testing, including data-driven tests"
+license: MIT
+tags: [general]
 ---
 
 # XUnit Best Practices

@@ -1,3 +1,10 @@
+---
+name: gpt-snf78wo4p_artful_greeting_ai_cards
+description: "Skill: gpt-snf78wo4p_artful_greeting_ai_cards"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SnF78wo4p-artful-greeting-ai-cards
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5C25P2wcSkkHEkGZNFjUT0v9?se=2123-12-15T21%3A16%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D766267ce-3c04-4e58-b468-7fb14ad1d825.png&sig=dxz%2BuyOR/RCCuAGvfrxXr%2BExmuCKKww5eyF57bN0dZ0%3D" width="100px" />

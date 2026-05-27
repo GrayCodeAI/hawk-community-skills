@@ -1,6 +1,8 @@
 ---
-name: "resume"
+name: arezv-resume
 description: "Resume a paused experiment. Checkout the experiment branch, read results history, continue iterating."
+license: MIT
+tags: [general]
 command: /ar:resume
 ---
 

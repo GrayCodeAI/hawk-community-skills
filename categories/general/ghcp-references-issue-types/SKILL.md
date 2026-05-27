@@ -1,3 +1,10 @@
+---
+name: ghcp-references-issue-types
+description: "Skill: ghcp-references-issue-types"
+license: MIT
+tags: [general]
+---
+
 # Issue Types (Advanced GraphQL)
 
 Issue types (Bug, Feature, Task, Epic, etc.) are defined at the **organization** level and inherited by repositories. They categorize issues beyond labels.

@@ -1,7 +1,9 @@
 ---
-name: security-engineer
-description: Infrastructure security, IAM policies, mTLS, secrets management with Vault, and compliance
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-security-engineer
+description: "Infrastructure security, IAM policies, mTLS, secrets management with Vault, and compliance"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building maintainable, secure, and performant Bottle applications in 2025, emphasizing modern Python best practices.
-globs: **/*.py
+name: mdc-bottle
+description: "Definitive guidelines for building maintainable, secure, and performant Bottle applications in 2025, emphasizing modern Python best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # bottle Best Practices
 
 Bottle is a robust micro-framework for Python backends. To leverage it effectively in 2025, adhere to these opinionated guidelines, focusing on structure, maintainability, and security.

@@ -1,16 +1,11 @@
 ---
 name: cursor-postgresql
-description: Cursor IDE rules for postgresql
-domain: engineering
+description: "Cursor IDE rules for postgresql"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "PostgreSQL: advanced SQL, performance, extensions"
-globs: ["*.sql"]
-alwaysApply: true
 ---
 
 # PostgreSQL Cursor Rules

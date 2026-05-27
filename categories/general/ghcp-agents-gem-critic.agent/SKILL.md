@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-critic.agent
 description: "Challenges assumptions, finds edge cases, spots over-engineering and logic gaps."
-name: gem-critic
-argument-hint: "Enter plan_id, plan_path, scope (plan|code|architecture), and target to critique."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter plan_id, plan_path, scope (plan|code|architecture), and target to critique.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the CRITIC

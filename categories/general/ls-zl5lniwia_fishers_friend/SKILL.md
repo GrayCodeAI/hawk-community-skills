@@ -1,3 +1,10 @@
+---
+name: ls-zl5lniwia_fishers_friend
+description: "Skill: ls-zl5lniwia_fishers_friend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zl5lniwiA-fishers-friend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-eXVfmS2W6syzlQGeKOBxMo9I?se=2123-10-18T15%3A58%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D77bed98f-47ce-4373-a418-7f0ef34bf162.png&sig=2JSxSgwJPhUOpMxOSenbnEwZgopqpWq6DPhG53X/PxY%3D" width="100px" />

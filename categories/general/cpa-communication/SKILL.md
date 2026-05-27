@@ -1,3 +1,10 @@
+---
+name: cpa-communication
+description: "Skill: cpa-communication"
+license: MIT
+tags: [general]
+---
+
 # az communication
 
 ```bash

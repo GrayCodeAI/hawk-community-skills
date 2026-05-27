@@ -1,3 +1,10 @@
+---
+name: ls-lcv3cx13h_p0ts3c_your_ai_hacking_assistant
+description: "Skill: ls-lcv3cx13h_p0ts3c_your_ai_hacking_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LCv3cx13H-p0ts3c-your-ai-hacking-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZKWJlbfjjT4W7i4JZGD3dL5d?se=2123-10-16T13%3A04%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db53aa3ac-c805-4371-bb97-9f4681acab7b.png&sig=sQAz1vXa5Ze5RyvGuH%2Bm2UG/Tjr4N1HteTfU7rKfua0%3D" width="100px" />

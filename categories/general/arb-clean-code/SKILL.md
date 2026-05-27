@@ -1,3 +1,10 @@
+---
+name: arb-clean-code
+description: "Skill: arb-clean-code"
+license: MIT
+tags: [general]
+---
+
 # OBEY Clean Code by Robert C. Martin
 
 This file defines mandatory working rules for this repository. Follow these instructions before making any code, test, refactor, review, or documentation change.

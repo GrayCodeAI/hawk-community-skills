@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-api-tool-use_20250119
+description: "Skill: sys-anthropic-claude-api-tool-use_20250119"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-api-tool-use_20250119
 
 ## claude-3-5-sonnet-20241022

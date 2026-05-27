@@ -1,3 +1,10 @@
+---
+name: cpa-devcenter
+description: "Skill: cpa-devcenter"
+license: MIT
+tags: [general]
+---
+
 # az devcenter
 
 ```bash

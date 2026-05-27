@@ -1,3 +1,10 @@
+---
+name: cpa-consumption
+description: "Skill: cpa-consumption"
+license: MIT
+tags: [general]
+---
+
 # az consumption
 
 ```bash

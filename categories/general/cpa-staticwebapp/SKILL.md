@@ -1,3 +1,10 @@
+---
+name: cpa-staticwebapp
+description: "Skill: cpa-staticwebapp"
+license: MIT
+tags: [general]
+---
+
 # az staticwebapp
 
 ```bash

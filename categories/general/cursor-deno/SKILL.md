@@ -1,16 +1,11 @@
 ---
 name: cursor-deno
-description: Cursor IDE rules for deno
-domain: engineering
+description: "Cursor IDE rules for deno"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Deno: permissions, deno.json, std library, Deploy"
-globs: ["*.ts", "*.js", "deno.json"]
-alwaysApply: true
 ---
 
 # Deno Cursor Rules

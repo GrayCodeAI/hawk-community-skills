@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-draft-order-cleanup
-role: store-management
+name: shopify-shopify-admin-draft-order-cleanup
 description: "Finds stale draft orders older than N days and optionally deletes them to reduce admin clutter."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - draftOrders:query
-  - draftOrderDelete:mutation
+api_version: 2025-01
+graphql_operations: [{'draftOrders': 'query'}, {'draftOrderDelete': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

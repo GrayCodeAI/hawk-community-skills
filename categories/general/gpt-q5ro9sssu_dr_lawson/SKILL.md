@@ -1,3 +1,10 @@
+---
+name: gpt-q5ro9sssu_dr_lawson
+description: "Skill: gpt-q5ro9sssu_dr_lawson"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Q5rO9ssSu-dr-lawson
 
 GPT logo: <img src="None" width="100px" />

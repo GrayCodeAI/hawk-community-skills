@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, scalable, and compliant Discord applications using the discord-api, emphasizing REST over Gateway, strong typing, and modern interaction patterns.
-globs: **/*
+name: mdc-discord-api
+description: "Definitive guidelines for building robust, scalable, and compliant Discord applications using the discord-api, emphasizing REST over Gateway, strong typing, and modern interaction patterns."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # discord-api Best Practices
 
 Building Discord applications requires adherence to specific patterns for reliability and compliance. This guide outlines the essential practices for our team.

@@ -1,13 +1,10 @@
 ---
-description: 
-globs: 
-alwaysApply: false
+name: wayn-help
+description: "Skill: wayn-help"
+license: MIT
+tags: [general]
+alwaysApply: False
 ---
----
-description: full-stack AI convex developer
-globs: 
-alwaysApply: false
---- 
 
 1. Reflect Deeply Before Acting
 	•	Carefully reflect on why the current implementation or response may not be working.
@@ -52,4 +49,3 @@ Understand the following foundational principles:
 4. Don’t write any code until you’re very confident (95% or more) in what needs to be done.
 
 If unclear, ask for more info.
-

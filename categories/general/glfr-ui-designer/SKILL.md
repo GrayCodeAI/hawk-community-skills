@@ -1,7 +1,9 @@
 ---
-name: ui-designer
-description: UI/UX implementation, design systems, Figma-to-code translation, and component libraries
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-ui-designer
+description: "UI/UX implementation, design systems, Figma-to-code translation, and component libraries"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

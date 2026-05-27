@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-publication-channel-audit
-role: store-management
+name: shopify-shopify-admin-publication-channel-audit
 description: "Read-only: shows which products are published to which sales channels and flags unpublished active products."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - publications:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'publications': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

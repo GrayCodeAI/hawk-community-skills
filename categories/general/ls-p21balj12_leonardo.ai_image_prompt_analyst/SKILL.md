@@ -1,3 +1,10 @@
+---
+name: ls-p21balj12_leonardo.ai_image_prompt_analyst
+description: "Skill: ls-p21balj12_leonardo.ai_image_prompt_analyst"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-p21BAlj12-leonardo-ai-image-prompt-analyst
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BTMf3kSMh1wY54Q2ANPgpnuK?se=2124-01-20T01%3A59%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddownload.jpg&sig=IyzNUicjCfqC0nRX0x2gw%2BKQijfyDKDQ/66qoBJ/G5M%3D" width="100px" />

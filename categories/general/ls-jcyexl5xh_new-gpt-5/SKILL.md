@@ -1,3 +1,10 @@
+---
+name: ls-jcyexl5xh_new-gpt-5
+description: "Skill: ls-jcyexl5xh_new-gpt-5"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jCYeXl5xh-new-gpt-5
 
 GPT Title: New GPT-5

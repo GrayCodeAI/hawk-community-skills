@@ -1,3 +1,10 @@
+---
+name: ls-ptf23rj6f_autoexpert_dev
+description: "Skill: ls-ptf23rj6f_autoexpert_dev"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pTF23RJ6f-autoexpert-dev
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-eLFrNX9FaFZ2c2utPPLBfxKv?se=2123-10-20T20%3A05%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAutoExpertDev.jpg&sig=l6nI5Vev4Xg7ghEU7xeA4caih7rFbOjR1NDu/cEDxAU%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
 name: extract_recipe
-description: Fabric pattern - extract_recipe
-domain: general
+description: "Fabric pattern - extract_recipe"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

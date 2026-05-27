@@ -1,3 +1,10 @@
+---
+name: inst-setup-prisma-nuxt
+description: "Skill: inst-setup-prisma-nuxt"
+license: MIT
+tags: [general]
+---
+
 # Prisma with Nuxt.js Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Prisma ORM with a Nuxt.js application.
@@ -724,4 +731,4 @@ npx prisma generate
 4. Use Prisma Studio for database management:
 ```bash
 npx prisma studio
-``` 
+```

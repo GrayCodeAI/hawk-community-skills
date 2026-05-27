@@ -1,7 +1,10 @@
 ---
-description: Rule for handling Protocol Buffer definition files in the project.
-globs: **/*.proto
+name: mdc-protocol-buffer-definitions-rule
+description: "Rule for handling Protocol Buffer definition files in the project."
+license: MIT
+tags: [cursor-rules]
 ---
+
 When working with `.proto` files:
 - Define clear and concise messages and services.
 - Use proper data types and naming conventions.

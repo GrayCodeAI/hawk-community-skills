@@ -1,7 +1,10 @@
 ---
-description: Enforces adherence to established documentation best practices, ensuring consistency and quality.
-globs: **/*.md
+name: mdc-documentation-best-practices-rules
+description: "Enforces adherence to established documentation best practices, ensuring consistency and quality."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Follow established style guides and conventions.
 - Use templates and reusable components to ensure consistency.
 - Review and revise documentation regularly to keep it up-to-date.

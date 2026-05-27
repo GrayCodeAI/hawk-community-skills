@@ -1,3 +1,10 @@
+---
+name: gpt-2ad2y5sib_decentraland_sdk7_coder
+description: "Skill: gpt-2ad2y5sib_decentraland_sdk7_coder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2aD2Y5SiB-decentraland-sdk7-coder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-JYv3LPRfB6p2pq3a6xDf0XLy?se=2124-01-21T15%3A10%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Drobot%2520angel.jpg&sig=amqdYZfGXURyLs5HpgSkbkj66L3O%2B48SSLQQCX099OM%3D" width="100px" />

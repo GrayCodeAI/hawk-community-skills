@@ -1,9 +1,11 @@
 ---
-name: ui-ux-designer
-description: Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.
+name: ag-ui-ux-designer
+description: "Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

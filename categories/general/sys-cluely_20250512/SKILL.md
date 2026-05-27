@@ -1,3 +1,10 @@
+---
+name: sys-cluely_20250512
+description: "Skill: sys-cluely_20250512"
+license: MIT
+tags: [general]
+---
+
 # cluely_20250512
 
 Source: <https://github.com/jujumilk3/leaked-system-prompts/pull/84>

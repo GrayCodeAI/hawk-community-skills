@@ -1,3 +1,10 @@
+---
+name: cpa-hostname
+description: "Skill: cpa-hostname"
+license: MIT
+tags: [general]
+---
+
 # az containerapp hostname
 
 ```bash

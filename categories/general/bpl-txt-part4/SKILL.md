@@ -1,9 +1,10 @@
 ---
-name: bpl-part4
-description: System prompt - part4
-domain: general
+name: bpl-txt-part4
+description: "System prompt - part4"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -93,4 +94,3 @@ new tricks, mind bending possibilities & unspeakable horrors
 
 It appears the pages have been damaged, and a portion of the book is missing
 How we will find the lost pages?
-

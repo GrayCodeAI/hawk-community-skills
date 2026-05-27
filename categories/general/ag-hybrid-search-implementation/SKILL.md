@@ -1,9 +1,11 @@
 ---
-name: hybrid-search-implementation
+name: ag-hybrid-search-implementation
 description: "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Hybrid Search Implementation

@@ -1,12 +1,12 @@
 ---
 name: conducting-mobile-application-penetration-test
-description: Perform a mobile application penetration test on Android and iOS apps to identify insecure data storage, certificate pinning bypass, API vulnerabilities, binary protections, and runtime manipulation using Frida, Objection, and MobSF.
+description: "Perform a mobile application penetration test on Android and iOS apps to identify insecure data storage, certificate pinning bypass, API vulnerabilities, binary protections, and runtime manipulatio..."
+license: MIT
+tags: [mobile-pentest, android, ios, frida, objection, mobsf, owasp-mastg, certificate-pinning, apk-analysis]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [mobile-pentest, Android, iOS, Frida, Objection, MobSF, OWASP-MASTG, certificate-pinning, APK-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Conducting Mobile Application Penetration Test

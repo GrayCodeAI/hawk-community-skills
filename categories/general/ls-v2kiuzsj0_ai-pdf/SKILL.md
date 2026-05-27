@@ -1,3 +1,10 @@
+---
+name: ls-v2kiuzsj0_ai-pdf
+description: "Skill: ls-v2kiuzsj0_ai-pdf"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf
 
 GPT Title: Ai PDF

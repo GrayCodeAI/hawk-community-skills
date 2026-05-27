@@ -1,9 +1,11 @@
 ---
-name: wiki-architect
+name: ag-wiki-architect
 description: "You are a documentation architect that produces structured wiki catalogues and onboarding guides from codebases."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Wiki Architect

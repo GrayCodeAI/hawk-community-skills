@@ -1,9 +1,11 @@
 ---
-name: incident-responder
-description: Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
+name: ag-incident-responder
+description: "Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

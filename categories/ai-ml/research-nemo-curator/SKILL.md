@@ -1,10 +1,10 @@
 ---
-name: nemo-curator
-description: GPU-accelerated data curation for LLM training. Supports text/image/video/audio. Features fuzzy deduplication (16× faster), quality filtering (30+ heuristics), semantic deduplication, PII redaction, NSFW detection. Scales across GPUs with RAPIDS. Use for preparing high-quality training datasets, cleaning web data, or deduplicating large corpora.
+name: research-nemo-curator
+description: "GPU-accelerated data curation for LLM training. Supports text/image/video/audio. Features fuzzy deduplication (16× faster), quality filtering (30+ heuristics), semantic deduplication, PII redaction..."
+license: MIT
+tags: [data-processing, nemo-curator, data-curation, gpu-acceleration, deduplication, quality-filtering, nvidia, rapids, pii-redaction, multimodal, llm-training-data]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Data Processing, NeMo Curator, Data Curation, GPU Acceleration, Deduplication, Quality Filtering, NVIDIA, RAPIDS, PII Redaction, Multimodal, LLM Training Data]
 dependencies: [nemo-curator, cudf, dask, rapids]
 ---
 
@@ -378,6 +378,3 @@ cluster.close()
 - **Docs**: https://docs.nvidia.com/nemo-framework/user-guide/latest/datacuration/
 - **Version**: 0.4.0+
 - **License**: Apache 2.0
-
-
-

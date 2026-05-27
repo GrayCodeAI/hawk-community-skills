@@ -1,3 +1,11 @@
+---
+name: gpt-vpfqv6ndp_typeframes---video-creation
+description: 'Skill: gpt-vpfqv6ndp_typeframes---video-creation'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-vPFqv6NDp-typeframes-video-creation
 
 GPT Title: Typeframes - Video Creation

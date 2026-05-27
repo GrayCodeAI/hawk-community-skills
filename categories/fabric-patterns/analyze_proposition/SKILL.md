@@ -1,9 +1,10 @@
 ---
 name: analyze_proposition
-description: Fabric pattern - analyze_proposition
-domain: general
+description: "Fabric pattern - analyze_proposition"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

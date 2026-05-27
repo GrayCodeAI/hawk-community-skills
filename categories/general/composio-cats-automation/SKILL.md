@@ -1,8 +1,10 @@
 ---
-name: cats-automation
+name: composio-cats-automation
 description: "Automate Cats tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Cats Automation via Rube MCP

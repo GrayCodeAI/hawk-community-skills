@@ -1,3 +1,10 @@
+---
+name: extra-add-to-changelog
+description: "Skill: extra-add-to-changelog"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Add to Changelog
 
 Update the project's CHANGELOG.md file with a new entry.

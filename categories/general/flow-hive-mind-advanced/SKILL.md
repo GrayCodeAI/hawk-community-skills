@@ -1,9 +1,10 @@
 ---
-name: hive-mind-advanced
-description: Advanced Hive Mind collective intelligence system for queen-led multi-agent coordination with consensus mechanisms and persistent memory
+name: flow-hive-mind-advanced
+description: "Advanced Hive Mind collective intelligence system for queen-led multi-agent coordination with consensus mechanisms and persistent memory"
+license: MIT
+tags: [hive-mind, swarm, queen-worker, consensus, collective-intelligence, multi-agent, coordination]
 version: 1.0.0
 category: coordination
-tags: [hive-mind, swarm, queen-worker, consensus, collective-intelligence, multi-agent, coordination]
 author: Claude Flow Team
 ---
 

@@ -1,3 +1,10 @@
+---
+name: rb-spec
+description: "Skill: rb-spec"
+license: MIT
+tags: [general]
+---
+
 # Specification: Community Pack Ecosystem (MVP)
 
 ## 1. Overview & Motivation

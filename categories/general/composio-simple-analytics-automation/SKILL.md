@@ -1,8 +1,10 @@
 ---
-name: simple-analytics-automation
+name: composio-simple-analytics-automation
 description: "Automate Simple Analytics tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Simple Analytics Automation via Rube MCP

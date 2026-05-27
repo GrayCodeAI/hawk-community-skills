@@ -1,3 +1,10 @@
+---
+name: ghcp-references-instrumentation-manual-python
+description: "Skill: ghcp-references-instrumentation-manual-python"
+license: MIT
+tags: [general]
+---
+
 # Manual Instrumentation (Python)
 
 Add custom spans using decorators or context managers for fine-grained tracing control.

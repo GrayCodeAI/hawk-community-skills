@@ -1,7 +1,10 @@
 ---
-description: Enforce best practices for Prisma ORM, ensuring type-safe, performant, and maintainable database interactions in modern TypeScript applications.
-globs: **/*.prisma
+name: mdc-prisma
+description: "Enforce best practices for Prisma ORM, ensuring type-safe, performant, and maintainable database interactions in modern TypeScript applications."
+license: MIT
+tags: [database]
 ---
+
 # prisma Best Practices
 
 Prisma is the definitive Type-first ORM for modern TypeScript applications. Adhere to these guidelines for optimal performance, maintainability, and type safety, leveraging the latest TypeScript/WASM engine for a superior developer experience.

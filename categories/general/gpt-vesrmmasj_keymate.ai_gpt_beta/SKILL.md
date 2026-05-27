@@ -1,3 +1,10 @@
+---
+name: gpt-vesrmmasj_keymate.ai_gpt_beta
+description: "Skill: gpt-vesrmmasj_keymate.ai_gpt_beta"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-veSrMmasJ-keymate-ai-gpt-beta
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6XfNfOxaKnIX5U9WLR2GqkWg?se=2123-10-14T17%3A25%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DTransparentFavicon%2520-%2520Copy%2520%2528Custom%2529.png&sig=JE1A3o58i8M6/SOhRg01SraCEqqg4aXnL4bHujtOga8%3D" width="100px" />

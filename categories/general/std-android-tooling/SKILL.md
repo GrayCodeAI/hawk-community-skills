@@ -1,20 +1,14 @@
 ---
-name: android-tooling
-description: Configure static analysis with Detekt, Ktlint, and Android Lint for CI/CD quality gates. Use when adding lint rules, configuring code quality checks, or setting up analysis as a CI gate.
-metadata:
-  triggers:
-    files:
-    - 'build.gradle.kts'
-    - 'detekt.yml'
-    - '.detekt/config.yml'
-    keywords:
-    - detekt
-    - ktlint
-    - lint
-    - "@Suppress"
-    - abortOnError
-    - jlleitschuh
+name: std-android-tooling
+description: "Configure static analysis with Detekt, Ktlint, and Android Lint for CI/CD quality gates. Use when adding lint rules, configuring code quality checks, or setting up analysis as a CI gate."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Tooling Standards
 
 ## **Priority: P1**

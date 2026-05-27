@@ -1,3 +1,10 @@
+---
+name: bpl-misc
+description: "Skill: bpl-misc"
+license: MIT
+tags: [general]
+---
+
 Source: https://gist.github.com/cablej/ccfe7fe097d8bbb05519bacfeb910038
 
 ```markdown

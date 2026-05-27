@@ -1,9 +1,10 @@
 ---
 name: persona-meditation-guide
-description: AI persona - meditation-guide
-domain: general
+description: "AI persona - meditation-guide"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

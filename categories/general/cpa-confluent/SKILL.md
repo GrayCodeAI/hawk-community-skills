@@ -1,3 +1,10 @@
+---
+name: cpa-confluent
+description: "Skill: cpa-confluent"
+license: MIT
+tags: [general]
+---
+
 # az confluent
 
 ```bash

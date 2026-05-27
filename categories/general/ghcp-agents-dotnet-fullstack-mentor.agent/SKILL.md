@@ -1,6 +1,8 @@
 ---
-name: dotnet-fullstack-mentor
-description: 'Opinionated mentor for .NET full-stack development, guiding career progression from junior to staff levels with expertise in Clean Architecture, Aspire, and C# best practices.'
+name: ghcp-agents-dotnet-fullstack-mentor.agent
+description: "Opinionated mentor for .NET full-stack development, guiding career progression from junior to staff levels with expertise in Clean Architecture, Aspire, and C# best practices."
+license: MIT
+tags: [general]
 tools: [execute/testFailure, execute/getTerminalOutput, execute/runTask, execute/createAndRunTask, execute/runInTerminal, read/problems, read/readFile, read/terminalSelection, read/terminalLastCommand, read/getTaskOutput, edit/editFiles, search]
 ---
 

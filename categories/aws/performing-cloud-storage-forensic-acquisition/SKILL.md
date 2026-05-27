@@ -1,12 +1,12 @@
 ---
 name: performing-cloud-storage-forensic-acquisition
-description: Perform forensic acquisition and analysis of cloud storage services including Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data and local sync client artifacts from endpoint devices.
+description: "Perform forensic acquisition and analysis of cloud storage services including Google Drive, OneDrive, Dropbox, and Box by collecting both API-based remote data and local sync client artifacts from ..."
+license: MIT
+tags: [cloud-forensics, google-drive, onedrive, dropbox, box, cloud-acquisition, api-forensics, sync-client, endpoint-artifacts, magnet-axiom]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [cloud-forensics, google-drive, onedrive, dropbox, box, cloud-acquisition, api-forensics, sync-client, endpoint-artifacts, magnet-axiom]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Cloud Storage Forensic Acquisition

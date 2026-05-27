@@ -1,3 +1,10 @@
+---
+name: gpt-cp1fovv3v_prompt_pro
+description: "Skill: gpt-cp1fovv3v_prompt_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Cp1fOVV3v-prompt-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-D3urvvrIqUYRhGuBQGiLOYq2?se=2123-12-15T02%3A08%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPromptPro.Logo.png&sig=W2CutZAVk5PahIsxgfyIZ/oDmc1M2xMbFyR%2BdAcMlZA%3D" width="100px" />

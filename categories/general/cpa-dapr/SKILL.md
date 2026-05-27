@@ -1,3 +1,10 @@
+---
+name: cpa-dapr
+description: "Skill: cpa-dapr"
+license: MIT
+tags: [general]
+---
+
 # az containerapp dapr
 
 ```bash

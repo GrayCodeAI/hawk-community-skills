@@ -1,3 +1,10 @@
+---
+name: ghcp-references-tools-and-resources
+description: "Skill: ghcp-references-tools-and-resources"
+license: MIT
+tags: [general]
+---
+
 # Windows Tools and Resources
 
 ## Updates and News

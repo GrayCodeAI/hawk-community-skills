@@ -1,3 +1,10 @@
+---
+name: gpt-z77yde7vu_books
+description: "Skill: gpt-z77yde7vu_books"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-z77yDe7Vu-books
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xgURwSlsrwE8Q0eGlNednv0c?se=2123-12-31T23%3A41%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D4c345735-7a64-490e-8b30-547e99179964%2520%25281%2529.png&sig=hymSgepPRjJB4fzT9JEmRpGxJ77bq/56NgPtxnKVBwY%3D" width="100px" />

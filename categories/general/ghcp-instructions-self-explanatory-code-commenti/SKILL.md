@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for GitHub Copilot to write comments to achieve self-explanatory code with less comments. Examples are in JavaScript but it should work on any language that has comments.'
-applyTo: '**'
+name: ghcp-instructions-self-explanatory-code-commenti
+description: "Skill: ghcp-instructions-self-explanatory-code-commenti"
+license: MIT
+tags: [general]
 ---
 
 # Self-explanatory Code Commenting Instructions

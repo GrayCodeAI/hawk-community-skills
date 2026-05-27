@@ -1,8 +1,10 @@
 ---
-name: doppler-secretops-automation
+name: composio-doppler-secretops-automation
 description: "Automate Doppler Secretops tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Doppler Secretops Automation via Rube MCP

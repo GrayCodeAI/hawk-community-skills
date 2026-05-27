@@ -1,3 +1,10 @@
+---
+name: ghcp-references-anti-patterns
+description: "Skill: ghcp-references-anti-patterns"
+license: MIT
+tags: [general]
+---
+
 # Anti-Patterns
 
 Lessons learned from real multi-agent projects. Each anti-pattern was encountered at least once and caused real problems.

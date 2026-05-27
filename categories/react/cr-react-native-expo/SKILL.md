@@ -1,9 +1,10 @@
 ---
 name: cr-react-native-expo
-description: Cursor rules for react-native-expo
-domain: engineering
+description: "Cursor rules for react-native-expo"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -45,4 +46,3 @@ const additionalInstructions = `
 6. Follow React Native best practices for performance
 7. Use Expo's OTA updates for quick deployments
 `;
-

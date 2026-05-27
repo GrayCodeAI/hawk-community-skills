@@ -1,3 +1,10 @@
+---
+name: ghcp-references-error-analysis-multi-turn
+description: "Skill: ghcp-references-error-analysis-multi-turn"
+license: MIT
+tags: [general]
+---
+
 # Error Analysis: Multi-Turn Conversations
 
 Debugging complex multi-turn conversation traces.

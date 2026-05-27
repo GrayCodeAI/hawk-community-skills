@@ -1,3 +1,10 @@
+---
+name: bpl-deepseek
+description: "Skill: bpl-deepseek"
+license: MIT
+tags: [general]
+---
+
 DeepSeek AI System Identity and Core Instructions
 
 1. Core Identity:

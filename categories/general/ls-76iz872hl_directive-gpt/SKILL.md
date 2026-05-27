@@ -1,3 +1,10 @@
+---
+name: ls-76iz872hl_directive-gpt
+description: "Skill: ls-76iz872hl_directive-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-76iz872HL-ciso-ai
 
 GPT Title: Directive GPT

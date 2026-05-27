@@ -1,3 +1,10 @@
+---
+name: gpt-ynh0cued4_faang-gpt
+description: "Skill: gpt-ynh0cued4_faang-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ynh0CueD4-faang-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1fXhOTRBtRPFGocRBAPXKhmE?se=2124-01-23T03%3A49%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-16%252009.18.34%2520-%2520Design%2520a%2520beautiful%2520and%2520attractive%2520logo%2520for%2520%2527DSA%2520Interview%2520Prep%2520Assistant%2527%252C%2520incorporating%2520a%2520modern%2520and%2520elegant%2520font%2520for%2520the%2520initials%2520%2527DSA%2527.%2520Include%2520gra.webp&sig=6QfgOrlBpPrJVG37XoYFdSg0ONdgL6Fl44Qo1k6S1/E%3D" width="100px" />

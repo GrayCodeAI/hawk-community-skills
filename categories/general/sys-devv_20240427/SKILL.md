@@ -1,3 +1,10 @@
+---
+name: sys-devv_20240427
+description: "Skill: sys-devv_20240427"
+license: MIT
+tags: [general]
+---
+
 # devv_20240427
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/32>

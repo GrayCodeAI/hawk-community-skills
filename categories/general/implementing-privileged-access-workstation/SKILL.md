@@ -1,12 +1,12 @@
 ---
 name: implementing-privileged-access-workstation
-description: Design and implement Privileged Access Workstations (PAWs) with device hardening, just-in-time access, and integration with CyberArk or BeyondTrust for secure administrative operations.
+description: "Design and implement Privileged Access Workstations (PAWs) with device hardening, just-in-time access, and integration with CyberArk or BeyondTrust for secure administrative operations."
+license: MIT
+tags: [privileged-access, paw, zero-trust, device-hardening, cyberark, beyondtrust, just-in-time-access]
 domain: cybersecurity
 subdomain: identity-and-access-management
-tags: [privileged-access, PAW, zero-trust, device-hardening, CyberArk, BeyondTrust, just-in-time-access]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Privileged Access Workstation

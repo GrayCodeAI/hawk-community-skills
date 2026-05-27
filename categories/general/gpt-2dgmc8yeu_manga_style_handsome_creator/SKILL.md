@@ -1,3 +1,10 @@
+---
+name: gpt-2dgmc8yeu_manga_style_handsome_creator
+description: "Skill: gpt-2dgmc8yeu_manga_style_handsome_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2DGMC8yEu-manga-style-handsome-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jdPprktpBSntbIkQ3eF2BDgN?se=2124-01-22T07%3A19%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6b948a24-a508-47fa-9619-3db5c197e1a4.png&sig=F53JTodZ0wvp7snh8Ox/yhcOIGMMn1n6UM%2BWhpbGZ3s%3D" width="100px" />

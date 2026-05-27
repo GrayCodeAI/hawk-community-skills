@@ -1,6 +1,8 @@
 ---
-name: query
+name: neo-query
 description: "Search the FPF knowledge base and display hypothesis details with assurance information"
+license: MIT
+tags: [general]
 ---
 
 # Query Knowledge

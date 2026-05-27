@@ -1,3 +1,10 @@
+---
+name: ghcp-references-self-reflection-quality-gate
+description: "Skill: ghcp-references-self-reflection-quality-gate"
+license: MIT
+tags: [general]
+---
+
 # Self-Reflection Quality Gate
 
 After completing analysis, internally score the output across domain-relevant categories (1–10 scale).

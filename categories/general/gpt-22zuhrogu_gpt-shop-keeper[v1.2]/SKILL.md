@@ -1,3 +1,10 @@
+---
+name: gpt-22zuhrogu_gpt-shop-keeper[v1.2]
+description: "Skill: gpt-22zuhrogu_gpt-shop-keeper[v1.2]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-22ZUhrOgu-gpt-shop-keeper
 
 GPT Title: GPT Shop Keeper

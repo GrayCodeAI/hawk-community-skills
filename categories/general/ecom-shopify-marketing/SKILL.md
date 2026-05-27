@@ -1,10 +1,12 @@
 ---
-name: shopify-marketing
+name: ecom-shopify-marketing
 description: "Complete marketing strategy for Shopify stores. SEO, email marketing, paid ads, social media, conversion optimization, and retention tactics specifically tailored for Shopify/DTC brands."
-metadata:
-  nexscope:
-    emoji: "🟢"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🟢
+category: ecommerce
 ---
 
 # Shopify Marketing 🟢

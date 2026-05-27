@@ -1,9 +1,11 @@
 ---
-name: market-sizing-analysis
+name: ag-market-sizing-analysis
 description: "Comprehensive market sizing methodologies for calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for startup opportunities."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Market Sizing Analysis

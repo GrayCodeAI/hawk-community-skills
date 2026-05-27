@@ -1,6 +1,9 @@
 ---
-description: 'Tailwind CSS v4+ installation and configuration for Vite projects using the official @tailwindcss/vite plugin'
-applyTo: 'vite.config.ts, vite.config.js, **/*.css, **/*.tsx, **/*.ts, **/*.jsx, **/*.js'
+name: ghcp-instructions-tailwind-v4-vite.instructions
+description: "Tailwind CSS v4+ installation and configuration for Vite projects using the official @tailwindcss/vite plugin"
+license: MIT
+tags: [general]
+applyTo: vite.config.ts, vite.config.js, **/*.css, **/*.tsx, **/*.ts, **/*.jsx, **/*.js
 ---
 
 # Tailwind CSS v4+ Installation with Vite

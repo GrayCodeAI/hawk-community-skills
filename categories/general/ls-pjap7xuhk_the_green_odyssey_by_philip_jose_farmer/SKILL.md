@@ -1,3 +1,10 @@
+---
+name: ls-pjap7xuhk_the_green_odyssey_by_philip_jose_farmer
+description: "Skill: ls-pjap7xuhk_the_green_odyssey_by_philip_jose_farmer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pjap7xuhk-the-green-odyssey-by-philip-jose-farmer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BgH9EhncUiu4oBjSGZVtbPkR?se=2124-01-06T01%3A39%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcaf56cb0-0c6c-49f7-a405-81754d5a6fa6.png&sig=G4Qn29RBL7%2Bw8OtjhbbQKcAyXArauC5MkeuCH6lvb5k%3D" width="100px" />

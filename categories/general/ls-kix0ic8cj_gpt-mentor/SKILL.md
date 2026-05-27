@@ -1,3 +1,10 @@
+---
+name: ls-kix0ic8cj_gpt-mentor
+description: "Skill: ls-kix0ic8cj_gpt-mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KIX0IC8cj-gpt-mentor
 
 GPT Title: GPT Mentor

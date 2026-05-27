@@ -1,3 +1,10 @@
+---
+name: cpa-devops
+description: "Skill: cpa-devops"
+license: MIT
+tags: [general]
+---
+
 # az devops
 
 ```bash

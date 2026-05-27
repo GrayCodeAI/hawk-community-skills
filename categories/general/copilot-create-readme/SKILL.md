@@ -1,6 +1,8 @@
 ---
-name: create-readme
-description: 'Create a README.md file for the project'
+name: copilot-create-readme
+description: "Create a README.md file for the project"
+license: MIT
+tags: [general]
 ---
 
 ## Role

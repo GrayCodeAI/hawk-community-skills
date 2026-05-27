@@ -1,8 +1,10 @@
 ---
-name: venly-automation
+name: composio-venly-automation
 description: "Automate Venly tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Venly Automation via Rube MCP

@@ -1,7 +1,9 @@
 ---
-name: penetration-tester
-description: Authorized security testing, OWASP Top 10 assessment, vulnerability reporting, and remediation guidance
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-penetration-tester
+description: "Authorized security testing, OWASP Top 10 assessment, vulnerability reporting, and remediation guidance"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

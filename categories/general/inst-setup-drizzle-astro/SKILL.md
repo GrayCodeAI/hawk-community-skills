@@ -1,96 +1,9 @@
-# Drizzle + Astro Integration Setup Guide
-
-This guide provides step-by-step instructions for integrating Drizzle ORM with an Astro application.
-
-## Prerequisites
-- Node.js and npm installed
-- Astro project initialized with SSR enabled
-- PostgreSQL database (or any other supported database)
-
-## Installation
-
-1. Install required dependencies:
-```bash
-npm install drizzle-orm pg
-npm install -D drizzle-kit @types/pg
-```
-
-## Configuration
-
-1. Create a `.env` file in your project root:
-```env
-DATABASE_URL=postgres://<user>:<password>@<host>:<port>/<dbname>
-```
-
-2. Create a database schema file `src/db/schema.ts`:
-```typescript
-import { pgTable, serial, text, varchar } from 'drizzle-orm/pg-core';
-
-export const users = pgTable('users', {
-  id: serial('id').primaryKey(),
-  name: varchar('name', { length: 255 }).notNull(),
-  email: text('email').notNull().unique(),
-});
-
-export type User = typeof users.$inferSelect;
-export type NewUser = typeof users.$inferInsert;
-```
-
-3. Create a database configuration file `src/db/index.ts`:
-```typescript
-import { drizzle } from 'drizzle-orm/node-postgres';
-import { Pool } from 'pg';
-import * as schema from './schema';
-
-const pool = new Pool({
-  connectionString: import.meta.env.DATABASE_URL,
-});
-
-export const db = drizzle(pool, { schema });
-```
-
-4. Create a migration script `drizzle.config.ts`:
-```typescript
-import type { Config } from 'drizzle-kit';
-
-export default {
-  schema: './src/db/schema.ts',
-  out: './drizzle',
-  driver: 'pg',
-  dbCredentials: {
-    connectionString: process.env.DATABASE_URL!,
-  },
-} satisfies Config;
-```
-
-5. Add migration scripts to `package.json`:
-```json
-{
-  "scripts": {
-    "generate": "drizzle-kit generate:pg",
-    "migrate": "drizzle-kit push:pg"
-  }
-}
-```
-
-## Usage Examples
-
-### Basic Database Operations
-```astro
 ---
-// src/pages/users.astro
-import { db } from '../db';
-import { users, type User } from '../db/schema';
-import { eq } from 'drizzle-orm';
-
-let userList: User[] = [];
-let error: string | null = null;
-
-try {
-  userList = await db.select().from(users).orderBy(users.name);
-} catch (e: any) {
-  error = e.message;
-}
+name: inst-setup-drizzle-astro
+description: 'Skill: inst-setup-drizzle-astro'
+license: MIT
+tags:
+- general
 ---
 
 <div>
@@ -365,4 +278,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Astro Documentation](https://docs.astro.build)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

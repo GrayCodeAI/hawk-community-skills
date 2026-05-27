@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new shadcn to Next 15 applications
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-setup-next-shadcn
+description: "Guidelines for adding new shadcn to Next 15 applications"
+license: MIT
+tags: [general]
 ---
 
 # Automated ShadCN Installation in Next.js

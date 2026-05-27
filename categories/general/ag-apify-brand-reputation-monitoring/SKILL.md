@@ -1,6 +1,8 @@
 ---
-name: apify-brand-reputation-monitoring
+name: ag-apify-brand-reputation-monitoring
 description: "Scrape reviews, ratings, and brand mentions from multiple platforms using Apify Actors."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

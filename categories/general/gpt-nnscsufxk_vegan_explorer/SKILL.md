@@ -1,3 +1,10 @@
+---
+name: gpt-nnscsufxk_vegan_explorer
+description: "Skill: gpt-nnscsufxk_vegan_explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nnsCsUfXK-vegan-explorer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-qL1bO30tMrzEqlVpzxNc1qUk?se=2123-12-20T10%3A19%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc54ff3ef-cc2e-4f31-b700-bb3d07c58a89.png&sig=IV8z5hNAaWoJzbLTu%2B3FGH7hfCFfHaOm9lm%2Bvi1ppGU%3D" width="100px" />

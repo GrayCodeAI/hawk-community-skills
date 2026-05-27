@@ -1,3 +1,10 @@
+---
+name: ls-yp6suh2ai_beard_growth_guru
+description: "Skill: ls-yp6suh2ai_beard_growth_guru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yp6SUH2ai-beard-growth-guru
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gZ8pO7lZS2NQCLgnQsqI4sta?se=2123-12-21T19%3A58%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dd3769c49-02b1-49e7-82a5-bbc890f1dc20.png&sig=O8HgriPkxPjXCAAfMFeLtVxPC8j4VXg7OkBIW4wGjXU%3D" width="100px" />

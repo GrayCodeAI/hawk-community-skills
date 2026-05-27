@@ -1,3 +1,10 @@
+---
+name: cpa-hpc-cache
+description: "Skill: cpa-hpc-cache"
+license: MIT
+tags: [general]
+---
+
 # az hpc-cache
 
 ```bash

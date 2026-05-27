@@ -1,7 +1,9 @@
 ---
-description: Steps and procedures for releasing MCP (Model Context Protocol) servers as NPM packages
-globs: "package.json, **/package.json"
-alwaysApply: false
+name: extra-mcp-releasing
+description: "Steps and procedures for releasing MCP (Model Context Protocol) servers as NPM packages"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Releasing MCP Servers

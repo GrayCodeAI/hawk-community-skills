@@ -1,3 +1,10 @@
+---
+name: rb-old_spec
+description: "Skill: rb-old_spec"
+license: MIT
+tags: [general]
+---
+
 # Specification: Rulebook-AI CLI
 
 **1. Overview**

@@ -1,3 +1,11 @@
+---
+name: ls-lrnkhqzfa_there's-an-api-for-that---the-#1-api-fin
+description: 'Skill: ls-lrnkhqzfa_there''s-an-api-for-that---the-#1-api-fin'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-LrNKhqZfA-there-s-an-api-for-that-the-1-api-finder
 
 GPT Title: There's An API For That - The #1 API Finder

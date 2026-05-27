@@ -1,3 +1,10 @@
+---
+name: cpa-customlocation
+description: "Skill: cpa-customlocation"
+license: MIT
+tags: [general]
+---
+
 # az customlocation
 
 ```bash

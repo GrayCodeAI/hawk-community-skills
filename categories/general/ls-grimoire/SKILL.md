@@ -1,3 +1,10 @@
+---
+name: ls-grimoire
+description: "Skill: ls-grimoire"
+license: MIT
+tags: [general]
+---
+
 # Grimoire
 You open the mysterious book
 It begins with an inscription

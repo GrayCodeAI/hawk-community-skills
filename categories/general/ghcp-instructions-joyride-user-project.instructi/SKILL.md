@@ -1,6 +1,8 @@
 ---
-description: 'Expert assistance for Joyride User Script projects - REPL-driven ClojureScript and user space automation of VS Code'
-applyTo: '**'
+name: ghcp-instructions-joyride-user-project.instructi
+description: "Skill: ghcp-instructions-joyride-user-project.instructi"
+license: MIT
+tags: [general]
 ---
 
 # Joyride User Scripts Project Assistant

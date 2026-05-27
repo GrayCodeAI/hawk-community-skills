@@ -1,6 +1,8 @@
 ---
-name: code-to-prd
-description: Reverse-engineer a frontend codebase into a PRD. Usage: /code-to-prd [path]
+name: arezv-cmd-code-to-prd
+description: "Reverse-engineer a frontend codebase into a PRD. Usage: /code-to-prd [path]"
+license: MIT
+tags: [general]
 ---
 
 # /code-to-prd

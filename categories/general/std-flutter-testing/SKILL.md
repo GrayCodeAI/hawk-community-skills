@@ -1,22 +1,14 @@
 ---
-name: flutter-testing
-description: Write unit, widget, and integration tests with robot patterns, widget keys, and Patrol in Flutter. Use when writing tests or implementing test automation.
-metadata:
-  triggers:
-    files:
-    - '**/test/**.dart'
-    - '**/integration_test/**.dart'
-    - '**/robots/**.dart'
-    - 'lib/core/keys/**.dart'
-    keywords:
-    - test
-    - patrol
-    - robot
-    - WidgetKeys
-    - patrolTest
-    - blocTest
-    - mocktail
+name: std-flutter-testing
+description: "Write unit, widget, and integration tests with robot patterns, widget keys, and Patrol in Flutter. Use when writing tests or implementing test automation."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Flutter Testing Standards
 
 ## **Priority: P0 (CRITICAL)**

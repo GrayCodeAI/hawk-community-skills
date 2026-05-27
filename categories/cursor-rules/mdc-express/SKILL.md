@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for building robust, scalable, and secure Express.js applications, emphasizing modern patterns and common pitfalls.
-globs: **/*.{js,ts}
+name: mdc-express
+description: "This guide defines definitive best practices for building robust, scalable, and secure Express.js applications, emphasizing modern patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # express Best Practices
 
 Express.js is the backbone of many Node.js backends. To build scalable, maintainable, and secure APIs in 2025, you *must* adhere to strict coding standards. This guide provides the definitive rules for our team.

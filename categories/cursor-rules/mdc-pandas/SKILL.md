@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for writing high-performance, maintainable, and robust pandas code, focusing on modern patterns and avoiding common pitfalls.
-globs: **/*.py
+name: mdc-pandas
+description: "This guide outlines definitive best practices for writing high-performance, maintainable, and robust pandas code, focusing on modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # pandas Best Practices
 
 Pandas is the backbone of data analysis in Python. Adhere to these guidelines to write efficient, readable, and scalable code that integrates seamlessly into modern AI/ML pipelines.

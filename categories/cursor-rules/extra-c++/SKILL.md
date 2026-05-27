@@ -1,7 +1,9 @@
 ---
-description: c++ 编码规则和最佳实践。
-globs: **/*.cpp, **/*.hpp
-alwaysApply: false
+name: extra-c++
+description: "c++ 编码规则和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # C++ 规则

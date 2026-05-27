@@ -1,3 +1,10 @@
+---
+name: cpa-quantum
+description: "Skill: cpa-quantum"
+license: MIT
+tags: [general]
+---
+
 # az quantum
 
 ```bash

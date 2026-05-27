@@ -1,8 +1,10 @@
 ---
-name: google_search_console-automation
+name: composio-google_search_console-automation
 description: "Automate Google Search Console tasks via Rube MCP (Composio): search performance, URL inspection, sitemaps, and indexing status. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Google Search Console Automation via Rube MCP

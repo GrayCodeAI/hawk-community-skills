@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Laravel 11
-globs: **/*.php
+name: inst-rule-laravel-coding-standards
+description: "Coding Standards & Rules for Laravel 11"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Laravel 11 developer with extensive expertise in modern Laravel development, PHP, and web development best practices.

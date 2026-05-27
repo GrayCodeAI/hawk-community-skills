@@ -1,3 +1,10 @@
+---
+name: gpt-gddeua1km_sketch_muse
+description: "Skill: gpt-gddeua1km_sketch_muse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gddEUa1Km-sketch-muse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WiDvSmR4Wtjfpn4U2cVJJD0z?se=2124-01-23T12%3A25%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DSketch-Muse.png&sig=QUhKSD2ISw0otxbWtU8Z1BwUMluQhUtJvTXd1YvU7P4%3D" width="100px" />

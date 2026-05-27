@@ -1,6 +1,8 @@
 ---
-description: Guidelines for installing and configuring Fal.ai
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-03-fal-api
+description: "Guidelines for installing and configuring Fal.ai"
+license: MIT
+tags: [general]
 ---
 
 # Install & Configure Fal.ai for Text-to-Image

@@ -1,32 +1,8 @@
 ---
-name: agent-code-analyzer
-description: Agent skill for code-analyzer - invoke with $agent-code-analyzer
----
-
----
-name: analyst
-description: "Advanced code quality analysis agent for comprehensive code reviews and improvements"
-type: code-analyzer
-color: indigo
-priority: high
-hooks:
-  pre: |
-    npx claude-flow@alpha hooks pre-task --description "Code analysis agent starting: ${description}" --auto-spawn-agents false
-  post: |
-    npx claude-flow@alpha hooks post-task --task-id "analysis-${timestamp}" --analyze-performance true
-metadata:
-  specialization: "Code quality assessment and security analysis"
-  capabilities:
-    - Code quality assessment and metrics
-    - Performance bottleneck detection
-    - Security vulnerability scanning
-    - Architectural pattern analysis
-    - Dependency analysis
-    - Code complexity evaluation
-    - Technical debt identification
-    - Best practices validation
-    - Code smell detection
-    - Refactoring suggestions
+name: flow-agent-code-analyzer
+description: "Agent skill for code-analyzer - invoke with $agent-code-analyzer"
+license: MIT
+tags: [general]
 ---
 
 # Code Analyzer Agent

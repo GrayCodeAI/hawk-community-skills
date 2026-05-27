@@ -1,3 +1,10 @@
+---
+name: ghcp-references-project-brief-template
+description: "Skill: ghcp-references-project-brief-template"
+license: MIT
+tags: [general]
+---
+
 # PROJECT_BRIEF.md Template
 
 Copy this template to your project root and fill in every section. **Do not abbreviate sections 12-14** — they are critical for cross-chat context survival.

@@ -1,8 +1,10 @@
 ---
-name: storeganise-automation
+name: composio-storeganise-automation
 description: "Automate Storeganise tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Storeganise Automation via Rube MCP

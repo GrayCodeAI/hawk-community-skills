@@ -1,6 +1,8 @@
 ---
-description: 'Create or modify solutions built using Terraform on Azure.'
-applyTo: '**/*.terraform, **/*.tf, **/*.tfvars, **/*.tflint.hcl, **/*.tfstate, **/*.tf.json, **/*.tfvars.json'
+name: ghcp-instructions-terraform-azure.instructions
+description: "Skill: ghcp-instructions-terraform-azure.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Azure Terraform Best Practices

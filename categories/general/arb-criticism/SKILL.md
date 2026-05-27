@@ -1,3 +1,10 @@
+---
+name: arb-criticism
+description: "Skill: arb-criticism"
+license: MIT
+tags: [general]
+---
+
 # Constructive criticism from Reddit
 
 Below is a consolidated list of recurring criticisms and suggestions from the Reddit discussion, ordered from the most valid to the least valid.

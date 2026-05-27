@@ -1,3 +1,10 @@
+---
+name: cpa-servicebus
+description: "Skill: cpa-servicebus"
+license: MIT
+tags: [general]
+---
+
 # az servicebus
 
 ```bash

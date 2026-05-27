@@ -1,7 +1,9 @@
 ---
-name: workflow-director
-description: End-to-end workflow orchestration, checkpoint management, and error recovery
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-workflow-director
+description: "End-to-end workflow orchestration, checkpoint management, and error recovery"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

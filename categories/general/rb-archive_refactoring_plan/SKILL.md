@@ -1,3 +1,10 @@
+---
+name: rb-archive_refactoring_plan
+description: "Skill: rb-archive_refactoring_plan"
+license: MIT
+tags: [general]
+---
+
 # Refactoring Plan: `rulebook-ai` Core and CLI
 
 **Objective:** This document outlines the plan for a purely internal refactoring of the `rulebook-ai` codebase. The goal is to improve maintainability and extensibility without changing any user-facing behavior of the CLI.

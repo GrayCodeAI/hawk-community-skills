@@ -1,3 +1,10 @@
+---
+name: ls-6epxrma8m_leetcode-problem-solver
+description: "Skill: ls-6epxrma8m_leetcode-problem-solver"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6EPxrMA8m-leetcode-problem-solver
 
 GPT Title: LeetCode Problem Solver

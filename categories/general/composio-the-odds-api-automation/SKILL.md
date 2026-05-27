@@ -1,8 +1,10 @@
 ---
-name: the-odds-api-automation
+name: composio-the-odds-api-automation
 description: "Automate The Odds API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # The Odds API Automation via Rube MCP

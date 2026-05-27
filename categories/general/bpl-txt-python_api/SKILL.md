@@ -1,9 +1,10 @@
 ---
-name: bpl-python_api
-description: System prompt - python_api
-domain: general
+name: bpl-txt-python_api
+description: "System prompt - python_api"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

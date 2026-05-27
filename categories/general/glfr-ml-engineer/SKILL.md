@@ -1,7 +1,9 @@
 ---
-name: ml-engineer
-description: Machine learning pipeline development with training, evaluation, feature engineering, and model deployment
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-ml-engineer
+description: "Machine learning pipeline development with training, evaluation, feature engineering, and model deployment"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Next.js apps with Clerk Authentication
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-setup-clerk-next
+description: "Guidelines for writing Next.js apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Next.js app with Clerk Authentication
@@ -159,4 +161,4 @@ When asked about Clerk Auth implementation, you MUST:
 3. ALWAYS use proper error handling
 4. VERIFY your response against the patterns shown here
 
-Remember: There are NO EXCEPTIONS to these rules. 
+Remember: There are NO EXCEPTIONS to these rules.

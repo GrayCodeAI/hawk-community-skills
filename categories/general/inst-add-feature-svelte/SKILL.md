@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features in Svelte 5 applications
-globs: **/*.svelte, **/*.ts
+name: inst-add-feature-svelte
+description: "Guidelines for adding new features in Svelte 5 applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte 5 developer with expertise in building scalable applications. Follow these guidelines when adding new features.
@@ -104,4 +106,4 @@ export const load: PageLoad = async ({ params, fetch }) => {
 - Use route groups for organizing related pages
 - Implement proper client-side navigation
 - Use proper error boundaries and fallbacks
-- Implement proper API routes in `src/routes/api` 
+- Implement proper API routes in `src/routes/api`

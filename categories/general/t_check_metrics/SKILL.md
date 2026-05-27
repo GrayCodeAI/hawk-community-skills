@@ -1,9 +1,10 @@
 ---
 name: t_check_metrics
-description: Fabric pattern - t_check_metrics
-domain: general
+description: "Fabric pattern - t_check_metrics"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

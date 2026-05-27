@@ -1,3 +1,10 @@
+---
+name: gpt-uvpg6vf5l_god_of_cannabis
+description: "Skill: gpt-uvpg6vf5l_god_of_cannabis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UVpG6VF5l-god-of-cannabis
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-UTduAnZ6xW349MMfTFZzZfke?se=2123-11-20T05%3A20%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252010.31.31%2520-%2520A%2520logo%2520for%2520%2527Cannabis%2520GPT%2527.%2520The%2520design%2520should%2520be%2520modern%2520and%2520sleek%252C%2520with%2520a%2520green%2520and%2520earthy%2520color%2520palette%2520to%2520represent%2520the%2520cannabis%2520theme.%2520The%2520text%2520%2527Can.png&sig=JDWRk3sqj9b3WhzO1mIty1jv9VtW%2ByUJTc5kwOUlYJw%3D" width="100px" />

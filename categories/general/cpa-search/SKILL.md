@@ -1,3 +1,10 @@
+---
+name: cpa-search
+description: "Skill: cpa-search"
+license: MIT
+tags: [general]
+---
+
 # az search
 
 ```bash

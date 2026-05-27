@@ -1,3 +1,10 @@
+---
+name: cpa-alias
+description: "Skill: cpa-alias"
+license: MIT
+tags: [general]
+---
+
 # az alias
 
 ```bash

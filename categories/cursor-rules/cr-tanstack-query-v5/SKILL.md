@@ -1,9 +1,10 @@
 ---
 name: cr-tanstack-query-v5
-description: Cursor rules for tanstack-query-v5
-domain: engineering
+description: "Cursor rules for tanstack-query-v5"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

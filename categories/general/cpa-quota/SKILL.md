@@ -1,3 +1,10 @@
+---
+name: cpa-quota
+description: "Skill: cpa-quota"
+license: MIT
+tags: [general]
+---
+
 # az quota
 
 ```bash

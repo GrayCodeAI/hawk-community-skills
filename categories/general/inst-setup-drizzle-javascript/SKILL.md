@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-javascript
+description: "Skill: inst-setup-drizzle-javascript"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + JavaScript Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with a vanilla JavaScript application.
@@ -422,4 +429,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Node.js Documentation](https://nodejs.org/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

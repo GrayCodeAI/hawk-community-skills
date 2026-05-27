@@ -1,17 +1,12 @@
 ---
 name: implementing-passwordless-auth-with-microsoft-entra
-description: >
-  Implements passwordless authentication using Microsoft Entra ID with FIDO2 security keys,
-  Windows Hello for Business, Microsoft Authenticator passkeys, and certificate-based
-  authentication to eliminate password-based attacks.
-  Activates for requests involving passwordless deployment, FIDO2 passkey configuration,
-  phishing-resistant MFA, or Microsoft Entra authentication method policies.
+description: "Implements passwordless authentication using Microsoft Entra ID with FIDO2 security keys, Windows Hello for Business, Microsoft Authenticator passkeys, and certificate-based authentication to elimi..."
+license: MIT
+tags: [passwordless, fido2, passkeys, microsoft-entra, windows-hello, phishing-resistant-mfa]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [passwordless, FIDO2, passkeys, Microsoft-Entra, Windows-Hello, phishing-resistant-MFA]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Passwordless Auth with Microsoft Entra

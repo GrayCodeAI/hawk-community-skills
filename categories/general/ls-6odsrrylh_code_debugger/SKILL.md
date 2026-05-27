@@ -1,3 +1,10 @@
+---
+name: ls-6odsrrylh_code_debugger
+description: "Skill: ls-6odsrrylh_code_debugger"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6ODSRryLh-code-debugger
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-QTRDnweDvckqujjpzVpIwVE8?se=2123-10-18T21%3A21%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5e7b6ffc-9480-41c7-8efe-71ffc3c46441.png&sig=NqqyM0ffyxtiPsl8rkiFiZTI0uzJIKbTel3cZx4QtsM%3D" width="100px" />

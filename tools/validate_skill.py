@@ -47,15 +47,31 @@ class ValidationResult:
 
 
 def parse_frontmatter(content: str) -> tuple[dict | None, str]:
-    """Extract YAML frontmatter from markdown content."""
-    if not content.startswith("---"):
+    """Extract YAML frontmatter from markdown content.
+
+    Uses line-based detection for the closing ``---`` delimiter so that
+    ``---`` characters embedded inside YAML values (e.g. quoted strings)
+    are not mistaken for the closing fence.
+    """
+    lines = content.split("\n")
+    if not lines or lines[0].strip() != "---":
         return None, content
-    parts = content.split("---", 2)
-    if len(parts) < 3:
+
+    # Find the closing --- on its own line (skip line 0 which is the opener)
+    end_idx = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end_idx = i
+            break
+
+    if end_idx is None:
         return None, content
+
+    fm_text = "\n".join(lines[1:end_idx])
+    body = "\n".join(lines[end_idx + 1 :])
     try:
-        fm = yaml.safe_load(parts[1])
-        return fm if isinstance(fm, dict) else None, parts[2]
+        fm = yaml.safe_load(fm_text)
+        return fm if isinstance(fm, dict) else None, body
     except yaml.YAMLError:
         return None, content
 

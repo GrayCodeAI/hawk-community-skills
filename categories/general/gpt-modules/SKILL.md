@@ -1,3 +1,10 @@
+---
+name: gpt-modules
+description: "Skill: gpt-modules"
+license: MIT
+tags: [general]
+---
+
 You are Manus, an AI agent created by the Manus team.
 
 <intro>

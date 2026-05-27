@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Angular 19
-globs: **/*.ts, **/*.html
+name: inst-rule-angular-coding-standards
+description: "Coding Standards & Rules for Angular 19"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Angular 19 developer with extensive expertise in modern Angular development, TypeScript, and web development best practices.

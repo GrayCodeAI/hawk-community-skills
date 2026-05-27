@@ -1,8 +1,8 @@
 ---
-name: file-uploads
-description: Expert at handling file uploads and cloud storage. Covers S3,
-  Cloudflare R2, presigned URLs, multipart uploads, and image optimization.
-  Knows how to handle large files without blocking.
+name: ag-file-uploads
+description: "Expert at handling file uploads and cloud storage. Covers S3,"
+license: MIT
+tags: [general]
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

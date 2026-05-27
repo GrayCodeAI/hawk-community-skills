@@ -1,3 +1,10 @@
+---
+name: ls-hz0brk1c7_historacle
+description: "Skill: ls-hz0brk1c7_historacle"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hZ0BRk1c7-historacle
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-azTszSVoQCsZQcYVO9jak3Sl?se=2124-01-11T12%3A59%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-04%252007.52.40%2520-%2520Create%2520a%2520square%2520image%2520illustrating%2520an%2520atom%2520structure%2520with%2520a%2520creative%2520and%2520anachronistic%2520twist.%2520The%2520nucleus%2520of%2520the%2520atom%2520is%2520represented%2520by%2520the%2520letter%2520_H_.webp&sig=MRkYFz/gS9N3KDFnDfb9NQsXESRr69Ix8bCKU2HQxHs%3D" width="100px" />

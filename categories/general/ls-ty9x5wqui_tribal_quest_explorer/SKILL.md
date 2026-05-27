@@ -1,3 +1,10 @@
+---
+name: ls-ty9x5wqui_tribal_quest_explorer
+description: "Skill: ls-ty9x5wqui_tribal_quest_explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ty9X5wQui-tribal-quest-explorer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6WuLj2pnziTBkn1GhePTj11J?se=2124-01-09T03%3A52%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D31b5d270-0150-4e87-a13c-bc800698ae61.png&sig=PINJjiWYQLIrER7nTjFeAu90q5xM7grnh3C320q8GxY%3D" width="100px" />

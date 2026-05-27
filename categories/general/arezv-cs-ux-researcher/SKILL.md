@@ -1,6 +1,8 @@
 ---
-name: cs-ux-researcher
-description: UX research agent for research planning, persona generation, journey mapping, and usability test analysis
+name: arezv-cs-ux-researcher
+description: "UX research agent for research planning, persona generation, journey mapping, and usability test analysis"
+license: MIT
+tags: [general]
 skills: product-team/ux-researcher-designer, product-team/product-manager-toolkit, product-team/ui-design-system
 domain: product
 model: sonnet

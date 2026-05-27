@@ -1,3 +1,10 @@
+---
+name: ls-tyotxwlki_difficult_to_hack_gpt
+description: "Skill: ls-tyotxwlki_difficult_to_hack_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tyotXWLki-difficult-to-hack-gpt
 
 GPT logo: <img src="None" width="100px" />

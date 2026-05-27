@@ -1,9 +1,10 @@
 ---
-name: bpl-new_rule_intro_image
-description: System prompt - new_rule_intro_image
-domain: general
+name: bpl-txt-new_rule_intro_image
+description: "System prompt - new_rule_intro_image"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

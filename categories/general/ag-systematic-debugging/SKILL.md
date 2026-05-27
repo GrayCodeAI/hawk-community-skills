@@ -1,9 +1,11 @@
 ---
-name: systematic-debugging
+name: ag-systematic-debugging
 description: "Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Systematic Debugging

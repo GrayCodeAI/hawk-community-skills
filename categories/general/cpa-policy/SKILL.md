@@ -1,3 +1,10 @@
+---
+name: cpa-policy
+description: "Skill: cpa-policy"
+license: MIT
+tags: [general]
+---
+
 # az policy
 
 ```bash

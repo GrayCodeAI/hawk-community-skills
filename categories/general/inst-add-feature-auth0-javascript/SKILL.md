@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding features to vanilla JavaScript apps with Auth0 Authentication
-globs: "**/*.html, **/*.js"
+name: inst-add-feature-auth0-javascript
+description: "Guidelines for adding features to vanilla JavaScript apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features to Vanilla JavaScript App with Auth0 Authentication
@@ -328,4 +330,4 @@ async function getScopedAccessToken(scope) {
 12. Use Auth0's built-in social login providers
 13. Implement proper MFA flows when required
 14. Use proper security headers in your application
-15. Implement proper session handling and token refresh logic 
+15. Implement proper session handling and token refresh logic

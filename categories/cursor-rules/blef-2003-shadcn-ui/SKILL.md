@@ -1,7 +1,9 @@
 ---
-description: Use Shadcn UI components when designing to ensure consistent styling
-globs: src/**/*.tsx
-alwaysApply: false
+name: blef-2003-shadcn-ui
+description: "Use Shadcn UI components when designing to ensure consistent styling"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Shadcn UI Rules

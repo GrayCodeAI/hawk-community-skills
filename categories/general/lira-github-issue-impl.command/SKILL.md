@@ -1,9 +1,12 @@
 ---
-tools: ['edit', 'search', 'runCommands', 'runTasks', 'usages', 'problems', 'changes', 'fetch', 'githubRepo', 'todos']
-agent: 'agent'
-name: 'github-issue-impl'
-description: 'Implement code based on a GitHub issue'
+name: lira-github-issue-impl.command
+description: "Implement code based on a GitHub issue"
+license: MIT
+tags: [general]
+tools: [edit, search, runCommands, runTasks, usages, problems, changes, fetch, githubRepo, todos]
+agent: agent
 ---
+
 Your goal is to learn the requirements of a GitHub issue and implement the requested code changes.
 
 You will be given an issue number and/or a link to a GitHub issue. You should access the issue and read the issue description and any relevant comments to understand the requirements.

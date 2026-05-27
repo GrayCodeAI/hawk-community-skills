@@ -1,3 +1,10 @@
+---
+name: gpt-gbjsvxu6i_gif-pt
+description: "Skill: gpt-gbjsvxu6i_gif-pt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gbjSvXu6i-gif-pt
 
 GPT Title: Gif-PT

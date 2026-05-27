@@ -1,3 +1,10 @@
+---
+name: cpa-pscloud
+description: "Skill: cpa-pscloud"
+license: MIT
+tags: [general]
+---
+
 # az pscloud
 
 ```bash

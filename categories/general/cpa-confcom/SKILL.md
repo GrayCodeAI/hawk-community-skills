@@ -1,3 +1,10 @@
+---
+name: cpa-confcom
+description: "Skill: cpa-confcom"
+license: MIT
+tags: [general]
+---
+
 # az confcom
 
 ```bash

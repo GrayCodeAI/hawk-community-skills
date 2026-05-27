@@ -1,9 +1,11 @@
 ---
-name: evaluation
+name: ag-evaluation
 description: "Build evaluation frameworks for agent systems. Use when testing agent performance systematically, validating context engineering choices, or measuring improvements over time."
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation"
-date_added: "2026-02-27"
+source: https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation
+date_added: 2026-02-27
 ---
 
 ## When to Use This Skill

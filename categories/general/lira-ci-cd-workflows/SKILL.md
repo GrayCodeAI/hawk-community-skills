@@ -1,6 +1,9 @@
 ---
-applyTo: '.github/workflows/*.yml'
-description: 'Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matrix strategies, testing, and deployment strategies.'
+name: lira-ci-cd-workflows
+description: "Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matri..."
+license: MIT
+tags: [general]
+applyTo: .github/workflows/*.yml
 source: https://github.com/github/awesome-copilot/blob/main/instructions/github-actions-ci-cd-best-practices.instructions.md
 ---
 
@@ -605,4 +608,4 @@ GitHub Actions is a powerful and flexible platform for automating your software 
 
 ---
 
-<!-- End of GitHub Actions CI/CD Best Practices Instructions --> 
+<!-- End of GitHub Actions CI/CD Best Practices Instructions -->

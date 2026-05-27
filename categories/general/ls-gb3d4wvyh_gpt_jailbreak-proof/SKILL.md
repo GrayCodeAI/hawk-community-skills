@@ -1,3 +1,10 @@
+---
+name: ls-gb3d4wvyh_gpt_jailbreak-proof
+description: "Skill: ls-gb3d4wvyh_gpt_jailbreak-proof"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gB3d4WvYH-gpt-jailbreak-proof
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-VnlbBaF4Vr3d2Zyi8ZkZg3al?se=2124-01-02T18%3A35%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DCaptura%2520de%2520Tela%25202024-01-26%2520a%25CC%2580s%252015.34.58.png&sig=MubenQOX6SYrM40iuFgNp0VQuABmo9zVYdHqnVrcoEA%3D" width="100px" />

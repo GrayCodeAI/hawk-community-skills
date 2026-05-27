@@ -1,3 +1,10 @@
+---
+name: gpt-ubpnagyl9_all-around_writer_professional_version
+description: "Skill: gpt-ubpnagyl9_all-around_writer_professional_version"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-3bb4cMsJxmTglzwJMny2J5FQ?se=2123-10-16T01%3A33%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D95bf7bd2-9782-4d24-9e06-7f0534ef6469.png&sig=K05NkNlTpmMcEfHCyalr6yeShPCpwmPw%2BgSFSbjEiS4%3D" width="100px" />

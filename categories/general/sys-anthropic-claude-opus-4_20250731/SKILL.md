@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-opus-4_20250731
+description: "Skill: sys-anthropic-claude-opus-4_20250731"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-opus-4_20250731
 
 source: <https://docs.anthropic.com/en/release-notes/system-prompts#july-31st-2025>

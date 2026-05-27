@@ -1,3 +1,10 @@
+---
+name: cpa-trustedsigning
+description: "Skill: cpa-trustedsigning"
+license: MIT
+tags: [general]
+---
+
 # az trustedsigning
 
 ```bash

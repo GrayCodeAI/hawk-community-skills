@@ -1,9 +1,10 @@
 ---
-name: federation-audit
-description: Query federation audit logs with compliance filtering
-allowed-tools: Bash(npx *) mcp__claude-flow__memory_search Read Grep
-argument-hint: "[--compliance hipaa|soc2|gdpr] [--since DATE] [--severity critical|error|warn|info]"
+name: flow-federation-audit
+description: "Skill: flow-federation-audit"
+license: MIT
+tags: [general]
 ---
+
 Query structured federation audit logs. Supports compliance mode filtering (HIPAA, SOC2, GDPR) and severity filtering.
 
 Steps:

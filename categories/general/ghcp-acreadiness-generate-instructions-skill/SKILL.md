@@ -1,51 +1,9 @@
 ---
-name: acreadiness-generate-instructions
-description: 'Generate tailored AI agent instruction files via AgentRC instructions command. Produces .github/copilot-instructions.md (default, recommended for Copilot in VS Code) plus optional per-area .instructions.md files with applyTo globs for monorepos. Use after running /acreadiness-assess to close gaps in the AI Tooling pillar.'
-argument-hint: "[--output .github/copilot-instructions.md|AGENTS.md] [--strategy flat|nested] [--areas | --area <name>] [--apply-to <glob>] [--claude-md] [--dry-run]"
----
-
-# /acreadiness-generate-instructions — write AI agent instructions
-
-Use this skill whenever the user wants to **create**, **regenerate**, or **refresh** their custom instructions for AI coding agents (Copilot, Claude, etc.). This is the *Generate* step in AgentRC's **Measure → Generate → Maintain** loop and the single highest-leverage action for the **AI Tooling** pillar.
-
-## Output options
-
-VS Code recognises several instruction file types — AgentRC generates the most common ones:
-
-| File | Scope | When to use |
-|---|---|---|
-| `.github/copilot-instructions.md` | Always-on, whole workspace | **Default** — VS Code Copilot's native instruction file |
-| `AGENTS.md` | Always-on, whole workspace | Multi-agent repos (Copilot + Claude + others) |
-| `.github/instructions/*.instructions.md` | Scoped by `applyTo` glob | Per-area / per-language rules in monorepos |
-| `CLAUDE.md` | Claude-specific | Add via `--claude-md` (nested only) |
-
-## Strategies
-
-- **`flat`** *(default)* — single `.github/copilot-instructions.md` at the chosen path. Simple, easy to review.
-- **`nested`** — hub at `.github/copilot-instructions.md` + per-topic detail files at `.github/instructions/<topic>.instructions.md`, each with an `applyTo` glob so VS Code only loads the topic when it's relevant. Better for large or multi-stack repos.
-
-> **Why `.github/instructions/` and not `.agents/`?** AgentRC's default nested layout writes to `.agents/`, which is the right home for *agent-agnostic* repos (Copilot + Claude + Cursor reading `AGENTS.md`). For VS Code Copilot specifically, the native location is `.github/instructions/` with `applyTo` frontmatter — that's what Copilot auto-discovers. This skill rewrites AgentRC's nested output to the VS Code-native location whenever the main output is `.github/copilot-instructions.md`. If you instead chose `--output AGENTS.md`, nested keeps AgentRC's default `.agents/` layout.
-
-For monorepos, generate **area-scoped** instructions with `--areas`, `--area <name>`, or `--areas-only`. Areas are defined in `agentrc.config.json`. Per-area output is written as VS Code `.instructions.md` files with an `applyTo` glob (see below).
-
-### Topic vs area `.instructions.md` files
-
-Both end up in `.github/instructions/` but they answer different questions:
-
-| Kind | Filename example | `applyTo` example | Where it comes from |
-|---|---|---|---|
-| **Topic** (nested) | `testing.instructions.md` | `**/*.{test,spec}.{ts,tsx,js}` | AgentRC `--strategy nested` topic split |
-| **Area** (monorepo) | `frontend.instructions.md` | `apps/frontend/**` | `agentrc.config.json` areas + `--areas` |
-
-You can have both at once: a nested set of topic files plus per-area files for a monorepo.
-
-## Per-area files with `applyTo`
-
-When the user opts into areas, emit one VS Code-native `.instructions.md` file per area at `.github/instructions/<area>.instructions.md`. Each file MUST start with frontmatter declaring the glob the rules apply to:
-
-```markdown
----
-applyTo: "apps/frontend/**"
+name: ghcp-acreadiness-generate-instructions-skill
+description: 'Skill: ghcp-acreadiness-generate-instructions-skill'
+license: MIT
+tags:
+- general
 ---
 
 # Frontend area instructions

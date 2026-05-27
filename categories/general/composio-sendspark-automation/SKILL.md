@@ -1,8 +1,10 @@
 ---
-name: sendspark-automation
+name: composio-sendspark-automation
 description: "Automate Sendspark tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Sendspark Automation via Rube MCP

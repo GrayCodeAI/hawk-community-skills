@@ -1,6 +1,8 @@
 ---
-name: focused-fix
-description: Deep-dive feature repair — systematically fix an entire feature/module across all its files and dependencies. Usage: /focused-fix <feature-path>
+name: arezv-cmd-focused-fix
+description: "Deep-dive feature repair — systematically fix an entire feature/module across all its files and dependencies. Usage: /focused-fix <feature-path>"
+license: MIT
+tags: [general]
 ---
 
 # /focused-fix

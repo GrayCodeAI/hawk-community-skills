@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and readable Selenium automation scripts in Python, focusing on modern best practices for testing and web scraping.
-globs: **/*.py
+name: mdc-selenium
+description: "Definitive guidelines for writing robust, maintainable, and readable Selenium automation scripts in Python, focusing on modern best practices for testing and web scraping."
+license: MIT
+tags: [testing]
 ---
+
 # selenium Best Practices
 
 This guide outlines the definitive best practices for using Selenium with Python. Adhere to these rules to ensure your automation scripts are robust, maintainable, and performant.

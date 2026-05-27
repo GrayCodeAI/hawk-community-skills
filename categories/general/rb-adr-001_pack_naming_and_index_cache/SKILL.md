@@ -1,3 +1,10 @@
+---
+name: rb-adr-001_pack_naming_and_index_cache
+description: "Skill: rb-adr-001_pack_naming_and_index_cache"
+license: MIT
+tags: [general]
+---
+
 # ADR-001: Community Pack Naming and Index Cache Strategy
 
 ## Status
@@ -33,4 +40,3 @@ Community packs allow third-party `Rule Packs` to be installed via the `rulebook
 
 * **Installing packs by slug** – This avoids collisions but forces users to remember long identifiers. Rejected for poorer user experience.
 * **Per-repository index cache** – Would duplicate data and require each project to update separately. Rejected to keep MVP simple and predictable.
-

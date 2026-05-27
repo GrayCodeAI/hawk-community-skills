@@ -1,8 +1,10 @@
 ---
-name: extracta-ai-automation
+name: composio-extracta-ai-automation
 description: "Automate Extracta AI tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Extracta AI Automation via Rube MCP

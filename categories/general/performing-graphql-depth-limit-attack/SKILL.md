@@ -1,12 +1,12 @@
 ---
 name: performing-graphql-depth-limit-attack
-description: Execute and test GraphQL depth limit attacks using deeply nested recursive queries to identify denial-of-service vulnerabilities in GraphQL APIs.
+description: "Execute and test GraphQL depth limit attacks using deeply nested recursive queries to identify denial-of-service vulnerabilities in GraphQL APIs."
+license: MIT
+tags: [graphql, depth-limit, denial-of-service, nested-queries, api-security, query-complexity, resource-exhaustion, penetration-testing]
 domain: cybersecurity
 subdomain: api-security
-tags: [graphql, depth-limit, denial-of-service, nested-queries, api-security, query-complexity, resource-exhaustion, penetration-testing]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing GraphQL Depth Limit Attack

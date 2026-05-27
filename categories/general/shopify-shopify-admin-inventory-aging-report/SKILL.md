@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-inventory-aging-report
-role: merchandising
+name: shopify-shopify-admin-inventory-aging-report
 description: "Read-only: categorizes inventory into aging buckets (0-30, 31-60, 61-90, 90+ days) based on time since last sale or receipt."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - orders:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'orders': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

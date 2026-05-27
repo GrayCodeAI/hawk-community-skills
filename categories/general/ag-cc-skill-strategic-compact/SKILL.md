@@ -1,9 +1,11 @@
 ---
-name: cc-skill-strategic-compact
+name: ag-cc-skill-strategic-compact
 description: "Development skill from everything-claude-code"
+license: MIT
+tags: [general]
 risk: none
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # cc-skill-strategic-compact

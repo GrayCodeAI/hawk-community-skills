@@ -1,8 +1,10 @@
 ---
-name: craftmypdf-automation
+name: composio-craftmypdf-automation
 description: "Automate Craftmypdf tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Craftmypdf Automation via Rube MCP

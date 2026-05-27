@@ -1,7 +1,10 @@
 ---
-description: Applies general PHP coding standards and practices to all PHP files in the project, emphasizing object-oriented programming and error handling.
-globs: **/*.php
+name: mdc-php-general-rules
+description: "Applies general PHP coding standards and practices to all PHP files in the project, emphasizing object-oriented programming and error handling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are an expert in PHP and related web development technologies.
 - Write concise, technical responses with accurate PHP examples.
 - Use object-oriented programming with a focus on SOLID principles.

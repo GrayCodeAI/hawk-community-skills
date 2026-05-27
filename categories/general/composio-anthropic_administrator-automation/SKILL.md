@@ -1,8 +1,10 @@
 ---
-name: anthropic_administrator-automation
+name: composio-anthropic_administrator-automation
 description: "Automate Anthropic Admin tasks via Rube MCP (Composio): API keys, usage, workspaces, and organization management. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Anthropic Admin Automation via Rube MCP

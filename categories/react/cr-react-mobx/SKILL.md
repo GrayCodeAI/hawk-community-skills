@@ -1,9 +1,10 @@
 ---
 name: cr-react-mobx
-description: Cursor rules for react-mobx
-domain: engineering
+description: "Cursor rules for react-mobx"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -45,4 +46,3 @@ const additionalInstructions = `
 6. Utilize MobX DevTools for debugging
 7. Follow MobX best practices for scalable state management
 `;
-

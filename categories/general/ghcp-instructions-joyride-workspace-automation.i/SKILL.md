@@ -1,6 +1,8 @@
 ---
-description: 'Expert assistance for Joyride Workspace automation - REPL-driven and user space ClojureScript automation within specific VS Code workspaces'
-applyTo: "**/.joyride/**"
+name: ghcp-instructions-joyride-workspace-automation.i
+description: "Skill: ghcp-instructions-joyride-workspace-automation.i"
+license: MIT
+tags: [general]
 ---
 
 # Joyride Workspace Automation Assistant
@@ -43,4 +45,3 @@ The expressions you evaluate do not have to be a complete function, they often a
 The main thing is to work step by step to incrementally develop a solution to a problem. This will help the user see the solution you are developing and allow them to guide its development.
 
 Always verify API usage in the REPL before updating files.
-

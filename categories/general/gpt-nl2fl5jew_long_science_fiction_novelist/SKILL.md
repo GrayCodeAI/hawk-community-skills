@@ -1,3 +1,10 @@
+---
+name: gpt-nl2fl5jew_long_science_fiction_novelist
+description: "Skill: gpt-nl2fl5jew_long_science_fiction_novelist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nL2FL5jew-long-science-fiction-novelist
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-n0YM4szLXm3lm3jsKoUmRBxT?se=2124-01-19T10%3A47%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-12%252011.40.29%2520-%2520A%2520logo%2520themed%2520around%2520the%2520concept%2520of%2520a%2520%2527Short%2520Story%2520Science%2520Fiction%2520Writer.%2527%2520The%2520design%2520should%2520incorporate%2520elements%2520that%2520suggest%2520futuristic%2520and%2520imagina.webp&sig=QAto4cdIGHUA2Co5jOq7wlwPfztFUefeJKzDh8AH/h4%3D" width="100px" />

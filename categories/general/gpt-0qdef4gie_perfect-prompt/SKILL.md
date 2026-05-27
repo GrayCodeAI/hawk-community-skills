@@ -1,3 +1,10 @@
+---
+name: gpt-0qdef4gie_perfect-prompt
+description: "Skill: gpt-0qdef4gie_perfect-prompt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0QDef4GiE
 
 GPT Title: Prompt Perfect

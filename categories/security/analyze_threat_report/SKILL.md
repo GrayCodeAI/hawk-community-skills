@@ -1,9 +1,10 @@
 ---
 name: analyze_threat_report
-description: Fabric pattern - analyze_threat_report
-domain: general
+description: "Fabric pattern - analyze_threat_report"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

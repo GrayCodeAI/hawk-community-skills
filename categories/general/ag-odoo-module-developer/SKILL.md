@@ -1,8 +1,10 @@
 ---
-name: odoo-module-developer
+name: ag-odoo-module-developer
 description: "Expert guide for creating custom Odoo modules. Covers __manifest__.py, model inheritance, ORM patterns, and module structure best practices."
+license: MIT
+tags: [general]
 risk: safe
-source: "self"
+source: self
 ---
 
 # Odoo Module Developer

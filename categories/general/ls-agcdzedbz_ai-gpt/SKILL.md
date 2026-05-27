@@ -1,3 +1,10 @@
+---
+name: ls-agcdzedbz_ai-gpt
+description: "Skill: ls-agcdzedbz_ai-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-agCdZedbZ-ai-gpt
 
 GPT Title: AI GPT

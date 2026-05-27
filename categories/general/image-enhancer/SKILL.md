@@ -1,13 +1,13 @@
 ---
 name: image-enhancer
-description: Improves image quality including resolution, sharpness, and clarity. Perfect for preparing screenshots for presentations, documentation, or social media.
+description: "Improves image quality including resolution, sharpness, and clarity. Perfect for preparing screenshots for presentations, documentation, or social media."
+license: MIT
+tags: [image-processing, screenshots, enhancement, upscaling, media, productivity]
 domain: general
 subdomain: media
-tags: [image-processing, screenshots, enhancement, upscaling, media, productivity]
-version: "1.0"
+version: 1.0
 author: CommandCodeAI (ported)
-license: MIT
-date_added: "2026-05-14"
+date_added: 2026-05-14
 ---
 
 # Image Enhancer

@@ -1,6 +1,8 @@
 ---
-name: ask-questions-if-underspecified
-description: Clarify requirements before implementing. Use when serious doubts arise.
+name: ag-ask-questions-if-underspecified
+description: "Clarify requirements before implementing. Use when serious doubts arise."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

@@ -1,3 +1,10 @@
+---
+name: ls-yviilqiee_websweepgpt
+description: "Skill: ls-yviilqiee_websweepgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yvIiLQIee-websweepgpt
 
 GPT Title: WebSweepGPT

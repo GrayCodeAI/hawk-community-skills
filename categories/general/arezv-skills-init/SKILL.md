@@ -1,9 +1,8 @@
 ---
-name: "init"
-description: >-
-  Set up Playwright in a project. Use when user says "set up playwright",
-  "add e2e tests", "configure playwright", "testing setup", "init playwright",
-  or "add test infrastructure".
+name: arezv-skills-init
+description: "Skill: arezv-skills-init"
+license: MIT
+tags: [general]
 ---
 
 # Initialize Playwright Project

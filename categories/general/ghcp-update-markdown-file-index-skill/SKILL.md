@@ -1,6 +1,8 @@
 ---
-name: update-markdown-file-index
-description: 'Update a markdown file section with an index/table of files from a specified folder.'
+name: ghcp-update-markdown-file-index-skill
+description: "Update a markdown file section with an index/table of files from a specified folder."
+license: MIT
+tags: [general]
 ---
 
 # Update Markdown File Index

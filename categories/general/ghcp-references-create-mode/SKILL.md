@@ -1,3 +1,10 @@
+---
+name: ghcp-references-create-mode
+description: "Skill: ghcp-references-create-mode"
+license: MIT
+tags: [general]
+---
+
 # Create mode
 
 Use this workflow when the input is a component source path or the user asks to generate new documentation from code.

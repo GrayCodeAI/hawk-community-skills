@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building, deploying, and operating applications on AWS ECS, emphasizing immutable containers, secure secrets management, and robust operational patterns.
-globs: **/*
+name: mdc-aws-ecs
+description: "Definitive guidelines for building, deploying, and operating applications on AWS ECS, emphasizing immutable containers, secure secrets management, and robust operational patterns."
+license: MIT
+tags: [aws]
 ---
+
 # aws-ecs Best Practices
 
 This guide outlines the definitive best practices for developing and deploying applications on Amazon Elastic Container Service (ECS). Adhere to these principles to ensure your applications are secure, performant, and maintainable.

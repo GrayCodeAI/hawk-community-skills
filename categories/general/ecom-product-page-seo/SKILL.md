@@ -1,10 +1,12 @@
 ---
-name: product-page-seo
+name: ecom-product-page-seo
 description: "Optimize e-commerce product pages for search engine visibility. On-page SEO, structured data, page speed, mobile optimization, and content strategy for Google, Bing, and platform-specific search."
-metadata:
-  nexscope:
-    emoji: "🔎"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🔎
+category: ecommerce
 ---
 
 # Product Page SEO 🔎

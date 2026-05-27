@@ -1,9 +1,10 @@
 ---
 name: transcribe_minutes
-description: Fabric pattern - transcribe_minutes
-domain: general
+description: "Fabric pattern - transcribe_minutes"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

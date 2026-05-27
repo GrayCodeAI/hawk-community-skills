@@ -1,6 +1,8 @@
 ---
-name: image-fetcher
-description: Fetch and download images from the internet in various formats (JPG, PNG, GIF, WebP, BMP, SVG, etc.). Use when users ask to download images, fetch images from URLs, save images from the web, or get images for embedding in documents or chats. Supports single and batch downloads with automatic format detection.
+name: isc-image-fetcher
+description: "Fetch and download images from the internet in various formats (JPG, PNG, GIF, WebP, BMP, SVG, etc.). Use when users ask to download images, fetch images from URLs, save images from the web, or get..."
+license: MIT
+tags: [general]
 ---
 
 # Image Fetcher Skill

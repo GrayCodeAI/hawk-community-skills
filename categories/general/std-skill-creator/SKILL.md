@@ -1,94 +1,20 @@
 ---
-name: Skill Creator
-description: Standards for creating new High-Density Agent Skills with optimal token economy.
-metadata:
-  labels:
-    [meta, standard, instruction-design, prompt-engineering, token-efficient]
-  triggers:
-    files: ['SKILL.md', 'metadata.json']
-    keywords:
-      [create skill, new standard, writing rules, high density, token economy]
+name: std-skill-creator
+description: Standards for creating new High-Density Agent Skills with optimal token
+  economy.
+license: MIT
+tags:
+- general
+metadata: None
+labels: None
+triggers: None
+files:
+- SKILL.md
+- metadata.json
+keywords: None
 ---
 
-# Agent Skill Creator Standard
-
-## **Priority: P0 (CRITICAL)**
-
-Strict guidelines for authoring High-Density Agent Skills. Maximize information density while minimizing token consumption through progressive disclosure and strategic content organization.
-
-## Core Principles
-
-### **Token Economy First** ⚡
-
-Every word costs tokens. Design skills for maximum information/token ratio:
-
-- **Progressive Loading**: Load only essential content initially
-- **Lazy References**: Move detailed examples to `references/` folder
-- **Imperative Compression**: Use verbs, abbreviations, bullet points
-- **Context Window Awareness**: Design for 4k-32k token limits across agents
-
-### **Three-Level Loading System**
-
-```ts
-Level 1: Metadata (100 words) → Always loaded
-Level 2: SKILL.md Body (100 lines) → When triggered
-Level 3: References/Scripts/Assets → As needed
 ```
-
-## Directory Structure
-
-```text
-skills/
-└── {category}/                     # e.g., "flutter" (lowercase)
-    └── {skill-name}/               # e.g., "bloc-state-management" (kebab-case)
-        ├── SKILL.md                # Core Logic (High Density, <100 lines)
-        ├── scripts/                # Executable code (Deterministic tasks)
-        │   └── automation.py
-        ├── references/             # Heavy Examples (Lazy loaded)
-        │   ├── patterns.md
-        │   └── examples.md
-        └── assets/                 # Output templates (Never loaded)
-            └── template.json
-```
-
-## Writing Rules (Token-Optimized)
-
-1. **Imperative Compression**: Start with verbs. No "Please/You should".
-   - _Waste_: "You should use BLoC for state management." (8 words)
-   - _Efficient_: "Use BLoC for state management." (5 words)
-
-2. **Token Economy**: Maximize info/token ratio.
-   - Skip articles ("the", "a") if readable
-   - Use standard abbreviations (cfg, param, impl)
-   - Bullet points > paragraphs (3x density)
-
-3. **Progressive Disclosure**: Essential info first, details on-demand.
-   - Core workflow in SKILL.md
-   - Complex examples in references/
-   - Templates/assets never loaded
-
-4. **Context-Aware Design**: Different agents have different limits.
-   - Cursor: ~100k tokens
-   - Claude: ~200k tokens
-   - Windsurf: ~32k tokens
-
-## Content Sections (Token-Budgeted)
-
-Required sections in `SKILL.md`:
-
-1. **Frontmatter (Mandatory)**: Metadata for triggering (100 words max)
-
-   ```yaml
-   ---
-   name: Skill Name
-   description: What it does + when to use it (triggers activation)
-   metadata:
-     labels: [tag1, tag2]
-     triggers:
-       files: ['**/*.ext']
-       keywords: [term1, term2]
-   ---
-   ```
 
 2. **Priority**: P0 (Critical), P1 (Standard), or P2 (Optional)
 3. **Structure**: ASCII tree of expected file layout

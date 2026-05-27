@@ -1,3 +1,10 @@
+---
+name: ls-35w5gyarr_big_goal_nailer_gpt
+description: "Skill: ls-35w5gyarr_big_goal_nailer_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-35w5gYArR-big-goal-nailer-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-We5NFbIaEuYyLbFzSuLbjNLJ?se=2123-12-07T16%3A08%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddaronvener_the_clean_view_through_the_scope_of_a_sniper_rifle_a_111e3613-cf3e-4e03-9f11-2efdc4ec8e79.png&sig=6KSQc0UWAd4/Nqu0foi%2BAiG41NWBLbbaqzElKRTGDIQ%3D" width="100px" />

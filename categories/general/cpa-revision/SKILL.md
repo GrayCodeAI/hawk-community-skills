@@ -1,3 +1,10 @@
+---
+name: cpa-revision
+description: "Skill: cpa-revision"
+license: MIT
+tags: [general]
+---
+
 # az containerapp revision
 
 ```bash

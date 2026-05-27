@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building production-ready LlamaIndex applications, emphasizing modularity, type safety, cloud services, and robust testing.
-globs: **/*.py
+name: mdc-llama-index
+description: "Definitive guidelines for building production-ready LlamaIndex applications, emphasizing modularity, type safety, cloud services, and robust testing."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # LlamaIndex Best Practices
 
 LlamaIndex is the definitive framework for building context-augmented LLM applications. Follow these rules to ensure your RAG pipelines and agents are modular, type-safe, performant, and production-ready in 2025.

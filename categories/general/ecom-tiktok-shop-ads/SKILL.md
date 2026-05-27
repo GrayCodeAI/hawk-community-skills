@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-ads
+name: ecom-tiktok-shop-ads
 description: "TikTok Shop advertising — Product Shopping Ads, Video Shopping Ads, Live Shopping Ads, bidding strategy"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Ads

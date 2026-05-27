@@ -1,7 +1,11 @@
 ---
-description: Guidelines for deep learning model development with PyTorch in chemistry applications, including network architecture, batch processing, and optimization techniques.
-globs: models/pytorch/**/*.py
+name: mdc-chemistry-ml---pytorch-models
+description: 'Skill: mdc-chemistry-ml---pytorch-models'
+license: MIT
+tags:
+- ai-ml
 ---
+
 - Leverage PyTorch for deep learning models and when GPU acceleration is needed.
 - Design neural network architectures suitable for chemical data (e.g., graph neural networks for molecular property prediction).
 - Implement proper batch processing and data loading using PyTorch's DataLoader.

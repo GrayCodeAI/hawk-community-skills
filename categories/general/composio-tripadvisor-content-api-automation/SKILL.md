@@ -1,8 +1,10 @@
 ---
-name: tripadvisor-content-api-automation
+name: composio-tripadvisor-content-api-automation
 description: "Automate TripAdvisor tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # TripAdvisor Automation via Rube MCP

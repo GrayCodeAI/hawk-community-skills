@@ -1,3 +1,10 @@
+---
+name: rb-gui_architect_diagram
+description: "Skill: rb-gui_architect_diagram"
+license: MIT
+tags: [general]
+---
+
 ```mermaid
 graph TD
     User["User (VS Code Window)"]

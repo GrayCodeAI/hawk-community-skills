@@ -1,3 +1,10 @@
+---
+name: gpt-ofmfo61vi_dan_jailbreak
+description: "Skill: gpt-ofmfo61vi_dan_jailbreak"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ofmFo61vi-dan-jailbreak
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8w8IUh9EEvJc0bZr2rqim53W?se=2123-12-20T14%3A16%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D80062014-4890-4b94-b0d6-e105ce4130f7.png&sig=JZCrc0jCa9Wc8Q7%2BDk0LM9r8kt3wzhu7cl4OuIsm8Tg%3D" width="100px" />

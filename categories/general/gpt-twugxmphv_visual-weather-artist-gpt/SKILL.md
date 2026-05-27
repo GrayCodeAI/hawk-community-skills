@@ -1,3 +1,10 @@
+---
+name: gpt-twugxmphv_visual-weather-artist-gpt
+description: "Skill: gpt-twugxmphv_visual-weather-artist-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-twUGxmpHv-visual-weather-artist-gpt
 
 GPT Title: Visual Weather Artist GPT

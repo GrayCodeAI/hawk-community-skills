@@ -1,3 +1,10 @@
+---
+name: gpt-hocyiwx9p_instruction_breach_challenge_01_-_entran
+description: "Skill: gpt-hocyiwx9p_instruction_breach_challenge_01_-_entran"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hOcYiWx9p-instruction-breach-challenge-01-entrance
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XFMFhJ47gx9UtWjOU76LmfGo?se=2123-11-17T08%3A17%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbff15d73-efb0-4b34-922b-df34620e363c.png&sig=aq4F8IN1PuafP%2BVVYnEznuxQmtGmn/vstrIdt4Mwd5U%3D" width="100px" />

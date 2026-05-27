@@ -1,3 +1,11 @@
+---
+name: gpt-jhmlgjako_intellidoctor---differential-diagnosis
+description: 'Skill: gpt-jhmlgjako_intellidoctor---differential-diagnosis'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-jhMlgjAKO-intellidoctor-differential-diagnosis
 
 GPT Title: IntelliDoctor - Differential Diagnosis

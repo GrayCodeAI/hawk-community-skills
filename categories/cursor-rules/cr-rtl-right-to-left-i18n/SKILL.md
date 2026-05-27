@@ -1,9 +1,10 @@
 ---
 name: cr-rtl-right-to-left-i18n
-description: Cursor rules for rtl-right-to-left-i18n
-domain: engineering
+description: "Cursor rules for rtl-right-to-left-i18n"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

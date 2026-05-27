@@ -1,9 +1,11 @@
 ---
-name: busybox-on-windows
+name: ag-busybox-on-windows
 description: "How to use a Win32 build of BusyBox to run many of the standard UNIX command line tools on Windows."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 BusyBox is a single binary that implements many common Unix tools.

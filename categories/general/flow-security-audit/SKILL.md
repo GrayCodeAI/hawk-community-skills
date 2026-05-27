@@ -1,9 +1,10 @@
 ---
-name: security-audit
-description: >
-  Comprehensive security scanning and vulnerability detection. Includes input validation, path traversal prevention, CVE detection, and secure coding pattern enforcement.
-  Use when: authentication implementation, authorization logic, payment processing, user data handling, API endpoint creation, file upload handling, database queries, external API integration.
-  Skip when: read-only operations on public data, internal development tooling, static documentation, styling changes.
+name: flow-security-audit
+description: "Skill: flow-security-audit"
+license: MIT
+tags: [general]
+Use when: authentication implementation, authorization logic, payment processing, user data handling, API endpoint creation, file upload handling, database queries, external API integration.
+Skip when: read-only operations on public data, internal development tooling, static documentation, styling changes.
 ---
 
 # Security Audit Skill

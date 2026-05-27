@@ -1,20 +1,14 @@
 ---
-name: seo-content
-description: >
-  Content quality and E-E-A-T analysis with AI citation readiness assessment.
-  Use when user says "content quality", "E-E-A-T", "content analysis",
-  "readability check", "thin content", or "content audit".
+name: ag-seo-content
+description: "Skill: ag-seo-content"
+license: MIT
+tags: [general]
 risk: unknown
-source: "https://github.com/AgriciDaniel/claude-seo"
-date_added: "2026-03-21"
-user-invokable: true
-argument-hint: "[url]"
-allowed-tools:
-  - Read
-  - Grep
-  - Glob
-  - Bash
-  - WebFetch
+source: https://github.com/AgriciDaniel/claude-seo
+date_added: 2026-03-21
+user-invokable: True
+argument-hint: [url]
+allowed-tools: None
 ---
 
 # Content Quality & E-E-A-T Analysis

@@ -1,3 +1,10 @@
+---
+name: gpt-xc0y77yrg_synonym_suggester
+description: "Skill: gpt-xc0y77yrg_synonym_suggester"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xC0y77yRg-synonym-suggester
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Fb50vsnWr6lCl7b8Fs3NQyOA?se=2124-01-07T02%3A20%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-31%252010.10.56%2520-%2520Design%2520a%2520logo%2520for%2520%2527Synonym%2520Suggester%2527%252C%2520a%2520GPT-based%2520tool.%2520The%2520logo%2520should%2520be%2520in%2520a%2520pop%2520art%2520style%252C%2520featuring%2520bold%2520colors%2520and%2520crisp%2520lines.%2520At%2520the%2520center%252C%2520.png&sig=dNL7CPg1ypBLWZpwPa2%2B6GXqjPy5%2Bak4Y4pkpZes4mw%3D" width="100px" />

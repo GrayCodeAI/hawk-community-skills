@@ -1,3 +1,10 @@
+---
+name: gpt-xdrmgrxjr_reverse-engineering-success
+description: "Skill: gpt-xdrmgrxjr_reverse-engineering-success"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XdRMgrXjR-reverse-engineering-success
 
 GPT Title: Reverse Engineering Success

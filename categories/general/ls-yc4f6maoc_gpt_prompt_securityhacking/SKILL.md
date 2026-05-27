@@ -1,3 +1,10 @@
+---
+name: ls-yc4f6maoc_gpt_prompt_securityhacking
+description: "Skill: ls-yc4f6maoc_gpt_prompt_securityhacking"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yc4f6mAoc-gpt-prompt-security-hacking
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WPOboCeKzI9MbA8mcpNJ77z4?se=2124-01-09T11%3A28%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-02%252019.18.01%2520-%2520Design%2520a%2520logo%2520with%2520the%2520theme%2520of%2520Hacking%2520%252C%2520focusing%2520on%2520a%2520red%2520and%2520black%2520color%2520scheme%2520to%2520give%2520it%2520a%2520more%2520intense%2520and%2520dramatic%2520feel.%2520The%2520logo%2520should%2520still.webp&sig=gmPcnjawkbuGxo7XQfYyimQ5tuYkteeS%2BWIBP6Tc%2BOE%3D" width="100px" />

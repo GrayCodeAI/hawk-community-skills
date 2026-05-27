@@ -1,7 +1,9 @@
 ---
-source: "https://github.com/huggingface/skills/tree/main/skills/hf-cli"
-name: hugging-face-cli
-description: "Use the Hugging Face Hub CLI (`hf`) to download, upload, and manage models, datasets, and Spaces."
+name: ag-hugging-face-cli
+description: "Use the Hugging Face Hub CLI (`hf`) to download, upload, and manage models,"
+license: MIT
+tags: [general]
+source: https://github.com/huggingface/skills/tree/main/skills/hf-cli
 risk: unknown
 ---
 

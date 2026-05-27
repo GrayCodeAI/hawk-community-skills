@@ -1,9 +1,10 @@
 ---
 name: suggest_openclaw_pattern
-description: Fabric pattern - suggest_openclaw_pattern
-domain: general
+description: "Fabric pattern - suggest_openclaw_pattern"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

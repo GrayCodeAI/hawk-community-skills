@@ -1,3 +1,10 @@
+---
+name: gpt-w0lczvazh_3d-print-master
+description: "Skill: gpt-w0lczvazh_3d-print-master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-W0lCzVAZH-3d-print-master
 
 GPT Title: 3D Print Master

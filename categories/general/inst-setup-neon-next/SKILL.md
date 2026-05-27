@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-next
+description: "Skill: inst-setup-neon-next"
+license: MIT
+tags: [general]
+---
+
 # Neon + Next.js Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with a Next.js 14 application.
@@ -468,4 +475,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Next.js Documentation](https://nextjs.org/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

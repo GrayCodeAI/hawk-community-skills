@@ -1,9 +1,11 @@
 ---
-name: error-handling-patterns
+name: ag-error-handling-patterns
 description: "Build resilient applications with robust error handling strategies that gracefully handle failures and provide excellent debugging experiences."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Error Handling Patterns

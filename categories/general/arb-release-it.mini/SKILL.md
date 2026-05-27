@@ -1,3 +1,10 @@
+---
+name: arb-release-it.mini
+description: "Skill: arb-release-it.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Release It! by Michael T. Nygard
 
 ## When to use

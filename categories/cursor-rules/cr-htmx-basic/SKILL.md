@@ -1,9 +1,10 @@
 ---
 name: cr-htmx-basic
-description: Cursor rules for htmx-basic
-domain: engineering
+description: "Cursor rules for htmx-basic"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -42,4 +43,3 @@ const additionalInstructions = `
 6. Follow progressive enhancement principles
 7. Use server-side templating (e.g., Jinja2, Handlebars)
 `;
-

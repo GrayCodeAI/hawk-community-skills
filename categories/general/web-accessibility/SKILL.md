@@ -1,11 +1,11 @@
 ---
 name: web-accessibility
-description: Implement web accessibility (a11y) standards following WCAG 2.1 guidelines. Use when building accessible UIs, fixing accessibility issues, or ensuring compliance with disability standards. Handles ARIA attributes, keyboard navigation, screen readers, semantic HTML, and accessibility testing.
-metadata:
-  tags: accessibility, a11y, WCAG, ARIA, semantic-HTML, screen-reader
-  platforms: Claude, ChatGPT, Gemini
+description: "Implement web accessibility (a11y) standards following WCAG 2.1 guidelines. Use when building accessible UIs, fixing accessibility issues, or ensuring compliance with disability standards. Handles ..."
+license: MIT
+tags: [accessibility, a11y, wcag, aria, semantic-html, screen-reader]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Web Accessibility (A11y)
 

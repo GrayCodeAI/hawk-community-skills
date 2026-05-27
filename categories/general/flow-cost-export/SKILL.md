@@ -1,8 +1,8 @@
 ---
-name: cost-export
-description: Export cost-tracking telemetry in Prometheus textfile or webhook JSON formats — for external observability (Grafana, Datadog, custom dashboards)
-argument-hint: "[--prometheus <path>] [--webhook <url>]"
-allowed-tools: Bash
+name: flow-cost-export
+description: "Skill: flow-cost-export"
+license: MIT
+tags: [general]
 ---
 
 # Cost Export

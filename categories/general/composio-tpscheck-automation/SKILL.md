@@ -1,8 +1,10 @@
 ---
-name: tpscheck-automation
+name: composio-tpscheck-automation
 description: "Automate Tpscheck tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Tpscheck Automation via Rube MCP

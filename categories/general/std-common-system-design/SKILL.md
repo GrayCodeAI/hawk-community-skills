@@ -1,17 +1,13 @@
 ---
-name: common-system-design
-description: Enforce separation of concerns, dependency inversion, and resilience patterns across layered and distributed architectures. Use when designing new features, evaluating module boundaries, selecting architectural patterns, or resolving scalability bottlenecks.
-metadata:
-  triggers:
-    keywords:
-    - architecture
-    - design
-    - system
-    - scalability
-    - microservice
-    - module boundary
-    - coupling
+name: std-common-system-design
+description: "Enforce separation of concerns, dependency inversion, and resilience patterns across layered and distributed architectures. Use when designing new features, evaluating module boundaries, selecting ..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # System Design & Architecture Standards
 
 ## **Priority: P0 (FOUNDATIONAL)**

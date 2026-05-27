@@ -1,3 +1,10 @@
+---
+name: rb-implementation_plan_improve_ux
+description: "Skill: rb-implementation_plan_improve_ux"
+license: MIT
+tags: [general]
+---
+
 # Implementation Update Plan: Improved User Experience
 
 This plan outlines the phases required to migrate from the initial composable pack design to the refined model described in `improve_user_experience_plan.md`.

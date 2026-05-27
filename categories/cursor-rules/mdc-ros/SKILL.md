@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-quality, performant, and maintainable ROS 2 code, leveraging modern C++ and Python best practices, `ament` tooling, and efficient architectural patterns like node composition and multithreaded executors.
-globs: **/*
+name: mdc-ros
+description: "Definitive guidelines for writing high-quality, performant, and maintainable ROS 2 code, leveraging modern C++ and Python best practices, `ament` tooling, and efficient architectural patterns like ..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # ros Best Practices
 
 This guide outlines the essential practices for developing robust, performant, and maintainable ROS 2 applications. Adherence to these rules ensures consistency, leverages ROS 2's advanced features, and aligns with the project's quality standards.

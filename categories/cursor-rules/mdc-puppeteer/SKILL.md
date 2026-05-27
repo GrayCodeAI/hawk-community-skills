@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing robust, performant, and maintainable Puppeteer scripts for web scraping, automation, and testing. It emphasizes modern patterns like `page.locator()` and efficient resource management.
-globs: **/*.{js,jsx}
+name: mdc-puppeteer
+description: "This guide provides opinionated, actionable best practices for writing robust, performant, and maintainable Puppeteer scripts for web scraping, automation, and testing. It emphasizes modern pattern..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # puppeteer Best Practices
 
 Puppeteer is the definitive library for headless browser automation in Node.js. Adhere to these guidelines to build reliable, fast, and maintainable scripts.

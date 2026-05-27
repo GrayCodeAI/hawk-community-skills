@@ -1,9 +1,10 @@
 ---
 name: cr-solidjs-basic
-description: Cursor rules for solidjs-basic
-domain: engineering
+description: "Cursor rules for solidjs-basic"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -48,4 +49,3 @@ const additionalInstructions = `
 6. Follow Solid.js naming conventions and best practices
 7. Use server-side rendering (SSR) when needed
 `;
-

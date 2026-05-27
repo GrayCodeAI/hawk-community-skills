@@ -1,3 +1,10 @@
+---
+name: gpt-5ice7nquo_plant_pal_-_vegan_ai_companion
+description: "Skill: gpt-5ice7nquo_plant_pal_-_vegan_ai_companion"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5icE7nqUO-plant-pal-vegan-ai-companion
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-hHcgjBtJNag0CtFrJyXQkj1M?se=2123-12-24T23%3A27%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dplant%2520pal%2520icon.png&sig=/8wc9nP3V%2Bo%2BYujwiquMDa7Vpy9a/RoT8L6mGFB/om4%3D" width="100px" />

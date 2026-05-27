@@ -1,3 +1,10 @@
+---
+name: cpa-command-change
+description: "Skill: cpa-command-change"
+license: MIT
+tags: [general]
+---
+
 # az command-change
 
 ```bash

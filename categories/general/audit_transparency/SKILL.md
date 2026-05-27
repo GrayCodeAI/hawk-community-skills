@@ -1,9 +1,10 @@
 ---
 name: audit_transparency
-description: Fabric pattern - audit_transparency
-domain: general
+description: "Fabric pattern - audit_transparency"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

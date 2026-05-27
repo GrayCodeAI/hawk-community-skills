@@ -1,16 +1,11 @@
 ---
 name: cursor-rust
-description: Cursor IDE rules for rust
-domain: engineering
+description: "Cursor IDE rules for rust"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Rust patterns: ownership, Result types, iterators"
-globs: ["*.rs"]
-alwaysApply: true
 ---
 
 # Rust Cursor Rules

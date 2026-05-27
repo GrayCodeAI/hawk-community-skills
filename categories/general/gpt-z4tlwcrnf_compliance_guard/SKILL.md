@@ -1,3 +1,10 @@
+---
+name: gpt-z4tlwcrnf_compliance_guard
+description: "Skill: gpt-z4tlwcrnf_compliance_guard"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Z4tlWcrnf-compliance-guard
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DsH5zjNydsNbARGOg6f6jIG7?se=2123-12-17T09%3A45%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0_3.png&sig=RzpAjisSHr1Yq4QUQXPm3jkrd1o5j/OdaWx6A0B%2BkeE%3D" width="100px" />

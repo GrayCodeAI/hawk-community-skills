@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, performant, and secure Django applications, emphasizing modern best practices, clear code organization, and efficient patterns.
-globs: **/*.py
+name: mdc-django
+description: "Definitive guidelines for writing maintainable, performant, and secure Django applications, emphasizing modern best practices, clear code organization, and efficient patterns."
+license: MIT
+tags: [python]
 ---
+
 # django Best Practices
 
 This guide outlines the definitive best practices for developing Django applications, ensuring maintainability, performance, and security. Adhere to these rules for consistent, high-quality code.

@@ -1,7 +1,10 @@
 ---
-description: Recommends using aliased imports as defined in svelte.config.js. This improves code organization and readability, especially when dealing with complex project structures.
-globs: **/*.{svelte,js,ts}
+name: mdc-imports-aliasing
+description: "Recommends using aliased imports as defined in svelte.config.js. This improves code organization and readability, especially when dealing with complex project structures."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Imports
   - Use aliased imports where applicable (as defined in svelte.config.js):
     typescript

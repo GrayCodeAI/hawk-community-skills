@@ -1,7 +1,10 @@
 ---
-description: Defines the preferred file structure and component usage for FastAPI applications.
-globs: **/main.py
+name: mdc-fastapi-application-structure
+description: "Defines the preferred file structure and component usage for FastAPI applications."
+license: MIT
+tags: [python]
 ---
+
 - File structure: exported router, sub-routes, utilities, static content, types (models, schemas).
 - Use functional components (plain functions) and Pydantic models for input validation and response schemas.
 - Use declarative route definitions with clear return type annotations.

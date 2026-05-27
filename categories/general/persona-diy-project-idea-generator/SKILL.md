@@ -1,9 +1,10 @@
 ---
 name: persona-diy-project-idea-generator
-description: AI persona - diy-project-idea-generator
-domain: general
+description: "AI persona - diy-project-idea-generator"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

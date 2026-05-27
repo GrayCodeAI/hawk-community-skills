@@ -1,16 +1,11 @@
 ---
 name: cursor-tanstack-query
-description: Cursor IDE rules for tanstack-query
-domain: engineering
+description: "Cursor IDE rules for tanstack-query"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "TanStack Query / React Query: query keys, mutations, caching, optimistic updates"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # TanStack Query Cursor Rules

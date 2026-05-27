@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-typescript-tailwind
-description: Cursor rules for nextjs-typescript-tailwind
-domain: engineering
+description: "Cursor rules for nextjs-typescript-tailwind"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -61,4 +62,3 @@ This project, named Astral, the Block Explorer of Autonomys network, is built us
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
 - [Autonomys Overview](https://autonomys.xyz/)
-

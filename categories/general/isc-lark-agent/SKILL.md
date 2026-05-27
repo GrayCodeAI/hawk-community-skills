@@ -1,35 +1,10 @@
 ---
-name: lark-agent
-description: |
-  Create hierarchical Lark tasks from markdown test plans.
-
-  ACTIVATE THIS SKILL when user:
-  - Says "create lark tasks" or "process test file" or "convert test plan"
-  - Mentions "lark" + "test" or "test scenarios" or "test cases"
-  - Wants to convert markdown test documentation into Lark tasks
-  - Has a test file and wants it in Lark
-
-  WORKFLOW:
-  1. Ask user for test file path (required)
-  2. Ask for owner, priority, target date (optional)
-  3. Execute: python .claude/skills/lark-agent/run.py [file] --owner="[name]" --priority=[1-3] --target-date="YYYY-MM-DD"
-  4. Parse JSON output
-  5. Execute Lark MCP workflow to create tasks
-  6. Report results
-
-  DO NOT create test plans yourself - only process existing markdown files unless explicitly asked.
-
-## 🎨 **VISUAL OUTPUT FORMATTING**
-
-**CRITICAL: All lark-agent output MUST use the colored-output formatter skill!**
-
-```bash
-bash .claude/skills/colored-output/color.sh skill-header "lark-agent" "Creating Lark tasks..."
-bash .claude/skills/colored-output/color.sh progress "" "Processing test file"
-bash .claude/skills/colored-output/color.sh success "" "Tasks created successfully"
-```
-
+name: isc-lark-agent
+description: "Skill: isc-lark-agent"
+license: MIT
+tags: [general]
 ---
+
 version: 1.0.0
 author: Claude Code
 tags: [lark, testing, automation, markdown, json, task-management]

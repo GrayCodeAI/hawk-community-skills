@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for using httpx, Python's modern HTTP client, ensuring robust, performant, and maintainable network interactions in both synchronous and asynchronous applications.
-globs: **/*.py
+name: mdc-httpx
+description: "This guide outlines definitive best practices for using httpx, Python's modern HTTP client, ensuring robust, performant, and maintainable network interactions in both synchronous and asynchronous a..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # httpx Best Practices
 
 `httpx` is the de-facto modern HTTP client for Python, offering both synchronous and asynchronous APIs, native HTTP/2 support, and advanced features essential for high-throughput services. Adhere to these guidelines for optimal performance, reliability, and code clarity.

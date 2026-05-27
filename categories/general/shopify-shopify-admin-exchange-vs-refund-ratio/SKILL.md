@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-exchange-vs-refund-ratio
-role: returns
+name: shopify-shopify-admin-exchange-vs-refund-ratio
 description: "Read-only: tracks what percentage of returns become exchanges vs. refunds vs. store credit — measures revenue recovery rate."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - returns:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'returns': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

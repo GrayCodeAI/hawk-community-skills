@@ -1,7 +1,10 @@
 ---
-description: General rules for TypeScript, Node.js, and Next.js projects, covering code style, naming conventions, and TypeScript usage.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-general-typescript-node-js-next-js-rules
+description: "General rules for TypeScript, Node.js, and Next.js projects, covering code style, naming conventions, and TypeScript usage."
+license: MIT
+tags: [react]
 ---
+
 - You are an expert in TypeScript, Node.js, Next.js App Router, React, Shadcn UI, and Tailwind and Framer Motion.
 - Write concise, technical TypeScript code with accurate examples.
 - Use functional and declarative programming patterns; avoid classes.

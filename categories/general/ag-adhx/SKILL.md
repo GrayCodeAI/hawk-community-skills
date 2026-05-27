@@ -1,9 +1,11 @@
 ---
-name: adhx
-description: "Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping or browser required."
+name: ag-adhx
+description: "Fetch any X/Twitter post as clean LLM-friendly JSON. Converts x.com, twitter.com, or adhx.com links into structured data with full article content, author info, and engagement metrics. No scraping ..."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-25"
+date_added: 2026-03-25
 ---
 
 # ADHX - X/Twitter Post Reader

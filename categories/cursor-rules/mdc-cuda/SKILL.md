@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, maintainable, and error-resistant CUDA C++ code, focusing on modern practices, memory management, kernel optimization, and robust error handling.
-globs: **/*
+name: mdc-cuda
+description: "Definitive guidelines for writing high-performance, maintainable, and error-resistant CUDA C++ code, focusing on modern practices, memory management, kernel optimization, and robust error handling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # CUDA Best Practices
 
 This guide outlines the essential practices for developing efficient and maintainable CUDA C++ applications. Adhere to these rules to maximize GPU throughput, reduce debugging time, and ensure code quality across projects.

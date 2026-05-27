@@ -1,3 +1,10 @@
+---
+name: gpt-pz7ijbcr4_magic_coach_gpt
+description: "Skill: gpt-pz7ijbcr4_magic_coach_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PZ7ijbcr4-magic-coach-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WO4orqMoBq8b1uVleJMQTdSG?se=2123-10-20T08%3A16%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5272b2bf-0712-4c6c-ada7-eb8db1d2c499.webp&sig=IiVYMPHjlZwWzvHw5UbyXqYAJBa/a9Bnbq5y%2Bckkq6M%3D" width="100px" />

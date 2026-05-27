@@ -1,10 +1,11 @@
 ---
-name: scientific-critical-thinking
-description: Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying biases and confounders, applying evidence grading frameworks (GRADE, Cochrane Risk of Bias), or teaching critical analysis. Best for understanding evidence quality, identifying flaws. For formal peer review writing use peer-review.
-allowed-tools: Read Write Edit Bash
+name: sci-scientific-critical-thinking
+description: "Evaluate scientific claims and evidence quality. Use for assessing experimental design validity, identifying biases and confounders, applying evidence grading frameworks (GRADE, Cochrane Risk of Bi..."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+allowed-tools: Read Write Edit Bash
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # Scientific Critical Thinking
@@ -567,4 +568,3 @@ This skill includes comprehensive reference materials that provide detailed fram
 3. Recognize limitations and uncertainties
 4. Suggest improvements for future work
 5. Advance scientific understanding
-

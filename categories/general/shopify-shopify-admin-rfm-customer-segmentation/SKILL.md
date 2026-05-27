@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-rfm-customer-segmentation
-role: customer-ops
+name: shopify-shopify-admin-rfm-customer-segmentation
 description: "Read-only: scores every customer on Recency, Frequency, and Monetary value to segment them into actionable groups (Champions, Loyal, At-Risk, Lost)."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

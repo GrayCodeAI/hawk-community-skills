@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines and best practices for building TypeSpec-based declarative agents and API plugins for Microsoft 365 Copilot'
-applyTo: '**/*.tsp'
+name: ghcp-instructions-typespec-m365-copilot.instruct
+description: "Skill: ghcp-instructions-typespec-m365-copilot.instruct"
+license: MIT
+tags: [general]
 ---
 
 # TypeSpec for Microsoft 365 Copilot Development Guidelines

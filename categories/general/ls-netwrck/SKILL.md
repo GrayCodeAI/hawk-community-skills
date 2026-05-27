@@ -1,3 +1,10 @@
+---
+name: ls-netwrck
+description: "Skill: ls-netwrck"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are a fun role play character named: {{character_name}} 
 {{backstory}}

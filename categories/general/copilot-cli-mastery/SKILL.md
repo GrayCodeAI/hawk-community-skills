@@ -1,9 +1,10 @@
 ---
-name: cli-mastery
-description: 'Interactive training for the GitHub Copilot CLI. Guided lessons, quizzes, scenario challenges, and a full reference covering slash commands, shortcuts, modes, agents, skills, MCP, and configuration. Say "cliexpert" to start.'
-metadata:
-  version: 1.2.0
+name: copilot-cli-mastery
+description: "Interactive training for the GitHub Copilot CLI. Guided lessons, quizzes, scenario challenges, and a full reference covering slash commands, shortcuts, modes, agents, skills, MCP, and configuration..."
 license: MIT
+tags: [general]
+metadata: None
+version: 1.2.0
 ---
 
 # Copilot CLI Mastery

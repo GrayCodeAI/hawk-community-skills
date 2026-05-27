@@ -1,8 +1,10 @@
 ---
-name: aivoov-automation
+name: composio-aivoov-automation
 description: "Automate Aivoov tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Aivoov Automation via Rube MCP

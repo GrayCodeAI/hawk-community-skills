@@ -1,3 +1,10 @@
+---
+name: agc-changelog-template
+description: "Skill: agc-changelog-template"
+license: MIT
+tags: [general]
+---
+
 # Changelog Template
 
 Generate this as the project's `CHANGELOG.md`. Adapt the comment text if the project has specific conventions.

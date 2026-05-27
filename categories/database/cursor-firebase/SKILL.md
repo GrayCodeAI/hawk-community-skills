@@ -1,17 +1,13 @@
 ---
 name: cursor-firebase
-description: Cursor IDE rules for firebase
-domain: engineering
+description: "Cursor IDE rules for firebase"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: Firebase SDK patterns, Firestore queries, auth, and security rules
-globs: **/firebase/**,**/firestore/**
-alwaysApply: false
----
 # Firebase Rules
 
 ## SDK Usage

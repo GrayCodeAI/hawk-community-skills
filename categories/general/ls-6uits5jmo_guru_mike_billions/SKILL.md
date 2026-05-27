@@ -1,3 +1,10 @@
+---
+name: ls-6uits5jmo_guru_mike_billions
+description: "Skill: ls-6uits5jmo_guru_mike_billions"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6UITS5JMO-guru-mike-billions
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-V3wrNvCtm1LG3T6kXT9EYOBZ?se=2123-11-20T23%3A18%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1670862469215.jpg&sig=UC6YaUZ2wa%2Bh%2BhqnourfTilVufRGYCzhmUy7MXW4e5M%3D" width="100px" />

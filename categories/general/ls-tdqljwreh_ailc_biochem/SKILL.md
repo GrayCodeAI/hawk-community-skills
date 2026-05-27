@@ -1,3 +1,10 @@
+---
+name: ls-tdqljwreh_ailc_biochem
+description: "Skill: ls-tdqljwreh_ailc_biochem"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tDqljWrEh-ailc-biochem
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kJGSM5E5ABWF0D7aJDmnaWKE?se=2123-12-20T04%3A26%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DAILCBioChem.jpg&sig=zasGk2js/GPEl7Iuglfc9DhbpBUvF0/nrgFM/1sHSOo%3D" width="100px" />

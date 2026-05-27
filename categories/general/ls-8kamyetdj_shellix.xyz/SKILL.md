@@ -1,3 +1,10 @@
+---
+name: ls-8kamyetdj_shellix.xyz
+description: "Skill: ls-8kamyetdj_shellix.xyz"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8kAmyEtDJ-shellix-xyz
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-4EijUCugl8riQE8qf8o0lHjr?se=2124-02-04T01%3A16%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dfavicon.gif&sig=8TJoaQkgOJ/K0kSeFqoEXmHrIpYil4Ludu%2BDAxGACyA%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: General Python project rules for all Python files in the project. Enforces specific Python versions and class usage.
-globs: /**/*.*.py
+name: mdc-general-python-project-rules
+description: "General Python project rules for all Python files in the project. Enforces specific Python versions and class usage."
+license: MIT
+tags: [python]
 ---
+
 - Always use UV when installing dependencies.
 - Always use Python 3.12.
 - Always use classes instead of functions.

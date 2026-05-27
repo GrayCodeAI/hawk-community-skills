@@ -1,3 +1,10 @@
+---
+name: gpt-evz7m0p1l_gpt_anti-clone
+description: "Skill: gpt-evz7m0p1l_gpt_anti-clone"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EVZ7M0P1L-gpt-anti-clone
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Bb2oxd0nvk31xwPjdbbPH9CO?se=2123-10-25T11%3A23%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7e318904-40b5-4a41-8679-d7ffb5a1f2f3.png&sig=EFDOCl4IzTCnNQXwJZkpdZNykeidFgSOr/LeGGb9P%2Bs%3D" width="100px" />

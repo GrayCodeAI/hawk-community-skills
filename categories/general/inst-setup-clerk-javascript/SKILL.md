@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing JavaScript apps with Clerk Auth
-globs: **/*.js, **/*.html
+name: inst-setup-clerk-javascript
+description: "Guidelines for writing JavaScript apps with Clerk Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap JavaScript app with Clerk Auth
@@ -168,4 +170,4 @@ When implementing Clerk Auth for vanilla JavaScript, you MUST:
 2. Implement proper error handling
 3. Follow modern JavaScript patterns
 4. Configure secure authentication flows
-5. Handle environment variables properly 
+5. Handle environment variables properly

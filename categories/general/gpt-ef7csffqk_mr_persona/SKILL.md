@@ -1,3 +1,10 @@
+---
+name: gpt-ef7csffqk_mr_persona
+description: "Skill: gpt-ef7csffqk_mr_persona"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eF7cSFFQK-mr-persona
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wUARlCd8cRzDAdp4FAatxCyc?se=2123-10-24T19%3A16%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-17%252013.16.14%2520-%2520Revised%2520caricature%2520of%2520a%2520conceptual%2520entity%2520named%2520Mr.%2520Persona%252C%2520representing%2520a%2520custom%2520GPT%2520for%2520developing%2520AI%2520personas.%2520Features%2520include%2520wide%252C%2520curious%2520eyes.png&sig=BI6prgf3qiBa9A13bgywg6R4oyQtI1KEsuZbxQlbvE4%3D" width="100px" />

@@ -1,18 +1,14 @@
 ---
 name: detecting-evasion-techniques-in-endpoint-logs
-description: >
-  Detects defense evasion techniques used by adversaries in endpoint logs including log tampering,
-  timestomping, process injection, and security tool disabling. Use when investigating suspicious
-  endpoint behavior, building detection rules for evasion tactics, or conducting threat hunting
-  for stealthy adversary activity. Activates for requests involving evasion detection, defense
-  evasion analysis, log tampering detection, or MITRE ATT&CK TA0005.
+description: "Detects defense evasion techniques used by adversaries in endpoint logs including log tampering, timestomping, process injection, and security tool disabling. Use when investigating suspicious endp..."
+license: MIT
+tags: [endpoint, edr, threat-hunting, defense-evasion, mitre-att-ck, detection-engineering]
 domain: cybersecurity
 subdomain: endpoint-security
-tags: [endpoint, edr, threat-hunting, defense-evasion, MITRE-ATT&CK, detection-engineering]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Detecting Evasion Techniques in Endpoint Logs
 
 ## When to Use

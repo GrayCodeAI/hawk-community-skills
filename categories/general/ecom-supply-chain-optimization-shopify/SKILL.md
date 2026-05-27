@@ -1,8 +1,10 @@
 ---
-name: supply-chain-optimization-shopify
+name: ecom-supply-chain-optimization-shopify
+description: "Supply Chain Bottleneck Analyzer for Shopify/DTC stores. Diagnose cash flow, inventory, shipping costs, and customer acquisition efficiency. Includes CAC/LTV analysis, 3PL cost optimization, and ad..."
+license: MIT
+tags: [general]
 version: 1.0.0
-description: "Supply Chain Bottleneck Analyzer for Shopify/DTC stores. Diagnose cash flow, inventory, shipping costs, and customer acquisition efficiency. Includes CAC/LTV analysis, 3PL cost optimization, and ad spend benchmarks. No API key required for basic analysis."
-metadata: {"nexscope":{"emoji":"📦","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '📦', 'category': 'ecommerce'}}
 ---
 
 # Supply Chain Optimization — Shopify/DTC 📦
@@ -212,5 +214,3 @@ DTC Golden Ratios:
 ---
 
 **Part of [Nexscope AI](https://www.nexscope.ai/?co-from=skill) — AI tools for e-commerce sellers.**
-
-

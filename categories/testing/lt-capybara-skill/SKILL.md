@@ -1,17 +1,8 @@
 ---
-name: capybara-skill
-description: >
-  Generates Capybara E2E tests in Ruby with RSpec integration. Acceptance
-  testing DSL for web apps. Use when user mentions "Capybara", "visit",
-  "fill_in", "click_button", "Ruby E2E". Triggers on: "Capybara",
-  "Ruby acceptance test", "fill_in", "click_button", "have_content".
-languages:
-  - Ruby
-category: e2e-testing
+name: lt-capybara-skill
+description: "Skill: lt-capybara-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Capybara Automation Skill

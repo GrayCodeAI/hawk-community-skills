@@ -1,10 +1,12 @@
 ---
-name: react-nextjs-development
+name: ag-react-nextjs-development
 description: "React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns."
+license: MIT
+tags: [general]
 category: granular-workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # React/Next.js Development Workflow

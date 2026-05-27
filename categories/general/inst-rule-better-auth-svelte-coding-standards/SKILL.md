@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Authentication in Svelte Applications
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-rule-better-auth-svelte-coding-standards
+description: "Coding Standards & Rules for Authentication in Svelte Applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte developer with expertise in authentication implementation.
@@ -59,4 +61,4 @@ You are a senior Svelte developer with expertise in authentication implementatio
 - Dont: Use basic authentication for production
 - Dont: Expose sensitive authentication details in client code
 - Dont: Neglect proper error handling
-- Dont: Skip implementing proper security measures 
+- Dont: Skip implementing proper security measures

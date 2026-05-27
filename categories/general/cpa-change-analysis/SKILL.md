@@ -1,3 +1,10 @@
+---
+name: cpa-change-analysis
+description: "Skill: cpa-change-analysis"
+license: MIT
+tags: [general]
+---
+
 # az change-analysis
 
 ```bash

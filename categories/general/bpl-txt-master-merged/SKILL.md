@@ -1,9 +1,10 @@
 ---
-name: bpl-master-merged
-description: System prompt - master-merged
-domain: general
+name: bpl-txt-master-merged
+description: "System prompt - master-merged"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -938,4 +939,4 @@ The mouse fired a repeating burst of numbers at the planet which represented fil
 
 It took half an hour, but the aliens figured out each others language to the point where the mouse was actually able to hail the planet using standard TBF shipcode.
 
-On a lone terminal on the planet, an alien phonecall was ringing ... 
+On a lone terminal on the planet, an alien phonecall was ringing ...

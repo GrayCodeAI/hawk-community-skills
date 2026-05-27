@@ -1,8 +1,10 @@
 ---
-name: encodian-automation
+name: composio-encodian-automation
 description: "Automate Encodian tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Encodian Automation via Rube MCP

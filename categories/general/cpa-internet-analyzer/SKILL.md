@@ -1,3 +1,10 @@
+---
+name: cpa-internet-analyzer
+description: "Skill: cpa-internet-analyzer"
+license: MIT
+tags: [general]
+---
+
 # az internet-analyzer
 
 ```bash

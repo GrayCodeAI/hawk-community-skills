@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for writing high-performance, maintainable, and correct NumPy code, emphasizing vectorization, explicit dtypes, and modern GPU acceleration.
-globs: **/*.py
+name: mdc-numpy
+description: "This guide provides definitive, actionable best practices for writing high-performance, maintainable, and correct NumPy code, emphasizing vectorization, explicit dtypes, and modern GPU acceleration."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # numpy Best Practices
 
 NumPy is the bedrock of numerical computing in Python. To fully leverage its power for AI/ML and data science in 2025, we must write code that is not just functional but also fast, readable, and robust. This guide outlines our team's definitive best practices for NumPy.

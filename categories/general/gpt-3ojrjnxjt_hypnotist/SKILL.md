@@ -1,3 +1,10 @@
+---
+name: gpt-3ojrjnxjt_hypnotist
+description: "Skill: gpt-3ojrjnxjt_hypnotist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3oJRJNXjT
 
 GPT Title: Hypnotist

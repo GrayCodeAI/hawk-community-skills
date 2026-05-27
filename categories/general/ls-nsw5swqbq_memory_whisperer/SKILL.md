@@ -1,3 +1,10 @@
+---
+name: ls-nsw5swqbq_memory_whisperer
+description: "Skill: ls-nsw5swqbq_memory_whisperer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nsW5SWQbQ-memory-whisperer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8aCd6QkWeVbSO874TilzS4tc?se=2123-12-21T08%3A09%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D5a123f42-681d-4157-a738-5c169dd94583.png&sig=OD9P0eGEqzA%2BOWDLgzBUEgRHlegD2RIBGpVTFqeq1Ok%3D" width="100px" />

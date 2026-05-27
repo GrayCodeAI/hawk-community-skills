@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for using Apollo Client 3.x in our React applications, focusing on cache hygiene, type safety, performance, and maintainability.
-globs: **/*.{js,jsx}
+name: mdc-apollo-client
+description: "This guide defines the definitive best practices for using Apollo Client 3.x in our React applications, focusing on cache hygiene, type safety, performance, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # apollo-client Best Practices
 
 Apollo Client is our standard for GraphQL state management. Adhering to these guidelines ensures predictable data flow, optimal performance, and a scalable codebase.

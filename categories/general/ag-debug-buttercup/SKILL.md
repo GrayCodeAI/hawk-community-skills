@@ -1,6 +1,8 @@
 ---
-name: debug-buttercup
-description: "All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unresponsive or showing AOF warnings."
+name: ag-debug-buttercup
+description: "All pods run in namespace crs. Use when pods in the crs namespace are in CrashLoopBackOff, OOMKilled, or restarting, multiple services restart simultaneously (cascade failure), or redis is unrespon..."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

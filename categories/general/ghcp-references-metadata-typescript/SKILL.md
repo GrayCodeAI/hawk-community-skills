@@ -1,3 +1,10 @@
+---
+name: ghcp-references-metadata-typescript
+description: "Skill: ghcp-references-metadata-typescript"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Custom Metadata (TypeScript)
 
 Add custom attributes to spans for richer observability.

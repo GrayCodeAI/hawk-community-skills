@@ -1,6 +1,8 @@
 ---
-name: speed
-description: Launch RSVP speed reader for text
+name: ag-speed
+description: "Launch RSVP speed reader for text"
+license: MIT
+tags: [general]
 trigger: command
 risk: unknown
 source: community

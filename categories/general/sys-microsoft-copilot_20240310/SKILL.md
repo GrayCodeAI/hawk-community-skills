@@ -1,3 +1,10 @@
+---
+name: sys-microsoft-copilot_20240310
+description: "Skill: sys-microsoft-copilot_20240310"
+license: MIT
+tags: [general]
+---
+
 # microsoft-copilot_20240310
 
 source: <https://old.reddit.com/r/bing/comments/1bapeh7/copilots_initial_prompt_as_of_march_2024/>

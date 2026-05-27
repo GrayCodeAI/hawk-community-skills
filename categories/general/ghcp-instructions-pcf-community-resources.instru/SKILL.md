@@ -1,6 +1,8 @@
 ---
-description: 'PCF community resources including gallery, videos, blogs, and development tools'
-applyTo: '**'
+name: ghcp-instructions-pcf-community-resources.instru
+description: "Skill: ghcp-instructions-pcf-community-resources.instru"
+license: MIT
+tags: [general]
 ---
 
 # PCF Community Resources

@@ -1,3 +1,10 @@
+---
+name: gpt-wxhtjcfns_content-helpfulness-and-quality-seo-anal
+description: "Skill: gpt-wxhtjcfns_content-helpfulness-and-quality-seo-anal"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WxhtjcFNs
 
 GPT Title: Content Helpfulness and Quality SEO Analyzer

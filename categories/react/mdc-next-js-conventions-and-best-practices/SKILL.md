@@ -1,7 +1,10 @@
 ---
-description: Rules for adhering to Next.js conventions, including data fetching, rendering, routing, and using 'nuqs' for URL search parameter state management.
-globs: src/**/*
+name: mdc-next-js-conventions-and-best-practices
+description: "Rules for adhering to Next.js conventions, including data fetching, rendering, routing, and using 'nuqs' for URL search parameter state management."
+license: MIT
+tags: [react]
 ---
+
 - Use 'nuqs' for URL search parameter state management.
 - Optimize Web Vitals (LCP, CLS, FID).
 - Limit 'use client':

@@ -1,9 +1,11 @@
 ---
-name: using-git-worktrees
+name: ag-using-git-worktrees
 description: "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Using Git Worktrees

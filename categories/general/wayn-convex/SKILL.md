@@ -1,7 +1,10 @@
 ---
-description: 
-globs: 
+name: wayn-convex
+description: "Skill: wayn-convex"
+license: MIT
+tags: [general]
 ---
+
 # Convex guidelines
 ## Function guidelines
 ### New function syntax
@@ -494,4 +497,3 @@ export default defineSchema({
   }).index("by_channel", ["channelId"]),
 });
 ```
-

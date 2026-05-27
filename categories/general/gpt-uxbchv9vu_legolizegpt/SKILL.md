@@ -1,3 +1,10 @@
+---
+name: gpt-uxbchv9vu_legolizegpt
+description: "Skill: gpt-uxbchv9vu_legolizegpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UxBchV9VU-legolizegpt
 
 GPT Title: LegolizeGPT

@@ -1,3 +1,10 @@
+---
+name: cpa-confidentialledger
+description: "Skill: cpa-confidentialledger"
+license: MIT
+tags: [general]
+---
+
 # az confidentialledger
 
 ```bash

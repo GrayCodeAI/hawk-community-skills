@@ -1,3 +1,10 @@
+---
+name: ls-h4gjgg7a0_book-to-prompt
+description: "Skill: ls-h4gjgg7a0_book-to-prompt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h4gjGg7a0-book-to-prompt
 
 GPT Title: Book to Prompt

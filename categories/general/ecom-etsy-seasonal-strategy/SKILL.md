@@ -1,9 +1,11 @@
 ---
-name: etsy-seasonal-strategy
+name: ecom-etsy-seasonal-strategy
 description: "Seasonal selling calendar — holiday prep, trending categories, listing refresh timing, inventory planning"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Seasonal Strategy

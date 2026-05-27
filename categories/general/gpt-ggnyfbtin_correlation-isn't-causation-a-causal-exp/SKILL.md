@@ -1,3 +1,10 @@
+---
+name: gpt-ggnyfbtin_correlation-isn't-causation-a-causal-exp
+description: "Skill: gpt-ggnyfbtin_correlation-isn't-causation-a-causal-exp"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GGnYfbTin-correlation-isn-t-causation-a-causal-explainer
 
 GPT Title: "Correlation isn't Causation" - A causal explainer

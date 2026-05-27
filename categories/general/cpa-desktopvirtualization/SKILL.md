@@ -1,3 +1,10 @@
+---
+name: cpa-desktopvirtualization
+description: "Skill: cpa-desktopvirtualization"
+license: MIT
+tags: [general]
+---
+
 # az desktopvirtualization
 
 ```bash

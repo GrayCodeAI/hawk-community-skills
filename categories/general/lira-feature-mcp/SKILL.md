@@ -1,3 +1,10 @@
+---
+name: lira-feature-mcp
+description: "Skill: lira-feature-mcp"
+license: MIT
+tags: [general]
+---
+
 # MCP (Model Context Protocol) Configuration Feature
 
 ## Overview

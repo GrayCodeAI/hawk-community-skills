@@ -1,7 +1,9 @@
 ---
-name: context-manager
-description: Context window optimization, progressive loading, and strategic compaction
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-context-manager
+description: "Context window optimization, progressive loading, and strategic compaction"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

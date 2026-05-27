@@ -1,9 +1,10 @@
 ---
 name: cr-tauri-svelte-typescript-guide
-description: Cursor rules for tauri-svelte-typescript-guide
-domain: engineering
+description: "Cursor rules for tauri-svelte-typescript-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -87,4 +88,3 @@ When working with the external Python backend:
 - Ensure proper error handling for potential backend failures or slow responses.
 - Consider implementing retry mechanisms for failed requests.
 - Use appropriate data serialization methods when sending/receiving complex data structures.
-

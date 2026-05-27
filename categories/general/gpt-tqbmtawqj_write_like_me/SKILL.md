@@ -1,3 +1,10 @@
+---
+name: gpt-tqbmtawqj_write_like_me
+description: "Skill: gpt-tqbmtawqj_write_like_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tQBmTaWqj-write-like-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lNUgaaUL4Sc7stQUJ7XyAJ2A?se=2123-12-26T02%3A34%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-19%252002.34.19%2520-%2520Create%2520a%2520simplified%252C%2520old-fashioned%2520icon%2520for%2520the%2520%2527Write%2520Like%2520Me%2527%2520GPT.%2520The%2520icon%2520should%2520feature%2520a%2520single%252C%2520elegantly%2520designed%2520quill%252C%2520embodying%2520the%2520essence.png&sig=qjn%2BzCW4J%2BtzbYykLlL/YxSlzhSb5g4KnwcvoLOFsRk%3D" width="100px" />

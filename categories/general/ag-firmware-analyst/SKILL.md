@@ -1,9 +1,11 @@
 ---
-name: firmware-analyst
-description: Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.
+name: ag-firmware-analyst
+description: "Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Download from vendor

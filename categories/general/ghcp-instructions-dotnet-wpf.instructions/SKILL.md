@@ -1,6 +1,8 @@
 ---
-description: '.NET WPF component and application patterns'
-applyTo: '**/*.xaml, **/*.cs'
+name: ghcp-instructions-dotnet-wpf.instructions
+description: "Skill: ghcp-instructions-dotnet-wpf.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Summary

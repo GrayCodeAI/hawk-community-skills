@@ -1,9 +1,10 @@
 ---
 name: extract_skills
-description: Fabric pattern - extract_skills
-domain: general
+description: "Fabric pattern - extract_skills"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

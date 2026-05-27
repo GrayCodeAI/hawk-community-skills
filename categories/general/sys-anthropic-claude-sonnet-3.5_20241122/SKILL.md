@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-sonnet-3.5_20241122
+description: "Skill: sys-anthropic-claude-sonnet-3.5_20241122"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-sonnet-3.5_20241122
 
 source: <https://docs.anthropic.com/en/release-notes/system-prompts#nov-22nd-2024>

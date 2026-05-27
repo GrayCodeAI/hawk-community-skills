@@ -1,13 +1,14 @@
 ---
 name: implementing-anti-phishing-training-program
-description: Security awareness training is the human layer of phishing defense. An effective anti-phishing training program combines regular simulations, interactive learning modules, metric tracking, and positiv
+description: "Security awareness training is the human layer of phishing defense. An effective anti-phishing training program combines regular simulations, interactive learning modules, metric tracking, and positiv"
+license: MIT
+tags: [phishing, email-security, social-engineering, dmarc, awareness, training, security-culture]
 domain: cybersecurity
 subdomain: phishing-defense
-tags: [phishing, email-security, social-engineering, dmarc, awareness, training, security-culture]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Anti-Phishing Training Program
 
 ## Overview

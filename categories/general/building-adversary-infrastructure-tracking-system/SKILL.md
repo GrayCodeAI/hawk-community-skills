@@ -1,13 +1,14 @@
 ---
 name: building-adversary-infrastructure-tracking-system
-description: Build an automated system to track adversary infrastructure using passive DNS, certificate transparency, WHOIS data, and IP enrichment to map and monitor threat actor command-and-control networks.
+description: "Build an automated system to track adversary infrastructure using passive DNS, certificate transparency, WHOIS data, and IP enrichment to map and monitor threat actor command-and-control networks."
+license: MIT
+tags: [infrastructure-tracking, passive-dns, c2, whois, threat-actor, pivoting, threat-intelligence, domain-analysis]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [infrastructure-tracking, passive-dns, c2, whois, threat-actor, pivoting, threat-intelligence, domain-analysis]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Building Adversary Infrastructure Tracking System
 
 ## Overview

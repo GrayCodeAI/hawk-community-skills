@@ -1,7 +1,9 @@
 ---
-description: Android 原生开发约定和最佳实践，包括 Kotlin、Jetpack Compose、架构模式等
-globs: **/*.kt,**/*.java,**/*.xml
-alwaysApply: false
+name: extra-android
+description: "Android 原生开发约定和最佳实践，包括 Kotlin、Jetpack Compose、架构模式等"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Android 开发规范

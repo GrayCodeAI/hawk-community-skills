@@ -1,9 +1,11 @@
 ---
-name: makepad-skills
+name: ag-makepad-skills
 description: "Makepad UI development skills for Rust apps: setup, patterns, shaders, packaging, and troubleshooting."
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/ZhangHanDong/makepad-skills"
-date_added: "2026-02-27"
+source: https://github.com/ZhangHanDong/makepad-skills
+date_added: 2026-02-27
 ---
 
 # Makepad Skills

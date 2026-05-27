@@ -1,3 +1,10 @@
+---
+name: ls-9pvdumwro_club_secretary_assistant
+description: "Skill: ls-9pvdumwro_club_secretary_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9pvdumwro-club-secretary-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gUK9SktXhP33cpjOt0ZiIAP1?se=2123-12-24T18%3A52%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcc358014-8168-4779-b718-60076e602e43.png&sig=sfd5PcBxj%2Bxf3zQDnWbpE6I7aU1tvfHW/Ukd8Ts1fWo%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: Agent Name
-description: One paragraph describing what this agent does, who it's for, and when to activate it.
+name: arezv-TEMPLATE
+description: "One paragraph describing what this agent does, who it's for, and when to activate it."
+license: MIT
+tags: [general]
 color: blue
 emoji: 🎯
 vibe: One catchy sentence that captures this agent's personality.

@@ -1,3 +1,10 @@
+---
+name: cpa-networkcloud
+description: "Skill: cpa-networkcloud"
+license: MIT
+tags: [general]
+---
+
 # az networkcloud
 
 ```bash

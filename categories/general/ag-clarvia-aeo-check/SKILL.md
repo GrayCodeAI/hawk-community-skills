@@ -1,12 +1,13 @@
 ---
-name: clarvia-aeo-check
+name: ag-clarvia-aeo-check
 description: "Score any MCP server, API, or CLI for agent-readiness using Clarvia AEO (Agent Experience Optimization). Search 15,400+ indexed tools before adding them to your workflow."
+license: MIT
+tags: [mcp, aeo, tool-quality, agent-readiness, api-scoring, clarvia]
 category: tool-quality
 risk: safe
 source: community
-date_added: "2026-03-27"
+date_added: 2026-03-27
 author: digitamaz
-tags: [mcp, aeo, tool-quality, agent-readiness, api-scoring, clarvia]
 tools: [claude, cursor, windsurf, cline]
 ---
 

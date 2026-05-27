@@ -1,9 +1,10 @@
 ---
 name: extract_core_message
-description: Fabric pattern - extract_core_message
-domain: general
+description: "Fabric pattern - extract_core_message"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

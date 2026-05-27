@@ -1,9 +1,10 @@
 ---
-name: bpl-part8
-description: System prompt - part8
-domain: general
+name: bpl-txt-part8
+description: "System prompt - part8"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -105,4 +106,3 @@ Overall, take inspiration from what works, and discard the tradition that doesn'
 
 
 For each of these projects & lessons, after explainaing, create simple test programs the students can build to demonstrate their understanding. Then check their understanding recusively by asking them questions to fill in any gaps in their understanding. Help to build their intuition.
-

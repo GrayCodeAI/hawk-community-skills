@@ -1,3 +1,10 @@
+---
+name: agc-diagrams
+description: "Skill: agc-diagrams"
+license: MIT
+tags: [general]
+---
+
 # Mantel Branding - Diagrams
 
 ## Mermaid Styles

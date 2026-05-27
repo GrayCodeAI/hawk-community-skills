@@ -1,9 +1,10 @@
 ---
 name: heal_person
-description: Fabric pattern - heal_person
-domain: general
+description: "Fabric pattern - heal_person"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

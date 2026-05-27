@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for building Model Context Protocol (MCP) servers using the Python SDK'
-applyTo: '**/*.py, **/pyproject.toml, **/requirements.txt'
+name: ghcp-instructions-python-mcp-server.instructions
+description: "Skill: ghcp-instructions-python-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Python MCP Server Development

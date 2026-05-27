@@ -1,3 +1,10 @@
+---
+name: gpt-pbjw280jj_proofreader
+description: "Skill: gpt-pbjw280jj_proofreader"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pBjw280jj-proofreader
 
 GPT Title: Proofreader

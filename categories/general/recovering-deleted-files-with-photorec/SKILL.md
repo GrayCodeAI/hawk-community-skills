@@ -1,12 +1,12 @@
 ---
 name: recovering-deleted-files-with-photorec
-description: Recover deleted files from disk images and storage media using PhotoRec's file signature-based carving engine regardless of file system damage.
+description: "Recover deleted files from disk images and storage media using PhotoRec's file signature-based carving engine regardless of file system damage."
+license: MIT
+tags: [forensics, file-recovery, photorec, file-carving, data-recovery, evidence-recovery]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, file-recovery, photorec, file-carving, data-recovery, evidence-recovery]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Recovering Deleted Files with PhotoRec

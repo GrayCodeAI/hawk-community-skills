@@ -1,19 +1,15 @@
 ---
-nexscope:
-  name: "Customer Feedback Analysis"
-  category: "Reviews & Reputation"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "reviews"
-    - "sentiment-analysis"
-    - "customer-feedback"
-    - "product-improvement"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "customer feedback analysis"
-    - "review sentiment analysis"
+name: ecom-customer-feedback-analysis
+description: "Skill: ecom-customer-feedback-analysis"
+license: MIT
+tags: [general]
+nexscope: None
+category: Reviews & Reputation
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Customer Feedback Analysis

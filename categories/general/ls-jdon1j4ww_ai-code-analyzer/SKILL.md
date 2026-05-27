@@ -1,3 +1,10 @@
+---
+name: ls-jdon1j4ww_ai-code-analyzer
+description: "Skill: ls-jdon1j4ww_ai-code-analyzer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JDon1J4Ww-ai-code-analyzer
 
 GPT Title: AI Code Analyzer

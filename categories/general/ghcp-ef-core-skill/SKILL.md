@@ -1,6 +1,8 @@
 ---
-name: ef-core
-description: 'Get best practices for Entity Framework Core'
+name: ghcp-ef-core-skill
+description: "Get best practices for Entity Framework Core"
+license: MIT
+tags: [general]
 ---
 
 # Entity Framework Core Best Practices

@@ -1,7 +1,10 @@
 ---
-description: Specific guidelines for FastAPI application structure and setup in the main application file.
-globs: **/main.py
+name: mdc-fastapi-application-rules
+description: "Specific guidelines for FastAPI application structure and setup in the main application file."
+license: MIT
+tags: [python]
 ---
+
 - Use functional components (plain functions) and Pydantic models for input validation and response schemas.
 - Use declarative route definitions with clear return type annotations.
 - Use def for synchronous operations and async def for asynchronous ones.

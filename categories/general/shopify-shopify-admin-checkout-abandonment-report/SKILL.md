@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-checkout-abandonment-report
-role: conversion-optimization
+name: shopify-shopify-admin-checkout-abandonment-report
 description: "Aggregate abandoned checkout data for a time range, broken down by cart value bucket and hour of day (UTC)."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - abandonedCheckouts:query
+api_version: 2025-01
+graphql_operations: [{'abandonedCheckouts': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

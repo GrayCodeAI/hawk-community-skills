@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing maintainable, performant, and robust spaCy code in Python, focusing on modern patterns and avoiding common pitfalls.
-globs: **/*.py
+name: mdc-spacy
+description: "This guide provides definitive, opinionated best practices for writing maintainable, performant, and robust spaCy code in Python, focusing on modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # spaCy Best Practices
 
 spaCy is the backbone of our NLP systems. Adhering to these guidelines ensures our pipelines are performant, reproducible, and easy to maintain.

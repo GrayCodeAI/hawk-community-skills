@@ -1,6 +1,8 @@
 ---
-name: mcp-copilot-studio-server-generator
-description: 'Generate a complete MCP server implementation optimized for Copilot Studio integration with proper schema constraints and streamable HTTP support'
+name: copilot-mcp-copilot-studio-server-generator
+description: "Generate a complete MCP server implementation optimized for Copilot Studio integration with proper schema constraints and streamable HTTP support"
+license: MIT
+tags: [general]
 ---
 
 # Power Platform MCP Connector Generator

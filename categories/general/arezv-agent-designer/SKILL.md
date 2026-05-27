@@ -1,6 +1,8 @@
 ---
-name: "agent-designer"
+name: arezv-agent-designer
 description: "Use when the user asks to design multi-agent systems, create agent architectures, define agent communication patterns, or build autonomous agent workflows."
+license: MIT
+tags: [general]
 ---
 
 # Agent Designer - Multi-Agent System Architecture

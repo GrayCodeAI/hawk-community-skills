@@ -1,3 +1,10 @@
+---
+name: ls-6z1s4s962_ultimate_rizz_dating_guru_nsfw
+description: "Skill: ls-6z1s4s962_ultimate_rizz_dating_guru_nsfw"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6Z1s4s962-ultimate-rizz-dating-guru-nsfw
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-EEWKbRGQzlEB3lnQD2rM7Pr2?se=2123-12-18T23%3A50%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D42ab1245-308c-4fb5-8a1f-f5fe8d6025cc.png&sig=rEH8OKA5ILCs7G53jhZH6NRy7mECqsLnep6fXGXI6zs%3D" width="100px" />

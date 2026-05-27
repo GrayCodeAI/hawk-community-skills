@@ -1,20 +1,11 @@
 ---
-name: "product-skills"
-description: "10 product agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. PM toolkit (RICE), agile PO, product strategist (OKR), UX researcher, UI design system, competitive teardown, landing page generator, SaaS scaffolder, research summarizer. Python tools (stdlib-only)."
+name: arezv-product-skills
+description: "10 product agent skills and plugins for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw. PM toolkit (RICE), agile PO, product strategist (OKR), UX researcher, UI design system, competitive teardow..."
+license: MIT
+tags: [general]
 version: 1.1.0
 author: Alireza Rezvani
-license: MIT
-tags:
-  - product
-  - product-management
-  - ux
-  - ui
-  - saas
-  - agile
-agents:
-  - claude-code
-  - codex-cli
-  - openclaw
+agents: None
 ---
 
 # Product Team Skills

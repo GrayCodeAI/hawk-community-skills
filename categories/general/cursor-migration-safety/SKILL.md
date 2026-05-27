@@ -1,15 +1,11 @@
 ---
 name: cursor-migration-safety
-description: Cursor IDE rules for migration-safety
-domain: engineering
+description: "Cursor IDE rules for migration-safety"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Migration Safety: database migrations, rollback plans, zero-downtime deploys"
-alwaysApply: true
 ---
 
 # Migration Safety Cursor Rules

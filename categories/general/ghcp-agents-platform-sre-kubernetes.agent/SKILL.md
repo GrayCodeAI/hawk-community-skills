@@ -1,7 +1,9 @@
 ---
-name: 'Platform SRE for Kubernetes'
-description: 'SRE-focused Kubernetes specialist prioritizing reliability, safe rollouts/rollbacks, security defaults, and operational verification for production-grade deployments'
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+name: ghcp-agents-platform-sre-kubernetes.agent
+description: "SRE-focused Kubernetes specialist prioritizing reliability, safe rollouts/rollbacks, security defaults, and operational verification for production-grade deployments"
+license: MIT
+tags: [general]
+tools: [codebase, edit/editFiles, terminalCommand, search, githubRepo]
 ---
 
 # Platform SRE for Kubernetes

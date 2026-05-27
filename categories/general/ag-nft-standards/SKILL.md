@@ -1,9 +1,11 @@
 ---
-name: nft-standards
+name: ag-nft-standards
 description: "Master ERC-721 and ERC-1155 NFT standards, metadata best practices, and advanced NFT features."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # NFT Standards

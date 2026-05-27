@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and performant property-based tests using Hypothesis with Python and pytest.
-globs: **/*.py
+name: mdc-hypothesis
+description: "Definitive guidelines for writing robust, maintainable, and performant property-based tests using Hypothesis with Python and pytest."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # hypothesis Best Practices
 
 Hypothesis is a powerful property-based testing library. These guidelines ensure your Hypothesis tests are effective, maintainable, and integrate seamlessly into modern Python development workflows.

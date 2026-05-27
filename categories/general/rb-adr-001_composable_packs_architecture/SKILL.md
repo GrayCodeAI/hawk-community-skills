@@ -1,24 +1,9 @@
-# ADR-001: Composable Packs Architecture
-
-*   **Status:** Accepted
-*   **Date:** 2025-09-04
-*   **Context:** The original `rulebook-ai` framework used a monolithic "Rule Set" model. This made it difficult to combine different AI personas (e.g., a "Project Manager" and a "Frontend Developer") in a single project, as their rules, memory, and tools could not be managed independently. An alternative design proposed keeping each Pack's files completely isolated, but this would make the context invisible to the AI assistants, defeating the project's primary goal.
-*   **Decision:** We will adopt a "best of both worlds" hybrid design. We will introduce modular "Packs" that are managed by the CLI. The framework will compose a unified, top-level `memory/` and `tools/` directory via a non-destructive, ordered merge of the active packs' starter files. This makes the context visible to the AI while preventing user data loss. AI rules will be concatenated in order.
-*   **Consequences:** This decision leads to the architecture detailed in the summary table below, which combines the essential unified context model with superior metadata (`manifest.yaml`) and state management (`selection.json`).
-
 ---
-
-### Critical Analysis: The Core Flaw in the Isolation Model
-
-An alternative design proposed **"Isolation over merging"** for tools and context.
-
-*   **Its Stated Advantage:** It perfectly prevents file-system conflicts. This is 100% true.
-*   **Its Unstated but Fatal Flaw:** It fundamentally breaks the principle that **AI Context is King**.
-
-If the context files remain isolated inside separate pack directories, the AI assistant (Cursor, CLINE, etc.) doesn't know to look there. The whole purpose of this framework is to *surface* the combined context into a location the AI can easily see and ingest. Keeping the context files buried in separate, isolated folders makes them invisible to the AI without significant manual work from the user.
-
-**Conclusion:** The principle of strict isolation for `context` and `tools` is a non-starter. The principle of composing a unified, top-level `memory/` and `tools/` directory is correct because it serves the primary goal.
-
+name: rb-adr-001_composable_packs_architecture
+description: 'Skill: rb-adr-001_composable_packs_architecture'
+license: MIT
+tags:
+- general
 ---
 
 ### Summary of Final Design Decisions

@@ -1,12 +1,12 @@
 ---
 name: performing-clickjacking-attack-test
-description: Testing web applications for clickjacking vulnerabilities by assessing frame embedding controls and crafting proof-of-concept overlay attacks during authorized security assessments.
+description: "Testing web applications for clickjacking vulnerabilities by assessing frame embedding controls and crafting proof-of-concept overlay attacks during authorized security assessments."
+license: MIT
+tags: [penetration-testing, clickjacking, ui-redressing, web-security, owasp, x-frame-options]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, clickjacking, ui-redressing, web-security, owasp, x-frame-options]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Clickjacking Attack Test

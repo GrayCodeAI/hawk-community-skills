@@ -1,9 +1,10 @@
 ---
 name: create_git_diff_commit
-description: Fabric pattern - create_git_diff_commit
-domain: general
+description: "Fabric pattern - create_git_diff_commit"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

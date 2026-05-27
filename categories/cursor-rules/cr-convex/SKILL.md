@@ -1,15 +1,11 @@
 ---
 name: cr-convex
-description: Cursor rules for convex
-domain: engineering
+description: "Cursor rules for convex"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
----
-
----
-description: Guidelines and best practices for building Convex projects, including database schema design, queries, mutations, and real-world examples
-globs: **/*.{ts,tsx,js,jsx}
 ---
 
 # Convex guidelines
@@ -682,4 +678,3 @@ export default function App() {
   return <div>Hello World</div>;
 }
 ```
-

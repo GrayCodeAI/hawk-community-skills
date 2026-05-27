@@ -1,6 +1,8 @@
 ---
-name: repo-story-time
-description: 'Generate a comprehensive repository summary and narrative story from commit history'
+name: copilot-repo-story-time
+description: "Generate a comprehensive repository summary and narrative story from commit history"
+license: MIT
+tags: [general]
 ---
 
 ## Role

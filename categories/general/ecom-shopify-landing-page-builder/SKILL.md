@@ -1,9 +1,11 @@
 ---
-name: shopify-landing-page-builder
+name: ecom-shopify-landing-page-builder
 description: "High-converting landing pages — campaign pages, collection pages, seasonal promos, A/B testing"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Landing Page Builder

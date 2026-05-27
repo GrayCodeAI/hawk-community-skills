@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-variant-option-normalizer
-role: merchandising
+name: shopify-shopify-admin-variant-option-normalizer
 description: "Detects inconsistent variant option naming (Sm vs Small vs S) and bulk-corrects to a standard set."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - productVariantsBulkUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'productVariantsBulkUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

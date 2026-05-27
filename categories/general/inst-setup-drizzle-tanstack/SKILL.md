@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-tanstack
+description: "Skill: inst-setup-drizzle-tanstack"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + TanStack Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with TanStack Query (formerly React Query).
@@ -438,4 +445,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [TanStack Query Documentation](https://tanstack.com/query/latest)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

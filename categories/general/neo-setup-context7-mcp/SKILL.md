@@ -1,6 +1,8 @@
 ---
-name: setup-context7-mcp
-description: Guide for setup Context7 MCP server to load documentation for specific technologies.
+name: neo-setup-context7-mcp
+description: "Guide for setup Context7 MCP server to load documentation for specific technologies."
+license: MIT
+tags: [general]
 argument-hint: List of languages and frameworks to load documentation for
 ---
 

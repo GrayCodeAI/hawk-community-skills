@@ -1,3 +1,10 @@
+---
+name: gpt-gpt_all_tools
+description: "Skill: gpt-gpt_all_tools"
+license: MIT
+tags: [general]
+---
+
 > [!NOTE]
 > The "All Tools" omni-prompt takes a whopping 2,756 tokens, but it's also using the GPT-4 32k model, with a 32,767 token context window. 
 ```markdown

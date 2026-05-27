@@ -1,9 +1,11 @@
 ---
-name: skill-optimizer
+name: ag-skill-optimizer
 description: "Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent."
+license: MIT
+tags: [general]
 risk: safe
 source: hqhq1025/skill-optimizer (MIT)
-date_added: "2026-04-11"
+date_added: 2026-04-11
 ---
 
 ## When to Use This Skill

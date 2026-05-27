@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_roo_code
+description: "Skill: rb-custom_rules_setup_roo_code"
+license: MIT
+tags: [general]
+---
+
 source: https://docs.roocode.com/features/custom-instructions
 
 # Custom Instructions

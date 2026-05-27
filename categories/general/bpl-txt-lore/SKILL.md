@@ -1,9 +1,10 @@
 ---
-name: bpl-lore
-description: System prompt - lore
-domain: general
+name: bpl-txt-lore
+description: "System prompt - lore"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

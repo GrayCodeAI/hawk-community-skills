@@ -1,3 +1,10 @@
+---
+name: gpt-qi4xjutsx_legible_bot_v3.0_public
+description: "Skill: gpt-qi4xjutsx_legible_bot_v3.0_public"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QI4xjUtSx-legible-bot-v3-0-public
 
 GPT logo: <img src="None" width="100px" />

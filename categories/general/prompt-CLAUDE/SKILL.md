@@ -1,3 +1,10 @@
+---
+name: prompt-CLAUDE
+description: "Skill: prompt-CLAUDE"
+license: MIT
+tags: [general]
+---
+
 # CLAUDE.md
 
 > Quick reference for Claude Code when working on prompts.chat

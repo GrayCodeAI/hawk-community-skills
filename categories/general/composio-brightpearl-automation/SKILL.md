@@ -1,8 +1,10 @@
 ---
-name: brightpearl-automation
+name: composio-brightpearl-automation
 description: "Automate Brightpearl tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Brightpearl Automation via Rube MCP

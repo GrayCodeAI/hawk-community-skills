@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for using the gensim library, focusing on reproducibility, efficient corpus construction, robust model training, and maintainable code for NLP topic modeling tasks.
-globs: **/*.py
+name: mdc-gensim
+description: "This guide outlines definitive best practices for using the gensim library, focusing on reproducibility, efficient corpus construction, robust model training, and maintainable code for NLP topic mo..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # gensim Best Practices
 
 This document is your definitive guide for using `gensim` effectively and correctly within our team. We prioritize reproducibility, performance, and maintainability. Follow these rules to ensure consistent, high-quality NLP pipelines.

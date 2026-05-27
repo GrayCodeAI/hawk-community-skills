@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for developing, deploying, and operating applications on Azure, focusing on Well-Architected Framework principles, secure coding, and efficient resource management.
-globs: **/*
+name: mdc-azure
+description: "Definitive guidelines for developing, deploying, and operating applications on Azure, focusing on Well-Architected Framework principles, secure coding, and efficient resource management."
+license: MIT
+tags: [aws]
 ---
+
 # Azure Best Practices
 
 This guide provides opinionated, actionable best practices for developing and operating solutions on Azure. It emphasizes the **Azure Well-Architected Framework** (Cost Optimization, Security, Reliability, Performance Efficiency, Operational Excellence) and the **Microsoft Cloud Adoption Framework** (CAF) for governance. Adhere to these standards to build robust, secure, and cost-effective cloud-native applications.

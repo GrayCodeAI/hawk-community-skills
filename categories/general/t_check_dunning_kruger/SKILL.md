@@ -1,9 +1,10 @@
 ---
 name: t_check_dunning_kruger
-description: Fabric pattern - t_check_dunning_kruger
-domain: general
+description: "Fabric pattern - t_check_dunning_kruger"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

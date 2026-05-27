@@ -1,3 +1,10 @@
+---
+name: gpt-sj5pgiv0k_autism_simulator_grade_3
+description: "Skill: gpt-sj5pgiv0k_autism_simulator_grade_3"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sJ5PgIv0k-autism-simulator-grade-3
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HBksAq7XzXbdtRpk2DUn9fNP?se=2124-01-06T18%3A00%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddescarga.jpg&sig=DzwS2qB/Nf6fZCYDuEnqHbwexkTv/ycc6EAFvhHRXZw%3D" width="100px" />

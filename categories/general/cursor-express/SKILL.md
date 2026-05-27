@@ -1,16 +1,11 @@
 ---
 name: cursor-express
-description: Cursor IDE rules for express
-domain: engineering
+description: "Cursor IDE rules for express"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Express: middleware, error handling, validation"
-globs: ["*.js", "*.ts"]
-alwaysApply: true
 ---
 
 # Express.js Cursor Rules

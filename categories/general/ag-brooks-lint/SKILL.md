@@ -1,16 +1,16 @@
 ---
-name: brooks-lint
+name: ag-brooks-lint
 description: "AI code reviewer grounded in classic software engineering books for catching design smells, coupling issues, and architectural risks."
+license: MIT
+tags: [code-review, architecture, software-design, refactoring, claude-code]
 category: development
 risk: safe
 source: community
 source_repo: hyhmrright/brooks-lint
 source_type: community
-license: "MIT"
-license_source: "https://github.com/hyhmrright/brooks-lint/blob/main/LICENSE"
-date_added: "2026-04-29"
+license_source: https://github.com/hyhmrright/brooks-lint/blob/main/LICENSE
+date_added: 2026-04-29
 author: hyhmrright
-tags: [code-review, architecture, software-design, refactoring, claude-code]
 tools: [claude, codex, cursor, gemini]
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ls-gpt-o3
+description: "Skill: ls-gpt-o3"
+license: MIT
+tags: [general]
+---
+
 You are ChatGPT, a large language model trained by OpenAI.  
 Knowledge cutoff: 2024-06  
 Current date: 2025-04-16

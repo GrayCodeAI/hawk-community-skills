@@ -1,3 +1,10 @@
+---
+name: ls-z4eyezc0v_bill_insight_for_h.r._815
+description: "Skill: ls-z4eyezc0v_bill_insight_for_h.r._815"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Z4EyEzc0V-bill-insight-for-h-r-815
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-K478RexinnHlTQAzi9X0sjGQ?se=2124-01-13T15%3A08%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6c959690-57e2-48c5-ac26-406cafd96ab1.png&sig=0OI2uQjIrrJwSKbuzIfrgiRQUV1pS2zBHOjRJAFl7LQ%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-4pd6pcau8_ravencoin_gpt
+description: "Skill: gpt-4pd6pcau8_ravencoin_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4Pd6PCaU8-ravencoin-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nqzU15TnfqoSOKaUT6DxtmQN?se=2123-10-15T23%3A30%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7d5ff1f1-bee9-4486-a073-1357629d6d85.png&sig=eu4giZ5BJRPjRQeOOKWrC86SYa5EJG9dixjMQe5xq%2BE%3D" width="100px" />

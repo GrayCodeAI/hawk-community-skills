@@ -1,6 +1,8 @@
 ---
-name: setup-codemap-cli
-description: Guide for setup Codemap CLI for intelligent codebase visualization and navigation
+name: neo-setup-codemap-cli
+description: "Guide for setup Codemap CLI for intelligent codebase visualization and navigation"
+license: MIT
+tags: [general]
 argument-hint: Optional - specific configuration preferences or OS type
 ---
 

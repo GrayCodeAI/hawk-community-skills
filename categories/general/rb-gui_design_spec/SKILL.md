@@ -1,3 +1,10 @@
+---
+name: rb-gui_design_spec
+description: "Skill: rb-gui_design_spec"
+license: MIT
+tags: [general]
+---
+
 **Simple GUI User Experience Design**
 
 The GUI will reside in a dedicated View Container (sidebar panel) within VS Code. It will be a single page with the following sections:

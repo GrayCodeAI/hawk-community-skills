@@ -1,3 +1,10 @@
+---
+name: ecom-tiktok-influencer-marketing
+description: "Skill: ecom-tiktok-influencer-marketing"
+license: MIT
+tags: [general]
+---
+
 # TikTok Influencer Marketing
 
 Plan and execute TikTok influencer marketing campaigns for e-commerce brands. Find creators, negotiate deals, track ROI, and scale UGC content across TikTok and TikTok Shop.

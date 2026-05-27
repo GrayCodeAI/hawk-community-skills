@@ -1,6 +1,8 @@
 ---
-name: gemini-peer-reviewer
-description: Use this agent only when requested by the user or if you're stuck on a complex problem that you've tried solving in a number of ways without success. This agent leverages Gemini's massive context window through the Gemini CLI to review your implementations, verify that all requirements are met, check for bugs, security issues, best practices, and ensure the code aligns with the wider codebase. Examples: <example>Context: Claude Code has just implemented a complex authentication system and the user has asked for a Gemini review claude: 'I've implemented the authentication system. Let me get a peer review from Gemini before confirming completion.' assistant: 'I'll use the gemini-peer-reviewer agent to review my authentication implementation and ensure it meets all requirements.' <commentary>Before declaring the task complete, use Gemini to review the implementation for quality assurance.</commentary></example> <example>Context: Claude Code has made significant architectural changes to a codebase and the user has asked for a Gemini review. claude: 'I've refactored the database layer. Let me get Gemini to review these changes.' assistant: 'I'll have the gemini-peer-reviewer check my refactoring for any issues or improvements.' <commentary>Major changes should be peer reviewed to catch potential issues before user review.</commentary></example>
+name: agc-gemini-peer-reviewer
+description: "Use this agent only when requested by the user or if you're stuck on a complex problem that you've tried solving in a number of ways without success. This agent leverages Gemini's massive context w..."
+license: MIT
+tags: [general]
 model: sonnet
 color: purple
 ---

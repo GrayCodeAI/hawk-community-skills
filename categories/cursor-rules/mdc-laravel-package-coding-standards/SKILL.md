@@ -1,7 +1,10 @@
 ---
-description: Specific coding standards and conventions for Laravel package development, covering naming conventions.
-globs: */src/**/*.*
+name: mdc-laravel-package-coding-standards
+description: "Specific coding standards and conventions for Laravel package development, covering naming conventions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - File names: Use kebab-case (e.g., my-class-file.php)
 - Class and Enum names: Use PascalCase (e.g., MyClass)
 - Method names: Use camelCase (e.g., myMethod)

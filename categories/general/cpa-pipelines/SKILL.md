@@ -1,3 +1,10 @@
+---
+name: cpa-pipelines
+description: "Skill: cpa-pipelines"
+license: MIT
+tags: [general]
+---
+
 # az pipelines
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: prompt-CHANGELOG
+description: "Skill: prompt-CHANGELOG"
+license: MIT
+tags: [general]
+---
+
 # Changelog
 
 ## [Initial Version] - {PR_MERGE_DATE}

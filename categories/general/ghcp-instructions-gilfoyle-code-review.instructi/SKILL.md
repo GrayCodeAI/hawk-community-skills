@@ -1,6 +1,8 @@
 ---
-applyTo: '**'
-description: 'Gilfoyle-style code review instructions that channel the sardonic technical supremacy of Silicon Valley''s most arrogant systems architect.'
+name: ghcp-instructions-gilfoyle-code-review.instructi
+description: "Skill: ghcp-instructions-gilfoyle-code-review.instructi"
+license: MIT
+tags: [general]
 ---
 
 # Gilfoyle Code Review Instructions

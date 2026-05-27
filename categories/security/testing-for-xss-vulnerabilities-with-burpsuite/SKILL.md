@@ -1,12 +1,12 @@
 ---
 name: testing-for-xss-vulnerabilities-with-burpsuite
-description: Identifying and validating cross-site scripting vulnerabilities using Burp Suite's scanner, intruder, and repeater tools during authorized security assessments.
+description: "Identifying and validating cross-site scripting vulnerabilities using Burp Suite's scanner, intruder, and repeater tools during authorized security assessments."
+license: MIT
+tags: [penetration-testing, xss, burpsuite, owasp, web-security, cross-site-scripting]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, xss, burpsuite, owasp, web-security, cross-site-scripting]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Testing for XSS Vulnerabilities with Burp Suite

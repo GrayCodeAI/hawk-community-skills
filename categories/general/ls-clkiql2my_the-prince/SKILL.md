@@ -1,3 +1,10 @@
+---
+name: ls-clkiql2my_the-prince
+description: "Skill: ls-clkiql2my_the-prince"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-clKIqL2my-the-prince
 
 GPT Title: The Prince

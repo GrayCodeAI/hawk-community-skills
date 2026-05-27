@@ -1,3 +1,10 @@
+---
+name: ls-avhsv8uxr_seattle_kraken_stats_and_news
+description: "Skill: ls-avhsv8uxr_seattle_kraken_stats_and_news"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-avhsv8uXr-seattle-kraken-stats-and-news
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Iqez44vfCFpshgpa9ZWKNp4F?se=2124-01-07T02%3A34%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc4a63880-79a4-491d-9c38-f24a3c154f01.png&sig=pC7gPHlCrfAWJBV8lTD98C50GLDq74tbYvi9j3V4JqQ%3D" width="100px" />

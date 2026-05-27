@@ -1,3 +1,10 @@
+---
+name: ghcp-phase_prompts-phase6
+description: "Skill: ghcp-phase_prompts-phase6"
+license: MIT
+tags: [general]
+---
+
 {skill_fallback_guide}
 
 You are a quality engineer doing the verification phase of a quality playbook run. Phases 1-5 are complete.

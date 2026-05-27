@@ -1,7 +1,10 @@
 ---
-description: Specifies rules for managing context files, including the master project context and supplementary files, emphasizing stability and change management.
-globs: **/ProjectDocs/contexts/**/*
+name: mdc-context-files-rules
+description: "Specifies rules for managing context files, including the master project context and supplementary files, emphasizing stability and change management."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - **Master Project Context (`projectContext.md`):**
    - Located in `/ProjectDocs/contexts/`.
    - Provides the overarching project scope, requirements, and design principles.

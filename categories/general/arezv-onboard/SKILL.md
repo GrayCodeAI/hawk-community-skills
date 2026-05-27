@@ -1,6 +1,8 @@
 ---
-name: "onboard"
+name: arezv-onboard
 description: "/cs:onboard — Founder interview that populates ~/.claude/company-context.md. The first command to run when starting with c-level-agents."
+license: MIT
+tags: [general]
 ---
 
 # /cs:onboard — Founder Interview

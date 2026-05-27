@@ -1,3 +1,10 @@
+---
+name: ghcp-references-slang-documentation-full
+description: "Skill: ghcp-references-slang-documentation-full"
+license: MIT
+tags: [general]
+---
+
 # Slang Language Documentation - Complete Reference
 
 Source: [Official Slang Shader Repository](https://github.com/shader-slang/slang "Slang Shader repository")

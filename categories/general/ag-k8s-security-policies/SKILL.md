@@ -1,9 +1,11 @@
 ---
-name: k8s-security-policies
+name: ag-k8s-security-policies
 description: "Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Kubernetes Security Policies

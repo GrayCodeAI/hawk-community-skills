@@ -1,9 +1,10 @@
 ---
 name: create_slides
-description: Fabric pattern - create_slides
-domain: general
+description: "Fabric pattern - create_slides"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -34,4 +35,3 @@ There may be situations where animation and interactivity would benefit expositi
 DO NOT output anything outside the <html></html> tags.
 
 ### INPUT
-

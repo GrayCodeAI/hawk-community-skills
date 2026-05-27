@@ -1,3 +1,10 @@
+---
+name: ls-lhgutwe6t_code-tutor-with-prompt-defender
+description: "Skill: ls-lhgutwe6t_code-tutor-with-prompt-defender"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lHgUTWe6t-code-tutor-with-prompt-defender
 
 GPT Title: Code Tutor with Prompt Defender

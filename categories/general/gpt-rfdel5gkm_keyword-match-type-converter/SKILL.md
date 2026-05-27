@@ -1,3 +1,10 @@
+---
+name: gpt-rfdel5gkm_keyword-match-type-converter
+description: "Skill: gpt-rfdel5gkm_keyword-match-type-converter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rfdeL5gKm-keyword-match-type-converter
 
 GPT Title: Keyword Match Type Converter

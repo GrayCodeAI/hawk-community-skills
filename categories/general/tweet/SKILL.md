@@ -1,9 +1,10 @@
 ---
 name: tweet
-description: Fabric pattern - tweet
-domain: general
+description: "Fabric pattern - tweet"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -53,4 +54,3 @@ Creating engaging tweets with emojis takes practice and experimentation. By unde
 
 
 make this into a tweet and have engaging Emojis!
-

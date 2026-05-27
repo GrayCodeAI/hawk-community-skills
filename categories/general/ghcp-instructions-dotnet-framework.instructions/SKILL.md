@@ -1,6 +1,8 @@
 ---
-description: 'Guidance for working with .NET Framework projects. Includes project structure, C# language version, NuGet management, and best practices.'
-applyTo: '**/*.csproj, **/*.cs'
+name: ghcp-instructions-dotnet-framework.instructions
+description: "Skill: ghcp-instructions-dotnet-framework.instructions"
+license: MIT
+tags: [general]
 ---
 
 # .NET Framework Development

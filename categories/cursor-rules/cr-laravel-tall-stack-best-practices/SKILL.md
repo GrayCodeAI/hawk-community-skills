@@ -1,9 +1,10 @@
 ---
 name: cr-laravel-tall-stack-best-practices
-description: Cursor rules for laravel-tall-stack-best-practices
-domain: engineering
+description: "Cursor rules for laravel-tall-stack-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -117,4 +118,3 @@ Dependencies
 - Composer for dependency management
 
 When providing code examples or explanations, always consider the integration of all four technologies in the TALL stack. Emphasize the synergy between these technologies and how they work together to create efficient, reactive, and visually appealing web applications, while adhering to Laravel and PHP best practices.
-

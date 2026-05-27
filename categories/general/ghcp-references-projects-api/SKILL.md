@@ -1,3 +1,10 @@
+---
+name: ghcp-references-projects-api
+description: "Skill: ghcp-references-projects-api"
+license: MIT
+tags: [general]
+---
+
 # Projects V2 API Reference (for Migration)
 
 This reference covers the subset of the Projects V2 API needed for field migration: discovering project fields and reading item values.

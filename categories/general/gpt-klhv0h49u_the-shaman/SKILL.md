@@ -1,3 +1,10 @@
+---
+name: gpt-klhv0h49u_the-shaman
+description: "Skill: gpt-klhv0h49u_the-shaman"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Klhv0H49u-the-shaman
 
 GPT Title: The Shaman

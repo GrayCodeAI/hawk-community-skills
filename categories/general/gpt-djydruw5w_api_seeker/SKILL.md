@@ -1,3 +1,10 @@
+---
+name: gpt-djydruw5w_api_seeker
+description: "Skill: gpt-djydruw5w_api_seeker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-djyDRUw5w-api-seeker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SsySzvbJxO8IoLPX3OUcs3s8?se=2123-10-29T04%3A21%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D25bc2756-ebdb-4d1b-96a8-d904b599ed57.png&sig=PV/FcFHYXx9Ba/z8427yqpDzaA8tNPRrR7McnKIFhCY%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-reliability-resilience
+description: "Skill: ghcp-references-reliability-resilience"
+license: MIT
+tags: [general]
+---
+
 # Reliability & Resilience Patterns
 
 ## Ambassador Pattern

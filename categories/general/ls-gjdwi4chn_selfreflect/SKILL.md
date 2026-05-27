@@ -1,3 +1,10 @@
+---
+name: ls-gjdwi4chn_selfreflect
+description: "Skill: ls-gjdwi4chn_selfreflect"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gJDWI4chn-selfreflect
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-06zKQYWRdpwLLZ1ZlofgNaUL?se=2124-01-14T22%3A04%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D65.jpg&sig=ISClNUUigddYkdqHkcIQ6G9YmxQxRZAbhwlin1q6MtE%3D" width="100px" />

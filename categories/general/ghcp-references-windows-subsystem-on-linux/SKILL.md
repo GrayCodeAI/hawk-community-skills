@@ -1,3 +1,10 @@
+---
+name: ghcp-references-windows-subsystem-on-linux
+description: "Skill: ghcp-references-windows-subsystem-on-linux"
+license: MIT
+tags: [general]
+---
+
 # Windows Subsystem for Linux (WSL) Reference
 
 ## Documentation

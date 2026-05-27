@@ -1,3 +1,10 @@
+---
+name: gpt-92ljzcqvm_universal_pharmacist_upm
+description: "Skill: gpt-92ljzcqvm_universal_pharmacist_upm"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-92lJZcQvm-universal-pharmacist-upm
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dFEdjBU9X4CsEYeSjsfLoqyM?se=2124-01-11T13%3A04%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D7edbd167-2338-4428-9fdc-e8fa6050238e.png&sig=K1lqGV7PYT6je5WeVBDIxo%2BNG63juXO9ZUSzJZBhqSE%3D" width="100px" />

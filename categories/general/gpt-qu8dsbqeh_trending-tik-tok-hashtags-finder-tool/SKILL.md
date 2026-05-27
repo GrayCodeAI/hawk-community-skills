@@ -1,3 +1,10 @@
+---
+name: gpt-qu8dsbqeh_trending-tik-tok-hashtags-finder-tool
+description: "Skill: gpt-qu8dsbqeh_trending-tik-tok-hashtags-finder-tool"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qu8dSBqEH-trending-tik-tok-hashtags-finder-tool
 
 GPT Title: Trending Tik Tok Hashtags Finder Tool

@@ -1,3 +1,10 @@
+---
+name: ls-r8u0nfyio_math
+description: "Skill: ls-r8u0nfyio_math"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-R8U0NFyIo-math
 
 GPT Title: math

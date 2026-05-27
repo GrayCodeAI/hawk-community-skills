@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-restock-on-return
-role: returns
+name: shopify-shopify-admin-restock-on-return
 description: "For approved/closed returns, restocks inventory at the return location by adjusting on-hand quantities for each returned line item."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - returns:query
-  - inventoryAdjustQuantities:mutation
+api_version: 2025-01
+graphql_operations: [{'returns': 'query'}, {'inventoryAdjustQuantities': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

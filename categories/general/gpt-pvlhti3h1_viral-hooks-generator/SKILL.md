@@ -1,3 +1,10 @@
+---
+name: gpt-pvlhti3h1_viral-hooks-generator
+description: "Skill: gpt-pvlhti3h1_viral-hooks-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator
 
 GPT Title: Viral Hooks Generator

@@ -1,7 +1,9 @@
 ---
-description: Captures important patterns, preferences, and project intelligence; a living document that grows smarter as progress happens.
-globs: []
-alwaysApply: true
+name: rb-03-lessons-learned
+description: "Captures important patterns, preferences, and project intelligence; a living document that grows smarter as progress happens."
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 ## Lessons Learned from this Interaction:

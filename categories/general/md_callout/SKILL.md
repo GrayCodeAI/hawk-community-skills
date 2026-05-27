@@ -1,9 +1,10 @@
 ---
 name: md_callout
-description: Fabric pattern - md_callout
-domain: general
+description: "Fabric pattern - md_callout"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

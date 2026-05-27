@@ -1,3 +1,10 @@
+---
+name: ghcp-references-marked
+description: "Skill: ghcp-references-marked"
+license: MIT
+tags: [general]
+---
+
 # Marked
 
 ## Quick Conversion Methods

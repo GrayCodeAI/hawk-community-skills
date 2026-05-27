@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for building REST APIs with ASP.NET'
-applyTo: '**/*.cs, **/*.json'
+name: ghcp-instructions-aspnet-rest-apis.instructions
+description: "Skill: ghcp-instructions-aspnet-rest-apis.instructions"
+license: MIT
+tags: [general]
 ---
 
 # ASP.NET REST API Development

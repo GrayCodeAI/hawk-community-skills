@@ -1,6 +1,8 @@
 ---
-name: "review"
+name: arezv-review
 description: "Analyze auto-memory for promotion candidates, stale entries, consolidation opportunities, and health metrics."
+license: MIT
+tags: [general]
 ---
 
 # /si:review — Analyze Auto-Memory

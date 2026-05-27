@@ -1,15 +1,11 @@
 ---
 name: cursor-accessibility
-description: Cursor IDE rules for accessibility
-domain: engineering
+description: "Cursor IDE rules for accessibility"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Accessibility: semantic HTML, ARIA, keyboard navigation, testing"
-alwaysApply: true
 ---
 
 # Accessibility Rules

@@ -1,9 +1,10 @@
 ---
 name: cr-cloudflare-workers-hono-angular-saas
-description: Cursor rules for cloudflare-workers-hono-angular-saas
-domain: engineering
+description: "Cursor rules for cloudflare-workers-hono-angular-saas"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

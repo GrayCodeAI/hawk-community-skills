@@ -1,31 +1,9 @@
 ---
+name: ghcp-agents-address-comments.agent
 description: "Address PR comments"
-name: 'Universal PR Comment Addresser'
-tools:
-  [
-    "changes",
-    "codebase",
-    "editFiles",
-    "extensions",
-    "fetch",
-    "findTestFiles",
-    "githubRepo",
-    "new",
-    "openSimpleBrowser",
-    "problems",
-    "runCommands",
-    "runTasks",
-    "runTests",
-    "search",
-    "searchResults",
-    "terminalLastCommand",
-    "terminalSelection",
-    "testFailure",
-    "usages",
-    "vscodeAPI",
-    "microsoft.docs.mcp",
-    "github"
-  ]
+license: MIT
+tags: [general]
+tools: None
 ---
 
 # Universal PR Comment Addresser

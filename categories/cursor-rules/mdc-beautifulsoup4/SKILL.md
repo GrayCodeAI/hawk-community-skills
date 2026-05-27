@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable, and example-driven best practices for using beautifulsoup4 in Python web scraping projects, focusing on modern techniques and common pitfalls.
-globs: **/*.py
+name: mdc-beautifulsoup4
+description: "This guide provides opinionated, actionable, and example-driven best practices for using beautifulsoup4 in Python web scraping projects, focusing on modern techniques and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # beautifulsoup4 Best Practices
 
 Beautiful Soup 4 (BS4) is the definitive library for parsing static HTML/XML. Use it as a robust component within a well-structured scraping pipeline.

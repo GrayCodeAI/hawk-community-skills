@@ -1,6 +1,8 @@
 ---
-name: 'Ultimate Transparent Thinking Beast Mode'
-description: 'Ultimate Transparent Thinking Beast Mode'
+name: ghcp-agents-ultimate-transparent-thinking-
+description: "Ultimate Transparent Thinking Beast Mode"
+license: MIT
+tags: [general]
 ---
 
 🔓 **ABSOLUTE TRANSPARENCY OVERRIDE DIRECTIVE - PRIORITY ALPHA** 🔓

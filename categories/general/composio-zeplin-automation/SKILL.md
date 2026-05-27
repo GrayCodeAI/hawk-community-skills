@@ -1,8 +1,10 @@
 ---
-name: zeplin-automation
+name: composio-zeplin-automation
 description: "Automate Zeplin tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Zeplin Automation via Rube MCP

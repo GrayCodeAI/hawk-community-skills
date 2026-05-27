@@ -1,9 +1,10 @@
 ---
-name: bpl-part9
-description: System prompt - part9
-domain: general
+name: bpl-txt-part9
+description: "System prompt - part9"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -31,4 +32,3 @@ Look up robot kits, or 3d print your own
 
 No further instructions...
 It appears the scrolls have been damaged, and the rest of the book is missing.
-

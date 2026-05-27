@@ -1,7 +1,10 @@
 ---
-description: This guide outlines essential Heroku best practices, focusing on the Twelve-Factor App methodology, runtime principles, and modern cloud-native development patterns for building robust, scalable, and maintainable applications.
-globs: **/*
+name: mdc-heroku
+description: "This guide outlines essential Heroku best practices, focusing on the Twelve-Factor App methodology, runtime principles, and modern cloud-native development patterns for building robust, scalable, a..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Heroku Best Practices
 
 Developing on Heroku requires adherence to specific patterns to leverage its Platform-as-a-Service (PaaS) strengths. This guide focuses on the **Twelve-Factor App** methodology and Heroku's runtime principles to ensure your applications are scalable, resilient, and maintainable.

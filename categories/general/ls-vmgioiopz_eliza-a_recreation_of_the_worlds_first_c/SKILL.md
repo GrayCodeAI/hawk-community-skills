@@ -1,3 +1,10 @@
+---
+name: ls-vmgioiopz_eliza-a_recreation_of_the_worlds_first_c
+description: "Skill: ls-vmgioiopz_eliza-a_recreation_of_the_worlds_first_c"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VMGIOiOPz-eliza-a-recreation-of-the-worlds-first-chatbot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DINvyW9Gb7hekNJZ8QsMI2Oo?se=2123-10-23T15%3A02%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5eec0488-4add-444c-8123-26bfe444878b.png&sig=uS0sQyjigIqJmR62qugeAq2MmAun2vehzo1Obdpvmf4%3D" width="100px" />

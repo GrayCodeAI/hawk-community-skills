@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-tanstack-query
-description: Cursor rules for nextjs-tanstack-query
-domain: engineering
+description: "Cursor rules for nextjs-tanstack-query"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive Deno best practices for our team, focusing on secure, maintainable, and idiomatic code using Deno's built-in tooling and modern web standards.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-deno
+description: "This guide defines definitive Deno best practices for our team, focusing on secure, maintainable, and idiomatic code using Deno's built-in tooling and modern web standards."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Deno Best Practices
 
 Deno is our runtime of choice for its security, built-in tooling, and first-class TypeScript support. This guide outlines the definitive best practices for writing Deno applications, ensuring consistency, performance, and maintainability across our projects.

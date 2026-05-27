@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building modern, maintainable, and performant Tkinter applications using best practices, ttk, and ttkbootstrap.
-globs: **/*.py
+name: mdc-tkinter
+description: "Definitive guidelines for building modern, maintainable, and performant Tkinter applications using best practices, ttk, and ttkbootstrap."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # tkinter Best Practices
 
 Tkinter is Python's standard GUI toolkit. To build modern, maintainable, and responsive applications in 2025, adhere to these opinionated best practices.

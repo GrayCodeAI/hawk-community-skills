@@ -1,3 +1,10 @@
+---
+name: copilot-code_of_conduct
+description: "Skill: copilot-code_of_conduct"
+license: MIT
+tags: [general]
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

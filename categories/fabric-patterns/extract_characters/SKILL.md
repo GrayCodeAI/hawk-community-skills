@@ -1,9 +1,10 @@
 ---
 name: extract_characters
-description: Fabric pattern - extract_characters
-domain: general
+description: "Fabric pattern - extract_characters"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -88,5 +89,3 @@ The colony’s AI system that actively reallocates power during the dust storm. 
 * Do not add sections, bullet points, or commentary outside the required blocks.
 
 # INPUT
-
-

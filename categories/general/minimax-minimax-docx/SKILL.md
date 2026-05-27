@@ -1,35 +1,15 @@
 ---
-name: minimax-docx
+name: minimax-minimax-docx
+description: "Skill: minimax-minimax-docx"
 license: MIT
-metadata:
-  version: "1.0.0"
-  category: document-processing
-  author: MiniMaxAI
-  sources:
-    - "ECMA-376 Office Open XML File Formats"
-    - "GB/T 9704-2012 Layout Standard for Official Documents"
-    - "IEEE / ACM / APA / MLA / Chicago / Turabian Style Guides"
-    - "Springer LNCS / Nature / HBR Document Templates"
-description: >
-  Professional DOCX document creation, editing, and formatting using OpenXML SDK (.NET).
-  Three pipelines: (A) create new documents from scratch, (B) fill/edit content in existing
-  documents, (C) apply template formatting with XSD validation gate-check.
-  MUST use this skill whenever the user wants to produce, modify, or format a Word document —
-  including when they say "write a report", "draft a proposal", "make a contract",
-  "fill in this form", "reformat to match this template", or any task whose final output
-  is a .docx file. Even if the user doesn't mention "docx" explicitly, if the task
-  implies a printable/formal document, use this skill.
-triggers:
-  - Word
-  - docx
-  - document
-  - 文档
-  - Word文档
-  - 报告
-  - 合同
-  - 公文
-  - 排版
-  - 套模板
+tags: [general]
+metadata: None
+version: 1.0.0
+category: document-processing
+author: MiniMaxAI
+sources: None
+Three pipelines: (A) create new documents from scratch, (B) fill/edit content in existing
+triggers: None
 ---
 
 # minimax-docx

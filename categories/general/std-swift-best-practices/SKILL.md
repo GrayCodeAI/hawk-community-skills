@@ -1,23 +1,14 @@
 ---
-name: swift-best-practices
-description: Apply Guard, Value Types, Immutability, and Naming conventions in Swift. Use when writing idiomatic Swift using guard, value types, immutability, or naming conventions.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - guard
-    - let
-    - struct
-    - final
-    - swift idiomatic
-    - swift naming
-    - swift best practice
-    - swift conventions
-    - value type
-    - immutability swift
-    - guard let
+name: std-swift-best-practices
+description: "Apply Guard, Value Types, Immutability, and Naming conventions in Swift. Use when writing idiomatic Swift using guard, value types, immutability, or naming conventions."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Swift Best Practices
 
 ## **Priority: P0**

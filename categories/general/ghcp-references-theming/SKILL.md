@@ -1,3 +1,10 @@
+---
+name: ghcp-references-theming
+description: "Skill: ghcp-references-theming"
+license: MIT
+tags: [general]
+---
+
 # Theming
 
 ## FluentDesignTheme (recommended)

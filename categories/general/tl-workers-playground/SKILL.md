@@ -1,3 +1,10 @@
+---
+name: tl-workers-playground
+description: "Skill: tl-workers-playground"
+license: MIT
+tags: [general]
+---
+
 # Workers Playground Gotchas
 
 ## Platform Limitations

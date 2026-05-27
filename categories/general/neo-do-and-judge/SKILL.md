@@ -1,6 +1,8 @@
 ---
-name: do-and-judge
-description: Execute a task with sub-agent implementation and LLM-as-a-judge verification with automatic retry loop
+name: neo-do-and-judge
+description: "Execute a task with sub-agent implementation and LLM-as-a-judge verification with automatic retry loop"
+license: MIT
+tags: [general]
 argument-hint: Task description (e.g., "Refactor the UserService class to use dependency injection")
 ---
 

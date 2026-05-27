@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, performant, and maintainable Python code using Hugging Face Transformers and the Hugging Face Hub.
-globs: **/*.py
+name: mdc-huggingface
+description: "Definitive guidelines for writing robust, performant, and maintainable Python code using Hugging Face Transformers and the Hugging Face Hub."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Hugging Face Best Practices
 
 This guide establishes the definitive coding standards for developing with Hugging Face libraries, particularly `transformers`, and interacting with the Hugging Face Hub. Adherence ensures high-quality, performant, and maintainable ML code.

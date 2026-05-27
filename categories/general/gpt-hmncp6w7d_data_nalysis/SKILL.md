@@ -1,3 +1,10 @@
+---
+name: gpt-hmncp6w7d_data_nalysis
+description: "Skill: gpt-hmncp6w7d_data_nalysis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HMNcP6w7d-data-analysis
 
 GPT Title: Data Analysis

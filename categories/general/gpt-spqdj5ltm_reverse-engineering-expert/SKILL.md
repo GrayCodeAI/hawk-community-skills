@@ -1,3 +1,10 @@
+---
+name: gpt-spqdj5ltm_reverse-engineering-expert
+description: "Skill: gpt-spqdj5ltm_reverse-engineering-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SpQDj5LtM-reverse-engineering-expert
 
 GPT Title: Reverse Engineering Expert

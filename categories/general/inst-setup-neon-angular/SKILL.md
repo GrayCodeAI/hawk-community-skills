@@ -1,3 +1,10 @@
+---
+name: inst-setup-neon-angular
+description: "Skill: inst-setup-neon-angular"
+license: MIT
+tags: [general]
+---
+
 # Neon + Angular Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Neon serverless Postgres with an Angular application.
@@ -271,4 +278,4 @@ Common issues and solutions:
 
 - [Neon Documentation](https://neon.tech/docs)
 - [Angular Documentation](https://angular.io/docs)
-- [TypeScript Documentation](https://www.typescriptlang.org/) 
+- [TypeScript Documentation](https://www.typescriptlang.org/)

@@ -1,6 +1,8 @@
 ---
-description: 'Define and handle custom events in PCF components'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-events.instructions
+description: "Skill: ghcp-instructions-pcf-events.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Define Events (Preview)

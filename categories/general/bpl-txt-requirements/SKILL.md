@@ -1,9 +1,10 @@
 ---
-name: bpl-requirements
-description: System prompt - requirements
-domain: general
+name: bpl-txt-requirements
+description: "System prompt - requirements"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

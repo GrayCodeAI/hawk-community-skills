@@ -1,15 +1,17 @@
 ---
-name: "Daily Issues Report"
+name: ghcp-workflows-daily-issues-report
 description: "Generates a daily summary of open issues and recent activity as a GitHub issue"
-on:
-  schedule: daily on weekdays
-permissions:
-  contents: read
-  issues: read
-safe-outputs:
-  create-issue:
-    title-prefix: "[daily-report] "
-    labels: [report]
+license: MIT
+tags: [general]
+True: None
+schedule: daily on weekdays
+permissions: None
+contents: read
+issues: read
+safe-outputs: None
+create-issue: None
+title-prefix: [daily-report]
+labels: [report]
 ---
 
 ## Daily Issues Report

@@ -1,8 +1,10 @@
 ---
-name: synthflow-ai-automation
+name: composio-synthflow-ai-automation
 description: "Automate Synthflow AI tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Synthflow AI Automation via Rube MCP

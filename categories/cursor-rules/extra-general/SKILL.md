@@ -1,7 +1,9 @@
 ---
-description: 项目通用规范
-globs:
-alwaysApply: true
+name: extra-general
+description: "项目通用规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # 项目通用规范（待移除）
@@ -39,4 +41,3 @@ alwaysApply: true
 - document.mdc：文档规范
 - git.mdc：Git提交规范
 - xxx.mdc：XXX 语言开发规范
-

@@ -1,13 +1,8 @@
 ---
-name: agent-benchmark-suite
-description: Agent skill for benchmark-suite - invoke with $agent-benchmark-suite
----
-
----
-name: Benchmark Suite
-type: agent
-category: optimization
-description: Comprehensive performance benchmarking, regression detection and performance validation
+name: flow-agent-benchmark-suite
+description: "Agent skill for benchmark-suite - invoke with $agent-benchmark-suite"
+license: MIT
+tags: [general]
 ---
 
 # Benchmark Suite Agent

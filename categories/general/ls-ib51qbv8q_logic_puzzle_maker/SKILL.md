@@ -1,3 +1,10 @@
+---
+name: ls-ib51qbv8q_logic_puzzle_maker
+description: "Skill: ls-ib51qbv8q_logic_puzzle_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ib51QBV8Q-logic-puzzle-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gtZLpenzRbn9GsZPa6P6Oy7J?se=2124-01-11T19%3A54%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da8edd11d-d9a1-4da9-983d-6e2ca8f14bcd.png&sig=IpL%2BvMIj1KCub76YIcrMdsf70XV%2BZfbLpY/R4YE1s90%3D" width="100px" />

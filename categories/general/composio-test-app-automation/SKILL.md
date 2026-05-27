@@ -1,8 +1,10 @@
 ---
-name: test-app-automation
+name: composio-test-app-automation
 description: "Automate Test App tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Test App Automation via Rube MCP

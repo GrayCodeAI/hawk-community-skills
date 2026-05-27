@@ -1,9 +1,10 @@
 ---
 name: persona-philosopher
-description: AI persona - philosopher
-domain: general
+description: "AI persona - philosopher"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

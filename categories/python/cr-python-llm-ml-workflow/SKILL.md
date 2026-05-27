@@ -1,9 +1,10 @@
 ---
 name: cr-python-llm-ml-workflow
-description: Cursor rules for python-llm-ml-workflow
-domain: engineering
+description: "Cursor rules for python-llm-ml-workflow"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -112,4 +113,3 @@ author: PatrickJS/awesome-cursorrules
 - **If a request is unclear or lacks sufficient information, ask clarifying questions before proceeding.**
 - **Always consider the security implications of your code, especially when dealing with user inputs and external data.**
 - **Actively use and promote best practices for the specific tasks at hand (LLM app development, data cleaning, demo creation, etc.).**
-

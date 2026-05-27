@@ -1,7 +1,9 @@
 ---
-description: Reusable AppleScript patterns for automated screenshot capture for documentation and testing
-globs: "**/*.applescript, **/screenshot-*.js"
-alwaysApply: false
+name: extra-screenshot-automation
+description: "Reusable AppleScript patterns for automated screenshot capture for documentation and testing"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Screenshot Automation Guide

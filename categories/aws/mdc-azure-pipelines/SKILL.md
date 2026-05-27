@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing secure, performant, and maintainable Azure Pipelines using YAML, focusing on modern CI/CD patterns and common pitfalls.
-globs: **/*
+name: mdc-azure-pipelines
+description: "This guide provides opinionated, actionable best practices for writing secure, performant, and maintainable Azure Pipelines using YAML, focusing on modern CI/CD patterns and common pitfalls."
+license: MIT
+tags: [aws]
 ---
+
 # azure-pipelines Best Practices
 
 Azure Pipelines are the backbone of modern CI/CD. This guide enforces a YAML-first, security-conscious, and highly automated approach to pipeline development.

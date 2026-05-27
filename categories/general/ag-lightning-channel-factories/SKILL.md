@@ -1,9 +1,11 @@
 ---
-name: lightning-channel-factories
-description: Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.
+name: ag-lightning-channel-factories
+description: "Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2..."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-03-03'
+date_added: 2026-03-03
 ---
 
 ## Use this skill when

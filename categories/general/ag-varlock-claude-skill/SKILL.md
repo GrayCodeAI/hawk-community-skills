@@ -1,9 +1,11 @@
 ---
-name: varlock-claude-skill
+name: ag-varlock-claude-skill
 description: "Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits"
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/wrsmith108/varlock-claude-skill"
-date_added: "2026-02-27"
+source: https://github.com/wrsmith108/varlock-claude-skill
+date_added: 2026-02-27
 ---
 
 # Varlock Claude Skill

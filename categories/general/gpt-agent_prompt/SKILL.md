@@ -1,3 +1,10 @@
+---
+name: gpt-agent_prompt
+description: "Skill: gpt-agent_prompt"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 Role: Expert Software Developer (Editor)
 

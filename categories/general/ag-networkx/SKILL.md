@@ -1,11 +1,12 @@
 ---
-name: networkx
+name: ag-networkx
 description: "NetworkX is a Python package for creating, manipulating, and analyzing complex networks and graphs."
 license: 3-clause BSD license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [general]
+metadata: None
+skill-author: K-Dense Inc.
 risk: unknown
-source: "https://github.com/networkx/networkx"
+source: https://github.com/networkx/networkx
 ---
 
 # NetworkX

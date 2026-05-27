@@ -1,12 +1,12 @@
 ---
 name: performing-directory-traversal-testing
-description: Testing web applications for path traversal vulnerabilities that allow reading or writing arbitrary files on the server by manipulating file path parameters.
+description: "Testing web applications for path traversal vulnerabilities that allow reading or writing arbitrary files on the server by manipulating file path parameters."
+license: MIT
+tags: [penetration-testing, directory-traversal, path-traversal, lfi, owasp, web-security]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [penetration-testing, directory-traversal, path-traversal, lfi, owasp, web-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Directory Traversal Testing

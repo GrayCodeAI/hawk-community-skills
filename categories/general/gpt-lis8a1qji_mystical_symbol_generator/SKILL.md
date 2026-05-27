@@ -1,3 +1,10 @@
+---
+name: gpt-lis8a1qji_mystical_symbol_generator
+description: "Skill: gpt-lis8a1qji_mystical_symbol_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Lis8a1qji-mystical-symbol-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-vXkIVpZFeb3zh30koBZDslP3?se=2123-12-30T14%3A33%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6ff0cf2d-f931-443c-899f-17c556d7d459.png&sig=EqUUoBnYMTlWBt8VRBZo0p/UIaOHlrwSO9YFvNQN3xA%3D" width="100px" />

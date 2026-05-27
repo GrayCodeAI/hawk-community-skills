@@ -1,3 +1,10 @@
+---
+name: ghcp-references-msys2
+description: "Skill: ghcp-references-msys2"
+license: MIT
+tags: [general]
+---
+
 # MSYS2 Reference
 
 MSYS2 provides a collection of tools and libraries for building, installing, and running native Windows software. It uses Pacman (from Arch Linux) for package management.

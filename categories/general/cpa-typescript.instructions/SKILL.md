@@ -1,3 +1,10 @@
+---
+name: cpa-typescript.instructions
+description: "Skill: cpa-typescript.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this TypeScript project. The goal is to ensure consistent, high-quality code generation aligned with TypeScript conventions, modern tooling, and our architecture standards.

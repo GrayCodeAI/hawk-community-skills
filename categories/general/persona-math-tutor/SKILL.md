@@ -1,9 +1,10 @@
 ---
 name: persona-math-tutor
-description: AI persona - math-tutor
-domain: general
+description: "AI persona - math-tutor"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

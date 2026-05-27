@@ -1,3 +1,10 @@
+---
+name: tl-workers
+description: "Skill: tl-workers"
+license: MIT
+tags: [general]
+---
+
 # Workers Gotchas
 
 ## Common Errors

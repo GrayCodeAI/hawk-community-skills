@@ -1,9 +1,11 @@
 ---
-name: kpi-dashboard-design
+name: ag-kpi-dashboard-design
 description: "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # KPI Dashboard Design

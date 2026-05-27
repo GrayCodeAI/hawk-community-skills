@@ -1,8 +1,10 @@
 ---
-name: brightdata-automation
+name: composio-brightdata-automation
 description: "Automate Brightdata tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Brightdata Automation via Rube MCP

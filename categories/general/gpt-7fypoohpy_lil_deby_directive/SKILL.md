@@ -1,3 +1,10 @@
+---
+name: gpt-7fypoohpy_lil_deby_directive
+description: "Skill: gpt-7fypoohpy_lil_deby_directive"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7FYpOOHpy-lil-deby-directive
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-K6pztK2bRS3EGCneq5Zq1EgE?se=2124-01-11T16%3A53%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dchadxai.stars_Deep_within_a_cartoon_world_where_every_appliance_a482b2db-d0c3-40cb-8eb9-9bfe3c13d834.png&sig=43vTCkokOXlfm9PyE4cuQj8mnf58i60301u3kNUgDwQ%3D" width="100px" />

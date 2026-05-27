@@ -1,6 +1,8 @@
 ---
-description: 'Azure Verified Modules (AVM) and Bicep'
-applyTo: '**/*.bicep, **/*.bicepparam'
+name: ghcp-instructions-azure-verified-modules-bicep.i
+description: "Skill: ghcp-instructions-azure-verified-modules-bicep.i"
+license: MIT
+tags: [general]
 ---
 
 # Azure Verified Modules (AVM) Bicep

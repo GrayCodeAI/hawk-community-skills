@@ -1,14 +1,12 @@
 ---
-name: shopify-admin-file-storage-audit
-role: store-management
+name: shopify-shopify-admin-file-storage-audit
 description: "Read-only: lists every file in CDN storage, cross-references usage on products, pages, and articles, and flags orphaned/unreferenced assets."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - files:query
-  - products:query
-  - pages:query
-  - articles:query
+api_version: 2025-01
+graphql_operations: [{'files': 'query'}, {'products': 'query'}, {'pages': 'query'}, {'articles': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

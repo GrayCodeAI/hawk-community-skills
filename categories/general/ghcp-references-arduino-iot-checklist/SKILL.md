@@ -1,3 +1,10 @@
+---
+name: ghcp-references-arduino-iot-checklist
+description: "Skill: ghcp-references-arduino-iot-checklist"
+license: MIT
+tags: [general]
+---
+
 # Arduino Azure IoT Checklist
 
 Use this checklist before finalizing architecture or implementation guidance.

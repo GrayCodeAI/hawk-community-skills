@@ -1,23 +1,14 @@
 ---
-name: common-mobile-ux-core
-description: Enforce universal mobile UX principles for touch-first interfaces including touch targets, safe areas, and mobile-specific interaction patterns. Use when building mobile screens, handling touch interactions, or validating safe area compliance.
-metadata:
-  triggers:
-    files:
-    - '**/*_page.dart'
-    - '**/*_screen.dart'
-    - '**/*_view.dart'
-    - '**/*.swift'
-    - '**/*Activity.kt'
-    - '**/*Screen.tsx'
-    keywords:
-    - mobile
-    - responsive
-    - SafeArea
-    - touch
-    - gesture
-    - viewport
+name: std-common-mobile-ux-core
+description: "Enforce universal mobile UX principles for touch-first interfaces including touch targets, safe areas, and mobile-specific interaction patterns. Use when building mobile screens, handling touch int..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Mobile UX Core
 
 ## **Priority: P0 (CRITICAL)**

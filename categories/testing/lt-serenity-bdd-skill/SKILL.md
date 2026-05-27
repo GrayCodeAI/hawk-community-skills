@@ -1,17 +1,8 @@
 ---
-name: serenity-bdd-skill
-description: >
-  Generates Serenity BDD tests in Java with Screenplay pattern, rich reporting,
-  and Cucumber integration. Use when user mentions "Serenity", "Screenplay",
-  "@Steps", "Serenity BDD". Triggers on: "Serenity BDD", "Screenplay pattern",
-  "@Steps", "Serenity report".
-languages:
-  - Java
-category: bdd-testing
+name: lt-serenity-bdd-skill
+description: "Skill: lt-serenity-bdd-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Serenity BDD Skill

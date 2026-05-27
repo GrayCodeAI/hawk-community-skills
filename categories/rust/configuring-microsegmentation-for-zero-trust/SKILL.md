@@ -1,28 +1,13 @@
 ---
 name: configuring-microsegmentation-for-zero-trust
 description: Configuring Microsegmentation For Zero Trust
+license: MIT
+tags:
+- cybersecurity
 domain: cybersecurity
 subdomain: security-operations
-tags: [cybersecurity]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
----
-
-# Configuring Microsegmentation for Zero Trust
-
----
-domain: cybersecurity
-subdomain: zero-trust-architecture
-author: mahipal
-tags: [zero-trust, microsegmentation, network-access, lateral-movement, network-security]
-difficulty: advanced
-estimated_time: 4-6 hours
-prerequisites:
-  - Understanding of zero trust principles (NIST SP 800-207)
-  - Knowledge of network segmentation concepts
-  - Familiarity with firewall and SDN technologies
-  - Experience with VMware NSX, Illumio, Guardicore, or Cisco ACI
 ---
 
 ## Overview

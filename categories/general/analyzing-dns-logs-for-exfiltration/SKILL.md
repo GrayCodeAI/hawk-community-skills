@@ -1,17 +1,14 @@
 ---
 name: analyzing-dns-logs-for-exfiltration
-description: >
-  Analyzes DNS query logs to detect data exfiltration via DNS tunneling, DGA domain communication,
-  and covert C2 channels using entropy analysis, query volume anomalies, and subdomain length
-  detection in SIEM platforms. Use when SOC teams need to identify DNS-based threats that bypass
-  traditional network security controls.
+description: "Analyzes DNS query logs to detect data exfiltration via DNS tunneling, DGA domain communication, and covert C2 channels using entropy analysis, query volume anomalies, and subdomain length detectio..."
+license: MIT
+tags: [soc, dns, exfiltration, dns-tunneling, dga, c2-detection, splunk, threat-detection]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, dns, exfiltration, dns-tunneling, dga, c2-detection, splunk, threat-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Analyzing DNS Logs for Exfiltration
 
 ## When to Use

@@ -1,12 +1,12 @@
 ---
 name: create_story_about_people_interaction
-description: Fabric pattern - create_story_about_people_interaction
-domain: general
+description: "Fabric pattern - create_story_about_people_interaction"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
-
 
 ### Prompt
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-resttestclient
+description: "Skill: ghcp-references-resttestclient"
+license: MIT
+tags: [general]
+---
+
 # RestTestClient
 
 Modern REST client testing with Spring Boot 4+ (replaces TestRestTemplate).

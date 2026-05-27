@@ -1,9 +1,10 @@
 ---
 name: find_logical_fallacies
-description: Fabric pattern - find_logical_fallacies
-domain: general
+description: "Fabric pattern - find_logical_fallacies"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

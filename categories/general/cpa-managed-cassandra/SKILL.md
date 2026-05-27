@@ -1,3 +1,10 @@
+---
+name: cpa-managed-cassandra
+description: "Skill: cpa-managed-cassandra"
+license: MIT
+tags: [general]
+---
+
 # az managed-cassandra
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-compact-2-1-133
+description: "Skill: ls-compact-2-1-133"
+license: MIT
+tags: [general]
+---
+
 CRITICAL: Respond with TEXT ONLY. Do NOT call any tools.
 
 - Do NOT use Read, Bash, Grep, Glob, Edit, Write, or ANY other tool.

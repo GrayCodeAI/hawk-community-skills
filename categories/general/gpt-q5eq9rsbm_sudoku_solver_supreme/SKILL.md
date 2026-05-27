@@ -1,3 +1,10 @@
+---
+name: gpt-q5eq9rsbm_sudoku_solver_supreme
+description: "Skill: gpt-q5eq9rsbm_sudoku_solver_supreme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Q5eQ9RSBM-sudoku-solver-supreme
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-mqbWQoLhmhy2fkRr9AiYAacj?se=2123-11-01T19%3A25%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9c42f6ec-f142-427e-a79d-cf168c13cb3d.png&sig=HYdekOjwO/Wsz8NrZwVkWncEt1XM7qcOEhOz9ANgXmE%3D" width="100px" />

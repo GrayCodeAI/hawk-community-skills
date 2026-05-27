@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-app-router
-description: Cursor rules for nextjs-app-router
-domain: engineering
+description: "Cursor rules for nextjs-app-router"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -44,4 +45,3 @@ const additionalInstructions = `
 6. Follow Next.js naming conventions for special files
 7. Use environment variables for configuration
 `;
-

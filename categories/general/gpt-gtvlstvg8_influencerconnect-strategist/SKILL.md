@@ -1,3 +1,10 @@
+---
+name: gpt-gtvlstvg8_influencerconnect-strategist
+description: "Skill: gpt-gtvlstvg8_influencerconnect-strategist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gTVlSTVg8-influencerconnect-strategist
 
 GPT Title: InfluencerConnect Strategist

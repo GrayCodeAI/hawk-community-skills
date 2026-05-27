@@ -1,3 +1,10 @@
+---
+name: gpt-fdmhl1sno_cosmic-dream
+description: "Skill: gpt-fdmhl1sno_cosmic-dream"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream
 
 GPT Title: Cosmic Dream

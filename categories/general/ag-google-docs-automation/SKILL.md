@@ -1,12 +1,13 @@
 ---
-name: google-docs-automation
+name: ag-google-docs-automation
 description: "Lightweight Google Docs integration with standalone OAuth authentication. No MCP server required."
 license: Apache-2.0
+tags: [general]
 risk: critical
 source: community
-metadata:
-  author: sanjay3290
-  version: "1.0"
+metadata: None
+author: sanjay3290
+version: 1.0
 ---
 
 # Google Docs

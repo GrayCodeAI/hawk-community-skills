@@ -1,3 +1,10 @@
+---
+name: cpa-atmos-terraform.instructions
+description: "Skill: cpa-atmos-terraform.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this Terraform + Atmos project. The goal is to ensure consistent, modular, and environment-aware infrastructure generation aligned with our team's conventions and deployment workflows.

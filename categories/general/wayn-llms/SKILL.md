@@ -1,3 +1,10 @@
+---
+name: wayn-llms
+description: "Skill: wayn-llms"
+license: MIT
+tags: [general]
+---
+
 # Prompt Stack - Open Source - AI Prompts and code generation rules for Prompt Engineering
 
 **[Prompt Stack](https://promptstack.dev)** is an **open-source** searchable collection of AI prompts and code generation rules for prompt engineering, featuring Cursor rules, Bolt.new, Loveable, Windsurf, and Trae; designed to streamline developer workflows.

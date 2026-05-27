@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for structuring, optimizing, and securing GitLab CI/CD pipelines, focusing on modern patterns and avoiding common pitfalls.
-globs: **/*
+name: mdc-gitlab-ci
+description: "This guide provides opinionated, actionable best practices for structuring, optimizing, and securing GitLab CI/CD pipelines, focusing on modern patterns and avoiding common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # gitlab-ci Best Practices
 
 GitLab CI/CD is the backbone of modern DevOps. This guide ensures your `.gitlab-ci.yml` files are robust, maintainable, performant, and secure. Follow these rules rigorously.

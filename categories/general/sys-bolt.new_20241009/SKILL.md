@@ -1,3 +1,10 @@
+---
+name: sys-bolt.new_20241009
+description: "Skill: sys-bolt.new_20241009"
+license: MIT
+tags: [general]
+---
+
 # bolt.new_20241009
 
 source: <https://github.com/stackblitz/bolt.new/blob/main/app/lib/.server/llm/prompts.ts>

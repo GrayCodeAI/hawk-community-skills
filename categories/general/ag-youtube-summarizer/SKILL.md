@@ -1,11 +1,12 @@
 ---
-name: youtube-summarizer
+name: ag-youtube-summarizer
 description: "Extract transcripts from YouTube videos and generate comprehensive, detailed summaries using intelligent analysis frameworks"
+license: MIT
+tags: [video, summarization, transcription, youtube, content-analysis]
 category: content
 risk: safe
 source: community
-tags: "[video, summarization, transcription, youtube, content-analysis]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # youtube-summarizer

@@ -1,6 +1,8 @@
 ---
-name: my-issues
-description: 'List my issues in the current repository'
+name: ghcp-my-issues-skill
+description: "List my issues in the current repository"
+license: MIT
+tags: [general]
 ---
 
 Search the current repo (using #githubRepo for the repo info) and list any issues you find (using #list_issues) that are assigned to me.

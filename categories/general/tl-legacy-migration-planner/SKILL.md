@@ -1,10 +1,11 @@
 ---
-name: legacy-migration-planner
-description: Use when planning legacy system migrations, codebase modernization, monolith decomposition, microservices consolidation, cross-language rewrites, or framework upgrades. Invoke for strangler fig pattern, incremental migration strategy, or refactoring roadmaps. Do NOT use for domain analysis (use domain-analysis), component sizing (use component-identification-sizing), or step-by-step decomposition plans (use decomposition-planning-roadmap).
+name: tl-legacy-migration-planner
+description: "Use when planning legacy system migrations, codebase modernization, monolith decomposition, microservices consolidation, cross-language rewrites, or framework upgrades. Invoke for strangler fig pat..."
 license: CC-BY-4.0
-metadata:
-  author: Felipe Rodrigues - github.com/felipfr
-  version: 1.0.0
+tags: [general]
+metadata: None
+author: Felipe Rodrigues - github.com/felipfr
+version: 1.0.0
 ---
 
 # Legacy Migration Planner

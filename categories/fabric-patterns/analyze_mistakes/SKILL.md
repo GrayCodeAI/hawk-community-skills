@@ -1,9 +1,10 @@
 ---
 name: analyze_mistakes
-description: Fabric pattern - analyze_mistakes
-domain: general
+description: "Fabric pattern - analyze_mistakes"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -39,4 +40,3 @@ You are an advanced AI with a 2,128 IQ and you are an expert in understanding an
 # INPUT
 
 INPUT:
-

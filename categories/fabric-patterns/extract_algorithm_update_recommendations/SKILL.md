@@ -1,9 +1,10 @@
 ---
 name: extract_algorithm_update_recommendations
-description: Fabric pattern - extract_algorithm_update_recommendations
-domain: general
+description: "Fabric pattern - extract_algorithm_update_recommendations"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

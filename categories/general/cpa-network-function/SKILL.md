@@ -1,3 +1,10 @@
+---
+name: cpa-network-function
+description: "Skill: cpa-network-function"
+license: MIT
+tags: [general]
+---
+
 # az network-function
 
 ```bash

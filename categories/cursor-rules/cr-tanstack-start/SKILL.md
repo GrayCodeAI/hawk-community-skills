@@ -1,9 +1,10 @@
 ---
 name: cr-tanstack-start
-description: Cursor rules for tanstack-start
-domain: engineering
+description: "Cursor rules for tanstack-start"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

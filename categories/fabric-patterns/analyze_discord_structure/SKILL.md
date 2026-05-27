@@ -1,9 +1,10 @@
 ---
 name: analyze_discord_structure
-description: Fabric pattern - analyze_discord_structure
-domain: general
+description: "Fabric pattern - analyze_discord_structure"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

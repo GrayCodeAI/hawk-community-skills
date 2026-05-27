@@ -1,3 +1,10 @@
+---
+name: ghcp-references-annotations-overview
+description: "Skill: ghcp-references-annotations-overview"
+license: MIT
+tags: [general]
+---
+
 # Annotations Overview
 
 Annotations allow you to add human or automated feedback to traces, spans, documents, and sessions. Annotations are essential for evaluation, quality assessment, and building training datasets.

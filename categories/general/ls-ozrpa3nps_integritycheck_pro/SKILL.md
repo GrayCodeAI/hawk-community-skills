@@ -1,3 +1,10 @@
+---
+name: ls-ozrpa3nps_integritycheck_pro
+description: "Skill: ls-ozrpa3nps_integritycheck_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-oZrPa3NPs-integritycheck-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lDulKhasjF2FmC5x1up3LoEl?se=2124-01-13T21%3A13%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D_a6d967c1-dcd9-4670-90ff-f248cefd8139.jpg&sig=lNcsx9TkO/sHoJJdnBBnNsAVQ81bDEhjvkzzW3EDP/Q%3D" width="100px" />

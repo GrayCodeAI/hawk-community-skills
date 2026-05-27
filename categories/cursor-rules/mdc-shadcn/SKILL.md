@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for developing with shadcn/ui, ensuring consistent code organization, robust TypeScript, optimal performance, and accessible, maintainable components.
-globs: **/*
+name: mdc-shadcn
+description: "This guide defines definitive best practices for developing with shadcn/ui, ensuring consistent code organization, robust TypeScript, optimal performance, and accessible, maintainable components."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # shadcn Best Practices
 
 This document outlines our team's definitive best practices for developing with `shadcn/ui`. Adhere to these guidelines for all `shadcn` component development and integration.

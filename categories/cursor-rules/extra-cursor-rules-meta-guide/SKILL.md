@@ -1,18 +1,14 @@
 ---
-description: Guidelines for creating and maintaining Cursor rules to ensure consistency and effectiveness.
-globs: .cursor/rules/*.mdc
+name: extra-cursor-rules-meta-guide
+description: Guidelines for creating and maintaining Cursor rules to ensure consistency
+  and effectiveness.
+license: MIT
+tags:
+- cursor-rules
 alwaysApply: true
 ---
 
-- **Required Rule Structure:**
-  ```markdown
-  ---
-  description: Clear, one-line description of what the rule enforces
-  globs: path/to/files/*.ext, other/path/**/*
-  alwaysApply: boolean
-  ---
-
-  - **Main Points in Bold**
+- **Main Points in Bold**
     - Sub-points with details
     - Examples and explanations
   ```
@@ -50,4 +46,4 @@ alwaysApply: true
   - Keep descriptions concise
   - Include both DO and DON'T examples
   - Reference actual code over theoretical examples
-  - Use consistent formatting across rules 
+  - Use consistent formatting across rules

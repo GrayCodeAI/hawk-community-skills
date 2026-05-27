@@ -1,6 +1,8 @@
 ---
-name: appinsights-instrumentation
-description: 'Instrument a webapp to send useful telemetry data to Azure App Insights'
+name: copilot-appinsights-instrumentation
+description: "Instrument a webapp to send useful telemetry data to Azure App Insights"
+license: MIT
+tags: [general]
 ---
 
 # AppInsights instrumentation

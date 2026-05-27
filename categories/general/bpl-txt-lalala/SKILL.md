@@ -1,9 +1,10 @@
 ---
-name: bpl-lalala
-description: System prompt - lalala
-domain: general
+name: bpl-txt-lalala
+description: "System prompt - lalala"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

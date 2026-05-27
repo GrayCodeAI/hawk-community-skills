@@ -1,3 +1,10 @@
+---
+name: gpt-82dedeon3_murder-mystery-mayhem
+description: "Skill: gpt-82dedeon3_murder-mystery-mayhem"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem
 
 GPT title: Murder Mystery Mayhem

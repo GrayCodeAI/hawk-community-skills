@@ -1,3 +1,10 @@
+---
+name: cpa-vpn-gateway
+description: "Skill: cpa-vpn-gateway"
+license: MIT
+tags: [general]
+---
+
 # az network vpn-gateway
 
 ```bash

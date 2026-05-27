@@ -1,10 +1,12 @@
 ---
-name: ecommerce-returns-management
+name: ecom-ecommerce-returns-management
 description: "Optimize e-commerce returns process and reduce return rates. Returns policy design, reverse logistics, root cause analysis, and customer retention through better returns experience."
-metadata:
-  nexscope:
-    emoji: "📥"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 📥
+category: ecommerce
 ---
 
 # E-Commerce Returns Management 📥

@@ -1,7 +1,10 @@
 ---
-description: Applies general rules for Solidity smart contract development, focusing on conciseness, accuracy, and embracing new technologies while skipping AI self-references.
-globs: **/*.sol
+name: mdc-solidity-general-rules
+description: "Applies general rules for Solidity smart contract development, focusing on conciseness, accuracy, and embracing new technologies while skipping AI self-references."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Cut the fluff. Code or detailed explanations only.
 - Keep it casual and brief.
 - Accuracy and depth matter.

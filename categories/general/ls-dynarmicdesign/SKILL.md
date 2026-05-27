@@ -1,3 +1,10 @@
+---
+name: ls-dynarmicdesign
+description: "Skill: ls-dynarmicdesign"
+license: MIT
+tags: [general]
+---
+
 # Dynarmic Design Documentation
 
 Dynarmic is a dynamic recompiler for the ARMv6K architecture. Future plans for dynarmic include

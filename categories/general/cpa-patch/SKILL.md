@@ -1,3 +1,10 @@
+---
+name: cpa-patch
+description: "Skill: cpa-patch"
+license: MIT
+tags: [general]
+---
+
 # az containerapp patch
 
 ```bash

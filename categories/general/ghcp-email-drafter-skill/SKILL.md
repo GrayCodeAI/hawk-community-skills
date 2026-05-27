@@ -1,6 +1,8 @@
 ---
-name: email-drafter
-description: 'Draft and review professional emails that match your personal writing style. Analyzes your sent emails for tone, greeting, structure, and sign-off patterns via WorkIQ, then generates context-aware drafts for any recipient. USE FOR: draft email, write email, compose email, reply email, follow-up email, analyze email tone, email style.'
+name: ghcp-email-drafter-skill
+description: "Draft and review professional emails that match your personal writing style. Analyzes your sent emails for tone, greeting, structure, and sign-off patterns via WorkIQ, then generates context-aware ..."
+license: MIT
+tags: [general]
 ---
 
 # Email Drafter

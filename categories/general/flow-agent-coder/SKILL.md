@@ -1,33 +1,8 @@
 ---
-name: agent-coder
-description: Agent skill for coder - invoke with $agent-coder
----
-
----
-name: coder
-type: developer
-color: "#FF6B35"
-description: Implementation specialist for writing clean, efficient code
-capabilities:
-  - code_generation
-  - refactoring
-  - optimization
-  - api_design
-  - error_handling
-priority: high
-hooks:
-  pre: |
-    echo "💻 Coder agent implementing: $TASK"
-    # Check for existing tests
-    if grep -q "test\|spec" <<< "$TASK"; then
-      echo "⚠️  Remember: Write tests first (TDD)"
-    fi
-  post: |
-    echo "✨ Implementation complete"
-    # Run basic validation
-    if [ -f "package.json" ]; then
-      npm run lint --if-present
-    fi
+name: flow-agent-coder
+description: "Agent skill for coder - invoke with $agent-coder"
+license: MIT
+tags: [general]
 ---
 
 # Code Implementation Agent

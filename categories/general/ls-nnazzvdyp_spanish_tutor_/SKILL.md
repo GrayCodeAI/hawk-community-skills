@@ -1,3 +1,10 @@
+---
+name: ls-nnazzvdyp_spanish_tutor_
+description: "Skill: ls-nnazzvdyp_spanish_tutor_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NnaZzVdYp-spanish-tutor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-X7gRJFT50KO3mivxlF0dfINm?se=2123-12-30T15%3A39%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Diottga_Eva_longoria_eye_catching_level_good_looking_high_class__4e2ec897-67e2-461a-950d-4a8099028d7b.png&sig=PrBXiN6kfMkjbQiwQNtc%2BsouVicDLmyXtXXVPTxmS%2Bk%3D" width="100px" />

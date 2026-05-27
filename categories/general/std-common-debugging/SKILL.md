@@ -1,16 +1,13 @@
 ---
-name: common-debugging
-description: Troubleshoot systematically using the Scientific Method. Use when debugging crashes, tracing errors, diagnosing unexpected behavior, or investigating exceptions.
-metadata:
-  triggers:
-    keywords:
-    - debug
-    - fix bug
-    - crash
-    - error
-    - exception
-    - troubleshooting
+name: std-common-debugging
+description: "Troubleshoot systematically using the Scientific Method. Use when debugging crashes, tracing errors, diagnosing unexpected behavior, or investigating exceptions."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Debugging Expert
 
 ## **Priority: P1 (OPERATIONAL)**

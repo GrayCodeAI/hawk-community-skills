@@ -1,19 +1,14 @@
 ---
-name: react-component-patterns
-description: Build modern React component architecture with composition patterns. Use when designing reusable React components, applying composition patterns, or structuring component hierarchies.
-metadata:
-  triggers:
-    files:
-    - '**/*.jsx'
-    - '**/*.tsx'
-    keywords:
-    - component
-    - props
-    - children
-    - composition
-    - hoc
-    - render-props
+name: std-react-component-patterns
+description: "Build modern React component architecture with composition patterns. Use when designing reusable React components, applying composition patterns, or structuring component hierarchies."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Component Patterns
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,9 +1,10 @@
 ---
 name: audit_consent
-description: Fabric pattern - audit_consent
-domain: general
+description: "Fabric pattern - audit_consent"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

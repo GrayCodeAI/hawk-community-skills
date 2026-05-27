@@ -1,12 +1,8 @@
 ---
-name: makepad-event-action
-description: |
-  CRITICAL: Use for Makepad event and action handling. Triggers on:
-  makepad event, makepad action, Event enum, ActionTrait, handle_event,
-  MouseDown, KeyDown, TouchUpdate, Hit, FingerDown, post_action,
-  makepad 事件, makepad action, 事件处理
-risk: safe
-source: community
+name: ag-makepad-event-action
+description: "Skill: ag-makepad-event-action"
+license: MIT
+tags: [general]
 ---
 
 # Makepad Event/Action Skill

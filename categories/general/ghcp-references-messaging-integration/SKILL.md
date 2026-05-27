@@ -1,3 +1,10 @@
+---
+name: ghcp-references-messaging-integration
+description: "Skill: ghcp-references-messaging-integration"
+license: MIT
+tags: [general]
+---
+
 # Messaging & Integration Patterns
 
 ## Choreography Pattern

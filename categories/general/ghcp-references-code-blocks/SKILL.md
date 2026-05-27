@@ -1,3 +1,10 @@
+---
+name: ghcp-references-code-blocks
+description: "Skill: ghcp-references-code-blocks"
+license: MIT
+tags: [general]
+---
+
 # Creating and highlighting code blocks
 
 Share samples of code with fenced code blocks and enabling syntax highlighting.

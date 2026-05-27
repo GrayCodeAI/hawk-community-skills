@@ -1,3 +1,10 @@
+---
+name: gpt-nfsx3kbn4_reverse-engineering
+description: "Skill: gpt-nfsx3kbn4_reverse-engineering"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Nfsx3kBN4-reverse-engineering
 
 GPT Title: Reverse Engineering

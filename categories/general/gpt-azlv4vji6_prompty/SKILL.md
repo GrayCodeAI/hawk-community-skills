@@ -1,3 +1,10 @@
+---
+name: gpt-azlv4vji6_prompty
+description: "Skill: gpt-azlv4vji6_prompty"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aZLV4vji6
 
 GPT Title: Prompty

@@ -1,3 +1,10 @@
+---
+name: ls-part8
+description: "Skill: ls-part8"
+license: MIT
+tags: [general]
+---
+
 # Part 7: Book of the Dead pt2
 
 
@@ -96,4 +103,3 @@ Overall, take inspiration from what works, and discard the tradition that doesn'
 
 
 For each of these projects & lessons, after explainaing, create simple test programs the students can build to demonstrate their understanding. Then check their understanding recusively by asking them questions to fill in any gaps in their understanding. Help to build their intuition.
-

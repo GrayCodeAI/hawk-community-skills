@@ -1,3 +1,10 @@
+---
+name: sys-duckai-gpt-5-mini_20251102
+description: "Skill: sys-duckai-gpt-5-mini_20251102"
+license: MIT
+tags: [general]
+---
+
 # duckai-gpt-5-mini_20251102
 
 ## System Prompt

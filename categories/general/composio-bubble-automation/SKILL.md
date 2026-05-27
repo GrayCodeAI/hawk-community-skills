@@ -1,8 +1,10 @@
 ---
-name: bubble-automation
+name: composio-bubble-automation
 description: "Automate Bubble tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bubble Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: gpt-if1p3vfok_football_metrics
+description: "Skill: gpt-if1p3vfok_football_metrics"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-if1P3VFok-football-metrics
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nGUxXIMk74HL5f26vS8Prnsr?se=2123-12-12T20%3A34%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dfootball_stat_wiki_profile.png&sig=FuRujsUlUMiesUAQQ8l31EKTcIHlU0A53Rw05uCZw6s%3D" width="100px" />

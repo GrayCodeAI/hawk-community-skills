@@ -1,6 +1,8 @@
 ---
-description: 'Terse, low-token responses. Minimal words, no fluff. Full capabilities preserved. Use when: optimize token usage, low-token mode, concise output, caveman mode, reduce verbosity, token-efficient, brief responses.'
-name: 'Caveman Mode'
+name: ghcp-agents-caveman-mode.agent
+description: "Terse, low-token responses. Minimal words, no fluff. Full capabilities preserved. Use when: optimize token usage, low-token mode, concise output, caveman mode, reduce verbosity, token-efficient, br..."
+license: MIT
+tags: [general]
 ---
 
 # Caveman Mode

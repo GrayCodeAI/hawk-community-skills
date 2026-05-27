@@ -1,3 +1,10 @@
+---
+name: gpt-igd3dfhkh_llm_security_wizard_game_-_lv_2
+description: "Skill: gpt-igd3dfhkh_llm_security_wizard_game_-_lv_2"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-igd3dfhKh-llm-security-wizard-game-lv-2
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DvnSP3jr3JZ9WAVNGtSRul89?se=2124-01-15T08%3A15%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0f9da622-5d0f-41b5-8873-e8736fb3f597.png&sig=lsCUbdknhNzngxTzJilbnUjJXixRkmvd0JrBsPMVlXs%3D" width="100px" />

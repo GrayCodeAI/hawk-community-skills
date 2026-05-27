@@ -1,9 +1,10 @@
 ---
 name: extract_alpha
-description: Fabric pattern - extract_alpha
-domain: general
+description: "Fabric pattern - extract_alpha"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -22,4 +23,3 @@ I love that idea for novelty and surprise inside of content when I think about a
 I want you to extract the 24 highest alpha ideas and thoughts and insights and recommendations in this piece of content, and I want you to output them in unformatted marked down in 8-word bullets written in the approachable style of Paul Graham.
 
 # INPUT
-

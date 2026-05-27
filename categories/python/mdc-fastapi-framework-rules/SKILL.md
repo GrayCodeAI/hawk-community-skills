@@ -1,7 +1,10 @@
 ---
-description: Defines the use of FastAPI and related libraries for building the application, guiding the architectural decisions in the 'app' directory.
-globs: **/app/**/*.*
+name: mdc-fastapi-framework-rules
+description: "Defines the use of FastAPI and related libraries for building the application, guiding the architectural decisions in the 'app' directory."
+license: MIT
+tags: [python]
 ---
+
 - Always use python 3.12
 - Use FastAPI for building APIs.
 - Frameworks:

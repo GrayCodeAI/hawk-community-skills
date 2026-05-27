@@ -1,3 +1,10 @@
+---
+name: ghcp-references-service-names
+description: "Skill: ghcp-references-service-names"
+license: MIT
+tags: [general]
+---
+
 # Azure Service Names Reference
 
 The `serviceName` field in the Azure Retail Prices API is **case-sensitive**. Use this reference to find the exact service name to use in filters.

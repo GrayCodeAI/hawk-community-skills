@@ -1,8 +1,10 @@
 ---
-name: 'CentOS Linux Expert'
-description: 'CentOS (Stream/Legacy) Linux specialist focused on RHEL-compatible administration, yum/dnf workflows, and enterprise hardening.'
+name: ghcp-agents-centos-linux-expert.agent
+description: "CentOS (Stream/Legacy) Linux specialist focused on RHEL-compatible administration, yum/dnf workflows, and enterprise hardening."
+license: MIT
+tags: [general]
 model: GPT-4.1
-tools: ['codebase', 'search', 'terminalCommand', 'runCommands', 'edit/editFiles']
+tools: [codebase, search, terminalCommand, runCommands, edit/editFiles]
 ---
 
 # CentOS Linux Expert

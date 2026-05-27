@@ -1,6 +1,8 @@
 ---
-description: Coding standards and best practices for vanilla JavaScript apps with Clerk Authentication
-globs: "**/*.html, **/*.js"
+name: inst-rule-clerk-javascript-coding-standards
+description: "Coding standards and best practices for vanilla JavaScript apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Coding Standards for Vanilla JavaScript with Clerk Authentication
@@ -369,4 +371,4 @@ function setupAccessibleAuth() {
 12. Use proper type checking and validation
 13. Follow proper file organization
 14. Implement proper error messages and user feedback
-15. Keep the codebase maintainable and well-documented 
+15. Keep the codebase maintainable and well-documented

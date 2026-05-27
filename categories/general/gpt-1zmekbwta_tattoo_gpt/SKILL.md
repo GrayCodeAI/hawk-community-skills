@@ -1,3 +1,10 @@
+---
+name: gpt-1zmekbwta_tattoo_gpt
+description: "Skill: gpt-1zmekbwta_tattoo_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1zMekbWTA-tattoo-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5gbnQcPkuruwkwHjP2ptHmuT?se=2123-10-17T16%3A34%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtattoo%2520gpt.webp&sig=yP9JXK8Sd9nZUp7heSabe4%2BkryFN57%2BEJiDrIet/Vps%3D" width="100px" />

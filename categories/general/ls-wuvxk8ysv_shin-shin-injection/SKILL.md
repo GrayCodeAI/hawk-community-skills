@@ -1,3 +1,10 @@
+---
+name: ls-wuvxk8ysv_shin-shin-injection
+description: "Skill: ls-wuvxk8ysv_shin-shin-injection"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wUVxk8YsV-sinsininziekusiyonninankajue-dui-fu-kenaihirokitiodisangai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kSBuRDpVD9rvpeNGUC8WAvUT?se=2123-11-11T09%3A48%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da78d1a5b-c750-4df5-9f9a-f6b16c7ea81c.png&sig=A%2Bd9%2Bdr3Sqsb/r%2BauPFxHCCb8ZjoPvtwGslmvcCeVVA%3D" width="100px" />

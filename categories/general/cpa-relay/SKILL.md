@@ -1,3 +1,10 @@
+---
+name: cpa-relay
+description: "Skill: cpa-relay"
+license: MIT
+tags: [general]
+---
+
 # az relay
 
 ```bash

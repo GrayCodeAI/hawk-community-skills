@@ -1,12 +1,12 @@
 ---
 name: detecting-azure-service-principal-abuse
-description: Detect and investigate Azure service principal abuse including privilege escalation, credential compromise, admin consent bypass, and unauthorized enumeration in Microsoft Entra ID environments.
+description: "Detect and investigate Azure service principal abuse including privilege escalation, credential compromise, admin consent bypass, and unauthorized enumeration in Microsoft Entra ID environments."
+license: MIT
+tags: [azure, entra-id, service-principal, privilege-escalation, credential-abuse, detection, splunk, sentinel]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [azure, entra-id, service-principal, privilege-escalation, credential-abuse, detection, splunk, sentinel]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Azure Service Principal Abuse

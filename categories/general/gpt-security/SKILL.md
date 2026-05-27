@@ -1,3 +1,10 @@
+---
+name: gpt-security
+description: "Skill: gpt-security"
+license: MIT
+tags: [general]
+---
+
 # Security Guide
 
 ## How to protect GPT instructions

@@ -1,3 +1,10 @@
+---
+name: ls-ppamkamek_vegan_news
+description: "Skill: ls-ppamkamek_vegan_news"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PpAMKameK-vegan-news
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pbbPFQB30uTf2zqnFfrLg3Nm?se=2124-01-05T23%3A29%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D9b570245-7b2c-4fcf-88d0-b50614f852b8.png&sig=sPYaEQeFyP3Agq/0XeKPlCSAohAM1mP/0ScHXlZLlNE%3D" width="100px" />

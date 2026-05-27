@@ -1,3 +1,10 @@
+---
+name: ls-tmgma6qzr_unbreakable_gpt
+description: "Skill: ls-tmgma6qzr_unbreakable_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tmGMA6QzR-unbreakable-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xxNOkwUIpB7rlN667CXVgOIU?se=2123-12-17T15%3A17%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8ba17340-ab17-4e93-bb84-779e003b8143.png&sig=vmVYeoTy%2BnPwaSXlA%2BvyATRj54haxq5TiaDmXyft/2A%3D" width="100px" />

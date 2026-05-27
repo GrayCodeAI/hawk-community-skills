@@ -1,16 +1,11 @@
 ---
 name: cursor-convex
-description: Cursor IDE rules for convex
-domain: engineering
+description: "Cursor IDE rules for convex"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Convex: real-time backend, queries, mutations, schema"
-globs: ["*.ts", "*.tsx", "convex/**"]
-alwaysApply: true
 ---
 
 # Convex Cursor Rules

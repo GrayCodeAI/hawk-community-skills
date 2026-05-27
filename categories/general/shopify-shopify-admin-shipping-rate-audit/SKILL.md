@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-shipping-rate-audit
-role: fulfillment-ops
+name: shopify-shopify-admin-shipping-rate-audit
 description: "Read-only: walks every delivery profile and zone to verify each has at least one valid shipping rate, surfacing zones with no rates or only manual rates."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - deliveryProfiles:query
+api_version: 2025-01
+graphql_operations: [{'deliveryProfiles': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

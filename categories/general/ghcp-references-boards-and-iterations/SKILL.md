@@ -1,3 +1,10 @@
+---
+name: ghcp-references-boards-and-iterations
+description: "Skill: ghcp-references-boards-and-iterations"
+license: MIT
+tags: [general]
+---
+
 # Work Items, Area Paths & Iterations
 
 ## Table of Contents

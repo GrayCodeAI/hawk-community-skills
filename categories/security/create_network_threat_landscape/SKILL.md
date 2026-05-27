@@ -1,9 +1,10 @@
 ---
 name: create_network_threat_landscape
-description: Fabric pattern - create_network_threat_landscape
-domain: general
+description: "Fabric pattern - create_network_threat_landscape"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

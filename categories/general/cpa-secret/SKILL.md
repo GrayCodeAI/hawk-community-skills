@@ -1,3 +1,10 @@
+---
+name: cpa-secret
+description: "Skill: cpa-secret"
+license: MIT
+tags: [general]
+---
+
 # az containerapp secret
 
 ```bash

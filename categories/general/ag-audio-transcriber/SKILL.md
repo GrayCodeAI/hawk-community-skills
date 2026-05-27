@@ -1,11 +1,12 @@
 ---
-name: audio-transcriber
+name: ag-audio-transcriber
 description: "Transform audio recordings into professional Markdown documentation with intelligent summaries using LLM integration"
+license: MIT
+tags: [audio, transcription, whisper, meeting-minutes, speech-to-text]
 category: content
 risk: safe
 source: community
-tags: "[audio, transcription, whisper, meeting-minutes, speech-to-text]"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Purpose

@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing clean, performant, and maintainable Vue 3 applications using modern patterns like the Composition API and Pinia.
-globs: **/*.{vue,js,ts}
+name: mdc-vue
+description: "This guide provides definitive, opinionated best practices for writing clean, performant, and maintainable Vue 3 applications using modern patterns like the Composition API and Pinia."
+license: MIT
+tags: [vue]
 ---
+
 # Vue Best Practices
 
 This document outlines the definitive best practices for Vue 3 development. Adhere to these guidelines to ensure consistent, high-quality, and performant code across our projects.

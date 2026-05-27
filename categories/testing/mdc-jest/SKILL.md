@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and performant Jest tests in JavaScript and TypeScript projects.
-globs: **/*.{js,ts,jsx,tsx}
+name: mdc-jest
+description: "Definitive guidelines for writing robust, maintainable, and performant Jest tests in JavaScript and TypeScript projects."
+license: MIT
+tags: [testing]
 ---
+
 # jest Best Practices
 
 This guide outlines our team's definitive Jest best practices. Adhere to these rules for consistent, reliable, and efficient testing.

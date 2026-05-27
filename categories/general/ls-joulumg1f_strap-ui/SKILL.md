@@ -1,3 +1,10 @@
+---
+name: ls-joulumg1f_strap-ui
+description: "Skill: ls-joulumg1f_strap-ui"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JOulUmG1f-strap-uiGPT name: Strap UI
 
 GPT Title: Strap UI

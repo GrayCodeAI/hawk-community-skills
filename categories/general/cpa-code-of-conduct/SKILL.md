@@ -1,3 +1,10 @@
+---
+name: cpa-code-of-conduct
+description: "Skill: cpa-code-of-conduct"
+license: MIT
+tags: [general]
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

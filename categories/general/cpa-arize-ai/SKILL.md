@@ -1,3 +1,10 @@
+---
+name: cpa-arize-ai
+description: "Skill: cpa-arize-ai"
+license: MIT
+tags: [general]
+---
+
 # az arize-ai
 
 ```bash

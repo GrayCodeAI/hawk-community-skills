@@ -1,3 +1,10 @@
+---
+name: gpt-vdc2faxmi_effortless_book_summary
+description: "Skill: gpt-vdc2faxmi_effortless_book_summary"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Vdc2faxMI-effortless-book-summary
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1NPd5Qt3veAkHDkXy1lPAWfr?se=2123-10-23T21%3A02%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D95497d60-0f15-401a-8921-061e84554e70.png&sig=Da77LKsJfK2UlELRL6WibSPenh5fnQvH2kh0l7zJq8Y%3D" width="100px" />

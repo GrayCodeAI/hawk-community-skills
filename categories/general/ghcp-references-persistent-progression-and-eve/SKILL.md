@@ -1,3 +1,10 @@
+---
+name: ghcp-references-persistent-progression-and-eve
+description: "Skill: ghcp-references-persistent-progression-and-eve"
+license: MIT
+tags: [general]
+---
+
 # Persistent Progression And Event Systems
 
 Use this reference when working on long-running Minecraft server plugins where player progress, economy, perks, buffs, quests, or custom combat events persist beyond a single match.

@@ -1,3 +1,10 @@
+---
+name: tl-component-flattening-analysis
+description: "Skill: tl-component-flattening-analysis"
+license: MIT
+tags: [general]
+---
+
 # Component Flattening Analysis - Quick Reference
 
 ## Component Definition

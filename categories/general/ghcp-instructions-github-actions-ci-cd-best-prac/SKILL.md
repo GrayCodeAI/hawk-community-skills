@@ -1,6 +1,9 @@
 ---
-applyTo: '.github/workflows/*.yml,.github/workflows/*.yaml'
-description: 'Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matrix strategies, testing, and deployment strategies.'
+name: ghcp-instructions-github-actions-ci-cd-best-prac
+description: "Comprehensive guide for building robust, secure, and efficient CI/CD pipelines using GitHub Actions. Covers workflow structure, jobs, steps, environment variables, secret management, caching, matri..."
+license: MIT
+tags: [general]
+applyTo: .github/workflows/*.yml,.github/workflows/*.yaml
 ---
 
 # GitHub Actions CI/CD Best Practices
@@ -604,4 +607,4 @@ GitHub Actions is a powerful and flexible platform for automating your software 
 
 ---
 
-<!-- End of GitHub Actions CI/CD Best Practices Instructions --> 
+<!-- End of GitHub Actions CI/CD Best Practices Instructions -->

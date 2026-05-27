@@ -1,3 +1,10 @@
+---
+name: ghcp-references-tables
+description: "Skill: ghcp-references-tables"
+license: MIT
+tags: [general]
+---
+
 # Organizing information with tables
 
 You can build tables to organize information in comments, issues, pull requests, and wikis.

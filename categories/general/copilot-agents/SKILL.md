@@ -1,3 +1,10 @@
+---
+name: copilot-agents
+description: "Skill: copilot-agents"
+license: MIT
+tags: [general]
+---
+
 # AGENTS.md
 
 ## Project Overview

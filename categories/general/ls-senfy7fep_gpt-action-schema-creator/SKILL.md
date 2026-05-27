@@ -1,3 +1,10 @@
+---
+name: ls-senfy7fep_gpt-action-schema-creator
+description: "Skill: ls-senfy7fep_gpt-action-schema-creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SENFY7fep-gpt-action-schema-creator
 
 GPT Title: GPT Action Schema Creator

@@ -1,9 +1,11 @@
 ---
-name: gitlab-ci-patterns
+name: ag-gitlab-ci-patterns
 description: "Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # GitLab CI Patterns

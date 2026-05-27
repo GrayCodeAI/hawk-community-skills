@@ -1,15 +1,11 @@
 ---
 name: cursor-ci-cd
-description: Cursor IDE rules for ci-cd
-domain: engineering
+description: "Cursor IDE rules for ci-cd"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "CI/CD: pipelines, deployment, automation"
-alwaysApply: true
 ---
 
 # CI/CD Rules

@@ -1,3 +1,10 @@
+---
+name: prompt-AGENTS
+description: "Skill: prompt-AGENTS"
+license: MIT
+tags: [general]
+---
+
 # AGENTS.md
 
 > Guidelines for AI coding agents working on this project.

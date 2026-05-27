@@ -1,3 +1,10 @@
+---
+name: extra-clean
+description: "Skill: extra-clean"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Clean
 
 Fix all code formatting and quality issues in the entire codebase.

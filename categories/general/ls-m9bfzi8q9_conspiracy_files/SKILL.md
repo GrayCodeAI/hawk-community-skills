@@ -1,3 +1,10 @@
+---
+name: ls-m9bfzi8q9_conspiracy_files
+description: "Skill: ls-m9bfzi8q9_conspiracy_files"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-m9bFZI8Q9-conspiracy-files
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nKN0dwPuzuEcQTRnIqBdR09c?se=2124-01-10T09%3A09%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D3dc5a2de-c8d4-403f-b894-13e4b9a14d88.png&sig=DMvLdXmjN%2BYpEei5esDXxBncwlrXklRUi/JB5JGDiwY%3D" width="100px" />

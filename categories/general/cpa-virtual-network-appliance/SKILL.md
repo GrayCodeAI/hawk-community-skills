@@ -1,3 +1,10 @@
+---
+name: cpa-virtual-network-appliance
+description: "Skill: cpa-virtual-network-appliance"
+license: MIT
+tags: [general]
+---
+
 # az network virtual-network-appliance
 
 ```bash

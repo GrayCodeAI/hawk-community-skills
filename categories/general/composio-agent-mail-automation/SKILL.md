@@ -1,8 +1,10 @@
 ---
-name: agent-mail-automation
+name: composio-agent-mail-automation
 description: "Automate Agent Mail tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Agent Mail Automation via Rube MCP

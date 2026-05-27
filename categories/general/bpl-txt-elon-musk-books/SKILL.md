@@ -1,9 +1,10 @@
 ---
-name: bpl-elon-musk-books
-description: System prompt - elon-musk-books
-domain: general
+name: bpl-txt-elon-musk-books
+description: "System prompt - elon-musk-books"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -12343,5 +12344,3 @@ life’s challenges.
 That’s what makes Elon Musk. It’s his tenacity ,
 determination , and inability to consider
 failure that has allowed him to succeed .
-
-

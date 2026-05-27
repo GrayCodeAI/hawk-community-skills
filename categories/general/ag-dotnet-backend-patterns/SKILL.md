@@ -1,9 +1,11 @@
 ---
-name: dotnet-backend-patterns
+name: ag-dotnet-backend-patterns
 description: "Master C#/.NET patterns for building production-grade APIs, MCP servers, and enterprise backends with modern best practices (2024/2025)."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # .NET Backend Development Patterns

@@ -1,3 +1,10 @@
+---
+name: rb-architecture_template
+description: "Skill: rb-architecture_template"
+license: MIT
+tags: [general]
+---
+
 # Architecture Document Template
 
 ## 1. Introduction

@@ -1,6 +1,8 @@
 ---
-description: 'Ruby on Rails coding conventions and guidelines'
-applyTo: '**/*.rb'
+name: ghcp-instructions-ruby-on-rails.instructions
+description: "Skill: ghcp-instructions-ruby-on-rails.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Ruby on Rails

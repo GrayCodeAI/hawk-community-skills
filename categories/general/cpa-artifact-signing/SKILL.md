@@ -1,3 +1,10 @@
+---
+name: cpa-artifact-signing
+description: "Skill: cpa-artifact-signing"
+license: MIT
+tags: [general]
+---
+
 # az artifact-signing
 
 ```bash

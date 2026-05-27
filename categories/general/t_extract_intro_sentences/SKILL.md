@@ -1,9 +1,10 @@
 ---
 name: t_extract_intro_sentences
-description: Fabric pattern - t_extract_intro_sentences
-domain: general
+description: "Fabric pattern - t_extract_intro_sentences"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,9 +1,10 @@
 ---
 name: to_flashcards
-description: Fabric pattern - to_flashcards
-domain: general
+description: "Fabric pattern - to_flashcards"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -63,4 +64,4 @@ header.
 
 # INPUT:
 
-INPUT: 
+INPUT:

@@ -1,3 +1,10 @@
+---
+name: cpa-device
+description: "Skill: cpa-device"
+license: MIT
+tags: [general]
+---
+
 # az iot device
 
 ```bash

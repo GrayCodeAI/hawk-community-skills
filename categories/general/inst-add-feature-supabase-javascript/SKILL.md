@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding features to vanilla JavaScript apps with Supabase Authentication
-globs: "**/*.html, **/*.js"
+name: inst-add-feature-supabase-javascript
+description: "Guidelines for adding features to vanilla JavaScript apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features to Vanilla JavaScript App with Supabase Authentication
@@ -479,4 +481,4 @@ function cleanup() {
 12. Use Supabase's built-in social login providers
 13. Implement proper password reset flows
 14. Use proper security headers in your application
-15. Clean up subscriptions and event listeners when they're no longer needed 
+15. Clean up subscriptions and event listeners when they're no longer needed

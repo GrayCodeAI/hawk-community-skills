@@ -1,3 +1,10 @@
+---
+name: ls-q5npnfkib_santas_helper
+description: "Skill: ls-q5npnfkib_santas_helper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Q5nPNfKiB-santa-s-helper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-qREHt1DRkw8wRmaJtyjIBmp3?se=2123-10-14T20%3A11%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd38896fe-c615-4646-a966-9626558757c7.png&sig=FoBkr/2SSizEcP0KeW2wZsnRUd2Ji3Mlv2bIG5lRcFY%3D" width="100px" />

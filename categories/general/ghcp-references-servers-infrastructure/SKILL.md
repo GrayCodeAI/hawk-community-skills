@@ -1,3 +1,10 @@
+---
+name: ghcp-references-servers-infrastructure
+description: "Skill: ghcp-references-servers-infrastructure"
+license: MIT
+tags: [general]
+---
+
 # Servers & Infrastructure Reference
 
 Web servers, hosting, deployment, and infrastructure concepts.

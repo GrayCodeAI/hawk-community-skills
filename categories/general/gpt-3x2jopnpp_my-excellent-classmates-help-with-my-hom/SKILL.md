@@ -1,3 +1,10 @@
+---
+name: gpt-3x2jopnpp_my-excellent-classmates-help-with-my-hom
+description: "Skill: gpt-3x2jopnpp_my-excellent-classmates-help-with-my-hom"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework
 
 GPT Title: 🎀My excellent classmates (Help with my homework!)

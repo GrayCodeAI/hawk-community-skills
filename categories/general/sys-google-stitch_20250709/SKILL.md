@@ -1,3 +1,10 @@
+---
+name: sys-google-stitch_20250709
+description: "Skill: sys-google-stitch_20250709"
+license: MIT
+tags: [general]
+---
+
 # google-stitch_20250709
 
 ## Q(User)

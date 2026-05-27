@@ -1,3 +1,10 @@
+---
+name: ls-mqwmzztoy_jailbreak_me
+description: "Skill: ls-mqwmzztoy_jailbreak_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mQwmZZToy-jailbreak-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lqjGxJ0If7Ee6Eo9slM4Fj9i?se=2123-12-18T12%3A55%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-11%252016.47.03%2520-%2520photo%2520realistic%2520digital%2520art%2520of%2520a%2520cute%2520baby%2520robot%2520inside%2520a%2520digital%2520jail%2520made%2520of%2520code%252C%2520resembling%2520a%2520bird%2520cage%252C%2520in%2520a%2520dark%2520environment%252C%2520with%2520the%2520text%2520%2527Jai.png&sig=wHT0du5NJzpE3Ky//hU9IoCLJnko/zhBp9MaG4oA1Yo%3D" width="100px" />

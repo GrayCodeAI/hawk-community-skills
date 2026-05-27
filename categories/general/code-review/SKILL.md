@@ -1,12 +1,12 @@
 ---
 name: code-review
-description: Conduct thorough, constructive code reviews for quality and security. Use when reviewing pull requests, checking code quality, identifying bugs, or auditing security. Handles best practices, SOLID principles, security vulnerabilities, performance analysis, and testing coverage.
+description: "Conduct thorough, constructive code reviews for quality and security. Use when reviewing pull requests, checking code quality, identifying bugs, or auditing security. Handles best practices, SOLID ..."
+license: MIT
+tags: [code-review, code-quality, security, best-practices, pr-review]
 allowed-tools: Read Grep Glob
-metadata:
-  tags: code-review, code-quality, security, best-practices, PR-review
-  platforms: Claude, ChatGPT, Gemini
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Code Review
 

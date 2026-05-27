@@ -1,9 +1,10 @@
 ---
 name: extract_product_features
-description: Fabric pattern - extract_product_features
-domain: general
+description: "Fabric pattern - extract_product_features"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

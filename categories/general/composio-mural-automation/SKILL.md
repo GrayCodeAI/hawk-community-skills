@@ -1,8 +1,10 @@
 ---
-name: mural-automation
+name: composio-mural-automation
 description: "Automate Mural tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mural Automation via Rube MCP

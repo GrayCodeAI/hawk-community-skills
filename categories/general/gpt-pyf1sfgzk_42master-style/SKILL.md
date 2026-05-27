@@ -1,3 +1,10 @@
+---
+name: gpt-pyf1sfgzk_42master-style
+description: "Skill: gpt-pyf1sfgzk_42master-style"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pyF1sFgzK-42master-style
 
 GPT Title: 42master-Style

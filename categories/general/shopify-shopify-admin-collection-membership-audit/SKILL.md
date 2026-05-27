@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-collection-membership-audit
-role: merchandising
+name: shopify-shopify-admin-collection-membership-audit
 description: "Read-only: lists orphan products (in zero collections) and over-collected products for catalog hygiene."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - collections:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'collections': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

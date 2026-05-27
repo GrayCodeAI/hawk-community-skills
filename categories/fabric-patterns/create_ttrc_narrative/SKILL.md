@@ -1,9 +1,10 @@
 ---
 name: create_ttrc_narrative
-description: Fabric pattern - create_ttrc_narrative
-domain: general
+description: "Fabric pattern - create_ttrc_narrative"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

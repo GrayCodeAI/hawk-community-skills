@@ -1,9 +1,11 @@
 ---
-name: app-store-changelog
-description: Generate user-facing App Store release notes from git history since the last tag.
+name: ag-app-store-changelog
+description: "Generate user-facing App Store release notes from git history since the last tag."
+license: MIT
+tags: [general]
 risk: safe
-source: "Dimillian/Skills (MIT)"
-date_added: "2026-03-25"
+source: Dimillian/Skills (MIT)
+date_added: 2026-03-25
 ---
 
 # App Store Changelog

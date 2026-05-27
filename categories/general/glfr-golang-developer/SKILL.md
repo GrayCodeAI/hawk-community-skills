@@ -1,7 +1,9 @@
 ---
-name: golang-developer
-description: Go concurrency patterns, interfaces, error handling, testing, and module management
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-golang-developer
+description: "Go concurrency patterns, interfaces, error handling, testing, and module management"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

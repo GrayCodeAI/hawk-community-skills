@@ -1,9 +1,10 @@
 ---
 name: cr-playwright-accessibility-testing
-description: Cursor rules for playwright-accessibility-testing
-domain: engineering
+description: "Cursor rules for playwright-accessibility-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -105,4 +106,4 @@ test.describe('Login Page Accessibility', () => {
     expect(await errorMessage.getAttribute('aria-live')).toBe('assertive');
   });
 });
-``` 
+```

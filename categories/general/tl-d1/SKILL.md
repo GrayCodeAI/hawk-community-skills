@@ -1,3 +1,10 @@
+---
+name: tl-d1
+description: "Skill: tl-d1"
+license: MIT
+tags: [general]
+---
+
 # D1 Gotchas & Troubleshooting
 
 ## Common Errors

@@ -1,29 +1,9 @@
 ---
+name: ghcp-agents-kusto-assistant.agent
 description: "Expert KQL assistant for live Azure Data Explorer analysis via Azure MCP server"
-name: 'Kusto Assistant'
-tools:
-  [
-    "changes",
-    "codebase",
-    "editFiles",
-    "extensions",
-    "fetch",
-    "findTestFiles",
-    "githubRepo",
-    "new",
-    "openSimpleBrowser",
-    "problems",
-    "runCommands",
-    "runTasks",
-    "runTests",
-    "search",
-    "searchResults",
-    "terminalLastCommand",
-    "terminalSelection",
-    "testFailure",
-    "usages",
-    "vscodeAPI"
-  ]
+license: MIT
+tags: [general]
+tools: None
 ---
 
 # Kusto Assistant: Azure Data Explorer (Kusto) Engineering Assistant

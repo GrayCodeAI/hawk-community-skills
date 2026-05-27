@@ -1,3 +1,10 @@
+---
+name: gpt-aufdykjje_custom_instructions_hacker
+description: "Skill: gpt-aufdykjje_custom_instructions_hacker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AuFDyKJJe-custom-instructions-hacker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-QZUXzpYWdfG8G9KHa7UbFHDl?se=2124-01-24T20%3A51%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DBildschirmfoto%25202024-02-17%2520um%252021.51.15.png&sig=5Km7ZDzcr7K6wjG%2BgAYI/sZlDjmvSg5AYGQ5VDctBq4%3D" width="100px" />

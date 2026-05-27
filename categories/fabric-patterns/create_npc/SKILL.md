@@ -1,9 +1,10 @@
 ---
 name: create_npc
-description: Fabric pattern - create_npc
-domain: general
+description: "Fabric pattern - create_npc"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

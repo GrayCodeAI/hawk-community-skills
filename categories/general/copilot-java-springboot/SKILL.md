@@ -1,6 +1,8 @@
 ---
-name: java-springboot
-description: 'Get best practices for developing applications with Spring Boot.'
+name: copilot-java-springboot
+description: "Get best practices for developing applications with Spring Boot."
+license: MIT
+tags: [general]
 ---
 
 # Spring Boot Best Practices

@@ -1,3 +1,10 @@
+---
+name: gpt-de1mpsric_videoreview-writer
+description: "Skill: gpt-de1mpsric_videoreview-writer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-De1MpsRiC-videoreview-writer
 
 GPT Title: Videoreview Writer

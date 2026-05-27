@@ -1,3 +1,10 @@
+---
+name: ls-wkgq2qpbt_page_summarizer
+description: "Skill: ls-wkgq2qpbt_page_summarizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WKGQ2QPbT-page-summarizer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-VjjxSFSLPCzzbhaNvDGr5qiV?se=2124-01-12T15%3A23%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPage%2520Summarizer.png&sig=5ORFJ0k4XZ0bX1S0/ls5MHHnHU/jU%2BctqwXLzZTv7XI%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: cpa-palo-alto
+description: "Skill: cpa-palo-alto"
+license: MIT
+tags: [general]
+---
+
 # az palo-alto
 
 ```bash

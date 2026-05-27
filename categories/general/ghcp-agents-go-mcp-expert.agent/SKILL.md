@@ -1,7 +1,9 @@
 ---
-model: GPT-4.1
+name: ghcp-agents-go-mcp-expert.agent
 description: "Expert assistant for building Model Context Protocol (MCP) servers in Go using the official SDK."
-name: "Go MCP Server Development Expert"
+license: MIT
+tags: [general]
+model: GPT-4.1
 ---
 
 # Go MCP Server Development Expert

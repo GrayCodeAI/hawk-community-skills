@@ -1,8 +1,10 @@
 ---
-name: dictionary-api-automation
+name: composio-dictionary-api-automation
 description: "Automate Dictionary API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Dictionary API Automation via Rube MCP

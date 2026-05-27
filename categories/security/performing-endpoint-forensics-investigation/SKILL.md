@@ -1,18 +1,14 @@
 ---
 name: performing-endpoint-forensics-investigation
-description: >
-  Performs digital forensics investigation on compromised endpoints including memory acquisition,
-  disk imaging, artifact analysis, and timeline reconstruction. Use when investigating security
-  incidents, collecting evidence for legal proceedings, or analyzing endpoint compromise scope.
-  Activates for requests involving endpoint forensics, memory analysis, disk forensics, or
-  incident investigation.
+description: "Performs digital forensics investigation on compromised endpoints including memory acquisition, disk imaging, artifact analysis, and timeline reconstruction. Use when investigating security inciden..."
+license: MIT
+tags: [endpoint, forensics, memory-analysis, disk-imaging, incident-investigation, volatility]
 domain: cybersecurity
 subdomain: endpoint-security
-tags: [endpoint, forensics, memory-analysis, disk-imaging, incident-investigation, Volatility]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Endpoint Forensics Investigation
 
 ## When to Use

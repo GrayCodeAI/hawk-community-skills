@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-payout-reconciliation
-role: finance
+name: shopify-shopify-admin-payout-reconciliation
 description: "Read-only: reconciles Shopify Payments payouts against the order transactions that funded them and flags amount discrepancies."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - shopifyPaymentsAccount:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'shopifyPaymentsAccount': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

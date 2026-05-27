@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-7-advanced
+description: "Skill: ghcp-references-module-7-advanced"
+license: MIT
+tags: [general]
+---
+
 # Module 7: Advanced Techniques
 
 1. **`@` file mentions** — Always give precise context, don't rely on the AI finding files

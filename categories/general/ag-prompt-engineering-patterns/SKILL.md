@@ -1,9 +1,11 @@
 ---
-name: prompt-engineering-patterns
+name: ag-prompt-engineering-patterns
 description: "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Prompt Engineering Patterns

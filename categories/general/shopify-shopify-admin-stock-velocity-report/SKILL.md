@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-stock-velocity-report
-role: merchandising
+name: shopify-shopify-admin-stock-velocity-report
 description: "Read-only: calculates days-of-supply and sell-through rate per SKU and location for replenishment planning."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - orders:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'orders': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

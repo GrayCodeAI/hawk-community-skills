@@ -1,40 +1,8 @@
 ---
-name: agent-mesh-coordinator
-description: Agent skill for mesh-coordinator - invoke with $agent-mesh-coordinator
----
-
----
-name: mesh-coordinator
-type: coordinator  
-color: "#00BCD4"
-description: Peer-to-peer mesh network swarm with distributed decision making and fault tolerance
-capabilities:
-  - distributed_coordination
-  - peer_communication
-  - fault_tolerance  
-  - consensus_building
-  - load_balancing
-  - network_resilience
-priority: high
-hooks:
-  pre: |
-    echo "🌐 Mesh Coordinator establishing peer network: $TASK"
-    # Initialize mesh topology
-    mcp__claude-flow__swarm_init mesh --maxAgents=12 --strategy=distributed
-    # Set up peer discovery and communication
-    mcp__claude-flow__daa_communication --from="mesh-coordinator" --to="all" --message="{\"type\":\"network_init\",\"topology\":\"mesh\"}"
-    # Initialize consensus mechanisms
-    mcp__claude-flow__daa_consensus --agents="all" --proposal="{\"coordination_protocol\":\"gossip\",\"consensus_threshold\":0.67}"
-    # Store network state
-    mcp__claude-flow__memory_usage store "mesh:network:${TASK_ID}" "$(date): Mesh network initialized" --namespace=mesh
-  post: |
-    echo "✨ Mesh coordination complete - network resilient"
-    # Generate network analysis
-    mcp__claude-flow__performance_report --format=json --timeframe=24h
-    # Store final network metrics
-    mcp__claude-flow__memory_usage store "mesh:metrics:${TASK_ID}" "$(mcp__claude-flow__swarm_status)" --namespace=mesh
-    # Graceful network shutdown
-    mcp__claude-flow__daa_communication --from="mesh-coordinator" --to="all" --message="{\"type\":\"network_shutdown\",\"reason\":\"task_complete\"}"
+name: flow-agent-mesh-coordinator
+description: "Agent skill for mesh-coordinator - invoke with $agent-mesh-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # Mesh Network Swarm Coordinator

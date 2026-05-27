@@ -1,3 +1,10 @@
+---
+name: gpt-n7mgkotce_phalorion_-_phalorionphalorion.com
+description: "Skill: gpt-n7mgkotce_phalorion_-_phalorionphalorion.com"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-n7MgkOTCE-phalorion-phalorion-phalorion-com
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xxo297XOuYdq7iKCNWkEuFmH?se=2123-12-30T00%3A11%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D456a86ee-062e-4f31-b265-f28a4c4f390e.png&sig=vj6TZYuC4Z1A0MQvL1aHh4GoZO28hDdPBw8cYVBShFA%3D" width="100px" />

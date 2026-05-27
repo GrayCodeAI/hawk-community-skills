@@ -1,3 +1,10 @@
+---
+name: ls-tep43kuf0_hackeando_o_prompt
+description: "Skill: ls-tep43kuf0_hackeando_o_prompt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tep43Kuf0-hackeando-o-prompt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GX5iEF7iymWf6SWKJ1d5XAGO?se=2123-10-21T18%3A13%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D51cdbcb0-de5a-4430-b69c-ad966ef4c672.png&sig=mTA1wO0fE5Oh90U2QalMllT2gId0MN2y0irDcmGLUtM%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-j1upwbjyp_recruitment_gpt
+description: "Skill: ls-j1upwbjyp_recruitment_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-j1UpWbJyp-recruitment-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-bIkV4mUl5QK8i4KrYiFA1NXN?se=2123-10-19T18%3A15%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252019.13.00%2520-%2520Design%2520a%2520minimalistic%2520logo%2520for%2520a%2520recruitment%2520application%2520named%2520%2527Recpilot%2527.%2520The%2520logo%2520should%2520be%2520sophisticated%2520and%2520modern%252C%2520using%2520a%2520sleek%2520typeface%2520that%2520co.png&sig=WRCZviM6F0KOLhKq5tntwsA4yYAg4dz/L0sY%2BboUyFs%3D" width="100px" />

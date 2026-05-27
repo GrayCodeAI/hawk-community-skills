@@ -1,3 +1,10 @@
+---
+name: ghcp-references-workflows-and-patterns
+description: "Skill: ghcp-references-workflows-and-patterns"
+license: MIT
+tags: [general]
+---
+
 # Workflows, Best Practices & Scripting Patterns
 
 ## Table of Contents

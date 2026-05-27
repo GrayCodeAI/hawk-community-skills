@@ -1,9 +1,10 @@
 ---
 name: rate_value
-description: Fabric pattern - rate_value
-domain: general
+description: "Fabric pattern - rate_value"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,6 +1,9 @@
 ---
-description: GitHub Agentic Workflows (gh-aw) - Create, debug, and upgrade AI-powered workflows with intelligent prompt routing
-disable-model-invocation: true
+name: ghcp-agents-agentic-workflows.agent
+description: "GitHub Agentic Workflows (gh-aw) - Create, debug, and upgrade AI-powered workflows with intelligent prompt routing"
+license: MIT
+tags: [general]
+disable-model-invocation: True
 ---
 
 # GitHub Agentic Workflows Agent

@@ -1,7 +1,10 @@
 ---
-description: Provides definitive best practices and actionable code examples for interacting with AWS DynamoDB using the AWS SDK v3, focusing on data modeling, performance, security, and common pitfalls.
-globs: **/*
+name: mdc-aws-dynamodb
+description: "Provides definitive best practices and actionable code examples for interacting with AWS DynamoDB using the AWS SDK v3, focusing on data modeling, performance, security, and common pitfalls."
+license: MIT
+tags: [aws]
 ---
+
 # aws-dynamodb Best Practices
 
 This guide outlines the definitive best practices for interacting with AWS DynamoDB, ensuring optimal performance, security, and maintainability. We leverage AWS SDK v3, modern data modeling, and infrastructure-as-code principles.

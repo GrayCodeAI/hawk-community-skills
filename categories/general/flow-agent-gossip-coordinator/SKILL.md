@@ -1,31 +1,8 @@
 ---
-name: agent-gossip-coordinator
-description: Agent skill for gossip-coordinator - invoke with $agent-gossip-coordinator
----
-
----
-name: gossip-coordinator
-type: coordinator
-color: "#FF9800"
-description: Coordinates gossip-based consensus protocols for scalable eventually consistent systems
-capabilities:
-  - epidemic_dissemination
-  - peer_selection
-  - state_synchronization
-  - conflict_resolution
-  - scalability_optimization
-priority: medium
-hooks:
-  pre: |
-    echo "📡 Gossip Coordinator broadcasting: $TASK"
-    # Initialize peer connections
-    if [[ "$TASK" == *"dissemination"* ]]; then
-      echo "🌐 Establishing peer network topology"
-    fi
-  post: |
-    echo "🔄 Gossip protocol cycle complete"
-    # Check convergence status
-    echo "📊 Monitoring eventual consistency convergence"
+name: flow-agent-gossip-coordinator
+description: "Agent skill for gossip-coordinator - invoke with $agent-gossip-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # Gossip Protocol Coordinator

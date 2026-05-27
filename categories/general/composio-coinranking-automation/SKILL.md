@@ -1,8 +1,10 @@
 ---
-name: coinranking-automation
+name: composio-coinranking-automation
 description: "Automate Coinranking tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Coinranking Automation via Rube MCP

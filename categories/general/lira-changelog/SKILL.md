@@ -1,3 +1,10 @@
+---
+name: lira-changelog
+description: "Skill: lira-changelog"
+license: MIT
+tags: [general]
+---
+
 # agent-rules
 
 ## 1.4.2

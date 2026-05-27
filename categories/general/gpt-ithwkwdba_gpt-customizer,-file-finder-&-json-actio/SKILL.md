@@ -1,3 +1,10 @@
+---
+name: gpt-ithwkwdba_gpt-customizer,-file-finder-&-json-actio
+description: "Skill: gpt-ithwkwdba_gpt-customizer,-file-finder-&-json-actio"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iThwkWDbA-gpt-customizer-file-finder-json-action-creator
 
 GPT Title: GPT Customizer, File Finder & JSON Action Creator

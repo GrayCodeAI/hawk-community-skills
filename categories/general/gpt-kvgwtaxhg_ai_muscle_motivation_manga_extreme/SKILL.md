@@ -1,3 +1,10 @@
+---
+name: gpt-kvgwtaxhg_ai_muscle_motivation_manga_extreme
+description: "Skill: gpt-kvgwtaxhg_ai_muscle_motivation_manga_extreme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KVgwTAXhg-ai-muscle-motivation-manga-extreme
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-hB6r4Gc2mphQPFL3wUHxOKWX?se=2124-01-16T10%3A24%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-09%252019.24.27%2520-%2520Create%2520an%2520image%2520of%2520a%2520young%252C%2520handsome%252C%2520fictional%2520male%2520professional%2520bodybuilder%2520with%2520unrealistically%2520massive%2520muscles%252C%2520featuring%2520extremely%2520thick%2520biceps%2520t.webp&sig=EjqWD20x6E4eLmp%2BYnle5s1MBRSZqqraPbuOyN%2BUZ9Q%3D" width="100px" />

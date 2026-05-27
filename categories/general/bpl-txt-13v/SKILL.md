@@ -1,9 +1,10 @@
 ---
-name: bpl-13v
-description: System prompt - 13v
-domain: general
+name: bpl-txt-13v
+description: "System prompt - 13v"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

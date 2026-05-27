@@ -1,7 +1,10 @@
 ---
-description: Defines specific coding style and structure for TypeScript and JavaScript files, including function usage, type preferences, and file organization.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-typescript-javascript-rules
+description: "Defines specific coding style and structure for TypeScript and JavaScript files, including function usage, type preferences, and file organization."
+license: MIT
+tags: [typescript]
 ---
+
 - Use "function" keyword for pure functions. Omit semicolons.
 - Use TypeScript for all code. Prefer interfaces over types. Avoid enums, use maps.
 - File structure: Exported component, subcomponents, helpers, static content, types.

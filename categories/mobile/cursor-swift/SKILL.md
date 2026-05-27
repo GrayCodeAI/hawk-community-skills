@@ -1,16 +1,11 @@
 ---
 name: cursor-swift
-description: Cursor IDE rules for swift
-domain: engineering
+description: "Cursor IDE rules for swift"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Swift patterns: SwiftUI, actors, async/await, value types"
-globs: ["*.swift"]
-alwaysApply: true
 ---
 
 # Swift Cursor Rules

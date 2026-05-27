@@ -1,3 +1,10 @@
+---
+name: ls-x4bs732jt_time_traveler_to_da_vinci
+description: "Skill: ls-x4bs732jt_time_traveler_to_da_vinci"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-x4Bs732jT-time-traveler-to-da-vinci
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZHZo7zuSShtDLea6IylSgpY1?se=2124-01-11T17%3A53%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dda5a61ef-21b6-45b6-8bdf-ba177a216b26.png&sig=tEuXAL27muphOYeyPXZocdWx2Kvv5x%2BEWd5KyzyoAqA%3D" width="100px" />

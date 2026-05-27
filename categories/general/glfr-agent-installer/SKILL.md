@@ -1,7 +1,9 @@
 ---
-name: agent-installer
-description: Install and configure agent collections, resolve dependencies, and validate environments
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-agent-installer
+description: "Install and configure agent collections, resolve dependencies, and validate environments"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

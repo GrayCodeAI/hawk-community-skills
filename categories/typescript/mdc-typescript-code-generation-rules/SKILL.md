@@ -1,7 +1,10 @@
 ---
-description: Rules for generating TypeScript code in Next.js 14 components, including component definition syntax, props definitions, and named/default exports.
-globs: **/*.tsx
+name: mdc-typescript-code-generation-rules
+description: "Rules for generating TypeScript code in Next.js 14 components, including component definition syntax, props definitions, and named/default exports."
+license: MIT
+tags: [typescript]
 ---
+
 - Always use TypeScript for type safety. Provide appropriate type definitions and interfaces.
 - Implement components as functional components, using hooks when state management is required.
 - Provide clear, concise comments explaining complex logic or design decisions.

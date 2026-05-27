@@ -1,3 +1,10 @@
+---
+name: rb-active_context
+description: "Skill: rb-active_context"
+license: MIT
+tags: [general]
+---
+
 # Active Development Context
 
 ## Current Focus:

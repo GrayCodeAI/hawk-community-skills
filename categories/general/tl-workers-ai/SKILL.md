@@ -1,3 +1,10 @@
+---
+name: tl-workers-ai
+description: "Skill: tl-workers-ai"
+license: MIT
+tags: [general]
+---
+
 # Workers AI Gotchas
 
 ## Critical: @cloudflare/ai is DEPRECATED

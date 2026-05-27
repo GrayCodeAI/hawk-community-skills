@@ -1,8 +1,8 @@
 ---
-name: 'SE: DevOps/CI'
-description: 'DevOps specialist for CI/CD pipelines, deployment debugging, and GitOps workflows focused on making deployments boring and reliable'
-model: GPT-5
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+name: ghcp-agents-se-gitops-ci-specialist
+description: "Skill: ghcp-agents-se-gitops-ci-specialist"
+license: MIT
+tags: [general]
 ---
 
 # GitOps & CI Specialist

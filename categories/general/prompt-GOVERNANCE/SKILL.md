@@ -1,3 +1,10 @@
+---
+name: prompt-GOVERNANCE
+description: "Skill: prompt-GOVERNANCE"
+license: MIT
+tags: [general]
+---
+
 # Governance
 
 This document describes the governance model for prompts.chat.

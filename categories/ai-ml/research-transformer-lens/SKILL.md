@@ -1,10 +1,10 @@
 ---
-name: transformer-lens-interpretability
-description: Provides guidance for mechanistic interpretability research using TransformerLens to inspect and manipulate transformer internals via HookPoints and activation caching. Use when reverse-engineering model algorithms, studying attention patterns, or performing activation patching experiments.
+name: research-transformer-lens
+description: "Provides guidance for mechanistic interpretability research using TransformerLens to inspect and manipulate transformer internals via HookPoints and activation caching. Use when reverse-engineering..."
+license: MIT
+tags: [mechanistic-interpretability, transformerlens, activation-patching, circuit-analysis]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Mechanistic Interpretability, TransformerLens, Activation Patching, Circuit Analysis]
 dependencies: [transformer-lens>=2.0.0, torch>=2.0.0]
 ---
 

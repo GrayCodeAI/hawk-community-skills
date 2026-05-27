@@ -1,9 +1,10 @@
 ---
 name: cr-angular-novo-elements
-description: Cursor rules for angular-novo-elements
-domain: engineering
+description: "Cursor rules for angular-novo-elements"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -149,4 +150,3 @@ I don''t have a module file. I am using standalone components
   "library_name": "Novo Elements",
   "documentation": "https://github.com/bullhorn/novo-elements"
 }
-

@@ -1,5 +1,8 @@
 ---
-name: '⁉️ Need help?'
+name: lira-3-help
+description: "Skill: lira-3-help"
+license: MIT
+tags: [general]
 about: Please describe the problem.
 ---
 

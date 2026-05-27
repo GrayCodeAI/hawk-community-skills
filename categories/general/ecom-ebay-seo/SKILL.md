@@ -1,3 +1,10 @@
+---
+name: ecom-ebay-seo
+description: "Skill: ecom-ebay-seo"
+license: MIT
+tags: [general]
+---
+
 # eBay SEO
 
 Optimize eBay listings for Cassini search algorithm. Master item specifics, title optimization, category selection, and seller performance factors that drive search visibility.

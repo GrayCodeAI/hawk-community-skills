@@ -1,3 +1,10 @@
+---
+name: ls-acpbw4dzw_dedicated_medical_technologist
+description: "Skill: ls-acpbw4dzw_dedicated_medical_technologist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ACpbW4DzW-dedicated-medical-technologist
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-K6qPn02lzywEPIV4IPSwwWZX?se=2123-10-26T13%3A27%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17fb4f29-c819-4794-992c-8c2adb2dd3cb.png&sig=WCi/3JcM6dhbYPGPy1TshuL0ZShA7lIOMbv5HkJWG8I%3D" width="100px" />

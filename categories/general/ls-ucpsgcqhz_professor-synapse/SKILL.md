@@ -1,3 +1,10 @@
+---
+name: ls-ucpsgcqhz_professor-synapse
+description: "Skill: ls-ucpsgcqhz_professor-synapse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ucpsGCQHZ-professor-synapse
 
 GPT Title: Professor Synapse

@@ -1,3 +1,10 @@
+---
+name: ls-5mjubzzvs_navi
+description: "Skill: ls-5mjubzzvs_navi"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5mJUBzZVs-navi
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rzzYRNjwuyp0qgMyaKYAjteN?se=2123-11-10T01%3A35%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-12-03%252018.33.50%2520-%2520A%2520close-up%2520view%2520of%2520a%2520classic%2520compass%2520with%2520intricate%2520details%252C%2520prominently%2520featured%2520in%2520the%2520foreground.%2520In%2520the%2520softly%2520blurred%2520background%252C%2520a%2520part%2520of%2520an%2520ol.png&sig=09mv/pbkxdlDc1SXxhyxmgdXVvmfyIitaA7Yd4RfYok%3D" width="100px" />

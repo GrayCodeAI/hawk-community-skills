@@ -1,3 +1,10 @@
+---
+name: ls-phgfp5zic_chibi-kohaku
+description: "Skill: ls-phgfp5zic_chibi-kohaku"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-kohaku
 
 GPT Title: Chibi Kohaku (猫音コハク)

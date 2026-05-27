@@ -1,7 +1,8 @@
 ---
 name: react-component-architecture
-description: Modern React component patterns with hooks, composition, and TypeScript
+description: "Modern React component patterns with hooks, composition, and TypeScript"
 license: MIT
+tags: [react]
 compatibility: react 18+, typescript 5+
 allowed-tools: read_file write_file apply_patch search_with_context
 ---

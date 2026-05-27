@@ -1,20 +1,14 @@
 ---
 name: performing-cloud-penetration-testing
-description: >
-  Performs authorized penetration testing of cloud environments across AWS, Azure, and GCP to
-  identify IAM misconfigurations, exposed storage buckets, overly permissive security groups,
-  serverless function vulnerabilities, and cloud-specific attack paths from initial access to
-  account compromise. The tester uses cloud-native tools and specialized frameworks like Pacu
-  and ScoutSuite to enumerate and exploit cloud infrastructure. Activates for requests involving
-  cloud pentest, AWS security assessment, Azure penetration testing, or cloud infrastructure
-  security testing.
+description: "Performs authorized penetration testing of cloud environments across AWS, Azure, and GCP to identify IAM misconfigurations, exposed storage buckets, overly permissive security groups, serverless fu..."
+license: MIT
+tags: [cloud-pentest, aws-security, azure-security, iam-exploitation, cloud-infrastructure]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [cloud-pentest, AWS-security, Azure-security, IAM-exploitation, cloud-infrastructure]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Cloud Penetration Testing
 
 ## When to Use

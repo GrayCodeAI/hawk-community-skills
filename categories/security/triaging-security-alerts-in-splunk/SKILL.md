@@ -1,18 +1,14 @@
 ---
 name: triaging-security-alerts-in-splunk
-description: >
-  Triages security alerts in Splunk Enterprise Security by classifying severity, investigating
-  notable events, correlating related telemetry, and making escalation or closure decisions using
-  SPL queries and the Incident Review dashboard. Use when SOC analysts face queued alerts from
-  correlation searches, need to prioritize investigation order, or must document triage decisions
-  for handoff to Tier 2/3 analysts.
+description: "Triages security alerts in Splunk Enterprise Security by classifying severity, investigating notable events, correlating related telemetry, and making escalation or closure decisions using SPL quer..."
+license: MIT
+tags: [soc, splunk, alert-triage, siem, notable-events, correlation-search, incident-review]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, splunk, alert-triage, siem, notable-events, correlation-search, incident-review]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Triaging Security Alerts in Splunk
 
 ## When to Use

@@ -1,8 +1,10 @@
 ---
-name: lodgify-automation
+name: composio-lodgify-automation
 description: "Automate Lodgify tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Lodgify Automation via Rube MCP

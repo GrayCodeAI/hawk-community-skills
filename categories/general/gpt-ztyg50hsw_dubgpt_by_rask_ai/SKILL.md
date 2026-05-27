@@ -1,3 +1,10 @@
+---
+name: gpt-ztyg50hsw_dubgpt_by_rask_ai
+description: "Skill: gpt-ztyg50hsw_dubgpt_by_rask_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZTyG50hsW-dubgpt-by-rask-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RlgW8aynneg1UFZrK2yjgnQG?se=2124-01-05T13%3A15%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo_letter-9.png&sig=gKBiKIZ11Zlobibe27oOs3xKwI7lkeWhAg57aLpK8eM%3D" width="100px" />

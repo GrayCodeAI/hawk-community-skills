@@ -1,3 +1,10 @@
+---
+name: ls-iwvgi6mio_fire_gpt
+description: "Skill: ls-iwvgi6mio_fire_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IWVGi6MIO-f-i-r-e-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-NwcpBQsmGuukbjW0WrON3oPm?se=2124-01-21T06%3A35%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D5f150f8c-747d-4ee2-ade7-9b430bbebac8.png&sig=rNRXsvhYqFajZ5LUhE0T0CPp0Hcy3GKADvWuB0UAymg%3D" width="100px" />

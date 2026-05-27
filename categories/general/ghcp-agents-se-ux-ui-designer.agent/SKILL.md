@@ -1,8 +1,8 @@
 ---
-name: 'SE: UX Designer'
-description: 'Jobs-to-be-Done analysis, user journey mapping, and UX research artifacts for Figma and design workflows'
-model: GPT-5
-tools: ['codebase', 'edit/editFiles', 'search', 'web/fetch']
+name: ghcp-agents-se-ux-ui-designer.agent
+description: "Skill: ghcp-agents-se-ux-ui-designer.agent"
+license: MIT
+tags: [general]
 ---
 
 # UX/UI Designer

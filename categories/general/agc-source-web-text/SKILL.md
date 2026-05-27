@@ -1,3 +1,10 @@
+---
+name: agc-source-web-text
+description: "Skill: agc-source-web-text"
+license: MIT
+tags: [general]
+---
+
 # Source Acquisition: Web URLs and Local Files
 
 ## Web URL (blog posts, articles, any non-YouTube URL)

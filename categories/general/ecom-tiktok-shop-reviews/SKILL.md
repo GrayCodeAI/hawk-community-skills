@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-reviews
+name: ecom-tiktok-shop-reviews
 description: "Review strategy for TikTok Shop — encouraging reviews, responding, leveraging UGC, social proof"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Reviews

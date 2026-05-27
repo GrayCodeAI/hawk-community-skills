@@ -1,8 +1,10 @@
 ---
-name: cloudpress-automation
+name: composio-cloudpress-automation
 description: "Automate Cloudpress tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Cloudpress Automation via Rube MCP

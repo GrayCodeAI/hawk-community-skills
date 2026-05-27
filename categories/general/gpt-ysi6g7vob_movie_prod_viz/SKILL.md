@@ -1,3 +1,10 @@
+---
+name: gpt-ysi6g7vob_movie_prod_viz
+description: "Skill: gpt-ysi6g7vob_movie_prod_viz"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YSI6g7VOb-movie-prod-viz
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-dlcoKRhAjk5vjOdPVrzOSnZj?se=2124-01-06T13%3A22%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D25401f66-c94f-4208-8fb2-68441951b300.png&sig=j8AegtHj6y6udgSrYnBw9QkVFsY5zrp1Zm13s/jt24w%3D" width="100px" />

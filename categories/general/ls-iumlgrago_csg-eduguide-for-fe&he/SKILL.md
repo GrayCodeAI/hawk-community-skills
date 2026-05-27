@@ -1,3 +1,10 @@
+---
+name: ls-iumlgrago_csg-eduguide-for-fe&he
+description: "Skill: ls-iumlgrago_csg-eduguide-for-fe&he"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IumLgraGO-csg-eduguide-for-fe-he
 
 GPT Title: CSG EduGuide for FE&HE

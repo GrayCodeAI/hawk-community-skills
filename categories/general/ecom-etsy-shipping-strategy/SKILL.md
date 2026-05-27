@@ -1,9 +1,11 @@
 ---
-name: etsy-shipping-strategy
+name: ecom-etsy-shipping-strategy
 description: "Shipping strategy — free shipping vs markup, shipping profiles, international shipping, tracking"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Shipping Strategy

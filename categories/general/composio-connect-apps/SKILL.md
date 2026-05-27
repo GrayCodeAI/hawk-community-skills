@@ -1,6 +1,8 @@
 ---
-name: connect-apps
-description: Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in external services.
+name: composio-connect-apps
+description: "Connect Claude to external apps like Gmail, Slack, GitHub. Use this skill when the user wants to send emails, create issues, post messages, or take actions in external services."
+license: MIT
+tags: [general]
 ---
 
 # Connect Apps

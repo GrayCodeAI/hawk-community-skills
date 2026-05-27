@@ -1,3 +1,10 @@
+---
+name: ls-wgejlcrza_cheat-checker
+description: "Skill: ls-wgejlcrza_cheat-checker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WgeJLcRZa-cheat-checker/
 
 GPT Title: Cheat Checker

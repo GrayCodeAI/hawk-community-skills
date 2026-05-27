@@ -1,3 +1,10 @@
+---
+name: rb-task_2_3_context
+description: "Skill: rb-task_2_3_context"
+license: MIT
+tags: [general]
+---
+
 # Context for Task 2.3: Implement Command Handlers
 
 This task focuses on writing the JavaScript/TypeScript code in `extension.ts` that will be executed when the user triggers the various AI Rule Manager commands from the Command Palette or the sidebar GUI. These handlers will act as the bridge between the VS Code interface and the `manage_rules.py` command-line script.

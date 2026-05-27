@@ -1,3 +1,10 @@
+---
+name: ghcp-references-mockmvc-tester
+description: "Skill: ghcp-references-mockmvc-tester"
+license: MIT
+tags: [general]
+---
+
 # MockMvcTester
 
 AssertJ-style testing for Spring MVC controllers (Spring Boot 3.2+).

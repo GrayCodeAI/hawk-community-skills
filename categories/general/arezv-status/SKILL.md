@@ -1,6 +1,8 @@
 ---
-name: "status"
+name: arezv-status
 description: "Show experiment dashboard with results, active loops, and progress."
+license: MIT
+tags: [general]
 command: /ar:status
 ---
 

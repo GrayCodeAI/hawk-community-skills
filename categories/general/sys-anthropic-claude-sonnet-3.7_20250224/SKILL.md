@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-sonnet-3.7_20250224
+description: "Skill: sys-anthropic-claude-sonnet-3.7_20250224"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-sonnet-3.7_20250224
 
 source: <https://x.com/elder_plinius/status/1894173986151358717>

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-python
+description: "Skill: ghcp-references-python"
+license: MIT
+tags: [general]
+---
+
 # Semantic Kernel for Python
 
 Use this reference when the target project is written in Python.

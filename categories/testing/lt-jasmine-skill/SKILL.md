@@ -1,18 +1,8 @@
 ---
-name: jasmine-skill
-description: >
-  Generates Jasmine tests in JavaScript. BDD-style framework with spies and
-  async support. Use when user mentions "Jasmine", "jasmine.createSpy",
-  "toHaveBeenCalled". Triggers on: "Jasmine", "jasmine test", "createSpy",
-  "Jasmine spec".
-languages:
-  - JavaScript
-  - TypeScript
-category: unit-testing
+name: lt-jasmine-skill
+description: "Skill: lt-jasmine-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Jasmine Testing Skill

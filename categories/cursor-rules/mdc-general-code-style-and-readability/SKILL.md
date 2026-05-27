@@ -1,7 +1,10 @@
 ---
-description: This rule applies to all files in the project and enforces general principles of clean code, readability, and maintainability.
-globs: **/*.*
+name: mdc-general-code-style-and-readability
+description: "This rule applies to all files in the project and enforces general principles of clean code, readability, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write code that is readable, understandable, and maintainable for future readers.
 - Aim to create software that is not only functional but also readable, maintainable, and efficient throughout its lifecycle.
 - Prioritize clarity to make reading, understanding, and modifying code easier.

@@ -1,12 +1,12 @@
 ---
 name: implementing-pod-security-admission-controller
-description: Implement Kubernetes Pod Security Admission to enforce baseline and restricted security profiles at namespace level using built-in admission controller.
+description: "Implement Kubernetes Pod Security Admission to enforce baseline and restricted security profiles at namespace level using built-in admission controller."
+license: MIT
+tags: [kubernetes, pod-security-admission, psa, pod-security-standards, admission-controller]
 domain: cybersecurity
 subdomain: container-security
-tags: [kubernetes, pod-security-admission, psa, pod-security-standards, admission-controller]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Pod Security Admission Controller

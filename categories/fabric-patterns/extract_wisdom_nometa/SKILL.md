@@ -1,9 +1,10 @@
 ---
 name: extract_wisdom_nometa
-description: Fabric pattern - extract_wisdom_nometa
-domain: general
+description: "Fabric pattern - extract_wisdom_nometa"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

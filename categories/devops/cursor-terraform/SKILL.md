@@ -1,15 +1,11 @@
 ---
 name: cursor-terraform
-description: Cursor IDE rules for terraform
-domain: engineering
+description: "Cursor IDE rules for terraform"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Terraform: modules, state, best practices"
-alwaysApply: true
 ---
 
 # Terraform Rules

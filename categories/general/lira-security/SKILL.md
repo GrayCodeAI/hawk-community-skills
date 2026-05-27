@@ -1,3 +1,10 @@
+---
+name: lira-security
+description: "Skill: lira-security"
+license: MIT
+tags: [general]
+---
+
 # Security Policy
 
 **Please do not report security vulnerabilities through public GitHub issues**.

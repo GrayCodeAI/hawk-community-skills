@@ -1,3 +1,10 @@
+---
+name: gpt-xlqf3mond_starter-pack-generator
+description: "Skill: gpt-xlqf3mond_starter-pack-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XlQF3MOnd-starter-pack-generator
 
 GPT Title: Starter Pack Generator

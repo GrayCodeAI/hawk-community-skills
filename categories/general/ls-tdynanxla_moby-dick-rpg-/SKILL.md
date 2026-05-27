@@ -1,3 +1,10 @@
+---
+name: ls-tdynanxla_moby-dick-rpg-
+description: "Skill: ls-tdynanxla_moby-dick-rpg-"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg
 
 GPT Title: Moby Dick RPG

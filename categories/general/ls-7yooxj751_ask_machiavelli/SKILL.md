@@ -1,3 +1,10 @@
+---
+name: ls-7yooxj751_ask_machiavelli
+description: "Skill: ls-7yooxj751_ask_machiavelli"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7Yooxj751-ask-machiavelli
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TbkqtNZgnoHBH5Ko9zC6gHjB?se=2123-10-28T08%3A54%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DMachiavelli.jpg&sig=g%2BJ7jVoS2q9tA1Hda7yMoRJry1IphqFchCqTu7aBkV0%3D" width="100px" />

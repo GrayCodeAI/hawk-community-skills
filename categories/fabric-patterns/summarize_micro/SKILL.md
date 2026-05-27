@@ -1,9 +1,10 @@
 ---
 name: summarize_micro
-description: Fabric pattern - summarize_micro
-domain: general
+description: "Fabric pattern - summarize_micro"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

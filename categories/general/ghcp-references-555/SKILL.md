@@ -1,3 +1,10 @@
+---
+name: ghcp-references-555
+description: "Skill: ghcp-references-555"
+license: MIT
+tags: [general]
+---
+
 # 555
 
 [www.fairchildsemi.com](www.fairchildsemi.com)

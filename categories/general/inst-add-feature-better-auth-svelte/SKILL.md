@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Better Auth in Svelte
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-add-feature-better-auth-svelte
+description: "Guidelines for adding new features with Better Auth in Svelte"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte developer with expertise in implementing Better Auth features.
@@ -211,4 +213,4 @@ export const load: LayoutLoad = async ({ url }) => {
     session
   }
 }
-``` 
+```

@@ -1,10 +1,10 @@
 ---
-name: serving-llms-vllm
-description: Serves LLMs with high throughput using vLLM's PagedAttention and continuous batching. Use when deploying production LLM APIs, optimizing inference latency/throughput, or serving models with limited GPU memory. Supports OpenAI-compatible endpoints, quantization (GPTQ/AWQ/FP8), and tensor parallelism.
+name: research-vllm
+description: "Serves LLMs with high throughput using vLLM's PagedAttention and continuous batching. Use when deploying production LLM APIs, optimizing inference latency/throughput, or serving models with limited..."
+license: MIT
+tags: [vllm, inference-serving, pagedattention, continuous-batching, high-throughput, production, openai-api, quantization, tensor-parallelism]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [vLLM, Inference Serving, PagedAttention, Continuous Batching, High Throughput, Production, OpenAI API, Quantization, Tensor Parallelism]
 dependencies: [vllm, torch, transformers]
 ---
 
@@ -359,6 +359,3 @@ Supported platforms: NVIDIA (primary), AMD ROCm, Intel GPUs, TPUs
 - GitHub: https://github.com/vllm-project/vllm
 - Paper: "Efficient Memory Management for Large Language Model Serving with PagedAttention" (SOSP 2023)
 - Community: https://discuss.vllm.ai
-
-
-

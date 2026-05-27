@@ -1,5 +1,8 @@
 ---
-applyTo: "**/*.test.js,**/*.test.ts,**/*.spec.js,**/*.spec.ts,__tests__/**/*.js,__tests__/**/*.ts,test/**/*.js,test/**/*.ts"
+name: lira-testing.instructions
+description: "Skill: lira-testing.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Testing Guidelines for Node.js applications 

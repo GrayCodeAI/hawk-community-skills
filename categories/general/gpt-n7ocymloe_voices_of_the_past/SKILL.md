@@ -1,3 +1,10 @@
+---
+name: gpt-n7ocymloe_voices_of_the_past
+description: "Skill: gpt-n7ocymloe_voices_of_the_past"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-N7OCyMLoE-voices-of-the-past
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-T778SttgEO8yZ6a53Ua6nIB7?se=2123-12-30T00%3A23%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D0ff21cc6-c88a-46ea-a667-02e5c0667610.png&sig=/D2vmIA6kMqU/J51BqlTWUWe/WVvkvq0G2GgcuQWcoo%3D" width="100px" />

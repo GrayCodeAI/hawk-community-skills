@@ -1,3 +1,10 @@
+---
+name: gpt-u9bp4gp3z_322-method-ads-copywriter-with-disrupter
+description: "Skill: gpt-u9bp4gp3z_322-method-ads-copywriter-with-disrupter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-u9bP4gP3Z-3-2-2-method-ads-copywriter-with-disrupter-school/
 
 GPT Title: 3:2:2 Method Ads Copywriter with Disrupter School

@@ -1,8 +1,10 @@
 ---
-name: workable-automation
+name: composio-workable-automation
 description: "Automate Workable tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Workable Automation via Rube MCP

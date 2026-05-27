@@ -1,3 +1,10 @@
+---
+name: ghcp-references-issue-fields
+description: "Skill: ghcp-references-issue-fields"
+license: MIT
+tags: [general]
+---
+
 # Issue Fields (GraphQL, Private Preview)
 
 > **Private preview:** Issue fields are currently in private preview. Request access at https://github.com/orgs/community/discussions/175366

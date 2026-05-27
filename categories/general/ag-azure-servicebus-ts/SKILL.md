@@ -1,9 +1,11 @@
 ---
-name: azure-servicebus-ts
+name: ag-azure-servicebus-ts
 description: "Enterprise messaging with queues, topics, and subscriptions."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure Service Bus SDK for TypeScript

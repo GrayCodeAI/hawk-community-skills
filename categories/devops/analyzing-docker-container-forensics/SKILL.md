@@ -1,12 +1,12 @@
 ---
 name: analyzing-docker-container-forensics
-description: Investigate compromised Docker containers by analyzing images, layers, volumes, logs, and runtime artifacts to identify malicious activity and evidence.
+description: "Investigate compromised Docker containers by analyzing images, layers, volumes, logs, and runtime artifacts to identify malicious activity and evidence."
+license: MIT
+tags: [forensics, docker, container-forensics, container-security, image-analysis, runtime-investigation]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, docker, container-forensics, container-security, image-analysis, runtime-investigation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Docker Container Forensics

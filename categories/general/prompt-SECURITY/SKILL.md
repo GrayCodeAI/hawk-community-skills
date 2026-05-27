@@ -1,3 +1,10 @@
+---
+name: prompt-SECURITY
+description: "Skill: prompt-SECURITY"
+license: MIT
+tags: [general]
+---
+
 # Security Policy
 
  ## Supported Versions

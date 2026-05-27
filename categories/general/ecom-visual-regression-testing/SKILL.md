@@ -1,19 +1,15 @@
 ---
-nexscope:
-  name: "Visual Regression Testing"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "testing"
-    - "visual-regression"
-    - "QA"
-    - "monitoring"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "visual regression testing"
+name: ecom-visual-regression-testing
+description: "Skill: ecom-visual-regression-testing"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Visual Regression Testing

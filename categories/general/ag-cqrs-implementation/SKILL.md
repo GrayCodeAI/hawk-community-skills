@@ -1,9 +1,11 @@
 ---
-name: cqrs-implementation
+name: ag-cqrs-implementation
 description: "Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or building event-sourced systems."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # CQRS Implementation

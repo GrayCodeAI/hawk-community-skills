@@ -1,16 +1,11 @@
 ---
 name: cursor-vercel-ai-sdk
-description: Cursor IDE rules for vercel-ai-sdk
-domain: engineering
+description: "Cursor IDE rules for vercel-ai-sdk"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Vercel AI SDK: streaming AI responses, tool calling, structured output"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Vercel AI SDK Cursor Rules

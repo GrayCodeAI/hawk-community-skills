@@ -1,25 +1,14 @@
 ---
-name: test-framework-migration-skill
-description: >
-  Migrates and converts test automation scripts between Selenium, Playwright,
-  Puppeteer, and Cypress. Use when the user asks to migrate, convert, or port
-  tests from one framework to another; rewrite tests in a different framework;
-  or switch from Selenium to Playwright, Playwright to Selenium, Puppeteer to
-  Playwright, Cypress to Playwright, or vice versa. Triggers on: "migrate",
-  "convert", "port", "selenium to playwright", "playwright to selenium",
-  "puppeteer to playwright", "cypress to playwright", "rewrite tests in",
-  "switch from [framework] to [framework]".
-languages:
-  - Java
-  - Python
-  - JavaScript
-  - TypeScript
-  - C#
-category: e2e-testing
+name: lt-test-framework-migration-skill
+description: "Skill: lt-test-framework-migration-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+Playwright, Cypress to Playwright, or vice versa. Triggers on: migrate",
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Test Framework Migration Skill

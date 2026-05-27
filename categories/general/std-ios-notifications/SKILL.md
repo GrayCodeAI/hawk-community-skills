@@ -1,17 +1,14 @@
 ---
-name: ios-notifications
-description: Push notifications for iOS using UserNotifications framework and APNS. Use when integrating APNS push notifications in iOS applications.
-metadata:
-  triggers:
-    files:
-    - '**/*Notification*.swift'
-    - '**/*AppDelegate.swift'
-    keywords:
-    - UNUserNotificationCenter
-    - APNS
-    - UNNotificationRequest
-    - deviceToken
+name: std-ios-notifications
+description: "Push notifications for iOS using UserNotifications framework and APNS. Use when integrating APNS push notifications in iOS applications."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Notifications
 
 ## **Priority: P2 (OPTIONAL)**

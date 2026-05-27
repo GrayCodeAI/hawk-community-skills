@@ -1,17 +1,14 @@
 ---
-name: swift-swiftui
-description: Configure SwiftUI state, view lifecycle, and Property Wrappers correctly. Use when managing SwiftUI state, view lifecycle, or property wrappers like @State and @Binding.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - "@State"
-    - "@Binding"
-    - "@ObservedObject"
-    - View
-    - body
+name: std-swift-swiftui
+description: "Configure SwiftUI state, view lifecycle, and Property Wrappers correctly. Use when managing SwiftUI state, view lifecycle, or property wrappers like @State and @Binding."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # SwiftUI Standards
 
 ## **Priority: P0**

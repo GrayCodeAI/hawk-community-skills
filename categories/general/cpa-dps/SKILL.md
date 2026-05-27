@@ -1,3 +1,10 @@
+---
+name: cpa-dps
+description: "Skill: cpa-dps"
+license: MIT
+tags: [general]
+---
+
 # az iot dps
 
 ```bash

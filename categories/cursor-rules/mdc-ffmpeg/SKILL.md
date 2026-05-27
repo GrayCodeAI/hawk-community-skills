@@ -1,7 +1,10 @@
 ---
-description: This guide defines best practices for integrating and utilizing FFmpeg within our applications, emphasizing API-first development, secure and reproducible builds, and optimal multimedia encoding techniques for quality and performance.
-globs: **/*
+name: mdc-ffmpeg
+description: "This guide defines best practices for integrating and utilizing FFmpeg within our applications, emphasizing API-first development, secure and reproducible builds, and optimal multimedia encoding te..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # FFmpeg Best Practices
 
 FFmpeg is the bedrock of our multimedia processing. Adhering to these guidelines ensures our implementations are secure, performant, and maintainable.

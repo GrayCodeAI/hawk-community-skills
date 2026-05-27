@@ -1,3 +1,10 @@
+---
+name: cpa-functionapp
+description: "Skill: cpa-functionapp"
+license: MIT
+tags: [general]
+---
+
 # az functionapp
 
 ```bash

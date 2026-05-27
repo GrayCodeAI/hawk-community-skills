@@ -1,12 +1,12 @@
 ---
 name: analyze_incident
-description: Fabric pattern - analyze_incident
-domain: general
+description: "Fabric pattern - analyze_incident"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
-
 
 Cybersecurity Hack Article Analysis: Efficient Data Extraction
 

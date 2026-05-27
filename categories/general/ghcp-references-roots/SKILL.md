@@ -1,3 +1,10 @@
+---
+name: ghcp-references-roots
+description: "Skill: ghcp-references-roots"
+license: MIT
+tags: [general]
+---
+
 # Roots
 
 Roots are filesystem (or URI) locations the **client** advertises to the server, scoping what the server is allowed to look at. Think "open workspace folders" in an IDE — the user has implicitly approved the server reading from these places. The server pulls the list when it needs it.

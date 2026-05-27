@@ -1,3 +1,10 @@
+---
+name: ls-bkexysrrt_alt-text_generator
+description: "Skill: ls-bkexysrrt_alt-text_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bKexySRRt-alt-text-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-JBzmRp0aj1t7lWNnOa8PjHo5?se=2124-01-09T13%3A22%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D693878d6-cee7-444c-8cf5-f268f53a6176.png&sig=7XH8IHtw/5OwzqcuhnQiEi5xbR8BE8G/HA5dgzwzZzk%3D" width="100px" />

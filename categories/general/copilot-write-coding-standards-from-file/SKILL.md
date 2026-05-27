@@ -1,6 +1,8 @@
 ---
-name: write-coding-standards-from-file
-description: 'Write a coding standards document for a project using the coding styles from the file(s) and/or folder(s) passed as arguments in the prompt.'
+name: copilot-write-coding-standards-from-file
+description: "Write a coding standards document for a project using the coding styles from the file(s) and/or folder(s) passed as arguments in the prompt."
+license: MIT
+tags: [general]
 ---
 
 # Write Coding Standards From File

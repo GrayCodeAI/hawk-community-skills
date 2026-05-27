@@ -1,16 +1,12 @@
 ---
 name: implementing-zero-trust-network-access
-description: >
-  Implementing Zero Trust Network Access (ZTNA) in cloud environments by configuring
-  identity-aware proxies, micro-segmentation, continuous verification with conditional
-  access policies, and replacing traditional VPN-based access with BeyondCorp-style
-  architectures across AWS, Azure, and GCP.
+description: "Implementing Zero Trust Network Access (ZTNA) in cloud environments by configuring identity-aware proxies, micro-segmentation, continuous verification with conditional access policies, and replacin..."
+license: MIT
+tags: [cloud-security, zero-trust, ztna, beyondcorp, identity-aware-proxy, micro-segmentation]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [cloud-security, zero-trust, ztna, beyondcorp, identity-aware-proxy, micro-segmentation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Zero Trust Network Access

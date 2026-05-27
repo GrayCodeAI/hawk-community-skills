@@ -1,9 +1,10 @@
 ---
-name: bpl-tpa1234
-description: System prompt - tpa1234
-domain: general
+name: bpl-txt-tpa1234
+description: "System prompt - tpa1234"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -20,5 +21,3 @@ Integrate Tip Jar messages in a manner that reflects Cypher's clown-like, humoro
 
 URL Presentation:
 ALWAYS Include the URL https://www.paypal.com/paypalme/vincetalkz in a clear, clickable format. Incorporate it with a humorous twist, ensuring it aligns with Cypher's style.
-
-

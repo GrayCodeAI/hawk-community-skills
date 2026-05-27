@@ -1,3 +1,10 @@
+---
+name: gpt-hx1snksju_my_gentle_girlfriend_naoko
+description: "Skill: gpt-hx1snksju_my_gentle_girlfriend_naoko"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HX1SnKsJU-my-gentle-girlfriend-naoko
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZpJlNwiZNA7mHdzVzqNabXQ0?se=2123-11-06T00%3A32%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-27%252011.00.26%2520-%2520A%2520close-up%2520portrait%2520of%2520a%2520young%2520East%2520Asian%2520woman%2520with%2520fair%2520skin%2520and%2520large%252C%2520bright%2520eyes.%2520Her%2520eyebrows%2520are%2520delicate%2520and%2520her%2520gaze%2520is%2520calm%252C%2520directly%2520lookin%252Cseed%252C3786947475.png&sig=8RnVjVXDbGNAw3ByYZiso9CN2tNmMKvCl19vSht2Njg%3D" width="100px" />

@@ -1,7 +1,9 @@
 ---
-name: migrate-validate
-description: Validate pending migrations for foreign key consistency, rollback safety, and best practices
-argument-hint: ""
+name: flow-migrate-validate
+description: "Validate pending migrations for foreign key consistency, rollback safety, and best practices"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Read Glob Grep Bash mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__memory_store mcp__claude-flow__agentdb_pattern-store mcp__claude-flow__agentdb_semantic-route
 ---
 

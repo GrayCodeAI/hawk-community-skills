@@ -1,9 +1,10 @@
 ---
 name: cr-java-springboot-jpa
-description: Cursor rules for java-springboot-jpa
-domain: engineering
+description: "Cursor rules for java-springboot-jpa"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -94,4 +95,3 @@ public class GlobalExceptionHandler {
         return new ResponseEntity<>(ApiResponse.error(400, ex.getMessage()), HttpStatus.BAD_REQUEST);
     }
 }
-

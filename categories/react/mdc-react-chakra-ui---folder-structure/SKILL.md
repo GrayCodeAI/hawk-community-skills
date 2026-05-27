@@ -1,7 +1,11 @@
 ---
-description: Maintain the defined folder structure for React and Chakra UI projects to ensure organized code.
-globs: src/**/*.*
+name: mdc-react-chakra-ui---folder-structure
+description: 'Skill: mdc-react-chakra-ui---folder-structure'
+license: MIT
+tags:
+- react
 ---
+
 - Follow the following folder structure:
 
 src/

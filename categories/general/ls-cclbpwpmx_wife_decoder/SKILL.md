@@ -1,3 +1,10 @@
+---
+name: ls-cclbpwpmx_wife_decoder
+description: "Skill: ls-cclbpwpmx_wife_decoder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cClBPwpMX-wife-decoder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2zstaRh2QWLgptRG2TlzUI1m?se=2123-10-22T05%3A55%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D10f819ef-93e2-451e-ab5a-24fe490d6f6f.png&sig=7UkczpLGIy8UsjvUBmRYCuYtP8Rc5maOiL7Ui%2BC7rjs%3D" width="100px" />

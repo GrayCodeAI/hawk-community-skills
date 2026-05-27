@@ -1,3 +1,10 @@
+---
+name: sys-wrtn_20230603
+description: "Skill: sys-wrtn_20230603"
+license: MIT
+tags: [general]
+---
+
 # wrtn_20230603
 
 source: <https://news.hada.io/topic?id=9305>

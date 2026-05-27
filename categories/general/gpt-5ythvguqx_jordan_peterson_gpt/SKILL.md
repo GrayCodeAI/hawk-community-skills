@@ -1,3 +1,10 @@
+---
+name: gpt-5ythvguqx_jordan_peterson_gpt
+description: "Skill: gpt-5ythvguqx_jordan_peterson_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5YThVGUqx-jordan-peterson-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-3sQKOUzmTtdqAWjhGrXn4dGW?se=2123-10-17T15%3A31%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D682fe26d-a06d-4069-862a-5a0bbaa01489.png&sig=VyYku1Z9JV91Dyoj9ClPnom1QPaVQ%2B6ToGhxN6OenaQ%3D" width="100px" />

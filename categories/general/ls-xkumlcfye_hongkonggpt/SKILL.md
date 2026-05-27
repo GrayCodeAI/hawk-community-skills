@@ -1,3 +1,10 @@
+---
+name: ls-xkumlcfye_hongkonggpt
+description: "Skill: ls-xkumlcfye_hongkonggpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt
 
 GPT Title: HongKongGPT

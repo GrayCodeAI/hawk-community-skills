@@ -1,20 +1,15 @@
 ---
-nexscope:
-  name: "Minimum Advertised Price"
-  category: "Pricing & Profitability"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "MAP"
-    - "pricing"
-    - "compliance"
-    - "brand-protection"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "minimum advertised price"
-    - "map enforcement"
-    - "map violation monitoring"
+name: ecom-minimum-advertised-price
+description: "Skill: ecom-minimum-advertised-price"
+license: MIT
+tags: [general]
+nexscope: None
+category: Pricing & Profitability
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Minimum Advertised Price

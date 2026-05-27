@@ -1,7 +1,10 @@
 ---
-description: General UI/UX design best practices for React components using Tailwind CSS.
-globs: **/*.{tsx,jsx}
+name: mdc-general-ui-ux-rules
+description: "General UI/UX design best practices for React components using Tailwind CSS."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Always design and implement for mobile screens first, then scale up to larger screens.
 - Use Tailwind's responsive prefixes (sm:, md:, lg:, xl:) to adjust layouts for different screen sizes.
 - Create a design system with consistent colors, typography, spacing, and component styles.

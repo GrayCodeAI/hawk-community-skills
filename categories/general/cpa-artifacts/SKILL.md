@@ -1,3 +1,10 @@
+---
+name: cpa-artifacts
+description: "Skill: cpa-artifacts"
+license: MIT
+tags: [general]
+---
+
 # az artifacts
 
 ```bash

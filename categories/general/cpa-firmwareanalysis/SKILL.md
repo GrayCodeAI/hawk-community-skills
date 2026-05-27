@@ -1,3 +1,10 @@
+---
+name: cpa-firmwareanalysis
+description: "Skill: cpa-firmwareanalysis"
+license: MIT
+tags: [general]
+---
+
 # az firmwareanalysis
 
 ```bash

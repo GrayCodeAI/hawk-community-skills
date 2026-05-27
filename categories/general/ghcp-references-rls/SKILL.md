@@ -1,3 +1,10 @@
+---
+name: ghcp-references-rls
+description: "Skill: ghcp-references-rls"
+license: MIT
+tags: [general]
+---
+
 # Row-Level Security (RLS) in Power BI
 
 ## Overview

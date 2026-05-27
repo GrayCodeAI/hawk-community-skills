@@ -1,8 +1,10 @@
 ---
-name: appdrag-automation
+name: composio-appdrag-automation
 description: "Automate Appdrag tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Appdrag Automation via Rube MCP

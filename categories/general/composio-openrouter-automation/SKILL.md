@@ -1,8 +1,10 @@
 ---
-name: openrouter-automation
+name: composio-openrouter-automation
 description: "Automate Openrouter tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Openrouter Automation via Rube MCP

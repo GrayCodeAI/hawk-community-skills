@@ -1,9 +1,12 @@
 ---
-name: ddd-aggregate
-description: Scaffold an aggregate root with entity, value objects, repository interface, domain events, and test stubs
-argument-hint: "<context> <aggregate-name>"
+name: flow-ddd-aggregate
+description: "Scaffold an aggregate root with entity, value objects, repository interface, domain events, and test stubs"
+license: MIT
+tags: [general]
+argument-hint: <context> <aggregate-name>
 allowed-tools: Bash(mkdir * find * ls *) Read Write Edit Grep Glob mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__agentdb_hierarchical-store mcp__claude-flow__hooks_pre-task mcp__claude-flow__hooks_post-task
 ---
+
 Scaffold a complete aggregate root inside a bounded context.
 
 Parse `$ARGUMENTS` as `<context-name> <aggregate-name>` (both kebab-case). The context must already exist under `src/`.

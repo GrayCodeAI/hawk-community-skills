@@ -1,9 +1,10 @@
 ---
 name: cr-react-typescript-nextjs-nodejs
-description: Cursor rules for react-typescript-nextjs-nodejs
-domain: engineering
+description: "Cursor rules for react-typescript-nextjs-nodejs"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -100,4 +101,3 @@ Key Conventions:
   - Avoid using 'use client' for data fetching or state management.
 
 Refer to Next.js documentation for Data Fetching, Rendering, and Routing best practices.
-

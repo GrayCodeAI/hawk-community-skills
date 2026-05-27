@@ -1,3 +1,10 @@
+---
+name: gpt-mui8av3cp_trad_wife
+description: "Skill: gpt-mui8av3cp_trad_wife"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mui8aV3cp-trad-wife
 
 GPT logo: <img src="None" width="100px" />

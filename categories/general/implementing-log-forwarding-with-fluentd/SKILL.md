@@ -1,12 +1,12 @@
 ---
 name: implementing-log-forwarding-with-fluentd
-description: Configure Fluentd and Fluent Bit for centralized log aggregation, routing, filtering, and enrichment across distributed infrastructure
+description: "Configure Fluentd and Fluent Bit for centralized log aggregation, routing, filtering, and enrichment across distributed infrastructure"
+license: MIT
+tags: [fluentd, fluent-bit, log-aggregation, log-forwarding, siem, centralized-logging, observability]
 domain: cybersecurity
 subdomain: security-operations
-tags: [fluentd, fluent-bit, log-aggregation, log-forwarding, siem, centralized-logging, observability]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Log Forwarding with Fluentd

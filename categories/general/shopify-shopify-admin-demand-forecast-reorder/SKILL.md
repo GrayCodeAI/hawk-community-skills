@@ -1,14 +1,12 @@
 ---
-name: shopify-admin-demand-forecast-reorder
-role: merchandising
+name: shopify-shopify-admin-demand-forecast-reorder
 description: "Read-only: forecasts demand per SKU using sales velocity and seasonality, then calculates reorder points and suggested purchase order quantities."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - productVariants:query
-  - inventoryItems:query
-  - inventoryLevels:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'productVariants': 'query'}, {'inventoryItems': 'query'}, {'inventoryLevels': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

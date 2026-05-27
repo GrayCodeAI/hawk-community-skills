@@ -1,3 +1,10 @@
+---
+name: ls-t9eumclg2_bytebrains_b.i.t.s._-_daily_ai_newslette
+description: "Skill: ls-t9eumclg2_bytebrains_b.i.t.s._-_daily_ai_newslette"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-T9EuMclg2-bytebrain-s-b-i-t-s-daily-ai-newsletter
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-zwjfbJwdcDT3ZosRLAoG0DfL?se=2123-12-30T00%3A37%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DByteBrain%2520Square%2520ICON%2520500x500.LIGHTMODE.png&sig=3ZVmNNLtbE8h%2BpA02/5Q00rJta1btgALmv88thA%2BonM%3D" width="100px" />

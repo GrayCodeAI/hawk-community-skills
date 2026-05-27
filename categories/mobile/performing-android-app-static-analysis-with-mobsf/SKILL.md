@@ -1,19 +1,14 @@
 ---
 name: performing-android-app-static-analysis-with-mobsf
-description: >
-  Performs automated static analysis of Android applications using Mobile Security Framework (MobSF)
-  to identify hardcoded secrets, insecure permissions, vulnerable components, weak cryptography,
-  and code-level security flaws without executing the application. Use when assessing Android APK/AAB
-  files for security vulnerabilities before deployment, during penetration testing, or as part of
-  CI/CD security gates. Activates for requests involving Android static analysis, MobSF scanning,
-  APK security assessment, or mobile application code review.
+description: "Performs automated static analysis of Android applications using Mobile Security Framework (MobSF) to identify hardcoded secrets, insecure permissions, vulnerable components, weak cryptography, and..."
+license: MIT
+tags: [mobile-security, android, mobsf, static-analysis, owasp-mobile, penetration-testing]
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal
-tags: [mobile-security, android, mobsf, static-analysis, owasp-mobile, penetration-testing]
 version: 1.0.0
-license: MIT
 ---
+
 # Performing Android App Static Analysis with MobSF
 
 ## When to Use

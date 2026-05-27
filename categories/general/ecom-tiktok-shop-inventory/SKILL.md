@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-inventory
+name: ecom-tiktok-shop-inventory
 description: "Inventory management for TikTok Shop — demand forecasting, viral stock planning, FBT optimization"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Inventory

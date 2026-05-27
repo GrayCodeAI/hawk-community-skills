@@ -1,10 +1,12 @@
 ---
-name: ecommerce-social-media-marketing
-description: "Plan social media marketing strategy for e-commerce brands. Content calendars, platform selection, posting schedules, engagement tactics, and social commerce integration for Instagram, TikTok, Facebook, Pinterest, and YouTube."
-metadata:
-  nexscope:
-    emoji: "📲"
-    category: ecommerce
+name: ecom-ecommerce-social-media-marketing
+description: "Plan social media marketing strategy for e-commerce brands. Content calendars, platform selection, posting schedules, engagement tactics, and social commerce integration for Instagram, TikTok, Face..."
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 📲
+category: ecommerce
 ---
 
 # E-Commerce Social Media Marketing 📲

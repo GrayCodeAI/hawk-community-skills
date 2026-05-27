@@ -1,16 +1,11 @@
 ---
-name: flow-nexus-neural
-description: Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus
+name: flow-flow-nexus-neural
+description: "Train and deploy neural networks in distributed E2B sandboxes with Flow Nexus"
+license: MIT
+tags: [general]
 version: 1.0.0
 category: ai-ml
-tags:
-  - neural-networks
-  - distributed-training
-  - machine-learning
-  - deep-learning
-  - flow-nexus
-  - e2b-sandboxes
-requires_auth: true
+requires_auth: True
 mcp_server: flow-nexus
 ---
 

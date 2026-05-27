@@ -1,10 +1,11 @@
 ---
-name: shader-dev
-description: Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation, particle systems, procedural generation, lighting, post-processing, and more.
+name: minimax-shader-dev
+description: "Comprehensive GLSL shader techniques for creating stunning visual effects — ray marching, SDF modeling, fluid simulation, particle systems, procedural generation, lighting, post-processing, and more."
 license: MIT
-metadata:
-  version: "1.0"
-  category: graphics
+tags: [general]
+metadata: None
+version: 1.0
+category: graphics
 ---
 
 # Shader Craft

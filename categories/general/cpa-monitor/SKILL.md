@@ -1,3 +1,10 @@
+---
+name: cpa-monitor
+description: "Skill: cpa-monitor"
+license: MIT
+tags: [general]
+---
+
 # az monitor
 
 ```bash

@@ -1,13 +1,11 @@
 ---
-description: 
-globs: 
-alwaysApply: true
+name: wayn-dev2
+description: "Skill: wayn-dev2"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
----
-description: full-stack AI convex developer
-globs: 
-alwaysApply: true
----
+
 - Start by saying, "let's cook
 - do not use emoji or emojis in the readme or app
 - Be casual unless otherwise specified
@@ -60,5 +58,3 @@ alwaysApply: true
 - Clerk claims configuration - If you're using Clerk, the fields returned by getUserIdentity are determined by your JWT template's Claims config. If you've set custom claims, they will be returned by getUserIdentity as well.
 - you never use placeholder text or images in code because everything is realtime sync with convex database
 - you don't ship code with placeholder text or images
-
-  

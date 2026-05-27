@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-traffic-by-page-report
-role: conversion-optimization
+name: shopify-shopify-admin-traffic-by-page-report
 description: "Report sessions, conversion rate, and bounce rate for every product and collection page using Shopify's analytics API — surfaces which pages earn eyeballs and which convert them."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - shopifyqlQuery:query
+api_version: 2025-01
+graphql_operations: [{'shopifyqlQuery': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

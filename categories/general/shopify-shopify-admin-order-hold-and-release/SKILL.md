@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-order-hold-and-release
-role: fulfillment-ops
+name: shopify-shopify-admin-order-hold-and-release
 description: "Place or release fulfillment holds on open orders in batch — with a stated reason and optional expiry date."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - fulfillmentOrderHold:mutation
-  - fulfillmentOrderReleaseHold:mutation
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'fulfillmentOrderHold': 'mutation'}, {'fulfillmentOrderReleaseHold': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

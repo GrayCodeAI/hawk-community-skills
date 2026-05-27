@@ -1,3 +1,10 @@
+---
+name: ls-bm5xnf4n3_pursu_girlfriendsssssss
+description: "Skill: ls-bm5xnf4n3_pursu_girlfriendsssssss"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Bm5xNf4n3-pursu-girlfriendsssssss
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WCH6ZjnIzP2J4oKEHBQEItjc?se=2123-10-18T06%3A42%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3d7c3658-bb37-47f7-978e-dc98001ab492.png&sig=dlpDZjPhA6IRDuJNSqKrKssSQHjI4xhLeDpatpZnElc%3D" width="100px" />

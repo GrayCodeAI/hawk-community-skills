@@ -1,3 +1,10 @@
+---
+name: ls-qfqviaioj_shield-challenge[v2]
+description: "Skill: ls-qfqviaioj_shield-challenge[v2]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QFQviAiOJ-shield-challenge-v2
 
 GPT Title: Shield Challenge - v2

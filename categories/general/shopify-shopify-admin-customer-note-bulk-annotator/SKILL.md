@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-customer-note-bulk-annotator
-role: customer-ops
+name: shopify-shopify-admin-customer-note-bulk-annotator
 description: "Adds internal notes to customer records in bulk — useful for post-campaign flags, import annotations, or support context."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - customerUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'customerUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,3 +1,10 @@
+---
+name: ls-xqrbqpyzx_steel_straw
+description: "Skill: ls-xqrbqpyzx_steel_straw"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XqrBqPYZX-steel-straw
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FZ0WO2Fk9bdYAA9jBe4wK2HU?se=2124-01-09T23%3A54%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D53c6fc7c-7158-4938-a802-274f03f4949a.png&sig=D5TE3Wy3rvxv/uyUZ0Or5W02b2Uyia6NBQb2kdUuIyQ%3D" width="100px" />

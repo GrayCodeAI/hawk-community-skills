@@ -1,3 +1,10 @@
+---
+name: gpt-h9bxyoeyn_mind-hack
+description: "Skill: gpt-h9bxyoeyn_mind-hack"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H9bxyOEYn-mind-hack
 
 GPT Title: Mind Hack

@@ -1,21 +1,14 @@
 ---
-name: java-tooling
-description: Configure Maven, Gradle, and static analysis for Java projects. Use when setting up Java build tooling, configuring Spotless or Checkstyle, managing JDK versions with sdkman, writing Dockerfiles for Java services, or adding SpotBugs/SonarLint.
-metadata:
-  triggers:
-    files:
-    - 'pom.xml'
-    - 'build.gradle'
-    - 'build.gradle.kts'
-    - '.sdkmanrc'
-    keywords:
-    - mvnw
-    - gradlew
-    - spotbugs
-    - checkstyle
-    - spotless
-    - eclipse-temurin
+name: std-java-tooling
+description: "Configure Maven, Gradle, and static analysis for Java projects. Use when setting up Java build tooling, configuring Spotless or Checkstyle, managing JDK versions with sdkman, writing Dockerfiles fo..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Java Tooling Standards
 
 ## **Priority: P2 (RECOMMENDED)**

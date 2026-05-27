@@ -1,3 +1,10 @@
+---
+name: cpa-iot
+description: "Skill: cpa-iot"
+license: MIT
+tags: [general]
+---
+
 # az iot
 
 Manage Internet of Things (IoT) assets.

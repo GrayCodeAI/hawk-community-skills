@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_mode_ui_roo_code_kilo_code_
+description: "Skill: rb-custom_rules_mode_ui_roo_code_kilo_code_"
+license: MIT
+tags: [general]
+---
+
 this file document contradiction of docs about mode-specific rules and the real result from UI operation.
 STATUS: this contradition not resolved in code yet.
 

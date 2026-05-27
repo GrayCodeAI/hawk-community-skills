@@ -1,3 +1,10 @@
+---
+name: ls-jpzmsthpt_gpt-arm64-automated-analysis
+description: "Skill: ls-jpzmsthpt_gpt-arm64-automated-analysis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JPzmsthpt-gpt-arm64-automated-analysis
 
 GPT Title: Gpt Arm64 Automated Analysis

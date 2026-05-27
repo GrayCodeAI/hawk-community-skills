@@ -1,3 +1,10 @@
+---
+name: agc-concurrency
+description: "Skill: agc-concurrency"
+license: MIT
+tags: [general]
+---
+
 # Swift Concurrency Best Practices Reference
 
 Detailed patterns, pitfalls, and performance considerations for Swift concurrency.

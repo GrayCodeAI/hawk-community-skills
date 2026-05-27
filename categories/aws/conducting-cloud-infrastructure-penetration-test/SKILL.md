@@ -1,12 +1,12 @@
 ---
 name: conducting-cloud-infrastructure-penetration-test
-description: Perform a cloud infrastructure penetration test across AWS, Azure, and GCP to identify IAM misconfigurations, exposed storage buckets, insecure serverless functions, and cloud-native attack paths using Pacu, ScoutSuite, and Prowler.
+description: "Perform a cloud infrastructure penetration test across AWS, Azure, and GCP to identify IAM misconfigurations, exposed storage buckets, insecure serverless functions, and cloud-native attack paths u..."
+license: MIT
+tags: [cloud-pentest, aws, azure, gcp, pacu, scoutsuite, prowler, iam, s3, cloud-security]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [cloud-pentest, AWS, Azure, GCP, Pacu, ScoutSuite, Prowler, IAM, S3, cloud-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Conducting Cloud Infrastructure Penetration Test

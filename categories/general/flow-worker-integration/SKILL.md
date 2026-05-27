@@ -1,7 +1,9 @@
 ---
-name: worker-integration
-description: Worker-Agent integration for intelligent task dispatch and performance tracking
-user-invocable: true
+name: flow-worker-integration
+description: "Worker-Agent integration for intelligent task dispatch and performance tracking"
+license: MIT
+tags: [general]
+user-invocable: True
 ---
 
 # Worker-Agent Integration Skill

@@ -1,5 +1,9 @@
 ---
-description: Recommends using createResource for data fetching within SolidJS components.
-globs: src/components/**/*.jsx
+name: mdc-solidjs---data-fetching
+description: 'Skill: mdc-solidjs---data-fetching'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Use createResource() for data fetching.

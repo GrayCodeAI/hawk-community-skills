@@ -1,3 +1,10 @@
+---
+name: gpt-aoeciylek_the_wingman
+description: "Skill: gpt-aoeciylek_the_wingman"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AoEcIYlek-the-wingman
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9ilfgLzlXKNBmF8vLFXsGANw?se=2123-10-21T23%3A16%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4f8e240-7d73-4a5d-8c16-1c5e7c0089c9.png&sig=tVscwyfXb/K/t13RWcxbmAjjSw9NNPJ7t%2BBlK7ty2qE%3D" width="100px" />

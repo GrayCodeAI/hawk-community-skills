@@ -1,3 +1,10 @@
+---
+name: cpa-registry
+description: "Skill: cpa-registry"
+license: MIT
+tags: [general]
+---
+
 # az containerapp registry
 
 ```bash

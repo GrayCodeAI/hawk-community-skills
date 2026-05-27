@@ -1,7 +1,10 @@
 ---
-description: Best practices for using Tailwind CSS within Astro components.
-globs: src/**/*.*
+name: mdc-tailwind-css-best-practices
+description: "Best practices for using Tailwind CSS within Astro components."
+license: MIT
+tags: [tailwind]
 ---
+
 Tailwind CSS Best Practices
 
 - Use Tailwind utility classes extensively in your Astro components.

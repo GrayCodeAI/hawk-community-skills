@@ -1,3 +1,10 @@
+---
+name: ls-rnfjpkxat_nomad-list
+description: "Skill: ls-rnfjpkxat_nomad-list"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RnFjPkxAt-nomad-list
 
 GPT Title: Nomad List

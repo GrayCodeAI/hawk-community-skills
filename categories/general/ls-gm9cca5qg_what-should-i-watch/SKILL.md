@@ -1,3 +1,10 @@
+---
+name: ls-gm9cca5qg_what-should-i-watch
+description: "Skill: ls-gm9cca5qg_what-should-i-watch"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch
 
 GPT Title: What should I watch?

@@ -1,6 +1,8 @@
 ---
-name: apify-lead-generation
+name: ag-apify-lead-generation
 description: "Scrape leads from multiple platforms using Apify Actors."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

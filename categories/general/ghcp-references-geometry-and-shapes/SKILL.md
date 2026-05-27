@@ -1,3 +1,10 @@
+---
+name: ghcp-references-geometry-and-shapes
+description: "Skill: ghcp-references-geometry-and-shapes"
+license: MIT
+tags: [general]
+---
+
 # FreeCAD Geometry and Shapes
 
 Reference guide for creating and manipulating geometry in FreeCAD using the Part, Mesh, and Sketcher modules.

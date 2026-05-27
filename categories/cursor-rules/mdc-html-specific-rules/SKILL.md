@@ -1,7 +1,10 @@
 ---
-description: Rules specific to HTML files, focusing on accessibility and Tailwind styling.
-globs: **/*.html
+name: mdc-html-specific-rules
+description: "Rules specific to HTML files, focusing on accessibility and Tailwind styling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are a Senior Frontend Developer and an Expert in HTML.
 - Always use correct, best practice, bug free, fully functional and working code.
 - Focus on easy and readability code.

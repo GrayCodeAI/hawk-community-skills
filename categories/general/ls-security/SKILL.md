@@ -1,3 +1,10 @@
+---
+name: ls-security
+description: "Skill: ls-security"
+license: MIT
+tags: [general]
+---
+
 # Security Guide
 
 ## How to protect GPT instructions

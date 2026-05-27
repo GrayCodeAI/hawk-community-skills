@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-tool
+description: "Skill: ghcp-references-span-tool"
+license: MIT
+tags: [general]
+---
+
 # TOOL Spans
 
 ## Purpose

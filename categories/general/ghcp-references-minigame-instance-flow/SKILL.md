@@ -1,3 +1,10 @@
+---
+name: ghcp-references-minigame-instance-flow
+description: "Skill: ghcp-references-minigame-instance-flow"
+license: MIT
+tags: [general]
+---
+
 # Minigame Instance Flow
 
 Use this reference when building arena-style PvP games, SkyWars-style island games, dungeon or wave modes, rotating map instances, or any plugin where multiple players, worlds, mobs, scoreboards, and timers belong to a specific game instance.

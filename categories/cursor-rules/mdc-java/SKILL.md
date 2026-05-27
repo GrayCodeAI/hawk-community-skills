@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-quality, maintainable, and performant Java code, adhering to modern best practices (Java 21/25) and enterprise standards like Google Java Style.
-globs: **/*
+name: mdc-java
+description: "Definitive guidelines for writing high-quality, maintainable, and performant Java code, adhering to modern best practices (Java 21/25) and enterprise standards like Google Java Style."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Java Best Practices
 
 This document outlines the definitive best practices for Java development within our team. Adherence to these rules ensures consistent, high-quality, and maintainable code, leveraging modern Java features and enterprise standards.

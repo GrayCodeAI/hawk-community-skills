@@ -1,3 +1,10 @@
+---
+name: cpa-mongo-db
+description: "Skill: cpa-mongo-db"
+license: MIT
+tags: [general]
+---
+
 # az mongo-db
 
 ```bash

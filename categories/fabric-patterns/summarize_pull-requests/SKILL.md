@@ -1,9 +1,10 @@
 ---
 name: summarize_pull-requests
-description: Fabric pattern - summarize_pull-requests
-domain: general
+description: "Fabric pattern - summarize_pull-requests"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

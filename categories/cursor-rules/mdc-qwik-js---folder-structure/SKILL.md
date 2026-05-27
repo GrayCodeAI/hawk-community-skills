@@ -1,7 +1,11 @@
 ---
-description: Provides guidelines and the expected folder structure for a Qwik.js project.
-globs: *
+name: mdc-qwik-js---folder-structure
+description: 'Skill: mdc-qwik-js---folder-structure'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Use the following folder structure:
   
   src/

@@ -1,3 +1,10 @@
+---
+name: bpl-openai
+description: "Skill: bpl-openai"
+license: MIT
+tags: [general]
+---
+
 [elder_plinius](https://x.com/elder_plinius/status/1799605567159411052) does it again! This time with emoji attacks on GPT-4O!
 
 

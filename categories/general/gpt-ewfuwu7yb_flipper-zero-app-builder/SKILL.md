@@ -1,3 +1,10 @@
+---
+name: gpt-ewfuwu7yb_flipper-zero-app-builder
+description: "Skill: gpt-ewfuwu7yb_flipper-zero-app-builder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EwFUWU7YB-flipper-zero-app-builder
 
 GPT Title: Flipper Zero App Builder

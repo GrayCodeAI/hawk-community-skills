@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Walmart Price Tracker"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "walmart"
-    - "price-tracking"
-    - "monitoring"
-    - "competitor-analysis"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "walmart price tracker"
+name: ecom-walmart-price-tracker
+description: "Skill: ecom-walmart-price-tracker"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Walmart Price Tracker

@@ -1,6 +1,8 @@
 ---
-description: "Symfony development standards aligned with official Symfony Best Practices"
-applyTo: "**/*.php, **/*.yaml, **/*.yml, **/*.xml, **/*.twig"
+name: ghcp-instructions-php-symfony.instructions
+description: "Skill: ghcp-instructions-php-symfony.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Symfony Development Instructions

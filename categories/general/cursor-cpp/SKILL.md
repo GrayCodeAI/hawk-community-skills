@@ -1,16 +1,11 @@
 ---
 name: cursor-cpp
-description: Cursor IDE rules for cpp
-domain: engineering
+description: "Cursor IDE rules for cpp"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "C++: modern patterns, memory safety, RAII"
-globs: ["*.cpp", "*.hpp", "*.h", "*.cc"]
-alwaysApply: true
 ---
 
 # C++ Cursor Rules

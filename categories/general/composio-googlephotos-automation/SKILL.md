@@ -1,8 +1,10 @@
 ---
-name: googlephotos-automation
+name: composio-googlephotos-automation
 description: "Automate Google Photos tasks via Rube MCP (Composio): upload media, manage albums, search photos, batch add items, create and update albums. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Google Photos Automation via Rube MCP

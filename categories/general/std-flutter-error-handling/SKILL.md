@@ -1,19 +1,14 @@
 ---
-name: flutter-error-handling
-description: Implement functional error recovery with Either/Failure patterns in Flutter. Use when writing repositories, handling exceptions, or using dartz Either types.
-metadata:
-  triggers:
-    files:
-    - 'lib/domain/**'
-    - 'lib/infrastructure/**'
-    keywords:
-    - Either
-    - fold
-    - Left
-    - Right
-    - Failure
-    - dartz
+name: std-flutter-error-handling
+description: "Implement functional error recovery with Either/Failure patterns in Flutter. Use when writing repositories, handling exceptions, or using dartz Either types."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Error Handling
 
 ## **Priority: P1 (HIGH)**

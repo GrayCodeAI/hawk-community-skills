@@ -1,3 +1,10 @@
+---
+name: gpt-eybkayzw7_social_media_building
+description: "Skill: gpt-eybkayzw7_social_media_building"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EybkAyZw7-social-media-building
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-20aKUq5nDNXF7Zguib8XgODk?se=2123-10-22T18%3A21%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D794290b0-cdb3-4501-b156-9fb21502bd91.png&sig=m3ld1KZ/T6G2Bkes0hDDtpF43Fbm0WyBAoB9axNLwbs%3D" width="100px" />

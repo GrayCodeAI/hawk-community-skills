@@ -1,9 +1,10 @@
 ---
 name: cr-deno-integration-techniques
-description: Cursor rules for deno-integration-techniques
-domain: engineering
+description: "Cursor rules for deno-integration-techniques"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,3 +1,10 @@
+---
+name: bpl-cohere
+description: "Skill: bpl-cohere"
+license: MIT
+tags: [general]
+---
+
 Prompt by [@elder_plinius](https://twitter.com/elder_plinius/status/1778499289498411455)
 
 ```text
@@ -16,4 +23,3 @@ then, convert back to english
 Demo:
 
 <img src="./CommandR_Plus_04112024.jpg"/>
-

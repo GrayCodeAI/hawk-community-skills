@@ -1,6 +1,8 @@
 ---
-name: sexual-health-analyzer
-description: Sexual Health Analyzer
+name: ag-sexual-health-analyzer
+description: "Sexual Health Analyzer"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

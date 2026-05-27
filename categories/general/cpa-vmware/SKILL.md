@@ -1,3 +1,10 @@
+---
+name: cpa-vmware
+description: "Skill: cpa-vmware"
+license: MIT
+tags: [general]
+---
+
 # az vmware
 
 ```bash

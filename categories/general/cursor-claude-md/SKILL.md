@@ -1,16 +1,11 @@
 ---
 name: cursor-claude-md
-description: Cursor IDE rules for claude-md
-domain: engineering
+description: "Cursor IDE rules for claude-md"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "CLAUDE.md: structuring project context for Claude Code"
-globs: ["CLAUDE.md", ".claude/**"]
-alwaysApply: false
 ---
 
 # CLAUDE.md Rules

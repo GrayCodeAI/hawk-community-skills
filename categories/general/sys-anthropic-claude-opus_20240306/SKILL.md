@@ -1,3 +1,10 @@
+---
+name: sys-anthropic-claude-opus_20240306
+description: "Skill: sys-anthropic-claude-opus_20240306"
+license: MIT
+tags: [general]
+---
+
 # anthropic-claude-opus_20240306
 
 source: <https://twitter.com/AmandaAskell/status/1765207842993434880>

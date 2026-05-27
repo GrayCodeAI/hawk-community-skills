@@ -1,3 +1,10 @@
+---
+name: ls-eqimoihxe_gpt_protector_custom_instruction_securit
+description: "Skill: ls-eqimoihxe_gpt_protector_custom_instruction_securit"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EQimoIhxe-gpt-protector-custom-instruction-security
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Pn09AYvlVcAeW29AZiRqZVDj?se=2123-12-19T04%3A56%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D54cfa5a7-46fc-4388-a410-ffeb613fcc22.png&sig=IKtQV3o5nk4FsxUNGVtHCct0LbM0x1HHMitpo7MF6sU%3D" width="100px" />

@@ -1,7 +1,9 @@
 ---
-description: 该规则解释了 Flutter 小部件模式和跨平台移动开发的最佳实践。
-globs: **/*.dart
-alwaysApply: false
+name: extra-flutter
+description: "该规则解释了 Flutter 小部件模式和跨平台移动开发的最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Flutter 规则

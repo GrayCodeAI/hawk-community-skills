@@ -1,7 +1,11 @@
 ---
-description: Enforces specific UI-related guidelines for Jetpack Compose within the presentation layer.
-globs: app/src/main/java/com/package/presentation/**/*.kt
+name: mdc-android-jetpack-compose---ui-guidelines
+description: 'Skill: mdc-android-jetpack-compose---ui-guidelines'
+license: MIT
+tags:
+- mobile
 ---
+
 - Use remember and derivedStateOf appropriately.
 - Implement proper recomposition optimization.
 - Use proper Compose modifiers ordering.

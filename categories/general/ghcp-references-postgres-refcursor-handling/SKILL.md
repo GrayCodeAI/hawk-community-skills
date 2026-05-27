@@ -1,3 +1,10 @@
+---
+name: ghcp-references-postgres-refcursor-handling
+description: "Skill: ghcp-references-postgres-refcursor-handling"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL: Refcursor Handling in Client Applications
 
 ## The Core Difference

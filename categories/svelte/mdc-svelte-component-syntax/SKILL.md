@@ -1,7 +1,10 @@
 ---
-description: Specifies the syntax and best practices for Svelte components, including using TypeScript in script tags. This ensures consistency and helps developers follow best practices when building Svelte components.
-globs: **/*.svelte
+name: mdc-svelte-component-syntax
+description: "Specifies the syntax and best practices for Svelte components, including using TypeScript in script tags. This ensures consistency and helps developers follow best practices when building Svelte co..."
+license: MIT
+tags: [svelte]
 ---
+
 - Svelte Components
   - Use .svelte extension for Svelte components
   - Use TypeScript syntax in <script> tags:

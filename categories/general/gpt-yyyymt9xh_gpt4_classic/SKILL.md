@@ -1,3 +1,10 @@
+---
+name: gpt-yyyymt9xh_gpt4_classic
+description: "Skill: gpt-yyyymt9xh_gpt4_classic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic
 
 GPT Title: ChatGPT Classic

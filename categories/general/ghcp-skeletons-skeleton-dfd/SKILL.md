@@ -1,3 +1,10 @@
+---
+name: ghcp-skeletons-skeleton-dfd
+description: "Skill: ghcp-skeletons-skeleton-dfd"
+license: MIT
+tags: [general]
+---
+
 # Skeleton: 1.1-threatmodel.mmd
 
 > **⛔ This is a raw Mermaid file — NO markdown wrapper. Line 1 MUST start with `%%{init:`.**

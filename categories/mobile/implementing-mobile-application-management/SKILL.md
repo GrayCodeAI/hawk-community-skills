@@ -1,19 +1,14 @@
 ---
 name: implementing-mobile-application-management
-description: >
-  Implements Mobile Application Management (MAM) policies to protect enterprise data on managed
-  and unmanaged mobile devices through app-level controls including data loss prevention, selective
-  wipe, app configuration, and containerization. Use when securing corporate apps on BYOD devices,
-  implementing Intune App Protection Policies, or enforcing data separation between personal and
-  work apps. Activates for requests involving MAM deployment, app protection policies, mobile
-  containerization, or BYOD security.
+description: "Implements Mobile Application Management (MAM) policies to protect enterprise data on managed and unmanaged mobile devices through app-level controls including data loss prevention, selective wipe,..."
+license: MIT
+tags: [mobile-security, android, ios, mam, enterprise-security, owasp-mobile]
 domain: cybersecurity
 subdomain: mobile-security
 author: mahipal
-tags: [mobile-security, android, ios, mam, enterprise-security, owasp-mobile]
 version: 1.0.0
-license: MIT
 ---
+
 # Implementing Mobile Application Management
 
 ## When to Use

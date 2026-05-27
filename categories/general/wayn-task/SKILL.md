@@ -1,13 +1,11 @@
 ---
-description: 
-globs: 
-alwaysApply: false
+name: wayn-task
+description: "Skill: wayn-task"
+license: MIT
+tags: [general]
+alwaysApply: False
 ---
----
-description: Guidelines for creating and managing task lists in markdown files to track project progress
-globs: 
-alwaysApply: false
----
+
 # Task List Management
 
 Guidelines for creating and managing task lists in markdown files to track project progress

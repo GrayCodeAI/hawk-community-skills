@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-customer-timeline-export
-role: customer-support
+name: shopify-shopify-admin-customer-timeline-export
 description: "Read-only: exports a complete chronological history for a single customer — orders, refunds, returns, addresses, notes, tags, marketing consent, and lifetime spend — as one consolidated CSV."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customer:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'customer': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

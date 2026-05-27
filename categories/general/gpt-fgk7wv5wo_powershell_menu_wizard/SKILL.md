@@ -1,3 +1,10 @@
+---
+name: gpt-fgk7wv5wo_powershell_menu_wizard
+description: "Skill: gpt-fgk7wv5wo_powershell_menu_wizard"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-fgk7Wv5Wo-powershell-menu-wizard
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-4s1sr6ctWgvJMPl02ykaQLWd?se=2123-12-09T22%3A51%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D08c3822a-82fd-4d31-8e6c-3120fbf7b1be.png&sig=iRs3UbuWO9oi3hiTMHaTFl6EgRMsws1C2YNGdAN%2BB7c%3D" width="100px" />

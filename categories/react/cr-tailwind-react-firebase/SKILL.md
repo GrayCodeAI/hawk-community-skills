@@ -1,9 +1,10 @@
 ---
 name: cr-tailwind-react-firebase
-description: Cursor rules for tailwind-react-firebase
-domain: engineering
+description: "Cursor rules for tailwind-react-firebase"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -89,4 +90,3 @@ Dashboard:
 Create a section for users to view their monthly reports, including adherence percentage, trends, and AI-generated suggestions.
 
 This prompt provides a clear and structured request for assistance in developing the feature, focusing on key components and functionality.
-

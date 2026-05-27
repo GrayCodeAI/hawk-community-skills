@@ -1,3 +1,10 @@
+---
+name: gpt-qz4rziyyj_dream_and_psychedelic_visuals_analyzer
+description: "Skill: gpt-qz4rziyyj_dream_and_psychedelic_visuals_analyzer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QZ4rzIYYJ-dream-psychedelic-visuals-analyzer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RlfyNuYFMfcmj7dmr4kr0SLV?se=2123-10-20T19%3A23%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd425ab63-b5f7-4ecb-86b4-87231747d5c0.png&sig=HJO8NcQnXbq0iUk6crqaOi5A7cHu0/ElPRXqYJq/QZc%3D" width="100px" />

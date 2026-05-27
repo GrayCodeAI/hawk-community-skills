@@ -1,9 +1,11 @@
 ---
-name: kaizen
+name: ag-kaizen
 description: "Guide for continuous improvement, error proofing, and standardization. Use this skill when the user wants to improve code quality, refactor, or discuss process improvements."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Kaizen: Continuous Improvement

@@ -1,12 +1,8 @@
 ---
-name: molykit
-description: |
-  CRITICAL: Use for MolyKit AI chat toolkit. Triggers on:
-  BotClient, OpenAI, SSE streaming, AI chat, molykit,
-  PlatformSend, spawn(), ThreadToken, cross-platform async,
-  Chat widget, Messages, PromptInput, Avatar, LLM
-risk: unknown
-source: community
+name: ag-molykit
+description: "Skill: ag-molykit"
+license: MIT
+tags: [general]
 ---
 
 # MolyKit Skill

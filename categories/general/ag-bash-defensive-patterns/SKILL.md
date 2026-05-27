@@ -1,9 +1,11 @@
 ---
-name: bash-defensive-patterns
+name: ag-bash-defensive-patterns
 description: "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Bash Defensive Patterns

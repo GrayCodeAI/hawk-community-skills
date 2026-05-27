@@ -1,3 +1,10 @@
+---
+name: gpt-a9jivi0y2_consistent_character_image_generator
+description: "Skill: gpt-a9jivi0y2_consistent_character_image_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a9JivI0y2-consistent-character-image-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-7FWjuUBgaewsVzcpSpKh1hKX?se=2123-10-20T00%3A56%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDallE%25203%2520Consistent%2520Character%2520Generator%2520GPT.png&sig=CP0awlt4MIoiRNCGYBLz/8bhIhcGvV5KxHEG/O54PHc%3D" width="100px" />

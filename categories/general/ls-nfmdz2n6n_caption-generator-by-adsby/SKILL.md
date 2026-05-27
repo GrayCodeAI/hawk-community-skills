@@ -1,3 +1,10 @@
+---
+name: ls-nfmdz2n6n_caption-generator-by-adsby
+description: "Skill: ls-nfmdz2n6n_caption-generator-by-adsby"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nfMDz2N6N-caption-generator-by-adsby
 
 GPT Title: Caption Generator by Adsby

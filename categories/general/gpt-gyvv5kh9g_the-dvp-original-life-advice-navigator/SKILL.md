@@ -1,3 +1,10 @@
+---
+name: gpt-gyvv5kh9g_the-dvp-original-life-advice-navigator
+description: "Skill: gpt-gyvv5kh9g_the-dvp-original-life-advice-navigator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GyVv5kH9g-the-dvp-original-life-advice-navigator/
 
 GPT Title: The DVP Original Life Advice Navigator

@@ -1,3 +1,10 @@
+---
+name: gpt-7neyfkq2e_mlx-guru
+description: "Skill: gpt-7neyfkq2e_mlx-guru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7NeyFkq2e-mlx-guru/
 
 GPT Title: MLX Guru

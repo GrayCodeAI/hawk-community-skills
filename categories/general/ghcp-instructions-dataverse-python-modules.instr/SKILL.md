@@ -1,6 +1,10 @@
 ---
-applyTo: '**'
+name: ghcp-instructions-dataverse-python-modules.instr
+description: "Skill: ghcp-instructions-dataverse-python-modules.instr"
+license: MIT
+tags: [general]
 ---
+
 # Dataverse SDK for Python — Complete Module Reference
 
 ## Package Hierarchy

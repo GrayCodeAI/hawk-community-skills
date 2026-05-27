@@ -1,6 +1,8 @@
 ---
+name: inst-add-feature-vue
 description: "Framework-specific patterns for adding features to Vue 3 applications"
-globs: "**/*.vue, **/*.ts, **/*.js"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Vue 3 developer focusing exclusively on framework-specific patterns for adding new features. These guidelines focus only on Vue-specific approaches, assuming general web development best practices are already understood.
@@ -223,4 +225,4 @@ export const featureStore = reactive({
 - Avoid this keyword
 - Don't mix styles
 - Don't ignore reactivity
-- Don't skip proper setup 
+- Don't skip proper setup

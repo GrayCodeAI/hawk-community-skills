@@ -1,3 +1,10 @@
+---
+name: ls-yzepew1lm_indra.ai
+description: "Skill: ls-yzepew1lm_indra.ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yzepEW1LM-indra-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-iGRihHnUDRhuXDTwbLByKYlu?se=2124-01-10T19%3A29%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Davatar-big.png&sig=07zWab6oqiMV3lZA8NrOLhugJ1LGG80LJG1m0fhNByE%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: makepad-reference
+name: ag-makepad-reference
 description: "This category provides reference materials for debugging, code quality, and advanced layout patterns."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

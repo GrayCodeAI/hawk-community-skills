@@ -1,13 +1,12 @@
 ---
-name: minimax-xlsx
-description: "Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv). Use when the user asks to create, build, modify, analyze, read, validate, or format any Excel spreadsheet, financial model, pivot table, or tabular data file. Covers: creating new xlsx from scratch, reading and analyzing existing files, editing existing xlsx with zero format loss, formula recalculation and validation, and applying professional financial formatting standards. Triggers on 'spreadsheet', 'Excel', '.xlsx', '.csv', 'pivot table', 'financial model', 'formula', or any request to produce tabular data in Excel format."
+name: minimax-minimax-xlsx
+description: "Open, create, read, analyze, edit, or validate Excel/spreadsheet files (.xlsx, .xlsm, .csv, .tsv). Use when the user asks to create, build, modify, analyze, read, validate, or format any Excel spre..."
 license: MIT
-metadata:
-  version: "1.0"
-  category: productivity
-  sources:
-    - ECMA-376 Office Open XML File Formats
-    - Microsoft Open XML SDK documentation
+tags: [general]
+metadata: None
+version: 1.0
+category: productivity
+sources: None
 ---
 
 # MiniMax XLSX Skill

@@ -1,6 +1,8 @@
 ---
-name: csharp-nunit
-description: 'Get best practices for NUnit unit testing, including data-driven tests'
+name: ghcp-csharp-nunit-skill
+description: "Get best practices for NUnit unit testing, including data-driven tests"
+license: MIT
+tags: [general]
 ---
 
 # NUnit Best Practices

@@ -1,12 +1,8 @@
 ---
-name: agent-test-long-runner
-description: Agent skill for test-long-runner - invoke with $agent-test-long-runner
----
-
----
-name: test-long-runner
-description: Test agent that can run for 30+ minutes on complex tasks
-category: custom
+name: flow-agent-test-long-runner
+description: "Agent skill for test-long-runner - invoke with $agent-test-long-runner"
+license: MIT
+tags: [general]
 ---
 
 # Test Long-Running Agent

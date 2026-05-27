@@ -1,3 +1,10 @@
+---
+name: gpt-0lsw9zt25_synthia
+description: "Skill: gpt-0lsw9zt25_synthia"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0Lsw9zT25-synthia
 
 GPT Title: Synthia 😋🌟

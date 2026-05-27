@@ -1,8 +1,10 @@
 ---
-name: new_relic-automation
+name: composio-new_relic-automation
 description: "Automate New Relic tasks via Rube MCP (Composio): APM, alerts, dashboards, NRQL queries, and infrastructure monitoring. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # New Relic Automation via Rube MCP

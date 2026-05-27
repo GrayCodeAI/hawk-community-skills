@@ -1,3 +1,10 @@
+---
+name: gpt-bu2lgvtth_dan-koe-guide
+description: "Skill: gpt-bu2lgvtth_dan-koe-guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bu2lGvTTH-dan-koe-guide
 
 GPT Title: Dan Koe Guide

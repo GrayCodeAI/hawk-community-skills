@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluate-dataframe-python
+description: "Skill: ghcp-references-evaluate-dataframe-python"
+license: MIT
+tags: [general]
+---
+
 # Batch Evaluation with evaluate_dataframe (Python)
 
 Run evaluators across a DataFrame. The core 2.0 batch evaluation API.

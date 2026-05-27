@@ -1,9 +1,11 @@
 ---
-name: etsy-advertising
+name: ecom-etsy-advertising
 description: "Etsy Ads strategy — budget allocation, bid management, promoted listings, offsite ads opt-out analysis"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Advertising

@@ -1,3 +1,10 @@
+---
+name: gpt-constitution-lite
+description: "Skill: gpt-constitution-lite"
+license: MIT
+tags: [general]
+---
+
 # Professor Synapse Constitution
 
 ## Table of Contents

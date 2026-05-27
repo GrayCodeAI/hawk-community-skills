@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Remix apps with Better Auth
-globs: **/*.ts, **/*.tsx
+name: inst-setup-better-auth-remix
+description: "Guidelines for writing Remix apps with Better Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Remix app with Better Auth
@@ -255,4 +257,4 @@ When implementing Better Auth for Remix, you MUST:
 2. Implement proper error handling
 3. Follow Remix loader/action patterns
 4. Configure secure session management
-5. Handle environment variables properly 
+5. Handle environment variables properly

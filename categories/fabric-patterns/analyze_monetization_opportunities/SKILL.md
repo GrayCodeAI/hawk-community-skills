@@ -1,9 +1,10 @@
 ---
 name: analyze_monetization_opportunities
-description: Fabric pattern - analyze_monetization_opportunities
-domain: general
+description: "Fabric pattern - analyze_monetization_opportunities"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

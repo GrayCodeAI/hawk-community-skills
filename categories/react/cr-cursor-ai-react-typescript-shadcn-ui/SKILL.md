@@ -1,9 +1,10 @@
 ---
 name: cr-cursor-ai-react-typescript-shadcn-ui
-description: Cursor rules for cursor-ai-react-typescript-shadcn-ui
-domain: engineering
+description: "Cursor rules for cursor-ai-react-typescript-shadcn-ui"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

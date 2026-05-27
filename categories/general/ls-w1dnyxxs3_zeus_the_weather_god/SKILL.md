@@ -1,3 +1,10 @@
+---
+name: ls-w1dnyxxs3_zeus_the_weather_god
+description: "Skill: ls-w1dnyxxs3_zeus_the_weather_god"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-w1DNyXXS3-zeus-the-weather-god
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YXbBgYPByvdBXR1PcCrtRNHX?se=2124-01-12T15%3A20%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DZeus%2520the%2520Weather%2520God.png&sig=RMSyR8P4lxbeOg4vFLd%2BaPbPxOGaGRBCozNN4zDmby4%3D" width="100px" />

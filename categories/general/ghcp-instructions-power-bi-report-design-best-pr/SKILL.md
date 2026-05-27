@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive Power BI report design and visualization best practices based on Microsoft guidance for creating effective, accessible, and performant reports and dashboards.'
-applyTo: '**/*.{pbix,md,json,txt}'
+name: ghcp-instructions-power-bi-report-design-best-pr
+description: "Skill: ghcp-instructions-power-bi-report-design-best-pr"
+license: MIT
+tags: [general]
 ---
 
 # Power BI Report Design and Visualization Best Practices

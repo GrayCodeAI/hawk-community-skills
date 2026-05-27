@@ -1,3 +1,10 @@
+---
+name: gpt-twitter
+description: "Skill: gpt-twitter"
+license: MIT
+tags: [general]
+---
+
 product link: [Wordware AI](https://twitter.wordware.ai/)
 
 Roast prompt:

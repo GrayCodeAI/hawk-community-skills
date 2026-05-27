@@ -1,3 +1,10 @@
+---
+name: ls-huymonegi_magik_labyrinth
+description: "Skill: ls-huymonegi_magik_labyrinth"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HUyMoNegi-magik-labyrinth
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lgDb0FPqJ0aWSjGLb7ZdIDfE?se=2124-01-20T02%3A01%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8dcac99d-f024-4154-80d9-d4118705cc99.png&sig=/5WGkocAxh%2BQVLcmj53Oxs5Y5a6vI1j81h3VQtFiNik%3D" width="100px" />

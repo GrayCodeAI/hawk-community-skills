@@ -1,8 +1,10 @@
 ---
-name: finage-automation
+name: composio-finage-automation
 description: "Automate Finage tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Finage Automation via Rube MCP

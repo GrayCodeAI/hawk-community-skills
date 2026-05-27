@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Remix apps with Clerk Auth
-globs: **/*.ts, **/*.tsx
+name: inst-setup-clerk-remix
+description: "Guidelines for writing Remix apps with Clerk Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Remix app with Clerk Auth
@@ -185,4 +187,4 @@ When implementing Clerk Auth for Remix, you MUST:
 2. Implement proper error handling
 3. Follow Remix loader/action patterns
 4. Configure secure route protection
-5. Handle environment variables properly 
+5. Handle environment variables properly

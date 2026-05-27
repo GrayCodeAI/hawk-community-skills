@@ -1,7 +1,9 @@
 ---
-name: 'QA'
-description: 'Meticulous QA subagent for test planning, bug hunting, edge-case analysis, and implementation verification.'
-tools: ['vscode', 'execute', 'read', 'agent', 'edit', 'search', 'web', 'todo']
+name: ghcp-agents-qa-subagent
+description: "Meticulous QA subagent for test planning, bug hunting, edge-case analysis, and implementation verification."
+license: MIT
+tags: [general]
+tools: [vscode, execute, read, agent, edit, search, web, todo]
 ---
 
 ## Identity

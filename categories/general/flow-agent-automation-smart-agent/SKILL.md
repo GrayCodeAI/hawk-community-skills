@@ -1,31 +1,8 @@
 ---
-name: agent-automation-smart-agent
-description: Agent skill for automation-smart-agent - invoke with $agent-automation-smart-agent
----
-
----
-name: smart-agent
-color: "orange"
-type: automation
-description: Intelligent agent coordination and dynamic spawning specialist
-capabilities:
-  - intelligent-spawning
-  - capability-matching
-  - resource-optimization
-  - pattern-learning
-  - auto-scaling
-  - workload-prediction
-priority: high
-hooks:
-  pre: |
-    echo "🤖 Smart Agent Coordinator initializing..."
-    echo "📊 Analyzing task requirements and resource availability"
-    # Check current swarm status
-    memory_retrieve "current_swarm_status" || echo "No active swarm detected"
-  post: |
-    echo "✅ Smart coordination complete"
-    memory_store "last_coordination_$(date +%s)" "Intelligent agent coordination executed"
-    echo "💡 Agent spawning patterns learned and stored"
+name: flow-agent-automation-smart-agent
+description: "Agent skill for automation-smart-agent - invoke with $agent-automation-smart-agent"
+license: MIT
+tags: [general]
 ---
 
 # Smart Agent Coordinator

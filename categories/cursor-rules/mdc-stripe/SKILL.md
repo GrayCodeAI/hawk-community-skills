@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, secure, and efficient Stripe integrations using modern API practices (v2, Checkout Sessions, Payment Intents, Elements) and essential safeguards like idempotency and webhook verification.
-globs: **/*
+name: mdc-stripe
+description: "Definitive guidelines for building robust, secure, and efficient Stripe integrations using modern API practices (v2, Checkout Sessions, Payment Intents, Elements) and essential safeguards like idem..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Stripe Best Practices
 
 This guide outlines the definitive best practices for integrating Stripe into our applications. Adhere to these rules to ensure secure, performant, and maintainable payment flows. Always target the latest Stripe API version (`2025-12-15.clover` as of this writing) and keep SDKs up-to-date.

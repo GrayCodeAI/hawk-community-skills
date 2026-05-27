@@ -1,3 +1,10 @@
+---
+name: ls-jsefk8pel_toongpt
+description: "Skill: ls-jsefk8pel_toongpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Jsefk8PeL-toongpt
 
 GPT Title: toonGPT

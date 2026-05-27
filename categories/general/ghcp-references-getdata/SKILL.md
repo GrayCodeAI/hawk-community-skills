@@ -1,3 +1,10 @@
+---
+name: ghcp-references-getdata
+description: "Skill: ghcp-references-getdata"
+license: MIT
+tags: [general]
+---
+
 ### Data Factory Integration
 
 Microsoft Fabric includes Data Factory for ETL/ELT orchestration:

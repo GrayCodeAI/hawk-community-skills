@@ -1,21 +1,13 @@
 ---
-name: comfyui-gateway
-description: REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).
+name: ag-comfyui-gateway
+description: "REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64)."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-03-06'
+date_added: 2026-03-06
 author: renat
-tags:
-- comfyui
-- api-gateway
-- image-generation
-- typescript
-tools:
-- claude-code
-- antigravity
-- cursor
-- gemini-cli
-- codex-cli
+tools: None
 ---
 
 # ComfyUI Gateway

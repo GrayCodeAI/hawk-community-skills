@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-gift-message-extraction
-role: conversion-optimization
+name: shopify-shopify-admin-gift-message-extraction
 description: "Read-only: extracts gift messages, gift recipients, and gift flags from order custom attributes and notes for fulfillment teams to print on packing slips."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

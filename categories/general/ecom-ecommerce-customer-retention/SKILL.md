@@ -1,3 +1,10 @@
+---
+name: ecom-ecommerce-customer-retention
+description: "Skill: ecom-ecommerce-customer-retention"
+license: MIT
+tags: [general]
+---
+
 # E-Commerce Customer Retention
 
 Increase customer retention and repeat purchases for e-commerce businesses. Email flows, loyalty programs, subscription models, customer segmentation, and win-back strategies.

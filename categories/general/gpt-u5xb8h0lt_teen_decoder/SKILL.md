@@ -1,3 +1,10 @@
+---
+name: gpt-u5xb8h0lt_teen_decoder
+description: "Skill: gpt-u5xb8h0lt_teen_decoder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-U5Xb8H0LT-teen-decoder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FkYy9WkSmsUi39yfn0JXvnX9?se=2123-10-22T05%3A37%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc74c3a33-1a9d-4a77-a44f-93154e2fd7b3.png&sig=1/kAjVbMAaxoLbBGhJpUbsUQWAVCKgoeJ5JP/CcftWY%3D" width="100px" />

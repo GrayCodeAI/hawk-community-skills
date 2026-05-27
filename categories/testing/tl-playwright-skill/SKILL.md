@@ -1,3 +1,10 @@
+---
+name: tl-playwright-skill
+description: "Skill: tl-playwright-skill"
+license: MIT
+tags: [testing]
+---
+
 # Playwright Skill - Complete API Reference
 
 This document contains the comprehensive Playwright API reference and advanced patterns. For quick-start execution patterns, see [SKILL.md](SKILL.md).

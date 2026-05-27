@@ -1,3 +1,10 @@
+---
+name: ghcp-references-copilot-studio-rates
+description: "Skill: ghcp-references-copilot-studio-rates"
+license: MIT
+tags: [general]
+---
+
 # Copilot Studio — Billing Rates & Estimation
 
 > Source: [Billing rates and management](https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-messages-management)

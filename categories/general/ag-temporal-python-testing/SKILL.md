@@ -1,9 +1,11 @@
 ---
-name: temporal-python-testing
+name: ag-temporal-python-testing
 description: "Comprehensive testing approaches for Temporal workflows using pytest, progressive disclosure resources for specific testing scenarios."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Temporal Python Testing Strategies

@@ -1,16 +1,11 @@
 ---
 name: cursor-flutter
-description: Cursor IDE rules for flutter
-domain: engineering
+description: "Cursor IDE rules for flutter"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Flutter: Riverpod, widget extraction, Dart 3"
-globs: ["*.dart"]
-alwaysApply: true
 ---
 
 # Flutter Cursor Rules

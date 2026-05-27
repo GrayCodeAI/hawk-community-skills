@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pipelines-and-builds
+description: "Skill: ghcp-references-pipelines-and-builds"
+license: MIT
+tags: [general]
+---
+
 # Pipelines, Builds & Releases
 
 ## Table of Contents

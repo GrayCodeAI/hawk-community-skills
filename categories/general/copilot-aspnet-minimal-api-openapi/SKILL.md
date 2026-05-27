@@ -1,6 +1,8 @@
 ---
-name: aspnet-minimal-api-openapi
-description: 'Create ASP.NET Minimal API endpoints with proper OpenAPI documentation'
+name: copilot-aspnet-minimal-api-openapi
+description: "Create ASP.NET Minimal API endpoints with proper OpenAPI documentation"
+license: MIT
+tags: [general]
 ---
 
 # ASP.NET Minimal API with OpenAPI

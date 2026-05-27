@@ -1,3 +1,10 @@
+---
+name: ls-8h78pzosw_ai.ex_bird__bees_-_talk_to_your_kids_abo
+description: "Skill: ls-8h78pzosw_ai.ex_bird__bees_-_talk_to_your_kids_abo"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8H78pzOsW-ai-ex-bird-bees-talk-to-your-kids-about-sex
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-7nU31LT378PewC5fFczu5tyi?se=2123-10-25T17%3A40%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D60907f29-5c9d-444e-bbcf-5fee21986c69.png&sig=U9th8Q5388W0y89h7vl0Wc/TUTI71pykD6cBkSRyYys%3D" width="100px" />

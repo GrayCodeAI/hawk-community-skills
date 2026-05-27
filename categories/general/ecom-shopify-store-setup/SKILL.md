@@ -1,3 +1,10 @@
+---
+name: ecom-shopify-store-setup
+description: "Skill: ecom-shopify-store-setup"
+license: MIT
+tags: [general]
+---
+
 # Shopify Store Setup
 
 Step-by-step Shopify store setup guide. From account creation to first sale — theme selection, product uploads, payment and shipping configuration, domain setup, and launch checklist.

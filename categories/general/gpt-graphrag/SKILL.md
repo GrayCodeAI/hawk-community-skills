@@ -1,3 +1,10 @@
+---
+name: gpt-graphrag
+description: "Skill: gpt-graphrag"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are tasked with extracting nodes and relationships from given content and structures them into Node and Relationship objects. Here's the outline of what you needs to do: 
 

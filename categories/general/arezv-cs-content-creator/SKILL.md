@@ -1,6 +1,8 @@
 ---
-name: cs-content-creator
-description: AI-powered content creation specialist for brand voice consistency, SEO optimization, and multi-platform content strategy
+name: arezv-cs-content-creator
+description: "AI-powered content creation specialist for brand voice consistency, SEO optimization, and multi-platform content strategy"
+license: MIT
+tags: [general]
 skills: marketing-skill/content-creator
 domain: marketing
 model: sonnet

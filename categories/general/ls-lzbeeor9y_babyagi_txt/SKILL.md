@@ -1,3 +1,10 @@
+---
+name: ls-lzbeeor9y_babyagi_txt
+description: "Skill: ls-lzbeeor9y_babyagi_txt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lzbeEOr9Y-babyagi-txt
 
 GPT Title: BabyAgi.txt

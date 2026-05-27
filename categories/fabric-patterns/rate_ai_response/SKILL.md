@@ -1,9 +1,10 @@
 ---
 name: rate_ai_response
-description: Fabric pattern - rate_ai_response
-domain: general
+description: "Fabric pattern - rate_ai_response"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -64,4 +65,3 @@ A: As good as a top 1% human expert
 # INPUT INSTRUCTIONS
 
 (the input below will be the instructions to the AI followed by the AI's output)
-
