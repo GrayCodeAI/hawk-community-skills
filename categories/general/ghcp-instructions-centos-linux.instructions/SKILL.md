@@ -1,6 +1,8 @@
 ---
-description: 'Guidance for CentOS administration, RHEL-compatible tooling, and SELinux-aware operations.'
-applyTo: '**'
+name: ghcp-instructions-centos-linux.instructions
+description: "Skill: ghcp-instructions-centos-linux.instructions"
+license: MIT
+tags: [general]
 ---
 
 # CentOS Administration Guidelines

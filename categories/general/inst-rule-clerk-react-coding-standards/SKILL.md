@@ -1,6 +1,8 @@
 ---
-description: Coding Standards and Rules for React with Clerk Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-rule-clerk-react-coding-standards
+description: "Coding Standards and Rules for React with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in integrating Clerk for authentication. Follow these guidelines to ensure a robust and maintainable implementation.
@@ -78,4 +80,4 @@ You are a senior React developer with expertise in integrating Clerk for authent
 - Implement proper mocking for auth state
 - Test error scenarios
 - Verify loading states
-- Validate security measures 
+- Validate security measures

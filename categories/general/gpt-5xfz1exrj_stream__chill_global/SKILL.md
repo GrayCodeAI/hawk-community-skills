@@ -1,3 +1,10 @@
+---
+name: gpt-5xfz1exrj_stream__chill_global
+description: "Skill: gpt-5xfz1exrj_stream__chill_global"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5xFz1ExRj-stream-chill-global
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-YQyEQKpCYp3q954cwRXqyeLf?se=2124-01-12T15%3A18%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DStream%2520%2526%2520Chill.png&sig=hd7lE2JQ1FVFs1uPkQ1RWYBblohdhrxsgN92d2%2BiVes%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: load-issues
-description: Load all open issues from GitHub and save them as markdown files
+name: neo-load-issues
+description: "Load all open issues from GitHub and save them as markdown files"
+license: MIT
+tags: [general]
 argument-hint: None required - loads all open issues automatically
 allowed-tools: Bash(gh issue:*), Bash(mkdir:*), Write
 ---

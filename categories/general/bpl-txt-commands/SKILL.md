@@ -1,12 +1,12 @@
 ---
-name: bpl-commands
-description: System prompt - commands
-domain: general
+name: bpl-txt-commands
+description: "System prompt - commands"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 Commands.TXT
 

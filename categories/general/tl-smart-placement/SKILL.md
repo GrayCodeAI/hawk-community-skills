@@ -1,3 +1,10 @@
+---
+name: tl-smart-placement
+description: "Skill: tl-smart-placement"
+license: MIT
+tags: [general]
+---
+
 # Smart Placement Gotchas
 
 ## Common Errors

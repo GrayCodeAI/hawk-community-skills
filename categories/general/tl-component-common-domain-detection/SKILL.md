@@ -1,3 +1,10 @@
+---
+name: tl-component-common-domain-detection
+description: "Skill: tl-component-common-domain-detection"
+license: MIT
+tags: [general]
+---
+
 # Common Domain Component Detection - Quick Reference
 
 ## Domain vs Infrastructure

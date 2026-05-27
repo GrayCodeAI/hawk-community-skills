@@ -1,6 +1,8 @@
 ---
-name: x-twitter-scraper
-description: 'Build GitHub Copilot workflows with Xquik X API SDKs, REST endpoints, MCP tools, signed webhooks, tweet search, user lookup, follower exports, media actions, and agent automation.'
+name: ghcp-x-twitter-scraper-skill
+description: "Build GitHub Copilot workflows with Xquik X API SDKs, REST endpoints, MCP tools, signed webhooks, tweet search, user lookup, follower exports, media actions, and agent automation."
+license: MIT
+tags: [general]
 ---
 
 # X Twitter Scraper

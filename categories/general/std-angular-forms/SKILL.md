@@ -1,16 +1,13 @@
 ---
-name: angular-forms
-description: Build typed reactive forms with strict FormGroup typing, custom validators, and nonNullable controls in Angular. Use when implementing typed reactive forms, custom validators, or form control patterns.
-metadata:
-  triggers:
-    keywords:
-    - FormBuilder
-    - FormGroup
-    - FormControl
-    - Validators
-    - reactive forms
-    - typed forms
+name: std-angular-forms
+description: "Build typed reactive forms with strict FormGroup typing, custom validators, and nonNullable controls in Angular. Use when implementing typed reactive forms, custom validators, or form control patte..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Forms
 
 ## **Priority: P2 (MEDIUM)**

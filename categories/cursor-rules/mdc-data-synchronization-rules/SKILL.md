@@ -1,7 +1,10 @@
 ---
-description: Rules for creating the data synchronization system, keeping the region grid data synchronized between the JavaScript UI and the WASM simulation.
-globs: /data_sync/**/*.*
+name: mdc-data-synchronization-rules
+description: "Rules for creating the data synchronization system, keeping the region grid data synchronized between the JavaScript UI and the WASM simulation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Implement Data Synchronization:
   - Create an efficient system for keeping the region grid data synchronized between the JavaScript UI and the WASM simulation. This might involve:
     a. Implementing periodic updates at set intervals.

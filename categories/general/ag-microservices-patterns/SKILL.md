@@ -1,9 +1,11 @@
 ---
-name: microservices-patterns
+name: ag-microservices-patterns
 description: "Master microservices architecture patterns including service boundaries, inter-service communication, data management, and resilience patterns for building distributed systems."
+license: MIT
+tags: [general]
 risk: none
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Microservices Patterns

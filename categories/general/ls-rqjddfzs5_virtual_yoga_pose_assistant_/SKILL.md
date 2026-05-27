@@ -1,3 +1,10 @@
+---
+name: ls-rqjddfzs5_virtual_yoga_pose_assistant_
+description: "Skill: ls-rqjddfzs5_virtual_yoga_pose_assistant_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RQjddfzs5-virtual-yoga-pose-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-62c2QPg3jCB7eT5eKVT214a4?se=2123-11-04T01%3A30%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df258299e-1643-4746-b57f-78e43348d078.png&sig=2rr95QGEMD9ZIkhEsew1Ei8a5bhC9SnG%2BypSOCZ1OYM%3D" width="100px" />

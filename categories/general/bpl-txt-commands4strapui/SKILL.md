@@ -1,9 +1,10 @@
 ---
-name: bpl-commands4strapui
-description: System prompt - commands4strapui
-domain: general
+name: bpl-txt-commands4strapui
+description: "System prompt - commands4strapui"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,9 +1,10 @@
 ---
 name: extract_affiliate_products
-description: Fabric pattern - extract_affiliate_products
-domain: general
+description: "Fabric pattern - extract_affiliate_products"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-object-model-quick-reference
+description: "Skill: ghcp-references-object-model-quick-reference"
+license: MIT
+tags: [general]
+---
+
 # Illustrator JavaScript Object Model Quick Reference
 
 ## Containment Hierarchy

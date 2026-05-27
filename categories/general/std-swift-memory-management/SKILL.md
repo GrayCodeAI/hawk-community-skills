@@ -1,17 +1,14 @@
 ---
-name: swift-memory-management
-description: Prevent retain cycles via ARC, weak/unowned references, and Capture Lists in Swift. Use when managing Swift ARC, avoiding retain cycles, or configuring capture lists in closures.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - weak
-    - unowned
-    - capture
-    - deinit
-    - retain
+name: std-swift-memory-management
+description: "Prevent retain cycles via ARC, weak/unowned references, and Capture Lists in Swift. Use when managing Swift ARC, avoiding retain cycles, or configuring capture lists in closures."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Swift Memory Management
 
 ## **Priority: P0**

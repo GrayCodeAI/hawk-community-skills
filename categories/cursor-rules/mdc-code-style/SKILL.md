@@ -1,7 +1,10 @@
 ---
-description: Sets specific code style guidelines for TypeScript files, focusing on variable declaration, function usage, and type system utilization.
-globs: **/*.ts
+name: mdc-code-style
+description: "Sets specific code style guidelines for TypeScript files, focusing on variable declaration, function usage, and type system utilization."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Prefer `const` over `let` when variables won't be reassigned
 - Use arrow functions for better lexical scoping and concise syntax
 - Utilize TypeScript's type system fully: use interfaces, type aliases, and generics where appropriate

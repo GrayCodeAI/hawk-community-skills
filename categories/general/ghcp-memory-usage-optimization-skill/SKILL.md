@@ -1,6 +1,8 @@
 ---
-name: qdrant-memory-usage-optimization
-description: "Diagnoses and reduces Qdrant memory usage. Use when someone reports 'memory too high', 'RAM keeps growing', 'node crashed', 'out of memory', 'memory leak', or asks 'why is memory usage so high?', 'how to reduce RAM?'. Also use when memory doesn't match calculations, quantization didn't help, or nodes crash during recovery."
+name: ghcp-memory-usage-optimization-skill
+description: "Diagnoses and reduces Qdrant memory usage. Use when someone reports 'memory too high', 'RAM keeps growing', 'node crashed', 'out of memory', 'memory leak', or asks 'why is memory usage so high?', '..."
+license: MIT
+tags: [general]
 ---
 
 # Understanding memory usage
@@ -64,4 +66,3 @@ Here are the main techniques to achieve that:
 - Consider storing Sparse Vectors and text payload on disk, as they are usually more disk-friendly than dense vectors.
 - Configure payload indexes to be stored on disk [docs](https://search.qdrant.tech/md/documentation/manage-data/indexing/?s=on-disk-payload-index)
 - Configure sparse vectors to be stored on disk [docs](https://search.qdrant.tech/md/documentation/manage-data/indexing/?s=sparse-vector-index)
-

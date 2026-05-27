@@ -1,3 +1,10 @@
+---
+name: ghcp-references-cygwin
+description: "Skill: ghcp-references-cygwin"
+license: MIT
+tags: [general]
+---
+
 # Cygwin Reference
 
 Cygwin provides a large collection of GNU and Open Source tools that provide functionality similar to a Linux distribution on Windows, plus a POSIX API DLL (`cygwin1.dll`) for substantial Linux API compatibility.

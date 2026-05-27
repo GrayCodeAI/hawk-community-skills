@@ -1,12 +1,12 @@
 ---
 name: hunting-for-cobalt-strike-beacons
-description: Detect Cobalt Strike beacon network activity using default TLS certificate signatures (serial 8BB00EE), JA3/JA3S/JARM fingerprints, HTTP C2 profile pattern matching, beacon jitter analysis, and named pipe detection via Zeek, Suricata, and Python PCAP analysis.
+description: "Detect Cobalt Strike beacon network activity using default TLS certificate signatures (serial 8BB00EE), JA3/JA3S/JARM fingerprints, HTTP C2 profile pattern matching, beacon jitter analysis, and nam..."
+license: MIT
+tags: [cobalt-strike, beacon, threat-hunting, c2, zeek, suricata, ja3, jarm, network-forensics]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [cobalt-strike, beacon, threat-hunting, c2, zeek, suricata, ja3, jarm, network-forensics]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting for Cobalt Strike Beacons

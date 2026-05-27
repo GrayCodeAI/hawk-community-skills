@@ -1,3 +1,10 @@
+---
+name: ghcp-references-auto
+description: "Skill: ghcp-references-auto"
+license: MIT
+tags: [general]
+---
+
 # Auto-instrument app
 
 Use Azure Portal to auto-instrument a webapp hosted in Azure App Service for App Insights without making any code changes. Only the following types of app can be auto-instrumented. See [supported environments and resource providers](https://learn.microsoft.com/azure/azure-monitor/app/codeless-overview#supported-environments-languages-and-resource-providers).

@@ -1,9 +1,11 @@
 ---
-name: security-threat-model
-description: Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Use when the user asks to threat model a codebase or path, enumerate threats or abuse paths, or perform AppSec threat modeling. Do NOT use for general architecture summaries, code review, security best practices (use security-best-practices), or non-security design work.
-metadata:
-  author: github.com/openai/skills
-  version: '1.0.0'
+name: tl-security-threat-model
+description: "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Use when the user asks..."
+license: MIT
+tags: [security]
+metadata: None
+author: github.com/openai/skills
+version: 1.0.0
 ---
 
 # Threat Model Source Code Repo

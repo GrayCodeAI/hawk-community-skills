@@ -1,13 +1,14 @@
 ---
 name: performing-open-source-intelligence-gathering
-description: Open Source Intelligence (OSINT) gathering is the first active phase of a red team engagement, where operators collect publicly available information about the target organization to identify attack s
+description: "Open Source Intelligence (OSINT) gathering is the first active phase of a red team engagement, where operators collect publicly available information about the target organization to identify attack s"
+license: MIT
+tags: [red-team, adversary-simulation, mitre-attack, exploitation, post-exploitation, osint, reconnaissance]
 domain: cybersecurity
 subdomain: red-teaming
-tags: [red-team, adversary-simulation, mitre-attack, exploitation, post-exploitation, osint, reconnaissance]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Open Source Intelligence Gathering
 
 ## Overview

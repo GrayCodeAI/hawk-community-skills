@@ -1,3 +1,10 @@
+---
+name: tl-sandbox
+description: "Skill: tl-sandbox"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Best Practices
 
 ## Common Errors

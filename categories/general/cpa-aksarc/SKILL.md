@@ -1,3 +1,10 @@
+---
+name: cpa-aksarc
+description: "Skill: cpa-aksarc"
+license: MIT
+tags: [general]
+---
+
 # az aksarc
 
 ```bash

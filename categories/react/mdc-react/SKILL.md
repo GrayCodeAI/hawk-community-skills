@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing idiomatic, maintainable, and performant React applications using modern best practices and TypeScript.
-globs: **/*.{jsx,tsx}
+name: mdc-react
+description: "Definitive guidelines for writing idiomatic, maintainable, and performant React applications using modern best practices and TypeScript."
+license: MIT
+tags: [react]
 ---
+
 # react Best Practices
 
 This guide outlines the non-negotiable standards for building React applications within our team. Adherence ensures predictable behavior, simplifies debugging, and enables future optimizations.

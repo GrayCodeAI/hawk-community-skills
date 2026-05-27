@@ -1,3 +1,10 @@
+---
+name: ghcp-references-best-practices
+description: "Skill: ghcp-references-best-practices"
+license: MIT
+tags: [general]
+---
+
 # Best Practices for Pattern Selection
 
 ## Selecting Appropriate Patterns

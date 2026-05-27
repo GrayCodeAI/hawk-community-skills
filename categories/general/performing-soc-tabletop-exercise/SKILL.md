@@ -1,17 +1,14 @@
 ---
 name: performing-soc-tabletop-exercise
-description: >
-  Performs tabletop exercises for SOC teams simulating security incidents through discussion-based
-  scenarios to test incident response procedures, communication workflows, and decision-making
-  under pressure without impacting production systems. Use when organizations need to validate
-  IR playbooks, train analysts, or meet compliance requirements for incident response testing.
+description: "Performs tabletop exercises for SOC teams simulating security incidents through discussion-based scenarios to test incident response procedures, communication workflows, and decision-making under p..."
+license: MIT
+tags: [soc, tabletop, exercise, incident-response, training, nist, playbook-validation]
 domain: cybersecurity
 subdomain: soc-operations
-tags: [soc, tabletop, exercise, incident-response, training, nist, playbook-validation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing SOC Tabletop Exercise
 
 ## When to Use

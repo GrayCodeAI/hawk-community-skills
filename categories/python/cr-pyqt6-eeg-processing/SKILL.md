@@ -1,9 +1,10 @@
 ---
 name: cr-pyqt6-eeg-processing
-description: Cursor rules for pyqt6-eeg-processing
-domain: engineering
+description: "Cursor rules for pyqt6-eeg-processing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -73,4 +74,3 @@ def implement_eeg_processor():
 
 if __name__ == '__main__':
   implement_eeg_processor()
-

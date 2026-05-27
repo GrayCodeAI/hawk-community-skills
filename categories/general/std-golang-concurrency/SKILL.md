@@ -1,18 +1,13 @@
 ---
-name: golang-concurrency
-description: Write safe concurrent Go code with goroutines, channels, and context. Use when implementing concurrency with goroutines, channels, or context in Go.
-metadata:
-  triggers:
-    keywords:
-    - goroutine
-    - go keyword
-    - channel
-    - mutex
-    - waitgroup
-    - context
-    - errgroup
-    - race condition
+name: std-golang-concurrency
+description: "Write safe concurrent Go code with goroutines, channels, and context. Use when implementing concurrency with goroutines, channels, or context in Go."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Golang Concurrency
 
 ## **Priority: P0 (CRITICAL)**

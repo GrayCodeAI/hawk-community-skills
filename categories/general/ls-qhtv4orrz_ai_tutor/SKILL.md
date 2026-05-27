@@ -1,3 +1,10 @@
+---
+name: ls-qhtv4orrz_ai_tutor
+description: "Skill: ls-qhtv4orrz_ai_tutor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-QhTV4OrrZ-ai-tutor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RVGGRtLwF7cJbZYiIOYFOx1U?se=2123-10-17T06%3A11%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0b85240-6049-4900-8c8d-ce61cf749986.png&sig=twKIZaTxjQaM8jvoDJ1Z971nD%2BXYkvxIF08aXMoaEo0%3D" width="100px" />

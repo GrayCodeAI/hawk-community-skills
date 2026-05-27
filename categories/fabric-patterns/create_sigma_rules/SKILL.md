@@ -1,9 +1,10 @@
 ---
 name: create_sigma_rules
-description: Fabric pattern - create_sigma_rules
-domain: general
+description: "Fabric pattern - create_sigma_rules"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,16 +1,11 @@
 ---
 name: cursor-typescript
-description: Cursor IDE rules for typescript
-domain: engineering
+description: "Cursor IDE rules for typescript"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Strict TypeScript: generics, discriminated unions, no any"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # TypeScript Rules

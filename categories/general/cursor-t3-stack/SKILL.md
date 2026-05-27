@@ -1,16 +1,11 @@
 ---
 name: cursor-t3-stack
-description: Cursor IDE rules for t3-stack
-domain: engineering
+description: "Cursor IDE rules for t3-stack"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "T3 Stack: tRPC + Prisma + NextAuth integration patterns"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # T3 Stack Cursor Rules

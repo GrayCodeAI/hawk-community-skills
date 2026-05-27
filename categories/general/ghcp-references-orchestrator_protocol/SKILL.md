@@ -1,3 +1,10 @@
+---
+name: ghcp-references-orchestrator_protocol
+description: "Skill: ghcp-references-orchestrator_protocol"
+license: MIT
+tags: [general]
+---
+
 # Orchestrator Protocol
 
 Shared rules for all orchestrator agent files (Claude Code, Copilot, Cursor, Windsurf). Platform-specific agent files reference this file for the hardening rules and verification gates.

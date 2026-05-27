@@ -1,16 +1,12 @@
 ---
 name: implementing-osquery-for-endpoint-monitoring
-description: >-
-  Deploy osquery scheduled queries for continuous endpoint monitoring covering process inventory,
-  network connections, file integrity, and persistence mechanisms. Generates osquery.conf with
-  query packs, configures differential result logging, and analyzes query results to detect
-  suspicious processes, unauthorized listeners, and file modifications in system directories.
+description: "Deploy osquery scheduled queries for continuous endpoint monitoring covering process inventory, network connections, file integrity, and persistence mechanisms. Generates osquery.conf with query pa..."
+license: MIT
+tags: [implementing, osquery, for, endpoint]
 domain: cybersecurity
 subdomain: security-operations
-tags: [implementing, osquery, for, endpoint]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

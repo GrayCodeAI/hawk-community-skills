@@ -1,3 +1,10 @@
+---
+name: gpt-br0uftdcr_interview-coach
+description: "Skill: gpt-br0uftdcr_interview-coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Br0UFtDCR-interview-coach
 
 GPT Title: Interview Coach

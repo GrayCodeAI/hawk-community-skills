@@ -1,3 +1,10 @@
+---
+name: tl-workerd
+description: "Skill: tl-workerd"
+license: MIT
+tags: [general]
+---
+
 # Workerd Gotchas
 
 ## Common Errors

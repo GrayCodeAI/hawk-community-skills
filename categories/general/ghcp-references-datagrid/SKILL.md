@@ -1,3 +1,10 @@
+---
+name: ghcp-references-datagrid
+description: "Skill: ghcp-references-datagrid"
+license: MIT
+tags: [general]
+---
+
 # FluentDataGrid
 
 `FluentDataGrid<TGridItem>` is a strongly-typed generic component for displaying tabular data.

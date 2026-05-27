@@ -1,16 +1,14 @@
 ---
-name: nestjs-performance
-description: Optimize NestJS throughput with Fastify adapter, singleton scope enforcement, compression, and query projections. Use when switching to Fastify, diagnosing request-scoped bottlenecks, or profiling API overhead.
-metadata:
-  triggers:
-    files:
-    - 'main.ts'
-    keywords:
-    - FastifyAdapter
-    - compression
-    - SINGLETON
-    - REQUEST scope
+name: std-nestjs-performance
+description: "Optimize NestJS throughput with Fastify adapter, singleton scope enforcement, compression, and query projections. Use when switching to Fastify, diagnosing request-scoped bottlenecks, or profiling ..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Performance Tuning
 
 ## **Priority: P1 (OPERATIONAL)**

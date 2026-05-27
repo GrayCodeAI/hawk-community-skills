@@ -1,6 +1,8 @@
 ---
-name: "cro-review"
+name: arezv-cro-review
 description: "/cs:cro-review <plan> — Pipeline-paranoid interrogation of revenue, win rate, NRR, and ramp time."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cro-review — CRO Forcing Questions

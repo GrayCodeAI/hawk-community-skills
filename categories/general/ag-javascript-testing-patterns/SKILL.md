@@ -1,9 +1,11 @@
 ---
-name: javascript-testing-patterns
+name: ag-javascript-testing-patterns
 description: "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # JavaScript Testing Patterns

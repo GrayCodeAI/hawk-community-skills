@@ -1,14 +1,12 @@
 ---
-name: pr-review
-description: >
-  Review pull requests for the MiniMax Skills repository. Use when reviewing PRs,
-  validating new skill submissions, or checking existing skills for compliance.
-  Run the validation script first for hard checks, then apply quality guidelines
-  for content review. Triggers: PR review, pull request, validate skill, check skill.
+name: minimax-pr-review
+description: "Skill: minimax-pr-review"
 license: MIT
-metadata:
-  version: "1.0"
-  category: tooling
+tags: [general]
+for content review. Triggers: PR review, pull request, validate skill, check skill.
+metadata: None
+version: 1.0
+category: tooling
 ---
 
 # PR Review Skill

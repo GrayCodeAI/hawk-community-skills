@@ -1,3 +1,10 @@
+---
+name: cpa-databricks
+description: "Skill: cpa-databricks"
+license: MIT
+tags: [general]
+---
+
 # az databricks
 
 ```bash

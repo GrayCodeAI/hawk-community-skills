@@ -1,9 +1,10 @@
 ---
 name: analyze_comments
-description: Fabric pattern - analyze_comments
-domain: general
+description: "Fabric pattern - analyze_comments"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -28,4 +29,3 @@ In a section called POSITIVES, give 5 bullets of the things that commenters like
 In a section called NEGATIVES, give 5 bullets of the things that commenters disliked about the content in 15-word sentences.
 
 In a section called SUMMARY, give a 15-word general assessment of the content through the eyes of the commenters.
-

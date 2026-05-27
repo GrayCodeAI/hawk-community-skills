@@ -1,3 +1,10 @@
+---
+name: ghcp-references-http-networking
+description: "Skill: ghcp-references-http-networking"
+license: MIT
+tags: [general]
+---
+
 # HTTP & Networking Reference
 
 Comprehensive reference for HTTP protocol, networking concepts, and web communication.

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-llm
+description: "Skill: ghcp-references-span-llm"
+license: MIT
+tags: [general]
+---
+
 # LLM Spans
 
 Represent calls to language models (OpenAI, Anthropic, local models, etc.).

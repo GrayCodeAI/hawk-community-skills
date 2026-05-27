@@ -1,9 +1,11 @@
---- 
-name: unsplash-integration
-description: Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash.
+---
+name: ag-unsplash-integration
+description: "Integration skill for searching and fetching high-quality, free-to-use professional photography from Unsplash."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-07"
+date_added: 2026-03-07
 ---
 
 # Unsplash Integration Skill

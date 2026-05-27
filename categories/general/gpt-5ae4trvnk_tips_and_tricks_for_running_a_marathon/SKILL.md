@@ -1,3 +1,10 @@
+---
+name: gpt-5ae4trvnk_tips_and_tricks_for_running_a_marathon
+description: "Skill: gpt-5ae4trvnk_tips_and_tricks_for_running_a_marathon"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5aE4TRvnK-tips-and-tricks-for-running-a-marathon
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FcwIxmcFWlAPQd54J3QDKTIf?se=2123-11-20T07%3A49%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D08a48741-009d-4f6f-9b7d-a4f8d949797b.png&sig=jAeFwtlJr%2Bn8WZ7ASTiazaPTWmGbJPGRMaBtubRXZfY%3D" width="100px" />

@@ -1,9 +1,12 @@
 ---
-name: monitor-stream
-description: Stream live swarm events using the Monitor tool for real-time observability
-argument-hint: ""
+name: flow-monitor-stream
+description: "Stream live swarm events using the Monitor tool for real-time observability"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash(npx *) mcp__claude-flow__swarm_status mcp__claude-flow__swarm_health Monitor
 ---
+
 Use the Monitor tool to stream swarm events in real time instead of polling:
 
 Run via Monitor: `npx @claude-flow/cli@latest swarm watch --stream`

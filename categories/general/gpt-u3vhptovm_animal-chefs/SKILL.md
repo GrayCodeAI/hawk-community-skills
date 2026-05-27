@@ -1,3 +1,10 @@
+---
+name: gpt-u3vhptovm_animal-chefs
+description: "Skill: gpt-u3vhptovm_animal-chefs"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-U3VHptOvM-animal-chefs
 
 

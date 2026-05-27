@@ -1,14 +1,13 @@
 ---
-name: common-documentation
-description: Write effective code comments, READMEs, and technical documentation following intent-first principles. Use when adding comments, writing docstrings, creating READMEs, or updating any documentation.
-metadata:
-  triggers:
-    keywords:
-    - comment
-    - docstring
-    - readme
-    - documentation
+name: std-common-documentation
+description: "Write effective code comments, READMEs, and technical documentation following intent-first principles. Use when adding comments, writing docstrings, creating READMEs, or updating any documentation."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Documentation Standards
 
 ## **Priority: P2 (MAINTENANCE)**

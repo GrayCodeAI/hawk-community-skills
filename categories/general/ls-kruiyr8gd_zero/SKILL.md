@@ -1,3 +1,10 @@
+---
+name: ls-kruiyr8gd_zero
+description: "Skill: ls-kruiyr8gd_zero"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KRUiYR8gD-zero
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Vd23Cis7PRO0QB5eeuoW7Inh?se=2123-10-21T01%3A11%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dimage%2520-%25202023-11-13T142633.090.png&sig=ttnhw6Oj8jiJ3epHaTa7nud2BrJV6Lilj3OJwtXpdTM%3D" width="100px" />

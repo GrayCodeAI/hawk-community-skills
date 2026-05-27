@@ -1,8 +1,10 @@
 ---
-name: memory-search
-description: SOTA semantic search — hybrid (sparse+dense), Graph RAG multi-hop, MMR diversity reranking, recency weighting
+name: flow-memory-search
+description: "SOTA semantic search — hybrid (sparse+dense), Graph RAG multi-hop, MMR diversity reranking, recency weighting"
+license: MIT
+tags: [general]
 allowed-tools: Bash Read mcp__claude-flow__memory_search mcp__claude-flow__memory_store mcp__claude-flow__memory_list mcp__claude-flow__memory_retrieve mcp__claude-flow__memory_search_unified mcp__claude-flow__agentdb_pattern-search mcp__claude-flow__agentdb_context-synthesize
-argument-hint: "<query> [--hybrid] [--graph-rag] [--namespace NAME]"
+argument-hint: <query> [--hybrid] [--graph-rag] [--namespace NAME]
 ---
 
 # Memory Search (SOTA)

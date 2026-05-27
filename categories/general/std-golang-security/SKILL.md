@@ -1,19 +1,14 @@
 ---
-name: golang-security
-description: Secure Go backend services against common vulnerabilities. Use when implementing input validation, crypto, or SQL injection prevention in Go.
-metadata:
-  triggers:
-    files:
-    - 'crypto/rand'
-    keywords:
-    - argon2
-    - sanitize
-    - jwt
-    - bcrypt
-    - validation
-    - input validation
-    - sql injection
+name: std-golang-security
+description: "Secure Go backend services against common vulnerabilities. Use when implementing input validation, crypto, or SQL injection prevention in Go."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang Security Standards
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,3 +1,10 @@
+---
+name: gpt-hhc81csaa_babyagi-sql
+description: "Skill: gpt-hhc81csaa_babyagi-sql"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HhC81CsaA-babyagi-sql
 
 GPT Title: BabyAgi.sql

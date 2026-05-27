@@ -1,8 +1,10 @@
 ---
+name: ghcp-agents-one-shot-feature-issue-planner
 description: "Cloud Agent to Turn a single new-feature request into a complete, issue-ready implementation plan without follow-up questions."
-name: "one-shot-feature-issue-planner"
+license: MIT
+tags: [general]
 agent: agent
-tools: ["codebase", "githubRepo", "search", "usages", "web/fetch", "findTestFiles"]
+tools: [codebase, githubRepo, search, usages, web/fetch, findTestFiles]
 ---
 
 # One-Shot Feature Issue Planner

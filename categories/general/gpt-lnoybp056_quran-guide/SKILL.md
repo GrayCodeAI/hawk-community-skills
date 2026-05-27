@@ -1,3 +1,10 @@
+---
+name: gpt-lnoybp056_quran-guide
+description: "Skill: gpt-lnoybp056_quran-guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LNoybP056-quran-guide
 
 GPT Title: Quran Guide

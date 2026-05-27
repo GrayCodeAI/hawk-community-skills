@@ -1,69 +1,11 @@
 ---
-name: skill-creator
-description: Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specialized knowledge, workflows, or tool integrations.
+name: isc-skill-creator
+description: Guide for creating effective skills. This skill should be used when users
+  want to create a new skill (or update an existing skill) that extends Claude's capabilities
+  with specialized knowledge, wor...
 license: Complete terms in LICENSE.txt
----
-
-# Skill Creator
-
-This skill provides guidance for creating effective skills.
-
-## About Skills
-
-Skills are modular, self-contained packages that extend Claude's capabilities by providing
-specialized knowledge, workflows, and tools. Think of them as "onboarding guides" for specific
-domains or tasks—they transform Claude from a general-purpose agent into a specialized agent
-equipped with procedural knowledge that no model can fully possess.
-
-### What Skills Provide
-
-1. Specialized workflows - Multi-step procedures for specific domains
-2. Tool integrations - Instructions for working with specific file formats or APIs
-3. Domain expertise - Company-specific knowledge, schemas, business logic
-4. Bundled resources - Scripts, references, and assets for complex and repetitive tasks
-
-## 🔧 **BASH COMMAND ATTRIBUTION PATTERN**
-
-**CRITICAL: Before executing EACH bash command, MUST output:**
-```
-🔧 [skill-creator] Running: <command>
-```
-
-**Examples:**
-```
-🔧 [skill-creator] Running: mkdir -p .claude/skills/new-skill/scripts
-🔧 [skill-creator] Running: touch .claude/skills/new-skill/skill.md
-🔧 [skill-creator] Running: bash .claude/skills/colored-output/color.sh skill-header "skill-creator" "Creating skill..."
-```
-
-**Why:** This pattern helps users identify which skill is executing which command, improving transparency and debugging.
-
----
-
-## 🎨 **VISUAL OUTPUT FORMATTING**
-
-**CRITICAL: All skill-creator output MUST use the colored-output formatter skill!**
-
-### Use Colored-Output Skill
-
-**IMPORTANT: Use MINIMAL colored output (2-3 calls max) to prevent screen flickering!**
-
-**Example formatted output (MINIMAL PATTERN):**
-```bash
-# START: Header only
-bash .claude/skills/colored-output/color.sh skill-header "skill-creator" "Creating new skill..."
-
-# MIDDLE: Regular text (no colored calls)
-Generating skill template with frontmatter...
-Creating skill.md file...
-Adding example usage sections...
-
-# END: Result only
-bash .claude/skills/colored-output/color.sh success "" "Skill created successfully"
-```
-
-**WHY:** Each bash call creates a task in Claude CLI, causing screen flickering. Keep it minimal!
-
+tags:
+- general
 ---
 
 ### Anatomy of a Skill

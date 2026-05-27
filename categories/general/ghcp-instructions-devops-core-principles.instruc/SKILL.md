@@ -1,6 +1,8 @@
 ---
-applyTo: '*'
-description: 'Foundational instructions covering core DevOps principles, culture (CALMS), and key metrics (DORA) to guide GitHub Copilot in understanding and promoting effective software delivery.'
+name: ghcp-instructions-devops-core-principles.instruc
+description: "Skill: ghcp-instructions-devops-core-principles.instruc"
+license: MIT
+tags: [general]
 ---
 
 # DevOps Core Principles
@@ -164,4 +166,4 @@ DevOps is not just about tools or automation; it's fundamentally about culture a
 
 ---
 
-<!-- End of DevOps Core Principles Instructions --> 
+<!-- End of DevOps Core Principles Instructions -->

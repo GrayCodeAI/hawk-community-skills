@@ -1,18 +1,14 @@
 ---
-name: php-language
-description: Apply core PHP language standards and modern 8.x features. Use when working with PHP 8.x features like enums, fibers, readonly properties, or named arguments.
-metadata:
-  triggers:
-    files:
-    - '**/*.php'
-    keywords:
-    - declare
-    - readonly
-    - match
-    - constructor
-    - promotion
-    - types
+name: std-php-language
+description: "Apply core PHP language standards and modern 8.x features. Use when working with PHP 8.x features like enums, fibers, readonly properties, or named arguments."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PHP Language Standards
 
 ## **Priority: P0 (CRITICAL)**

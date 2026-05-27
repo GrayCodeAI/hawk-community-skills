@@ -1,3 +1,10 @@
+---
+name: ls-part2
+description: "Skill: ls-part2"
+license: MIT
+tags: [general]
+---
+
 # Part 2: Spells, Beginner Incantations
 
 ## Chapter 6: Telekinesis 101, Interactive
@@ -76,4 +83,3 @@ Link it to your site
 Build a blog using https://ghost.org/
 Host with ghost and use a template, or customize the template in handlebars, or run it as a headless cms and build your own.
 Use browser tool to look up documentation here: https://ghost.org/docs/
- 

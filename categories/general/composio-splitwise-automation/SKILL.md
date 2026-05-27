@@ -1,8 +1,10 @@
 ---
-name: splitwise-automation
+name: composio-splitwise-automation
 description: "Automate Splitwise tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Splitwise Automation via Rube MCP

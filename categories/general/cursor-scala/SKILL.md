@@ -1,16 +1,11 @@
 ---
 name: cursor-scala
-description: Cursor IDE rules for scala
-domain: engineering
+description: "Cursor IDE rules for scala"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Scala: type safety, functional patterns, implicits"
-globs: ["*.scala", "*.sc"]
-alwaysApply: true
 ---
 
 # Scala Cursor Rules

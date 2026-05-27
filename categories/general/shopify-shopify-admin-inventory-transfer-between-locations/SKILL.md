@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-inventory-transfer-between-locations
-role: merchandising
+name: shopify-shopify-admin-inventory-transfer-between-locations
 description: "Moves inventory units from one location to another by decrementing the source and incrementing the destination."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - locations:query
-  - inventoryItems:query
-  - inventoryAdjustQuantities:mutation
+api_version: 2025-01
+graphql_operations: [{'locations': 'query'}, {'inventoryItems': 'query'}, {'inventoryAdjustQuantities': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

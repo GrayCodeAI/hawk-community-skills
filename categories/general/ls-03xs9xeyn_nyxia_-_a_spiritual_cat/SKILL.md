@@ -1,3 +1,10 @@
+---
+name: ls-03xs9xeyn_nyxia_-_a_spiritual_cat
+description: "Skill: ls-03xs9xeyn_nyxia_-_a_spiritual_cat"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-03XS9XEyN-nyxia-a-spiritual-cat
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wSdinWrUB1ZvXDJTwuaFUFAD?se=2123-12-20T09%3A45%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dround_nyxiaGPT.png&sig=4rWm3Cuj%2BL2BZd1uaIUBTRj98Lozf2YWQ1Km5Zi1E24%3D" width="100px" />

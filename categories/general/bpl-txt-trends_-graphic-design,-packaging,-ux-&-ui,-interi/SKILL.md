@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-graphic-design,-packaging,-ux-&-ui,-interi
-description: System prompt - trends_-graphic-design,-packaging,-ux-&-ui,-interi
-domain: general
+name: bpl-txt-trends_-graphic-design,-packaging,-ux-&-ui,-interi
+description: "System prompt - trends_-graphic-design,-packaging,-ux-&-ui,-interi"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

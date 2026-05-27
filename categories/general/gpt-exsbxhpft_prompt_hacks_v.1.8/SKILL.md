@@ -1,3 +1,10 @@
+---
+name: gpt-exsbxhpft_prompt_hacks_v.1.8
+description: "Skill: gpt-exsbxhpft_prompt_hacks_v.1.8"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EXsBxHpft-prompt-hacks-v-1-8
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ImZOx4naKPyqbMFJI5g74VBX?se=2123-10-19T15%3A02%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DPomptrhacks%2520%25283%2529%2520%25281%2529.png&sig=agPJb4HaG%2BgY8GZfTL2IGyxXOa2h3Kawy/a1fWxxLtY%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-ykdul3yph_take-code-captures
+description: "Skill: ls-ykdul3yph_take-code-captures"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yKDul3yPH-take-code-captures
 
 GPT Title: Take Code Captures

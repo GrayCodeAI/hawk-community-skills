@@ -1,3 +1,10 @@
+---
+name: cpa-costmanagement
+description: "Skill: cpa-costmanagement"
+license: MIT
+tags: [general]
+---
+
 # az costmanagement
 
 ```bash

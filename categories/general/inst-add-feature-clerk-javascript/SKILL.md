@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding features to vanilla JavaScript apps with Clerk Authentication
-globs: "**/*.html, **/*.js"
+name: inst-add-feature-clerk-javascript
+description: "Guidelines for adding features to vanilla JavaScript apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Adding Features to Vanilla JavaScript App with Clerk Authentication
@@ -279,4 +281,4 @@ async function handleWebhook(request) {
 12. Implement proper logout handling
 13. Use Clerk's built-in UI components when possible
 14. Implement proper redirect handling after authentication
-15. Use proper security headers in your application 
+15. Use proper security headers in your application

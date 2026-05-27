@@ -1,3 +1,10 @@
+---
+name: gpt-1rss4dqix_minidave-pyaicodex-debugger_v5
+description: "Skill: gpt-1rss4dqix_minidave-pyaicodex-debugger_v5"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1rSs4dQIx-minidave-pyaicodex-debugger-v5
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2oAcSMXmrwkHscmF2vl68tS3?se=2123-10-18T00%3A07%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-06%252014.51.52%2520-%2520An%2520advanced%2520robot%2520with%2520the%2520name%2520%2527IZZY%2527%2520clearly%2520stamped%2520on%2520the%2520front%2520of%2520its%2520chest%2520plate.%2520The%2520robot%2520has%2520a%2520modern%2520design%2520with%2520a%2520glossy%2520metallic%2520finish%2520an.png&sig=h7Crm84Olsz%2B93iVsEQmBLbnUjHI/R/AI/7Gf0wdFIA%3D" width="100px" />

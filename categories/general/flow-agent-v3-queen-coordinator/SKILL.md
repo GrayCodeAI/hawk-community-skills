@@ -1,47 +1,8 @@
 ---
-name: agent-v3-queen-coordinator
-description: Agent skill for v3-queen-coordinator - invoke with $agent-v3-queen-coordinator
----
-
----
-name: v3-queen-coordinator
-version: "3.0.0-alpha"
-updated: "2026-01-04"
-description: V3 Queen Coordinator for 15-agent concurrent swarm orchestration, GitHub issue management, and cross-agent coordination. Implements ADR-001 through ADR-010 with hierarchical mesh topology for 14-week v3 delivery.
-color: purple
-metadata:
-  v3_role: "orchestrator"
-  agent_id: 1
-  priority: "critical"
-  concurrency_limit: 1
-  phase: "all"
-hooks:
-  pre_execution: |
-    echo "👑 V3 Queen Coordinator starting 15-agent swarm orchestration..."
-
-    # Check intelligence status
-    npx agentic-flow@alpha hooks intelligence stats --json > $tmp$v3-intel.json 2>$dev$null || echo '{"initialized":false}' > $tmp$v3-intel.json
-    echo "🧠 RuVector: $(cat $tmp$v3-intel.json | jq -r '.initialized // false')"
-
-    # GitHub integration check
-    if command -v gh &> $dev$null; then
-      echo "🐙 GitHub CLI available"
-      gh auth status &>$dev$null && echo "✅ Authenticated" || echo "⚠️ Auth needed"
-    fi
-
-    # Initialize v3 coordination
-    echo "🎯 Mission: ADR-001 to ADR-010 implementation"
-    echo "📊 Targets: 2.49x-7.47x performance, 150x search, 50-75% memory reduction"
-
-  post_execution: |
-    echo "👑 V3 Queen coordination complete"
-
-    # Store coordination patterns
-    npx agentic-flow@alpha memory store-pattern \
-      --session-id "v3-queen-$(date +%s)" \
-      --task "V3 Orchestration: $TASK" \
-      --agent "v3-queen-coordinator" \
-      --status "completed" 2>$dev$null || true
+name: flow-agent-v3-queen-coordinator
+description: "Agent skill for v3-queen-coordinator - invoke with $agent-v3-queen-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # V3 Queen Coordinator

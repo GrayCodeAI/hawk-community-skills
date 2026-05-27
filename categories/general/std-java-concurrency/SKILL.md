@@ -1,22 +1,14 @@
 ---
-name: java-concurrency
-description: Implement modern concurrency with Virtual Threads and Structured Concurrency in Java. Use when implementing Java Virtual Threads (Java 21), Structured Concurrency with StructuredTaskScope, CompletableFuture pipelines, or debugging race conditions.
-metadata:
-  triggers:
-    files:
-    - '**/*.java'
-    keywords:
-    - Thread
-    - Executor
-    - synchronized
-    - lock
-    - CompletableFuture
-    - StructuredTaskScope
-    - VirtualThread
-    - AtomicInteger
-    - async
-    - race condition
+name: std-java-concurrency
+description: "Implement modern concurrency with Virtual Threads and Structured Concurrency in Java. Use when implementing Java Virtual Threads (Java 21), Structured Concurrency with StructuredTaskScope, Completa..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Java Concurrency
 
 ## **Priority: P1 (HIGH)**

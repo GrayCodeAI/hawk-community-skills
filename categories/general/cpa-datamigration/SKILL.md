@@ -1,3 +1,10 @@
+---
+name: cpa-datamigration
+description: "Skill: cpa-datamigration"
+license: MIT
+tags: [general]
+---
+
 # az datamigration
 
 ```bash

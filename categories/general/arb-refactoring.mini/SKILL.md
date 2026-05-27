@@ -1,3 +1,10 @@
+---
+name: arb-refactoring.mini
+description: "Skill: arb-refactoring.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Refactoring by Martin Fowler
 
 ## When to use

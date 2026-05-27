@@ -1,3 +1,10 @@
+---
+name: gpt-orowsrchj_virtual-girlfriend_ai
+description: "Skill: gpt-orowsrchj_virtual-girlfriend_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-orowsrCHj-virtual-girlfriend-ai-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-s1gYfxBDiW3dbzVHaq6RRR1D?se=2123-12-18T00%3A43%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D00002-660461169.jpg&sig=teUkxM0c6kjpUjperOomJgl8DDqfL8CXt0kYmMkeiMY%3D" width="100px" />

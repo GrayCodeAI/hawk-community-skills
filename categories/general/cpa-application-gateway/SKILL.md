@@ -1,3 +1,10 @@
+---
+name: cpa-application-gateway
+description: "Skill: cpa-application-gateway"
+license: MIT
+tags: [general]
+---
+
 # az network application-gateway
 
 ```bash

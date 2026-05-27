@@ -1,20 +1,14 @@
 ---
-name: ios-networking
-description: Build API clients with URLSession, Alamofire, and Codable. Use when implementing URLSession networking, Alamofire, or API clients in iOS.
-metadata:
-  triggers:
-    files:
-    - '**/*Service.swift'
-    - '**/*API.swift'
-    - '**/*Client.swift'
-    keywords:
-    - URLSession
-    - Alamofire
-    - Moya
-    - URLRequest
-    - URLComponents
-    - Codable
+name: std-ios-networking
+description: "Build API clients with URLSession, Alamofire, and Codable. Use when implementing URLSession networking, Alamofire, or API clients in iOS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Networking
 
 ## **Priority: P0**

@@ -1,22 +1,23 @@
 ---
-name: Relevance Check
+name: ghcp-workflows-relevance-check
 description: "Slash command to evaluate whether an issue or pull request is still relevant to the project"
-on:
-  slash_command:
-    name: relevance-check
-  roles: [admin, maintainer, write]
-engine:
-  id: copilot
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-tools:
-  github:
-    toolsets: [default]
-safe-outputs:
-  add-comment:
-    max: 1
+license: MIT
+tags: [general]
+True: None
+slash_command: None
+roles: [admin, maintainer, write]
+engine: None
+id: copilot
+permissions: None
+contents: read
+issues: read
+pull-requests: read
+tools: None
+github: None
+toolsets: [default]
+safe-outputs: None
+add-comment: None
+max: 1
 ---
 
 # Relevance Check Agent

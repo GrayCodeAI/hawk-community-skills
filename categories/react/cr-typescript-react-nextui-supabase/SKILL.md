@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-react-nextui-supabase
-description: Cursor rules for typescript-react-nextui-supabase
-domain: engineering
+description: "Cursor rules for typescript-react-nextui-supabase"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -40,4 +41,3 @@ Error Handling: A generic error component is used to display errors and provide 
 
 Navbar: A responsive navbar for the landing page and possibly other public pages.
 Sidebar: A collapsible sidebar for the dashboard, indicating a more complex, multi-page application structure for authenticated users.
-

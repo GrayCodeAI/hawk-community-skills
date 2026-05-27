@@ -1,3 +1,10 @@
+---
+name: ghcp-references-annotations-python
+description: "Skill: ghcp-references-annotations-python"
+license: MIT
+tags: [general]
+---
+
 # Python SDK Annotation Patterns
 
 Add feedback to spans, traces, documents, and sessions using the Python client.

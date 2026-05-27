@@ -1,6 +1,8 @@
 ---
-description: 'AI-powered script generation guidelines'
-applyTo: '**/*.genai.*'
+name: ghcp-instructions-genaiscript.instructions
+description: "Skill: ghcp-instructions-genaiscript.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Role

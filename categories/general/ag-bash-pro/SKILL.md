@@ -1,16 +1,13 @@
 ---
-name: bash-pro
-description: 'Master of defensive Bash scripting for production automation, CI/CD
-
-  pipelines, and system utilities. Expert in safe, portable, and testable shell
-
-  scripts.
-
-  '
+name: ag-bash-pro
+description: "Master of defensive Bash scripting for production automation, CI/CD"
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
+
 ## Use this skill when
 
 - Writing or reviewing Bash scripts for automation, CI/CD, or ops

@@ -1,3 +1,10 @@
+---
+name: gpt-8xhnn8cgn_text_adventure_game
+description: "Skill: gpt-8xhnn8cgn_text_adventure_game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8XHNn8CgN-text-adventure-game
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2hG3efF59YvKTQnEzZnlOISF?se=2124-01-12T17%3A59%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbb0f468c-840a-4154-b7d3-5a05c53a8be2.png&sig=R04awGLiJG6wCfyUqAWLDDg5FUAZalh1rTY4cm%2Bq2tA%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing efficient, maintainable, and performant Django ORM code, focusing on common pitfalls and modern patterns.
-globs: **/*.py
+name: mdc-django-orm
+description: "This guide provides opinionated, actionable best practices for writing efficient, maintainable, and performant Django ORM code, focusing on common pitfalls and modern patterns."
+license: MIT
+tags: [python]
 ---
+
 # django-orm Best Practices
 
 These rules are your definitive guide for writing robust and performant Django ORM code. Adhere to them strictly to ensure consistency, efficiency, and maintainability across our projects.

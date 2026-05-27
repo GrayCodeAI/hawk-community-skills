@@ -1,9 +1,10 @@
 ---
 name: summarize_rpg_session
-description: Fabric pattern - summarize_rpg_session
-domain: general
+description: "Fabric pattern - summarize_rpg_session"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

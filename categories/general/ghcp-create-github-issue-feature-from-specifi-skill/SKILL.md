@@ -1,6 +1,8 @@
 ---
-name: create-github-issue-feature-from-specification
-description: 'Create GitHub Issue for feature request from specification file using feature_request.yml template.'
+name: ghcp-create-github-issue-feature-from-specifi-skill
+description: "Create GitHub Issue for feature request from specification file using feature_request.yml template."
+license: MIT
+tags: [general]
 ---
 
 # Create GitHub Issue from Specification

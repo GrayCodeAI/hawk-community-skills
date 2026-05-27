@@ -1,6 +1,9 @@
 ---
-description: An agent for writing clean, readable, and maintainable code following established coding guidelines.
-tools: ['edit', 'runNotebooks', 'search', 'new', 'runCommands', 'runTasks', 'extensions', 'usages', 'vscodeAPI', 'problems', 'changes', 'testFailure', 'openSimpleBrowser', 'fetch', 'githubRepo', 'todos']
+name: cpa-clean-code.agent
+description: "An agent for writing clean, readable, and maintainable code following established coding guidelines."
+license: MIT
+tags: [general]
+tools: [edit, runNotebooks, search, new, runCommands, runTasks, extensions, usages, vscodeAPI, problems, changes, testFailure, openSimpleBrowser, fetch, githubRepo, todos]
 ---
 
 ## General Principles

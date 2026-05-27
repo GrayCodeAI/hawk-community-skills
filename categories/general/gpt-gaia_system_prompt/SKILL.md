@@ -1,3 +1,10 @@
+---
+name: gpt-gaia_system_prompt
+description: "Skill: gpt-gaia_system_prompt"
+license: MIT
+tags: [general]
+---
+
 from datetime import datetime
 import platform
 

@@ -1,13 +1,14 @@
 ---
 name: performing-cryptographic-audit-of-application
-description: A cryptographic audit systematically reviews an application's use of cryptographic primitives, protocols, and key management to identify vulnerabilities such as weak algorithms, insecure modes, hardco
+description: "A cryptographic audit systematically reviews an application's use of cryptographic primitives, protocols, and key management to identify vulnerabilities such as weak algorithms, insecure modes, hardco"
+license: MIT
+tags: [cryptography, audit, security-review, compliance, vulnerability-assessment]
 domain: cybersecurity
 subdomain: cryptography
-tags: [cryptography, audit, security-review, compliance, vulnerability-assessment]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Cryptographic Audit of Application
 
 ## Overview

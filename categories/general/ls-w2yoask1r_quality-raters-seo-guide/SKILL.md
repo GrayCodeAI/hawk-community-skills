@@ -1,3 +1,10 @@
+---
+name: ls-w2yoask1r_quality-raters-seo-guide
+description: "Skill: ls-w2yoask1r_quality-raters-seo-guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide
 
 GPT Title: Quality Raters SEO Guide

@@ -1,19 +1,14 @@
 ---
 name: conducting-network-penetration-test
-description: >
-  Conducts comprehensive network penetration tests against authorized target environments by
-  performing host discovery, port scanning, service enumeration, vulnerability identification,
-  and controlled exploitation to assess the security posture of network infrastructure. The
-  tester follows PTES methodology from reconnaissance through post-exploitation and reporting.
-  Activates for requests involving network pentest, infrastructure security assessment,
-  internal network testing, or external perimeter testing.
+description: "Conducts comprehensive network penetration tests against authorized target environments by performing host discovery, port scanning, service enumeration, vulnerability identification, and controlle..."
+license: MIT
+tags: [network-pentest, nmap, metasploit, vulnerability-exploitation, infrastructure-security]
 domain: cybersecurity
 subdomain: penetration-testing
-tags: [network-pentest, Nmap, Metasploit, vulnerability-exploitation, infrastructure-security]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
+
 # Conducting Network Penetration Test
 
 ## When to Use

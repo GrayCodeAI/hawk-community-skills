@@ -1,7 +1,10 @@
 ---
-description: Focuses on performance optimization techniques, including minimizing client-side rendering and optimizing images.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-performance-optimization-rule
+description: "Focuses on performance optimization techniques, including minimizing client-side rendering and optimizing images."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Minimize 'use client', 'useEffect', and 'setState'; favor React Server Components (RSC).
 - Wrap client components in Suspense with fallback.
 - Use dynamic loading for non-critical components.

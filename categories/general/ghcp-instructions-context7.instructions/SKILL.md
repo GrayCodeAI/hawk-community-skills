@@ -1,6 +1,8 @@
 ---
-description: 'Use Context7 for authoritative external docs and API references when local context is insufficient'
-applyTo: '**'
+name: ghcp-instructions-context7.instructions
+description: "Skill: ghcp-instructions-context7.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Context7-aware development

@@ -1,7 +1,11 @@
 ---
-description: Specifies steps to adapt generated React components to the SPA project structure after initial creation.
-globs: apps/spa/src/components/**/*.tsx
+name: mdc-react-component-adaptation---post-generation-spa
+description: 'Skill: mdc-react-component-adaptation---post-generation-spa'
+license: MIT
+tags:
+- react
 ---
+
 - After generating, adapt the component to fit our project structure:
   - Import
     - common shadcn/ui components from <ui_package_alias>@repo/ui/components/ui/</ui_package_alias>

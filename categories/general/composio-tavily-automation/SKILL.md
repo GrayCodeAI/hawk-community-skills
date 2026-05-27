@@ -1,8 +1,10 @@
 ---
-name: tavily-automation
+name: composio-tavily-automation
 description: "Automate Tavily tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Tavily Automation via Rube MCP

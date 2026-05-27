@@ -1,9 +1,11 @@
 ---
-name: react-flow-architect
+name: ag-react-flow-architect
 description: "Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # ReactFlow Architect

@@ -1,3 +1,10 @@
+---
+name: cpa-vpn-connection
+description: "Skill: cpa-vpn-connection"
+license: MIT
+tags: [general]
+---
+
 # az network vpn-connection
 
 ```bash

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features in Next.js 15 applications
-globs: **/*.tsx, **/*.ts
+name: inst-add-feature-next
+description: "Guidelines for adding new features in Next.js 15 applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Next.js 15 developer with expertise in building scalable applications.

@@ -1,9 +1,10 @@
 ---
 name: persona-linux-terminal
-description: AI persona - linux-terminal
-domain: general
+description: "AI persona - linux-terminal"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

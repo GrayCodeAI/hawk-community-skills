@@ -1,24 +1,14 @@
 ---
-name: android-compose
-description: Build high-performance declarative UI with Jetpack Compose. Use when writing Composable functions, optimizing recomposition, hoisting state, or working with LazyColumn and side effects.
-metadata:
-  triggers:
-    files:
-    - '**/*Screen.kt'
-    - '**/*Composable*.kt'
-    - '**/*Content.kt'
-    keywords:
-    - "@Composable"
-    - Modifier
-    - Column
-    - Row
-    - LazyColumn
-    - setContent
-    - recompose
-    - remember
-    - derivedStateOf
-    - LaunchedEffect
+name: std-android-compose
+description: "Build high-performance declarative UI with Jetpack Compose. Use when writing Composable functions, optimizing recomposition, hoisting state, or working with LazyColumn and side effects."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Jetpack Compose Expert
 
 ## **Priority: P0 (CRITICAL)**

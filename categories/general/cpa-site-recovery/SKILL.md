@@ -1,3 +1,10 @@
+---
+name: cpa-site-recovery
+description: "Skill: cpa-site-recovery"
+license: MIT
+tags: [general]
+---
+
 # az site-recovery
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: gpt-tools
+description: "Skill: gpt-tools"
+license: MIT
+tags: [general]
+---
+
 ## Claude Web Search Tool Instructions
 ```markdown
 

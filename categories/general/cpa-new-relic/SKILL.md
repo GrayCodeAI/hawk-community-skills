@@ -1,3 +1,10 @@
+---
+name: cpa-new-relic
+description: "Skill: cpa-new-relic"
+license: MIT
+tags: [general]
+---
+
 # az new-relic
 
 ```bash

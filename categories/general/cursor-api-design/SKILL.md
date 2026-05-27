@@ -1,16 +1,11 @@
 ---
 name: cursor-api-design
-description: Cursor IDE rules for api-design
-domain: engineering
+description: "Cursor IDE rules for api-design"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "API design: REST conventions, versioning, error responses"
-globs: ["*.ts", "*.py", "*.go"]
-alwaysApply: true
 ---
 
 # API Design Cursor Rules

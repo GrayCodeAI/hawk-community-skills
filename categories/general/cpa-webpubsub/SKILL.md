@@ -1,3 +1,10 @@
+---
+name: cpa-webpubsub
+description: "Skill: cpa-webpubsub"
+license: MIT
+tags: [general]
+---
+
 # az webpubsub
 
 ```bash

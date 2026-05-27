@@ -1,3 +1,10 @@
+---
+name: rb-task_2_1_context
+description: "Skill: rb-task_2_1_context"
+license: MIT
+tags: [general]
+---
+
 # Context for Task 2.1: Identify Key `manage_rules.py` Functionality
 
 This document outlines the core commands of the `manage_rules.py` script that the VS Code extension will interact with. Identifying these key functionalities is the first step in designing the extension's user interface and implementing the command handlers.

@@ -1,7 +1,9 @@
 ---
-name: vector-setup
-description: First-run setup for ruvector@0.2.25 — installs ONNX/Brain/SONA add-ons, registers the MCP server, and verifies the install via `doctor`
-argument-hint: "[--full]"
+name: flow-vector-setup
+description: "First-run setup for ruvector@0.2.25 — installs ONNX/Brain/SONA add-ons, registers the MCP server, and verifies the install via `doctor`"
+license: MIT
+tags: [general]
+argument-hint: [--full]
 allowed-tools: Bash Read
 ---
 

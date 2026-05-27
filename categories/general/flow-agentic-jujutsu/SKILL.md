@@ -1,7 +1,9 @@
 ---
-name: agentic-jujutsu
+name: flow-agentic-jujutsu
+description: "Quantum-resistant, self-learning version control for AI agents with ReasoningBank intelligence and multi-agent coordination"
+license: MIT
+tags: [general]
 version: 2.3.2
-description: Quantum-resistant, self-learning version control for AI agents with ReasoningBank intelligence and multi-agent coordination
 ---
 
 # Agentic Jujutsu - AI Agent Version Control

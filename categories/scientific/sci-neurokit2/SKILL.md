@@ -1,9 +1,10 @@
 ---
-name: neurokit2
-description: Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain activity, electrodermal responses, respiratory patterns, muscle activity, or eye movements. Applicable for heart rate variability analysis, event-related potentials, complexity measures, autonomic nervous system assessment, psychophysiology research, and multi-modal physiological signal integration.
+name: sci-neurokit2
+description: "Comprehensive biosignal processing toolkit for analyzing physiological data including ECG, EEG, EDA, RSP, PPG, EMG, and EOG signals. Use this skill when processing cardiovascular signals, brain act..."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # NeuroKit2
@@ -351,4 +352,3 @@ Load specific reference files as needed using the Read tool to access detailed f
 - Official Documentation: https://neuropsychology.github.io/NeuroKit/
 - GitHub Repository: https://github.com/neuropsychology/NeuroKit
 - Publication: Makowski et al. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods. https://doi.org/10.3758/s13428-020-01516-y
-

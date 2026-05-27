@@ -1,9 +1,11 @@
 ---
-name: grafana-dashboards
+name: ag-grafana-dashboards
 description: "Create and manage production-ready Grafana dashboards for comprehensive system observability."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Grafana Dashboards

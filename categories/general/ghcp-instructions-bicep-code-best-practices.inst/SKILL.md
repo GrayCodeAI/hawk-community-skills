@@ -1,6 +1,8 @@
 ---
-description: 'Infrastructure as Code with Bicep'
-applyTo: '**/*.bicep'
+name: ghcp-instructions-bicep-code-best-practices.inst
+description: "Skill: ghcp-instructions-bicep-code-best-practices.inst"
+license: MIT
+tags: [general]
 ---
 
 ## Naming Conventions

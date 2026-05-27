@@ -1,6 +1,8 @@
 ---
-description: 'Expert agent for creating and maintaining VSCode CodeTour files with comprehensive schema support and best practices'
-name: 'VSCode Tour Expert'
+name: ghcp-agents-code-tour.agent
+description: "Expert agent for creating and maintaining VSCode CodeTour files with comprehensive schema support and best practices"
+license: MIT
+tags: [general]
 ---
 
 # VSCode Tour Expert 🗺️

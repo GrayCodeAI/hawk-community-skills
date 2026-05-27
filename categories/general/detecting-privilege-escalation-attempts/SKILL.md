@@ -1,12 +1,12 @@
 ---
 name: detecting-privilege-escalation-attempts
-description: Detect privilege escalation attempts including token manipulation, UAC bypass, unquoted service paths, kernel exploits, and sudo/doas abuse across Windows and Linux.
+description: "Detect privilege escalation attempts including token manipulation, UAC bypass, unquoted service paths, kernel exploits, and sudo/doas abuse across Windows and Linux."
+license: MIT
+tags: [threat-hunting, mitre-attack, privilege-escalation, token-manipulation, uac-bypass, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, privilege-escalation, token-manipulation, uac-bypass, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Privilege Escalation Attempts

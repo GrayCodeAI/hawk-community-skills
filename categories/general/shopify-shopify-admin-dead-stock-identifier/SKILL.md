@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-dead-stock-identifier
-role: merchandising
+name: shopify-shopify-admin-dead-stock-identifier
 description: "Read-only: cross-references inventory levels with order velocity to flag items with positive stock but zero sales in N days."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - orders:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'orders': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

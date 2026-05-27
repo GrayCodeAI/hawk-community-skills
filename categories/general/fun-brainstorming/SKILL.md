@@ -1,6 +1,8 @@
 ---
 name: fun-brainstorming
 description: "Invoke before any creative or architectural work — feature design, component creation, or behavioral changes. A streamlined brainstorming process optimized for fast, focused decision-making."
+license: MIT
+tags: [general]
 ---
 
 **IMPORTANT**

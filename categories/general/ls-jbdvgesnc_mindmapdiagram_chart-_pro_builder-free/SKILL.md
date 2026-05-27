@@ -1,3 +1,10 @@
+---
+name: ls-jbdvgesnc_mindmapdiagram_chart-_pro_builder-free
+description: "Skill: ls-jbdvgesnc_mindmapdiagram_chart-_pro_builder-free"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jBdvgesNC-mindmapdiagram-chart-pro-builder-free
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xKCtSgOygqqxyCe6UsPU8lGn?se=2124-01-05T08%3A56%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-29%252000.13.10%2520-%2520Design%2520a%2520square%2520app%2520icon%2520featuring%2520the%2520simplest%2520database%2520schema_%2520a%2520bright%2520database%2520connected%2520with%2520arrows%2520to%25203%2520small%2520bright%2520squares%252C%2520using%2520bright%2520prima.png&sig=4tkQKGgSyxmHuE23AJLmtRQN/tB794hh2JvbI2wzyFQ%3D" width="100px" />

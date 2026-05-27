@@ -1,3 +1,10 @@
+---
+name: gpt-tvexvxu5g_quantfinance
+description: "Skill: gpt-tvexvxu5g_quantfinance"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tveXvXU5g-quantfinance
 
 GPT Title: QuantFinance

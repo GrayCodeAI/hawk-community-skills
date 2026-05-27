@@ -1,8 +1,10 @@
 ---
-name: pdfmonkey-automation
+name: composio-pdfmonkey-automation
 description: "Automate Pdfmonkey tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Pdfmonkey Automation via Rube MCP

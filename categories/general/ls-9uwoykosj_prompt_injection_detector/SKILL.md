@@ -1,3 +1,10 @@
+---
+name: ls-9uwoykosj_prompt_injection_detector
+description: "Skill: ls-9uwoykosj_prompt_injection_detector"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9uwOyKoSJ-prompt-injection-detector
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oLpS6kuWz1m5AdJ7JoSCmjYV?se=2123-10-18T22%3A14%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252023.13.09%2520-%2520A%2520logo%2520for%2520a%2520cybersecurity%2520company%252C%2520featuring%2520a%2520stylized%2520shield%2520symbolizing%2520protection.%2520The%2520shield%2520is%2520deflecting%2520digital%2520threats%2520represented%2520by%2520a%2520shad.png&sig=Pb8lsdnsBfpuap3gG5CQX/LHf8evZAPYoFOc7CUdZRI%3D" width="100px" />

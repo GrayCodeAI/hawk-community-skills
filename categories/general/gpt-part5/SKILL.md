@@ -1,3 +1,10 @@
+---
+name: gpt-part5
+description: "Skill: gpt-part5"
+license: MIT
+tags: [general]
+---
+
 Part 5: Flying Lessons: Taming Shoggoth
 
 ## Chapter 16: Surfing Dragons: Agents, Code Interpreters & New Forms

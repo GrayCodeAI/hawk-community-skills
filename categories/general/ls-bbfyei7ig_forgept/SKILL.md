@@ -1,3 +1,10 @@
+---
+name: ls-bbfyei7ig_forgept
+description: "Skill: ls-bbfyei7ig_forgept"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BBfyeI7Ig-forgept
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xEsi08lbeOahcH3IWxRkwfYl?se=2123-10-25T19%3A17%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dripped.png&sig=07TCWLZ8sLo37Gek3vJTiN8EyerT96ACKJfQCIUNoTU%3D" width="100px" />

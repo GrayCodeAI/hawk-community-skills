@@ -1,17 +1,14 @@
 ---
-name: swift-language
-description: Apply Optionals, Protocols, Extensions, and Type Safety patterns in Swift. Use when working with Swift Optionals, Protocols, Extensions, or type-safe APIs.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - protocol
-    - extension
-    - optional
-    - guard
-    - enum
+name: std-swift-language
+description: "Apply Optionals, Protocols, Extensions, and Type Safety patterns in Swift. Use when working with Swift Optionals, Protocols, Extensions, or type-safe APIs."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Swift Language Standards
 
 ## **Priority: P0**

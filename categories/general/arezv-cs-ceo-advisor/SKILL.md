@@ -1,6 +1,8 @@
 ---
-name: cs-ceo-advisor
-description: Strategic leadership advisor for CEOs covering vision, strategy, board management, investor relations, and organizational culture
+name: arezv-cs-ceo-advisor
+description: "Strategic leadership advisor for CEOs covering vision, strategy, board management, investor relations, and organizational culture"
+license: MIT
+tags: [general]
 skills: c-level-advisor/skills/ceo-advisor
 domain: c-level
 model: opus

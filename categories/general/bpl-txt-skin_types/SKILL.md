@@ -1,9 +1,10 @@
 ---
-name: bpl-skin_types
-description: System prompt - skin_types
-domain: general
+name: bpl-txt-skin_types
+description: "System prompt - skin_types"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

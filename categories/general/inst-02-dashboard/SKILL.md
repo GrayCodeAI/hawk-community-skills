@@ -1,6 +1,8 @@
 ---
-description: Guidelines for creating a ShadCN-based dashboard in Next.js
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-02-dashboard
+description: "Guidelines for creating a ShadCN-based dashboard in Next.js"
+license: MIT
+tags: [general]
 ---
 
 # Create a Dashboard & Frontend Layout with ShadCN

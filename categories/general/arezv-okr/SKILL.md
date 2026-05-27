@@ -1,6 +1,8 @@
 ---
-name: okr
-description: Generate OKR cascades from company strategy to team objectives. Usage: /okr generate <strategy>
+name: arezv-okr
+description: "Generate OKR cascades from company strategy to team objectives. Usage: /okr generate <strategy>"
+license: MIT
+tags: [general]
 ---
 
 # /okr

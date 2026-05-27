@@ -1,9 +1,10 @@
 ---
 name: cr-react-formengine-ai-form-builder
-description: Cursor rules for react-formengine-ai-form-builder
-domain: engineering
+description: "Cursor rules for react-formengine-ai-form-builder"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

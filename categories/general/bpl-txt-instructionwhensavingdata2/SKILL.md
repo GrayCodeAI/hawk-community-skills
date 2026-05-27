@@ -1,9 +1,10 @@
 ---
-name: bpl-instructionwhensavingdata2
-description: System prompt - instructionwhensavingdata2
-domain: general
+name: bpl-txt-instructionwhensavingdata2
+description: "System prompt - instructionwhensavingdata2"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

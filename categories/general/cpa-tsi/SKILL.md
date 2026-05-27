@@ -1,3 +1,10 @@
+---
+name: cpa-tsi
+description: "Skill: cpa-tsi"
+license: MIT
+tags: [general]
+---
+
 # az tsi
 
 ```bash

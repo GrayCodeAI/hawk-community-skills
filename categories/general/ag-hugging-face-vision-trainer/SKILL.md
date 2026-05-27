@@ -1,7 +1,9 @@
 ---
-source: "https://github.com/huggingface/skills/tree/main/skills/huggingface-vision-trainer"
-name: hugging-face-vision-trainer
-description: Train or fine-tune vision models on Hugging Face Jobs for detection, classification, and SAM or SAM2 segmentation.
+name: ag-hugging-face-vision-trainer
+description: "Train or fine-tune vision models on Hugging Face Jobs for detection, classification, and SAM or SAM2 segmentation."
+license: MIT
+tags: [general]
+source: https://github.com/huggingface/skills/tree/main/skills/huggingface-vision-trainer
 risk: unknown
 ---
 

@@ -1,3 +1,10 @@
+---
+name: extra-analyze-issue
+description: "Skill: extra-analyze-issue"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Analyze Issue
 
 Fetch GitHub issue details and create a comprehensive implementation specification.

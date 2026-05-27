@@ -1,3 +1,10 @@
+---
+name: gpt-sy04sfloo_cinema_buddy
+description: "Skill: gpt-sy04sfloo_cinema_buddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sY04SFLOo-cinema-buddy
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6sK8LyLjJokPEDlRMUwzziVy?se=2123-12-30T00%3A36%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D453b642b-e0b3-483b-9b6d-5bcff6e32cc4.png&sig=1eVswQTX99qUhH%2BK0zuny5T/P022ESPmsDfm9DIE%2B3M%3D" width="100px" />

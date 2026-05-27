@@ -1,6 +1,8 @@
 ---
-name: react19-source-patterns
-description: 'Reference for React 19 source-file migration patterns, including API changes, ref handling, and context updates.'
+name: ghcp-react19-source-patterns-skill
+description: "Reference for React 19 source-file migration patterns, including API changes, ref handling, and context updates."
+license: MIT
+tags: [general]
 ---
 
 # React 19 Source Migration Patterns

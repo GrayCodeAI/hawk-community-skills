@@ -1,9 +1,8 @@
 ---
-name: "review"
-description: >-
-  Review Playwright tests for quality. Use when user says "review tests",
-  "check test quality", "audit tests", "improve tests", "test code review",
-  or "playwright best practices check".
+name: arezv-skills-review
+description: "Skill: arezv-skills-review"
+license: MIT
+tags: [general]
 ---
 
 # Review Playwright Tests

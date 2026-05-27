@@ -1,3 +1,10 @@
+---
+name: gpt-onjl9vibr_tsukagrok-(an-ode-to-zork)
+description: "Skill: gpt-onjl9vibr_tsukagrok-(an-ode-to-zork)"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-onjL9VIbR-tsukagrok-an-ode-to-zork/
 
 GPT Title: TsukaGrok (An Ode to Zork)

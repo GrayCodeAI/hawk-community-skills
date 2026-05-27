@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-testing
+description: "Skill: ghcp-templates-testing"
+license: MIT
+tags: [general]
+---
+
 # Testing Patterns
 
 ## Core Sections (Required)

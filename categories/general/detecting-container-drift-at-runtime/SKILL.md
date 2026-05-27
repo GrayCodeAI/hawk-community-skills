@@ -1,12 +1,12 @@
 ---
 name: detecting-container-drift-at-runtime
-description: Detect unauthorized modifications to running containers by monitoring for binary execution drift, file system changes, and configuration deviations from the original container image.
+description: "Detect unauthorized modifications to running containers by monitoring for binary execution drift, file system changes, and configuration deviations from the original container image."
+license: MIT
+tags: [container-drift, runtime-security, immutable-containers, falco, kubernetes, container-security, drift-detection, microsoft-defender]
 domain: cybersecurity
 subdomain: container-security
-tags: [container-drift, runtime-security, immutable-containers, falco, kubernetes, container-security, drift-detection, microsoft-defender]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Container Drift at Runtime

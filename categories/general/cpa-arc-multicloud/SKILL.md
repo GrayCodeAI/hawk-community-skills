@@ -1,3 +1,10 @@
+---
+name: cpa-arc-multicloud
+description: "Skill: cpa-arc-multicloud"
+license: MIT
+tags: [general]
+---
+
 # az arc-multicloud
 
 ```bash

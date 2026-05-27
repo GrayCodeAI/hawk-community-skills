@@ -1,3 +1,10 @@
+---
+name: cpa-express-api.instructions
+description: "Skill: cpa-express-api.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this Node.js TypeScript Express API project. The goal is to ensure consistent, high-quality code generation aligned with our conventions, Express best practices, and TypeScript standards.

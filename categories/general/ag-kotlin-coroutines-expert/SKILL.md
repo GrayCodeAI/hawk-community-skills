@@ -1,9 +1,11 @@
 ---
-name: kotlin-coroutines-expert
+name: ag-kotlin-coroutines-expert
 description: "Expert patterns for Kotlin Coroutines and Flow, covering structured concurrency, error handling, and testing."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Kotlin Coroutines Expert

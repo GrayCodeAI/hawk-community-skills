@@ -1,12 +1,12 @@
 ---
-name: bpl-tarot_introduction
-description: System prompt - tarot_introduction
-domain: general
+name: bpl-txt-tarot_introduction
+description: "System prompt - tarot_introduction"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 Card player with Austrian tarot cards (Industrie und Glück pattern)
 

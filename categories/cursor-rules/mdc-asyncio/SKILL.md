@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, performant, and maintainable asynchronous Python code using the asyncio standard library.
-globs: **/*.py
+name: mdc-asyncio
+description: "Definitive guidelines for writing robust, performant, and maintainable asynchronous Python code using the asyncio standard library."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # asyncio Best Practices
 
 `asyncio` is Python's standard library for writing concurrent, I/O-bound code using `async`/`await`. This guide provides opinionated, actionable rules to ensure your `asyncio` applications are structured, performant, and easy to maintain.

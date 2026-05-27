@@ -1,7 +1,10 @@
 ---
-description: This guide enforces best practices for using Trio, Python's structured concurrency library, ensuring robust, type-safe, and performant asynchronous applications.
-globs: **/*.py
+name: mdc-trio
+description: "This guide enforces best practices for using Trio, Python's structured concurrency library, ensuring robust, type-safe, and performant asynchronous applications."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # trio Best Practices
 
 Trio is the definitive choice for new async-first Python projects in 2025, prioritizing usability and correctness through structured concurrency. Adhere to these guidelines for maintainable, high-performance code.

@@ -1,3 +1,10 @@
+---
+name: ls-ythyy8oyw_married-life
+description: "Skill: ls-ythyy8oyw_married-life"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yTHyy8OYw-married-life
 
 GPT Title: Married Life

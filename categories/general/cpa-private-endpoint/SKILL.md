@@ -1,3 +1,10 @@
+---
+name: cpa-private-endpoint
+description: "Skill: cpa-private-endpoint"
+license: MIT
+tags: [general]
+---
+
 # az network private-endpoint
 
 ```bash

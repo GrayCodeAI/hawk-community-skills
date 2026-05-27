@@ -1,23 +1,14 @@
 ---
-name: angular-components
-description: Build standalone Angular components with Signals inputs, OnPush change detection, Control Flow, and Smart/Dumb patterns. Use when building standalone Angular components, implementing @if/@for control flow, applying OnPush change detection, or implementing Signals in Angular components.
-metadata:
-  triggers:
-    files:
-    - '**/*.component.ts'
-    - '**/*.component.html'
-    keywords:
-    - angular component
-    - standalone
-    - input signal
-    - output
-    - "@if"
-    - "@for"
-    - ChangeDetectionStrategy
-    - OnPush
-    - Input
-    - Output
+name: std-angular-components
+description: "Build standalone Angular components with Signals inputs, OnPush change detection, Control Flow, and Smart/Dumb patterns. Use when building standalone Angular components, implementing @if/@for contr..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Angular Components
 
 ## **Priority: P0 (CRITICAL)**

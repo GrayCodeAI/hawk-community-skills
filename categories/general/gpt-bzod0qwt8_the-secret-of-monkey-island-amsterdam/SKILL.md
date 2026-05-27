@@ -1,3 +1,10 @@
+---
+name: gpt-bzod0qwt8_the-secret-of-monkey-island-amsterdam
+description: "Skill: gpt-bzod0qwt8_the-secret-of-monkey-island-amsterdam"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bZoD0qWT8-the-secret-of-monkey-island-amsterdam
 
 GPT Title: The Secret of Monkey Island: Amsterdam

@@ -1,3 +1,10 @@
+---
+name: cpa-private-link
+description: "Skill: cpa-private-link"
+license: MIT
+tags: [general]
+---
+
 # az private-link
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-workbenches-and-advanced
+description: "Skill: ghcp-references-workbenches-and-advanced"
+license: MIT
+tags: [general]
+---
+
 # FreeCAD Workbenches and Advanced Topics
 
 Reference guide for workbench creation, macros, FEM scripting, Path/CAM scripting, and advanced recipes.

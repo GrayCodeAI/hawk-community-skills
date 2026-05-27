@@ -1,6 +1,8 @@
 ---
-name: constant-time-analysis
+name: ag-constant-time-analysis
 description: "Analyze cryptographic code to detect operations that leak secret data through execution timing variations."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Clerk in Next.js
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-add-feature-clerk-next
+description: "Guidelines for adding new features with Clerk in Next.js"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Next.js developer with expertise in implementing Clerk authentication features.
@@ -235,4 +237,4 @@ export function MockClerkProvider({ children }) {
     </ClerkProvider>
   )
 }
-``` 
+```

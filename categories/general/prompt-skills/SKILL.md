@@ -1,5 +1,8 @@
 ---
-description: Search and discover Agent Skills from prompts.chat
+name: prompt-skills
+description: "Search and discover Agent Skills from prompts.chat"
+license: MIT
+tags: [general]
 argument-hint: <query> [--category CATEGORY] [--tag TAG]
 ---
 

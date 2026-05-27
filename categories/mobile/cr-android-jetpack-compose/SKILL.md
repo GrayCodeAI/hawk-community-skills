@@ -1,9 +1,10 @@
 ---
 name: cr-android-jetpack-compose
-description: Cursor rules for android-jetpack-compose
-domain: engineering
+description: "Cursor rules for android-jetpack-compose"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -96,4 +97,3 @@ const performanceGuidelines = `
 6. Implement proper memory management
 7. Use proper background processing
 `;
-

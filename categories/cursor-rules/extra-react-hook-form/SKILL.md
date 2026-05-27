@@ -1,7 +1,9 @@
 ---
-description: 使用 React Hook Form 进行表单处理的最佳实践
-globs: *.tsx,*.ts
-alwaysApply: false
+name: extra-react-hook-form
+description: "使用 React Hook Form 进行表单处理的最佳实践"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 - 使用 `useForm` Hook 高效管理表单状态

@@ -1,6 +1,8 @@
 ---
-name: tdd
-description: Generate tests, analyze coverage, and run TDD workflows. Usage: /tdd <generate|coverage|validate> [options]
+name: arezv-tdd
+description: "Generate tests, analyze coverage, and run TDD workflows. Usage: /tdd <generate|coverage|validate> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /tdd

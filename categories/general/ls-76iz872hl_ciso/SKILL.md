@@ -1,3 +1,10 @@
+---
+name: ls-76iz872hl_ciso
+description: "Skill: ls-76iz872hl_ciso"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-76iz872HL-ciso-ai
 
 GPT Title: CISO AI

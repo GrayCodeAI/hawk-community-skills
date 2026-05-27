@@ -1,9 +1,11 @@
 ---
-name: similarity-search-patterns
+name: ag-similarity-search-patterns
 description: "Implement efficient similarity search with vector databases. Use when building semantic search, implementing nearest neighbor queries, or optimizing retrieval performance."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Similarity Search Patterns

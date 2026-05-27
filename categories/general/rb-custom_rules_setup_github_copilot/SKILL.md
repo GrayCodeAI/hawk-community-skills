@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_github_copilot
+description: "Skill: rb-custom_rules_setup_github_copilot"
+license: MIT
+tags: [general]
+---
+
 source: https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot?tool=visualstudio#enabling-or-disabling-repository-custom-instructions
 
 # Prerequisites for repository custom instructions

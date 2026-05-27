@@ -1,3 +1,10 @@
+---
+name: ls-vmzcwnc46_code-critic-gilfoyle
+description: "Skill: ls-vmzcwnc46_code-critic-gilfoyle"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VmzCWnc46-code-critic-gilfoyle
 
 GPT Title: Code Critic Gilfoyle

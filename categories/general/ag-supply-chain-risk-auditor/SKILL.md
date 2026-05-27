@@ -1,12 +1,9 @@
 ---
-name: supply-chain-risk-auditor
+name: ag-supply-chain-risk-auditor
 description: "Identifies dependencies at heightened risk of exploitation or takeover. Use when assessing supply chain attack surface, evaluating dependency health, or scoping security engagements."
-allowed-tools:
-  - Read
-  - Write
-  - Bash
-  - Glob
-  - Grep
+license: MIT
+tags: [general]
+allowed-tools: None
 risk: unknown
 source: community
 ---

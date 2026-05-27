@@ -1,6 +1,8 @@
 ---
-name: template-skill
-description: Reusable template for authoring new Agent Skills with clear triggers, workflow, and I/O contracts.
+name: noiz-template-skill
+description: "Reusable template for authoring new Agent Skills with clear triggers, workflow, and I/O contracts."
+license: MIT
+tags: [general]
 ---
 
 # <skill-name>

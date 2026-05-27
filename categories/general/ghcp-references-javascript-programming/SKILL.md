@@ -1,3 +1,10 @@
+---
+name: ghcp-references-javascript-programming
+description: "Skill: ghcp-references-javascript-programming"
+license: MIT
+tags: [general]
+---
+
 # JavaScript & Programming Reference
 
 Comprehensive reference for JavaScript, ECMAScript, programming concepts, and modern JS patterns.

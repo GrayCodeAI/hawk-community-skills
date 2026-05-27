@@ -1,9 +1,11 @@
 ---
-name: tailwind-design-system
+name: ag-tailwind-design-system
 description: "Build production-ready design systems with Tailwind CSS, including design tokens, component variants, responsive patterns, and accessibility."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Tailwind Design System

@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive rules for writing Python docstrings and type hints to maximize clarity and utility with pdoc, ensuring accurate and maintainable API documentation.
-globs: **/*.py
+name: mdc-pdoc
+description: "This guide provides definitive rules for writing Python docstrings and type hints to maximize clarity and utility with pdoc, ensuring accurate and maintainable API documentation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # pdoc Best Practices
 
 `pdoc` is our definitive tool for generating API documentation from Python docstrings and type annotations. This guide outlines the mandatory practices to ensure our generated documentation is consistent, accurate, and immediately useful.

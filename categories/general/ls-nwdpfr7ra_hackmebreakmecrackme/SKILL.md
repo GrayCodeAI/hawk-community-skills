@@ -1,3 +1,10 @@
+---
+name: ls-nwdpfr7ra_hackmebreakmecrackme
+description: "Skill: ls-nwdpfr7ra_hackmebreakmecrackme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nWDPFr7rA-hackmebreakmecrackme
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pj9IfFkD5HtTdOmAw2rv6dgE?se=2124-01-28T05%3A04%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dhackme.png&sig=ymSG4EMEW6%2BExnNCyXxAEXxjjv3%2BcqX0nn6L%2BF%2BKS7Q%3D" width="100px" />

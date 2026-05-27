@@ -1,14 +1,15 @@
 ---
-name: impediment-prioritization
-description: 'Ranks any list of impediments and their countermeasures using a value-stream scoring model (ROI, Cost to Implement, Ease of Deployment, Risk Factor) and a fixed prioritization formula. Use when someone asks to prioritize, rank, sequence, or triage impediments, countermeasures, remediation items, risks, findings, gaps, action items, or backlog entries; or mentions value-stream prioritization, A3 / lean countermeasure ranking, ROI vs. effort scoring, or building a remediation / improvement backlog. Works with GHQR findings, audit results, retrospective action items, risk registers, architecture review gaps, or any free-form `{impediment, countermeasure}` list.'
+name: ghcp-impediment-prioritization-skill
+description: "Ranks any list of impediments and their countermeasures using a value-stream scoring model (ROI, Cost to Implement, Ease of Deployment, Risk Factor) and a fixed prioritization formula. Use when som..."
 license: MIT
-metadata:
-  author: ajenns
-  version: "2.0.0"
-  created: "2026-04-19"
-  updated: "2026-04-21"
-  framework: value-stream-prioritization
-  domain: general
+tags: [general]
+metadata: None
+author: ajenns
+version: 2.0.0
+created: 2026-04-19
+updated: 2026-04-21
+framework: value-stream-prioritization
+domain: general
 ---
 
 # Impediment Prioritization Skill

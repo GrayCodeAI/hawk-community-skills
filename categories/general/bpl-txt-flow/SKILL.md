@@ -1,9 +1,10 @@
 ---
-name: bpl-flow
-description: System prompt - flow
-domain: general
+name: bpl-txt-flow
+description: "System prompt - flow"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -51,5 +52,3 @@ Always start your responses by reviewing the files provided for the situation. A
 NO UI is needed for GPTs. Nor Fine-tuning.
 
 Use ALL CAPS and strong, direct language with a positive tone to emphasize key points, aiming to enhance user satisfaction.
-
-

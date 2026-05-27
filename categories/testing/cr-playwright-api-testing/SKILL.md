@@ -1,9 +1,10 @@
 ---
 name: cr-playwright-api-testing
-description: Cursor rules for playwright-api-testing
-domain: engineering
+description: "Cursor rules for playwright-api-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -97,4 +98,4 @@ test.describe('Users API', () => {
     expect(result.success).toBeTruthy();
   });
 });
-``` 
+```

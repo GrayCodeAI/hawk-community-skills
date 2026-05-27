@@ -1,8 +1,10 @@
 ---
-name: benchmark-email-automation
+name: composio-benchmark-email-automation
 description: "Automate Benchmark Email tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Benchmark Email Automation via Rube MCP

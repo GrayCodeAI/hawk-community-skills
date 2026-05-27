@@ -1,8 +1,10 @@
 ---
-name: textrazor-automation
+name: composio-textrazor-automation
 description: "Automate Textrazor tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Textrazor Automation via Rube MCP

@@ -1,9 +1,11 @@
 ---
-name: azure-search-documents-ts
+name: ag-azure-search-documents-ts
 description: "Build search applications with vector, hybrid, and semantic search capabilities."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure AI Search SDK for TypeScript

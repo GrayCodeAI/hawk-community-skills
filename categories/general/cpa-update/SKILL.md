@@ -1,3 +1,10 @@
+---
+name: cpa-update
+description: "Skill: cpa-update"
+license: MIT
+tags: [general]
+---
+
 # az containerapp update
 
 ```bash

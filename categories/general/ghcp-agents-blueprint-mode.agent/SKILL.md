@@ -1,6 +1,8 @@
 ---
-description: "Executes structured workflows (Debug, Express, Main, Loop) with strict correctness and maintainability. Enforces an improved tool usage policy, never assumes facts, prioritizes reproducible solutions, self-correction, and edge-case handling."
-name: "Blueprint Mode"
+name: ghcp-agents-blueprint-mode.agent
+description: "Executes structured workflows (Debug, Express, Main, Loop) with strict correctness and maintainability. Enforces an improved tool usage policy, never assumes facts, prioritizes reproducible solutio..."
+license: MIT
+tags: [general]
 ---
 
 # Blueprint Mode v39

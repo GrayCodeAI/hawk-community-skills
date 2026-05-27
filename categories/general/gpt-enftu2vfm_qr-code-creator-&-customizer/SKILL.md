@@ -1,3 +1,10 @@
+---
+name: gpt-enftu2vfm_qr-code-creator-&-customizer
+description: "Skill: gpt-enftu2vfm_qr-code-creator-&-customizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EnFTU2VFm-qr-code-creator-customizer
 
 GPT Title: QR Code Creator & Customizer

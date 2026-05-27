@@ -1,9 +1,10 @@
 ---
 name: persona-blockchain-development-tutor
-description: AI persona - blockchain-development-tutor
-domain: general
+description: "AI persona - blockchain-development-tutor"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

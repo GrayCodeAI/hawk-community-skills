@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-structure
+description: "Skill: ghcp-templates-structure"
+license: MIT
+tags: [general]
+---
+
 # Codebase Structure
 
 ## Core Sections (Required)

@@ -1,3 +1,10 @@
+---
+name: cpa-feedback
+description: "Skill: cpa-feedback"
+license: MIT
+tags: [general]
+---
+
 # az feedback
 
 Send feedback to the Azure CLI Team.

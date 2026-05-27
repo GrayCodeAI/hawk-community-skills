@@ -1,9 +1,10 @@
 ---
 name: google-style-readme
-description: Google official style guide for readme
-domain: engineering
+description: "Google official style guide for readme"
+license: MIT
 tags: [google, style-guide, readme]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 

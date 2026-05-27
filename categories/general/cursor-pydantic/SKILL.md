@@ -1,16 +1,11 @@
 ---
 name: cursor-pydantic
-description: Cursor IDE rules for pydantic
-domain: engineering
+description: "Cursor IDE rules for pydantic"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Pydantic: BaseModel, validators, Field, Settings"
-globs: ["*.py"]
-alwaysApply: true
 ---
 
 # Pydantic Cursor Rules

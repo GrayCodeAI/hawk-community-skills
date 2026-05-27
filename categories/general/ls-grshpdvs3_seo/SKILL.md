@@ -1,3 +1,10 @@
+---
+name: ls-grshpdvs3_seo
+description: "Skill: ls-grshpdvs3_seo"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GrshPDvS3-seo
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-s5NcRVt5egnVXovMSBsfPYDM?se=2123-10-14T06%3A46%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon.png&sig=zJTfWBwlzX1jJYZ0vBbMaLTwcX/gHiYTLSrvijL%2BWDY%3D" width="100px" />

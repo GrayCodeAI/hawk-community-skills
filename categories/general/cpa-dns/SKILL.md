@@ -1,3 +1,10 @@
+---
+name: cpa-dns
+description: "Skill: cpa-dns"
+license: MIT
+tags: [general]
+---
+
 # az network dns
 
 ```bash

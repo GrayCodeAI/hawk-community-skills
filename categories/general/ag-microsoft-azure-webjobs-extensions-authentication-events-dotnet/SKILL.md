@@ -1,9 +1,11 @@
 ---
-name: microsoft-azure-webjobs-extensions-authentication-events-dotnet
-description: Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
+name: ag-microsoft-azure-webjobs-extensions-authentication-events-dotnet
+description: "Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Microsoft.Azure.WebJobs.Extensions.AuthenticationEvents (.NET)

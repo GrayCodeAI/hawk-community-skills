@@ -1,16 +1,11 @@
 ---
 name: cursor-java
-description: Cursor IDE rules for java
-domain: engineering
+description: "Cursor IDE rules for java"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Modern Java: records, sealed classes, streams, virtual threads"
-globs: ["*.java"]
-alwaysApply: true
 ---
 
 # Java Cursor Rules

@@ -1,6 +1,8 @@
 ---
-name: "execute"
+name: arezv-execute
 description: "/cs:execute <decision> — Generate a 90-day execution plan with weekly milestones, DRIs, and check-in cadence from an approved decision."
+license: MIT
+tags: [general]
 ---
 
 # /cs:execute — 90-Day Execution Plan

@@ -1,9 +1,10 @@
 ---
 name: cr-optimize-rell-blockchain-code
-description: Cursor rules for optimize-rell-blockchain-code
-domain: engineering
+description: "Cursor rules for optimize-rell-blockchain-code"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -39,4 +40,3 @@ Key features:
 Rell code is organized into modules. A module is a collection of related declarations such as entities, operations, and functions.
 
 Example of a simple module:
-

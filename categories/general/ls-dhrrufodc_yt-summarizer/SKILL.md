@@ -1,3 +1,10 @@
+---
+name: ls-dhrrufodc_yt-summarizer
+description: "Skill: ls-dhrrufodc_yt-summarizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-dHRRUFODc-yt-summarizer
 
 GPT Title: YT Summarizer

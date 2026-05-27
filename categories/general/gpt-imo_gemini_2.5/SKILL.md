@@ -1,3 +1,10 @@
+---
+name: gpt-imo_gemini_2.5
+description: "Skill: gpt-imo_gemini_2.5"
+license: MIT
+tags: [general]
+---
+
 https://github.com/lyang36/IMO25/blob/main/code/agent.py#L81
 
 step1_prompt = """

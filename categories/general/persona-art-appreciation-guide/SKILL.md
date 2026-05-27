@@ -1,9 +1,10 @@
 ---
 name: persona-art-appreciation-guide
-description: AI persona - art-appreciation-guide
-domain: general
+description: "AI persona - art-appreciation-guide"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

@@ -1,7 +1,10 @@
 ---
-description: Specific PHP and Laravel core coding standards and best practices.
-globs: /**/*.php
+name: mdc-php-and-laravel-core-rules
+description: "Specific PHP and Laravel core coding standards and best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use PHP 8.1+ features when appropriate (e.g., typed properties, match expressions).
 - Follow PSR-12 coding standards.
 - Use strict typing: declare(strict_types=1);

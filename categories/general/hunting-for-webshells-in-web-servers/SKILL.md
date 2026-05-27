@@ -1,17 +1,12 @@
 ---
 name: hunting-for-webshells-in-web-servers
-description: >-
-  Detect webshells planted on web servers by scanning for high-entropy files,
-  suspicious PHP/JSP/ASP patterns (eval, base64_decode, system, passthru),
-  recently modified files in web roots, and anomalous file sizes. Uses Shannon
-  entropy calculation to flag obfuscated payloads and regex pattern matching
-  against known webshell signatures.
+description: "Detect webshells planted on web servers by scanning for high-entropy files, suspicious PHP/JSP/ASP patterns (eval, base64_decode, system, passthru), recently modified files in web roots, and anomal..."
+license: MIT
+tags: [hunting, for, webshells, web]
 domain: cybersecurity
 subdomain: security-operations
-tags: [hunting, for, webshells, web]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

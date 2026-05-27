@@ -1,3 +1,10 @@
+---
+name: gpt-kujnoihrt_fight_night_prediction_expert
+description: "Skill: gpt-kujnoihrt_fight_night_prediction_expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KuJnOIHrT-fight-night-prediction-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-0O64wizvJsJ5OS4EsEA3lLid?se=2123-12-27T23%3A55%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6b03be67-65b1-475e-90d1-7fab7d8dc2f2.png&sig=Zfu1l5wgnZNWIb%2BX3qUi53hR%2Bw5Sb1U/kcR8GTlA13c%3D" width="100px" />

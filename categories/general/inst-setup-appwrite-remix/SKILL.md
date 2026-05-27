@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Remix apps with Appwrite
-globs: app/**/*.ts, app/**/*.tsx
+name: inst-setup-appwrite-remix
+description: "Guidelines for writing Remix apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + Remix Integration Setup Guide
@@ -203,4 +205,4 @@ export function ErrorBoundary({ error }) {
     </div>
   );
 }
-``` 
+```

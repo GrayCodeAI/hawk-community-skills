@@ -1,9 +1,10 @@
 ---
-name: trader-risk
-description: Assess portfolio risk using npx neural-trader — VaR, CVaR, Sharpe, position sizing, circuit breaker status
-allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search
-argument-hint: "[--symbol TICKER] [--portfolio NAME]"
+name: flow-trader-risk
+description: "Skill: flow-trader-risk"
+license: MIT
+tags: [general]
 ---
+
 Assess portfolio and position risk using neural-trader's risk engine.
 
 Steps:

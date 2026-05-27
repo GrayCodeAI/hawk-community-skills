@@ -1,3 +1,10 @@
+---
+name: rb-archive_refactoring_reasoning
+description: "Skill: rb-archive_refactoring_reasoning"
+license: MIT
+tags: [general]
+---
+
 # Core Reasoning for the Refactoring Plan
 
 This document explains the thinking process and the fundamental principles used to develop the refactoring plan for the `rulebook-ai` codebase.

@@ -1,3 +1,10 @@
+---
+name: ls-lu670hn6f_walking-meditation
+description: "Skill: ls-lu670hn6f_walking-meditation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lu670hN6F-walking-meditation
 
 GPT Title: Walking Meditation

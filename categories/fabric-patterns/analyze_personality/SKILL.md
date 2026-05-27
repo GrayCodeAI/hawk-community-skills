@@ -1,9 +1,10 @@
 ---
 name: analyze_personality
-description: Fabric pattern - analyze_personality
-domain: general
+description: "Fabric pattern - analyze_personality"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

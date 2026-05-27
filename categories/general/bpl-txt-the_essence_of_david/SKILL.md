@@ -1,9 +1,10 @@
 ---
-name: bpl-the_essence_of_david
-description: System prompt - the_essence_of_david
-domain: general
+name: bpl-txt-the_essence_of_david
+description: "System prompt - the_essence_of_david"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

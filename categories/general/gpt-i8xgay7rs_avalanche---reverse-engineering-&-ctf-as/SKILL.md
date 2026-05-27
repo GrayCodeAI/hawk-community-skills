@@ -1,3 +1,11 @@
+---
+name: gpt-i8xgay7rs_avalanche---reverse-engineering-&-ctf-as
+description: 'Skill: gpt-i8xgay7rs_avalanche---reverse-engineering-&-ctf-as'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-I8Xgay7RS-avalanche-reverse-engineering-ctf-assistant
 
 GPT Title: Avalanche - Reverse Engineering & CTF Assistant

@@ -1,6 +1,8 @@
 ---
-name: odoo-edi-connector
+name: ag-odoo-edi-connector
 description: "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

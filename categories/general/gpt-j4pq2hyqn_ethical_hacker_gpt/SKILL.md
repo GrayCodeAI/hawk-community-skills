@@ -1,3 +1,10 @@
+---
+name: gpt-j4pq2hyqn_ethical_hacker_gpt
+description: "Skill: gpt-j4pq2hyqn_ethical_hacker_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-j4PQ2hyqn-ethical-hacker-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5MXGDzUT89raggvrl2HJNIpy?se=2123-10-17T08%3A25%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfe7f5934-9e28-4ae0-b1db-616dc963de70.png&sig=YheQt2bNj8IskGoIBOE/R85FN65uIUri9350DZ0gN/0%3D" width="100px" />

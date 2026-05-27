@@ -1,9 +1,10 @@
 ---
 name: create_prediction_block
-description: Fabric pattern - create_prediction_block
-domain: general
+description: "Fabric pattern - create_prediction_block"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

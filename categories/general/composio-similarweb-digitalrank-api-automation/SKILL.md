@@ -1,8 +1,10 @@
 ---
-name: similarweb-digitalrank-api-automation
+name: composio-similarweb-digitalrank-api-automation
 description: "Automate SimilarWeb tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # SimilarWeb Automation via Rube MCP

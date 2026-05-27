@@ -1,7 +1,10 @@
 ---
-description: Rules for data fetching in Astro using Astro.props, getStaticPaths(), and Astro.glob().
-globs: src/**/*.*
+name: mdc-astro-data-fetching
+description: "Rules for data fetching in Astro using Astro.props, getStaticPaths(), and Astro.glob()."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Data Fetching
 
 - Use Astro.props for passing data to components.

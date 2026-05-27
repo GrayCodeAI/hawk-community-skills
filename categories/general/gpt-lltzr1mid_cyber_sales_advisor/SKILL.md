@@ -1,3 +1,10 @@
+---
+name: gpt-lltzr1mid_cyber_sales_advisor
+description: "Skill: gpt-lltzr1mid_cyber_sales_advisor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LlTzr1MId-cyber-sales-advisor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OFlgahzX8ri7JQ5PTTva32mt?se=2123-12-02T01%3A46%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Db0534fdc-b3de-4914-a5df-6aeec70ff540.png&sig=EGQzlf89F1NU5FxOSphZFJ/24R40q1H8vgHWgdZgdww%3D" width="100px" />

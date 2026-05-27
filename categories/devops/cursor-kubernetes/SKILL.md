@@ -1,15 +1,11 @@
 ---
 name: cursor-kubernetes
-description: Cursor IDE rules for kubernetes
-domain: engineering
+description: "Cursor IDE rules for kubernetes"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Kubernetes: deployments, services, config"
-alwaysApply: true
 ---
 
 # Kubernetes Rules

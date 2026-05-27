@@ -1,7 +1,9 @@
 ---
-name: cost-track
-description: Auto-capture per-session token usage from the Claude Code session jsonl and persist to the cost-tracking namespace
-argument-hint: ""
+name: flow-cost-track
+description: "Auto-capture per-session token usage from the Claude Code session jsonl and persist to the cost-tracking namespace"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash mcp__claude-flow__memory_store
 ---
 

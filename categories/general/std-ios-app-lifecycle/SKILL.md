@@ -1,18 +1,14 @@
 ---
-name: ios-app-lifecycle
-description: Configure AppDelegate, SceneDelegate, deep linking, and background tasks. Use when configuring iOS app lifecycle, deep linking, or background task scheduling.
-metadata:
-  triggers:
-    files:
-    - 'AppDelegate.swift'
-    - 'SceneDelegate.swift'
-    keywords:
-    - didFinishLaunchingWithOptions
-    - willConnectTo
-    - backgroundTask
-    - Shortcut
-    - UserActivity
+name: std-ios-app-lifecycle
+description: "Configure AppDelegate, SceneDelegate, deep linking, and background tasks. Use when configuring iOS app lifecycle, deep linking, or background task scheduling."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS App Lifecycle
 
 ## **Priority: P0**

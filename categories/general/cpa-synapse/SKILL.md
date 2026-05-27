@@ -1,3 +1,10 @@
+---
+name: cpa-synapse
+description: "Skill: cpa-synapse"
+license: MIT
+tags: [general]
+---
+
 # az synapse
 
 ```bash

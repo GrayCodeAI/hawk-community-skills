@@ -1,3 +1,10 @@
+---
+name: ls-gtaofippv_find_me_a_hobby
+description: "Skill: ls-gtaofippv_find_me_a_hobby"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gTaOfIppV-find-me-a-hobby
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-sCgbACKMd0LqA3fBE1fwqN2o?se=2124-01-12T15%3A37%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFind%2520me%2520a%2520Hobby.png&sig=RPEfg2HrxBv4Hzj7vtaKCmP09NW9rDBRqlNBRelm9RQ%3D" width="100px" />

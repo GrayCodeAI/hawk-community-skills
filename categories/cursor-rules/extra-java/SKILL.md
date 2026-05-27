@@ -1,7 +1,9 @@
 ---
-description: 该规则解释了 Java 的约定和最佳实践。
-globs: **/*.java
-alwaysApply: false
+name: extra-java
+description: "该规则解释了 Java 的约定和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Java 语言规范

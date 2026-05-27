@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for configuring and using pylint for deep semantic analysis and code quality in Python projects.
-globs: **/*.py
+name: mdc-pylint
+description: "Definitive guidelines for configuring and using pylint for deep semantic analysis and code quality in Python projects."
+license: MIT
+tags: [python]
 ---
+
 # pylint Best Practices
 
 Pylint is our go-to for **deep semantic analysis** and identifying complex code smells in Python. While Ruff handles fast style checks and MyPy ensures type correctness, Pylint focuses on broader architectural and logical issues. This guide ensures Pylint is a powerful, not noisy, part of our workflow.

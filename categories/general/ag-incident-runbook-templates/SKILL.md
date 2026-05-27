@@ -1,9 +1,11 @@
 ---
-name: incident-runbook-templates
+name: ag-incident-runbook-templates
 description: "Production-ready templates for incident response runbooks covering detection, triage, mitigation, resolution, and communication."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Incident Runbook Templates

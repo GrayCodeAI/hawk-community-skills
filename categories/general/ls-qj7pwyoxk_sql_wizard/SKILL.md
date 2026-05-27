@@ -1,3 +1,10 @@
+---
+name: ls-qj7pwyoxk_sql_wizard
+description: "Skill: ls-qj7pwyoxk_sql_wizard"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Qj7PwYoxK-sql-wizard
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FCLekXWEQReGAQcOpahaz3GD?se=2123-10-18T22%3A40%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1e49e6c1-5440-41c4-9bf6-1899994d36bb.png&sig=wKI9iUVPp70squVKt4Yabcmh/n3wREtR7yADcKSSbPU%3D" width="100px" />

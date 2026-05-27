@@ -1,3 +1,10 @@
+---
+name: sys-claude-code-output-style-learning_202510
+description: "Skill: sys-claude-code-output-style-learning_202510"
+license: MIT
+tags: [general]
+---
+
 # claude-code-output-style-learning_20251007
 
 source: Extracted from Claude Code CLI (cli.js)

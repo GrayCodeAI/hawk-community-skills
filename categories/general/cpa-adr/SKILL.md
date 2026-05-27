@@ -1,3 +1,10 @@
+---
+name: cpa-adr
+description: "Skill: cpa-adr"
+license: MIT
+tags: [general]
+---
+
 # az iot adr
 
 ```bash

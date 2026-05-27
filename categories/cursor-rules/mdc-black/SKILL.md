@@ -1,7 +1,10 @@
 ---
-description: Enforce consistent Python code formatting using Black, automate style checks, and integrate seamlessly into development workflows to eliminate style debates and speed up code reviews.
-globs: **/*.py
+name: mdc-black
+description: "Enforce consistent Python code formatting using Black, automate style checks, and integrate seamlessly into development workflows to eliminate style debates and speed up code reviews."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # black Best Practices
 
 `black` is the uncompromising Python code formatter. Our team adopts `black` as the definitive style guide for all Python projects. By using `black`, you cede control over formatting minutiae, gaining speed, determinism, and freedom from style debates.

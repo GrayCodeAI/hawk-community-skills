@@ -1,3 +1,10 @@
+---
+name: gpt-ofk9mnhnj_break_up_gpt
+description: "Skill: gpt-ofk9mnhnj_break_up_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ofK9mNHnj-break-up-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-maRWaf2XasDlpJZ7lvRtQqYY?se=2123-12-17T05%3A35%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D52064789-e11e-4961-93d5-fc00b1ccc31a.png&sig=Hmu50c6Qs1/X0GiUuX/eOZTYxqpUKEN5p16ddcbfMNg%3D" width="100px" />

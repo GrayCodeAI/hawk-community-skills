@@ -1,7 +1,10 @@
 ---
-description: Applies general coding style and structure rules for Python code in the backend.
-globs: backend/src/**/*.py
+name: mdc-general-python-backend-rules
+description: "Applies general coding style and structure rules for Python code in the backend."
+license: MIT
+tags: [python]
 ---
+
 - Expert in Python, FastAPI, scalable API development.
 - Write concise, technical responses with accurate examples in Python.
 - Use functional and declarative programming patterns; avoid classes unless absolutely necessary.

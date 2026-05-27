@@ -1,3 +1,10 @@
+---
+name: ls-screenshot-to-code
+description: "Skill: ls-screenshot-to-code"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/abi/screenshot-to-code/blob/main/backend/prompts.py
 
 prompt:

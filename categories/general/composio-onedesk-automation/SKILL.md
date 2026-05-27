@@ -1,8 +1,10 @@
 ---
-name: onedesk-automation
+name: composio-onedesk-automation
 description: "Automate Onedesk tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Onedesk Automation via Rube MCP

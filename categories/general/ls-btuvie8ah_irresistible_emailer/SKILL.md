@@ -1,3 +1,10 @@
+---
+name: ls-btuvie8ah_irresistible_emailer
+description: "Skill: ls-btuvie8ah_irresistible_emailer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BtUVIE8ah-irresistible-emailer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-q4UJH3nSYSXfpiEjN9omUTq6?se=2123-11-03T05%3A29%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-27%252012.16.42%2520-%2520Beautiful%2520Circle%2520app%2520icon%2520for%2520Irresistible%2520Emailer%252C%2520representing%2520the%2520concept%2520of%2520crafting%2520irresistible%2520cold%2520emails%2520with%2520a%2520humorous%252C%2520sexy%252C%2520and%2520elegant%2520t.png&sig=gIPnaNipJfPwGm9nALp7z/tkSep1y5oBObpqBeecUfs%3D" width="100px" />

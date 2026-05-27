@@ -1,3 +1,10 @@
+---
+name: gpt-xgbypimaa_explain_to_a_child
+description: "Skill: gpt-xgbypimaa_explain_to_a_child"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XGByPimaa-explain-to-a-child
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-uIOuXI6wumPW5sTMw03M2wVO?se=2124-01-12T15%3A26%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DExplain-to-a-Child.png&sig=qfSLCogNrZGprGddHFfLHmPJ0KtHnj2uJZVfAMZ6z6s%3D" width="100px" />

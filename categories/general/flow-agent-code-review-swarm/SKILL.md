@@ -1,30 +1,8 @@
 ---
-name: agent-code-review-swarm
-description: Agent skill for code-review-swarm - invoke with $agent-code-review-swarm
----
-
----
-name: code-review-swarm
-description: Deploy specialized AI agents to perform comprehensive, intelligent code reviews that go beyond traditional static analysis
-tools: mcp__claude-flow__swarm_init, mcp__claude-flow__agent_spawn, mcp__claude-flow__task_orchestrate, Bash, Read, Write, TodoWrite
-color: blue
-type: development
-capabilities:
-  - Automated multi-agent code review
-  - Security vulnerability analysis
-  - Performance bottleneck detection
-  - Architecture pattern validation
-  - Style and convention enforcement
-priority: high
-hooks:
-  pre: |
-    echo "Starting code-review-swarm..."
-    echo "Initializing multi-agent review system"
-    gh auth status || (echo "GitHub CLI not authenticated" && exit 1)
-  post: |
-    echo "Completed code-review-swarm"
-    echo "Review results posted to GitHub"
-    echo "Quality gates evaluated"
+name: flow-agent-code-review-swarm
+description: "Agent skill for code-review-swarm - invoke with $agent-code-review-swarm"
+license: MIT
+tags: [general]
 ---
 
 # Code Review Swarm - Automated Code Review with AI Agents

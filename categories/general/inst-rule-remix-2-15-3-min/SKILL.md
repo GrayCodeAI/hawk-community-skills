@@ -1,7 +1,9 @@
 ---
-description: Coding Standards & Rules for Remix 2.15.3
-globs: **/*.tsx, **/*.jsx
-alwaysApply: true
+name: inst-rule-remix-2-15-3-min
+description: "Coding Standards & Rules for Remix 2.15.3"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 You are a Remix, TypeScript expert focused on clear code, using Remix 2.15.3’s latest features and best practices.

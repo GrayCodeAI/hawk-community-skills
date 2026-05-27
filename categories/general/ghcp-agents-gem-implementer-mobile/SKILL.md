@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-implementer-mobile
 description: "Mobile implementation — React Native, Expo, Flutter with TDD."
-name: gem-implementer-mobile
-argument-hint: "Enter task_id, plan_id, plan_path, and mobile task_definition to implement for iOS/Android."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, and mobile task_definition to implement for iOS/Android.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the IMPLEMENTER-MOBILE

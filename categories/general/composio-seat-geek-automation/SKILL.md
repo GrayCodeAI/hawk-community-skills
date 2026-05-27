@@ -1,8 +1,10 @@
 ---
-name: seat-geek-automation
+name: composio-seat-geek-automation
 description: "Automate Seat Geek tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Seat Geek Automation via Rube MCP

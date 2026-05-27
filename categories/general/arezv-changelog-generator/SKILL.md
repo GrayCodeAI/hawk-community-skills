@@ -1,6 +1,8 @@
 ---
-name: "changelog-generator"
+name: arezv-changelog-generator
 description: "Changelog Generator"
+license: MIT
+tags: [general]
 ---
 
 # Changelog Generator

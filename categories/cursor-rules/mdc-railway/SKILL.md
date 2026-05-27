@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for developing and deploying applications on Railway, focusing on stateless services, reproducible builds with Nixpacks, secure configuration, and optimal performance.
-globs: **/*
+name: mdc-railway
+description: "This guide provides definitive best practices for developing and deploying applications on Railway, focusing on stateless services, reproducible builds with Nixpacks, secure configuration, and opti..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # railway Best Practices
 
 Railway is a powerful PaaS for modern applications. Adhere to these guidelines to ensure your services are performant, reliable, and easily deployable.

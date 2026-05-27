@@ -1,9 +1,10 @@
 ---
 name: cr-react-redux-typescript
-description: Cursor rules for react-redux-typescript
-domain: engineering
+description: "Cursor rules for react-redux-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -51,4 +52,3 @@ const additionalInstructions = `
 6. Use Redux DevTools for debugging
 7. Follow Redux style guide for naming conventions
 `;
-

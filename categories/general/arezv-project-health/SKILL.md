@@ -1,6 +1,8 @@
 ---
-name: project-health
-description: Portfolio health dashboard and risk matrix analysis. Usage: /project-health <dashboard|risk> [options]
+name: arezv-project-health
+description: "Portfolio health dashboard and risk matrix analysis. Usage: /project-health <dashboard|risk> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /project-health

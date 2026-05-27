@@ -1,7 +1,10 @@
 ---
-description: This rule file guides developers on best practices for using Elasticsearch, focusing on data modeling, query optimization, performance, and code structure for robust, high-performance search applications.
-globs: **/*
+name: mdc-elasticsearch
+description: "This rule file guides developers on best practices for using Elasticsearch, focusing on data modeling, query optimization, performance, and code structure for robust, high-performance search applic..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # elasticsearch Best Practices
 
 Elasticsearch is a powerful search engine. Treat it as such. These guidelines ensure your team builds performant, scalable, and maintainable applications.

@@ -1,7 +1,10 @@
 ---
-description: Applies best practices for Qwik.js development with Tailwind CSS, including using specific suffixes, reactive state management, and styling approaches.
-globs: src/**/*.{ts,tsx,css}
+name: mdc-qwik-and-tailwind-best-practices
+description: "Applies best practices for Qwik.js development with Tailwind CSS, including using specific suffixes, reactive state management, and styling approaches."
+license: MIT
+tags: [tailwind]
 ---
+
 - Use $ suffix for lazy-loaded functions
 - Utilize useSignal() for reactive state
 - Implement Tailwind CSS classes for styling

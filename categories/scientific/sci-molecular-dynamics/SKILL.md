@@ -1,9 +1,10 @@
 ---
-name: molecular-dynamics
-description: Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set up protein/small molecule systems, define force fields, run energy minimization and production MD, analyze trajectories (RMSD, RMSF, contact maps, free energy surfaces). For structural biology, drug binding, and biophysics.
+name: sci-molecular-dynamics
+description: "Run and analyze molecular dynamics simulations with OpenMM and MDAnalysis. Set up protein/small molecule systems, define force fields, run energy minimization and production MD, analyze trajectorie..."
 license: MIT
-metadata:
-    skill-author: Kuan-lin Huang
+tags: [scientific]
+metadata: None
+skill-author: Kuan-lin Huang
 ---
 
 # Molecular Dynamics

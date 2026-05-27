@@ -1,9 +1,11 @@
 ---
-name: stride-analysis-patterns
+name: ag-stride-analysis-patterns
 description: "Apply STRIDE methodology to systematically identify threats. Use when analyzing system security, conducting threat modeling sessions, or creating security documentation."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # STRIDE Analysis Patterns

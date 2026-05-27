@@ -1,3 +1,10 @@
+---
+name: ls-jfdewfsrt_seo_gpt_by_writesonic
+description: "Skill: ls-jfdewfsrt_seo_gpt_by_writesonic"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jfDEwfsrT-seo-gpt-by-writesonic
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-zBLNDWSYOjCm5zYHHxSqQ8fE?se=2123-11-06T17%3A42%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dci8hv3dncoavlcwjh0g8.webp&sig=%2Bzzu6F8JVUCfiviYICn358hKlbAQXHV0OlaJFrRwaFI%3D" width="100px" />

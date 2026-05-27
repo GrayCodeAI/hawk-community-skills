@@ -1,9 +1,11 @@
 ---
-name: prompt-engineering
+name: ag-prompt-engineering
 description: "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Prompt Engineering Patterns

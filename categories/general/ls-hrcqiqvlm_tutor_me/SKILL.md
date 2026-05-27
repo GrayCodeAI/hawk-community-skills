@@ -1,3 +1,10 @@
+---
+name: ls-hrcqiqvlm_tutor_me
+description: "Skill: ls-hrcqiqvlm_tutor_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hRCqiqVlM-tutor-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kM163oDkrVnm7jsidA5WweOP?se=2123-11-18T17%3A08%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DKA_KhanmigoGPT_1_LearnerActivities.png&sig=zSZKBHM7UsdkEyM2CmiYpkdhVAJZWk0qJQle9lPEhdw%3D" width="100px" />

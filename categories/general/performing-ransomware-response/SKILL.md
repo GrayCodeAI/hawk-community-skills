@@ -1,18 +1,12 @@
 ---
 name: performing-ransomware-response
-description: >
-  Executes a structured ransomware incident response from initial detection through
-  containment, forensic analysis, decryption assessment, recovery, and post-incident
-  hardening. Addresses ransom negotiation considerations, backup integrity verification,
-  and regulatory notification requirements. Activates for requests involving ransomware
-  response, ransomware recovery, crypto-ransomware, data encryption attack, ransom
-  payment decision, or ransomware containment.
+description: "Executes a structured ransomware incident response from initial detection through containment, forensic analysis, decryption assessment, recovery, and post-incident hardening. Addresses ransom nego..."
+license: MIT
+tags: [ransomware, encryption-recovery, backup-restoration, ransom-negotiation, cisa-guidance]
 domain: cybersecurity
 subdomain: incident-response
-tags: [ransomware, encryption-recovery, backup-restoration, ransom-negotiation, CISA-guidance]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Performing Ransomware Response

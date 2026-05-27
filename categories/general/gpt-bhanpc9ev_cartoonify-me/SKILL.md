@@ -1,3 +1,10 @@
+---
+name: gpt-bhanpc9ev_cartoonify-me
+description: "Skill: gpt-bhanpc9ev_cartoonify-me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bHaNPc9EV-cartoonify-me
 
 GPT Title: Cartoonify Me

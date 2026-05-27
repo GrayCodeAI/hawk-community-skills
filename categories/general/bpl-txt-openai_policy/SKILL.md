@@ -1,9 +1,10 @@
 ---
-name: bpl-openai_policy
-description: System prompt - openai_policy
-domain: general
+name: bpl-txt-openai_policy
+description: "System prompt - openai_policy"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -111,5 +112,3 @@ Changelog
     2021-08-04: Updated with information related to code generation
     2021-03-12: Added detailed case-by-case requirements; small copy and ordering edits
     2021-02-26: Clarified the impermissibility of Tweet and Instagram generators
-
-

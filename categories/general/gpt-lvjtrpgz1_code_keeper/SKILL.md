@@ -1,3 +1,10 @@
+---
+name: gpt-lvjtrpgz1_code_keeper
+description: "Skill: gpt-lvjtrpgz1_code_keeper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lVjTRPGz1-code-keeper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TRiTPQPHV5S8xvTFBeXUqbbK?se=2123-11-16T20%3A22%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da4637f81-077a-4e54-97cf-65d606cecece.png&sig=hV02n3qwF67hM/9iWiNRXqpxDTbQP8O%2B83TDXpsLZDA%3D" width="100px" />

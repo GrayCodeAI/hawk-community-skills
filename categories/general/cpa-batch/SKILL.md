@@ -1,3 +1,10 @@
+---
+name: cpa-batch
+description: "Skill: cpa-batch"
+license: MIT
+tags: [general]
+---
+
 # az batch
 
 ```bash

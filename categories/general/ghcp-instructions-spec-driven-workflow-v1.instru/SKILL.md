@@ -1,7 +1,10 @@
 ---
-description: 'Specification-Driven Workflow v1 provides a structured approach to software development, ensuring that requirements are clearly defined, designs are meticulously planned, and implementations are thoroughly documented and validated.'
-applyTo: '**'
+name: ghcp-instructions-spec-driven-workflow-v1.instru
+description: "Skill: ghcp-instructions-spec-driven-workflow-v1.instru"
+license: MIT
+tags: [general]
 ---
+
 # Spec Driven Workflow v1
 
 **Specification-Driven Workflow:**

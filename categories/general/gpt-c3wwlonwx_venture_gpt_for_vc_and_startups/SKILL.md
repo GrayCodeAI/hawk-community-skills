@@ -1,3 +1,10 @@
+---
+name: gpt-c3wwlonwx_venture_gpt_for_vc_and_startups
+description: "Skill: gpt-c3wwlonwx_venture_gpt_for_vc_and_startups"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-C3WWLOnWX-venture-gpt-for-vc-and-startups
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Y7VbKJ6Ik0Qh9hUPQYWbtA46?se=2123-10-17T08%3A42%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252009.39.22%2520-%2520A%2520detailed%2520sketch%2520of%2520a%2520human%2520hand%2520holding%2520a%2520coin.%2520The%2520hand%2520should%2520be%2520positioned%2520in%2520a%2520relaxed%2520manner%252C%2520with%2520the%2520coin%2520between%2520the%2520thumb%2520and%2520the%2520index%2520fin.png&sig=ldqDU84hIzzsq2y/6MMR8wbHOZDppQaSyNqvopZdX9k%3D" width="100px" />

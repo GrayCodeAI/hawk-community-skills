@@ -1,3 +1,10 @@
+---
+name: gpt-cynydwlrq_annoying_vegan
+description: "Skill: gpt-cynydwlrq_annoying_vegan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CYNydWLRQ-annoying-vegan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-g0LNVLCN3DcHwE8ZYXvTZbPb?se=2123-12-28T15%3A02%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D90504f87-3b3b-4189-a173-60ce05ebe34d.png&sig=Oi6X4rUQ6Oeu7kcauPpO3OQ06PIB3P2o%2Buk2xzOQQ/w%3D" width="100px" />

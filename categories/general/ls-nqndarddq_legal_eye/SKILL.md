@@ -1,3 +1,10 @@
+---
+name: ls-nqndarddq_legal_eye
+description: "Skill: ls-nqndarddq_legal_eye"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NQndarDDq-legal-eye
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xMe99QZa30JxL8uuJyQ9yP6g?se=2123-12-28T17%3A51%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D4363.PNG&sig=5MjJ%2BYGFSX7Y8vZH2X59GdpK2OxkznL0svrvQtcjw5g%3D" width="100px" />

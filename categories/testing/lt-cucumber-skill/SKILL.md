@@ -1,20 +1,8 @@
 ---
-name: cucumber-skill
-description: >
-  Generates Cucumber BDD tests with Gherkin feature files and step definitions
-  in Java, JavaScript, or Ruby. Use when user mentions "Cucumber", "Gherkin",
-  "Feature/Scenario", "Given/When/Then", "BDD". Triggers on: "Cucumber",
-  "Gherkin", "BDD", "Feature file", "Given/When/Then", "step definitions".
-languages:
-  - Java
-  - JavaScript
-  - Ruby
-  - TypeScript
-category: bdd-testing
+name: lt-cucumber-skill
+description: "Skill: lt-cucumber-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Cucumber BDD Skill

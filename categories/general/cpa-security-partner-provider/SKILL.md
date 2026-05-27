@@ -1,3 +1,10 @@
+---
+name: cpa-security-partner-provider
+description: "Skill: cpa-security-partner-provider"
+license: MIT
+tags: [general]
+---
+
 # az network security-partner-provider
 
 ```bash

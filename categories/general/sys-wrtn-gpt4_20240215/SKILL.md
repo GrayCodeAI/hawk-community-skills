@@ -1,3 +1,10 @@
+---
+name: sys-wrtn-gpt4_20240215
+description: "Skill: sys-wrtn-gpt4_20240215"
+license: MIT
+tags: [general]
+---
+
 # wrtn-gpt4_20240215
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/26>

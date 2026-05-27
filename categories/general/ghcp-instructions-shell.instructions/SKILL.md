@@ -1,6 +1,8 @@
 ---
-description: 'Shell scripting best practices and conventions for bash, sh, zsh, and other shells'
-applyTo: '**/*.sh'
+name: ghcp-instructions-shell.instructions
+description: "Skill: ghcp-instructions-shell.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Shell Scripting Guidelines

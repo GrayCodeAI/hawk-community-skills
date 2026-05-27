@@ -1,8 +1,10 @@
 ---
-name: benzinga-automation
+name: composio-benzinga-automation
 description: "Automate Benzinga tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Benzinga Automation via Rube MCP

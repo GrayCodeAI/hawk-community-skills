@@ -1,3 +1,10 @@
+---
+name: ghcp-references-observe-sampling-typescript
+description: "Skill: ghcp-references-observe-sampling-typescript"
+license: MIT
+tags: [general]
+---
+
 # Observe: Sampling Strategies (TypeScript)
 
 How to efficiently sample production traces for review.

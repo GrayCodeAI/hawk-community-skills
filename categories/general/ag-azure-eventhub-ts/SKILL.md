@@ -1,9 +1,11 @@
 ---
-name: azure-eventhub-ts
+name: ag-azure-eventhub-ts
 description: "High-throughput event streaming and real-time data ingestion."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure Event Hubs SDK for TypeScript

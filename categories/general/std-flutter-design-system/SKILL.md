@@ -1,26 +1,14 @@
 ---
-name: flutter-design-system
-description: Enforce Design Language System adherence in Flutter. Use when implementing design tokens, preventing hardcoded colors/spacing, or building a DLS.
-metadata:
-  triggers:
-    files:
-    - '**/theme/**'
-    - '**/*_theme.dart'
-    - '**/*_colors.dart'
-    - '**/*_dls/**'
-    - '**/foundation/**'
-    - '**/presentation/**'
-    - '**/ui/**'
-    - '**/widgets/**'
-    keywords:
-    - ThemeData
-    - ColorScheme
-    - AppColors
-    - VColors
-    - VSpacing
-    - AppTheme
-    - design token
+name: std-flutter-design-system
+description: "Enforce Design Language System adherence in Flutter. Use when implementing design tokens, preventing hardcoded colors/spacing, or building a DLS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Flutter Design System Enforcement
 
 ## **Priority: P0 (CRITICAL)**

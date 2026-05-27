@@ -1,3 +1,10 @@
+---
+name: ls-chb5jxfeg_ai_tiny_games_by_dave_lalande
+description: "Skill: ls-chb5jxfeg_ai_tiny_games_by_dave_lalande"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Chb5JxFEG-ai-tiny-games-by-dave-lalande
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-beRzpvb8wECuZt2m4zeSEItd?se=2123-11-18T00%3A11%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddave_copy_this_please.png&sig=KbLu2aYnorylUfk6PWjEMjFmi%2BWh8TJkyHU4PdrGwEs%3D" width="100px" />

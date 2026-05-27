@@ -1,3 +1,10 @@
+---
+name: ls-wdfsfrgmv_mr._cat
+description: "Skill: ls-wdfsfrgmv_mr._cat"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WDFsfrGmV-mr-cat
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-T9SZ5BSfFOlb73JrcP7yBLk0?se=2124-01-10T19%3A38%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D_9359a0e1-7f7f-4fc7-aae6-0f3fe5ba8394.jpg&sig=14Dw0yxFvgW8SL3WMoqdg7wT/fTZTDb4O7E2dtUghPA%3D" width="100px" />

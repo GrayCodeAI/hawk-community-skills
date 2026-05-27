@@ -1,3 +1,10 @@
+---
+name: ls-gpt4v_bing
+description: "Skill: ls-gpt4v_bing"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 architecture.
 Knowledge cutoff: 2022-01

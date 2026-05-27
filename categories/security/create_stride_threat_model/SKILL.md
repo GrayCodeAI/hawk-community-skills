@@ -1,9 +1,10 @@
 ---
 name: create_stride_threat_model
-description: Fabric pattern - create_stride_threat_model
-domain: general
+description: "Fabric pattern - create_stride_threat_model"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

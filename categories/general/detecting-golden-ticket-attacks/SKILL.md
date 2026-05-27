@@ -1,16 +1,12 @@
 ---
 name: detecting-golden-ticket-attacks
-description: >-
-  Detect Kerberos golden ticket attacks by analyzing Windows Security event logs for anomalous
-  TGT usage patterns. Parses Event IDs 4624, 4672, and 4768 from EVTX files to identify tickets
-  with abnormal lifetimes, domain SID mismatches, and privilege escalation sequences where
-  non-admin accounts receive admin-level privileges without corresponding group membership changes.
+description: "Detect Kerberos golden ticket attacks by analyzing Windows Security event logs for anomalous TGT usage patterns. Parses Event IDs 4624, 4672, and 4768 from EVTX files to identify tickets with abnor..."
+license: MIT
+tags: [detecting, golden, ticket, attacks]
 domain: cybersecurity
 subdomain: security-operations
-tags: [detecting, golden, ticket, attacks]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

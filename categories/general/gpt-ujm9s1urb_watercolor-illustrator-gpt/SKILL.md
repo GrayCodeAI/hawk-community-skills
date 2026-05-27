@@ -1,3 +1,10 @@
+---
+name: gpt-ujm9s1urb_watercolor-illustrator-gpt
+description: "Skill: gpt-ujm9s1urb_watercolor-illustrator-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uJm9S1uRB-watercolor-illustrator-gpt
 
 GPT Title: Watercolor Illustrator GPT

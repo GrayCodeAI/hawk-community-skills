@@ -1,3 +1,10 @@
+---
+name: ghcp-references-production-continuous
+description: "Skill: ghcp-references-production-continuous"
+license: MIT
+tags: [general]
+---
+
 # Production: Continuous Evaluation
 
 Capability vs regression evals and the ongoing feedback loop.

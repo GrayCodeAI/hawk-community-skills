@@ -1,6 +1,8 @@
 ---
-name: centos-linux-triage
-description: 'Triage and resolve CentOS issues using RHEL-compatible tooling, SELinux-aware practices, and firewalld.'
+name: ghcp-centos-linux-triage-skill
+description: "Triage and resolve CentOS issues using RHEL-compatible tooling, SELinux-aware practices, and firewalld."
+license: MIT
+tags: [general]
 ---
 
 # CentOS Linux Triage

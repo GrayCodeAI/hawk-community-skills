@@ -1,3 +1,10 @@
+---
+name: ls-cbnevpiuc_ai-fortune-telling
+description: "Skill: ls-cbnevpiuc_ai-fortune-telling"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cbNeVpiuC-aisuan-ming
 
 GPT Title: AI算命

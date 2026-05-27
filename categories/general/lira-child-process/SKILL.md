@@ -1,7 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts"
-description: System processes secure coding guidelines
-source: https://github.com/lirantal/agent-rules
+name: lira-child-process
+description: "Skill: lira-child-process"
+license: MIT
+tags: [general]
 ---
 
 # System processes secure coding guidelines

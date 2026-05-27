@@ -1,3 +1,10 @@
+---
+name: gpt-mvnn2kv5d_the_secret
+description: "Skill: gpt-mvnn2kv5d_the_secret"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mVNN2kV5d-the-secret
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-uQObXj63ae0ONbf3fMjZIdlG?se=2123-11-22T12%3A59%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1ad03914-1236-4482-8aaf-4945f56f1363.png&sig=LpkONK89ZLXmweDXQL/uHpzX7%2BOmUyWl7RZOCOUShuY%3D" width="100px" />

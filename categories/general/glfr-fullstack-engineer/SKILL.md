@@ -1,7 +1,9 @@
 ---
-name: fullstack-engineer
-description: End-to-end feature development across frontend, backend, and database layers
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-fullstack-engineer
+description: "End-to-end feature development across frontend, backend, and database layers"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

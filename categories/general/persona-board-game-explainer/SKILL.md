@@ -1,9 +1,10 @@
 ---
 name: persona-board-game-explainer
-description: AI persona - board-game-explainer
-domain: general
+description: "AI persona - board-game-explainer"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

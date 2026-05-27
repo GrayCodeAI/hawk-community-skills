@@ -1,3 +1,10 @@
+---
+name: cpa-provider
+description: "Skill: cpa-provider"
+license: MIT
+tags: [general]
+---
+
 # az provider
 
 ```bash

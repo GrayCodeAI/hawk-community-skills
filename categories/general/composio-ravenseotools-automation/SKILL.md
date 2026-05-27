@@ -1,8 +1,10 @@
 ---
-name: ravenseotools-automation
+name: composio-ravenseotools-automation
 description: "Automate Ravenseotools tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ravenseotools Automation via Rube MCP

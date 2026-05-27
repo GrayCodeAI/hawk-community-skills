@@ -1,3 +1,10 @@
+---
+name: tl-stream
+description: "Skill: tl-stream"
+license: MIT
+tags: [general]
+---
+
 # Stream Gotchas
 
 ## Common Errors

@@ -1,6 +1,8 @@
 ---
-name: competitive-matrix
-description: Build competitive analysis matrices with scoring and gap analysis. Usage: /competitive-matrix <analyze> [options]
+name: arezv-competitive-matrix
+description: "Build competitive analysis matrices with scoring and gap analysis. Usage: /competitive-matrix <analyze> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /competitive-matrix

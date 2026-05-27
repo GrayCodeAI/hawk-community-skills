@@ -1,3 +1,10 @@
+---
+name: tl-miniflare
+description: "Skill: tl-miniflare"
+license: MIT
+tags: [general]
+---
+
 # Gotchas & Troubleshooting
 
 ## Miniflare Limitations

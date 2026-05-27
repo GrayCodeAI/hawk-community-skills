@@ -1,3 +1,10 @@
+---
+name: arb-check_compatibility
+description: "Skill: arb-check_compatibility"
+license: MIT
+tags: [general]
+---
+
 # Compatibility Check Instructions For AI Agents
 
 You are creating a source-grounded compatibility map for all book-derived rule sets in this repository.

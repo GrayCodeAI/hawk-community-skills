@@ -1,3 +1,10 @@
+---
+name: cpa-profile
+description: "Skill: cpa-profile"
+license: MIT
+tags: [general]
+---
+
 # az network profile
 
 ```bash

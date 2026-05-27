@@ -1,7 +1,9 @@
 ---
-description: 'Transform requirements documents into structured Jira epics and user stories with intelligent duplicate detection, change management, and user-approved creation workflow.'
-name: 'Atlassian Requirements to Jira'
-tools: ['atlassian']
+name: ghcp-agents-atlassian-requirements-to-jira
+description: "Transform requirements documents into structured Jira epics and user stories with intelligent duplicate detection, change management, and user-approved creation workflow."
+license: MIT
+tags: [general]
+tools: [atlassian]
 ---
 
 ## 🔒 SECURITY CONSTRAINTS & OPERATIONAL LIMITS

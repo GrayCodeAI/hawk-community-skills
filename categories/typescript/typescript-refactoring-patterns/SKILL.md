@@ -1,7 +1,8 @@
 ---
 name: typescript-refactoring-patterns
-description: Expert TypeScript refactoring patterns for cleaner, type-safe code
+description: "Expert TypeScript refactoring patterns for cleaner, type-safe code"
 license: MIT
+tags: [typescript]
 compatibility: typescript 5.0+
 allowed-tools: read_file write_file apply_patch search_with_context
 ---

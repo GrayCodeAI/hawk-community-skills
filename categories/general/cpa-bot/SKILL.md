@@ -1,3 +1,10 @@
+---
+name: cpa-bot
+description: "Skill: cpa-bot"
+license: MIT
+tags: [general]
+---
+
 # az bot
 
 ```bash

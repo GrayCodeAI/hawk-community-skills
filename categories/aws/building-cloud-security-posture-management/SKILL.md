@@ -1,17 +1,12 @@
 ---
 name: building-cloud-security-posture-management
-description: >
-  This skill guides security architects through designing and implementing a cloud
-  security posture management program that continuously monitors infrastructure
-  configurations across AWS, Azure, and GCP. It covers selecting CSPM tooling such
-  as Wiz, Prisma Cloud, or native services, defining policy baselines, automating
-  drift detection, and integrating posture findings into SOC workflows.
+description: "This skill guides security architects through designing and implementing a cloud security posture management program that continuously monitors infrastructure configurations across AWS, Azure, and ..."
+license: MIT
+tags: [cspm, cloud-misconfiguration, security-posture, drift-detection, multi-cloud-governance]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [cspm, cloud-misconfiguration, security-posture, drift-detection, multi-cloud-governance]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Building Cloud Security Posture Management

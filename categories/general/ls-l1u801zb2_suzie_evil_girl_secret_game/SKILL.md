@@ -1,3 +1,10 @@
+---
+name: ls-l1u801zb2_suzie_evil_girl_secret_game
+description: "Skill: ls-l1u801zb2_suzie_evil_girl_secret_game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l1U801ZB2-suzie-evil-girl-secret-game
 
 GPT logo: <img src="None" width="100px" />

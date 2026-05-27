@@ -1,7 +1,9 @@
 ---
-name: browser-scrape
-description: DEPRECATED in v0.2.0 -- use browser-extract instead; this is a thin shim for backward compatibility, removed in v0.3.0
-argument-hint: "<url>"
+name: flow-browser-scrape
+description: "DEPRECATED in v0.2.0 -- use browser-extract instead; this is a thin shim for backward compatibility, removed in v0.3.0"
+license: MIT
+tags: [general]
+argument-hint: <url>
 allowed-tools: Bash Read
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-bicep-reviewer
+description: "Skill: ghcp-references-bicep-reviewer"
+license: MIT
+tags: [general]
+---
+
 # Bicep Reviewer Agent
 
 Reviews generated Bicep code and automatically fixes any issues found.

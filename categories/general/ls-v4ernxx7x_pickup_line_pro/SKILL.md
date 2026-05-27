@@ -1,3 +1,10 @@
+---
+name: ls-v4ernxx7x_pickup_line_pro
+description: "Skill: ls-v4ernxx7x_pickup_line_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-v4Ernxx7X-pickup-line-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2E5aMWnsawO4qx8LAHRhBEXA?se=2124-01-13T23%3A46%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Db940d71b-7b00-401e-819b-b85e4ebc700f.webp&sig=3NsGgcHIjHqy/i2dbrZ1VV90IdrADYvl5A0TEO7F/Ho%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
-name: bpl-usage
-description: System prompt - usage
-domain: general
+name: bpl-txt-usage
+description: "System prompt - usage"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

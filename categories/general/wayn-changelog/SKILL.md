@@ -1,3 +1,10 @@
+---
+name: wayn-changelog
+description: "Skill: wayn-changelog"
+license: MIT
+tags: [general]
+---
+
 # PromptStack Changelog
 
 All notable changes to this project will be documented in this file.

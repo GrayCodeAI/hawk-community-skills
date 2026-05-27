@@ -1,19 +1,14 @@
 ---
-name: nextjs-server-actions
-description: Implement mutations, forms, and RPC-style calls with Next.js Server Actions. Use when implementing Server Actions, form mutations, or RPC-style data mutations in Next.js.
-metadata:
-  triggers:
-    files:
-    - 'app/**/actions.ts'
-    - 'src/app/**/actions.ts'
-    - 'app/**/*.tsx'
-    - 'src/app/**/*.tsx'
-    keywords:
-    - use server
-    - Server Action
-    - revalidatePath
-    - useFormStatus
+name: std-nextjs-server-actions
+description: "Implement mutations, forms, and RPC-style calls with Next.js Server Actions. Use when implementing Server Actions, form mutations, or RPC-style data mutations in Next.js."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Server Actions
 
 ## **Priority: P1 (HIGH)**

@@ -1,3 +1,10 @@
+---
+name: gpt-aykkoce0c_mob_mosaic_ai
+description: "Skill: gpt-aykkoce0c_mob_mosaic_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AykKoce0c-mob-mosaic-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WuULwZvacuUSAmCT5k3nL1js?se=2123-12-26T06%3A30%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-19%252001.26.43%2520-%25201.%2520A%2520stylized%2520image%2520of%2520an%2520old-time%2520detective%2527s%2520magnifying%2520glass%2520over%2520a%2520background%2520of%2520vintage%2520newspapers%252C%2520symbolizing%2520historical%2520crime%2520investigation.%25202.png&sig=zXlfvuWsmRYoX%2BqDpindL4CRnEGS19eolOA2%2B5qJN50%3D" width="100px" />

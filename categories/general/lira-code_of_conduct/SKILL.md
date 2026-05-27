@@ -1,3 +1,10 @@
+---
+name: lira-code_of_conduct
+description: "Skill: lira-code_of_conduct"
+license: MIT
+tags: [general]
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

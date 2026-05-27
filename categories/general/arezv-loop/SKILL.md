@@ -1,6 +1,8 @@
 ---
-name: "loop"
+name: arezv-loop
 description: "Start an autonomous experiment loop with user-selected interval (10min, 1h, daily, weekly, monthly). Uses CronCreate for scheduling."
+license: MIT
+tags: [general]
 command: /ar:loop
 ---
 

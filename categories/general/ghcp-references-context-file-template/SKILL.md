@@ -1,3 +1,10 @@
+---
+name: ghcp-references-context-file-template
+description: "Skill: ghcp-references-context-file-template"
+license: MIT
+tags: [general]
+---
+
 # Context File Template
 
 Standard template for a new context module. Copy and fill in the name.

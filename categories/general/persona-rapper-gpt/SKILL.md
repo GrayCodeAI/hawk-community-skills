@@ -1,9 +1,10 @@
 ---
 name: persona-rapper-gpt
-description: AI persona - rapper-gpt
-domain: general
+description: "AI persona - rapper-gpt"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

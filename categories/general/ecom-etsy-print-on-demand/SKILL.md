@@ -1,9 +1,11 @@
 ---
-name: etsy-print-on-demand
+name: ecom-etsy-print-on-demand
 description: "POD integration — Printful, Printify, mockups, niche selection, margin optimization"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Print on Demand

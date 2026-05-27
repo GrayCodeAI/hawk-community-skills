@@ -1,3 +1,10 @@
+---
+name: gpt-ahepkksrb_porn
+description: "Skill: gpt-ahepkksrb_porn"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ahEPkKSRb-porn/
 
 GPT Title: Porn

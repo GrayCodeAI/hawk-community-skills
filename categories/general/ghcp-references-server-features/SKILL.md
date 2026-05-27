@@ -1,3 +1,10 @@
+---
+name: ghcp-references-server-features
+description: "Skill: ghcp-references-server-features"
+license: MIT
+tags: [general]
+---
+
 # Other server features (completions, logging, progress, filters)
 
 A quick reference for the smaller MCP server features beyond the core primitives. Each section is short — load this file when one of these comes up.

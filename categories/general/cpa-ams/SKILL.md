@@ -1,3 +1,10 @@
+---
+name: cpa-ams
+description: "Skill: cpa-ams"
+license: MIT
+tags: [general]
+---
+
 # az ams
 
 ```bash

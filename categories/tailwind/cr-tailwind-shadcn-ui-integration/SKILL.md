@@ -1,9 +1,10 @@
 ---
 name: cr-tailwind-shadcn-ui-integration
-description: Cursor rules for tailwind-shadcn-ui-integration
-domain: engineering
+description: "Cursor rules for tailwind-shadcn-ui-integration"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -36,4 +37,3 @@ If you think there might not be a correct answer, you say so. If you do not know
 Tech Stack
 
 Files are located inside the src folder.
-

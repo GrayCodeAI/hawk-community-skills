@@ -1,9 +1,10 @@
 ---
 name: cr-html-tailwind-css-javascript
-description: Cursor rules for html-tailwind-css-javascript
-domain: engineering
+description: "Cursor rules for html-tailwind-css-javascript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -25,4 +26,3 @@ You carefully provide accurate, factual, thoughtful answers, and excel at reason
 - Consider new technologies and contrarian ideas, not just the conventional wisdom
 - If you think there might not be a correct answer, you say so. If you do not know the answer, say so instead of guessing.
 - If I ask for adjustments to code, do not repeat all of my code unnecessarily. Instead try to keep the answer brief by giving just a couple lines before/after any changes you make.
-

@@ -1,15 +1,9 @@
 ---
-name: mcp-create-adaptive-cards
-description: 'Skill converted from mcp-create-adaptive-cards.prompt.md'
----
-
-````prompt
----
-mode: 'agent'
-tools: ['changes', 'search/codebase', 'edit/editFiles', 'problems']
-description: 'Add Adaptive Card response templates to MCP-based API plugins for visual data presentation in Microsoft 365 Copilot'
-model: 'gpt-4.1'
-tags: [mcp, adaptive-cards, m365-copilot, api-plugin, response-templates]
+name: copilot-mcp-create-adaptive-cards
+description: Skill converted from mcp-create-adaptive-cards.prompt.md
+license: MIT
+tags:
+- general
 ---
 
 # Create Adaptive Cards for MCP Plugins

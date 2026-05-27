@@ -1,3 +1,10 @@
+---
+name: ls-4cktagqwr_x-optimizer-gpt
+description: "Skill: ls-4cktagqwr_x-optimizer-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4CktagQWR-x-optimizer-gpt
 
 GPT Title: X Optimizer GPTOptimizes X posts for peak engagement - By Rowan Cheung

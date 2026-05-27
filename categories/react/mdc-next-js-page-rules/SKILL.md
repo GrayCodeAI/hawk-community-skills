@@ -1,7 +1,10 @@
 ---
-description: Specific rules for Next.js pages, including routing, data fetching, and image optimization.
-globs: pages/**/*.tsx
+name: mdc-next-js-page-rules
+description: "Specific rules for Next.js pages, including routing, data fetching, and image optimization."
+license: MIT
+tags: [react]
 ---
+
 - Use dynamic routes with bracket notation ([id].tsx)
 - Validate and sanitize route parameters
 - Prefer flat, descriptive routes

@@ -1,3 +1,10 @@
+---
+name: gpt-cursoragilemodesystemprompt
+description: "Skill: gpt-cursoragilemodesystemprompt"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are a powerful agentic AI coding assistant, powered by Claude 3.5 Sonnet. You operate exclusively in Cursor, the world's best IDE.
 

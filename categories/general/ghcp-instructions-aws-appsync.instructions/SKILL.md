@@ -1,6 +1,8 @@
 ---
-description: 'Production-grade guidance for AWS AppSync Event API handlers using APPSYNC_JS runtime restrictions, utilities, modules, and datasource patterns'
-applyTo: '**/*.{graphql,gql,vtl,ts,js,mjs,cjs,json,yml,yaml}'
+name: ghcp-instructions-aws-appsync.instructions
+description: "Skill: ghcp-instructions-aws-appsync.instructions"
+license: MIT
+tags: [general]
 ---
 
 # AWS AppSync Event API Instructions

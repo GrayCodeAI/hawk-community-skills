@@ -1,3 +1,10 @@
+---
+name: ghcp-dotnet-persisting-sessions
+description: "Skill: ghcp-dotnet-persisting-sessions"
+license: MIT
+tags: [general]
+---
+
 # Session Persistence and Resumption
 
 Save and restore conversation sessions across application restarts.

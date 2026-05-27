@@ -1,3 +1,10 @@
+---
+name: ls-vlunrgrnn_jeremy_space_ai_law_assistant
+description: "Skill: ls-vlunrgrnn_jeremy_space_ai_law_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-vLUNRgRNN-jeremy-space-ai-law-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-904wMXCgc5yilIx3HN4KztiR?se=2124-01-09T02%3A54%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DJeremy%2520Space.png&sig=KZXsErBxjM%2Bs83A4s1pcuYOW%2BKqOZKpqJMv9eBh2pvI%3D" width="100px" />

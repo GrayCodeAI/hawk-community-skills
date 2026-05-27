@@ -1,3 +1,10 @@
+---
+name: ls-wxckxartp_astrology_birth_chart_gpt
+description: "Skill: ls-wxckxartp_astrology_birth_chart_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WxckXARTP-astrology-birth-chart-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OnurXUsvFsbNrxjaOpc5OpzH?se=2123-10-18T00%3A30%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dauthority-astrology-hero-image.png&sig=iyJ77YH%2BPLJxbVDisqIBji06MIpyvHHx8MRLxrppTZ4%3D" width="100px" />

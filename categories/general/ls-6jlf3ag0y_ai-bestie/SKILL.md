@@ -1,3 +1,10 @@
+---
+name: ls-6jlf3ag0y_ai-bestie
+description: "Skill: ls-6jlf3ag0y_ai-bestie"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie
 
 GPT Title: AI Bestie

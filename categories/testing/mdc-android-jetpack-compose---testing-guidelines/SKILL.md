@@ -1,7 +1,11 @@
 ---
-description: Defines testing guidelines for Android Jetpack Compose components, ViewModels, and UseCases.
-globs: app/src/test/java/com/package/**/*.kt
+name: mdc-android-jetpack-compose---testing-guidelines
+description: 'Skill: mdc-android-jetpack-compose---testing-guidelines'
+license: MIT
+tags:
+- testing
 ---
+
 - Write unit tests for ViewModels and UseCases.
 - Implement UI tests using Compose testing framework.
 - Use fake repositories for testing.

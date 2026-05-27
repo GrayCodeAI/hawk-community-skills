@@ -1,3 +1,10 @@
+---
+name: gpt-rxlwmrnqa_video-script-generator
+description: "Skill: gpt-rxlwmrnqa_video-script-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rxlwmrnqa-video-script-generator
 
 GPT Title: Video Script Generator

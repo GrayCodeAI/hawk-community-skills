@@ -1,3 +1,10 @@
+---
+name: gpt-2xx3cs0b1_hungary_tour_guide
+description: "Skill: gpt-2xx3cs0b1_hungary_tour_guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2XX3Cs0b1-hungary-tour-guide
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZmFvTZbth8DeOCobqynE4Ifs?se=2124-01-12T14%3A41%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D31562643-1f72-4b9b-a19f-692155065f72.png&sig=dSZL5A0t8zvlAupD8kD8fFW0qIMq4NgBR9NrliWnB0k%3D" width="100px" />

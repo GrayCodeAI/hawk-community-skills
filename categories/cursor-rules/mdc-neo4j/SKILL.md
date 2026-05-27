@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for writing Cypher queries and modeling data in Neo4j, ensuring readability, performance, and security for all team projects.
-globs: **/*
+name: mdc-neo4j
+description: "This guide defines the definitive best practices for writing Cypher queries and modeling data in Neo4j, ensuring readability, performance, and security for all team projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # neo4j Best Practices
 
 This document outlines the mandatory guidelines for developing with Neo4j. Adhering to these rules ensures our Cypher queries are performant, secure, and maintainable.

@@ -1,7 +1,9 @@
 ---
-name: websocket-engineer
-description: Real-time communication with WebSockets, Socket.io, scaling strategies, and reconnection handling
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-websocket-engineer
+description: "Real-time communication with WebSockets, Socket.io, scaling strategies, and reconnection handling"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

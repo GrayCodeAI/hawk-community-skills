@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building scalable, performant, and maintainable SvelteKit applications using modern best practices, TypeScript, and Svelte 5 runes.
-globs: **/*.{js,jsx,ts,tsx,svelte}
+name: mdc-sveltekit
+description: "Definitive guidelines for building scalable, performant, and maintainable SvelteKit applications using modern best practices, TypeScript, and Svelte 5 runes."
+license: MIT
+tags: [svelte]
 ---
+
 # SvelteKit Best Practices
 
 This guide outlines the definitive best practices for developing SvelteKit applications. Adhere to these principles for consistent, high-quality, and performant code.

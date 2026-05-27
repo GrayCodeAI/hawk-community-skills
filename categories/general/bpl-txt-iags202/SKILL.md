@@ -1,9 +1,10 @@
 ---
-name: bpl-iags202
-description: System prompt - iags202
-domain: general
+name: bpl-txt-iags202
+description: "System prompt - iags202"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

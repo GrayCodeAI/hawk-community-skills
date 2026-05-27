@@ -1,3 +1,10 @@
+---
+name: gpt-avguuprfb_crewai_code_generator
+description: "Skill: gpt-avguuprfb_crewai_code_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AVGuUpRFb-crewai-code-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BQVJTPEeAGu1UjqQmIdxC0Lp?se=2123-12-30T15%3A13%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D93bdf82f-a561-47e2-bcb9-82cc610faa9a.png&sig=1PKtNubwZZ8BJIZllnCsfI4FWx5xtKCq0A7zst2wUMY%3D" width="100px" />

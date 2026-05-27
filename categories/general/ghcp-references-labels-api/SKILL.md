@@ -1,3 +1,10 @@
+---
+name: ghcp-references-labels-api
+description: "Skill: ghcp-references-labels-api"
+license: MIT
+tags: [general]
+---
+
 # Labels API Reference
 
 Reference for GitHub Labels REST API endpoints used in the label migration flow.

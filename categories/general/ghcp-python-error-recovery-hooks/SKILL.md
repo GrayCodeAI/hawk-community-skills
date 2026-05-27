@@ -1,3 +1,10 @@
+---
+name: ghcp-python-error-recovery-hooks
+description: "Skill: ghcp-python-error-recovery-hooks"
+license: MIT
+tags: [general]
+---
+
 # Error Recovery Hooks
 
 Keep the LLM investigating when tools fail instead of giving up with a partial result.

@@ -1,3 +1,10 @@
+---
+name: ecom-influencer-outreach
+description: "Skill: ecom-influencer-outreach"
+license: MIT
+tags: [general]
+---
+
 # Influencer Outreach
 
 Find, contact, and manage influencer partnerships for e-commerce brands. Outreach templates, negotiation tactics, contract frameworks, and relationship management across Instagram, TikTok, YouTube, and more.

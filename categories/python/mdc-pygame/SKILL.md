@@ -1,7 +1,10 @@
 ---
-description: Definitive guide for building modern, performant, and maintainable Pygame applications using `pygame-gui` for UI, focusing on structure, responsive layout, theme-driven styling, and performance best practices.
-globs: **/*.py
+name: mdc-pygame
+description: "Definitive guide for building modern, performant, and maintainable Pygame applications using `pygame-gui` for UI, focusing on structure, responsive layout, theme-driven styling, and performance bes..."
+license: MIT
+tags: [python]
 ---
+
 # Pygame Best Practices
 
 This guide outlines the essential patterns for building robust and visually appealing Pygame applications, leveraging `pygame-gui` for all UI interactions. Adhere to these principles for maintainable, performant, and scalable game development.

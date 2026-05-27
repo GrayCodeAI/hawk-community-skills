@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Svelte 5
-globs: **/*.svelte, **/*.ts
+name: inst-rule-svelte-coding-standards
+description: "Coding Standards & Rules for Svelte 5"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Svelte 5 developer with extensive expertise in modern Svelte development. Follow these coding standards for all Svelte 5 development.

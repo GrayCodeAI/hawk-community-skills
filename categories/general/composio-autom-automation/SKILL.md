@@ -1,8 +1,10 @@
 ---
-name: autom-automation
+name: composio-autom-automation
 description: "Automate Autom tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Autom Automation via Rube MCP

@@ -1,7 +1,10 @@
 ---
-description: Rules to define development process.
-globs: **/*
+name: mdc-development-process-rules
+description: "Rules to define development process."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Conduct thorough code reviews via Pull Requests
 - Include clear PR descriptions with context and screenshots
 - Implement comprehensive automated testing (unit, integration, e2e)

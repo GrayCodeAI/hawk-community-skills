@@ -1,9 +1,10 @@
 ---
 name: persona-movie-recommender
-description: AI persona - movie-recommender
-domain: general
+description: "AI persona - movie-recommender"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

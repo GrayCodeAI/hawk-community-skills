@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-code-typescript
+description: "Skill: ghcp-references-evaluators-code-typescript"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: Code Evaluators in TypeScript
 
 Deterministic evaluators without LLM. Fast, cheap, reproducible.

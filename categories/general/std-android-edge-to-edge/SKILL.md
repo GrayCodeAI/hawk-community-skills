@@ -1,22 +1,14 @@
 ---
-name: android-edge-to-edge
-description: Migrate a Jetpack Compose app to edge-to-edge display and fix system bar inset issues. Use when UI components are obscured by navigation/status bars, fixing IME insets, or enabling edge-to-edge for SDK 35+.
-metadata:
-  triggers:
-    files:
-    - '**/*Activity.kt'
-    - '**/*Screen.kt'
-    - 'AndroidManifest.xml'
-    keywords:
-    - edge-to-edge
-    - enableEdgeToEdge
-    - system bars
-    - WindowInsets
-    - safeDrawingPadding
-    - imePadding
-    - status bar
-    - navigation bar
+name: std-android-edge-to-edge
+description: "Migrate a Jetpack Compose app to edge-to-edge display and fix system bar inset issues. Use when UI components are obscured by navigation/status bars, fixing IME insets, or enabling edge-to-edge for..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Edge-to-Edge Migration
 
 ## **Priority: P1**

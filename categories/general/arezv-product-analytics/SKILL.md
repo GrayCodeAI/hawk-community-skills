@@ -1,6 +1,8 @@
 ---
-name: product-analytics
-description: Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages.
+name: arezv-product-analytics
+description: "Use when defining product KPIs, building metric dashboards, running cohort or retention analysis, or interpreting feature adoption trends across product stages."
+license: MIT
+tags: [general]
 ---
 
 # Product Analytics

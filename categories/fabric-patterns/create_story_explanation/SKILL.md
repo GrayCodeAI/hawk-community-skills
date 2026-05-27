@@ -1,9 +1,10 @@
 ---
 name: create_story_explanation
-description: Fabric pattern - create_story_explanation
-domain: general
+description: "Fabric pattern - create_story_explanation"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

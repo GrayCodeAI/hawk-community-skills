@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive Python best practices for our team, focusing on readability, maintainability, and modern development standards. Adhere to these rules for consistent, high-quality Python code.
-globs: **/*.py
+name: mdc-python
+description: "This guide defines the definitive Python best practices for our team, focusing on readability, maintainability, and modern development standards. Adhere to these rules for consistent, high-quality ..."
+license: MIT
+tags: [python]
 ---
+
 # python Best Practices
 
 This document outlines the definitive Python best practices for our team. Adherence ensures consistent, readable, and maintainable code across all projects. We prioritize **PEP 8** as the foundation, augmented with modern tooling and patterns.

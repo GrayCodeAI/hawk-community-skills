@@ -1,29 +1,8 @@
 ---
-name: agent-specification
-description: Agent skill for specification - invoke with $agent-specification
----
-
----
-name: specification
-type: analyst
-color: blue
-description: SPARC Specification phase specialist for requirements analysis
-capabilities:
-  - requirements_gathering
-  - constraint_analysis
-  - acceptance_criteria
-  - scope_definition
-  - stakeholder_analysis
-priority: high
-sparc_phase: specification
-hooks:
-  pre: |
-    echo "📋 SPARC Specification phase initiated"
-    memory_store "sparc_phase" "specification"
-    memory_store "spec_start_$(date +%s)" "Task: $TASK"
-  post: |
-    echo "✅ Specification phase complete"
-    memory_store "spec_complete_$(date +%s)" "Specification documented"
+name: flow-agent-specification
+description: "Agent skill for specification - invoke with $agent-specification"
+license: MIT
+tags: [general]
 ---
 
 # SPARC Specification Agent

@@ -1,3 +1,10 @@
+---
+name: ls-rnq4xnxva_glamcaptioner
+description: "Skill: ls-rnq4xnxva_glamcaptioner"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rnQ4xnXVa-glamcaptioner
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nobzJNXYYXYGpMuvJBy6Wieh?se=2124-01-13T23%3A29%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-06%252017.26.25%2520-%2520A%2520digital%2520avatar%2520embodying%2520the%2520essence%2520of%2520the%25201980s%2520glam%2520rock%2520era.%2520This%2520character%2520has%2520big%252C%2520styled%2520hair%2520reminiscent%2520of%2520iconic%2520hair%2520bands%252C%2520wears%2520flamboy.webp&sig=1weWq7AnpjsycndasjDFtgvodelqntbHk0cV1xvaHbk%3D" width="100px" />

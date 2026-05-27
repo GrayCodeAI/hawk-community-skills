@@ -1,8 +1,10 @@
 ---
-name: timelink-automation
+name: composio-timelink-automation
 description: "Automate Timelink tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Timelink Automation via Rube MCP

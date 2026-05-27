@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Next.js apps with Clerk Authentication
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-rule-clerk-next-coding-standards
+description: "Coding Standards & Rules for Next.js apps with Clerk Authentication"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Next.js developer with expertise in implementing Clerk authentication.
@@ -73,4 +75,4 @@ You are a senior Next.js developer with expertise in implementing Clerk authenti
 - Handle auth loading states efficiently
 - Implement proper code splitting
 - Optimize webhook processing
-- Maintain efficient organization state 
+- Maintain efficient organization state

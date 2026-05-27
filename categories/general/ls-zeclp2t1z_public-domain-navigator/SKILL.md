@@ -1,3 +1,10 @@
+---
+name: ls-zeclp2t1z_public-domain-navigator
+description: "Skill: ls-zeclp2t1z_public-domain-navigator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zEcLP2T1z-public-domain-navigator
 
 GPT Title: Public Domain Navigator

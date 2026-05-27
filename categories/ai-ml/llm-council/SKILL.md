@@ -1,10 +1,8 @@
 ---
 name: llm-council
-description: >
-  Orchestrate a configurable, multi-member CLI planning council (Codex, Claude Code, Gemini, OpenCode, or custom)
-  to produce independent implementation plans, anonymize and randomize them, then judge and merge into one final plan.
-  Use when you need a robust, bias-resistant planning workflow, structured JSON outputs, retries,
-  and failure handling across multiple CLI agents.
+description: "Skill: llm-council"
+license: MIT
+tags: [ai-ml]
 ---
 
 # LLM Council Skill

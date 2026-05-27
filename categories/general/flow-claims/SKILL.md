@@ -1,9 +1,10 @@
 ---
-name: claims
-description: >
-  Claims-based authorization for agents and operations. Grant, revoke, and verify permissions for secure multi-agent coordination.
-  Use when: permission management, access control, secure operations, authorization checks.
-  Skip when: open access, no security requirements, single-agent local work.
+name: flow-claims
+description: "Skill: flow-claims"
+license: MIT
+tags: [general]
+Use when: permission management, access control, secure operations, authorization checks.
+Skip when: open access, no security requirements, single-agent local work.
 ---
 
 # Claims Authorization Skill

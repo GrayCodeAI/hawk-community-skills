@@ -1,18 +1,12 @@
 ---
 name: performing-osint-with-spiderfoot
-description: Automate OSINT collection using SpiderFoot REST API and CLI for target profiling, module-based reconnaissance, and structured result analysis across 200+ data sources
+description: "Automate OSINT collection using SpiderFoot REST API and CLI for target profiling, module-based reconnaissance, and structured result analysis across 200+ data sources"
+license: MIT
+tags: [general]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags:
-  - osint
-  - spiderfoot
-  - reconnaissance
-  - threat-intelligence
-  - attack-surface
-  - target-profiling
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing OSINT with SpiderFoot

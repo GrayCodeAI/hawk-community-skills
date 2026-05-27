@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing efficient, secure, and maintainable Dockerfiles and Docker Compose configurations, ensuring fast builds and reliable deployments.
-globs: **/Dockerfile,**/docker-compose*.{yml,yaml}
+name: mdc-docker
+description: "Definitive guidelines for writing efficient, secure, and maintainable Dockerfiles and Docker Compose configurations, ensuring fast builds and reliable deployments."
+license: MIT
+tags: [devops]
 ---
+
 # docker Best Practices
 
 Docker is the cornerstone of modern container-first development. Treat your `Dockerfile` and `docker-compose.yml` as critical source code. These rules ensure your images are fast, secure, reproducible, and aligned with modern DevOps practices.

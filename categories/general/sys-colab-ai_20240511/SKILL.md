@@ -1,3 +1,10 @@
+---
+name: sys-colab-ai_20240511
+description: "Skill: sys-colab-ai_20240511"
+license: MIT
+tags: [general]
+---
+
 # colab-ai_20240511
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/36>

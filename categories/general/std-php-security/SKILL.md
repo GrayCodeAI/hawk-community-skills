@@ -1,23 +1,14 @@
 ---
-name: php-security
-description: PHP security standards for database access, password handling, and input validation. Use when securing PHP apps against SQL injection, XSS, or weak password storage.
-metadata:
-  triggers:
-    files:
-    - '**/*.php'
-    keywords:
-    - pdo
-    - password_hash
-    - htmlentities
-    - filter_var
-    - php security
-    - sql injection
-    - xss php
-    - prepared statement
-    - csrf
-    - sanitize input
-    - password storage
+name: std-php-security
+description: "PHP security standards for database access, password handling, and input validation. Use when securing PHP apps against SQL injection, XSS, or weak password storage."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # PHP Security
 
 ## **Priority: P0 (CRITICAL)**

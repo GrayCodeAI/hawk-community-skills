@@ -1,8 +1,10 @@
 ---
-name: dadata-ru-automation
+name: composio-dadata-ru-automation
 description: "Automate Dadata Ru tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Dadata Ru Automation via Rube MCP

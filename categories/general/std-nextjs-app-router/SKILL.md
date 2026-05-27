@@ -1,18 +1,14 @@
 ---
-name: nextjs-app-router
-description: Configure file-system routing with nested layouts, route groups, parallel routes, and error boundaries in Next.js App Router. Use when creating page routes, adding loading/error states, or organizing routes with groups and dynamic segments.
-metadata:
-  triggers:
-    files:
-    - 'app/**/page.tsx'
-    - 'app/**/layout.tsx'
-    - 'app/**/loading.tsx'
-    keywords:
-    - App Router
-    - Layout
-    - Route Group
-    - parallel routes
+name: std-nextjs-app-router
+description: "Configure file-system routing with nested layouts, route groups, parallel routes, and error boundaries in Next.js App Router. Use when creating page routes, adding loading/error states, or organizi..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 ## **Priority: P0 (CRITICAL)**
 
 ## Workflow: Add New Route

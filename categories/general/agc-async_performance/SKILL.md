@@ -1,3 +1,10 @@
+---
+name: agc-async_performance
+description: "Skill: agc-async_performance"
+license: MIT
+tags: [general]
+---
+
 # DeepEval Async Mode and Performance Optimisation Implementation Guide
 
 ## Overview

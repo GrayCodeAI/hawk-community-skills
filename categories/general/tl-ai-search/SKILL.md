@@ -1,3 +1,10 @@
+---
+name: tl-ai-search
+description: "Skill: tl-ai-search"
+license: MIT
+tags: [general]
+---
+
 # AI Search Gotchas
 
 ## Type Safety

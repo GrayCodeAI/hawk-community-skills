@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-typescript
-description: Cursor rules for nextjs-typescript
-domain: engineering
+description: "Cursor rules for nextjs-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -82,4 +83,3 @@ Source Tree: (sample, replace emoji)
 etc.etc.
 Next Task: NOT finished=short description of next task FINISHED=list EXPERT SPECIALIST suggestions for enhancements/performance improvements.
 “”"
-

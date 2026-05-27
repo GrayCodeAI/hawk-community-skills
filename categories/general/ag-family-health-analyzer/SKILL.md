@@ -1,6 +1,8 @@
 ---
-name: family-health-analyzer
-description: 分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议
+name: ag-family-health-analyzer
+description: "分析家族病史、评估遗传风险、识别家庭健康模式、提供个性化预防建议"
+license: MIT
+tags: [general]
 allowed-tools: Read, Write, Grep, Glob
 risk: unknown
 source: community

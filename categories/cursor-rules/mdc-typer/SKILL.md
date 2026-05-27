@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, maintainable, and user-friendly command-line interfaces with Typer, emphasizing modern Python type hints and modular design.
-globs: **/*.py
+name: mdc-typer
+description: "Definitive guidelines for building robust, maintainable, and user-friendly command-line interfaces with Typer, emphasizing modern Python type hints and modular design."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # typer Best Practices
 
 Typer is the gold standard for building Python CLIs. It leverages type hints to generate powerful, intuitive interfaces. These rules ensure your Typer applications are consistently well-structured, type-safe, and easy to maintain.

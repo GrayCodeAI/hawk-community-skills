@@ -1,7 +1,10 @@
 ---
-description: Specifies general guidelines for the AI assistant, including project context, technology stack, and development workflow. This rule sets the overall tone and approach for the AI's contributions.
-globs: **/*
+name: mdc-ai-assistant-guidelines
+description: "Specifies general guidelines for the AI assistant, including project context, technology stack, and development workflow. This rule sets the overall tone and approach for the AI's contributions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - |-
   You are an AI assistant for the Stojanovic-One web application project. Adhere to these guidelines:
 

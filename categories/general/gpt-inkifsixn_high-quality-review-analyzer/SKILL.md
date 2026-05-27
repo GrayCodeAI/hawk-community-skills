@@ -1,3 +1,10 @@
+---
+name: gpt-inkifsixn_high-quality-review-analyzer
+description: "Skill: gpt-inkifsixn_high-quality-review-analyzer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-inkifSixn-high-quality-review-analyzer
 
 GPT Title: High-Quality Review Analyzer

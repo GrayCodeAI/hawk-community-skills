@@ -1,3 +1,10 @@
+---
+name: prompt-taste
+description: "Skill: prompt-taste"
+license: MIT
+tags: [general]
+---
+
 # Taste (Continuously Learned by [CommandCode][cmd])
 
 [cmd]: https://commandcode.ai/
@@ -33,4 +40,3 @@
 
 # database
 - Use soft deletes (`deletedAt` field) on Prompt and Comment models — never hard-delete these records. Confidence: 0.95
-

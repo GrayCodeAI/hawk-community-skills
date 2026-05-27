@@ -1,3 +1,10 @@
+---
+name: gpt-zvrpgz53o_security_test[1.1.1]
+description: "Skill: gpt-zvrpgz53o_security_test[1.1.1]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zvrpgZ53O-security-test-v1-1-1
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2fXSovU5jM23cSaGhw6D9svl?se=2123-11-23T21%3A23%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-12-17%252015.12.23%2520-%2520An%2520icon%2520for%2520a%2520custom%2520GPT%2520feature%2520named%2520%2527Security%2520Test%2527%252C%2520designed%2520to%2520symbolize%2520the%2520concept%2520of%2520knowing%2520a%2520secret%2520but%2520refusing%2520to%2520reveal%2520it.%2520The%2520icon%2520shou.png&sig=0PAY5VCsJ4BQ0bEvdr1O2cIBStF00ueXD3wZW6%2B4WGM%3D" width="100px" />

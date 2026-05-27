@@ -1,13 +1,14 @@
 ---
-name: performing-soc-2-type-ii-audit-preparation
-description: SOC 2 Type II audit preparation involves designing, implementing, and demonstrating the operational effectiveness of controls aligned to the AICPA Trust Services Criteria (TSC) over a defined audit pe
+name: performing-soc2-type2-audit-preparation
+description: "SOC 2 Type II audit preparation involves designing, implementing, and demonstrating the operational effectiveness of controls aligned to the AICPA Trust Services Criteria (TSC) over a defined audit pe"
+license: MIT
+tags: [compliance, governance, soc2, audit, trust-services-criteria, aicpa]
 domain: cybersecurity
 subdomain: compliance-governance
-tags: [compliance, governance, soc2, audit, trust-services-criteria, aicpa]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing SOC 2 Type II Audit Preparation
 
 ## Overview

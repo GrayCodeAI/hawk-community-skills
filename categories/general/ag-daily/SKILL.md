@@ -1,12 +1,14 @@
 ---
-name: daily
-description: Documentation and capabilities reference for Daily
-metadata:
-  mintlify-proj: daily
-  version: "1.0"
+name: ag-daily
+description: "Documentation and capabilities reference for Daily"
+license: MIT
+tags: [general]
+metadata: None
+mintlify-proj: daily
+version: 1.0
 risk: safe
 source: community
-date_added: "2026-03-07"
+date_added: 2026-03-07
 ---
 
 ## When to Use

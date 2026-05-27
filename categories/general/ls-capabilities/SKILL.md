@@ -1,3 +1,10 @@
+---
+name: ls-capabilities
+description: "Skill: ls-capabilities"
+license: MIT
+tags: [general]
+---
+
 # Manus AI Assistant Capabilities
 
 ## Overview

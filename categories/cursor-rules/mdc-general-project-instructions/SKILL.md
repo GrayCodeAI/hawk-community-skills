@@ -1,7 +1,10 @@
 ---
-description: Provides general instructions for project management, including terminal commands, package management, and file operations.
-globs: *.*
+name: mdc-general-project-instructions
+description: "Provides general instructions for project management, including terminal commands, package management, and file operations."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use PowerShell for terminal commands.
 - Before installing a new package, check if it's already installed:
   Get-ChildItem -Recurse -Filter package-name

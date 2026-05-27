@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for building robust, maintainable, and modern REST APIs using Flask-RESTful, emphasizing Pydantic for validation and clear architectural patterns.
-globs: **/*.py
+name: mdc-flask-restful
+description: "This guide defines definitive best practices for building robust, maintainable, and modern REST APIs using Flask-RESTful, emphasizing Pydantic for validation and clear architectural patterns."
+license: MIT
+tags: [python]
 ---
+
 # flask-restful Best Practices
 
 Flask-RESTful provides a lightweight foundation for REST APIs. To build modern, scalable, and maintainable services in 2025, we augment its core with established Python best practices, focusing on type safety, clear separation of concerns, and robust data handling.

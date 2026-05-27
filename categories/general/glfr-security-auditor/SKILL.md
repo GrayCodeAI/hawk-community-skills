@@ -1,7 +1,9 @@
 ---
-name: security-auditor
-description: OWASP Top 10, dependency scanning, secrets detection, and penetration testing guidance
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-security-auditor
+description: "OWASP Top 10, dependency scanning, secrets detection, and penetration testing guidance"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

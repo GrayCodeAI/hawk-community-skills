@@ -1,8 +1,10 @@
 ---
-name: keap-automation
+name: composio-keap-automation
 description: "Automate Keap tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Keap Automation via Rube MCP

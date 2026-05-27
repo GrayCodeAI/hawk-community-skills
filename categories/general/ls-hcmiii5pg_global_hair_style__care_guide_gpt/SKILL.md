@@ -1,3 +1,10 @@
+---
+name: ls-hcmiii5pg_global_hair_style__care_guide_gpt
+description: "Skill: ls-hcmiii5pg_global_hair_style__care_guide_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hCmIiI5pG-global-hair-style-care-guide-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jNOftibPSR1PQEUp2Y7LCzGm?se=2124-01-09T12%3A31%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-02%252015.18.26%2520-%2520Design%2520three%2520distinct%2520and%2520professional%2520profile%2520pictures%2520suitable%2520for%2520a%2520digital%2520platform%2520called%2520%2527Global%2520Hair%2520Style%2520%2526%2520Care%2520Guide%2520GPT%2527.%2520Each%2520image%2520should.webp&sig=U9bOeMJTVzf3S7pr/ykZxkNKhFC72tEzAL3SO%2BVqIbg%3D" width="100px" />

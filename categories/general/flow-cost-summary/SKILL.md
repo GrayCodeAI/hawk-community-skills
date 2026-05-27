@@ -1,7 +1,9 @@
 ---
-name: cost-summary
-description: Single-shot programmatic dump of all cost data — total spend, per-tier, top session, budget status, federation aggregate. JSON or markdown.
-argument-hint: "[--format json|markdown]"
+name: flow-cost-summary
+description: "Single-shot programmatic dump of all cost data — total spend, per-tier, top session, budget status, federation aggregate. JSON or markdown."
+license: MIT
+tags: [general]
+argument-hint: [--format json|markdown]
 allowed-tools: Bash
 ---
 

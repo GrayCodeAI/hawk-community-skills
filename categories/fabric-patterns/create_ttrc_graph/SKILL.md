@@ -1,9 +1,10 @@
 ---
 name: create_ttrc_graph
-description: Fabric pattern - create_ttrc_graph
-domain: general
+description: "Fabric pattern - create_ttrc_graph"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -49,4 +50,3 @@ END EXAMPLE FORMAT
 - Only output valid CSV data and nothing else. 
 
 - Use the field names in the input; don't make up your own.
-

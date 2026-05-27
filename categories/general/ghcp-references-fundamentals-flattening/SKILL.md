@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-flattening
+description: "Skill: ghcp-references-fundamentals-flattening"
+license: MIT
+tags: [general]
+---
+
 # Flattening Convention
 
 OpenInference flattens nested data structures into dot-notation attributes for database compatibility, OpenTelemetry compatibility, and simple querying.

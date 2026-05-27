@@ -1,15 +1,16 @@
 ---
-name: "coo-advisor"
-description: "Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling teams, analyzing bottlenecks, planning operational cadence, or when user mentions COO, operations, process improvement, OKRs, scaling, operational efficiency, or execution."
+name: arezv-coo-advisor
+description: "Operations leadership for scaling companies. Process design, OKR execution, operational cadence, and scaling playbooks. Use when designing operations, setting up OKRs, building processes, scaling t..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: coo-leadership
-  updated: 2026-03-05
-  python-tools: ops_efficiency_analyzer.py, okr_tracker.py
-  frameworks: scaling-playbook, ops-cadence, process-frameworks
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: coo-leadership
+updated: 2026-03-05
+python-tools: ops_efficiency_analyzer.py, okr_tracker.py
+frameworks: scaling-playbook, ops-cadence, process-frameworks
 ---
 
 # COO Advisor

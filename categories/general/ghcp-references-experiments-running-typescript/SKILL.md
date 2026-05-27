@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-running-typescript
+description: "Skill: ghcp-references-experiments-running-typescript"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Running Experiments in TypeScript
 
 Execute experiments with `runExperiment`.

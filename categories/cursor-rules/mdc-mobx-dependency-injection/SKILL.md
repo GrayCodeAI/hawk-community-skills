@@ -1,5 +1,8 @@
 ---
-description: Implement proper dependency injection for stores.
-globs: src/**/*.ts
+name: mdc-mobx-dependency-injection
+description: "Implement proper dependency injection for stores."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Implement proper dependency injection for stores.

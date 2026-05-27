@@ -1,3 +1,10 @@
+---
+name: ghcp-dotnet-pr-visualization
+description: "Skill: ghcp-dotnet-pr-visualization"
+license: MIT
+tags: [general]
+---
+
 # Generating PR Age Charts
 
 Build an interactive CLI tool that visualizes pull request age distribution for a GitHub repository using Copilot's built-in capabilities.

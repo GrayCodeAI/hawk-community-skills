@@ -1,9 +1,10 @@
 ---
-name: bpl-mainmenu
-description: System prompt - mainmenu
-domain: general
+name: bpl-txt-mainmenu
+description: "System prompt - mainmenu"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Nuxt 3 apps with Appwrite
-globs: src/**/*.ts, src/**/*.vue
+name: inst-setup-appwrite-nuxt
+description: "Guidelines for writing Nuxt 3 apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + Nuxt 3 Integration Setup Guide
@@ -381,4 +383,4 @@ export function handleError(error: any, customMessage = 'Operation failed') {
   }
   
   throw new AppwriteError(customMessage, error);
-} 
+}

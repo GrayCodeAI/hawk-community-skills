@@ -1,3 +1,10 @@
+---
+name: rb-comparison_docs_prototypes_human_ai_coll
+description: "Skill: rb-comparison_docs_prototypes_human_ai_coll"
+license: MIT
+tags: [general]
+---
+
 # Comparison of Documentation Prototypes for Human-AI Collaboration by Scope
 
 This table compares the recommended documentation structures for managing software development work involving human-AI collaboration at different levels of granularity: Epic/Large-Scope Project, Single Story, and Task/Proof of Concept (POC). The focus is on enabling efficient interaction and maximizing AI contribution while ensuring human oversight and control.

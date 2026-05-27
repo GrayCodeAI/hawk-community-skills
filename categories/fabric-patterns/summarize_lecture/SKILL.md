@@ -1,9 +1,10 @@
 ---
 name: summarize_lecture
-description: Fabric pattern - summarize_lecture
-domain: general
+description: "Fabric pattern - summarize_lecture"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -74,4 +75,4 @@ ENSURE the output timestamps and topics are shown gradually and evenly increment
 
 # INPUT:
 
-INPUT: 
+INPUT:

@@ -1,9 +1,11 @@
 ---
-name: nosql-expert
+name: ag-nosql-expert
 description: "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # NoSQL Expert Patterns (Cassandra & DynamoDB)

@@ -1,6 +1,8 @@
 ---
-name: breakdown-feature-implementation
-description: 'Prompt for creating detailed feature implementation plans, following Epoch monorepo structure.'
+name: ghcp-breakdown-feature-implementation-skill
+description: "Prompt for creating detailed feature implementation plans, following Epoch monorepo structure."
+license: MIT
+tags: [general]
 ---
 
 # Feature Implementation Plan Prompt

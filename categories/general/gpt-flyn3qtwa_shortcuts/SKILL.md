@@ -1,3 +1,10 @@
+---
+name: gpt-flyn3qtwa_shortcuts
+description: "Skill: gpt-flyn3qtwa_shortcuts"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-flYn3qTWa-shortcuts
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OJ0JkoYAjakr0zZhRZwswSiA?se=2124-01-03T17%3A47%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmicrowiser_A_circular_logo._The_logo_needs_to_mean_shortcuts_or_68a0e03a-414a-48ef-b6bc-7a543bfa26d0.png&sig=d2bBoi8%2B3Ucv6uBnwi7f/6O1qZgq5tgsgeBgnjVhXdA%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-gprwplspc_sticker_whiz
+description: "Skill: ls-gprwplspc_sticker_whiz"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz
 
 GPT Title: Sticker Whiz

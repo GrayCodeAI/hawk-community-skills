@@ -1,3 +1,10 @@
+---
+name: ls-part4
+description: "Skill: ls-part4"
+license: MIT
+tags: [general]
+---
+
 # Part 4: Forbidden Spells
 
 Go download cursor if you haven't already
@@ -84,4 +91,3 @@ new tricks, mind bending possibilities & unspeakable horrors
 
 It appears the pages have been damaged, and a portion of the book is missing
 How we will find the lost pages?
-

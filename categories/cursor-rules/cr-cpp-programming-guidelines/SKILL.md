@@ -1,17 +1,13 @@
 ---
 name: cr-cpp-programming-guidelines
-description: Cursor rules for cpp-programming-guidelines
-domain: engineering
+description: "Cursor rules for cpp-programming-guidelines"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
----
-description: 
-globs: **/*.c,**/*.cpp,**/*.h,**/*.hpp,**/*.cxx,CMakeLists.txt,*.cmake,conanfile.txt,Makefile,**/*.cc
-alwaysApply: false
----
 # C++ Programming Guidelines
 
 ## Basic Principles
@@ -140,4 +136,3 @@ alwaysApply: false
 - Use std::atomic for atomic operations.
 - Avoid data races by proper synchronization.
 - Use thread-safe data structures when necessary.
-

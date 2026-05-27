@@ -1,3 +1,10 @@
+---
+name: ls-ep45tny3j_ms._slide_image_creation
+description: "Skill: ls-ep45tny3j_ms._slide_image_creation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eP45Tny3J-ms-slide-image-creation
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MVZN5Mq2UJYxJSgj0mGtlzYv?se=2124-01-14T14%3A43%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6093f801-78c6-4fc4-9d01-acc951dea027.png&sig=ZHKx0Qc%2BSUItejeoRLUNL2sud%2B9uz4%2BvfU041LwVy/c%3D" width="100px" />

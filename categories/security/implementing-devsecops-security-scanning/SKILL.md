@@ -1,15 +1,12 @@
 ---
 name: implementing-devsecops-security-scanning
-description: >
-  Integrate security scanning into CI/CD pipelines using tools like Semgrep,
-  Trivy, and Gitleaks. Covers SAST, SCA, container scanning, and secret
-  detection with structured JSON output for pipeline gates.
+description: "Integrate security scanning into CI/CD pipelines using tools like Semgrep, Trivy, and Gitleaks. Covers SAST, SCA, container scanning, and secret detection with structured JSON output for pipeline g..."
+license: MIT
+tags: [devsecops, sast, sca, container-security, ci-cd]
 domain: cybersecurity
 subdomain: application-security
-tags: [devsecops, sast, sca, container-security, ci-cd]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing DevSecOps Security Scanning

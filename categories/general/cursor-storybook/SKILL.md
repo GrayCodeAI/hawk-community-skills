@@ -1,16 +1,11 @@
 ---
 name: cursor-storybook
-description: Cursor IDE rules for storybook
-domain: engineering
+description: "Cursor IDE rules for storybook"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Storybook: CSF3 stories, args, decorators, docs"
-globs: ["*.stories.*"]
-alwaysApply: true
 ---
 
 # Storybook Cursor Rules

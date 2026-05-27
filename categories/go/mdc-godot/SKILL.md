@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for Godot 4.x development, focusing on code organization, common patterns, performance, and avoiding pitfalls.
-globs: **/*
+name: mdc-godot
+description: "This guide provides opinionated, actionable best practices for Godot 4.x development, focusing on code organization, common patterns, performance, and avoiding pitfalls."
+license: MIT
+tags: [go]
 ---
+
 # godot Best Practices
 
 This document outlines the definitive best practices for developing with Godot Engine 4.x. Adhere to these guidelines to ensure maintainable, performant, and collaborative projects.

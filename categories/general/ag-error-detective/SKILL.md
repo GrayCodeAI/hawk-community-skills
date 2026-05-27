@@ -1,9 +1,11 @@
 ---
-name: error-detective
-description: Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes.
+name: ag-error-detective
+description: "Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

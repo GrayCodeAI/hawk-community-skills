@@ -1,3 +1,10 @@
+---
+name: ls-aolgrzwll_value-proposition_booster
+description: "Skill: ls-aolgrzwll_value-proposition_booster"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AoLGrzWlL-value-proposition-booster
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-yQ90SUfqZkI2umdGXtFPdn2p?se=2123-11-12T13%3A09%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1%2520%25281%2529.png&sig=gisqnQDQunN2tbtCZuuDbV/J76x5c3/ImAiW0EvQg5Y%3D" width="100px" />

@@ -1,9 +1,11 @@
 ---
-name: hig-components-status
-description: Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings.
+name: ag-hig-components-status
+description: "Apple HIG guidance for status and progress UI components including progress indicators, status bars, and activity rings."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Apple HIG: Status Components

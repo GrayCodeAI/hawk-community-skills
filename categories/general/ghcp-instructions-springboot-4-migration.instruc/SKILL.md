@@ -1,6 +1,8 @@
 ---
-description: "Comprehensive guide for migrating Spring Boot applications from 3.x to 4.0, focusing on Gradle Kotlin DSL and version catalogs"
-applyTo: "**/*.java, **/*.kt, **/build.gradle.kts, **/build.gradle, **/settings.gradle.kts, **/gradle/libs.versions.toml, **/*.properties, **/*.yml, **/*.yaml"
+name: ghcp-instructions-springboot-4-migration.instruc
+description: "Skill: ghcp-instructions-springboot-4-migration.instruc"
+license: MIT
+tags: [general]
 ---
 
 # Spring Boot 3.x to 4.0 Migration Guide

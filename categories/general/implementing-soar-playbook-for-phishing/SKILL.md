@@ -1,12 +1,12 @@
 ---
 name: implementing-soar-playbook-for-phishing
-description: Automate phishing incident response using Splunk SOAR REST API to create containers, add artifacts, and trigger playbooks
+description: "Automate phishing incident response using Splunk SOAR REST API to create containers, add artifacts, and trigger playbooks"
+license: MIT
+tags: [soar, splunk-phantom, phishing, incident-response]
 domain: cybersecurity
 subdomain: security-operations
-tags: [soar, splunk-phantom, phishing, incident-response]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Overview

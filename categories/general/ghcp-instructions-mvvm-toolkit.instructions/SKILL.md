@@ -1,6 +1,8 @@
 ---
-description: 'CommunityToolkit.Mvvm (MVVM Toolkit) coding conventions for ViewModels, commands, messaging, validation, and DI across WPF, WinUI 3, .NET MAUI, Uno Platform, and Avalonia.'
-applyTo: '**/*.cs, **/*.xaml, **/*.csproj'
+name: ghcp-instructions-mvvm-toolkit.instructions
+description: "Skill: ghcp-instructions-mvvm-toolkit.instructions"
+license: MIT
+tags: [general]
 ---
 
 # CommunityToolkit.Mvvm (MVVM Toolkit)

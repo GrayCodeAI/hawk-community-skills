@@ -1,9 +1,10 @@
 ---
 name: cr-plasticode-telegram-api
-description: Cursor rules for plasticode-telegram-api
-domain: engineering
+description: "Cursor rules for plasticode-telegram-api"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -28,4 +29,3 @@ Dependencies
 
 - Plasticode
 - Composer for dependency management
-

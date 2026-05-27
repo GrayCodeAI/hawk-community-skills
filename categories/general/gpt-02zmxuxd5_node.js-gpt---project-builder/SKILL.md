@@ -1,3 +1,11 @@
+---
+name: gpt-02zmxuxd5_node.js-gpt---project-builder
+description: 'Skill: gpt-02zmxuxd5_node.js-gpt---project-builder'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder
 
 GPT Title: Node.js GPT - Project Builder

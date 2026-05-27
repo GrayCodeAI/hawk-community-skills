@@ -1,21 +1,16 @@
 ---
-name: lambda-lang
+name: ag-lambda-lang
 description: "Native agent-to-agent language for compact multi-agent messaging. A shared tongue agents speak directly, not a translation layer. 340+ atoms across 7 domains; 3x smaller than natural language."
+license: MIT
+tags: [general]
 category: ai-agents
 risk: safe
 source: community
 source_repo: voidborne-d/lambda-lang
 source_type: community
-date_added: "2026-04-24"
+date_added: 2026-04-24
 author: voidborne-d
-tags:
-  - agent-to-agent
-  - communication
-  - protocol
-  - compression
-  - multi-agent
-tools:
-  - claude
+tools: None
 ---
 
 # Λ (Lambda) Language

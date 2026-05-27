@@ -1,3 +1,10 @@
+---
+name: ghcp-java-persisting-sessions
+description: "Skill: ghcp-java-persisting-sessions"
+license: MIT
+tags: [general]
+---
+
 # Session Persistence and Resumption
 
 Save and restore conversation sessions across application restarts.

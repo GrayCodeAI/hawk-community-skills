@@ -1,7 +1,9 @@
 ---
-name: performance-engineer
-description: Profiling, benchmarking, memory analysis, load testing, and optimization patterns
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-performance-engineer
+description: "Profiling, benchmarking, memory analysis, load testing, and optimization patterns"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

@@ -1,18 +1,14 @@
 ---
-name: flutter-notifications
-description: Integrate push and local notifications using FCM and flutter_local_notifications. Use when adding push or local notification support to Flutter apps.
-metadata:
-  triggers:
-    files:
-    - '**/*notification*.dart'
-    - '**/main.dart'
-    keywords:
-    - FirebaseMessaging
-    - FlutterLocalNotificationsPlugin
-    - FCM
-    - notification
-    - push
+name: std-flutter-notifications
+description: "Integrate push and local notifications using FCM and flutter_local_notifications. Use when adding push or local notification support to Flutter apps."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Flutter Notifications
 
 ## **Priority: P1 (OPERATIONAL)**

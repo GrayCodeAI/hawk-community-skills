@@ -1,8 +1,10 @@
 ---
-name: triggercmd-automation
+name: composio-triggercmd-automation
 description: "Automate Triggercmd tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Triggercmd Automation via Rube MCP

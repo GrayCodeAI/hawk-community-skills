@@ -1,19 +1,8 @@
 ---
-name: robot-framework-skill
-description: >
-  Generates Robot Framework tests in keyword-driven syntax with Python.
-  Supports SeleniumLibrary, RequestsLibrary, and custom keywords. Use when
-  user mentions "Robot Framework", "*** Test Cases ***", "SeleniumLibrary",
-  ".robot file". Triggers on: "Robot Framework", "*** Test Cases ***",
-  ".robot", "SeleniumLibrary", "keyword-driven test".
-languages:
-  - Python
-  - Robot Framework
-category: e2e-testing
+name: lt-robot-framework-skill
+description: "Skill: lt-robot-framework-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Robot Framework Skill

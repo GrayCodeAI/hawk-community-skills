@@ -1,8 +1,10 @@
 ---
-name: open-sea-automation
+name: composio-open-sea-automation
 description: "Automate Open Sea tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Open Sea Automation via Rube MCP

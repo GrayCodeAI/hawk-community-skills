@@ -1,6 +1,8 @@
 ---
-name: qdrant-search-quality-diagnosis
-description: "Diagnoses Qdrant search quality issues. Use when someone reports 'results are bad', 'wrong results', 'not relevant results', 'missing matches', 'recall is low', 'approximate search worse than exact', 'which embedding model', or 'quality dropped after quantization'. Also use when search quality degrades without obvious changes."
+name: ghcp-diagnosis-skill
+description: "Diagnoses Qdrant search quality issues. Use when someone reports 'results are bad', 'wrong results', 'not relevant results', 'missing matches', 'recall is low', 'approximate search worse than exact..."
+license: MIT
+tags: [general]
 ---
 
 # How to Diagnose Bad Search Quality

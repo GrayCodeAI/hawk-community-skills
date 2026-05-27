@@ -1,3 +1,10 @@
+---
+name: sys-remoteli-io_20230806
+description: "Skill: sys-remoteli-io_20230806"
+license: MIT
+tags: [general]
+---
+
 # remoteli-io_20230806
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/7>

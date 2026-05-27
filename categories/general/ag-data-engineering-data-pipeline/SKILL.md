@@ -1,9 +1,11 @@
 ---
-name: data-engineering-data-pipeline
+name: ag-data-engineering-data-pipeline
 description: "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Data Pipeline Architecture

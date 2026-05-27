@@ -1,9 +1,11 @@
 ---
-name: webapp-testing
+name: ag-webapp-testing
 description: "To test local web applications, write native Python Playwright scripts."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Web Application Testing

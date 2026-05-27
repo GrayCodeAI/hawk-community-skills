@@ -1,9 +1,12 @@
 ---
-name: autopilot-loop
-description: Run an autonomous /loop iteration -- check progress, work on next task, schedule next wake
-argument-hint: ""
+name: flow-autopilot-loop
+description: "Run an autonomous /loop iteration -- check progress, work on next task, schedule next wake"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: mcp__claude-flow__autopilot_status mcp__claude-flow__autopilot_predict mcp__claude-flow__autopilot_log mcp__claude-flow__autopilot_progress mcp__claude-flow__autopilot_disable ScheduleWakeup Agent
 ---
+
 Run one autopilot iteration using Claude Code's native /loop:
 
 1. Check status: `mcp__claude-flow__autopilot_status`

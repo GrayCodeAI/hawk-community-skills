@@ -1,3 +1,10 @@
+---
+name: gpt-prompt
+description: "Skill: gpt-prompt"
+license: MIT
+tags: [general]
+---
+
 # Manus AI Assistant Capabilities
 
 ## Overview

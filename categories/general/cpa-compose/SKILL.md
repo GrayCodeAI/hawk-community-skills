@@ -1,3 +1,10 @@
+---
+name: cpa-compose
+description: "Skill: cpa-compose"
+license: MIT
+tags: [general]
+---
+
 # az containerapp compose
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-restgpt
+description: "Skill: ls-restgpt"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/Yifan-Song793/RestGPT
 
 ## description:
@@ -404,10 +411,3 @@ Output:
 """
 
 ```
-
-
-
-
-
-
-

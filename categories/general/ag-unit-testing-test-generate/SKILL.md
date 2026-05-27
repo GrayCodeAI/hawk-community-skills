@@ -1,9 +1,11 @@
 ---
-name: unit-testing-test-generate
+name: ag-unit-testing-test-generate
 description: "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Automated Unit Test Generation

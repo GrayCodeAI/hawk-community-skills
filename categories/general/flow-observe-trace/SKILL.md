@@ -1,7 +1,9 @@
 ---
-name: observe-trace
-description: Trace agent execution by collecting spans and building a trace tree for a task
-argument-hint: "<task-id>"
+name: flow-observe-trace
+description: "Trace agent execution by collecting spans and building a trace tree for a task"
+license: MIT
+tags: [general]
+argument-hint: <task-id>
 allowed-tools: mcp__claude-flow__memory_search mcp__claude-flow__memory_list mcp__claude-flow__agentdb_semantic-route mcp__claude-flow__agentdb_context-synthesize mcp__claude-flow__agentdb_pattern-search Bash
 ---
 

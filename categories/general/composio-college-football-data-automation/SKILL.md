@@ -1,8 +1,10 @@
 ---
-name: college-football-data-automation
+name: composio-college-football-data-automation
 description: "Automate College Football Data tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # College Football Data Automation via Rube MCP

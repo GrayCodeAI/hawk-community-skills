@@ -1,3 +1,10 @@
+---
+name: cpa-custom-providers
+description: "Skill: cpa-custom-providers"
+license: MIT
+tags: [general]
+---
+
 # az custom-providers
 
 ```bash

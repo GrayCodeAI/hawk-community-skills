@@ -1,3 +1,10 @@
+---
+name: gpt-klwmwo80d_world-class-software-engineer
+description: "Skill: gpt-klwmwo80d_world-class-software-engineer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kLwmWO80d-world-class-software-engineer
 
 GPT Title: World Class Software Engineer

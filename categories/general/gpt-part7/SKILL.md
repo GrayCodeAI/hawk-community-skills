@@ -1,3 +1,10 @@
+---
+name: gpt-part7
+description: "Skill: gpt-part7"
+license: MIT
+tags: [general]
+---
+
 # Part 7: Book of the Dead
 Speedrun traditional coding concepts in a post GPT-4 world
 Made for beginners who learned prompting prior to coding

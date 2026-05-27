@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for developing with tinygrad, focusing on lazy execution, performance, and code structure.
-globs: **/*
+name: mdc-tinygrad
+description: "This guide provides opinionated, actionable best practices for developing with tinygrad, focusing on lazy execution, performance, and code structure."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # tinygrad Best Practices
 
 tinygrad prioritizes minimalism, performance, and a clear computation graph. Adhering to these guidelines ensures your code is efficient, readable, and aligns with the framework's core philosophy.

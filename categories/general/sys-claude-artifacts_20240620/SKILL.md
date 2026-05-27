@@ -1,3 +1,10 @@
+---
+name: sys-claude-artifacts_20240620
+description: "Skill: sys-claude-artifacts_20240620"
+license: MIT
+tags: [general]
+---
+
 # claude-artifacts_20240620
 
 source : <https://x.com/elder_plinius/status/1804052791259717665>

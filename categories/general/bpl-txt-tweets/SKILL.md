@@ -1,9 +1,10 @@
 ---
-name: bpl-tweets
-description: System prompt - tweets
-domain: general
+name: bpl-txt-tweets
+description: "System prompt - tweets"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

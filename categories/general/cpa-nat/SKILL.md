@@ -1,3 +1,10 @@
+---
+name: cpa-nat
+description: "Skill: cpa-nat"
+license: MIT
+tags: [general]
+---
+
 # az network nat
 
 ```bash

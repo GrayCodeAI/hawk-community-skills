@@ -1,9 +1,10 @@
 ---
 name: cr-xray-test-case
-description: Cursor rules for xray-test-case
-domain: engineering
+description: "Cursor rules for xray-test-case"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

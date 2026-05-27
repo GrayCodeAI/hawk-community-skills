@@ -1,19 +1,14 @@
 ---
-name: ios-architecture
-description: Apply MVVM, Coordinators, and Clean Architecture (VIP/VIPER) in iOS apps. Use when applying MVVM, Coordinators, or VIP/VIPER architecture in iOS apps.
-metadata:
-  triggers:
-    files:
-    - '**/*ViewModel.swift'
-    - '**/*Coordinator.swift'
-    - '**/*ViewController.swift'
-    keywords:
-    - MVVM
-    - Coordinator
-    - ViewState
-    - Output
-    - Input
+name: std-ios-architecture
+description: "Apply MVVM, Coordinators, and Clean Architecture (VIP/VIPER) in iOS apps. Use when applying MVVM, Coordinators, or VIP/VIPER architecture in iOS apps."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Architecture Standards
 
 ## **Priority: P0 (CRITICAL)**

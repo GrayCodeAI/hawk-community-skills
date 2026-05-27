@@ -1,7 +1,9 @@
 ---
-description: Instructions for creating well-structured GitHub issues following best practices and project conventions
-globs: ""
-alwaysApply: false
+name: extra-github-issue-creation
+description: "Instructions for creating well-structured GitHub issues following best practices and project conventions"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # GitHub Issue Creation

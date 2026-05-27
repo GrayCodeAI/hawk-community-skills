@@ -1,8 +1,10 @@
 ---
-name: neverbounce-automation
+name: composio-neverbounce-automation
 description: "Automate Neverbounce tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Neverbounce Automation via Rube MCP

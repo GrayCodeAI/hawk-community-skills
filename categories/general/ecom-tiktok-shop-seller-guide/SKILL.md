@@ -1,3 +1,10 @@
+---
+name: ecom-tiktok-shop-seller-guide
+description: "Skill: ecom-tiktok-shop-seller-guide"
+license: MIT
+tags: [general]
+---
+
 # TikTok Shop Seller Guide
 
 Complete guide for selling on TikTok Shop — product listing, content strategy, live selling, affiliate creator partnerships, TikTok Ads, and analytics for social commerce success.

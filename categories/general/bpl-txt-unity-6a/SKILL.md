@@ -1,9 +1,10 @@
 ---
-name: bpl-unity-6a
-description: System prompt - unity-6a
-domain: general
+name: bpl-txt-unity-6a
+description: "System prompt - unity-6a"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

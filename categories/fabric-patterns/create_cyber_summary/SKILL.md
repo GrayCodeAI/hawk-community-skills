@@ -1,9 +1,10 @@
 ---
 name: create_cyber_summary
-description: Fabric pattern - create_cyber_summary
-domain: general
+description: "Fabric pattern - create_cyber_summary"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

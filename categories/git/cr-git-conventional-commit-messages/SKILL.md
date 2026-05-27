@@ -1,9 +1,10 @@
 ---
 name: cr-git-conventional-commit-messages
-description: Cursor rules for git-conventional-commit-messages
-domain: engineering
+description: "Cursor rules for git-conventional-commit-messages"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

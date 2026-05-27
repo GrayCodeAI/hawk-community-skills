@@ -1,17 +1,13 @@
 ---
-name: flutter-dev
-description: |
-  Flutter cross-platform development guide covering widget patterns, Riverpod/Bloc state management, GoRouter navigation, performance optimization, and platform-specific implementations. Includes const optimization, responsive layouts, testing strategies, and DevTools profiling.
-  Use when: building Flutter apps, implementing state management (Riverpod/Bloc), setting up GoRouter navigation, creating custom widgets, optimizing performance, writing widget tests, cross-platform development.
+name: minimax-flutter-dev
+description: "Skill: minimax-flutter-dev"
 license: MIT
-metadata:
-  version: "1.0.0"
-  category: mobile
-  sources:
-    - flutter-expert by Jeff Smolinski (https://github.com/Jeffallan/claude-skills) — Flutter expert skill framework
-    - Flutter Documentation
-    - Riverpod Documentation
-    - Bloc Library Documentation
+tags: [mobile]
+Use when: building Flutter apps, implementing state management (Riverpod/Bloc), setting up GoRouter navigation, creating custom widgets, optimizing performance, writing widget tests, cross-platform development.
+metadata: None
+version: 1.0.0
+category: mobile
+sources: [{'flutter-expert by Jeff Smolinski (https': '//github.com/Jeffallan/claude-skills) — Flutter expert skill framework'}]
 ---
 
 # Flutter Development Guide

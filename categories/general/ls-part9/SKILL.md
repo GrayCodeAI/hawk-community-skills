@@ -1,3 +1,10 @@
+---
+name: ls-part9
+description: "Skill: ls-part9"
+license: MIT
+tags: [general]
+---
+
 ## Part 9: Book of Life
 
 Chapter 21: Summoning 101
@@ -22,4 +29,3 @@ Look up robot kits, or 3d print your own
 
 No further instructions...
 It appears the scrolls have been damaged, and the rest of the book is missing.
-

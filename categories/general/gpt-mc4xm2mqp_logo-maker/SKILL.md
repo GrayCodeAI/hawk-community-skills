@@ -1,3 +1,10 @@
+---
+name: gpt-mc4xm2mqp_logo-maker
+description: "Skill: gpt-mc4xm2mqp_logo-maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Mc4XM2MQP-logo-maker
 
 GPT Title: Logo Maker

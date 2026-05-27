@@ -1,9 +1,10 @@
 ---
-name: bpl-comprehensiveunity6asettings
-description: System prompt - comprehensiveunity6asettings
-domain: general
+name: bpl-txt-comprehensiveunity6asettings
+description: "System prompt - comprehensiveunity6asettings"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

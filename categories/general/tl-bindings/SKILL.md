@@ -1,3 +1,10 @@
+---
+name: tl-bindings
+description: "Skill: tl-bindings"
+license: MIT
+tags: [general]
+---
+
 # Binding Gotchas and Troubleshooting
 
 ## Critical: Global Scope Mutation

@@ -1,3 +1,10 @@
+---
+name: ls-rdefzhjyy_crystal_guru
+description: "Skill: ls-rdefzhjyy_crystal_guru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rDEfzHJYy-crystal-guru
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oatkpTtw8kiazSlOff80q8W7?se=2123-11-19T08%3A39%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DUntitled%2520%2528Website%2529-4.png&sig=hvl%2BdqgSgjwC67Tc8hjgh18kAISXGUKaseG8U4d0V7c%3D" width="100px" />

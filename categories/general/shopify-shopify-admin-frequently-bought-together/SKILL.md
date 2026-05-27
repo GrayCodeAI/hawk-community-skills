@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-frequently-bought-together
-role: conversion-optimization
+name: shopify-shopify-admin-frequently-bought-together
 description: "Read-only: mines order history to find product pairs and triplets frequently purchased together, generating cross-sell and bundle recommendations."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - products:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'products': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

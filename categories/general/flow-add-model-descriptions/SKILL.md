@@ -1,6 +1,8 @@
 ---
-name: add-model-descriptions
-description: Add descriptions for new models from the HuggingFace router to chat-ui configuration. Use when new models are released on the router and need descriptions added to prod.yaml and dev.yaml. Triggers on requests like "add new model descriptions", "update models from router", "sync models", or when explicitly invoking /add-model-descriptions.
+name: flow-add-model-descriptions
+description: "Add descriptions for new models from the HuggingFace router to chat-ui configuration. Use when new models are released on the router and need descriptions added to prod.yaml and dev.yaml. Triggers ..."
+license: MIT
+tags: [general]
 ---
 
 # Add Model Descriptions

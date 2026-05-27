@@ -1,16 +1,11 @@
 ---
 name: cursor-htmx
-description: Cursor IDE rules for htmx
-domain: engineering
+description: "Cursor IDE rules for htmx"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "htmx: hx-attributes, progressive enhancement, server responses"
-globs: ["*.html", "*.jinja", "*.jinja2", "*.njk", "*.hbs"]
-alwaysApply: true
 ---
 
 # htmx Cursor Rules

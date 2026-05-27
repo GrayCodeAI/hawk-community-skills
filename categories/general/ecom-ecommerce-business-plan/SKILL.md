@@ -1,10 +1,12 @@
 ---
-name: ecommerce-business-plan
+name: ecom-ecommerce-business-plan
 description: "Create a comprehensive e-commerce business plan. Market analysis, financial projections, marketing strategy, operations planning, and milestone roadmap for new or growing e-commerce businesses."
-metadata:
-  nexscope:
-    emoji: "📑"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 📑
+category: ecommerce
 ---
 
 # E-Commerce Business Plan 📑

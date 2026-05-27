@@ -1,16 +1,11 @@
 ---
 name: cursor-expo
-description: Cursor IDE rules for expo
-domain: engineering
+description: "Cursor IDE rules for expo"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Expo/React Native: native modules, navigation, platform-specific code"
-globs: ["*.tsx", "*.ts", "*.jsx"]
-alwaysApply: true
 ---
 
 # Expo Cursor Rules

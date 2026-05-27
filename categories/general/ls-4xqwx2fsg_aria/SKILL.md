@@ -1,3 +1,10 @@
+---
+name: ls-4xqwx2fsg_aria
+description: "Skill: ls-4xqwx2fsg_aria"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4XQwX2FSG-aria
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-n7V3i150cyPJICqoQDbejVs7?se=2123-10-17T07%3A00%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dvoid-aria-768-hq.jpg&sig=hzHJCpoLZ0OChJNFTINlL4ajwPi/RlPnnZdLo8xBXgs%3D" width="100px" />

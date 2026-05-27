@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-seo-dev
-description: Cursor rules for nextjs-seo-dev
-domain: engineering
+description: "Cursor rules for nextjs-seo-dev"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -73,4 +74,3 @@ Whenever you see a line with this following comment, do not touch it, rewrite it
     "vercel": "^32.4.1"
   }
 }
-

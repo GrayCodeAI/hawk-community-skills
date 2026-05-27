@@ -1,3 +1,10 @@
+---
+name: cpa-restore-point
+description: "Skill: cpa-restore-point"
+license: MIT
+tags: [general]
+---
+
 # az restore-point
 
 ```bash

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Auth0 in React applications
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-add-feature-auth0-react
+description: "Guidelines for adding new features with Auth0 in React applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior React developer with expertise in implementing Auth0 authentication features.
@@ -231,4 +233,4 @@ export function ApiErrorHandler() {
 9. Monitor performance
 10. Keep dependencies updated
 
-Remember: Security and user experience are top priorities when implementing authentication features. 
+Remember: Security and user experience are top priorities when implementing authentication features.

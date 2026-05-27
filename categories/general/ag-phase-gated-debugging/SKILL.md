@@ -1,9 +1,11 @@
 ---
-name: phase-gated-debugging
+name: ag-phase-gated-debugging
 description: "Use when debugging any bug. Enforces a 5-phase protocol where code edits are blocked until root cause is confirmed. Prevents premature fix attempts."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-03-28"
+date_added: 2026-03-28
 ---
 
 # Phase-Gated Debugging

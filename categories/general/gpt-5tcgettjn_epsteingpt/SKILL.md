@@ -1,3 +1,10 @@
+---
+name: gpt-5tcgettjn_epsteingpt
+description: "Skill: gpt-5tcgettjn_epsteingpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5TcGETtJN-epsteingpt/
 
 GPT Title: EpsteinGPT

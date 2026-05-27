@@ -1,8 +1,10 @@
 ---
-name: timecamp-automation
+name: composio-timecamp-automation
 description: "Automate Timecamp tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Timecamp Automation via Rube MCP

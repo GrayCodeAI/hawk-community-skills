@@ -1,7 +1,10 @@
 ---
-description: Provides additional instructions for HTMX and Flask, primarily related to templating.
-globs: templates/**/*.*
+name: mdc-additional-htmx-and-flask-instructions
+description: "Provides additional instructions for HTMX and Flask, primarily related to templating."
+license: MIT
+tags: [python]
 ---
+
 - Use Jinja2 templating with HTMX attributes
 - Implement proper CSRF protection with Flask-WTF
 - Utilize Flask's request object for handling HTMX requests

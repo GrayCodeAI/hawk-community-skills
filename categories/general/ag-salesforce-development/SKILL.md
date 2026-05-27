@@ -1,9 +1,8 @@
 ---
-name: salesforce-development
-description: Expert patterns for Salesforce platform development including
-  Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs,
-  Connected Apps, and Salesforce DX with scratch orgs and 2nd generation
-  packages (2GP).
+name: ag-salesforce-development
+description: "Expert patterns for Salesforce platform development including"
+license: MIT
+tags: [general]
 risk: safe
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

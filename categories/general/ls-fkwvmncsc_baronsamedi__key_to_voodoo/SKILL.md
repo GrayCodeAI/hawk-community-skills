@@ -1,3 +1,10 @@
+---
+name: ls-fkwvmncsc_baronsamedi__key_to_voodoo
+description: "Skill: ls-fkwvmncsc_baronsamedi__key_to_voodoo"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-fKWVMNCSc-baronsamedi-key-to-voodoo
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1oDAgjAqq3R3LEyXmvg1i0dk?se=2123-10-30T23%3A15%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLwa_Baron_Samedi_Midjouney.png&sig=kDEHzVflwsFUSFIGvf4v9vboALKBdT3WHsOI%2BmBeNmY%3D" width="100px" />

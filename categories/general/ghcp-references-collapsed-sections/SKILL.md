@@ -1,3 +1,10 @@
+---
+name: ghcp-references-collapsed-sections
+description: "Skill: ghcp-references-collapsed-sections"
+license: MIT
+tags: [general]
+---
+
 # Organizing information with collapsed sections
 
 You can streamline your Markdown by creating a collapsed section with the `<details>` tag.

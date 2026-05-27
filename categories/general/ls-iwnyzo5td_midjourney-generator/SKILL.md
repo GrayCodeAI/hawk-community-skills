@@ -1,3 +1,10 @@
+---
+name: ls-iwnyzo5td_midjourney-generator
+description: "Skill: ls-iwnyzo5td_midjourney-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iWNYzo5Td-midjourney-generator
 
 GPT Title: Midjourney Generator

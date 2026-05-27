@@ -1,8 +1,10 @@
 ---
-name: docupilot-automation
+name: composio-docupilot-automation
 description: "Automate Docupilot tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Docupilot Automation via Rube MCP

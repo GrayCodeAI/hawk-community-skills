@@ -1,3 +1,10 @@
+---
+name: gpt-us9owfadz_easily_hackable_gpt
+description: "Skill: gpt-us9owfadz_easily_hackable_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-US9owFaDz-easily-hackable-gpt
 
 GPT logo: <img src="None" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: gpt-pxlrhc1mv_mocktail_mixologist
+description: "Skill: gpt-pxlrhc1mv_mocktail_mixologist"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PXlrhc1MV-mocktail-mixologist
 
 GPT Title: Mocktail Mixologist

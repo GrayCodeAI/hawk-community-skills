@@ -1,3 +1,10 @@
+---
+name: gpt-a6xxkdjfy_farsider
+description: "Skill: gpt-a6xxkdjfy_farsider"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-a6xxKDJFy-farsider
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5HNuiWD2S5EPG5fPx6aV5cqt?se=2123-10-22T05%3A32%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D08de56ec-6196-4cb4-a446-ecf0b33a05fa.png&sig=RN3SmnHbVxUsxqXeG2X6sJGSv/5v6828qJWG04HXeCA%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: cpa-mysql
+description: "Skill: cpa-mysql"
+license: MIT
+tags: [general]
+---
+
 # az mysql
 
 ```bash

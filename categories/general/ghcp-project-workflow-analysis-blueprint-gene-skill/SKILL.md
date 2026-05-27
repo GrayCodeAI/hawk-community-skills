@@ -1,6 +1,8 @@
 ---
-name: project-workflow-analysis-blueprint-generator
-description: 'Comprehensive technology-agnostic prompt generator for documenting end-to-end application workflows. Automatically detects project architecture patterns, technology stacks, and data flow patterns to generate detailed implementation blueprints covering entry points, service layers, data access, error handling, and testing approaches across multiple technologies including .NET, Java/Spring, React, and microservices architectures.'
+name: ghcp-project-workflow-analysis-blueprint-gene-skill
+description: "Comprehensive technology-agnostic prompt generator for documenting end-to-end application workflows. Automatically detects project architecture patterns, technology stacks, and data flow patterns t..."
+license: MIT
+tags: [general]
 ---
 
 # Project Workflow Documentation Generator

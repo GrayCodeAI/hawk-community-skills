@@ -1,9 +1,11 @@
 ---
-name: etsy-keyword-research
+name: ecom-etsy-keyword-research
 description: "Etsy search optimization — long-tail keywords, tag research, competitor analysis, seasonal trends"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Keyword Research

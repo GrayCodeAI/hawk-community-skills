@@ -1,8 +1,10 @@
 ---
-name: gamma-automation
+name: composio-gamma-automation
 description: "Automate Gamma tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Gamma Automation via Rube MCP

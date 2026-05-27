@@ -1,6 +1,8 @@
 ---
-name: sred-work-summary
-description: Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects.
+name: ag-sred-work-summary
+description: "Go back through the previous year of work and create a Notion doc that groups relevant links into projects that can then be documented as SRED projects."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

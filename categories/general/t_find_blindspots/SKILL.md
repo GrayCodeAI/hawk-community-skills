@@ -1,9 +1,10 @@
 ---
 name: t_find_blindspots
-description: Fabric pattern - t_find_blindspots
-domain: general
+description: "Fabric pattern - t_find_blindspots"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-zod-tailwind-nextjs
-description: Cursor rules for typescript-zod-tailwind-nextjs
-domain: engineering
+description: "Cursor rules for typescript-zod-tailwind-nextjs"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -62,4 +63,3 @@ When React Server Components (RSC) are used:
 Follow React Remix docs for Data Fetching, Rendering, and Routing
 
 Follow Next.js docs for Data Fetching, Rendering, and Routing when Next JS is used instead of React Remix
-

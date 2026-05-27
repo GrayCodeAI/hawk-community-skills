@@ -1,7 +1,10 @@
 ---
-description: Apply general guidelines for Next.js 14 code generation.
-globs: **/*.*
+name: mdc-general-guidelines
+description: "Apply general guidelines for Next.js 14 code generation."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Assume the user has already set up the Next.js project with Tailwind CSS.
 - Use environment variables for configuration following Next.js conventions.
 - Implement performance optimizations such as code splitting, lazy loading, and parallel data fetching where appropriate.

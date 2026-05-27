@@ -1,9 +1,8 @@
 ---
-name: "fix"
-description: >-
-  Fix failing or flaky Playwright tests. Use when user says "fix test",
-  "flaky test", "test failing", "debug test", "test broken", "test passes
-  sometimes", or "intermittent failure".
+name: arezv-fix
+description: "Skill: arezv-fix"
+license: MIT
+tags: [general]
 ---
 
 # Fix Failing or Flaky Tests

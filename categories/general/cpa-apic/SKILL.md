@@ -1,3 +1,10 @@
+---
+name: cpa-apic
+description: "Skill: cpa-apic"
+license: MIT
+tags: [general]
+---
+
 # az apic
 
 ```bash

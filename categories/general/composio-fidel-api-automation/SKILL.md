@@ -1,8 +1,10 @@
 ---
-name: fidel-api-automation
+name: composio-fidel-api-automation
 description: "Automate Fidel API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Fidel API Automation via Rube MCP

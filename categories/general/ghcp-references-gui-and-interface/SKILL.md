@@ -1,3 +1,10 @@
+---
+name: ghcp-references-gui-and-interface
+description: "Skill: ghcp-references-gui-and-interface"
+license: MIT
+tags: [general]
+---
+
 # FreeCAD GUI and Interface
 
 Reference guide for building FreeCAD user interfaces: PySide/Qt dialogs, task panels, Gui Commands, Coin3D scenegraph via Pivy.

@@ -1,3 +1,10 @@
+---
+name: cpa-next
+description: "Skill: cpa-next"
+license: MIT
+tags: [general]
+---
+
 # az next
 
 Recommend the possible next set of commands to take.

@@ -1,7 +1,10 @@
 ---
-description: General rules for Next.js 14 development, including using the app directory, server components, and modern TypeScript syntax.
-globs: **/app/**/*.*
+name: mdc-next-js-14-general-rules
+description: "General rules for Next.js 14 development, including using the app directory, server components, and modern TypeScript syntax."
+license: MIT
+tags: [react]
 ---
+
 - Use the App Router: All components should be created within the `app` directory, following Next.js 14 conventions.
 - Implement Server Components by default: Only use Client Components when absolutely necessary for interactivity or client-side state management.
 - Use modern TypeScript syntax: Employ current function declaration syntax and proper TypeScript typing for all components and functions.

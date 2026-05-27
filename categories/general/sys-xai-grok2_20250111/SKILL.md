@@ -1,3 +1,10 @@
+---
+name: sys-xai-grok2_20250111
+description: "Skill: sys-xai-grok2_20250111"
+license: MIT
+tags: [general]
+---
+
 # xAI-grok2_20250111
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/56>

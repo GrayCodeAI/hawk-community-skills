@@ -1,3 +1,10 @@
+---
+name: ls-ddnjr7g5c_biocode-v2
+description: "Skill: ls-ddnjr7g5c_biocode-v2"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DDnJR7g5C-biocode-v2
 
 GPT Title: BioCode V2

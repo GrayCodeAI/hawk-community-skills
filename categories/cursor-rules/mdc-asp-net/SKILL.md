@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building high-performance, maintainable, and secure ASP.NET Core 9+ applications, focusing on modern C# patterns and common pitfalls.
-globs: **/*
+name: mdc-asp-net
+description: "This guide provides opinionated, actionable best practices for building high-performance, maintainable, and secure ASP.NET Core 9+ applications, focusing on modern C# patterns and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # asp-net Best Practices
 
 This document outlines the definitive best practices for developing ASP.NET Core applications within our team. Adhere to these guidelines to ensure consistent, performant, and maintainable backend services.

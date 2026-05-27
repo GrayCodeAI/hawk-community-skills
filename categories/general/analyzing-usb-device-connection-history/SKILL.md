@@ -1,12 +1,12 @@
 ---
 name: analyzing-usb-device-connection-history
-description: Investigate USB device connection history from Windows registry, event logs, and setupapi logs to track removable media usage and potential data exfiltration.
+description: "Investigate USB device connection history from Windows registry, event logs, and setupapi logs to track removable media usage and potential data exfiltration."
+license: MIT
+tags: [forensics, usb-forensics, removable-media, registry-analysis, data-exfiltration, device-history]
 domain: cybersecurity
 subdomain: digital-forensics
-tags: [forensics, usb-forensics, removable-media, registry-analysis, data-exfiltration, device-history]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing USB Device Connection History

@@ -1,8 +1,10 @@
 ---
-name: short-io-automation
+name: composio-short-io-automation
 description: "Automate Short IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Short IO Automation via Rube MCP

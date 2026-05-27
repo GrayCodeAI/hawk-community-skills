@@ -1,9 +1,11 @@
 ---
-name: comprehensive-review-full-review
+name: ag-comprehensive-review-full-review
 description: "Use when working with comprehensive review full review"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

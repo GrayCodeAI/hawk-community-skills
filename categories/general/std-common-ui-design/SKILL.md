@@ -1,21 +1,13 @@
 ---
-name: common-ui-design
-description: Design distinctive, production-grade frontend UI with bold aesthetic choices. Use when building web components, pages, interfaces, dashboards, or applications in any framework (React, Next.js, Angular, Vue, HTML/CSS).
-metadata:
-  triggers:
-    keywords:
-    - build a page
-    - create a component
-    - design a dashboard
-    - landing page
-    - UI for
-    - build a layout
-    - make it look good
-    - improve the design
-    - build UI
-    - create interface
-    - design screen
+name: std-common-ui-design
+description: "Design distinctive, production-grade frontend UI with bold aesthetic choices. Use when building web components, pages, interfaces, dashboards, or applications in any framework (React, Next.js, Angu..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # UI Design Direction
 
 ## **Priority: P0 (FOUNDATIONAL)**

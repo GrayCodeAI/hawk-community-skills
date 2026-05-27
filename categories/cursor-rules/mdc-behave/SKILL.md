@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing maintainable, readable, and effective BDD tests with behave in Python, emphasizing thin steps, clear Gherkin, and robust fixture management.
-globs: **/*.py
+name: mdc-behave
+description: "Definitive guidelines for writing maintainable, readable, and effective BDD tests with behave in Python, emphasizing thin steps, clear Gherkin, and robust fixture management."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # behave Best Practices
 
 This guide outlines the definitive best practices for writing `behave` tests. Adhere to these standards for consistent, high-quality BDD automation.

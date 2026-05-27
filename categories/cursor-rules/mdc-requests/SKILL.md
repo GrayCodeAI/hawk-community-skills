@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for using the `requests` library in Python, focusing on performance, reliability, and maintainability for API clients and web interactions.
-globs: **/*.py
+name: mdc-requests
+description: "This guide outlines definitive best practices for using the `requests` library in Python, focusing on performance, reliability, and maintainability for API clients and web interactions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # `requests` Best Practices
 
 `requests` is the definitive HTTP client for Python. To build robust, performant, and maintainable web interactions, you must leverage its advanced features and integrate them with modern Python best practices. This guide provides actionable rules for our team.

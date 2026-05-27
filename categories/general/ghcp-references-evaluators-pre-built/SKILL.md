@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-pre-built
+description: "Skill: ghcp-references-evaluators-pre-built"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: Pre-Built
 
 Use for exploration only. Validate before production.

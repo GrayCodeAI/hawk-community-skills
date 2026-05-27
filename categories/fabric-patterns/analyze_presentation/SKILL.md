@@ -1,9 +1,10 @@
 ---
 name: analyze_presentation
-description: Fabric pattern - analyze_presentation
-domain: general
+description: "Fabric pattern - analyze_presentation"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

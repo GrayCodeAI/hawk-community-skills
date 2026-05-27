@@ -1,3 +1,10 @@
+---
+name: sys-cursor-ide-agent-claude-sonnet-3.7_20250
+description: "Skill: sys-cursor-ide-agent-claude-sonnet-3.7_20250"
+license: MIT
+tags: [general]
+---
+
 # cursor-ide-agent-claude-sonnet-3.7_20250309
 
 source: <https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools/blob/main/cursor%20agent.txt>

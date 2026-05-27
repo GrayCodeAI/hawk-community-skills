@@ -1,6 +1,8 @@
 ---
-name: ai-team-orchestration
-description: 'Bootstrap and run a multi-agent AI development team. Use when: starting a new software project with AI agents, setting up parallel dev/QA teams, creating sprint plans, writing brainstorm prompts with distinct agent voices, recovering a project workflow, or planning sprints.'
+name: ghcp-ai-team-orchestration-skill
+description: "Bootstrap and run a multi-agent AI development team. Use when: starting a new software project with AI agents, setting up parallel dev/QA teams, creating sprint plans, writing brainstorm prompts wi..."
+license: MIT
+tags: [general]
 ---
 
 # AI Team Orchestration

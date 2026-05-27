@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-page-content-audit
-role: store-management
+name: shopify-shopify-admin-page-content-audit
 description: "Read-only: lists all pages and blog posts, flags empty or short content and missing SEO fields."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - pages:query
-  - articles:query
+api_version: 2025-01
+graphql_operations: [{'pages': 'query'}, {'articles': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

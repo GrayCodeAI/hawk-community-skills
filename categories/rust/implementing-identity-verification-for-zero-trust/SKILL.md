@@ -1,28 +1,13 @@
 ---
 name: implementing-identity-verification-for-zero-trust
 description: Implementing Identity Verification For Zero Trust
+license: MIT
+tags:
+- cybersecurity
 domain: cybersecurity
 subdomain: security-operations
-tags: [cybersecurity]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
----
-
-# Implementing Identity Verification for Zero Trust
-
----
-domain: cybersecurity
-subdomain: zero-trust-architecture
-author: mahipal
-tags: [zero-trust, identity, authentication, mfa, identity-verification]
-difficulty: advanced
-estimated_time: 4-6 hours
-prerequisites:
-  - Understanding of zero trust principles (NIST SP 800-207)
-  - Familiarity with identity providers (Azure AD, Okta, Ping Identity)
-  - Knowledge of authentication protocols (SAML 2.0, OIDC, FIDO2)
-  - Understanding of MFA and passwordless authentication
 ---
 
 ## Overview

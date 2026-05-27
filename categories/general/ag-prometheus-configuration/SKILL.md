@@ -1,9 +1,11 @@
 ---
-name: prometheus-configuration
+name: ag-prometheus-configuration
 description: "Complete guide to Prometheus setup, metric collection, scrape configuration, and recording rules."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Prometheus Configuration

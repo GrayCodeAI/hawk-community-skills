@@ -1,9 +1,10 @@
 ---
 name: t_red_team_thinking
-description: Fabric pattern - t_red_team_thinking
-domain: general
+description: "Fabric pattern - t_red_team_thinking"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

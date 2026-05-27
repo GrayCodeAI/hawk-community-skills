@@ -1,8 +1,10 @@
 ---
-name: docupost-automation
+name: composio-docupost-automation
 description: "Automate Docupost tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Docupost Automation via Rube MCP

@@ -1,9 +1,10 @@
 ---
 name: cr-python-312-fastapi-best-practices
-description: Cursor rules for python-312-fastapi-best-practices
-domain: engineering
+description: "Cursor rules for python-312-fastapi-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -35,4 +36,3 @@ Here are some best practices and rules you must follow:
 10. **Avoid Global Variables**: Limit the use of global variables to reduce side effects.
 
 These rules will help you write clean, efficient, and maintainable Python code.
-

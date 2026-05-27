@@ -1,9 +1,11 @@
 ---
-name: shopify-app-recommendations
+name: ecom-shopify-app-recommendations
 description: "App stack advisor — essential apps by business stage, cost optimization, performance impact analysis"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify App Recommendations

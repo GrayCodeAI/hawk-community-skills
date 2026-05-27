@@ -1,3 +1,10 @@
+---
+name: cpa-alb
+description: "Skill: cpa-alb"
+license: MIT
+tags: [general]
+---
+
 # az network alb
 
 ```bash

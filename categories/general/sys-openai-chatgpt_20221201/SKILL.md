@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt_20221201
+description: "Skill: sys-openai-chatgpt_20221201"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt_20221201
 
 source: <https://twitter.com/goodside/status/1598253337400717313>

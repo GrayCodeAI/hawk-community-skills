@@ -1,8 +1,10 @@
 ---
-name: pdf-api-io-automation
+name: composio-pdf-api-io-automation
 description: "Automate PDF API IO tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # PDF API IO Automation via Rube MCP

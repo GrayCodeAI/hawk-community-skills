@@ -1,16 +1,14 @@
 ---
-name: quality-engineering-zephyr-test-generation
-description: 'Generate Zephyr test cases from Jira stories: parse AC, identify platform and market, impact-analyze existing TCs (update vs create new), draft test cases with correct naming/metadata/preconditions, and link back via Create Test Case Issue Link. Use when converting a Jira story into Zephyr TCs, or when requirement changes require updating existing TCs rather than creating duplicates.'
-metadata:
-  triggers:
-    files:
-    - '**/user_story.md'
-    keywords:
-    - generate test cases
-    - zephyr
-    - impact analysis
-    - create test case
+name: std-quality-engineering-zephyr-test-generation
+description: "Generate Zephyr test cases from Jira stories: parse AC, identify platform and market, impact-analyze existing TCs (update vs create new), draft test cases with correct naming/metadata/preconditions..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Zephyr Test Generation Standards
 
 ## **Priority: P1 (HIGH)**

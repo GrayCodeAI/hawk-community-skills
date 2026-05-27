@@ -1,9 +1,11 @@
 ---
-name: hig-patterns
-description: Apple Human Interface Guidelines interaction and UX patterns.
+name: ag-hig-patterns
+description: "Apple Human Interface Guidelines interaction and UX patterns."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 # Apple HIG: Interaction Patterns

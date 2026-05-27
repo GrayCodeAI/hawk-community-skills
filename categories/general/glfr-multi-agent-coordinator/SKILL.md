@@ -1,7 +1,9 @@
 ---
-name: multi-agent-coordinator
-description: Coordinate parallel agent execution, manage dependencies, and merge outputs from multiple agents
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-multi-agent-coordinator
+description: "Coordinate parallel agent execution, manage dependencies, and merge outputs from multiple agents"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

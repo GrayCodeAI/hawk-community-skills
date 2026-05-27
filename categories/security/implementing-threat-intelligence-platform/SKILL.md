@@ -1,16 +1,12 @@
 ---
 name: implementing-threat-intelligence-platform
-description: >-
-  Build a MISP-backed threat intelligence platform that ingests IOCs from multiple feeds,
-  correlates events with galaxy clusters, and enriches indicators via VirusTotal and AbuseIPDB.
-  Uses PyMISP to create events, add attributes with IDS flags, tag with MITRE ATT&CK techniques,
-  and export STIX 2.1 bundles for downstream SIEM consumption.
+description: "Build a MISP-backed threat intelligence platform that ingests IOCs from multiple feeds, correlates events with galaxy clusters, and enriches indicators via VirusTotal and AbuseIPDB. Uses PyMISP to ..."
+license: MIT
+tags: [implementing, threat, intelligence, platform]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [implementing, threat, intelligence, platform]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 ## Instructions

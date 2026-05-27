@@ -1,3 +1,10 @@
+---
+name: tl-SECURITY
+description: "Skill: tl-SECURITY"
+license: MIT
+tags: [security]
+---
+
 # 🛡️ Security Policy
 
 ## Philosophy

@@ -1,3 +1,10 @@
+---
+name: cpa-p2s-vpn-gateway
+description: "Skill: cpa-p2s-vpn-gateway"
+license: MIT
+tags: [general]
+---
+
 # az network p2s-vpn-gateway
 
 ```bash

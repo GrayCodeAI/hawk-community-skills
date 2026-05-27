@@ -1,3 +1,10 @@
+---
+name: ls-84tjozo5q_santa
+description: "Skill: ls-84tjozo5q_santa"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-84tjozO5q-santa
 
 GPT Title: Santa

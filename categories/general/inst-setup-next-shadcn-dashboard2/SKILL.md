@@ -1,6 +1,8 @@
 ---
-description: Automate ShadCN installation and create a simple dashboard with a sidebar and widgets.
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-next-shadcn-dashboard2
+description: "Automate ShadCN installation and create a simple dashboard with a sidebar and widgets."
+license: MIT
+tags: [general]
 ---
 
 # Automated ShadCN Installation & Dashboard with Widgets
@@ -160,4 +162,3 @@ When asked how to install ShadCN UI and create a dashboard with widgets, you MUS
 4. VERIFY your response against the patterns in this guide.
 
 Remember: There are NO EXCEPTIONS to these rules.
-

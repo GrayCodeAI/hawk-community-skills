@@ -1,16 +1,11 @@
 ---
 name: cursor-laravel
-description: Cursor IDE rules for laravel
-domain: engineering
+description: "Cursor IDE rules for laravel"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Laravel: Eloquent, Form Requests, policies"
-globs: ["*.php"]
-alwaysApply: true
 ---
 
 # Laravel Cursor Rules

@@ -1,3 +1,9 @@
+---
+name: lira-project
+description: "Skill: lira-project"
+license: MIT
+tags: [general]
+---
 
 # Project Overview
 

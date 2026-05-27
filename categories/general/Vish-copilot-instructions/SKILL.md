@@ -1,3 +1,10 @@
+---
+name: Vish-copilot-instructions
+description: "Skill: Vish-copilot-instructions"
+license: MIT
+tags: [general]
+---
+
 # Python 3.12 + FastAPI Best Practices Copilot Instructions
 
 ## Stack & Tools

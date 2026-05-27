@@ -1,3 +1,10 @@
+---
+name: gpt-so1p9ffkp_blog-post-generator
+description: "Skill: gpt-so1p9ffkp_blog-post-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SO1P9FFKP-blog-post-generator
 
 GPT Title: Blog Post Generator

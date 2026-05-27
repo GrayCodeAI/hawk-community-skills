@@ -1,3 +1,10 @@
+---
+name: gpt-iczbvoaf4_framergpt
+description: "Skill: gpt-iczbvoaf4_framergpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IcZbvOaf4-framergpt
 
 GPT Title: FramerGPT

@@ -1,12 +1,13 @@
 ---
-name: phoenix-tracing
-description: OpenInference semantic conventions and instrumentation for Phoenix AI observability. Use when implementing LLM tracing, creating custom spans, or deploying to production.
+name: ghcp-phoenix-tracing-skill
+description: "OpenInference semantic conventions and instrumentation for Phoenix AI observability. Use when implementing LLM tracing, creating custom spans, or deploying to production."
 license: Apache-2.0
+tags: [general]
 compatibility: Requires Phoenix server. Python skills need arize-phoenix-otel; TypeScript skills need @arizeai/phoenix-otel.
-metadata:
-  author: oss@arize.com
-  version: "1.0.0"
-  languages: "Python, TypeScript"
+metadata: None
+author: oss@arize.com
+version: 1.0.0
+languages: Python, TypeScript
 ---
 
 # Phoenix Tracing

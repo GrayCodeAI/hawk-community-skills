@@ -1,19 +1,12 @@
 ---
-name: react-native-platform-specific
-description: Resolve iOS and Android differences using Platform API and native modules in React Native. Use when handling platform-specific behavior or integrating native modules in React Native.
-metadata:
-  triggers:
-    files:
-      - '**/*.tsx'
-      - '**/*.ts'
-      - '**/*.ios.*'
-      - '**/*.android.*'
-    keywords:
-      - Platform
-      - Platform.select
-      - native-module
-      - ios
-      - android
+name: std-react-native-platform-specific
+description: "Resolve iOS and Android differences using Platform API and native modules in React Native. Use when handling platform-specific behavior or integrating native modules in React Native."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
 
 # React Native Platform-Specific Code

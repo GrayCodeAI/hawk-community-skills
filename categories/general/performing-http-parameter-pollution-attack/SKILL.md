@@ -1,12 +1,12 @@
 ---
 name: performing-http-parameter-pollution-attack
-description: Execute HTTP Parameter Pollution attacks to bypass input validation, WAF rules, and security controls by injecting duplicate parameters that are processed differently by front-end and back-end systems.
+description: "Execute HTTP Parameter Pollution attacks to bypass input validation, WAF rules, and security controls by injecting duplicate parameters that are processed differently by front-end and back-end syst..."
+license: MIT
+tags: [http-parameter-pollution, hpp, waf-bypass, input-validation, web-security, parameter-injection, server-parsing]
 domain: cybersecurity
 subdomain: web-application-security
-tags: [http-parameter-pollution, hpp, waf-bypass, input-validation, web-security, parameter-injection, server-parsing]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing HTTP Parameter Pollution Attack

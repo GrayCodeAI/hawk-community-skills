@@ -1,6 +1,8 @@
 ---
-name: sandbox-npm-install
-description: 'Install npm packages in a Docker sandbox environment. Use this skill whenever you need to install, reinstall, or update node_modules inside a container where the workspace is mounted via virtiofs. Native binaries (esbuild, lightningcss, rollup) crash on virtiofs, so packages must be installed on the local ext4 filesystem and symlinked back.'
+name: ghcp-sandbox-npm-install-skill
+description: "Install npm packages in a Docker sandbox environment. Use this skill whenever you need to install, reinstall, or update node_modules inside a container where the workspace is mounted via virtiofs. ..."
+license: MIT
+tags: [general]
 ---
 
 # Sandbox npm Install

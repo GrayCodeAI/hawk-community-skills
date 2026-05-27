@@ -1,7 +1,11 @@
 ---
-description: Defines the required version numbers for Node.js, SvelteKit, TypeScript, Vite, and PNPM within the project. This rule ensures consistency across the project dependencies.
-globs: **/package.json
+name: mdc-project-standards---version-numbers
+description: 'Skill: mdc-project-standards---version-numbers'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Node.js: 18.x or later
 - SvelteKit: 2.x (Svelte 4.x)
 - TypeScript: 5.x

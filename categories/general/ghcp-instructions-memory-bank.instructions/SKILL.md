@@ -1,6 +1,10 @@
 ---
-applyTo: '**'
+name: ghcp-instructions-memory-bank.instructions
+description: "Skill: ghcp-instructions-memory-bank.instructions"
+license: MIT
+tags: [general]
 ---
+
 Coding standards, domain knowledge, and preferences that AI should follow.
 
 # Memory Bank

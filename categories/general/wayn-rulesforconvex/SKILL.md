@@ -1,12 +1,9 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
-description: Convex guidelines
-globs: 
-alwaysApply: true
+name: wayn-rulesforconvex
+description: "Skill: wayn-rulesforconvex"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 ## Function guidelines
@@ -39,4 +36,4 @@ getting-started
 - do not do more than what the user ask for unless it related to fixing, adding, or updating the code to what the user is asking for
   
 
-waynesutton@WS-Convex merge2 % 
+waynesutton@WS-Convex merge2 %

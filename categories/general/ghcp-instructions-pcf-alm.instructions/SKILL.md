@@ -1,6 +1,8 @@
 ---
-description: 'Application lifecycle management (ALM) for PCF code components'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj,sln}'
+name: ghcp-instructions-pcf-alm.instructions
+description: "Skill: ghcp-instructions-pcf-alm.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Code Components Application Lifecycle Management (ALM)

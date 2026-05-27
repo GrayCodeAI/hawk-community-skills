@@ -1,8 +1,10 @@
 ---
-name: ragic-automation
+name: composio-ragic-automation
 description: "Automate Ragic tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ragic Automation via Rube MCP

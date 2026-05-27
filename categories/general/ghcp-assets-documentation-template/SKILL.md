@@ -1,11 +1,8 @@
 ---
-title: [Component Name] - Technical Documentation
-component_path: [Source component path]
-version: [Optional version]
-date_created: [YYYY-MM-DD]
-last_updated: [Optional YYYY-MM-DD]
-owner: [Optional team or individual]
-tags: [Optional list of relevant tags]
+name: ghcp-assets-documentation-template
+description: "Skill: ghcp-assets-documentation-template"
+license: MIT
+tags: [general]
 ---
 
 # [Component Name] Documentation

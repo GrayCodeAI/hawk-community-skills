@@ -1,7 +1,9 @@
 ---
-name: intelligence-route
-description: Route tasks via the 3-tier model selector and learned patterns; emits a routing rationale via hooks_explain
-argument-hint: "<task-description> [--why]"
+name: flow-intelligence-route
+description: "Route tasks via the 3-tier model selector and learned patterns; emits a routing rationale via hooks_explain"
+license: MIT
+tags: [general]
+argument-hint: <task-description> [--why]
 allowed-tools: mcp__claude-flow__hooks_route mcp__claude-flow__hooks_explain mcp__claude-flow__hooks_model-route mcp__claude-flow__hooks_model-stats mcp__claude-flow__hooks_model-outcome mcp__claude-flow__hooks_intelligence_pattern-search mcp__claude-flow__hooks_intelligence_attention mcp__claude-flow__hooks_intelligence_stats mcp__claude-flow__neural_predict mcp__claude-flow__hooks_pre-task Bash
 ---
 

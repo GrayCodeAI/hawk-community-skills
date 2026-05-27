@@ -1,18 +1,14 @@
 ---
-name: react-state-management
-description: Select and implement local, global, and server state patterns in React. Use when choosing or implementing state management (Context, Zustand, Redux, React Query) in React.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.jsx'
-    keywords:
-    - state
-    - useReducer
-    - context
-    - store
-    - props
+name: std-react-state-management
+description: "Select and implement local, global, and server state patterns in React. Use when choosing or implementing state management (Context, Zustand, Redux, React Query) in React."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React State Management
 
 ## **Priority: P0 (CRITICAL)**

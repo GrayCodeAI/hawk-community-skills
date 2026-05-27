@@ -1,8 +1,10 @@
 ---
-name: browseai-automation
+name: composio-browseai-automation
 description: "Automate Browseai tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Browseai Automation via Rube MCP

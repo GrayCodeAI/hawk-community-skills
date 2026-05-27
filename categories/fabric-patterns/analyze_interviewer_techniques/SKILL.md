@@ -1,9 +1,10 @@
 ---
 name: analyze_interviewer_techniques
-description: Fabric pattern - analyze_interviewer_techniques
-domain: general
+description: "Fabric pattern - analyze_interviewer_techniques"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

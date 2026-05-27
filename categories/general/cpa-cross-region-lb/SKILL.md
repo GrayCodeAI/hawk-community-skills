@@ -1,3 +1,10 @@
+---
+name: cpa-cross-region-lb
+description: "Skill: cpa-cross-region-lb"
+license: MIT
+tags: [general]
+---
+
 # az network cross-region-lb
 
 ```bash

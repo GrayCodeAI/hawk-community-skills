@@ -1,3 +1,10 @@
+---
+name: glfr-documentation
+description: "Skill: glfr-documentation"
+license: MIT
+tags: [general]
+---
+
 # Documentation Rules
 
 ## What to Document

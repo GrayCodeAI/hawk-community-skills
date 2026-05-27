@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for secure, reproducible, and efficient use of the AWS CLI, emphasizing modern DevOps practices and automation.
-globs: **/*
+name: mdc-aws-cli
+description: "Definitive guidelines for secure, reproducible, and efficient use of the AWS CLI, emphasizing modern DevOps practices and automation."
+license: MIT
+tags: [aws]
 ---
+
 # aws-cli Best Practices
 
 The AWS CLI is your primary interface for programmatic interaction with AWS. Adhering to these best practices ensures your CLI usage is secure, reproducible, and efficient, aligning with modern DevOps principles.

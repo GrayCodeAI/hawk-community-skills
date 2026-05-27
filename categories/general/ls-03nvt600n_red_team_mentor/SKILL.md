@@ -1,3 +1,10 @@
+---
+name: ls-03nvt600n_red_team_mentor
+description: "Skill: ls-03nvt600n_red_team_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-03nVt600N-red-team-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Zp0bw59wNkuSf5yE9VP27enn?se=2123-12-16T14%3A45%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da2d564a9-24fa-407f-b5de-d29ae1cc8cbf.png&sig=MT%2BVXYAuHnD9j1pU9lVNO/hxM3VR6p1xL5Ecun%2B/YYM%3D" width="100px" />

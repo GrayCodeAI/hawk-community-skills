@@ -1,10 +1,10 @@
 ---
-name: implementing-llms-litgpt
-description: Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral). Use when need clean model implementations, educational understanding of architectures, or production fine-tuning with LoRA/QLoRA. Single-file implementations, no abstraction layers.
+name: research-litgpt
+description: "Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral). Use when need clean model implementations, educational understanding of ..."
+license: MIT
+tags: [model-architecture, litgpt, lightning-ai, llm-implementation, lora, qlora, fine-tuning, llama, gemma, phi, mistral, educational]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Model Architecture, LitGPT, Lightning AI, LLM Implementation, LoRA, QLoRA, Fine-Tuning, Llama, Gemma, Phi, Mistral, Educational]
 dependencies: [litgpt, torch, transformers]
 ---
 
@@ -465,5 +465,3 @@ Apply LoRA to fewer layers:
 - Docs: https://lightning.ai/docs/litgpt
 - Tutorials: https://lightning.ai/docs/litgpt/tutorials
 - Model zoo: 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral, Mixtral, Falcon, etc.)
-
-

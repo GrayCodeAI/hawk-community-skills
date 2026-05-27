@@ -1,12 +1,12 @@
 ---
 name: detecting-aws-iam-privilege-escalation
-description: Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining policy analysis to identify overly permissive policies, dangerous permission combinations, and least-privilege violations
+description: "Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaining policy analysis to identify overly permissive policies, dangerous permission combinations, and least-privilege violations"
+license: MIT
+tags: [aws, iam, privilege-escalation, cloudsplaining, boto3, policy-analysis, least-privilege]
 domain: cybersecurity
 subdomain: cloud-security
-tags: [aws, iam, privilege-escalation, cloudsplaining, boto3, policy-analysis, least-privilege]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting AWS IAM Privilege Escalation

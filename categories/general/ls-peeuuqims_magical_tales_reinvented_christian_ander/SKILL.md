@@ -1,3 +1,10 @@
+---
+name: ls-peeuuqims_magical_tales_reinvented_christian_ander
+description: "Skill: ls-peeuuqims_magical_tales_reinvented_christian_ander"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PEeUuqiMs-magical-tales-reinvented-christian-andersen
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ZdjeYdP5jfXH33IVFwSUhhPH?se=2123-12-12T15%3A53%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFamous%2520Fairy%2520Tales%2520Retold%2520%2528Christian%2520Andersen%2529.png&sig=ZBgrsa5mgwHxPYqNn67HeMBwJ7f76Y8o7aXazgn06xs%3D" width="100px" />

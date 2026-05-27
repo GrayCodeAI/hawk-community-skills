@@ -1,3 +1,10 @@
+---
+name: ls-ohqn0vemg_break_this_gpt
+description: "Skill: ls-ohqn0vemg_break_this_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OHqN0VeMg-break-this-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-LPxUm1AvLeF3eU7AyTexlWie?se=2123-12-17T13%3A45%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc9522df7-07b6-467a-b0a2-ff9f81cd5b16.png&sig=C7Fj9Vidpnl5XSx5LqcniKEnDyp/a24VtLbkiBG2tAc%3D" width="100px" />

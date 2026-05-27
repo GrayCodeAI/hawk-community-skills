@@ -1,3 +1,10 @@
+---
+name: rb-product_requirement_docs_template
+description: "Skill: rb-product_requirement_docs_template"
+license: MIT
+tags: [general]
+---
+
 # Product Requirement Document (PRD) Template
 
 ## 1. Introduction

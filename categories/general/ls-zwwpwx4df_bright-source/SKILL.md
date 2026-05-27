@@ -1,3 +1,10 @@
+---
+name: ls-zwwpwx4df_bright-source
+description: "Skill: ls-zwwpwx4df_bright-source"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZWWpWx4Df-bright-source
 
 GPT Title: Bright Source

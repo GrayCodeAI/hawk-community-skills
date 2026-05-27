@@ -1,13 +1,14 @@
 ---
 name: implementing-zero-knowledge-proof-for-authentication
-description: Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret (such as a password or private key) without revealing the secret itself. This skill implements the Schnorr identificati
+description: "Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret (such as a password or private key) without revealing the secret itself. This skill implements the Schnorr identificati"
+license: MIT
+tags: [cryptography, zero-knowledge-proof, authentication, privacy, zkp]
 domain: cybersecurity
 subdomain: cryptography
-tags: [cryptography, zero-knowledge-proof, authentication, privacy, zkp]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing Zero-Knowledge Proof for Authentication
 
 ## Overview

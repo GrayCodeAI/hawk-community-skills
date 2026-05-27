@@ -1,3 +1,10 @@
+---
+name: ls-gxihw6bqi_green_guru
+description: "Skill: ls-gxihw6bqi_green_guru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gXIhw6bqI-green-guru
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BDkHB18kUaMuyBuKkF6qrYeD?se=2123-12-07T11%3A40%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D502d6540-8286-4c2a-b838-5c6e20b54f78.png&sig=z56KTHbHAqYmPCoprmok79ImzkWPPlkJUPiUrI9EvM0%3D" width="100px" />

@@ -1,10 +1,12 @@
 ---
-name: os-scripting
+name: ag-os-scripting
 description: "Operating system and shell scripting troubleshooting workflow for Linux, macOS, and Windows. Covers bash scripting, system administration, debugging, and automation."
+license: MIT
+tags: [general]
 category: workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # OS/Shell Scripting Troubleshooting Workflow Bundle

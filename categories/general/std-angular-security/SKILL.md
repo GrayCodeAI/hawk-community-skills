@@ -1,16 +1,13 @@
 ---
-name: angular-security
-description: Harden Angular apps against XSS, CSP violations, and unauthorized access. Use when implementing XSS protection, Content Security Policy, or auth guards in Angular.
-metadata:
-  triggers:
-    keywords:
-    - DomSanitizer
-    - innerHTML
-    - bypassSecurityTrust
-    - CSP
-    - angular security
-    - route guard
+name: std-angular-security
+description: "Harden Angular apps against XSS, CSP violations, and unauthorized access. Use when implementing XSS protection, Content Security Policy, or auth guards in Angular."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Security
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,3 +1,10 @@
+---
+name: rb-platform_rules_tests_report
+description: "Skill: rb-platform_rules_tests_report"
+license: MIT
+tags: [general]
+---
+
 # Platform Rules Test Review
 
 ## Summary
@@ -30,4 +37,3 @@ This report evaluates existing integration tests related to Target Platform Rule
 ## TDD & Task Plan Updates
 - Add TDD items for platform rule generation and cleanup.
 - Track an integration-test task for platform rules in the task plan (P1).
-

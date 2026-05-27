@@ -1,7 +1,9 @@
 ---
-description: 项目通用规则
-globs:
-alwaysApply: true
+name: extra-core
+description: "项目通用规则"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # 项目通用规则

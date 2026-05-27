@@ -1,9 +1,9 @@
 ---
-name: cs-product-analyst
-description: Product analytics agent for KPI definition, dashboard setup, experiment design, and test result interpretation.
-skills:
-  - product-team/product-analytics
-  - product-team/experiment-designer
+name: arezv-cs-product-analyst
+description: "Product analytics agent for KPI definition, dashboard setup, experiment design, and test result interpretation."
+license: MIT
+tags: [general]
+skills: None
 domain: product
 model: sonnet
 tools: [Read, Write, Bash, Grep, Glob]

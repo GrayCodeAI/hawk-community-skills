@@ -1,3 +1,10 @@
+---
+name: ls-v9nva1xy9_robert-scoble-tech
+description: "Skill: ls-v9nva1xy9_robert-scoble-tech"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-V9nVA1xy9-robert-scoble-tech
 
 GPT Title: Robert Scoble Tech

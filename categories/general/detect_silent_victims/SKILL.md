@@ -1,9 +1,10 @@
 ---
 name: detect_silent_victims
-description: Fabric pattern - detect_silent_victims
-domain: general
+description: "Fabric pattern - detect_silent_victims"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

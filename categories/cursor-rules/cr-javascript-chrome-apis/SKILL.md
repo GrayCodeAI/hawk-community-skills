@@ -1,9 +1,10 @@
 ---
 name: cr-javascript-chrome-apis
-description: Cursor rules for javascript-chrome-apis
-domain: engineering
+description: "Cursor rules for javascript-chrome-apis"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -31,4 +32,3 @@ You can reference these example extensions:
 Post-Development
 
 Follow Chrome Extension documentation and best practices from the official Google Developers site for up-to-date information.
-

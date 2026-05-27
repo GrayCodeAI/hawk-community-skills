@@ -1,9 +1,11 @@
 ---
-name: workflow-orchestration-patterns
+name: ag-workflow-orchestration-patterns
 description: "Master workflow orchestration architecture with Temporal, covering fundamental design decisions, resilience patterns, and best practices for building reliable distributed systems."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Workflow Orchestration Patterns

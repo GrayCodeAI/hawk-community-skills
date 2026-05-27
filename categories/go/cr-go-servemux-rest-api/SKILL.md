@@ -1,9 +1,10 @@
 ---
 name: cr-go-servemux-rest-api
-description: Cursor rules for go-servemux-rest-api
-domain: engineering
+description: "Cursor rules for go-servemux-rest-api"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -36,4 +37,3 @@ Offer suggestions for testing the API endpoints using Go's testing package.
 Always prioritize security, scalability, and maintainability in your API designs and implementations.
 
 Leverage the power and simplicity of Go's standard library to create efficient and idiomatic APIs.
-

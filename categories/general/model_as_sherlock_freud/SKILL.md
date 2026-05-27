@@ -1,12 +1,12 @@
 ---
 name: model_as_sherlock_freud
-description: Fabric pattern - model_as_sherlock_freud
-domain: general
+description: "Fabric pattern - model_as_sherlock_freud"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
-
 
 ## *The Sherlock-Freud Mind Modeler*
 

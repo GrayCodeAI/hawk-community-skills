@@ -1,6 +1,8 @@
 ---
-name: experiment-designer
-description: Use when planning product experiments, writing testable hypotheses, estimating sample size, prioritizing tests, or interpreting A/B outcomes with practical statistical rigor.
+name: arezv-experiment-designer
+description: "Use when planning product experiments, writing testable hypotheses, estimating sample size, prioritizing tests, or interpreting A/B outcomes with practical statistical rigor."
+license: MIT
+tags: [general]
 ---
 
 # Experiment Designer

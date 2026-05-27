@@ -1,7 +1,8 @@
 ---
-title: Power Platform Connectors Schema Development Instructions
-description: 'Comprehensive development guidelines for Power Platform Custom Connectors using JSON Schema definitions. Covers API definitions (Swagger 2.0), API properties, and settings configuration with Microsoft extensions.'
-applyTo: '**/*.{json,md}'
+name: ghcp-instructions-power-platform-connector.instr
+description: "Skill: ghcp-instructions-power-platform-connector.instr"
+license: MIT
+tags: [general]
 ---
 
 # Power Platform Connectors Schema Development Instructions

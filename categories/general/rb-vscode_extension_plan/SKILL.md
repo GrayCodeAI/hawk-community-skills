@@ -1,3 +1,10 @@
+---
+name: rb-vscode_extension_plan
+description: "Skill: rb-vscode_extension_plan"
+license: MIT
+tags: [general]
+---
+
 # VS Code Extension Development Plan: `manage_rules.py` Wrapper
 
 ## Project Goal

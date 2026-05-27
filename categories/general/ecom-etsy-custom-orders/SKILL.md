@@ -1,9 +1,11 @@
 ---
-name: etsy-custom-orders
+name: ecom-etsy-custom-orders
 description: "Custom order management — communication templates, pricing, delivery timelines, return policies"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Custom Orders

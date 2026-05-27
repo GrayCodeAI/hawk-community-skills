@@ -1,3 +1,10 @@
+---
+name: ghcp-references-html-markup
+description: "Skill: ghcp-references-html-markup"
+license: MIT
+tags: [general]
+---
+
 # HTML & Markup Reference
 
 Comprehensive reference for HTML5, markup languages, and document structure.

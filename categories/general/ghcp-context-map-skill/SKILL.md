@@ -1,6 +1,8 @@
 ---
-name: context-map
-description: 'Generate a map of all files relevant to a task before making changes'
+name: ghcp-context-map-skill
+description: "Generate a map of all files relevant to a task before making changes"
+license: MIT
+tags: [general]
 ---
 
 # Context Map

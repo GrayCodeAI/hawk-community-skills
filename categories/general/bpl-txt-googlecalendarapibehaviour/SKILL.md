@@ -1,9 +1,10 @@
 ---
-name: bpl-googlecalendarapibehaviour
-description: System prompt - googlecalendarapibehaviour
-domain: general
+name: bpl-txt-googlecalendarapibehaviour
+description: "System prompt - googlecalendarapibehaviour"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

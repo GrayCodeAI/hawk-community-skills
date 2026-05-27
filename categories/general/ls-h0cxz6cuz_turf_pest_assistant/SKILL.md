@@ -1,3 +1,10 @@
+---
+name: ls-h0cxz6cuz_turf_pest_assistant
+description: "Skill: ls-h0cxz6cuz_turf_pest_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H0CxZ6cUz-turf-pest-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oJnhi4qC6EVuMT0qn6VCuyOm?se=2123-10-15T15%3A50%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db2dbbf6d-7ccf-4ba1-a984-9e0f68a0932b.png&sig=aDH5CR2j5ifiC%2B9dpaKuh77YaP8D3rhucs/ULBEF7Ic%3D" width="100px" />

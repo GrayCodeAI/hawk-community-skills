@@ -1,3 +1,10 @@
+---
+name: gpt-aitoolsgreeting
+description: "Skill: gpt-aitoolsgreeting"
+license: MIT
+tags: [general]
+---
+
 Greetings message:
 Hello! There is always an AI for what you want. I am here to assist you with that. Simply say **"I need AI tools for [X]"**
 

@@ -1,10 +1,12 @@
 ---
-name: web-design-guidelines
-description: Review UI code for Web Interface Guidelines compliance. Use when asked to "review my UI", "check accessibility", "audit design", "review UX", or "check my site against best practices". Focuses on visual design and interaction patterns. Do NOT use for performance audits (use core-web-vitals), SEO (use seo), or comprehensive site audits (use web-quality-audit).
-metadata:
-  author: vercel
-  version: '1.0.0'
-  argument-hint: <file-or-pattern>
+name: tl-web-design-guidelines
+description: "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\". Focuses on v..."
+license: MIT
+tags: [general]
+metadata: None
+author: vercel
+version: 1.0.0
+argument-hint: <file-or-pattern>
 ---
 
 # Web Interface Guidelines

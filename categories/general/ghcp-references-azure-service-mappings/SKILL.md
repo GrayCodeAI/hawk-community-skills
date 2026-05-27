@@ -1,3 +1,10 @@
+---
+name: ghcp-references-azure-service-mappings
+description: "Skill: ghcp-references-azure-service-mappings"
+license: MIT
+tags: [general]
+---
+
 # Azure Service Mappings
 
 ## Common Azure Services per Pattern

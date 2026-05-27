@@ -1,6 +1,8 @@
 ---
-name: debian-linux-triage
-description: 'Triage and resolve Debian Linux issues with apt, systemd, and AppArmor-aware guidance.'
+name: copilot-debian-linux-triage
+description: "Triage and resolve Debian Linux issues with apt, systemd, and AppArmor-aware guidance."
+license: MIT
+tags: [general]
 ---
 
 # Debian Linux Triage

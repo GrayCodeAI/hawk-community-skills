@@ -1,7 +1,8 @@
 ---
-name: acreadiness-policy
-description: 'Help the user pick, write, or apply an AgentRC policy. Policies customise readiness scoring by disabling irrelevant checks, overriding impact/level, setting pass-rate thresholds, or chaining org baselines with team overrides. Use when the user asks about strict mode, AI-only scoring, custom weights, CI gating, or wants org-wide standardisation.'
-argument-hint: "[show | new <name> | apply <path-or-pkg>] — e.g. /acreadiness-policy show, /acreadiness-policy new strict-frontend"
+name: copilot-acreadiness-policy
+description: "Skill: copilot-acreadiness-policy"
+license: MIT
+tags: [general]
 ---
 
 # /acreadiness-policy — AgentRC policies

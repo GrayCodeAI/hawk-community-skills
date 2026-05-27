@@ -1,12 +1,12 @@
 ---
 name: building-identity-federation-with-saml-azure-ad
-description: Establish SAML 2.0 identity federation between on-premises Active Directory and Azure AD (Microsoft Entra ID) for seamless cross-domain authentication and SSO to cloud applications.
+description: "Establish SAML 2.0 identity federation between on-premises Active Directory and Azure AD (Microsoft Entra ID) for seamless cross-domain authentication and SSO to cloud applications."
+license: MIT
+tags: [saml, azure-ad, entra-id, federation, identity, sso, adfs, hybrid-identity]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [saml, azure-ad, entra-id, federation, identity, sso, adfs, hybrid-identity]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Building Identity Federation with SAML Azure AD

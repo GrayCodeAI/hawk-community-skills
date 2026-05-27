@@ -1,16 +1,11 @@
 ---
 name: cursor-tensorflow
-description: Cursor IDE rules for tensorflow
-domain: engineering
+description: "Cursor IDE rules for tensorflow"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "TensorFlow: Keras, model training, production deployment"
-globs: ["*.py", "requirements.txt", "pyproject.toml"]
-alwaysApply: true
 ---
 
 # TensorFlow Rules

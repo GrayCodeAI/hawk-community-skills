@@ -1,16 +1,11 @@
 ---
 name: cursor-php
-description: Cursor IDE rules for php
-domain: engineering
+description: "Cursor IDE rules for php"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "PHP 8.x+: typed properties, PSR standards"
-globs: ["*.php"]
-alwaysApply: true
 ---
 
 # PHP Cursor Rules

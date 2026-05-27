@@ -1,7 +1,8 @@
 ---
 name: database-schema-design
-description: Database schema design patterns for SQL and NoSQL databases
+description: "Database schema design patterns for SQL and NoSQL databases"
 license: MIT
+tags: [general]
 compatibility: postgresql 14+, drizzle-orm 0.28+, prisma 5+
 allowed-tools: read_file write_file apply_patch run_command
 ---

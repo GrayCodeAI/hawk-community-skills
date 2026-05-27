@@ -1,9 +1,10 @@
 ---
 name: create_golden_rules
-description: Fabric pattern - create_golden_rules
-domain: general
+description: "Fabric pattern - create_golden_rules"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

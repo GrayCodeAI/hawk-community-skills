@@ -1,7 +1,10 @@
 ---
-description: Applies general coding rules across all file types to maintain code quality, consistency, and prevent common errors.
-globs: **/*.*
+name: mdc-general-coding-rules
+description: "Applies general coding rules across all file types to maintain code quality, consistency, and prevent common errors."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Always verify information before presenting it. Do not make assumptions or speculate without clear evidence.
 - Make changes file by file and give me a chance to spot mistakes.
 - Never use apologies.

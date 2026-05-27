@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-tax-liability-summary
-role: finance
+name: shopify-shopify-admin-tax-liability-summary
 description: "Read-only: aggregates tax collected by jurisdiction from order tax lines for filing prep."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

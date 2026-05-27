@@ -1,3 +1,10 @@
+---
+name: gpt-8ygogafww_who_needs_nietzsche
+description: "Skill: gpt-8ygogafww_who_needs_nietzsche"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8yGoGaFww-who-needs-nietzsche
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-14CMM5rbM1lKAXnSDWU616xa?se=2124-01-11T20%3A28%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D735fc1c1-6154-4b5a-9e99-6edbda322b77.png&sig=x0l6vzMTBXf/teDs8RdIunnfeawtwKpg3TaMwXhXigo%3D" width="100px" />

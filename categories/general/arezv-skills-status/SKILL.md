@@ -1,6 +1,8 @@
 ---
-name: "status"
+name: arezv-skills-status
 description: "Show DAG state, agent progress, and branch status for an AgentHub session."
+license: MIT
+tags: [general]
 command: /hub:status
 ---
 

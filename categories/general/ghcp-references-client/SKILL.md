@@ -1,3 +1,10 @@
+---
+name: ghcp-references-client
+description: "Skill: ghcp-references-client"
+license: MIT
+tags: [general]
+---
+
 # Building an MCP client in .NET
 
 A short reference for *consuming* an MCP server from .NET — useful for testing your server, building agent harnesses, or wiring MCP into a Semantic Kernel / Microsoft.Extensions.AI pipeline.

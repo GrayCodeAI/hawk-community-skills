@@ -1,7 +1,10 @@
 ---
-description: Provides guidelines for generating conventional commit messages based on changes in the codebase.
-globs: **/*
+name: mdc-commit-message-generation-rule
+description: "Provides guidelines for generating conventional commit messages based on changes in the codebase."
+license: MIT
+tags: [git]
 ---
+
 ## Commit Message Guidelines:
 
 - Always suggest a conventional commit message with an optional scope in lowercase. Follow this structure:

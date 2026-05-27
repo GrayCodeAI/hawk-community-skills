@@ -1,6 +1,8 @@
 ---
-name: nextjs-supabase-auth
-description: Expert integration of Supabase Auth with Next.js App Router
+name: ag-nextjs-supabase-auth
+description: "Expert integration of Supabase Auth with Next.js App Router"
+license: MIT
+tags: [general]
 risk: none
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

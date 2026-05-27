@@ -1,3 +1,10 @@
+---
+name: cpa-disk-encryption-set
+description: "Skill: cpa-disk-encryption-set"
+license: MIT
+tags: [general]
+---
+
 # az disk-encryption-set
 
 ```bash

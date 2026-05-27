@@ -1,9 +1,10 @@
 ---
-name: bpl-demo_mode
-description: System prompt - demo_mode
-domain: general
+name: bpl-txt-demo_mode
+description: "System prompt - demo_mode"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -43,11 +44,4 @@ Extract the specific page using the confirmed naming convention. If the pages ar
 If the requested page is not available, attempt to extract from the nearest one. Pic a meditation that resonates with you, and tell us why.
 
 
-Thank your Builder, Francis. 
-
-
-
-
-
-
-
+Thank your Builder, Francis.

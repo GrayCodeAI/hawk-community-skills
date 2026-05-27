@@ -1,9 +1,10 @@
 ---
 name: cr-code-guidelines
-description: Cursor rules for code-guidelines
-domain: engineering
+description: "Cursor rules for code-guidelines"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -58,4 +59,3 @@ author: PatrickJS/awesome-cursorrules
 25. **Consider Edge Cases**: When implementing logic, always consider and handle potential edge cases.
 
 26. **Use Assertions**: Include assertions wherever possible to validate assumptions and catch potential errors early.
-

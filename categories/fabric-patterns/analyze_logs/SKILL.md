@@ -1,9 +1,10 @@
 ---
 name: analyze_logs
-description: Fabric pattern - analyze_logs
-domain: general
+description: "Fabric pattern - analyze_logs"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -26,4 +27,3 @@ You are given a log file from one of the company's servers. The log file contain
 - **Exclude Personal Opinions**: Refrain from including subjective assessments or personal opinions in your analysis.
 
 # INPUT:
-

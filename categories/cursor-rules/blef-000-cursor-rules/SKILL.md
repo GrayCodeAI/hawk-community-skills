@@ -1,19 +1,10 @@
 ---
-description: Use when creating or updating a rule or when learning a lesson to retain as a Cursor rule.
-globs: .cursor/rules/*.mdc
-alwaysApply: false
----
-
-# Cursor Rules Format
-
-## Core Structure
-
-Write rules in this format:
-
-```mdc
----
-description: ACTION when TRIGGER to OUTCOME
-globs: src/**/*.{ts,tsx}
+name: blef-000-cursor-rules
+description: Use when creating or updating a rule or when learning a lesson to retain
+  as a Cursor rule.
+license: MIT
+tags:
+- cursor-rules
 alwaysApply: false
 ---
 

@@ -1,53 +1,9 @@
-# Step 1a: Project Analysis
-
-Before looking at code structure, entry points, or writing any instrumentation, understand what this software does in the real world. This analysis is the foundation for every subsequent step — it determines which entry points to prioritize, what eval criteria to define, what trace inputs to use, and what dataset entries to build.
-
 ---
-
-## What to investigate
-
-Read the project's README, documentation, and top-level source files. You're looking for answers to five questions:
-
-### 1. What does this software do?
-
-Write a one-paragraph plain-language summary. What problem does it solve? What does a successful run look like?
-
-### 2. Who uses it and why?
-
-Who are the target users? What's the primary use case? What problem does this solve that alternatives don't? This helps you understand what "quality" means for this app — a chatbot that chats with customers has different quality requirements than a research agent that synthesises multi-source reports.
-
-### 3. Capability inventory
-
-List the distinct capabilities, modes, or features the app offers. Be specific. for example:
-
-- For a scraping library: single-page scraping, multi-page scraping, search-based scraping, speech output, script generation
-- For a voice agent: greeting, FAQ handling, account lookup, transfer to human, call summarization
-- For a research agent: topic research, multi-source synthesis, citation generation, report formatting
-
-Each capability may need its own entry point, its own trace, and its own dataset entries. This list directly feeds Step 1c (use cases) and Step 4 (dataset diversity).
-
-### 4. What are realistic inputs?
-
-Characterize the real-world inputs the app processes — not toy examples:
-
-- For a web scraper: "messy HTML pages with navigation, ads, dynamic content, tables, nested structures — typically 5KB-500KB of HTML"
-- For a research agent: "open-ended research questions requiring multi-source synthesis, with 3-10 sub-questions"
-- For a voice agent: "multi-turn conversations with background noise, interruptions, and ambiguous requests"
-
-Be specific about **scale** (how large), **complexity** (how messy/diverse), and **variety** (what kinds). This directly feeds trace input selection (Step 2) — if you don't characterize realistic inputs here, you'll end up using toy inputs that bypass the app's real logic.
-
-**This section is an operational constraint, not just documentation.** Steps 2c (trace input) and 4c (dataset entries) will cross-reference these characteristics to verify that trace inputs and dataset entries match real-world scale and complexity. Be concrete and quantitative — write "5KB–500KB HTML pages," not "various HTML pages."
-
-### 5. What are the hard problems / failure modes?
-
-What makes this app's job difficult? Where does it fail in practice? These become the most valuable eval scenarios:
-
-- For a scraper: "malformed HTML, dynamic JS-rendered content, complex nested schemas, very large pages that exceed context windows"
-- For a research agent: "conflicting sources, questions requiring multi-step reasoning, hallucinating citations"
-- For a voice agent: "ambiguous caller intent, account lookup failures, simultaneous tool calls"
-
-Each failure mode should map to at least one eval criterion (Step 1c) and at least one dataset entry (Step 4).
-
+name: ghcp-references-1-a-project-analysis
+description: 'Skill: ghcp-references-1-a-project-analysis'
+license: MIT
+tags:
+- general
 ---
 
 ## Output: `pixie_qa/00-project-analysis.md`

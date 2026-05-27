@@ -1,3 +1,10 @@
+---
+name: gpt-thxcg3lm3_dynarec-expert
+description: "Skill: gpt-thxcg3lm3_dynarec-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-thXcG3Lm3-dynarec-expert
 
 GPT Title: DynaRec Expert

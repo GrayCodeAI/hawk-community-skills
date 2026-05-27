@@ -1,3 +1,10 @@
+---
+name: gpt-gjw9qtcyi_jailbreak_me_code_crack-up
+description: "Skill: gpt-gjw9qtcyi_jailbreak_me_code_crack-up"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gJW9QTCYI-jailbreak-me-code-crack-up
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Hpk36FJUEInuD9DhwJIz0nPm?se=2123-11-15T02%3A32%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D374ae4eb-b9c6-4674-9729-c25d5543f696.png&sig=g9jOCHkbtgvVOvyjSa6o/UiRG0hsrJT8t75/qjQrij8%3D" width="100px" />

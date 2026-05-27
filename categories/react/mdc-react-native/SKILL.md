@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable React Native applications using modern TypeScript, functional components, and a feature-first architecture.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-react-native
+description: "Definitive guidelines for building robust, performant, and maintainable React Native applications using modern TypeScript, functional components, and a feature-first architecture."
+license: MIT
+tags: [react]
 ---
+
 # React Native Best Practices
 
 This guide outlines the mandatory practices for React Native development. Adherence ensures a consistent, high-quality, and scalable codebase.

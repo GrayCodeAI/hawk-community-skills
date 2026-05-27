@@ -1,9 +1,10 @@
 ---
-name: bpl-top_100_makeup_products_on_amazon
-description: System prompt - top_100_makeup_products_on_amazon
-domain: general
+name: bpl-txt-top_100_makeup_products_on_amazon
+description: "System prompt - top_100_makeup_products_on_amazon"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

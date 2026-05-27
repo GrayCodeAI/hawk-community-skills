@@ -1,3 +1,10 @@
+---
+name: gpt-zhfkmhm1r_openapi-builder
+description: "Skill: gpt-zhfkmhm1r_openapi-builder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZHFKmHM1R-openapi-builder
 
 GPT Title: OpenAPI Builder

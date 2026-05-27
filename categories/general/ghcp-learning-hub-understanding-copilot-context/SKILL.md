@@ -1,16 +1,13 @@
 ---
-title: 'Understanding Copilot Context'
-description: 'Learn how GitHub Copilot uses context from your code, workspace, and conversation to generate relevant suggestions.'
-authors:
-  - GitHub Copilot Learning Hub Team
+name: ghcp-learning-hub-understanding-copilot-context
+description: "Learn how GitHub Copilot uses context from your code, workspace, and conversation to generate relevant suggestions."
+license: MIT
+tags: [general]
+title: Understanding Copilot Context
+authors: None
 lastUpdated: 2025-11-28
-estimatedReadingTime: '8 minutes'
-tags:
-  - context
-  - fundamentals
-  - how-it-works
-relatedArticles:
-  - ./what-are-agents-skills-instructions.md
+estimatedReadingTime: 8 minutes
+relatedArticles: None
 ---
 
 Context is the foundation of how GitHub Copilot generates relevant, accurate suggestions. Understanding what Copilot "sees" and how it uses that information helps you write better prompts, get higher-quality completions, and work more effectively with AI assistance. This article explains the types of context Copilot uses and how to optimize your development environment for better results.

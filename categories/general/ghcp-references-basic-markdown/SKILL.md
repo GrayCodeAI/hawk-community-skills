@@ -1,3 +1,10 @@
+---
+name: ghcp-references-basic-markdown
+description: "Skill: ghcp-references-basic-markdown"
+license: MIT
+tags: [general]
+---
+
 # Basic writing and formatting syntax
 
 Create sophisticated formatting for your prose and code on GitHub with simple syntax.

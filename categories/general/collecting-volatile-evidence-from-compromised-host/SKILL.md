@@ -1,12 +1,12 @@
 ---
 name: collecting-volatile-evidence-from-compromised-host
-description: Collect volatile forensic evidence from a compromised system following order of volatility, preserving memory, network connections, processes, and system state before they are lost.
+description: "Collect volatile forensic evidence from a compromised system following order of volatility, preserving memory, network connections, processes, and system state before they are lost."
+license: MIT
+tags: [incident-response, dfir, forensics, volatile-evidence, memory-forensics, chain-of-custody]
 domain: cybersecurity
 subdomain: incident-response
-tags: [incident-response, dfir, forensics, volatile-evidence, memory-forensics, chain-of-custody]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Collecting Volatile Evidence from Compromised Hosts

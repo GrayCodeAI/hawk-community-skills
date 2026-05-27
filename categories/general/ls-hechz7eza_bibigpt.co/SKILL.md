@@ -1,3 +1,10 @@
+---
+name: ls-hechz7eza_bibigpt.co
+description: "Skill: ls-hechz7eza_bibigpt.co"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co
 
 GPT Title: BibiGPT.co

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for configuring and using esbuild to achieve ultra-fast, optimized, and production-ready JavaScript/TypeScript builds.
-globs: **/*.{js,jsx}
+name: mdc-esbuild
+description: "Definitive guidelines for configuring and using esbuild to achieve ultra-fast, optimized, and production-ready JavaScript/TypeScript builds."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # esbuild Best Practices
 
 esbuild is the definitive choice for speed-first JavaScript/TypeScript bundling. Follow these rules to maximize its performance, maintainability, and production readiness.

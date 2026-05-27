@@ -1,3 +1,10 @@
+---
+name: sys-openai-dall-e-3_20231007-1
+description: "Skill: sys-openai-dall-e-3_20231007-1"
+license: MIT
+tags: [general]
+---
+
 # openai-dall-e-3_20231007-1
 
 source: <https://www.reddit.com/r/ChatGPTPro/comments/171r95u/i_asked_dalle_3_to_generate_images_with_its/?rdt=46674>

@@ -1,3 +1,10 @@
+---
+name: sys-deepseek-r1_20250430
+description: "Skill: sys-deepseek-r1_20250430"
+license: MIT
+tags: [general]
+---
+
 # deepseek-R1_20250430
 
 source: <https://x.com/VibeWeb3/status/1917459078860923011>

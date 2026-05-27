@@ -1,6 +1,8 @@
 ---
-description: 'Oqtane Module patterns'
-applyTo: '**/*.razor, **/*.razor.cs, **/*.razor.css'
+name: ghcp-instructions-oqtane.instructions
+description: "Skill: ghcp-instructions-oqtane.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Blazor Code Style and Structure

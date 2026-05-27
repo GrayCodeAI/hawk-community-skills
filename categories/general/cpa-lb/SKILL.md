@@ -1,3 +1,10 @@
+---
+name: cpa-lb
+description: "Skill: cpa-lb"
+license: MIT
+tags: [general]
+---
+
 # az network lb
 
 ```bash

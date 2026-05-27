@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building consistent, performant, and maintainable UIs with Ant Design v6.x, focusing on design tokens, layout, and component usage.
-globs: **/*
+name: mdc-ant-design
+description: "Definitive guidelines for building consistent, performant, and maintainable UIs with Ant Design v6.x, focusing on design tokens, layout, and component usage."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # ant-design Best Practices
 
 This guide outlines the definitive best practices for using Ant Design v6.x in our projects. Adhering to these standards ensures consistency, accessibility, and maintainability across our codebase.

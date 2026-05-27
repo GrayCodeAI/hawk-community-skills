@@ -1,3 +1,10 @@
+---
+name: ls-aq8wb6yvz_pix_muse
+description: "Skill: ls-aq8wb6yvz_pix_muse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aq8WB6Yvz-pix-muse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6ZuX5FkjYae3bioYzeA8oVaq?se=2124-01-09T12%3A05%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPIX_Muse.png&sig=0gVl%2BjzoDRkp5Gfv1GRoC5NuIcbAQTuJcsUULxlwO78%3D" width="100px" />

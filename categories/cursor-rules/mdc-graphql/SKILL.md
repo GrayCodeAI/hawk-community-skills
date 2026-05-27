@@ -1,7 +1,10 @@
 ---
-description: Enforce modern, performant, and secure GraphQL schema design and operation best practices for maintainable and scalable APIs.
-globs: **/*.{graphql,gql}
+name: mdc-graphql
+description: "Enforce modern, performant, and secure GraphQL schema design and operation best practices for maintainable and scalable APIs."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # GraphQL Best Practices
 
 This guide outlines the definitive best practices for designing, implementing, and operating GraphQL APIs. Adhere to these rules to ensure your schemas are consistent, performant, secure, and developer-friendly.

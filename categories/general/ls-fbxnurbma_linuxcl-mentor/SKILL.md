@@ -1,3 +1,10 @@
+---
+name: ls-fbxnurbma_linuxcl-mentor
+description: "Skill: ls-fbxnurbma_linuxcl-mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-fbXNUrBMA-linuxcl-mentor/
 
 GPT Title: LinuxCL Mentor

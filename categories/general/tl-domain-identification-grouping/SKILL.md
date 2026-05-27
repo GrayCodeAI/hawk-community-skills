@@ -1,3 +1,10 @@
+---
+name: tl-domain-identification-grouping
+description: "Skill: tl-domain-identification-grouping"
+license: MIT
+tags: [general]
+---
+
 # Domain Identification & Grouping - Quick Reference
 
 ## Domain Definition

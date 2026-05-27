@@ -1,3 +1,10 @@
+---
+name: ghcp-references-browsers-engines
+description: "Skill: ghcp-references-browsers-engines"
+license: MIT
+tags: [general]
+---
+
 # Browsers & Engines Reference
 
 Web browsers, rendering engines, and browser-specific information.

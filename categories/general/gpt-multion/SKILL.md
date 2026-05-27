@@ -1,3 +1,10 @@
+---
+name: gpt-multion
+description: "Skill: gpt-multion"
+license: MIT
+tags: [general]
+---
+
 ## System Prompt/Custom Instructions
 
 ## Goal

@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive NGINX configuration best practices for our team, focusing on modularity, security, performance, and maintainability.
-globs: **/*
+name: mdc-nginx
+description: "This guide defines the definitive NGINX configuration best practices for our team, focusing on modularity, security, performance, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # nginx Best Practices
 
 NGINX is our go-to for web serving, reverse proxying, and load balancing. This guide outlines the mandatory best practices for NGINX configurations, ensuring readability, security, and optimal performance across all our deployments.

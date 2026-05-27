@@ -1,7 +1,9 @@
 ---
-name: judge
-description: Launch a meta-judge then a judge sub-agent to evaluate results produced in the current conversation
-argument-hint: "[evaluation-focus]"
+name: neo-judge
+description: "Launch a meta-judge then a judge sub-agent to evaluate results produced in the current conversation"
+license: MIT
+tags: [general]
+argument-hint: [evaluation-focus]
 ---
 
 # Judge Command

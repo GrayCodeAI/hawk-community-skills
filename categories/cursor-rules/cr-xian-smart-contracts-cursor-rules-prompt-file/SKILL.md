@@ -1,9 +1,10 @@
 ---
 name: cr-xian-smart-contracts-cursor-rules-prompt-file
-description: Cursor rules for xian-smart-contracts-cursor-rules-prompt-file
-domain: engineering
+description: "Cursor rules for xian-smart-contracts-cursor-rules-prompt-file"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,12 +1,12 @@
 ---
 name: analyzing-persistence-mechanisms-in-linux
-description: Detect and analyze Linux persistence mechanisms including crontab entries, systemd service units, LD_PRELOAD hijacking, bashrc modifications, and authorized_keys backdoors using auditd and file integrity monitoring
+description: "Detect and analyze Linux persistence mechanisms including crontab entries, systemd service units, LD_PRELOAD hijacking, bashrc modifications, and authorized_keys backdoors using auditd and file int..."
+license: MIT
+tags: [linux-persistence, crontab, systemd, ld-preload, auditd, threat-hunting, incident-response]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [linux-persistence, crontab, systemd, ld-preload, auditd, threat-hunting, incident-response]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Persistence Mechanisms in Linux

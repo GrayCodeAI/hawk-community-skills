@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt4o-mini-voice-mode_2025070
+description: "Skill: sys-openai-chatgpt4o-mini-voice-mode_2025070"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt4o-mini-voice-mode_20250706
 
 This prompt is taken from the voice assistant from the mobile app of android of chatgpt

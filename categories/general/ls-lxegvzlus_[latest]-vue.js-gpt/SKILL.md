@@ -1,3 +1,10 @@
+---
+name: ls-lxegvzlus_[latest]-vue.js-gpt
+description: "Skill: ls-lxegvzlus_[latest]-vue.js-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LXEGvZLUS-latest-vue-js-gpt
 
 GPT Title: [latest] Vue.js GPT

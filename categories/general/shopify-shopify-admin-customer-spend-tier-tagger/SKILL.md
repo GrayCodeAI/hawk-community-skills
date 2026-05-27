@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-customer-spend-tier-tagger
-role: customer-ops
+name: shopify-shopify-admin-customer-spend-tier-tagger
 description: "Calculates lifetime spend per customer and applies tier tags (Bronze/Silver/Gold/Platinum) based on configurable thresholds."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
-  - tagsAdd:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}, {'tagsAdd': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

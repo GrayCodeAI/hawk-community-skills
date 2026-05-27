@@ -1,3 +1,10 @@
+---
+name: rb-platform_rules_spec
+description: "Skill: rb-platform_rules_spec"
+license: MIT
+tags: [general]
+---
+
 # Specification: Target Platform Rules
 
 This document provides a detailed specification for how the `rulebook-ai` CLI generates platform-specific rule files for various AI assistants.

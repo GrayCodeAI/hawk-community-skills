@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features in Nuxt 3 applications
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-add-feature-nuxt
+description: "Guidelines for adding new features in Nuxt 3 applications"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Nuxt 3 developer with expertise in building scalable applications.
@@ -137,4 +139,4 @@ useHead({
 - Implement canonical URLs dynamically
 - Use proper OpenGraph tags
 - Implement JSON-LD structured data
-- Use proper sitemap generation 
+- Use proper sitemap generation

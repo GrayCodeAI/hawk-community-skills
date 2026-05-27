@@ -1,7 +1,10 @@
 ---
-description: Provides guidelines for effectively utilizing Google Apps Script services and features.
-globs: **/*.gs
+name: mdc-google-apps-script-specifics-rule
+description: "Provides guidelines for effectively utilizing Google Apps Script services and features."
+license: MIT
+tags: [go]
 ---
+
 - Utilize Google Apps Script services effectively (e.g., SpreadsheetApp, DriveApp).
 - Implement proper authorization scopes for Google Services.
 - Use time-based, event-driven, or custom triggers appropriately.

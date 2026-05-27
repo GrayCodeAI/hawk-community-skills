@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, maintainable, and visually appealing Python CLI applications using the rich library.
-globs: **/*.py
+name: mdc-rich
+description: "Definitive guidelines for building robust, maintainable, and visually appealing Python CLI applications using the rich library."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # rich Best Practices
 
 `rich` transforms plain terminal output into engaging, readable interfaces. These rules ensure your `rich` applications are performant, testable, and follow modern Python best practices.

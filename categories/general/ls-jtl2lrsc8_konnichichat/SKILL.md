@@ -1,3 +1,10 @@
+---
+name: ls-jtl2lrsc8_konnichichat
+description: "Skill: ls-jtl2lrsc8_konnichichat"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-JtL2LRsc8-konnichichat
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-yiTBCXbO7ghBEMzRaE5X4b0a?se=2123-12-26T08%3A51%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D29b52fea-1e3d-4f52-8732-57be10c725b4.png&sig=T/MhxXlkkXH37k2RcqGSz%2Blr8sj3/YVgQGXTl3xV3Z8%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: cloudflare-api-key-automation
+name: composio-cloudflare-api-key-automation
 description: "Automate Cloudflare API tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Cloudflare API Automation via Rube MCP

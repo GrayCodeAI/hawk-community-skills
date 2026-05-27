@@ -1,3 +1,10 @@
+---
+name: rb-supported_assistants
+description: "Skill: rb-supported_assistants"
+license: MIT
+tags: [general]
+---
+
 # Supported AI Assistants (Detailed)
 
 This document contains detailed information about the AI coding assistants supported by `rulebook-ai`. It includes where their generated rule files are placed, whether the assistant expects a single file or a directory, and format notes.

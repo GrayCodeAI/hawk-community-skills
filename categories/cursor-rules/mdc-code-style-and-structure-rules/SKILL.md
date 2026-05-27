@@ -1,7 +1,10 @@
 ---
-description: Rules for code style and structure in TypeScript, Node.js, and Next.js projects.
-globs: **/*.{ts,tsx,js,jsx}
+name: mdc-code-style-and-structure-rules
+description: "Rules for code style and structure in TypeScript, Node.js, and Next.js projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write concise, technical TypeScript code with accurate examples.
 - Use functional and declarative programming patterns; avoid classes.
 - Prefer iteration and modularization over code duplication.

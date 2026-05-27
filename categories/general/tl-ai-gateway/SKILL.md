@@ -1,3 +1,10 @@
+---
+name: tl-ai-gateway
+description: "Skill: tl-ai-gateway"
+license: MIT
+tags: [general]
+---
+
 # AI Gateway Troubleshooting
 
 ## Common Errors

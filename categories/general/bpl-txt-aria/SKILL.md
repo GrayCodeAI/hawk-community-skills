@@ -1,9 +1,10 @@
 ---
-name: bpl-aria
-description: System prompt - aria
-domain: general
+name: bpl-txt-aria
+description: "System prompt - aria"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

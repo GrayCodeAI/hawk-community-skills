@@ -1,3 +1,10 @@
+---
+name: gpt-cdvsdhe8i_ask_sexual_ethics
+description: "Skill: gpt-cdvsdhe8i_ask_sexual_ethics"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cDVSDHE8I-ask-sexual-ethics
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-8zxS7MT7KQE31N2M1aY2e0Wb?se=2123-10-25T05%3A28%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D065dc760-126a-458b-90f2-153a33845835.png&sig=1RKi6v%2B7tnwvXBVrkIVZvrkYx8a9FBi3rpjfmvcNeBA%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
+name: ghcp-agents-rust-mcp-expert.agent
 description: "Expert assistant for Rust MCP server development using the rmcp SDK with tokio async runtime"
-name: "Rust MCP Expert"
+license: MIT
+tags: [general]
 model: GPT-4.1
 ---
 

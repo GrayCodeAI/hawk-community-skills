@@ -1,3 +1,10 @@
+---
+name: ls-yvilulqvi_llm-course
+description: "Skill: ls-yvilulqvi_llm-course"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yviLuLqvI-llm-course
 
 GPT Title: LLM Course

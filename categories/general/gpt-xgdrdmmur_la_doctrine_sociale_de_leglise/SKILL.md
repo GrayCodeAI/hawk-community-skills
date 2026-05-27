@@ -1,3 +1,10 @@
+---
+name: gpt-xgdrdmmur_la_doctrine_sociale_de_leglise
+description: "Skill: gpt-xgdrdmmur_la_doctrine_sociale_de_leglise"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-XgDrDmmur-la-doctrine-sociale-de-l-eglise
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-foqEd9bxTfoxvAKojfDEjH3J?se=2124-01-06T18%3A21%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D652d28b9-83d7-48a3-a633-ef484b5aa264.png&sig=mB0fVmQPWjeqX%2BfLKd6Vx6%2B9lBpwS10PhStKilB3qG0%3D" width="100px" />

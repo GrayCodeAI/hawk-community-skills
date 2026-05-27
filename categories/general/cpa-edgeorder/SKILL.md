@@ -1,3 +1,10 @@
+---
+name: cpa-edgeorder
+description: "Skill: cpa-edgeorder"
+license: MIT
+tags: [general]
+---
+
 # az edgeorder
 
 ```bash

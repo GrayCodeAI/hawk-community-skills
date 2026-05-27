@@ -1,9 +1,10 @@
 ---
 name: cr-hol-hedera-typescript
-description: Cursor rules for hol-hedera-typescript
-domain: engineering
+description: "Cursor rules for hol-hedera-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

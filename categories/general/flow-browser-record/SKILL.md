@@ -1,7 +1,9 @@
 ---
-name: browser-record
-description: Open a named, traced browser session into an RVF cognitive container with a ruvector trajectory recording every action
-argument-hint: "<url-or-task> [--with-dom] [--viewport WxH]"
+name: flow-browser-record
+description: "Open a named, traced browser session into an RVF cognitive container with a ruvector trajectory recording every action"
+license: MIT
+tags: [general]
+argument-hint: <url-or-task> [--with-dom] [--viewport WxH]
 allowed-tools: mcp__claude-flow__browser_open mcp__claude-flow__browser_close mcp__claude-flow__browser_session-list mcp__claude-flow__browser_screenshot mcp__claude-flow__browser_snapshot mcp__claude-flow__browser_wait mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_scan Bash Read Write
 ---
 

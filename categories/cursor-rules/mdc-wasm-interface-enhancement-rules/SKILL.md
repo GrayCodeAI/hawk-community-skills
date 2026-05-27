@@ -1,7 +1,10 @@
 ---
-description: Rules for enhancing the WebAssembly interface to handle the region grid system. This rule covers data transfer and function implementation between JS and WASM.
-globs: /wasm/**/*.*
+name: mdc-wasm-interface-enhancement-rules
+description: "Rules for enhancing the WebAssembly interface to handle the region grid system. This rule covers data transfer and function implementation between JS and WASM."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Enhance the WASM Interface:
   - Extend the WebAssembly interface to handle the new region grid system. This involves:
     a. Creating functions to set and get the entire region grid state, allowing for efficient data transfer between JavaScript and WASM.

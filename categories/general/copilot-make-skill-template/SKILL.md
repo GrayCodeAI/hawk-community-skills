@@ -1,45 +1,13 @@
 ---
-name: make-skill-template
-description: 'Create new Agent Skills for GitHub Copilot from prompts or by duplicating this template. Use when asked to "create a skill", "make a new skill", "scaffold a skill", or when building specialized AI capabilities with bundled resources. Generates SKILL.md files with proper frontmatter, directory structure, and optional scripts/references/assets folders.'
+name: copilot-make-skill-template
+description: Create new Agent Skills for GitHub Copilot from prompts or by duplicating
+  this template. Use when asked to "create a skill", "make a new skill", "scaffold
+  a skill", or when building specialized AI ...
+license: MIT
+tags:
+- general
 ---
 
-# Make Skill Template
-
-A meta-skill for creating new Agent Skills. Use this skill when you need to scaffold a new skill folder, generate a SKILL.md file, or help users understand the Agent Skills specification.
-
-## When to Use This Skill
-
-- User asks to "create a skill", "make a new skill", or "scaffold a skill"
-- User wants to add a specialized capability to their GitHub Copilot setup
-- User needs help structuring a skill with bundled resources
-- User wants to duplicate this template as a starting point
-
-## Prerequisites
-
-- Understanding of what the skill should accomplish
-- A clear, keyword-rich description of capabilities and triggers
-- Knowledge of any bundled resources needed (scripts, references, assets, templates)
-
-## Creating a New Skill
-
-### Step 1: Create the Skill Directory
-
-Create a new folder with a lowercase, hyphenated name:
-
-```
-skills/<skill-name>/
-└── SKILL.md          # Required
-```
-
-### Step 2: Generate SKILL.md with Frontmatter
-
-Every skill requires YAML frontmatter with `name` and `description`:
-
-```yaml
----
-name: <skill-name>
-description: '<What it does>. Use when <specific triggers, scenarios, keywords users might say>.'
----
 ```
 
 #### Frontmatter Field Requirements

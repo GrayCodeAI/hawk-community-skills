@@ -1,3 +1,10 @@
+---
+name: gpt-ydiuocjmo_tinder-whisperer
+description: "Skill: gpt-ydiuocjmo_tinder-whisperer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yDiUoCJmo-tinder-whisperer
 
 GPT Title: Tinder Whisperer

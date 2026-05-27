@@ -1,7 +1,11 @@
 ---
-description: Specifies steps to adapt generated React components to the project structure after initial creation.
-globs: packages/ui/src/components/**/*.tsx
+name: mdc-react-component-adaptation---post-generation
+description: 'Skill: mdc-react-component-adaptation---post-generation'
+license: MIT
+tags:
+- react
 ---
+
 - After generating, adapt the component to fit our project structure:
   - Import
     - common shadcn/ui components from <ui_package_alias>@repo/ui/components/ui/</ui_package_alias>

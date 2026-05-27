@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-datasets-typescrip
+description: "Skill: ghcp-references-experiments-datasets-typescrip"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Datasets in TypeScript
 
 Creating and managing evaluation datasets.

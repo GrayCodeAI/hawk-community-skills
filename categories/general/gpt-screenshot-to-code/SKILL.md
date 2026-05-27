@@ -1,3 +1,10 @@
+---
+name: gpt-screenshot-to-code
+description: "Skill: gpt-screenshot-to-code"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/abi/screenshot-to-code/blob/main/backend/prompts.py
 
 prompt:

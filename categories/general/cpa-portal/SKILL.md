@@ -1,3 +1,10 @@
+---
+name: cpa-portal
+description: "Skill: cpa-portal"
+license: MIT
+tags: [general]
+---
+
 # az portal
 
 ```bash

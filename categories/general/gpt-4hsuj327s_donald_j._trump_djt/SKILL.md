@@ -1,3 +1,10 @@
+---
+name: gpt-4hsuj327s_donald_j._trump_djt
+description: "Skill: gpt-4hsuj327s_donald_j._trump_djt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4hSUj327s-donald-j-trump-djt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rS4ErwxdscbVvoR74DRvrFmb?se=2124-01-21T16%3A47%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDonald_Trump_official_portrait.jpg&sig=MMrSo11en6DU5AyOt2zOi1FgPpOKIaMosO4Js4VktT0%3D" width="100px" />

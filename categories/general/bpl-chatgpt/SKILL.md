@@ -1,3 +1,10 @@
+---
+name: bpl-chatgpt
+description: "Skill: bpl-chatgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YfKcgLiSr-cuo-chuang-zhi-liao-zhi-nan
 
 GPT Title: 痤疮治疗指南

@@ -1,3 +1,10 @@
+---
+name: tl-ddos
+description: "Skill: tl-ddos"
+license: MIT
+tags: [general]
+---
+
 # DDoS Gotchas
 
 ## Common Errors

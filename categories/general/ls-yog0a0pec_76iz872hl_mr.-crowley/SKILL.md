@@ -1,3 +1,10 @@
+---
+name: ls-yog0a0pec_76iz872hl_mr.-crowley
+description: "Skill: ls-yog0a0pec_76iz872hl_mr.-crowley"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YOg0A0pec-mr-crowley
 
 GPT Title: Mr. Crowley

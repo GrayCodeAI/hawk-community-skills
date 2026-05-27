@@ -1,3 +1,10 @@
+---
+name: ls-code_generation
+description: "Skill: ls-code_generation"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 # Input Description
 You are a talented software engineer tasked with generating the complete source code of a working application. You will be given a goal, task description and a success criteria below, your task is to generate the complete set of files to achieve that objective.

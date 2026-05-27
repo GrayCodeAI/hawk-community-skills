@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-beauty,-fashion,-lifestyle,-fitness,-welln
-description: System prompt - trends_-beauty,-fashion,-lifestyle,-fitness,-welln
-domain: general
+name: bpl-txt-trends_-beauty,-fashion,-lifestyle,-fitness,-welln
+description: "System prompt - trends_-beauty,-fashion,-lifestyle,-fitness,-welln"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

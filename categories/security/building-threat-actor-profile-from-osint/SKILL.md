@@ -1,13 +1,14 @@
 ---
 name: building-threat-actor-profile-from-osint
-description: Build comprehensive threat actor profiles using open-source intelligence (OSINT) techniques to document adversary motivations, capabilities, infrastructure, and TTPs for proactive defense.
+description: "Build comprehensive threat actor profiles using open-source intelligence (OSINT) techniques to document adversary motivations, capabilities, infrastructure, and TTPs for proactive defense."
+license: MIT
+tags: [osint, threat-actor, profiling, maltego, spiderfoot, attribution, threat-intelligence, reconnaissance]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [osint, threat-actor, profiling, maltego, spiderfoot, attribution, threat-intelligence, reconnaissance]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Building Threat Actor Profile from OSINT
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+name: gpt-faqqg26ut_heartbreak-gpt
+description: "Skill: gpt-faqqg26ut_heartbreak-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FAqQG26UT-heartbreak-gpt
 
 GPT Title: Heartbreak GPT

@@ -1,8 +1,10 @@
 ---
-name: spotlightr-automation
+name: composio-spotlightr-automation
 description: "Automate Spotlightr tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Spotlightr Automation via Rube MCP

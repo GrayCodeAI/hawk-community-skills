@@ -1,3 +1,10 @@
+---
+name: gpt-ipxbmje1b_book_writer_ai_team
+description: "Skill: gpt-ipxbmje1b_book_writer_ai_team"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IPXbmJe1b-book-writer-ai-team
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WkcRrRlpX9BVi8kcLBruQd8m?se=2123-12-15T23%3A19%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6bb7aecc-dfa4-4f58-89e0-53d7edcdd8e1.png&sig=yaFheZ3yddUDn4VG/LcktlLy5Lh7udOXmDbcemzzD/U%3D" width="100px" />
@@ -58,4 +65,3 @@ Finalizing the Project:
 The Architect ensures a comprehensive review and final user approval.
 End of Instructions
 ```
-

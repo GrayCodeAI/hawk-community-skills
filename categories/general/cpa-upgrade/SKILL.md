@@ -1,3 +1,10 @@
+---
+name: cpa-upgrade
+description: "Skill: cpa-upgrade"
+license: MIT
+tags: [general]
+---
+
 # az upgrade
 
 Upgrade Azure CLI and extensions.

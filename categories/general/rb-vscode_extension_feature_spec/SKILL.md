@@ -1,3 +1,10 @@
+---
+name: rb-vscode_extension_feature_spec
+description: "Skill: rb-vscode_extension_feature_spec"
+license: MIT
+tags: [general]
+---
+
 # VS Code Extension Feature Specification: AI Rule Manager
 
 ## 1. Overview

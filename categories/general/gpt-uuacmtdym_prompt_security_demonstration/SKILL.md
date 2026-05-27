@@ -1,3 +1,10 @@
+---
+name: gpt-uuacmtdym_prompt_security_demonstration
+description: "Skill: gpt-uuacmtdym_prompt_security_demonstration"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uUaCMTDym-prompt-security-demonstration
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nFdVERN0xErmT8oXe64yloEF?se=2124-01-21T03%3A38%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_2564.jpeg&sig=NOT8Ju77ddhWub%2Biv9IgwHcDST23Pw4bix6uEaEHGuU%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: Guidelines for handling errors and edge cases in Python and FastAPI applications.
-globs: **/*.py
+name: mdc-error-handling-rules
+description: "Guidelines for handling errors and edge cases in Python and FastAPI applications."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Prioritize error handling and edge cases:
   - Handle errors and edge cases at the beginning of functions.
   - Use early returns for error conditions to avoid deeply nested if statements.

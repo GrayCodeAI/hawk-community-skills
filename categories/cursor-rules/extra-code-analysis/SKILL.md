@@ -1,3 +1,10 @@
+---
+name: extra-code-analysis
+description: "Skill: extra-code-analysis"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Code Analysis
 
 Perform advanced code analysis with multiple inspection options.

@@ -1,3 +1,10 @@
+---
+name: ls-aauiju3vg_gpt_prompt_protection
+description: "Skill: ls-aauiju3vg_gpt_prompt_protection"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AaUIJu3VG-gpt-prompt-protection
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SNSprkwcdxG7DiYgtBS7vljK?se=2123-12-18T02%3A55%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D881f2d6d-3d41-4129-9d57-12c71e17864d.png&sig=p1ikf%2BP6UGF6TXFpgRG9mIX/uDAD4c62HWGQUSG5tbA%3D" width="100px" />

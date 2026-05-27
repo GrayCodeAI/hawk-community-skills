@@ -1,3 +1,10 @@
+---
+name: rb-contribution_workflow
+description: "Skill: rb-contribution_workflow"
+license: MIT
+tags: [general]
+---
+
 # Contribution Workflow
 
 1. Host your pack in a public GitHub repository.

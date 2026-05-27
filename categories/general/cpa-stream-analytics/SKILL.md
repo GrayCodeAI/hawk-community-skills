@@ -1,3 +1,10 @@
+---
+name: cpa-stream-analytics
+description: "Skill: cpa-stream-analytics"
+license: MIT
+tags: [general]
+---
+
 # az stream-analytics
 
 ```bash

@@ -1,7 +1,10 @@
 ---
-description: Applies general TypeScript code style and structure guidelines to all TypeScript files in the project.
-globs: **/*.ts
+name: mdc-general-typescript-code-style
+description: "Applies general TypeScript code style and structure guidelines to all TypeScript files in the project."
+license: MIT
+tags: [typescript]
 ---
+
 - Write concise, technical TypeScript code with accurate examples
 - Use functional and declarative programming patterns; avoid classes
 - Prefer iteration and modularization over code duplication

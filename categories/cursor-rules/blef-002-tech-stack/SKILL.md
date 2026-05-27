@@ -1,7 +1,9 @@
 ---
-description: Standardize core libraries and frameworks when adding or updating dependencies
-globs: 
-alwaysApply: true
+name: blef-002-tech-stack
+description: "Standardize core libraries and frameworks when adding or updating dependencies"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # Tech Stack

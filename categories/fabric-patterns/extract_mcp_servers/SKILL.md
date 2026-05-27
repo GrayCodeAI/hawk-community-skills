@@ -1,9 +1,10 @@
 ---
 name: extract_mcp_servers
-description: Fabric pattern - extract_mcp_servers
-domain: general
+description: "Fabric pattern - extract_mcp_servers"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

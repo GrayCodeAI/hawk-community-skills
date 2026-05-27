@@ -1,3 +1,10 @@
+---
+name: gpt-recommendedtools
+description: "Skill: gpt-recommendedtools"
+license: MIT
+tags: [general]
+---
+
 # Prompt to media:
 ## Ai images:
 

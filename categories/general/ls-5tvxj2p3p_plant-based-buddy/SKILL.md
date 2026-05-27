@@ -1,3 +1,10 @@
+---
+name: ls-5tvxj2p3p_plant-based-buddy
+description: "Skill: ls-5tvxj2p3p_plant-based-buddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5tVXJ2p3p-plant-based-buddy
 
 GPT Title: Plant Based Buddy

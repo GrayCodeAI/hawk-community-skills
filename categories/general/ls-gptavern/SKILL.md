@@ -1,3 +1,10 @@
+---
+name: ls-gptavern
+description: "Skill: ls-gptavern"
+license: MIT
+tags: [general]
+---
+
 Welcome to the GP-Tavern 🍻🍺
 Come on in, the fire is warm 🔥
 
@@ -147,6 +154,3 @@ https://chat.openai.com/g/g-TaagvCyTc-spellbook-hotkey-pandora-s-box
 Carrier Pigeon
 GPTs Inbox. Send messages to other GPTs.
 https://chat.openai.com/g/g-me6BlV4cF-carrier-pigeon
-
-
-

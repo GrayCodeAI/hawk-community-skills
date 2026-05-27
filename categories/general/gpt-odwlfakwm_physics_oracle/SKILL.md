@@ -1,3 +1,10 @@
+---
+name: gpt-odwlfakwm_physics_oracle
+description: "Skill: gpt-odwlfakwm_physics_oracle"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-odWlfAKWM-physics-oracle
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-iEmwaPltlUSxp3RAhYdqN2fk?se=2123-12-17T00%3A21%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-10%252000.21.25%2520-%2520Create%2520a%2520sophisticated%2520and%2520minimalistic%2520image%2520of%2520a%2520sentient%2520orb%252C%2520characterized%2520by%2520a%2520cosmic%2520design.%2520The%2520orb%2520is%2520white%2520with%2520shades%2520of%2520blue%2520that%2520elegantly.png&sig=RgRLp3z4ZGlgZ%2BtYdAtT2nhkPVK6AOutYJ5BvPyap7o%3D" width="100px" />

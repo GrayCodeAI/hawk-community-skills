@@ -1,3 +1,10 @@
+---
+name: gpt-8gbprr46y_facts_about_evething__daily_dose_of_know
+description: "Skill: gpt-8gbprr46y_facts_about_evething__daily_dose_of_know"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8Gbprr46y-facts-about-evething-daily-dose-of-knowledge
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WjHrODbjFmJ81clrYPSSSp9A?se=2123-11-11T21%3A24%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D39f355e3-ec4b-427e-8380-5dcf97478cf8.png&sig=qXeqc/uIVnGuyWlb8PKtqZpa5YSfc5/vnEMzoGBJXVs%3D" width="100px" />

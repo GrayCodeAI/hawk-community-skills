@@ -1,8 +1,10 @@
 ---
-name: logo-dev-automation
+name: composio-logo-dev-automation
 description: "Automate Logo Dev tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Logo Dev Automation via Rube MCP

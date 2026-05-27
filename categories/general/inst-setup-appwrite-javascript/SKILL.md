@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing JavaScript apps with Appwrite
-globs: src/**/*.js, src/**/*.jsx
+name: inst-setup-appwrite-javascript
+description: "Guidelines for writing JavaScript apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + JavaScript Integration Setup Guide
@@ -261,4 +263,4 @@ export const handleError = (error, customMessage = 'Operation failed') => {
   }
   
   throw new AppwriteError(customMessage, error);
-}; 
+};

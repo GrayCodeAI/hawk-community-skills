@@ -1,9 +1,10 @@
 ---
 name: cr-momen-cursurrules-prompt-file
-description: Cursor rules for momen-cursurrules-prompt-file
-domain: engineering
+description: "Cursor rules for momen-cursurrules-prompt-file"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -375,4 +376,3 @@ return (
   </Elements>
 );
 ```
-

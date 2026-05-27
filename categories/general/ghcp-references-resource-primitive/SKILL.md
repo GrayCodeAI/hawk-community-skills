@@ -1,3 +1,10 @@
+---
+name: ghcp-references-resource-primitive
+description: "Skill: ghcp-references-resource-primitive"
+license: MIT
+tags: [general]
+---
+
 # Resources
 
 Resources are server-exposed "things" identified by a URI. Hosts list them so the user can pick which ones to attach to the conversation; tools and prompts can also reference them via `EmbeddedResourceBlock`. Think files, database rows, API objects, settings — anything addressable.

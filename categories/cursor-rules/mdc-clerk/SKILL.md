@@ -1,7 +1,10 @@
 ---
-description: This guide establishes definitive best practices for integrating Clerk, focusing on robust security, efficient session management, and secure token handling in line with modern OAuth 2.0 (RFC 9700) and JWT (RFC 8725) standards.
-globs: **/*
+name: mdc-clerk
+description: "This guide establishes definitive best practices for integrating Clerk, focusing on robust security, efficient session management, and secure token handling in line with modern OAuth 2.0 (RFC 9700)..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Clerk Best Practices
 
 Integrating Clerk requires a security-first mindset. Authentication is a primary attack surface; therefore, all Clerk integrations MUST adhere to the strictest security standards. This guide provides actionable, opinionated best practices to ensure your application's identity layer is robust and future-proof.

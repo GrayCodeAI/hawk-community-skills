@@ -1,8 +1,10 @@
 ---
-name: beaconchain-automation
+name: composio-beaconchain-automation
 description: "Automate Beaconchain tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Beaconchain Automation via Rube MCP

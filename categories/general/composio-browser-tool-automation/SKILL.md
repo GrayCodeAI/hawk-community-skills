@@ -1,8 +1,10 @@
 ---
-name: browser-tool-automation
+name: composio-browser-tool-automation
 description: "Automate Browser Tool tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Browser Tool Automation via Rube MCP

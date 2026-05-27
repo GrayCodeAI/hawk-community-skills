@@ -1,3 +1,10 @@
+---
+name: ls-agent_functions
+description: "Skill: ls-agent_functions"
+license: MIT
+tags: [general]
+---
+
 ```json lines
 
 {"description": "Restart (or start) a workflow.", "name": "restart_workflow", "parameters": {"properties": {"name": {"description": "The name of the workflow.", "type": "string"}}, "required": ["name"], "type": "object"}}

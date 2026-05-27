@@ -1,3 +1,10 @@
+---
+name: gpt-hz8pw1quf_screenshot-to-code-gpt
+description: "Skill: gpt-hz8pw1quf_screenshot-to-code-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hz8Pw1quF-screenshot-to-code-gpt
 
 GPT Title: Screenshot To Code GPT

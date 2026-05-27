@@ -1,20 +1,14 @@
 ---
-name: flutter-bloc-state-management
-description: Implement BLoC/Cubit state management correctly in Flutter. Use when writing, modifying, reviewing, or testing any BLoC, Cubit, state, or event file.
-metadata:
-  triggers:
-    files:
-    - '**_bloc.dart'
-    - '**_cubit.dart'
-    - '**_state.dart'
-    - '**_event.dart'
-    keywords:
-    - BlocProvider
-    - BlocBuilder
-    - BlocListener
-    - Cubit
-    - Emitter
+name: std-flutter-bloc-state-management
+description: "Implement BLoC/Cubit state management correctly in Flutter. Use when writing, modifying, reviewing, or testing any BLoC, Cubit, state, or event file."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # BLoC State Management
 
 ## **Priority: P0 (CRITICAL)**

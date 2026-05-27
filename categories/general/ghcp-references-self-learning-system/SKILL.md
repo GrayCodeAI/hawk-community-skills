@@ -1,3 +1,10 @@
+---
+name: ghcp-references-self-learning-system
+description: "Skill: ghcp-references-self-learning-system"
+license: MIT
+tags: [general]
+---
+
 # Self-Learning System
 
 Maintain project learning artifacts under a designated lessons/memories directory (e.g., `.github/SecurityLessons` and `.github/SecurityMemories`).

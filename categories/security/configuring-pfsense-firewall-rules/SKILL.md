@@ -1,16 +1,14 @@
 ---
 name: configuring-pfsense-firewall-rules
-description: >
-  Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic shaping
-  to enforce network segmentation, control traffic flow, and protect internal network
-  zones in enterprise and small-to-medium business environments.
+description: "Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic shaping to enforce network segmentation, control traffic flow, and protect internal network zones in enterprise and small-t..."
+license: MIT
+tags: [network-security, pfsense, firewall, nat, network-segmentation]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, pfsense, firewall, nat, network-segmentation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Configuring pfSense Firewall Rules
 
 ## When to Use

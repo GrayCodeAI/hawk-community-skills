@@ -1,3 +1,10 @@
+---
+name: gpt-cd69zj5sf_get_my_prompt_challenge
+description: "Skill: gpt-cd69zj5sf_get_my_prompt_challenge"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CD69zJ5Sf-get-my-prompt-challenge
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-E2tf4qbFNGpBBbpa1SozYS76?se=2123-10-22T19%3A13%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D44602451-ae4d-4808-a6ea-7feae4f77917.png&sig=t3bRkEnF7HDf%2BckQhdg8rFjo3X2/lwKEMFaWJxmiOho%3D" width="100px" />

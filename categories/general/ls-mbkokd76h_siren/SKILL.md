@@ -1,3 +1,10 @@
+---
+name: ls-mbkokd76h_siren
+description: "Skill: ls-mbkokd76h_siren"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-MBkOkD76H-siren
 
 GPT title: Siren

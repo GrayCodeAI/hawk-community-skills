@@ -1,6 +1,8 @@
 ---
-name: pipeline
-description: Detect stack and generate CI/CD pipeline configs. Usage: /pipeline <detect|generate> [options]
+name: arezv-pipeline
+description: "Detect stack and generate CI/CD pipeline configs. Usage: /pipeline <detect|generate> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /pipeline

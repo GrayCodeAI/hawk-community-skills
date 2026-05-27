@@ -1,8 +1,10 @@
 ---
-name: geokeo-automation
+name: composio-geokeo-automation
 description: "Automate Geokeo tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Geokeo Automation via Rube MCP

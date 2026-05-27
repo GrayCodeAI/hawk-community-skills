@@ -1,7 +1,9 @@
 ---
-name: mobile-developer
-description: React Native and Flutter cross-platform specialist with native bridge patterns
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-mobile-developer
+description: "React Native and Flutter cross-platform specialist with native bridge patterns"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

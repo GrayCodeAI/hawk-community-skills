@@ -1,9 +1,11 @@
 ---
-name: shopify-checkout-customization
+name: ecom-shopify-checkout-customization
 description: "Checkout optimization — Checkout Extensibility, custom fields, express payments, trust elements"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Checkout Customization

@@ -1,6 +1,8 @@
 ---
-description: 'TypeScript patterns for Azure Functions'
-applyTo: '**/*.ts, **/*.js, **/*.json'
+name: ghcp-instructions-azure-functions-typescript.ins
+description: "Skill: ghcp-instructions-azure-functions-typescript.ins"
+license: MIT
+tags: [general]
 ---
 
 ## Guidance for Code Generation

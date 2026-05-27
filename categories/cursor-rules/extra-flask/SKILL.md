@@ -1,7 +1,9 @@
 ---
-description: Flask 轻量级 Python Web 应用程序的约定和最佳实践。
-globs: **/*.py
-alwaysApply: false
+name: extra-flask
+description: "Flask 轻量级 Python Web 应用程序的约定和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Flask 规则

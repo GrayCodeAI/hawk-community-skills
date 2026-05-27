@@ -1,3 +1,10 @@
+---
+name: gpt-ksjevqzst_history_hive_usa
+description: "Skill: gpt-ksjevqzst_history_hive_usa"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ksJEVqzSt-history-hive-usa
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ls06repdSdsBU4CLWtQBFNzb?se=2124-01-16T03%3A16%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db40bcb55-c54b-4bc9-ba5b-4d767e332e6b.webp&sig=vs9XdS0yYEyfLhhyZjKVKoVmZWwF5RQsgw2zpeG4xFQ%3D" width="100px" />

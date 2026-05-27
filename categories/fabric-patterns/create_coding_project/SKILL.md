@@ -1,9 +1,10 @@
 ---
 name: create_coding_project
-description: Fabric pattern - create_coding_project
-domain: general
+description: "Fabric pattern - create_coding_project"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,16 +1,11 @@
 ---
 name: cursor-react-native
-description: Cursor IDE rules for react-native
-domain: engineering
+description: "Cursor IDE rules for react-native"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "React Native: mobile app development, navigation, native modules"
-globs: ["*.tsx", "*.ts", "*.jsx"]
-alwaysApply: true
 ---
 
 # React Native Cursor Rules

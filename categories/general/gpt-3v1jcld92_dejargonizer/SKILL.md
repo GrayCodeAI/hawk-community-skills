@@ -1,3 +1,10 @@
+---
+name: gpt-3v1jcld92_dejargonizer
+description: "Skill: gpt-3v1jcld92_dejargonizer"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-3V1JcLD92-dejargonizer
 
 GPT title: Dejargonizer

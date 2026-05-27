@@ -1,3 +1,10 @@
+---
+name: cpa-prototype
+description: "Skill: cpa-prototype"
+license: MIT
+tags: [general]
+---
+
 # az prototype
 
 ```bash

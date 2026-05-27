@@ -1,20 +1,14 @@
 ---
-name: flutter-localization
-description: Add multi-language support using easy_localization with CSV or JSON assets. Use when implementing localization or translations in Flutter.
-metadata:
-  triggers:
-    files:
-    - '**/assets/translations/*.json'
-    - '**/assets/langs/*.csv'
-    - 'main.dart'
-    keywords:
-    - localization
-    - multi-language
-    - translation
-    - tr()
-    - easy_localization
-    - sheet_loader
+name: std-flutter-localization
+description: "Add multi-language support using easy_localization with CSV or JSON assets. Use when implementing localization or translations in Flutter."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Localization
 
 ## **Priority: P1 (STANDARD)**

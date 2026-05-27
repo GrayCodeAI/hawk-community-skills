@@ -1,17 +1,8 @@
 ---
-name: pytest-skill
-description: >
-  Generates production-grade pytest tests in Python with fixtures, parametrize,
-  markers, mocking, and conftest patterns. Use when user mentions "pytest",
-  "conftest", "@pytest.fixture", "@pytest.mark", "Python test". Triggers on:
-  "pytest", "conftest", "Python test", "parametrize", "Python unit test".
-languages:
-  - Python
-category: unit-testing
+name: lt-pytest-skill
+description: "Skill: lt-pytest-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [python]
 ---
 
 # Pytest Testing Skill

@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for Unity C# development, focusing on code organization, performance, and common pitfalls to ensure a clean, maintainable, and performant codebase.
-globs: **/*
+name: mdc-unity
+description: "This guide provides opinionated, actionable best practices for Unity C# development, focusing on code organization, performance, and common pitfalls to ensure a clean, maintainable, and performant ..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # unity Best Practices
 
 This document outlines our definitive guidelines for Unity C# development. Adhere to these rules to maintain a high-quality, performant, and collaborative codebase.

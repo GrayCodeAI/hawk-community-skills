@@ -1,16 +1,11 @@
 ---
 name: cursor-remix
-description: Cursor IDE rules for remix
-domain: engineering
+description: "Cursor IDE rules for remix"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Remix: loaders, actions, progressive enhancement"
-globs: ["*.tsx", "*.ts"]
-alwaysApply: true
 ---
 
 # Remix Cursor Rules

@@ -1,12 +1,12 @@
 ---
 name: detecting-credential-dumping-with-edr
-description: Detect OS credential dumping techniques including LSASS access, SAM extraction, and DCSync using EDR telemetry and Sysmon logs.
+description: "Detect OS credential dumping techniques including LSASS access, SAM extraction, and DCSync using EDR telemetry and Sysmon logs."
+license: MIT
+tags: [threat-hunting, mitre-attack, credential-dumping, edr, lsass, t1003, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, credential-dumping, edr, lsass, t1003, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Credential Dumping with EDR

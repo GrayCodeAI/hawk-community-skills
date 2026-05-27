@@ -1,3 +1,10 @@
+---
+name: cpa-hdinsight
+description: "Skill: cpa-hdinsight"
+license: MIT
+tags: [general]
+---
+
 # az hdinsight
 
 ```bash

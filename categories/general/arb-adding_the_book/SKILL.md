@@ -1,3 +1,10 @@
+---
+name: arb-adding_the_book
+description: "Skill: arb-adding_the_book"
+license: MIT
+tags: [general]
+---
+
 # Adding a Book
 
 Use lowercase kebab-case for the book directory name.

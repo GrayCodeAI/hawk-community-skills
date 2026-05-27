@@ -1,3 +1,10 @@
+---
+name: gpt-qvgpbqlox_product-gpt
+description: "Skill: gpt-qvgpbqlox_product-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-QvgPbQlOx-product-gpt
 
 GPT title: Product GPT

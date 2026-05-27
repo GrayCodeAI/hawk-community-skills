@@ -1,18 +1,14 @@
 ---
-name: android-legacy-security
-description: Harden Intent handling, WebView configuration, and FileProvider access in Android apps. Use when securing Intent extras, configuring WebViews, or exposing files via FileProvider.
-metadata:
-  triggers:
-    files:
-    - '**/*Activity.kt'
-    - '**/*WebView*.kt'
-    - 'AndroidManifest.xml'
-    keywords:
-    - Intent
-    - WebView
-    - FileProvider
-    - javaScriptEnabled
+name: std-android-legacy-security
+description: "Harden Intent handling, WebView configuration, and FileProvider access in Android apps. Use when securing Intent extras, configuring WebViews, or exposing files via FileProvider."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Legacy Security Standards
 
 ## **Priority: P0**

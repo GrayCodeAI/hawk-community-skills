@@ -1,8 +1,10 @@
 ---
-name: taxjar-automation
+name: composio-taxjar-automation
 description: "Automate Taxjar tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Taxjar Automation via Rube MCP

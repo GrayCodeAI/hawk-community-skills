@@ -1,13 +1,14 @@
 ---
 name: implementing-aes-encryption-for-data-at-rest
-description: AES (Advanced Encryption Standard) is a symmetric block cipher standardized by NIST (FIPS 197) used to protect classified and sensitive data. This skill covers implementing AES-256 encryption in GCM m
+description: "AES (Advanced Encryption Standard) is a symmetric block cipher standardized by NIST (FIPS 197) used to protect classified and sensitive data. This skill covers implementing AES-256 encryption in GCM m"
+license: MIT
+tags: [cryptography, encryption, aes, data-at-rest, symmetric-encryption]
 domain: cybersecurity
 subdomain: cryptography
-tags: [cryptography, encryption, aes, data-at-rest, symmetric-encryption]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing AES Encryption for Data at Rest
 
 ## Overview

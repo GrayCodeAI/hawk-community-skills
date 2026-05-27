@@ -1,3 +1,10 @@
+---
+name: cpa-load
+description: "Skill: cpa-load"
+license: MIT
+tags: [general]
+---
+
 # az load
 
 ```bash

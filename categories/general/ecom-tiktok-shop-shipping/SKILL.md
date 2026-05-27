@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-shipping
+name: ecom-tiktok-shop-shipping
 description: "TikTok Shop shipping setup — carrier selection, shipping templates, delivery expectations"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Shipping

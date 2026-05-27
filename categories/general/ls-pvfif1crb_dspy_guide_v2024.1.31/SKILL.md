@@ -1,3 +1,10 @@
+---
+name: ls-pvfif1crb_dspy_guide_v2024.1.31
+description: "Skill: ls-pvfif1crb_dspy_guide_v2024.1.31"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PVFIF1CRB-dspy-guide-v2024-1-31
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-W8inOxhi1dTDbBUeYQIAYHez?se=2124-01-02T21%3A39%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D11_November.png&sig=2pHtV5472ihUayQV9eISl1ecagW49Vwcp6uBPpKBxjM%3D" width="100px" />

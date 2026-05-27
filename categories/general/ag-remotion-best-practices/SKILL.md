@@ -1,10 +1,11 @@
 ---
-name: remotion-best-practices
+name: ag-remotion-best-practices
 description: "Best practices for Remotion - Video creation in React"
+license: MIT
+tags: [remotion, video, react, animation, composition]
 risk: safe
 source: community
-tags: "remotion, video, react, animation, composition"
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 ## When to Use

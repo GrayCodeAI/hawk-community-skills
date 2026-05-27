@@ -1,25 +1,14 @@
 ---
-name: kotlin-coroutines
-description: Write safe, structured concurrent code with Kotlin Coroutines. Use when writing suspend functions, choosing coroutine scopes, handling cancellation in loops, selecting between StateFlow and SharedFlow, debugging coroutine leaks, or asked why GlobalScope is dangerous.
-metadata:
-  triggers:
-    files:
-    - '**/*.kt'
-    keywords:
-    - suspend
-    - CoroutineScope
-    - launch
-    - async
-    - Flow
-    - StateFlow
-    - SharedFlow
-    - viewModelScope
-    - GlobalScope
-    - Dispatchers
-    - isActive
-    - yield
-    - runBlocking
+name: std-kotlin-coroutines
+description: "Write safe, structured concurrent code with Kotlin Coroutines. Use when writing suspend functions, choosing coroutine scopes, handling cancellation in loops, selecting between StateFlow and SharedF..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Kotlin Coroutines Expert
 
 ## **Priority: P0 (CRITICAL)**

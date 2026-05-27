@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building scalable and performant React applications using MobX, focusing on modern patterns and React Compiler compatibility.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-react-mobx
+description: "This guide provides opinionated, actionable best practices for building scalable and performant React applications using MobX, focusing on modern patterns and React Compiler compatibility."
+license: MIT
+tags: [react]
 ---
+
 # react-mobx Best Practices
 
 MobX, paired with React, offers a powerful and low-boilerplate approach to state management. By adhering to these guidelines, your team will build predictable, scalable applications ready for React 19 and the React Compiler.

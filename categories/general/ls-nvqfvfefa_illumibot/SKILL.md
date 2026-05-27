@@ -1,3 +1,10 @@
+---
+name: ls-nvqfvfefa_illumibot
+description: "Skill: ls-nvqfvfefa_illumibot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NvqFVFefa-illumibot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HztUboiWnyIlt6PTwJTQks8B?se=2123-10-15T23%3A41%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfaac0c19-e672-44f7-85e5-9644dc52aa33.png&sig=pFqUF8WEIwme9aE04iTiA0fmSh594i2lclIn44QW/bA%3D" width="100px" />

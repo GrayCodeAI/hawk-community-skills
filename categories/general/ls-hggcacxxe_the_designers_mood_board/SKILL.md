@@ -1,3 +1,10 @@
+---
+name: ls-hggcacxxe_the_designers_mood_board
+description: "Skill: ls-hggcacxxe_the_designers_mood_board"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HGgCAcXxe-the-designer-s-mood-board
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-AKSh8I2Hd3ICxoB5xN9Xzz1e?se=2123-12-18T08%3A35%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddesigners%2520moodboard%2520logo.jpg&sig=QejsS%2BeAn7Fu0fbEZNyIL7EMQty0bil0LrqG5jWwjus%3D" width="100px" />

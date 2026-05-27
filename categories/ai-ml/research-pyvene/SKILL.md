@@ -1,10 +1,10 @@
 ---
-name: pyvene-interventions
-description: Provides guidance for performing causal interventions on PyTorch models using pyvene's declarative intervention framework. Use when conducting causal tracing, activation patching, interchange intervention training, or testing causal hypotheses about model behavior.
+name: research-pyvene
+description: "Provides guidance for performing causal interventions on PyTorch models using pyvene's declarative intervention framework. Use when conducting causal tracing, activation patching, interchange inter..."
+license: MIT
+tags: [causal-intervention, pyvene, activation-patching, causal-tracing, interpretability]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Causal Intervention, pyvene, Activation Patching, Causal Tracing, Interpretability]
 dependencies: [pyvene>=0.1.8, torch>=2.0.0, transformers>=4.30.0]
 ---
 

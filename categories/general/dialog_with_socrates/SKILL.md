@@ -1,9 +1,10 @@
 ---
 name: dialog_with_socrates
-description: Fabric pattern - dialog_with_socrates
-domain: general
+description: "Fabric pattern - dialog_with_socrates"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

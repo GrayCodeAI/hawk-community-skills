@@ -1,3 +1,10 @@
+---
+name: cpa-managedcleanroom
+description: "Skill: cpa-managedcleanroom"
+license: MIT
+tags: [general]
+---
+
 # az managedcleanroom
 
 ```bash

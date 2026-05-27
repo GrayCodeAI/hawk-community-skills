@@ -1,9 +1,8 @@
 ---
-name: "generate"
-description: >-
-  Generate Playwright tests. Use when user says "write tests", "generate tests",
-  "add tests for", "test this component", "e2e test", "create test for",
-  "test this page", or "test this feature".
+name: arezv-generate
+description: "Skill: arezv-generate"
+license: MIT
+tags: [general]
 ---
 
 # Generate Playwright Tests

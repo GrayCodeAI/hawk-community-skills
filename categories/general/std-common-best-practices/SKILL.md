@@ -1,27 +1,14 @@
 ---
-name: common-best-practices
-description: Enforce SOLID principles, guard-clause style, function size limits, and intention-revealing naming across all languages. Use when refactoring for readability, applying clean-code patterns, reviewing naming conventions, or reducing function complexity.
-metadata:
-  triggers:
-    files:
-    - '**/*.ts'
-    - '**/*.tsx'
-    - '**/*.go'
-    - '**/*.dart'
-    - '**/*.java'
-    - '**/*.kt'
-    - '**/*.swift'
-    - '**/*.py'
-    keywords:
-    - solid
-    - kiss
-    - dry
-    - yagni
-    - naming
-    - conventions
-    - refactor
-    - clean code
+name: std-common-best-practices
+description: "Enforce SOLID principles, guard-clause style, function size limits, and intention-revealing naming across all languages. Use when refactoring for readability, applying clean-code patterns, reviewin..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Global Best Practices
 
 ## **Priority: P0 (FOUNDATIONAL)**

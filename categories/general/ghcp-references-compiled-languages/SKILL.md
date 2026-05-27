@@ -1,3 +1,10 @@
+---
+name: ghcp-references-compiled-languages
+description: "Skill: ghcp-references-compiled-languages"
+license: MIT
+tags: [general]
+---
+
 # CodeQL Build Modes for Compiled Languages
 
 Detailed reference for how CodeQL handles compiled language analysis, including build modes, autobuild behavior, runner requirements, and hardware specifications.

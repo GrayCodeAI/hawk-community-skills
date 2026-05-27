@@ -1,3 +1,10 @@
+---
+name: tl-terraform
+description: "Skill: tl-terraform"
+license: MIT
+tags: [devops]
+---
+
 # Terraform Troubleshooting & Best Practices
 
 Common issues, security considerations, and best practices.

@@ -1,6 +1,8 @@
 ---
-description: '.NET MAUI component and application patterns'
-applyTo: '**/*.xaml, **/*.cs'
+name: ghcp-instructions-dotnet-maui.instructions
+description: "Skill: ghcp-instructions-dotnet-maui.instructions"
+license: MIT
+tags: [general]
 ---
 
 # .NET MAUI

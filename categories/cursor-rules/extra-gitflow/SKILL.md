@@ -1,7 +1,9 @@
 ---
-description: Gitflow 工作流规则
-globs:
-alwaysApply: false
+name: extra-gitflow
+description: "Gitflow 工作流规则"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Gitflow 工作流规则

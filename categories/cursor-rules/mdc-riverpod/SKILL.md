@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Riverpod in Flutter projects, focusing on modern, opinionated best practices for state management, code organization, performance, and testing.
-globs: **/*
+name: mdc-riverpod
+description: "Definitive guidelines for using Riverpod in Flutter projects, focusing on modern, opinionated best practices for state management, code organization, performance, and testing."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # riverpod Best Practices
 
 Riverpod is the definitive state management solution for modern Flutter applications. It provides compile-time safety, unparalleled testability, and a declarative API. This guide outlines our team's mandatory best practices for leveraging Riverpod effectively.

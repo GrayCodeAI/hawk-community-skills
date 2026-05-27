@@ -1,8 +1,10 @@
 ---
-name: onesignal-user-auth-automation
+name: composio-onesignal-user-auth-automation
 description: "Automate Onesignal User Auth tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Onesignal User Auth Automation via Rube MCP

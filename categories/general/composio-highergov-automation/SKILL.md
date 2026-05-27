@@ -1,8 +1,10 @@
 ---
-name: highergov-automation
+name: composio-highergov-automation
 description: "Automate Highergov tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Highergov Automation via Rube MCP

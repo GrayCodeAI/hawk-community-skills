@@ -1,5 +1,9 @@
 ---
-description: Specifies the use of a consistent theming system with Styled Components.
-globs: src/styles/theme.js
+name: mdc-styled-components---theming
+description: 'Skill: mdc-styled-components---theming'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Implement a consistent theming system.

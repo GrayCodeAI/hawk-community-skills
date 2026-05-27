@@ -1,3 +1,10 @@
+---
+name: ls-iq5q4dvag_kabbalah
+description: "Skill: ls-iq5q4dvag_kabbalah"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Iq5q4Dvag-kabbalah
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ttJmjuDAn7trIDx4L82x7w2S?se=2123-10-18T22%3A59%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D22.11.21%2520%25D7%259C%25D7%2595%25D7%2592%25D7%2595%2520%25D7%25A6%25D7%2591%25D7%25A2%25D7%2595%25D7%25A0%25D7%2599%25201.jpg&sig=JOD86BtIncNBiv0XCdflJEroaoudq2QMQPXibmmqj%2Bs%3D" width="100px" />

@@ -1,22 +1,14 @@
 ---
-name: common-session-retrospective
-description: Analyze conversation corrections to detect skill gaps and auto-improve the skills library. Use after any session with user corrections, rework, or retrospective requests. After finding correction loops, also load +common/common-learning-log to persist mistake entries to AGENTS_LEARNING.md.
-metadata:
-  triggers:
-    files:
-    - '**/*.spec.ts'
-    - '**/*.test.ts'
-    - 'SKILL.md'
-    - 'AGENTS.md'
-    - '+common/common-learning-log'
-    keywords:
-    - retrospective
-    - self-learning
-    - improve skills
-    - session review
-    - correction
-    - rework
+name: std-common-session-retrospective
+description: "Analyze conversation corrections to detect skill gaps and auto-improve the skills library. Use after any session with user corrections, rework, or retrospective requests. After finding correction l..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Session Retrospective
 
 ## **Priority: P1 (OPERATIONAL)**

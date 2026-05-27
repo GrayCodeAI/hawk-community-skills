@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals
+description: "Skill: ghcp-references-fundamentals"
+license: MIT
+tags: [general]
+---
+
 # Fundamentals
 
 Application-specific tests for AI systems. Code first, LLM for nuance, human for truth.

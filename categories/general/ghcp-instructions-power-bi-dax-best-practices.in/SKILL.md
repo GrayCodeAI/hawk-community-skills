@@ -1,6 +1,8 @@
 ---
-description: 'Comprehensive Power BI DAX best practices and patterns based on Microsoft guidance for creating efficient, maintainable, and performant DAX formulas.'
-applyTo: '**/*.{pbix,dax,md,txt}'
+name: ghcp-instructions-power-bi-dax-best-practices.in
+description: "Skill: ghcp-instructions-power-bi-dax-best-practices.in"
+license: MIT
+tags: [general]
 ---
 
 # Power BI DAX Best Practices

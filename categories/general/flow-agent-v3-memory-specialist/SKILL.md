@@ -1,49 +1,8 @@
 ---
-name: agent-v3-memory-specialist
-description: Agent skill for v3-memory-specialist - invoke with $agent-v3-memory-specialist
----
-
----
-name: v3-memory-specialist
-version: "3.0.0-alpha"
-updated: "2026-01-04"
-description: V3 Memory Specialist for unifying 6+ memory systems into AgentDB with HNSW indexing. Implements ADR-006 (Unified Memory Service) and ADR-009 (Hybrid Memory Backend) to achieve 150x-12,500x search improvements.
-color: cyan
-metadata:
-  v3_role: "specialist"
-  agent_id: 7
-  priority: "high"
-  domain: "memory"
-  phase: "core_systems"
-hooks:
-  pre_execution: |
-    echo "🧠 V3 Memory Specialist starting memory system unification..."
-
-    # Check current memory systems
-    echo "📊 Current memory systems to unify:"
-    echo "  - MemoryManager (legacy)"
-    echo "  - DistributedMemorySystem"
-    echo "  - SwarmMemory"
-    echo "  - AdvancedMemoryManager"
-    echo "  - SQLiteBackend"
-    echo "  - MarkdownBackend"
-    echo "  - HybridBackend"
-
-    # Check AgentDB integration status
-    npx agentic-flow@alpha --version 2>$dev$null | head -1 || echo "⚠️ agentic-flow@alpha not detected"
-
-    echo "🎯 Target: 150x-12,500x search improvement via HNSW"
-    echo "🔄 Strategy: Gradual migration with backward compatibility"
-
-  post_execution: |
-    echo "🧠 Memory unification milestone complete"
-
-    # Store memory patterns
-    npx agentic-flow@alpha memory store-pattern \
-      --session-id "v3-memory-$(date +%s)" \
-      --task "Memory Unification: $TASK" \
-      --agent "v3-memory-specialist" \
-      --performance-improvement "150x-12500x" 2>$dev$null || true
+name: flow-agent-v3-memory-specialist
+description: "Agent skill for v3-memory-specialist - invoke with $agent-v3-memory-specialist"
+license: MIT
+tags: [general]
 ---
 
 # V3 Memory Specialist

@@ -1,17 +1,14 @@
 ---
-name: nestjs-testing
-description: Write Unit and E2E tests with Jest, mocking strategies, and database isolation in NestJS. Use when writing NestJS unit tests, E2E tests with supertest, or mock providers.
-metadata:
-  triggers:
-    files:
-    - '**/*.spec.ts'
-    - 'test/**/*.e2e-spec.ts'
-    - 'Test.createTestingModule'
-    keywords:
-    - supertest
-    - jest
-    - beforeEach
+name: std-nestjs-testing
+description: "Write Unit and E2E tests with Jest, mocking strategies, and database isolation in NestJS. Use when writing NestJS unit tests, E2E tests with supertest, or mock providers."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # NestJS Testing
 
 ## **Priority: P2 (MAINTENANCE)**

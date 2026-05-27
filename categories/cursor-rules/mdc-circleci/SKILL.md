@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for writing maintainable, secure, and performant CircleCI configurations and orbs.
-globs: **/*
+name: mdc-circleci
+description: "This guide provides opinionated, actionable best practices for writing maintainable, secure, and performant CircleCI configurations and orbs."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # circleci Best Practices
 
 CircleCI is the backbone of our CI/CD. Adhere to these guidelines to ensure our pipelines are efficient, secure, and maintainable.

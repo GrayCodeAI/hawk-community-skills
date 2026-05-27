@@ -1,16 +1,14 @@
 ---
 name: analyzing-network-traffic-with-wireshark
-description: >
-  Captures and analyzes network packet data using Wireshark and tshark to identify
-  malicious traffic patterns, diagnose protocol issues, extract artifacts, and
-  support incident response investigations on authorized network segments.
+description: "Captures and analyzes network packet data using Wireshark and tshark to identify malicious traffic patterns, diagnose protocol issues, extract artifacts, and support incident response investigation..."
+license: MIT
+tags: [network-security, wireshark, packet-analysis, traffic-analysis, pcap]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, wireshark, packet-analysis, traffic-analysis, pcap]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Analyzing Network Traffic with Wireshark
 
 ## When to Use

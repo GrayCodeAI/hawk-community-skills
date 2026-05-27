@@ -1,3 +1,10 @@
+---
+name: gpt-c7wi7wlom_negative-nancy
+description: "Skill: gpt-c7wi7wlom_negative-nancy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-c7Wi7WLOM-negative-nancy
 
 GPT Title: Negative Nancy

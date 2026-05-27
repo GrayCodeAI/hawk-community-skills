@@ -1,3 +1,10 @@
+---
+name: gpt-y73lon4l3_leave-your-tax-returns_and_medical-deduc
+description: "Skill: gpt-y73lon4l3_leave-your-tax-returns_and_medical-deduc"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Y73Lon4L3-que-ding-shen-gao-yi-liao-fei-kong-chu-haren-sensiyai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nXuwS8KFNlMQW47Qi3sNSV0T?se=2124-01-18T14%3A35%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dimg.png&sig=T6PDnAuQL8sKfgqOZk8NltuR%2BsGMzqHdOr6wqXab%2BhE%3D" width="100px" />

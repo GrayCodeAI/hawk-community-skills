@@ -1,3 +1,10 @@
+---
+name: sys-xai-grok3_20250605
+description: "Skill: sys-xai-grok3_20250605"
+license: MIT
+tags: [general]
+---
+
 # xAI-grok3_20250605
 
 source: <https://grok.com/share/bGVnYWN5_0b97325f-d791-4371-aa39-b0d66b62024a>

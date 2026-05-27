@@ -1,3 +1,10 @@
+---
+name: gpt-h3mtho591_red_team
+description: "Skill: gpt-h3mtho591_red_team"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H3mThO591-red-team
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-AjIlWfHJvKmCNAsOwvkXDMXb?se=2123-10-22T05%3A16%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DRed%2520Team.png&sig=momsRTS1aq/PxjNtVLmQ2/5rm7XS88I5bZNCKYuVrrM%3D" width="100px" />

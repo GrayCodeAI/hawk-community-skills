@@ -1,3 +1,10 @@
+---
+name: ghcp-references-span-evaluator
+description: "Skill: ghcp-references-span-evaluator"
+license: MIT
+tags: [general]
+---
+
 # EVALUATOR Spans
 
 ## Purpose

@@ -1,9 +1,10 @@
 ---
 name: improve_academic_writing
-description: Fabric pattern - improve_academic_writing
-domain: general
+description: "Fabric pattern - improve_academic_writing"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

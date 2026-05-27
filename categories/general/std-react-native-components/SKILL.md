@@ -1,19 +1,14 @@
 ---
-name: react-native-components
-description: Build modern React Native components using function components and composition. Use when building or refactoring React Native function components and composable UI.
-metadata:
-  triggers:
-    files:
-    - '**/*.tsx'
-    - '**/*.jsx'
-    keywords:
-    - component
-    - props
-    - children
-    - composition
-    - presentational
-    - container
+name: std-react-native-components
+description: "Build modern React Native components using function components and composition. Use when building or refactoring React Native function components and composable UI."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Components
 
 ## **Priority: P0 (CRITICAL)**

@@ -1,3 +1,10 @@
+---
+name: gpt-2sikcfdel_faq_generator_ai
+description: "Skill: gpt-2sikcfdel_faq_generator_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2SIKCFdeL-faq-generator-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-AJIZxvRatClfksWvLdvw0f6m?se=2123-10-27T22%3A40%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D51ab5c36-21a6-4229-99ce-17ea3dc66cfc.png&sig=TB0%2BXTlFE84CLfvi4Pxi4iDdghf30foV3107t9/UiZE%3D" width="100px" />

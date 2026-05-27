@@ -1,9 +1,10 @@
 ---
 name: cr-py-fast-api
-description: Cursor rules for py-fast-api
-domain: engineering
+description: "Cursor rules for py-fast-api"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -75,4 +76,3 @@ Key Conventions
    - Structure routes and dependencies clearly to optimize readability and maintainability.
 
 Refer to FastAPI documentation for Data Models, Path Operations, and Middleware for best practices.
-

@@ -1,9 +1,10 @@
 ---
 name: persona-language-learning-coach
-description: AI persona - language-learning-coach
-domain: general
+description: "AI persona - language-learning-coach"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

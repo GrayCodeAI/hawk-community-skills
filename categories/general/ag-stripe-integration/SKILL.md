@@ -1,9 +1,11 @@
 ---
-name: stripe-integration
+name: ag-stripe-integration
 description: "Master Stripe payment processing integration for robust, PCI-compliant payment flows including checkout, subscriptions, webhooks, and refunds."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Stripe Integration

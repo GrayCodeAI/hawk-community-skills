@@ -1,9 +1,10 @@
 ---
 name: extract_extraordinary_claims
-description: Fabric pattern - extract_extraordinary_claims
-domain: general
+description: "Fabric pattern - extract_extraordinary_claims"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-templates-architecture
+description: "Skill: ghcp-templates-architecture"
+license: MIT
+tags: [general]
+---
+
 # Architecture
 
 ## Core Sections (Required)

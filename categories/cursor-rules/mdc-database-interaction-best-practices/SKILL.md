@@ -1,7 +1,10 @@
 ---
-description: Best practices when interacting with databases in backend Go code.
-globs: */db/**/*.go
+name: mdc-database-interaction-best-practices
+description: "Best practices when interacting with databases in backend Go code."
+license: MIT
+tags: [cursor-rules]
 ---
+
 When interacting with databases:
 - Use prepared statements to prevent SQL injection.
 - Handle database errors gracefully.

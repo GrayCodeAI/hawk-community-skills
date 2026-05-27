@@ -1,3 +1,10 @@
+---
+name: ls-0gxnbgd2h_toronto-city-council
+description: "Skill: ls-0gxnbgd2h_toronto-city-council"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0GxNbgD2H-toronto-city-council-guide
 
 GPT Title: Toronto City Council Guide

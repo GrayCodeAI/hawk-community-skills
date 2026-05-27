@@ -1,3 +1,10 @@
+---
+name: gpt-ybyjsj6ss_magical_tales_reinvented_charles_perraul
+description: "Skill: gpt-ybyjsj6ss_magical_tales_reinvented_charles_perraul"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ybyjsj6Ss-magical-tales-reinvented-charles-perrault
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-OHJidiUaRSVFAVp8IyMJgpn1?se=2123-12-12T16%3A04%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFamous%2520Fairy%2520Tales%2520Retold%2520%2528Charles%2520Perrault%2529.png&sig=M/BMZUunpjWdrKgvrILnHl%2BpXZASotgf9D/IucmEhFw%3D" width="100px" />

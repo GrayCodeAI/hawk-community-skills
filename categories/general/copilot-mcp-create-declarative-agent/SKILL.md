@@ -1,15 +1,9 @@
 ---
-name: mcp-create-declarative-agent
-description: 'Skill converted from mcp-create-declarative-agent.prompt.md'
----
-
-````prompt
----
-mode: 'agent'
-tools: ['changes', 'search/codebase', 'edit/editFiles', 'problems']
-description: 'Create a declarative agent for Microsoft 365 Copilot by integrating an MCP server with authentication, tool selection, and configuration'
-model: 'gpt-4.1'
-tags: [mcp, m365-copilot, declarative-agent, model-context-protocol, api-plugin]
+name: copilot-mcp-create-declarative-agent
+description: Skill converted from mcp-create-declarative-agent.prompt.md
+license: MIT
+tags:
+- general
 ---
 
 # Create MCP-based Declarative Agent for Microsoft 365 Copilot

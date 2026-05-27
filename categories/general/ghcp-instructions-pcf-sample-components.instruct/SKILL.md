@@ -1,6 +1,8 @@
 ---
-description: 'How to use and run PCF sample components from the PowerApps-Samples repository'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj}'
+name: ghcp-instructions-pcf-sample-components.instruct
+description: "Skill: ghcp-instructions-pcf-sample-components.instruct"
+license: MIT
+tags: [general]
 ---
 
 # How to Use the Sample Components

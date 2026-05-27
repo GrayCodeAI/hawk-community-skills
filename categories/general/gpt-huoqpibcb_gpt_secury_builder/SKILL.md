@@ -1,3 +1,10 @@
+---
+name: gpt-huoqpibcb_gpt_secury_builder
+description: "Skill: gpt-huoqpibcb_gpt_secury_builder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HUoQpIbCb-gpt-secury-builder
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-yXsZAkQWwcUEJBuslLEZTMoY?se=2124-01-21T17%3A28%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_2595.webp&sig=OroLCiPv/T6at7z1yViJCXM1Va10sch15jidEeH%2BnUk%3D" width="100px" />

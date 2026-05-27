@@ -1,3 +1,10 @@
+---
+name: ghcp-references-metadata-python
+description: "Skill: ghcp-references-metadata-python"
+license: MIT
+tags: [general]
+---
+
 # Phoenix Tracing: Custom Metadata (Python)
 
 Add custom attributes to spans for richer observability.

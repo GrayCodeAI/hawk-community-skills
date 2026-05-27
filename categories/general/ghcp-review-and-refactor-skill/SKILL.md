@@ -1,6 +1,8 @@
 ---
-name: review-and-refactor
-description: 'Review and refactor code in your project according to defined instructions'
+name: ghcp-review-and-refactor-skill
+description: "Review and refactor code in your project according to defined instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Role

@@ -1,3 +1,10 @@
+---
+name: cpa-arcappliance
+description: "Skill: cpa-arcappliance"
+license: MIT
+tags: [general]
+---
+
 # az arcappliance
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-zctqci6mg_photo_multiverse
+description: "Skill: ls-zctqci6mg_photo_multiverse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gT39Cd6TylxqOTQZaFSRY4oP?se=2123-12-30T01%3A23%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D63e266a6-3c34-4db2-a563-724dfc46d09d.png&sig=wjyrzBu6J1sumJBTD6pyBmFOwogoHJ46hB17Kmor/QA%3D" width="100px" />

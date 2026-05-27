@@ -1,20 +1,9 @@
 ---
-name: "skill-tester"
-description: "Skill Tester"
----
-
-# Skill Tester
-
----
-
-**Name**: skill-tester
-**Tier**: POWERFUL
-**Category**: Engineering Quality Assurance
-**Dependencies**: None (Python Standard Library Only)
-**Author**: Claude Skills Engineering Team
-**Version**: 1.0.0
-**Last Updated**: 2026-02-16
-
+name: arezv-skill-tester
+description: Skill Tester
+license: MIT
+tags:
+- general
 ---
 
 ## Description

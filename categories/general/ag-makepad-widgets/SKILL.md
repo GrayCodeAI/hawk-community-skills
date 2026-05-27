@@ -1,6 +1,8 @@
 ---
-name: makepad-widgets
+name: ag-makepad-widgets
 description: "Version: makepad-widgets (dev branch) | Last Updated: 2026-01-19 > > Check for updates: https://crates.io/crates/makepad-widgets"
+license: MIT
+tags: [general]
 risk: safe
 source: community
 ---

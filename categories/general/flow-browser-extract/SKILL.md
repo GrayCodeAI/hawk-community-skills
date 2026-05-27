@@ -1,7 +1,9 @@
 ---
-name: browser-extract
-description: Extract structured data via stored browser-templates or one-shot DOM queries, with mandatory AIDefence PII + prompt-injection gates before content reaches the model
-argument-hint: "<url> [--template <name>] [--save-template <name>]"
+name: flow-browser-extract
+description: "Extract structured data via stored browser-templates or one-shot DOM queries, with mandatory AIDefence PII + prompt-injection gates before content reaches the model"
+license: MIT
+tags: [general]
+argument-hint: <url> [--template <name>] [--save-template <name>]
 allowed-tools: mcp__claude-flow__browser_open mcp__claude-flow__browser_close mcp__claude-flow__browser_get-text mcp__claude-flow__browser_get-value mcp__claude-flow__browser_eval mcp__claude-flow__browser_snapshot mcp__claude-flow__browser_screenshot mcp__claude-flow__browser_scroll mcp__claude-flow__browser_wait mcp__claude-flow__browser_click mcp__claude-flow__aidefence_has_pii mcp__claude-flow__aidefence_is_safe mcp__claude-flow__aidefence_scan Bash Read Write
 ---
 

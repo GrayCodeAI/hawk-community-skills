@@ -1,16 +1,14 @@
 ---
-name: angular-dependency-injection
-description: Configure DI, inject() usage, and providers in Angular. Use when configuring Angular dependency injection, using inject(), or defining providers.
-metadata:
-  triggers:
-    files:
-    - '**/*.service.ts'
-    keywords:
-    - angular inject
-    - providedIn
-    - injection token
-    - provideAppInitializer
+name: std-angular-dependency-injection
+description: "Configure DI, inject() usage, and providers in Angular. Use when configuring Angular dependency injection, using inject(), or defining providers."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Dependency Injection
 
 ## **Priority: P0 (CRITICAL)**

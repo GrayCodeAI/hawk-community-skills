@@ -1,3 +1,10 @@
+---
+name: gpt-summarize_transcript_chunk-2-1-133
+description: "Skill: gpt-summarize_transcript_chunk-2-1-133"
+license: MIT
+tags: [general]
+---
+
 Summarize this portion of a Claude Code session transcript. Focus on:
 1. What the user asked for
 2. What Claude did (tools used, files modified)

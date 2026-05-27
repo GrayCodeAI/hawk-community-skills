@@ -1,18 +1,8 @@
 ---
-name: vitest-skill
-description: >
-  Generates Vitest tests in JavaScript/TypeScript with Vite-native speed.
-  Jest-compatible API with ESM support and HMR. Use when user mentions "Vitest",
-  "vi.mock", "vitest.config". Triggers on: "Vitest", "vi.mock", "vi.fn",
-  "Vite test", "vitest config".
-languages:
-  - JavaScript
-  - TypeScript
-category: unit-testing
+name: lt-vitest-skill
+description: "Skill: lt-vitest-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Vitest Testing Skill

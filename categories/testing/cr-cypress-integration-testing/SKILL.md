@@ -1,9 +1,10 @@
 ---
 name: cr-cypress-integration-testing
-description: Cursor rules for cypress-integration-testing
-domain: engineering
+description: "Cursor rules for cypress-integration-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -212,4 +213,4 @@ describe('Shopping Cart Integration', () => {
     // Verify cart count is not updated
     cy.get('[data-testid="cart-count"]').should('contain', '0');
   });
-}); 
+});

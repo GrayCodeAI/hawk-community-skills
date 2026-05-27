@@ -1,9 +1,10 @@
 ---
-name: agent-coordination
-description: >
-  Agent spawning, lifecycle management, and coordination patterns. Manages 60+ agent types with specialized capabilities.
-  Use when: spawning agents, coordinating multi-agent tasks, managing agent pools.
-  Skip when: single-agent work, no coordination needed.
+name: flow-agent-coordination
+description: "Skill: flow-agent-coordination"
+license: MIT
+tags: [general]
+Use when: spawning agents, coordinating multi-agent tasks, managing agent pools.
+Skip when: single-agent work, no coordination needed.
 ---
 
 # Agent Coordination Skill

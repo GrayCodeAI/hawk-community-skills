@@ -1,7 +1,10 @@
 ---
-description: Describes the project file structure, including component grouping, pages, layouts, utility functions, and types. This encourages a well-organized and maintainable project structure.
-globs: **/src/**/*
+name: mdc-project-file-structure
+description: "Describes the project file structure, including component grouping, pages, layouts, utility functions, and types. This encourages a well-organized and maintainable project structure."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - File Structure
   - Group related components in subdirectories under src/lib/components/
   - Keep pages in src/routes/

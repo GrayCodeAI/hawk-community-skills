@@ -1,3 +1,10 @@
+---
+name: cpa-manager
+description: "Skill: cpa-manager"
+license: MIT
+tags: [general]
+---
+
 # az network manager
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: gpt-ndddtfzjo_gpt-shield[v.04]
+description: "Skill: gpt-ndddtfzjo_gpt-shield[v.04]"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NdDdtfZJo-gpt-shield
 
 GPT Title: GPT Shield

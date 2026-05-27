@@ -1,6 +1,8 @@
 ---
-name: test-skill
-description: Use when creating or editing skills, before deployment, to verify they work under pressure and resist rationalization - applies RED-GREEN-REFACTOR cycle to process documentation by running baseline without skill, writing to address failures, iterating to close loopholes
+name: neo-test-skill
+description: "Use when creating or editing skills, before deployment, to verify they work under pressure and resist rationalization - applies RED-GREEN-REFACTOR cycle to process documentation by running baseline..."
+license: MIT
+tags: [general]
 ---
 
 # Testing Skills With Subagents

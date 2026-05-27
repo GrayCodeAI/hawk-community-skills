@@ -1,6 +1,8 @@
 ---
-name: "cmo-review"
+name: arezv-cmo-review
 description: "/cs:cmo-review <plan> — Narrative-first interrogation of positioning, ICP, message house, and channel mix."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cmo-review — CMO Forcing Questions

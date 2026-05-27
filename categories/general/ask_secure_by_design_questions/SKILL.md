@@ -1,9 +1,10 @@
 ---
 name: ask_secure_by_design_questions
-description: Fabric pattern - ask_secure_by_design_questions
-domain: general
+description: "Fabric pattern - ask_secure_by_design_questions"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

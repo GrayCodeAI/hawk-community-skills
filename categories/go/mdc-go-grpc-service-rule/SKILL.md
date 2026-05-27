@@ -1,7 +1,10 @@
 ---
-description: Specific guidelines for implementing gRPC services in Go.
-globs: */grpc/**/*.go
+name: mdc-go-grpc-service-rule
+description: "Specific guidelines for implementing gRPC services in Go."
+license: MIT
+tags: [go]
 ---
+
 When working with gRPC services in Go:
 - Define your Protocol Buffer messages and service.
 - Generate Go code from the Proto file using `protoc`.

@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-automated-order-tagger
-role: order-intelligence
+name: shopify-shopify-admin-automated-order-tagger
 description: "Mutation: applies tags to orders based on configurable rules (geography, value, product type, risk level, customer tier)."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - orderUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'orderUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

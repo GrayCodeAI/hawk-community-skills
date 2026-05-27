@@ -1,5 +1,8 @@
 ---
-name: opencode
+name: agc-opencode
+description: "Skill: agc-opencode"
+license: MIT
+tags: [general]
 display_name: OpenCode
 aliases: [opencode, open-code]
 output_file: resources/outputs/opencode.md

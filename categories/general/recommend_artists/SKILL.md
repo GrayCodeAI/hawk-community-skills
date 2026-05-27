@@ -1,9 +1,10 @@
 ---
 name: recommend_artists
-description: Fabric pattern - recommend_artists
-domain: general
+description: "Fabric pattern - recommend_artists"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,9 +1,10 @@
 ---
-name: bpl-vocabulary
-description: System prompt - vocabulary
-domain: general
+name: bpl-txt-vocabulary
+description: "System prompt - vocabulary"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -25,4 +26,3 @@ author: TheBigPromptLibrary
 "Hey!", which is informal and might not be suitable for all contexts.
 "Listen up!", which could be perceived as commanding or abrupt.
 By steering clear of these and similar exclamatory openings, your messages will project a more refined and considerate tone, making them appropriate for a wider range of communication scenarios.
-

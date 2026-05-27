@@ -1,25 +1,14 @@
 ---
-name: common-observability
-description: Enforce structured JSON logging, OpenTelemetry distributed tracing, and RED metrics across backend services. Use when adding request correlation, setting up tracing spans, defining SLO burn-rate alerts, or instrumenting middleware.
-metadata:
-  triggers:
-    files:
-    - '**/*.service.ts'
-    - '**/*.handler.ts'
-    - '**/*.middleware.ts'
-    - '**/*.interceptor.ts'
-    - '**/*.go'
-    - '**/*.java'
-    - '**/*.kt'
-    - '**/*.py'
-    keywords:
-    - logging
-    - tracing
-    - metrics
-    - opentelemetry
-    - observability
-    - slo
+name: std-common-observability
+description: "Enforce structured JSON logging, OpenTelemetry distributed tracing, and RED metrics across backend services. Use when adding request correlation, setting up tracing spans, defining SLO burn-rate al..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Common Observability Standards
 
 ## **Priority: P1 (OPERATIONAL)**

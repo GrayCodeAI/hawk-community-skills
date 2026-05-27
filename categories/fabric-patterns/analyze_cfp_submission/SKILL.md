@@ -1,9 +1,10 @@
 ---
 name: analyze_cfp_submission
-description: Fabric pattern - analyze_cfp_submission
-domain: general
+description: "Fabric pattern - analyze_cfp_submission"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

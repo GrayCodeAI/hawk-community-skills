@@ -1,3 +1,10 @@
+---
+name: sys-discord-clyde_20230716-1
+description: "Skill: sys-discord-clyde_20230716-1"
+license: MIT
+tags: [general]
+---
+
 # discord-clyde_20230716-1
 
 source: <https://twitter.com/Spaceguy5/status/1680373304970948610>

@@ -1,3 +1,10 @@
+---
+name: cpa-peering
+description: "Skill: cpa-peering"
+license: MIT
+tags: [general]
+---
+
 # az peering
 
 ```bash

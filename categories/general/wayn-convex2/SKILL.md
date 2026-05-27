@@ -1,11 +1,9 @@
 ---
-description: 
-globs: 
-alwaysApply: true
----
----
-description: Guidelines and best practices for building Convex projects, including database schema design, queries, mutations, and real-world examples
-globs: **/*.ts,**/*.tsx,**/*.js,**/*.jsx
+name: wayn-convex2
+description: "Skill: wayn-convex2"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 # Convex guidelines
@@ -678,4 +676,3 @@ export default function App() {
   return <div>Hello World</div>;
 }
 ```
-

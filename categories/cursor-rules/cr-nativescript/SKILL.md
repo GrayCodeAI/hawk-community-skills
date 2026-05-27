@@ -1,9 +1,10 @@
 ---
 name: cr-nativescript
-description: Cursor rules for nativescript
-domain: engineering
+description: "Cursor rules for nativescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

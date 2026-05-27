@@ -1,3 +1,10 @@
+---
+name: sys-codeium-windsurf-cascade-r1_20250201
+description: "Skill: sys-codeium-windsurf-cascade-r1_20250201"
+license: MIT
+tags: [general]
+---
+
 # codeium-windsurf-cascade-R1_20250201
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/58>

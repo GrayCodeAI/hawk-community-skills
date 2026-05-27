@@ -1,10 +1,12 @@
 ---
-name: bash-scripting
+name: ag-bash-scripting
 description: "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing."
+license: MIT
+tags: [general]
 category: granular-workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Bash Scripting Workflow

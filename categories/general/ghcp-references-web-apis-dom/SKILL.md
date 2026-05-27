@@ -1,3 +1,10 @@
+---
+name: ghcp-references-web-apis-dom
+description: "Skill: ghcp-references-web-apis-dom"
+license: MIT
+tags: [general]
+---
+
 # Web APIs & DOM Reference
 
 Comprehensive reference for the Document Object Model (DOM) and Web APIs available in modern browsers.

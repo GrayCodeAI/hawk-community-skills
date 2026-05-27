@@ -1,16 +1,11 @@
 ---
 name: cursor-spring-boot
-description: Cursor IDE rules for spring-boot
-domain: engineering
+description: "Cursor IDE rules for spring-boot"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Spring Boot: annotations, dependency injection, JPA patterns"
-globs: ["*.java", "*.kt"]
-alwaysApply: true
 ---
 
 # Spring Boot Cursor Rules

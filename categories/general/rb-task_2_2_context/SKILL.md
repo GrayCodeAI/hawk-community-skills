@@ -1,3 +1,10 @@
+---
+name: rb-task_2_2_context
+description: "Skill: rb-task_2_2_context"
+license: MIT
+tags: [general]
+---
+
 # Context for Task 2.2: Create Dedicated View Container (Sidebar)
 
 This task involves configuring the extension's `package.json` file to create a dedicated view container in the VS Code sidebar (Activity Bar) and a view within that container. This serves as the host for the extension's graphical user interface.

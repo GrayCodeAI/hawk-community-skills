@@ -1,19 +1,8 @@
 ---
-name: xcuitest-skill
-description: >
-  Generates XCUITest UI tests for iOS/iPadOS apps in Swift. Apple's native
-  testing framework for reliable, fast UI automation. Supports local simulators
-  and TestMu AI cloud real devices. Use when user mentions "XCUITest", "XCTest",
-  "iOS UI test", "Swift test", "XCUIApplication". Triggers on: "XCUITest",
-  "XCTest UI", "iOS UI test", "Swift UI test", "XCUIApplication", "TestMu".
-languages:
-  - Swift
-  - Objective-C
-category: mobile-testing
+name: lt-xcuitest-skill
+description: "Skill: lt-xcuitest-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # XCUITest Automation Skill

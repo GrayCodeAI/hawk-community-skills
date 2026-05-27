@@ -1,17 +1,14 @@
 ---
-name: golang-logging
-description: Standards for structured logging and observability in Golang. Use when adding structured logging or tracing to Go services.
-metadata:
-  triggers:
-    files:
-    - 'go.mod'
-    - 'pkg/logger/**'
-    keywords:
-    - logging
-    - slog
-    - structured logging
-    - zap
+name: std-golang-logging
+description: "Standards for structured logging and observability in Golang. Use when adding structured logging or tracing to Go services."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Golang Logging Standards
 
 ## **Priority: P1 (STANDARD)**

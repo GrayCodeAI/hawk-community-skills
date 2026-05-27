@@ -1,8 +1,10 @@
 ---
-name: mapbox-automation
+name: composio-mapbox-automation
 description: "Automate Mapbox tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mapbox Automation via Rube MCP

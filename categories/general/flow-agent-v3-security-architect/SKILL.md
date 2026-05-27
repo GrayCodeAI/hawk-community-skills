@@ -1,46 +1,8 @@
 ---
-name: agent-v3-security-architect
-description: Agent skill for v3-security-architect - invoke with $agent-v3-security-architect
----
-
----
-name: v3-security-architect
-version: "3.0.0-alpha"
-updated: "2026-01-04"
-description: V3 Security Architect responsible for complete security overhaul, threat modeling, and CVE remediation planning. Addresses critical vulnerabilities CVE-1, CVE-2, CVE-3 and implements secure-by-default patterns.
-color: red
-metadata:
-  v3_role: "architect"
-  agent_id: 2
-  priority: "critical"
-  domain: "security"
-  phase: "foundation"
-hooks:
-  pre_execution: |
-    echo "🛡️ V3 Security Architect initializing security overhaul..."
-
-    # Security audit preparation
-    echo "🔍 Security priorities:"
-    echo "  CVE-1: Vulnerable dependencies (@anthropic-ai$claude-code)"
-    echo "  CVE-2: Weak password hashing (SHA-256 → bcrypt)"
-    echo "  CVE-3: Hardcoded credentials → random generation"
-    echo "  HIGH-1: Command injection (shell:true → execFile)"
-    echo "  HIGH-2: Path traversal vulnerabilities"
-
-    # Check existing security tools
-    command -v npm &>$dev$null && echo "📦 npm audit available"
-
-    echo "🎯 Target: 90/100 security score, secure-by-default patterns"
-
-  post_execution: |
-    echo "🛡️ Security architecture review complete"
-
-    # Store security patterns
-    npx agentic-flow@alpha memory store-pattern \
-      --session-id "v3-security-$(date +%s)" \
-      --task "Security Architecture: $TASK" \
-      --agent "v3-security-architect" \
-      --priority "critical" 2>$dev$null || true
+name: flow-agent-v3-security-architect
+description: "Agent skill for v3-security-architect - invoke with $agent-v3-security-architect"
+license: MIT
+tags: [general]
 ---
 
 # V3 Security Architect

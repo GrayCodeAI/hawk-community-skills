@@ -1,3 +1,10 @@
+---
+name: ls-4xiray4fb_the_dvp_original_feynman_method_of_learn
+description: "Skill: ls-4xiray4fb_the_dvp_original_feynman_method_of_learn"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4XIrAy4fb-the-dvp-original-feynman-method-of-learning
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-3AT4Pn27Pea6DQO4vEDmDwCn?se=2124-01-22T07%3A55%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1922de3e-2329-4a50-880e-575cbda97ac2.png&sig=UwVf/6VpRuvI9mCPbOxrqanvjubW4YiVd4IecQvss/Y%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: playwright-explore-website
-description: 'Website exploration for testing using Playwright MCP'
+name: ghcp-playwright-explore-website-skill
+description: "Website exploration for testing using Playwright MCP"
+license: MIT
+tags: [general]
 ---
 
 # Website Exploration for Testing

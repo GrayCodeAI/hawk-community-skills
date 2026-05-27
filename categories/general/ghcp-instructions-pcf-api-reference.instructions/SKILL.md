@@ -1,6 +1,8 @@
 ---
-description: 'Complete PCF API reference with all interfaces and their availability in model-driven and canvas apps'
-applyTo: '**/*.{ts,tsx,js}'
+name: ghcp-instructions-pcf-api-reference.instructions
+description: "Skill: ghcp-instructions-pcf-api-reference.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Power Apps Component Framework API Reference

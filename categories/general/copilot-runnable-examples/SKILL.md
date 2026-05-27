@@ -1,3 +1,10 @@
+---
+name: copilot-runnable-examples
+description: "Skill: copilot-runnable-examples"
+license: MIT
+tags: [general]
+---
+
 # Runnable Example: CLI Application
 
 **When the app is invoked from the command line** (e.g., `python -m myapp`, a CLI tool with argparse/click).

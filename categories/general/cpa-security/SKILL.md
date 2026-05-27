@@ -1,3 +1,10 @@
+---
+name: cpa-security
+description: "Skill: cpa-security"
+license: MIT
+tags: [general]
+---
+
 # az security
 
 ```bash

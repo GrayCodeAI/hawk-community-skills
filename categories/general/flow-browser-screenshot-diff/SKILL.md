@@ -1,7 +1,9 @@
 ---
-name: browser-screenshot-diff
-description: Visual + DOM diff between two recorded sessions at matching trajectory step ids; used for visual regression and replay verification
-argument-hint: "<session-id-a> <session-id-b> [--threshold <0..1>] [--mode pixel|dom|both]"
+name: flow-browser-screenshot-diff
+description: "Visual + DOM diff between two recorded sessions at matching trajectory step ids; used for visual regression and replay verification"
+license: MIT
+tags: [general]
+argument-hint: <session-id-a> <session-id-b> [--threshold <0..1>] [--mode pixel|dom|both]
 allowed-tools: mcp__claude-flow__browser_eval Bash Read Write
 ---
 

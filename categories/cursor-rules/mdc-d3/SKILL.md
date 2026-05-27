@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, actionable best practices for writing modern D3.js v7+ code, focusing on modularity, performance, and maintainability.
-globs: **/*.{js,jsx}
+name: mdc-d3
+description: "This guide provides definitive, actionable best practices for writing modern D3.js v7+ code, focusing on modularity, performance, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # d3 Best Practices
 
 D3.js is a powerful, low-level library for data visualization. To leverage its full potential and maintain a clean, performant codebase, adhere to these definitive guidelines.

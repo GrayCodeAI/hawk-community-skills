@@ -1,6 +1,8 @@
 ---
-description: 'Markdown formatting for GitHub-flavored markdown (GFM) files'
-applyTo: '**/*.md'
+name: ghcp-instructions-markdown-gfm.instructions
+description: "Skill: ghcp-instructions-markdown-gfm.instructions"
+license: MIT
+tags: [general]
 ---
 
 # GitHub Flavored Markdown (GFM)

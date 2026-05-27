@@ -1,3 +1,10 @@
+---
+name: ls-ostr6ttng_gta_stylizer
+description: "Skill: ls-ostr6ttng_gta_stylizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ostR6TTNg-gta-stylizer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lyHwljZpFVobkBW5ZUEf8yDH?se=2124-01-09T00%3A02%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-01%252016.42.20%2520-%2520Create%2520a%2520vivid%252C%2520digital%2520art%2520piece%2520in%2520a%2520GTA%2520%2528Grand%2520Theft%2520Auto%2529%2520style%252C%2520featuring%2520a%2520character%2520named%2520Keith.%2520He%2520is%2520a%2520Caucasian%2520man%2520in%2520his%252040s%2520with%2520dark%2520hai.png&sig=SRJ3bXUQDvDrHtiBXvamrl0xlYpJwuz0QT%2BBFiz0Zno%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: Specific rules for PyQt6 based UI development focusing on UI/UX excellence and performance.
-globs: /gui/**/*.*
+name: mdc-pyqt6-ui-development-rules
+description: "Specific rules for PyQt6 based UI development focusing on UI/UX excellence and performance."
+license: MIT
+tags: [python]
 ---
+
 - Create stunning, responsive user interfaces that rival the best web designs.
 - Implement advanced PyQt6 features for smooth user experiences.
 - Optimize performance and resource usage in GUI applications.

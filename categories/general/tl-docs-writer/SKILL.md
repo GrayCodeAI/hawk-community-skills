@@ -1,6 +1,8 @@
 ---
-name: docs-writer
-description: Write, review, and edit documentation files with consistent structure, tone, and technical accuracy. Use when creating docs, reviewing markdown files, writing READMEs, updating `/docs` directories, or when user says "write documentation", "review this doc", "improve this README", "create a guide", or "edit markdown". Do NOT use for code comments, inline JSDoc, or API reference generation.
+name: tl-docs-writer
+description: "Write, review, and edit documentation files with consistent structure, tone, and technical accuracy. Use when creating docs, reviewing markdown files, writing READMEs, updating `/docs` directories,..."
+license: MIT
+tags: [general]
 ---
 
 # `docs-writer` skill instructions

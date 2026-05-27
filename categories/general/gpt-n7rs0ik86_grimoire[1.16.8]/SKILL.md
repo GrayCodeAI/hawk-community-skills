@@ -1,3 +1,10 @@
+---
+name: gpt-n7rs0ik86_grimoire[1.16.8]
+description: "Skill: gpt-n7rs0ik86_grimoire[1.16.8]"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-n7Rs0IK86-grimoire
 
 GPT title: Grimoire

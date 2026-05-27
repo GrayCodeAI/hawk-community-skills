@@ -1,6 +1,8 @@
 ---
-description: 'Next.js + Tailwind development standards and instructions'
-applyTo: '**/*.tsx, **/*.ts, **/*.jsx, **/*.js, **/*.css'
+name: ghcp-instructions-nextjs-tailwind.instructions
+description: "Skill: ghcp-instructions-nextjs-tailwind.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Next.js + Tailwind Development Instructions

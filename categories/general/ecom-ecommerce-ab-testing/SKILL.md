@@ -1,3 +1,10 @@
+---
+name: ecom-ecommerce-ab-testing
+description: "Skill: ecom-ecommerce-ab-testing"
+license: MIT
+tags: [general]
+---
+
 # E-Commerce A/B Testing
 
 Master A/B testing for e-commerce across all platforms. Test product pages, pricing, ads, emails, and checkout flows with statistical rigor to maximize conversion and revenue.

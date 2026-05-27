@@ -1,3 +1,10 @@
+---
+name: cpa-perimeter
+description: "Skill: cpa-perimeter"
+license: MIT
+tags: [general]
+---
+
 # az network perimeter
 
 ```bash

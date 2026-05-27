@@ -1,8 +1,10 @@
 ---
-name: ip2whois-automation
+name: composio-ip2whois-automation
 description: "Automate Ip2whois tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ip2whois Automation via Rube MCP

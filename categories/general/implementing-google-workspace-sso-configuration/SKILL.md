@@ -1,12 +1,12 @@
 ---
 name: implementing-google-workspace-sso-configuration
-description: Configure SAML 2.0 single sign-on for Google Workspace with a third-party identity provider, enabling centralized authentication and enforcing organization-wide access policies.
+description: "Configure SAML 2.0 single sign-on for Google Workspace with a third-party identity provider, enabling centralized authentication and enforcing organization-wide access policies."
+license: MIT
+tags: [google-workspace, sso, saml, identity-provider, authentication, federation]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [google-workspace, sso, saml, identity-provider, authentication, federation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Google Workspace SSO Configuration

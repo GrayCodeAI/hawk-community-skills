@@ -1,18 +1,14 @@
 ---
-name: kotlin-tooling
-description: Configure Gradle Kotlin DSL, Version Catalogs, and MockK for Kotlin projects. Use when configuring build.gradle.kts, setting up libs.versions.toml, adding MockK for tests, or choosing between Kotlin-compatible test assertion libraries.
-metadata:
-  triggers:
-    files:
-    - 'build.gradle.kts'
-    - 'libs.versions.toml'
-    - 'detekt.yml'
-    keywords:
-    - mockk
-    - kts
-    - version catalog
-    - kotest
+name: std-kotlin-tooling
+description: "Configure Gradle Kotlin DSL, Version Catalogs, and MockK for Kotlin projects. Use when configuring build.gradle.kts, setting up libs.versions.toml, adding MockK for tests, or choosing between Kotli..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Kotlin Tooling Standards
 
 ## **Priority: P2 (RECOMMENDED)**

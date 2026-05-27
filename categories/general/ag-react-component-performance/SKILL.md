@@ -1,9 +1,11 @@
 ---
-name: react-component-performance
-description: Diagnose slow React components and suggest targeted performance fixes.
+name: ag-react-component-performance
+description: "Diagnose slow React components and suggest targeted performance fixes."
+license: MIT
+tags: [general]
 risk: safe
-source: "Dimillian/Skills (MIT)"
-date_added: "2026-03-25"
+source: Dimillian/Skills (MIT)
+date_added: 2026-03-25
 ---
 
 # React Component Performance

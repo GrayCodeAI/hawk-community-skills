@@ -1,14 +1,16 @@
 ---
-name: favicon
+name: ag-favicon
+description: "Generate favicons from a source image"
+license: MIT
+tags: [general]
 argument-hint: [path to source image]
-description: Generate favicons from a source image
 allowed-tools: Bash(magick *), Bash(which *), Bash(cp *), Bash(mkdir *)
 context: fork
 risk: unknown
 source: community
-metadata:
-  author: Shpigford
-  version: "1.0"
+metadata: None
+author: Shpigford
+version: 1.0
 ---
 
 Generate a complete set of favicons from the source image at `$1` and update the project's HTML with the appropriate link tags.

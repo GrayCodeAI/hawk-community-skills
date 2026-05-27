@@ -1,8 +1,10 @@
 ---
-name: bonsai-automation
+name: composio-bonsai-automation
 description: "Automate Bonsai tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bonsai Automation via Rube MCP

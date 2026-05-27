@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive rules for configuring and using isort to maintain consistent, readable, and merge-conflict-free Python import statements.
-globs: **/*.py
+name: mdc-isort
+description: "This guide provides definitive rules for configuring and using isort to maintain consistent, readable, and merge-conflict-free Python import statements."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # isort Best Practices
 
 `isort` is the definitive tool for sorting Python imports. It ensures consistency, reduces merge conflicts, and improves readability by automatically organizing imports according to PEP 8 and project-specific rules.

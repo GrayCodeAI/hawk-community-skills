@@ -1,3 +1,10 @@
+---
+name: ls-sqtv4jg4k_prompt_instructions_gpt_simulation
+description: "Skill: ls-sqtv4jg4k_prompt_instructions_gpt_simulation"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sqTv4jG4K-prompt-instructions-gpt-simulation
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-10mSkV2uhbCJ0Co2jL3xrsGD?se=2124-01-02T20%3A46%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dbe0bc4a3-3947-4906-9b0f-150039ab7d8a.png&sig=FPOmK4Y1bk3m90429aW2FypKqIoYWB%2Bn445O4%2BZQvKI%3D" width="100px" />

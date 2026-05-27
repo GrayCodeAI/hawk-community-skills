@@ -1,3 +1,10 @@
+---
+name: gpt-atypl13qu_pwr_chain_technical_copywriter
+description: "Skill: gpt-atypl13qu_pwr_chain_technical_copywriter"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Atypl13qU-pwr-chain-technical-copywriter
 
 GPT Title: PWR Chain Technical Copywriter

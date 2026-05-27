@@ -1,3 +1,10 @@
+---
+name: gpt-rgetrv04r_the_defiants.net
+description: "Skill: gpt-rgetrv04r_the_defiants.net"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-RgeTRV04r-the-defiants-net
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DIHWzZWgVYaDsXJdz0f02RHw?se=2124-01-11T22%3A47%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DArtboard%25201.png&sig=gBwczUyl3NdmHxHtDAAJcKLOUs9nzwqEYesUNlMzzQ0%3D" width="100px" />

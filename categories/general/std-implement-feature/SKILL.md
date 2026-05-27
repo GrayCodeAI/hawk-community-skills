@@ -1,12 +1,13 @@
 ---
-name: implement-feature
-description: "Unified developer workflow for implementing new features. Translates a PRD/Story into an implementation plan, builds the feature using TDD, verifies functionality locally capturing evidence, and delivers a PR."
-metadata:
-  triggers:
-    keywords:
-    - implement feature
-    - workflow
+name: std-implement-feature
+description: "Unified developer workflow for implementing new features. Translates a PRD/Story into an implementation plan, builds the feature using TDD, verifies functionality locally capturing evidence, and de..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
+
 # Implement Feature Skill
 
 > [!IMPORTANT]
@@ -80,4 +81,3 @@ Do NOT rely on unit tests alone — verify the full feature against the Acceptan
 - **No Blind Implementation**: Never write production code before the `implementation_plan.md` is approved and a failing test is written.
 - **No Skipping Local Verify**: Unit tests passing is not enough. Provide end-to-end snapshots/logs in the `walkthrough.md` to prove the UI/UX is correct.
 - **No Monolithic PRs**: Keep commits small and mapped to individual ACs.
-

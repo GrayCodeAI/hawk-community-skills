@@ -1,3 +1,10 @@
+---
+name: cpa-connected-env
+description: "Skill: cpa-connected-env"
+license: MIT
+tags: [general]
+---
+
 # az containerapp connected-env
 
 ```bash

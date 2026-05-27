@@ -1,3 +1,10 @@
+---
+name: ls-6fhddlmrc_national-park-explorer
+description: "Skill: ls-6fhddlmrc_national-park-explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6fHDdLMRC-national-park-explorer
 
 GPT Title: National Park Explorer

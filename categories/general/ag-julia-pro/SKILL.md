@@ -1,9 +1,11 @@
 ---
-name: julia-pro
-description: Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
+name: ag-julia-pro
+description: "Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

@@ -1,3 +1,10 @@
+---
+name: ls-r9xoxlhnw_vitaearchitect.ai
+description: "Skill: ls-r9xoxlhnw_vitaearchitect.ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-r9XOXlHnW-vitaearchitect-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FXxQdskvhV5HAfpQlMatCL3o?se=2124-01-13T00%3A35%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dfa9b1c32-e21f-4815-9afb-b09f1705266f.png&sig=7xtMMMI9Hna7QqA%2Bg%2BIEXCzioKxDbbND2MRAIWjxxgI%3D" width="100px" />

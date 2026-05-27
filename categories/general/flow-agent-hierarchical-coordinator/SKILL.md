@@ -1,38 +1,8 @@
 ---
-name: agent-hierarchical-coordinator
-description: Agent skill for hierarchical-coordinator - invoke with $agent-hierarchical-coordinator
----
-
----
-name: hierarchical-coordinator
-type: coordinator
-color: "#FF6B35"
-description: Queen-led hierarchical swarm coordination with specialized worker delegation
-capabilities:
-  - swarm_coordination
-  - task_decomposition
-  - agent_supervision
-  - work_delegation  
-  - performance_monitoring
-  - conflict_resolution
-priority: critical
-hooks:
-  pre: |
-    echo "👑 Hierarchical Coordinator initializing swarm: $TASK"
-    # Initialize swarm topology
-    mcp__claude-flow__swarm_init hierarchical --maxAgents=10 --strategy=adaptive
-    # MANDATORY: Write initial status to coordination namespace
-    mcp__claude-flow__memory_usage store "swarm$hierarchical$status" "{\"agent\":\"hierarchical-coordinator\",\"status\":\"initializing\",\"timestamp\":$(date +%s),\"topology\":\"hierarchical\"}" --namespace=coordination
-    # Set up monitoring
-    mcp__claude-flow__swarm_monitor --interval=5000 --swarmId="${SWARM_ID}"
-  post: |
-    echo "✨ Hierarchical coordination complete"
-    # Generate performance report
-    mcp__claude-flow__performance_report --format=detailed --timeframe=24h
-    # MANDATORY: Write completion status
-    mcp__claude-flow__memory_usage store "swarm$hierarchical$complete" "{\"status\":\"complete\",\"agents_used\":$(mcp__claude-flow__swarm_status | jq '.agents.total'),\"timestamp\":$(date +%s)}" --namespace=coordination
-    # Cleanup resources
-    mcp__claude-flow__coordination_sync --swarmId="${SWARM_ID}"
+name: flow-agent-hierarchical-coordinator
+description: "Agent skill for hierarchical-coordinator - invoke with $agent-hierarchical-coordinator"
+license: MIT
+tags: [general]
 ---
 
 # Hierarchical Swarm Coordinator

@@ -1,7 +1,10 @@
 ---
-description: Defines the core mechanics of the game, including map generation, resource management, and nation interactions. This rule focuses on the overall structure of the game world and gameplay loop.
-globs: core_mechanics.py
+name: mdc-core-game-mechanics-rule
+description: "Defines the core mechanics of the game, including map generation, resource management, and nation interactions. This rule focuses on the overall structure of the game world and gameplay loop."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - The game is based on a 10x10 grid, each square has a 10x10 grid inside of it. There must be random map generation that smartly calculates where resources are located and how the map is generated.
 - The player does not control anything in the game; the player is simply an observer. Therefore, there should be logs for almost everything in the game, and it should be turn-based.
 - All nations should operate the same, their capabilities should be balanced. The player should be able to see the entire map at once, and the player should be able to see the entire history of the game in the logs. There should be a way to zoom in on a specific square to see more detail.

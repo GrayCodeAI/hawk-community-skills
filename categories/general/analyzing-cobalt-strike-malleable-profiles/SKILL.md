@@ -1,16 +1,12 @@
 ---
 name: analyzing-cobalt-strike-malleable-profiles
-description: >
-  Parses Cobalt Strike malleable C2 profiles using pyMalleableC2 to extract beacon
-  configuration, HTTP communication patterns, and sleep/jitter settings. Combines with
-  JARM TLS fingerprinting to detect C2 servers on the network. Use when investigating
-  suspected Cobalt Strike infrastructure or building detection signatures for C2 traffic.
+description: "Parses Cobalt Strike malleable C2 profiles using pyMalleableC2 to extract beacon configuration, HTTP communication patterns, and sleep/jitter settings. Combines with JARM TLS fingerprinting to dete..."
+license: MIT
+tags: [analyzing, cobalt, strike, malleable]
 domain: cybersecurity
 subdomain: security-operations
-tags: [analyzing, cobalt, strike, malleable]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Cobalt Strike Malleable Profiles

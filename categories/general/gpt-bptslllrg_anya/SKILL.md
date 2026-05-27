@@ -1,3 +1,10 @@
+---
+name: gpt-bptslllrg_anya
+description: "Skill: gpt-bptslllrg_anya"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BPtSLLLrG-anya
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XFC62bLckZQRFflnjRHlZ4We?se=2124-01-08T15%3A07%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DAnya%25201.jpeg&sig=QFl2VMbAgLIvoZGv8vTvX0ZbW2TBBAUDY98hqvG%2Bl/g%3D" width="100px" />

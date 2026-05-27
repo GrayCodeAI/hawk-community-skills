@@ -1,3 +1,10 @@
+---
+name: cpa-standard-iac-tools.instructions
+description: "Skill: cpa-standard-iac-tools.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this infrastructure-as-code project. The goal is to ensure consistent, secure, and modular infrastructure definitions aligned with our conventions, stack, and best practices.

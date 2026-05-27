@@ -1,13 +1,14 @@
 ---
 name: analyzing-ransomware-leak-site-intelligence
-description: Monitor and analyze ransomware group data leak sites (DLS) to track victim postings, extract threat intelligence on group tactics, and assess sector-specific ransomware risk for proactive defense.
+description: "Monitor and analyze ransomware group data leak sites (DLS) to track victim postings, extract threat intelligence on group tactics, and assess sector-specific ransomware risk for proactive defense."
+license: MIT
+tags: [ransomware, leak-site, data-leak, extortion, threat-intelligence, monitoring, dls, victim-tracking]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [ransomware, leak-site, data-leak, extortion, threat-intelligence, monitoring, dls, victim-tracking]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Analyzing Ransomware Leak Site Intelligence
 
 ## Overview

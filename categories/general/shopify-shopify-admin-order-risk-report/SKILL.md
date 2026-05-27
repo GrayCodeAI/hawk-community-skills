@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-order-risk-report
-role: order-intelligence
+name: shopify-shopify-admin-order-risk-report
 description: "Read-only: lists orders by fraud risk level with indicator details for building a manual review queue."
+license: MIT
+tags: [general]
+role: order-intelligence
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

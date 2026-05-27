@@ -1,8 +1,11 @@
 ---
-description: ALWAYS INCLUDE to HAVE Project Context.
-globs: 
-alwaysApply: true
+name: rb-01-memory
+description: "ALWAYS INCLUDE to HAVE Project Context."
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
+
 # Memory Files Structure
 This outlines the fundamental principles, required files, workflow structure, and essential procedures that govern documentation, and maintaining a memory using file system.
 The Memory Files consists of required core files and optional context files. Files build upon each other in a clear hierarchy:

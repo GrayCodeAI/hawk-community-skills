@@ -1,7 +1,10 @@
 ---
-description: Rules for styling in Astro using scoped styles, global styles, and CSS preprocessors.
-globs: src/styles/**/*.astro
+name: mdc-astro-styling
+description: "Rules for styling in Astro using scoped styles, global styles, and CSS preprocessors."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Styling
 
 - Use Astro's scoped styling with tags in .astro files.

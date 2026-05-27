@@ -1,10 +1,12 @@
 ---
-name: wireshark-analysis
+name: ag-wireshark-analysis
 description: "Execute comprehensive network traffic analysis using Wireshark to capture, filter, and examine network packets for security investigations, performance optimization, and troubleshooting."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 author: zebbern
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Wireshark Network Traffic Analysis

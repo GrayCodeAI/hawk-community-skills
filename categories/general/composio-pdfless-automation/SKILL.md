@@ -1,8 +1,10 @@
 ---
-name: pdfless-automation
+name: composio-pdfless-automation
 description: "Automate Pdfless tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Pdfless Automation via Rube MCP

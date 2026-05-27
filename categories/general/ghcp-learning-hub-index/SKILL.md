@@ -1,7 +1,10 @@
 ---
-title: Learning Hub
+name: ghcp-learning-hub-index
 description: "Curated articles, walkthroughs, and reference material to help you unlock everything you can do with GitHub Copilot"
-tableOfContents: false
+license: MIT
+tags: [general]
+title: Learning Hub
+tableOfContents: False
 ---
 
 ## Fundamentals

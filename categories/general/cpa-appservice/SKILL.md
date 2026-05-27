@@ -1,3 +1,10 @@
+---
+name: cpa-appservice
+description: "Skill: cpa-appservice"
+license: MIT
+tags: [general]
+---
+
 # az appservice
 
 ```bash

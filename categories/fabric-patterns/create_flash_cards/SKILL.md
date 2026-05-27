@@ -1,9 +1,10 @@
 ---
 name: create_flash_cards
-description: Fabric pattern - create_flash_cards
-domain: general
+description: "Fabric pattern - create_flash_cards"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-runnable-examples-fastapi-web-server
+description: "Skill: ghcp-runnable-examples-fastapi-web-server"
+license: MIT
+tags: [general]
+---
+
 # Runnable Example: FastAPI / Web Server
 
 **When the app is a web server** (FastAPI, Flask, Starlette) and you need to exercise the full HTTP request pipeline.

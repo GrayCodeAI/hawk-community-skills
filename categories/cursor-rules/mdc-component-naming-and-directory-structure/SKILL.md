@@ -1,7 +1,10 @@
 ---
-description: Rules for naming components and structuring directories within the src/components folder, including conventions for lowercase names with dashes.
-globs: src/components/**/*
+name: mdc-component-naming-and-directory-structure
+description: "Rules for naming components and structuring directories within the src/components folder, including conventions for lowercase names with dashes."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - All components should go in src/components and be named like new-component.tsx
 - Use lowercase with dashes for directories (e.g., components/auth-wizard).
 - Favor named exports for components.

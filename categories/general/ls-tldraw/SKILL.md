@@ -1,3 +1,10 @@
+---
+name: ls-tldraw
+description: "Skill: ls-tldraw"
+license: MIT
+tags: [general]
+---
+
 GitHub link: https://github.com/tldraw/make-real/blob/main/app/prompt.ts
 
 

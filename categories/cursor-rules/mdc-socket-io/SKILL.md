@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable real-time applications using Socket.IO v4.x, emphasizing modern JavaScript practices and common pitfalls.
-globs: **/*.{js,jsx,ts,tsx}
+name: mdc-socket-io
+description: "Definitive guidelines for building robust, performant, and maintainable real-time applications using Socket.IO v4.x, emphasizing modern JavaScript practices and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Socket.IO Best Practices
 
 Socket.IO v4.x is the bedrock for real-time communication in our applications. This guide establishes the definitive standards for its usage, focusing on reliability, performance, and maintainability.

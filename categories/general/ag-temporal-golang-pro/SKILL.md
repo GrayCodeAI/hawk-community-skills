@@ -1,9 +1,11 @@
 ---
-name: temporal-golang-pro
+name: ag-temporal-golang-pro
 description: "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns."
+license: MIT
+tags: [general]
 risk: safe
 source: self
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Temporal Go SDK (temporal-golang-pro)

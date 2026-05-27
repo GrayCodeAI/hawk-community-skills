@@ -1,3 +1,10 @@
+---
+name: gpt-za77ityil_japanese_casual_chat_tutor
+description: "Skill: gpt-za77ityil_japanese_casual_chat_tutor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zA77ITyil-japanese-casual-chat-tutor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ClsD0TxzgMuFQad3KlTvoyxj?se=2123-12-23T08%3A53%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFlag_of_Japan.svg.png&sig=Zh1At8Qjwc00F5UCQYzrq5KerUhc3wQ24KGjGvsga7I%3D" width="100px" />

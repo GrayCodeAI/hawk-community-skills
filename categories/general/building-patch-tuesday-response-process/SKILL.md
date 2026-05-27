@@ -1,13 +1,14 @@
 ---
 name: building-patch-tuesday-response-process
-description: Establish a structured operational process to triage, test, and deploy Microsoft Patch Tuesday security updates within risk-based remediation SLAs.
+description: "Establish a structured operational process to triage, test, and deploy Microsoft Patch Tuesday security updates within risk-based remediation SLAs."
+license: MIT
+tags: [patch-management, patch-tuesday, microsoft, wsus, sccm, vulnerability-remediation, windows-update]
 domain: cybersecurity
 subdomain: vulnerability-management
-tags: [patch-management, patch-tuesday, microsoft, wsus, sccm, vulnerability-remediation, windows-update]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Building Patch Tuesday Response Process
 
 ## Overview

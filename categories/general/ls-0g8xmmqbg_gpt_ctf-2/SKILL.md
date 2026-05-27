@@ -1,3 +1,10 @@
+---
+name: ls-0g8xmmqbg_gpt_ctf-2
+description: "Skill: ls-0g8xmmqbg_gpt_ctf-2"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0G8xmmQBG-gpt-ctf-2
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-KgsgApCt3N0h3TVH8DWr9mXV?se=2123-11-17T06%3A50%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D9c5f529e-74cf-4b9a-bce8-8e4d66a0c032.png&sig=524XBJdjzsReu9vH4VTXSHQLDoYi5iLST8s2ws3Cwdw%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: arch-linux-triage
-description: 'Triage and resolve Arch Linux issues with pacman, systemd, and rolling-release best practices.'
+name: copilot-arch-linux-triage
+description: "Triage and resolve Arch Linux issues with pacman, systemd, and rolling-release best practices."
+license: MIT
+tags: [general]
 ---
 
 # Arch Linux Triage

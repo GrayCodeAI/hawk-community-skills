@@ -1,9 +1,10 @@
 ---
 name: t_extract_panel_topics
-description: Fabric pattern - t_extract_panel_topics
-domain: general
+description: "Fabric pattern - t_extract_panel_topics"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

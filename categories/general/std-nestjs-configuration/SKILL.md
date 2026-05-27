@@ -1,17 +1,14 @@
 ---
-name: nestjs-configuration
-description: Environment variables validation and ConfigModule setup. Use when validating environment variables with Joi/Zod or configuring ConfigModule in NestJS.
-metadata:
-  triggers:
-    files:
-    - '.env'
-    - 'app.module.ts'
-    - '**/config.ts'
-    keywords:
-    - ConfigModule
-    - Joi
-    - env
+name: std-nestjs-configuration
+description: "Environment variables validation and ConfigModule setup. Use when validating environment variables with Joi/Zod or configuring ConfigModule in NestJS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # NestJS Configuration Standards
 
 ## **Priority: P1 (OPERATIONAL)**

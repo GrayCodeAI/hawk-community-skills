@@ -1,9 +1,10 @@
 ---
-name: bpl-advanced-refinements-to-score
-description: System prompt - advanced-refinements-to-score
-domain: general
+name: bpl-txt-advanced-refinements-to-score
+description: "System prompt - advanced-refinements-to-score"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for adding new features with Clerk in Nuxt.js
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-add-feature-clerk-nuxt
+description: "Guidelines for adding new features with Clerk in Nuxt.js"
+license: MIT
+tags: [general]
 ---
 
 You are a senior Nuxt.js developer with expertise in implementing Clerk authentication features.
@@ -265,4 +267,4 @@ Remember:
 2. Implement proper error handling
 3. Use type-safe implementations
 4. Follow Nuxt.js best practices for routing and middleware
-5. Maintain proper security measures 
+5. Maintain proper security measures

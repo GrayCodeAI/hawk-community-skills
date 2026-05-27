@@ -1,19 +1,8 @@
 ---
-name: espresso-skill
-description: >
-  Generates Espresso UI tests for Android apps in Kotlin or Java. Espresso runs
-  inside the app process for fast, reliable UI testing. Supports local and TestMu AI
-  cloud real devices. Use when user mentions "Espresso", "onView", "ViewMatchers",
-  "Android UI test", or "instrumentation test". Triggers on: "Espresso",
-  "onView", "ViewMatchers", "Android UI test", "instrumentation", "TestMu".
-languages:
-  - Java
-  - Kotlin
-category: mobile-testing
+name: lt-espresso-skill
+description: "Skill: lt-espresso-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Espresso Automation Skill

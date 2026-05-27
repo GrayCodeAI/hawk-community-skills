@@ -1,16 +1,11 @@
 ---
 name: cursor-ansible
-description: Cursor IDE rules for ansible
-domain: engineering
+description: "Cursor IDE rules for ansible"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Ansible: automation, playbooks, infrastructure as code"
-globs: ["*.yml", "*.yaml", "ansible.cfg", "requirements.yml"]
-alwaysApply: true
 ---
 
 # Ansible Rules

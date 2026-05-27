@@ -1,9 +1,10 @@
 ---
 name: recommend_yoga_practice
-description: Fabric pattern - recommend_yoga_practice
-domain: general
+description: "Fabric pattern - recommend_yoga_practice"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

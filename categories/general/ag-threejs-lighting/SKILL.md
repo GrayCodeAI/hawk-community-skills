@@ -1,6 +1,8 @@
 ---
-name: threejs-lighting
-description: Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.
+name: ag-threejs-lighting
+description: "Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

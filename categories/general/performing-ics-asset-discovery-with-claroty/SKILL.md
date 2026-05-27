@@ -1,16 +1,12 @@
 ---
 name: performing-ics-asset-discovery-with-claroty
-description: >
-  Perform comprehensive ICS/OT asset discovery using Claroty xDome platform,
-  leveraging passive monitoring, Claroty Edge active queries, and integration
-  ecosystem to gain full visibility into industrial control system assets
-  including PLCs, RTUs, HMIs, and network infrastructure across Purdue Model levels.
+description: "Perform comprehensive ICS/OT asset discovery using Claroty xDome platform, leveraging passive monitoring, Claroty Edge active queries, and integration ecosystem to gain full visibility into industr..."
+license: MIT
+tags: [ot-security, ics, asset-discovery, claroty, xdome, scada, network-visibility, iec62443]
 domain: cybersecurity
 subdomain: ot-ics-security
-tags: [ot-security, ics, asset-discovery, claroty, xdome, scada, network-visibility, iec62443]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Performing ICS Asset Discovery with Claroty

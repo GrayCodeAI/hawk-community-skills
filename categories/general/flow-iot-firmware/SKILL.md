@@ -1,9 +1,12 @@
 ---
-name: iot-firmware
-description: Orchestrate firmware rollouts with canary deployment and anomaly-gated advancement
+name: flow-iot-firmware
+description: "Orchestrate firmware rollouts with canary deployment and anomaly-gated advancement"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__memory_search Read
-argument-hint: "<deploy|advance|rollback|status|list> [options]"
+argument-hint: <deploy|advance|rollback|status|list> [options]
 ---
+
 Manage firmware rollouts across device fleets.
 
 **deploy**: `npx -y -p @claude-flow/plugin-iot-cognitum@latest cognitum-iot firmware deploy FLEET_ID --version VERSION`

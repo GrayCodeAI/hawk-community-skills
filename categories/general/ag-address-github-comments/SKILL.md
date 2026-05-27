@@ -1,9 +1,11 @@
 ---
-name: address-github-comments
+name: ag-address-github-comments
 description: "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Address GitHub Comments

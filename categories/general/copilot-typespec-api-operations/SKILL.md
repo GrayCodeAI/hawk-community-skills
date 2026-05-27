@@ -1,6 +1,8 @@
 ---
-name: typespec-api-operations
-description: 'Add GET, POST, PATCH, and DELETE operations to a TypeSpec API plugin with proper routing, parameters, and adaptive cards'
+name: copilot-typespec-api-operations
+description: "Add GET, POST, PATCH, and DELETE operations to a TypeSpec API plugin with proper routing, parameters, and adaptive cards"
+license: MIT
+tags: [general]
 ---
 
 # Add TypeSpec API Operations

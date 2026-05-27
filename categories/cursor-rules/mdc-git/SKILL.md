@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive Git best practices for our team, ensuring clean history, efficient collaboration, and high code quality through structured workflows, commit standards, and automated hooks.
-globs: **/*
+name: mdc-git
+description: "This guide defines the definitive Git best practices for our team, ensuring clean history, efficient collaboration, and high code quality through structured workflows, commit standards, and automat..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Git Best Practices
 
 Git is the backbone of our development workflow. Adhering to these practices ensures a clean, readable history, minimizes conflicts, and enables rapid, reliable delivery. These are non-negotiable standards.

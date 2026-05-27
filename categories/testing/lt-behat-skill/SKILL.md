@@ -1,17 +1,8 @@
 ---
-name: behat-skill
-description: >
-  Generates Behat BDD tests for PHP with Gherkin feature files and MinkContext
-  for browser testing. Use when user mentions "Behat", "PHP BDD", "Mink",
-  "behat.yml". Triggers on: "Behat", "PHP BDD", "Mink", "behat.yml",
-  "FeatureContext PHP".
-languages:
-  - PHP
-category: bdd-testing
+name: lt-behat-skill
+description: "Skill: lt-behat-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Behat BDD Skill

@@ -1,10 +1,11 @@
 ---
-name: markitdown
-description: Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more.
-allowed-tools: Read Write Edit Bash
+name: sci-markitdown
+description: "Convert files and office documents to Markdown. Supports PDF, DOCX, PPTX, XLSX, images (with OCR), audio (with transcription), HTML, CSV, JSON, XML, ZIP, YouTube URLs, EPubs and more."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+allowed-tools: Read Write Edit Bash
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # MarkItDown - File to Markdown Conversion
@@ -484,5 +485,3 @@ print(result.text_content)
 - **OpenRouter Models**: https://openrouter.ai/models
 - **MCP Server**: markitdown-mcp (for Claude Desktop integration)
 - **Plugin Development**: See `packages/markitdown-sample-plugin`
-
-

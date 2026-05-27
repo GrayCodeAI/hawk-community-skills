@@ -1,3 +1,10 @@
+---
+name: ls-sm5kkj9h5_restore-and-upscale-photos
+description: "Skill: ls-sm5kkj9h5_restore-and-upscale-photos"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sM5Kkj9h5-restore-and-upscale-photos
 
 GPT Title: Restore and Upscale Photos

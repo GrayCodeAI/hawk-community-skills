@@ -1,7 +1,10 @@
 ---
-description: Defines conventions specific to FastAPI usage in the backend.
-globs: backend/src/**/*.py
+name: mdc-fastapi-backend-conventions
+description: "Defines conventions specific to FastAPI usage in the backend."
+license: MIT
+tags: [python]
 ---
+
 - Follow RESTful API design principles.
 - Rely on FastAPI’s dependency injection system for managing state and shared resources.
 - Use SQLAlchemy 2.0 for ORM features, if applicable.

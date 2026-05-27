@@ -1,7 +1,9 @@
 ---
-name: validate-plugin
-description: Validate a Claude Code plugin structure, frontmatter, and MCP tool references
-argument-hint: "[plugin-path]"
+name: flow-validate-plugin
+description: "Validate a Claude Code plugin structure, frontmatter, and MCP tool references"
+license: MIT
+tags: [general]
+argument-hint: [plugin-path]
 allowed-tools: mcp__claude-flow__transfer_plugin-info Bash Read Glob Grep
 ---
 

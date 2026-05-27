@@ -1,3 +1,10 @@
+---
+name: agc-source-youtube
+description: "Skill: agc-source-youtube"
+license: MIT
+tags: [general]
+---
+
 # Source Acquisition: YouTube
 
 Execute the download script to fetch the transcript:

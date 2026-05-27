@@ -1,11 +1,11 @@
 ---
 name: performance-optimization
-description: Optimize application performance for speed, efficiency, and scalability. Use when improving page load times, reducing bundle size, optimizing database queries, or fixing performance bottlenecks. Handles React optimization, lazy loading, caching, code splitting, and profiling.
-metadata:
-  tags: performance, optimization, React, lazy-loading, caching, profiling, web-vitals
-  platforms: Claude, ChatGPT, Gemini
+description: "Optimize application performance for speed, efficiency, and scalability. Use when improving page load times, reducing bundle size, optimizing database queries, or fixing performance bottlenecks. Ha..."
+license: MIT
+tags: [performance, optimization, react, lazy-loading, caching, profiling, web-vitals]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Performance Optimization
 

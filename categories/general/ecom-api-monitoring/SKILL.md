@@ -1,19 +1,15 @@
 ---
-nexscope:
-  name: "API Monitoring"
-  category: "Monitoring & Alerts"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "api"
-    - "webhook"
-    - "monitoring"
-    - "integration"
-    - "ecommerce"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "api monitoring"
+name: ecom-api-monitoring
+description: "Skill: ecom-api-monitoring"
+license: MIT
+tags: [general]
+nexscope: None
+category: Monitoring & Alerts
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # API Monitoring

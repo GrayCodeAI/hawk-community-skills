@@ -1,3 +1,10 @@
+---
+name: ls-irszhff85_vs
+description: "Skill: ls-irszhff85_vs"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-irszhff85-vs
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FgZhHE9U0aitVe70s4zrUxjw?se=2123-12-05T21%3A09%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-12-29%252014.37.06%2520-%2520A%2520dynamic%2520and%2520striking%2520icon%2520representing%2520the%2520concept%2520of%2520epic%2520battles%2520between%2520two%2520characters.%2520The%2520icon%2520features%2520a%2520futuristic%2520battlefield%252C%2520reminiscent%2520o.png&sig=il08rFQzyvu9dmQbqLqz%2BHefsP0X9qqKb4arF9yb/xs%3D" width="100px" />

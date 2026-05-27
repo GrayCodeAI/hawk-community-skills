@@ -1,3 +1,10 @@
+---
+name: ls-8t6tfxupz_emotion-shaman
+description: "Skill: ls-8t6tfxupz_emotion-shaman"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8T6TFXupZ-emotion-shaman
 
 GPT Title: Emotion Shaman

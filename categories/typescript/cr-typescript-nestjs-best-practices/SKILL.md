@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-nestjs-best-practices
-description: Cursor rules for typescript-nestjs-best-practices
-domain: engineering
+description: "Cursor rules for typescript-nestjs-best-practices"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -124,4 +125,3 @@ You are a senior TypeScript programmer with experience in the NestJS framework a
 - Write tests for each controller and service.
 - Write end to end tests for each api module.
 - Add a admin/test method to each controller as a smoke test.
-

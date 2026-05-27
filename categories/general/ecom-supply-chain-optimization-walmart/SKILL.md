@@ -1,8 +1,10 @@
 ---
-name: supply-chain-optimization-walmart
+name: ecom-supply-chain-optimization-walmart
+description: "Supply Chain Bottleneck Analyzer for Walmart Marketplace sellers. Diagnose cash flow, inventory, WFS costs, and referral fees. Includes comparison with Amazon FBA, lower storage fee optimization, a..."
+license: MIT
+tags: [general]
 version: 1.0.0
-description: "Supply Chain Bottleneck Analyzer for Walmart Marketplace sellers. Diagnose cash flow, inventory, WFS costs, and referral fees. Includes comparison with Amazon FBA, lower storage fee optimization, and Walmart Connect ad spend analysis. No API key required for basic analysis."
-metadata: {"nexscope":{"emoji":"📦","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '📦', 'category': 'ecommerce'}}
 ---
 
 # Supply Chain Optimization — Walmart 📦
@@ -133,4 +135,3 @@ Same 4-step process as Amazon version:
 ---
 
 **Part of [Nexscope AI](https://www.nexscope.ai/?co-from=skill) — AI tools for e-commerce sellers.**
-

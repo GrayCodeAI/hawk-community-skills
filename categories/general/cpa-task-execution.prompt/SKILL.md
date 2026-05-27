@@ -1,6 +1,9 @@
 ---
+name: cpa-task-execution.prompt
+description: "Execute development tasks systematically with proper testing and git practices"
+license: MIT
+tags: [general]
 mode: agent
-description: Execute development tasks systematically with proper testing and git practices
 ---
 
 # Task Execution Prompt

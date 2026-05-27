@@ -1,3 +1,10 @@
+---
+name: ls-readme
+description: "Skill: ls-readme"
+license: MIT
+tags: [general]
+---
+
 ## README
 Welcome to Grimoire! 
 Coding Wizard

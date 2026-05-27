@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-vip-customer-identifier
-role: marketing
+name: shopify-shopify-admin-vip-customer-identifier
 description: "Identifies top-spending customers (top N% by lifetime value or order frequency) and exports a VIP candidate list; optionally tags qualified customers as VIPs."
+license: MIT
+tags: [general]
+role: marketing
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
-  - customerUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}, {'customerUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

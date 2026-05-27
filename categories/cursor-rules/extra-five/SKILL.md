@@ -1,3 +1,10 @@
+---
+name: extra-five
+description: "Skill: extra-five"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Five Whys Analysis
 
 Use the "Five Whys" root cause analysis technique to deeply understand problems.

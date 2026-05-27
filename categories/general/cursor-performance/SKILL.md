@@ -1,15 +1,11 @@
 ---
 name: cursor-performance
-description: Cursor IDE rules for performance
-domain: engineering
+description: "Cursor IDE rules for performance"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Performance: profiling-first optimization, caching, bottleneck patterns"
-alwaysApply: true
 ---
 
 # Performance Rules

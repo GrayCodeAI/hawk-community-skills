@@ -1,8 +1,8 @@
 ---
-name: cost-benchmark
-description: Run the corpus benchmark — booster locally, optional Gemini/Sonnet/Opus baselines — and persist a verifiable measured-vs-claimed table
-argument-hint: "[--llm] [--anthropic]"
-allowed-tools: Bash
+name: flow-cost-benchmark
+description: "Skill: flow-cost-benchmark"
+license: MIT
+tags: [general]
 ---
 
 # Cost Benchmark

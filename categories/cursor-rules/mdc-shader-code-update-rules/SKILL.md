@@ -1,7 +1,10 @@
 ---
-description: Rules for modifying the fragment shader to incorporate region effects. This includes passing region data to the shader and updating shader logic.
-globs: /shaders/**/*.*
+name: mdc-shader-code-update-rules
+description: "Rules for modifying the fragment shader to incorporate region effects. This includes passing region data to the shader and updating shader logic."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Update the Shader Code:
   - Modify the fragment shader used for rendering the simulation to incorporate region effects. This involves:
     a. Passing region data to the shader, either as a texture or uniform array.

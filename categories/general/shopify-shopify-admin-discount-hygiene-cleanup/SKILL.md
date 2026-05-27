@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-discount-hygiene-cleanup
-role: store-management
+name: shopify-shopify-admin-discount-hygiene-cleanup
 description: "Finds expired, zero-usage, or duplicate discount codes and optionally deactivates or deletes them."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - discountNodes:query
-  - discountCodeDelete:mutation
+api_version: 2025-01
+graphql_operations: [{'discountNodes': 'query'}, {'discountCodeDelete': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,9 +1,10 @@
 ---
 name: cr-react-nextjs-ui-development
-description: Cursor rules for react-nextjs-ui-development
-domain: engineering
+description: "Cursor rules for react-nextjs-ui-development"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -25,4 +26,3 @@ You provide accurate, factual, thoughtful answers, and are a genius at reasoning
 - Only write code that is neccessary to complete the task.
 - Rewrite the complete code only if necessary.
 - This is app is hosted on Vercel as well as Replit. Make sure your code is compatible with both!
-

@@ -1,3 +1,11 @@
+---
+name: gpt-i1xnbsydk_chatgpt---api-docs
+description: 'Skill: gpt-i1xnbsydk_chatgpt---api-docs'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-I1XNbsyDK-api-docs
 
 GPT Title: API Docs

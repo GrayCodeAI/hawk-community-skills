@@ -1,3 +1,10 @@
+---
+name: ls-u6y5tqwa9_choose-your-own-adventure!
+description: "Skill: ls-u6y5tqwa9_choose-your-own-adventure!"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-U6y5TqwA9-choose-your-own-adventure
 
 GPT Title: Choose your own adventure!

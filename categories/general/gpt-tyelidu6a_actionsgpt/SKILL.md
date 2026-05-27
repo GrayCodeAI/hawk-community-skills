@@ -1,3 +1,10 @@
+---
+name: gpt-tyelidu6a_actionsgpt
+description: "Skill: gpt-tyelidu6a_actionsgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TYEliDU6A-actionsgpt
 
 GPT Title: ActionsGPT

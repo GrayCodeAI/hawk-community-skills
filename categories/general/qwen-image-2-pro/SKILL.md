@@ -1,6 +1,8 @@
 ---
-name: qwen-image-pro
-description: "Generate images with Alibaba Qwen-Image-2.0-Pro via inference.sh CLI. Professional text rendering, fine-grained realism, enhanced semantic adherence. Ideal for posters, banners, and text-heavy designs. Triggers: qwen image pro, qwen-image-pro, qwen 2 pro, alibaba image pro, dashscope pro, professional text rendering"
+name: qwen-image-2-pro
+description: "Generate images with Alibaba Qwen-Image-2.0-Pro via inference.sh CLI. Professional text rendering, fine-grained realism, enhanced semantic adherence. Ideal for posters, banners, and text-heavy desi..."
+license: MIT
+tags: [general]
 allowed-tools: Bash(infsh *)
 ---
 

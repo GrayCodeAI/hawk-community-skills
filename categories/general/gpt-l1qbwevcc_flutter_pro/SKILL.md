@@ -1,3 +1,10 @@
+---
+name: gpt-l1qbwevcc_flutter_pro
+description: "Skill: gpt-l1qbwevcc_flutter_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-L1qbWEVCc-flutter-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-1tHjXAfGI53fJNCE855MprvZ?se=2123-12-18T01%3A02%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D3802ffa4-080b-4344-8153-98e149d5e9dc.png&sig=FVcMkvKG20IxIPv/wrb0%2BiMpAFVH2ue6/L1PnQET3es%3D" width="100px" />

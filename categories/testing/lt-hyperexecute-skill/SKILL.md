@@ -1,18 +1,8 @@
 ---
-name: hyperexecute-skill
-description: >
-  Generates HyperExecute YAML configurations for blazing-fast test orchestration
-  on LambdaTest's TestMu AI cloud. Framework-agnostic — works with any test
-  framework. Use when user mentions "HyperExecute", "fast test execution",
-  "test orchestration", "hyperexecute.yaml". Triggers on: "HyperExecute",
-  "hyperexecute.yaml", "test orchestration", "HE", "fast parallel tests".
-languages:
-  - YAML
-category: cloud-testing
+name: lt-hyperexecute-skill
+description: "Skill: lt-hyperexecute-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # HyperExecute Skill

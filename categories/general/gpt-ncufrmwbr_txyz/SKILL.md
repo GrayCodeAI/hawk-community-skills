@@ -1,3 +1,10 @@
+---
+name: gpt-ncufrmwbr_txyz
+description: "Skill: gpt-ncufrmwbr_txyz"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NCUFRmWbr-txyz
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-v3Zpvki6zO3ccV1hekGwDVF9?se=2123-12-25T09%3A39%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DWechatIMG2964.jpg&sig=uUXgppOWT15/O6Q6jGRcq1Zb5pQ09qQem4fnEjML3Fo%3D" width="100px" />

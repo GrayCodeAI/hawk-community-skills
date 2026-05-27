@@ -1,3 +1,10 @@
+---
+name: ls-bf5zry0wj_secret_keeper
+description: "Skill: ls-bf5zry0wj_secret_keeper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BF5zRy0WJ-secret-keeper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BBgRnoL028PeZDbzpBdxkHEX?se=2123-11-25T19%3A11%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dfc01766a-686e-4b52-8b2b-feb90d59d5bf.png&sig=sIpoae8r3x3K55RRkW0sDIYI4t03rwnZ5wVuOM8J8IU%3D" width="100px" />

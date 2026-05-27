@@ -1,3 +1,10 @@
+---
+name: ls-rbxmimdgf_kabbalah_and_the_gurdjieffs_4th_path
+description: "Skill: ls-rbxmimdgf_kabbalah_and_the_gurdjieffs_4th_path"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rbXMimdgF-kabbalah-and-the-gurdjieff-s-4th-path
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2XH9ej5SE8l2njkNcSycG8ux?se=2123-10-21T13%3A18%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D889c55f8-e38e-4a9b-b4df-0814c87668d6.png&sig=FLVedD5JGYDlIYLSigb3fcAbbYHAJLhUAYa1lNQajBg%3D" width="100px" />

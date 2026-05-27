@@ -1,3 +1,10 @@
+---
+name: ls-projectideas
+description: "Skill: ls-projectideas"
+license: MIT
+tags: [general]
+---
+
 20 quests
 
 ## Classic starters

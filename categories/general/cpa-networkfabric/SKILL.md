@@ -1,3 +1,10 @@
+---
+name: cpa-networkfabric
+description: "Skill: cpa-networkfabric"
+license: MIT
+tags: [general]
+---
+
 # az networkfabric
 
 ```bash

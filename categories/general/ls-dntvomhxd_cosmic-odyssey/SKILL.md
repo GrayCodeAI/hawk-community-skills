@@ -1,3 +1,10 @@
+---
+name: ls-dntvomhxd_cosmic-odyssey
+description: "Skill: ls-dntvomhxd_cosmic-odyssey"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DNtVomHxD-cosmic-odyssey
 
 GPT Title: Cosmic Odyssey

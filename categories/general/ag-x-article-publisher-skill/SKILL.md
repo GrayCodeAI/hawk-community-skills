@@ -1,9 +1,11 @@
 ---
-name: x-article-publisher-skill
+name: ag-x-article-publisher-skill
 description: "Publish articles to X/Twitter"
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/wshuyi/x-article-publisher-skill"
-date_added: "2026-02-27"
+source: https://github.com/wshuyi/x-article-publisher-skill
+date_added: 2026-02-27
 ---
 
 # X Article Publisher Skill

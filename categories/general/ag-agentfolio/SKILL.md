@@ -1,9 +1,11 @@
 ---
-name: agentfolio
+name: ag-agentfolio
 description: "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory."
+license: MIT
+tags: [general]
 risk: safe
 source: agentfolio.io
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # AgentFolio

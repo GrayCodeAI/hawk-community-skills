@@ -1,9 +1,10 @@
 ---
-name: github-automation
-description: >
-  GitHub workflow automation, PR management, issue tracking, and code review coordination. Integrates with GitHub Actions and repository management.
-  Use when: PR creation, code review, issue management, release automation, workflow setup.
-  Skip when: local-only changes, non-GitHub repositories.
+name: flow-github-automation
+description: "Skill: flow-github-automation"
+license: MIT
+tags: [general]
+Use when: PR creation, code review, issue management, release automation, workflow setup.
+Skip when: local-only changes, non-GitHub repositories.
 ---
 
 # GitHub Automation Skill

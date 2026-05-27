@@ -1,3 +1,10 @@
+---
+name: ghcp-references-web-protocols-standards
+description: "Skill: ghcp-references-web-protocols-standards"
+license: MIT
+tags: [general]
+---
+
 # Web Protocols & Standards Reference
 
 Organizations, specifications, and standards that govern the web.

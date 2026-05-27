@@ -1,10 +1,10 @@
 ---
-name: long-context
-description: Extend context windows of transformer models using RoPE, YaRN, ALiBi, and position interpolation techniques. Use when processing long documents (32k-128k+ tokens), extending pre-trained models beyond original context limits, or implementing efficient positional encodings. Covers rotary embeddings, attention biases, interpolation methods, and extrapolation strategies for LLMs.
+name: research-long-context
+description: "Extend context windows of transformer models using RoPE, YaRN, ALiBi, and position interpolation techniques. Use when processing long documents (32k-128k+ tokens), extending pre-trained models beyo..."
+license: MIT
+tags: [emerging-techniques, long-context, rope, yarn, alibi, position-interpolation, extended-context, rotary-embeddings, attention-bias, context-extension, positional-encoding]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Emerging Techniques, Long Context, RoPE, YaRN, ALiBi, Position Interpolation, Extended Context, Rotary Embeddings, Attention Bias, Context Extension, Positional Encoding]
 dependencies: [transformers, torch, flash-attn]
 ---
 
@@ -532,5 +532,3 @@ llm = LLM(
 - `references/rope.md` - Detailed RoPE implementation and theory
 - `references/extension_methods.md` - YaRN, ALiBi, Position Interpolation comparisons
 - `references/fine_tuning.md` - Complete fine-tuning guide for context extension
-
-

@@ -1,3 +1,10 @@
+---
+name: ls-xnstya5l9_prompt_polisher
+description: "Skill: ls-xnstya5l9_prompt_polisher"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xnstya5L9-prompt-polisher
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gFG2jDN1rR6HCxxpsdJypcdN?se=2123-12-12T09%3A17%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDAFA23_4-10%2520%2528fade%2520adjustment%2529.png&sig=taFq0/1XB9WQD1pZUimK%2B7rxDPs/IR9DTnOhHAl%2BgLo%3D" width="100px" />

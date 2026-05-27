@@ -1,7 +1,10 @@
 ---
-description: Enforces best practices for React Native Expo development within the src directory, promoting maintainable and efficient code.
-globs: src/**/*.*
+name: mdc-react-native-expo-best-practices
+description: "Enforces best practices for React Native Expo development within the src directory, promoting maintainable and efficient code."
+license: MIT
+tags: [react]
 ---
+
 - Use functional components with hooks.
 - Leverage Expo SDK features and APIs.
 - Implement navigation using Expo Router.

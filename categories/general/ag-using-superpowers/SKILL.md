@@ -1,9 +1,11 @@
 ---
-name: using-superpowers
+name: ag-using-superpowers
 description: "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 <EXTREMELY-IMPORTANT>

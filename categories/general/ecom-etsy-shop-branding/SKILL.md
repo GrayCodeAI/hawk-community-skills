@@ -1,9 +1,11 @@
 ---
-name: etsy-shop-branding
+name: ecom-etsy-shop-branding
 description: "Shop branding — banner design, logo, brand story, cohesive listing photography, packaging"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Shop Branding

@@ -1,9 +1,10 @@
 ---
 name: improve_prompt
-description: Fabric pattern - improve_prompt
-domain: general
+description: "Fabric pattern - improve_prompt"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

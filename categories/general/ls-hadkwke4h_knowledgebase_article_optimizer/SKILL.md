@@ -1,3 +1,10 @@
+---
+name: ls-hadkwke4h_knowledgebase_article_optimizer
+description: "Skill: ls-hadkwke4h_knowledgebase_article_optimizer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HAdKwKe4H-knowledgebase-article-optimizer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-63jkazg1w0YODluXPO5DOW9S?se=2123-11-27T14%3A46%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D7ca3c2a2-b151-496d-9021-c4e994c65b26.png&sig=VN0RxLsRQWkXZsoLXWKQ6Qavl4UDJiSknOnIoj2QMM4%3D" width="100px" />

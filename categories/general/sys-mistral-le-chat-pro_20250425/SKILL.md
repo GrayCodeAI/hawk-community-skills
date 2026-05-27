@@ -1,3 +1,10 @@
+---
+name: sys-mistral-le-chat-pro_20250425
+description: "Skill: sys-mistral-le-chat-pro_20250425"
+license: MIT
+tags: [general]
+---
+
 # mistral-le-chat-pro_20250425
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/75>, <https://chat.mistral.ai/chat/96c95d0e-3b61-491d-8df0-7450a155c0a6>

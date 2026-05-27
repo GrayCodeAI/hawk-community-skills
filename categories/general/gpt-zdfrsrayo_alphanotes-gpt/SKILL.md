@@ -1,3 +1,10 @@
+---
+name: gpt-zdfrsrayo_alphanotes-gpt
+description: "Skill: gpt-zdfrsrayo_alphanotes-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt
 
 GPT Title: AlphaNotes GPT

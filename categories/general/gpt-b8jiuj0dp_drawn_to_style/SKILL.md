@@ -1,3 +1,10 @@
+---
+name: gpt-b8jiuj0dp_drawn_to_style
+description: "Skill: gpt-b8jiuj0dp_drawn_to_style"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B8Jiuj0Dp-drawn-to-style
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gP54nvFyK44hooUEvYMhJciy?se=2123-10-16T22%3A11%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd0377191-2a44-4506-b90a-0e0f03465c0a.png&sig=%2BzFFaYI2Vkq5a/uJSvfamk5XER8EVlYeKQy0qn4lqCs%3D" width="100px" />

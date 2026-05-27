@@ -1,3 +1,10 @@
+---
+name: ls-umzfcva9z_world-class-prompt-engineer
+description: "Skill: ls-umzfcva9z_world-class-prompt-engineer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UMzfCVA9Z-world-class-prompt-engineer
 
 GPT Title: World Class Prompt Engineer

@@ -1,3 +1,10 @@
+---
+name: gpt-tmfdpfnlc_codegpt-decompiler-&-cheat-developer
+description: "Skill: gpt-tmfdpfnlc_codegpt-decompiler-&-cheat-developer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-tMFDPfnlC-codegpt-decompiler-cheat-developer/
 
 GPT Title: CodeGPT Decompiler & Cheat Developer

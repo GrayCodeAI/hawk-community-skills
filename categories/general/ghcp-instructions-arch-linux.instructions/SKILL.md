@@ -1,6 +1,8 @@
 ---
-description: 'Guidance for Arch Linux administration, pacman workflows, and rolling-release best practices.'
-applyTo: '**'
+name: ghcp-instructions-arch-linux.instructions
+description: "Skill: ghcp-instructions-arch-linux.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Arch Linux Administration Guidelines

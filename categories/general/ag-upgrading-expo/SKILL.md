@@ -1,9 +1,11 @@
 ---
-name: upgrading-expo
+name: ag-upgrading-expo
 description: "Upgrade Expo SDK versions"
+license: MIT
+tags: [general]
 risk: safe
-source: "https://github.com/expo/skills/tree/main/plugins/upgrading-expo"
-date_added: "2026-02-27"
+source: https://github.com/expo/skills/tree/main/plugins/upgrading-expo
+date_added: 2026-02-27
 ---
 
 # Upgrading Expo

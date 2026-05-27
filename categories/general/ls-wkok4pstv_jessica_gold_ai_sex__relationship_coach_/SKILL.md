@@ -1,3 +1,10 @@
+---
+name: ls-wkok4pstv_jessica_gold_ai_sex__relationship_coach_
+description: "Skill: ls-wkok4pstv_jessica_gold_ai_sex__relationship_coach_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wkoK4Pstv-jessica-gold-ai-sex-relationship-coach-for-men
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XJTxaD3hFP046VNYeXvMzjqg?se=2123-10-16T23%3A53%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDall-E%2520original.png&sig=lyTMjStQn10xenL2GQQonyH591n8tQhN3UL7qL8zW94%3D" width="100px" />

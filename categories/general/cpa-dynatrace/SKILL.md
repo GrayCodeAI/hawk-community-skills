@@ -1,3 +1,10 @@
+---
+name: cpa-dynatrace
+description: "Skill: cpa-dynatrace"
+license: MIT
+tags: [general]
+---
+
 # az dynatrace
 
 ```bash

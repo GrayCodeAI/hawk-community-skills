@@ -1,8 +1,10 @@
 ---
-name: 'Salesforce Flow Development'
-description: 'Implement business automation using Salesforce Flow following declarative automation best practices.'
+name: ghcp-agents-salesforce-flow
+description: "Implement business automation using Salesforce Flow following declarative automation best practices."
+license: MIT
+tags: [general]
 model: claude-3.5-sonnet
-tools: ['codebase', 'edit/editFiles', 'terminalCommand', 'search', 'githubRepo']
+tools: [codebase, edit/editFiles, terminalCommand, search, githubRepo]
 ---
 
 # Salesforce Flow Development Agent

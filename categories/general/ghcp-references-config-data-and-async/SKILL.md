@@ -1,3 +1,10 @@
+---
+name: ghcp-references-config-data-and-async
+description: "Skill: ghcp-references-config-data-and-async"
+license: MIT
+tags: [general]
+---
+
 # Config, Data, And Async Patterns
 
 Use this reference when a task touches config loading, persistence, caches, scoreboards, or background refreshes.

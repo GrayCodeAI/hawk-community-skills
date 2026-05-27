@@ -1,9 +1,10 @@
 ---
 name: persona-trivia-master
-description: AI persona - trivia-master
-domain: general
+description: "AI persona - trivia-master"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

@@ -1,3 +1,10 @@
+---
+name: prompt-SELF-HOSTING
+description: "Skill: prompt-SELF-HOSTING"
+license: MIT
+tags: [general]
+---
+
 # Self-Hosting Guide
 
 ## Capabilities

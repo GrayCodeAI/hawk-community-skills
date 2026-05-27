@@ -1,9 +1,11 @@
 ---
-name: brevo-automation
+name: ag-brevo-automation
 description: "Automate Brevo (formerly Sendinblue) email marketing operations through Composio's Brevo toolkit via Rube MCP."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Brevo Automation via Rube MCP

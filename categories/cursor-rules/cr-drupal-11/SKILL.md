@@ -1,9 +1,10 @@
 ---
 name: cr-drupal-11
-description: Cursor rules for drupal-11
-domain: engineering
+description: "Cursor rules for drupal-11"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -50,4 +51,3 @@ Always produce **functional, secure, and efficient** Drupal code that aligns wit
 - Follow Drupal’s official best practices and coding guidelines in any solution. When in doubt, consult the Drupal 11 documentation or example implementations from Drupal core.  
 - Provide examples or snippets if they help illustrate a solution (for instance, sample code on how to use a certain Drupal service or API). However, ensure any example code is relevant and tested for Drupal 11 compatibility.  
 - Keep solutions **modular**. For any new functionality, consider if it belongs in a custom module or can be achieved with an existing contributed module. Recommend established contributed modules (from drupal.org) when appropriate, rather than reinventing the wheel in custom code.
-

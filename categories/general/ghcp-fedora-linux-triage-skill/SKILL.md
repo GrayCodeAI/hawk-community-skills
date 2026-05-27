@@ -1,6 +1,8 @@
 ---
-name: fedora-linux-triage
-description: 'Triage and resolve Fedora issues with dnf, systemd, and SELinux-aware guidance.'
+name: ghcp-fedora-linux-triage-skill
+description: "Triage and resolve Fedora issues with dnf, systemd, and SELinux-aware guidance."
+license: MIT
+tags: [general]
 ---
 
 # Fedora Linux Triage

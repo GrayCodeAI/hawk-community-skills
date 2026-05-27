@@ -1,8 +1,8 @@
 ---
-name: memory-bridge
-description: Bridge Claude Code auto-memory into AgentDB with ONNX embeddings, deduplicate, and enable unified cross-project search
-argument-hint: "[--all-projects] [--dedupe]"
-allowed-tools: Bash Read mcp__claude-flow__memory_import_claude mcp__claude-flow__memory_bridge_status mcp__claude-flow__memory_search_unified
+name: flow-memory-bridge
+description: "Skill: flow-memory-bridge"
+license: MIT
+tags: [general]
 ---
 
 # Memory Bridge

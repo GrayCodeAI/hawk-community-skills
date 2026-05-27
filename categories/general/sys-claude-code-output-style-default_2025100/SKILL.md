@@ -1,3 +1,10 @@
+---
+name: sys-claude-code-output-style-default_2025100
+description: "Skill: sys-claude-code-output-style-default_2025100"
+license: MIT
+tags: [general]
+---
+
 # claude-code-output-style-default_20251007
 
 source: Extracted from Claude Code CLI (cli.js)

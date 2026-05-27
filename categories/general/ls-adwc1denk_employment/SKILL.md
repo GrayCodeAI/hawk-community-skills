@@ -1,3 +1,10 @@
+---
+name: ls-adwc1denk_employment
+description: "Skill: ls-adwc1denk_employment"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ADWc1DEnk-employment
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6gem9Vbd9JzBkdpD5H3czUWb?se=2123-12-29T02%3A00%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dabc34ad9-37b9-4a05-ae80-e1f4af3c01f1.png&sig=Gm3NFo0pC5EkNyuAaUbuL0iniyLZ2Lijl%2BnhVue%2BIDg%3D" width="100px" />

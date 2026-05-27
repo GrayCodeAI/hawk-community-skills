@@ -1,3 +1,10 @@
+---
+name: gpt-sfjhrbntl_gpt_defender
+description: "Skill: gpt-sfjhrbntl_gpt_defender"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sFjHrbntl-gpt-defender
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SYuXl2vcPwGalEzl2UpvA78f?se=2124-01-05T10%3A56%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-29%252017.42.26%2520-%2520Based%2520on%2520the%2520same%2520seed%2520and%2520style%252C%2520and%2520retaining%2520the%2520%2527Defender%2527%2520letters%2520from%2520the%2520previous%2520design%252C%2520modify%2520the%2520icon%2520for%2520the%2520%2527GPTs%2520Defender%2527%2520PC%2520applicatio.png&sig=Flka%2BFqfCe0ZkDEJ/AG0oNf0XI7oQ6bQxhDVeskZThg%3D" width="100px" />

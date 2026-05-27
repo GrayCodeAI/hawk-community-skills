@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing TanStack apps with Supabase Authentication
-globs: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx"
+name: inst-setup-supabase-tanstack
+description: "Guidelines for writing TanStack apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap TanStack App with Supabase Authentication
@@ -338,4 +340,4 @@ function HomeComponent() {
     </div>
   );
 }
-``` 
+```

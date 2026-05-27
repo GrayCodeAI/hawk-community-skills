@@ -1,9 +1,10 @@
 ---
 name: cr-unity-cursor-ai-c
-description: Cursor rules for unity-cursor-ai-c
-domain: engineering
+description: "Cursor rules for unity-cursor-ai-c"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -25,4 +26,3 @@ author: PatrickJS/awesome-cursorrules
 
 // Additional Notes
 // Feel free to ask questions if you need more information about the project intentions.
-

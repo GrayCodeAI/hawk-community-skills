@@ -1,3 +1,10 @@
+---
+name: ls-d6cgwk4lu_ea_wizard
+description: "Skill: ls-d6cgwk4lu_ea_wizard"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-d6cGwK4Lu-ea-wizard
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kadFYEMdQI6ILYoBjHib8Fps?se=2123-10-19T11%3A19%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D593c05bf-cb49-4c39-af8f-6a1b5276ac25.png&sig=z%2BTCgHDh2O5urw4EnngHbGQbpo2y/MF1sm%2BkI%2BSZ/Bo%3D" width="100px" />

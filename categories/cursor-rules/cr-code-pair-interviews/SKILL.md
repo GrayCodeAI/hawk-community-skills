@@ -1,9 +1,10 @@
 ---
 name: cr-code-pair-interviews
-description: Cursor rules for code-pair-interviews
-domain: engineering
+description: "Cursor rules for code-pair-interviews"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ls-c4konxtln_food_is_health
+description: "Skill: ls-c4konxtln_food_is_health"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-C4KONXTlN-food-is-health
 
 GPT logo: <img src="None" width="100px" />

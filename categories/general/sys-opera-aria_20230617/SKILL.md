@@ -1,3 +1,10 @@
+---
+name: sys-opera-aria_20230617
+description: "Skill: sys-opera-aria_20230617"
+license: MIT
+tags: [general]
+---
+
 # opera-aria_20230617
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/3>

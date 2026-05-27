@@ -1,8 +1,10 @@
 ---
-title: "GitHub Copilot CLI for Beginners"
+name: ghcp-cli-for-beginners-index
 description: "A source-faithful mirror of the companion GitHub Copilot CLI for Beginners course."
-authors:
-  - GitHub Copilot Learning Hub Team
+license: MIT
+tags: [general]
+title: GitHub Copilot CLI for Beginners
+authors: None
 lastUpdated: 2026-03-20
 ---
 

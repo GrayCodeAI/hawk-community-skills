@@ -1,7 +1,10 @@
 ---
-description: Specifies testing guidelines for Flutter projects, covering unit, widget, and integration tests.
-globs: test/**/*.*
+name: mdc-flutter-testing-rules
+description: "Specifies testing guidelines for Flutter projects, covering unit, widget, and integration tests."
+license: MIT
+tags: [testing]
 ---
+
 - Write unit tests for business logic.
 - Implement widget tests for UI components.
 - Use integration tests for feature testing.

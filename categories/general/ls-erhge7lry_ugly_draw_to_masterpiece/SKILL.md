@@ -1,3 +1,10 @@
+---
+name: ls-erhge7lry_ugly_draw_to_masterpiece
+description: "Skill: ls-erhge7lry_ugly_draw_to_masterpiece"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eRhGE7LRy-ugly-draw-to-masterpiece
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-E6NfqbgLMt90QHByGitPKQka?se=2123-10-17T10%3A03%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1b9877d1-03dd-4d2c-9f1f-144649399275.png&sig=VCM3hmDrPg2It8vCssdZ77xQP3MD2tSH%2BO7xPMz5FOU%3D" width="100px" />

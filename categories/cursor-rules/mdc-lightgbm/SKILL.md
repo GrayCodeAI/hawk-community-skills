@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for using LightGBM in production-grade Python ML pipelines, focusing on performance, reproducibility, and maintainability.
-globs: **/*.py
+name: mdc-lightgbm
+description: "This guide provides opinionated, actionable best practices for using LightGBM in production-grade Python ML pipelines, focusing on performance, reproducibility, and maintainability."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # lightgbm Best Practices
 
 LightGBM is our go-to for high-performance tabular modeling. These rules ensure our LightGBM implementations are fast, reliable, and maintainable.

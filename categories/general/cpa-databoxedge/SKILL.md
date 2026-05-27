@@ -1,3 +1,10 @@
+---
+name: cpa-databoxedge
+description: "Skill: cpa-databoxedge"
+license: MIT
+tags: [general]
+---
+
 # az databoxedge
 
 ```bash

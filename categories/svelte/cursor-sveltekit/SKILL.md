@@ -1,16 +1,11 @@
 ---
 name: cursor-sveltekit
-description: Cursor IDE rules for sveltekit
-domain: engineering
+description: "Cursor IDE rules for sveltekit"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "SvelteKit: load functions, form actions, +page/+layout patterns"
-globs: ["*.svelte", "*.ts", "*.js"]
-alwaysApply: true
 ---
 
 # SvelteKit Cursor Rules

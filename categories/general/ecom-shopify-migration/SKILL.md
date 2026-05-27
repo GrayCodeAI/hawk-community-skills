@@ -1,9 +1,11 @@
 ---
-name: shopify-migration
+name: ecom-shopify-migration
 description: "Platform migration to Shopify — from WooCommerce, Magento, BigCommerce, data transfer, URL redirects"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Migration

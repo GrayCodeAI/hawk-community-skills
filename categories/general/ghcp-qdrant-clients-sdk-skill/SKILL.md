@@ -1,11 +1,9 @@
 ---
-name: qdrant-clients-sdk
+name: ghcp-qdrant-clients-sdk-skill
 description: "Qdrant provides client SDKs for various programming languages, allowing easy integration with Qdrant deployments."
-allowed-tools:
-  - Read
-  - Grep
-  - Glob
-  - Bash
+license: MIT
+tags: [general]
+allowed-tools: None
 ---
 
 # Qdrant Clients SDK

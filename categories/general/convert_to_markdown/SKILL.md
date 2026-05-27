@@ -1,9 +1,10 @@
 ---
 name: convert_to_markdown
-description: Fabric pattern - convert_to_markdown
-domain: general
+description: "Fabric pattern - convert_to_markdown"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -49,4 +50,3 @@ You are an expert format converter specializing in converting content to clean M
 INPUT
 
 </content>
-

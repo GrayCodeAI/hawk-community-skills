@@ -1,19 +1,14 @@
 ---
 name: detecting-malicious-scheduled-tasks-with-sysmon
-description: >
-  Detect malicious scheduled task creation and modification using Sysmon Event IDs 1 (Process
-  Create for schtasks.exe), 11 (File Create for task XML), and Windows Security Event 4698/4702.
-  The analyst correlates task creation with suspicious parent processes, public directory paths,
-  and encoded command arguments to identify persistence and lateral movement via scheduled tasks.
-  Activates for requests involving scheduled task detection, Sysmon persistence hunting, or
-  T1053.005 Scheduled Task/Job analysis.
+description: "Detect malicious scheduled task creation and modification using Sysmon Event IDs 1 (Process Create for schtasks.exe), 11 (File Create for task XML), and Windows Security Event 4698/4702. The analys..."
+license: MIT
+tags: [sysmon, scheduled-tasks, persistence, detection, threat-hunting, windows-security]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [sysmon, scheduled-tasks, persistence, detection, threat-hunting, windows-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Detecting Malicious Scheduled Tasks with Sysmon
 
 ## Overview

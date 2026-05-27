@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, maintainable, and backend-agnostic asynchronous Python code using AnyIO. Prioritize structured concurrency and native AnyIO primitives.
-globs: **/*.py
+name: mdc-anyio
+description: "Definitive guidelines for writing robust, maintainable, and backend-agnostic asynchronous Python code using AnyIO. Prioritize structured concurrency and native AnyIO primitives."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # AnyIO Best Practices
 
 AnyIO is the definitive choice for modern asynchronous Python development. It provides a unified, Trio-inspired API on top of `asyncio` or `Trio`, fixing critical design shortcomings of `asyncio` and enforcing structured concurrency. Adhere to these rules to build reliable, high-performance async applications.

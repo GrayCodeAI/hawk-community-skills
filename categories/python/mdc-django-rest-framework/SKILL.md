@@ -1,7 +1,10 @@
 ---
-description: Enforces modern, secure, and performant `django-rest-framework` best practices for API development, focusing on maintainability and scalability.
-globs: **/*.py
+name: mdc-django-rest-framework
+description: "Enforces modern, secure, and performant `django-rest-framework` best practices for API development, focusing on maintainability and scalability."
+license: MIT
+tags: [python]
 ---
+
 # django-rest-framework Best Practices
 
 This guide outlines our definitive standards for building APIs with Django REST Framework (DRF). Adhere to these rules to ensure consistency, security, and performance across all projects.

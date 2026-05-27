@@ -1,3 +1,10 @@
+---
+name: cpa-cdn
+description: "Skill: cpa-cdn"
+license: MIT
+tags: [general]
+---
+
 # az cdn
 
 ```bash

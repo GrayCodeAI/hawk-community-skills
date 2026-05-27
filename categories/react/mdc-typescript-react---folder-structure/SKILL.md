@@ -1,7 +1,11 @@
 ---
-description: Defines the preferred folder structure for TypeScript React projects to maintain a consistent organization.
-globs: src/**/*.*
+name: mdc-typescript-react---folder-structure
+description: 'Skill: mdc-typescript-react---folder-structure'
+license: MIT
+tags:
+- react
 ---
+
 - Recommended folder structure:
   src/
     components/

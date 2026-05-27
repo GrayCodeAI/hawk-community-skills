@@ -1,3 +1,10 @@
+---
+name: ls-pamk0cuyq_bad_news_-_standardized_patient_simcoach
+description: "Skill: ls-pamk0cuyq_bad_news_-_standardized_patient_simcoach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pAMK0CuYQ-bad-news-standardized-patient-sim-coaching
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HKQ3FuV5Ue6oAFHQcJVzxDtY?se=2123-10-24T01%3A03%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dffe998b8-4672-4b17-b1b2-e94c1b7739a1.png&sig=GVqrENeLb02WvctuZwXGA67J/9Yv2RhdRDbrHm%2BR%2Bz0%3D" width="100px" />

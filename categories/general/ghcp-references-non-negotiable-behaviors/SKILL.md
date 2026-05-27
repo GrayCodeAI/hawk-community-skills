@@ -1,3 +1,10 @@
+---
+name: ghcp-references-non-negotiable-behaviors
+description: "Skill: ghcp-references-non-negotiable-behaviors"
+license: MIT
+tags: [general]
+---
+
 # Non-Negotiable Behaviors
 
 These rules apply to **all** AppSec agents with no exceptions:

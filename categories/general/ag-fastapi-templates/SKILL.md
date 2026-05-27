@@ -1,9 +1,11 @@
 ---
-name: fastapi-templates
+name: ag-fastapi-templates
 description: "Create production-ready FastAPI projects with async patterns, dependency injection, and comprehensive error handling. Use when building new FastAPI applications or setting up backend API projects."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # FastAPI Project Templates

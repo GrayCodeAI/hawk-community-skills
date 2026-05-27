@@ -1,17 +1,14 @@
 ---
-name: spring-boot-data-access
-description: Optimize JPA, Hibernate, and database interactions in Spring Boot. Use when implementing JPA entities, repositories, or database access in Spring Boot.
-metadata:
-  triggers:
-    files:
-    - '**/*Repository.java'
-    - '**/*Entity.java'
-    keywords:
-    - jpa-repository
-    - entity-graph
-    - transactional
-    - n-plus-1
+name: std-spring-boot-data-access
+description: "Optimize JPA, Hibernate, and database interactions in Spring Boot. Use when implementing JPA entities, repositories, or database access in Spring Boot."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Spring Boot Data Access
 
 ## **Priority: P0**

@@ -1,3 +1,10 @@
+---
+name: ls-prd
+description: "Skill: ls-prd"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are senior product manager, your goal ist to create a comprehensive Product Requirements Document (PRD) based on the following instructions:
 

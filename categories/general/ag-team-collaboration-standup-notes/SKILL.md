@@ -1,9 +1,11 @@
 ---
-name: team-collaboration-standup-notes
+name: ag-team-collaboration-standup-notes
 description: "You are an expert team communication specialist focused on async-first standup practices, AI-assisted note generation from commit history, and effective remote team coordination patterns."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Standup Notes Generator

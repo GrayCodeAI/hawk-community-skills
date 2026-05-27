@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing secure, maintainable, and gas-efficient Solidity smart contracts, emphasizing modern best practices and security-first development.
-globs: **/*
+name: mdc-solidity
+description: "Definitive guidelines for writing secure, maintainable, and gas-efficient Solidity smart contracts, emphasizing modern best practices and security-first development."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Solidity Best Practices
 
 This guide outlines the definitive best practices for writing Solidity smart contracts, ensuring security, readability, and efficiency. Adhere to these rules for all new and refactored code.

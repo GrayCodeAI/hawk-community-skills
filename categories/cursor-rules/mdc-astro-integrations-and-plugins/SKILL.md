@@ -1,7 +1,10 @@
 ---
-description: Rules for utilizing Astro integrations and plugins, configured in astro.config.mjs.
-globs: astro.config.mjs
+name: mdc-astro-integrations-and-plugins
+description: "Rules for utilizing Astro integrations and plugins, configured in astro.config.mjs."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Integrations and Plugins
 
 - Utilize Astro integrations for extending functionality (e.g., @astrojs/image).

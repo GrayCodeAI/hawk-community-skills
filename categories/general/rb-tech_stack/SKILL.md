@@ -1,3 +1,10 @@
+---
+name: rb-tech_stack
+description: "Skill: rb-tech_stack"
+license: MIT
+tags: [general]
+---
+
 # VS Code Extension GUI Tech Stack Decision (MVP)
 
 For the initial MVP of the VS Code extension GUI (Webview), the chosen technology stack is **Plain HTML, CSS, and TypeScript**.

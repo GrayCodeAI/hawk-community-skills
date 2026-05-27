@@ -1,3 +1,10 @@
+---
+name: cpa-notification-hub
+description: "Skill: cpa-notification-hub"
+license: MIT
+tags: [general]
+---
+
 # az notification-hub
 
 ```bash

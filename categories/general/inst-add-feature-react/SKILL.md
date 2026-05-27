@@ -1,6 +1,8 @@
 ---
-description: Framework-specific patterns for adding features to React 19 applications
-globs: **/*.tsx, **/*.jsx, **/*.ts, **/*.js
+name: inst-add-feature-react
+description: "Framework-specific patterns for adding features to React 19 applications"
+license: MIT
+tags: [general]
 ---
 
 # Server Components
@@ -137,4 +139,4 @@ Key Patterns
 - Use Metadata API for dynamic SEO tags
 - Implement proper semantic HTML structure
 - Utilize Server Components for SEO-critical content
-- Structure routes for optimal crawlability 
+- Structure routes for optimal crawlability

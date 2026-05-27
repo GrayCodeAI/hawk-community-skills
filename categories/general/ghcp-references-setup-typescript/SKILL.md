@@ -1,3 +1,10 @@
+---
+name: ghcp-references-setup-typescript
+description: "Skill: ghcp-references-setup-typescript"
+license: MIT
+tags: [general]
+---
+
 # Setup: TypeScript
 
 Packages required for Phoenix evals and experiments.

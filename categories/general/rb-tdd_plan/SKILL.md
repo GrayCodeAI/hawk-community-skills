@@ -1,3 +1,10 @@
+---
+name: rb-tdd_plan
+description: "Skill: rb-tdd_plan"
+license: MIT
+tags: [general]
+---
+
 # TDD Plan: Community Pack Ecosystem
 
 This document outlines the test strategy for introducing community-maintained rule packs.

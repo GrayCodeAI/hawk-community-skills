@@ -1,7 +1,9 @@
 ---
-name: vector-database-engineer
-description: Designs embedding pipelines and vector search systems using FAISS, Pinecone, Qdrant, and Weaviate for semantic retrieval at scale
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-vector-database-engineer
+description: "Designs embedding pipelines and vector search systems using FAISS, Pinecone, Qdrant, and Weaviate for semantic retrieval at scale"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

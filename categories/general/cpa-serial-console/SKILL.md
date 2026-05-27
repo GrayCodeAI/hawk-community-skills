@@ -1,3 +1,10 @@
+---
+name: cpa-serial-console
+description: "Skill: cpa-serial-console"
+license: MIT
+tags: [general]
+---
+
 # az serial-console
 
 ```bash

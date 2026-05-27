@@ -1,3 +1,10 @@
+---
+name: ghcp-references-oracle-to-postgres-sorting
+description: "Skill: ghcp-references-oracle-to-postgres-sorting"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL Sorting Migration Guide
 
 Purpose: Preserve Oracle-like sorting semantics when moving queries to PostgreSQL.

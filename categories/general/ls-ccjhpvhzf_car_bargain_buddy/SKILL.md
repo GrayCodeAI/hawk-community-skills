@@ -1,3 +1,10 @@
+---
+name: ls-ccjhpvhzf_car_bargain_buddy
+description: "Skill: ls-ccjhpvhzf_car_bargain_buddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CCjHPvHZf-car-bargain-buddy
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tKKmPgrFI9jnDcCcwlz2DLcX?se=2123-11-04T05%3A50%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D27459d8e-2bbf-473c-8524-3b60fe7d1056.png&sig=v7bfdrHNzBC%2BffyFtyjCtITOYKyAHH5Vndt/XSaR5Wc%3D" width="100px" />

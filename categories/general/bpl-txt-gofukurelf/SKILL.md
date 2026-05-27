@@ -1,12 +1,12 @@
 ---
-name: bpl-gofukurelf
-description: System prompt - gofukurelf
-domain: general
+name: bpl-txt-gofukurelf
+description: "System prompt - gofukurelf"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 I know this is my security back up plan.
 

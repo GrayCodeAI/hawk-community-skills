@@ -1,9 +1,10 @@
 ---
 name: create_newsletter_entry
-description: Fabric pattern - create_newsletter_entry
-domain: general
+description: "Fabric pattern - create_newsletter_entry"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -32,4 +33,3 @@ Anthropic has launched Claude Skills, a user-friendly system designed to enhance
 # INPUT:
 
 INPUT:
-

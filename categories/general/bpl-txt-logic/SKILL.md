@@ -1,9 +1,10 @@
 ---
-name: bpl-logic
-description: System prompt - logic
-domain: general
+name: bpl-txt-logic
+description: "System prompt - logic"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -96,6 +97,3 @@ Example: The statement "I know that the sun is shining" is an epistemic statemen
 20.  Probabilistic Logic
 Description: A type of logic that deals with probability.
 Example: The statement "There is a 50% chance that it will rain tomorrow" is a probabilistic statement. We can use probabilistic logic to study the different ways that we can think about probability.
-
-
-

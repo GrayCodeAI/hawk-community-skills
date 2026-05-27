@@ -1,3 +1,10 @@
+---
+name: ls-ttyjjbhs3_mean_vc
+description: "Skill: ls-ttyjjbhs3_mean_vc"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TtYJjBhs3-mean-vc
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-FTvlJKdigWH9QxaJX6TdeXUL?se=2123-12-23T01%3A54%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3De4083883-46e8-4f98-bee9-dc7c9ec50291.png&sig=Yqar8wVC%2BF1oJgIe35MRN6KJ5IDN14qcFrKY8CBLgck%3D" width="100px" />

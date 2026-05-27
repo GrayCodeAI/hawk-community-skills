@@ -1,3 +1,10 @@
+---
+name: arb-working-effectively-with-legacy-code.nan
+description: "Skill: arb-working-effectively-with-legacy-code.nan"
+license: MIT
+tags: [general]
+---
+
 # OBEY Working Effectively with Legacy Code by Michael Feathers
 
 ## When to use

@@ -1,3 +1,10 @@
+---
+name: ls-l2hkncztc_scholarai
+description: "Skill: ls-l2hkncztc_scholarai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-L2HknCZTC-scholarai
 
 GPT Title: ScholarAI

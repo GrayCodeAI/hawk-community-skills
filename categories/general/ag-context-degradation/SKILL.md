@@ -1,6 +1,8 @@
 ---
-name: context-degradation
+name: ag-context-degradation
 description: "Language models exhibit predictable degradation patterns as context length increases. Understanding these patterns is essential for diagnosing failures and designing resilient systems."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

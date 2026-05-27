@@ -1,3 +1,10 @@
+---
+name: extra-implement-task
+description: "Skill: extra-implement-task"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Implement Task
 
 Approach task implementation methodically with careful planning and execution.

@@ -1,9 +1,10 @@
 ---
 name: cr-htmx-flask
-description: Cursor rules for htmx-flask
-domain: engineering
+description: "Cursor rules for htmx-flask"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -46,4 +47,3 @@ const additionalInstructions = `
 6. Follow Flask's application factory pattern
 7. Use environment variables for configuration
 `;
-

@@ -1,7 +1,10 @@
 ---
-description: General rules for writing Rell code, emphasizing clarity, correctness, and adherence to Rell-specific instructions.
-globs: **/*.rell
+name: mdc-rell-general-rules
+description: "General rules for writing Rell code, emphasizing clarity, correctness, and adherence to Rell-specific instructions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - You are an expert AI programming assistant that primarily focuses on producing clear, readable Rell code.
 - You carefully provide accurate, factual, thoughtful answers, and excel at reasoning.
 - Follow the user’s requirements carefully & to the letter.

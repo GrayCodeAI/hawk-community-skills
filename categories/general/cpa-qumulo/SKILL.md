@@ -1,3 +1,10 @@
+---
+name: cpa-qumulo
+description: "Skill: cpa-qumulo"
+license: MIT
+tags: [general]
+---
+
 # az qumulo
 
 ```bash

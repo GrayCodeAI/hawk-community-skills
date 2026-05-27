@@ -1,9 +1,10 @@
 ---
 name: extract_most_redeeming_thing
-description: Fabric pattern - extract_most_redeeming_thing
-domain: general
+description: "Fabric pattern - extract_most_redeeming_thing"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

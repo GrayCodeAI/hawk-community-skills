@@ -1,3 +1,10 @@
+---
+name: prompt-CLAUDE-PLUGIN
+description: "Skill: prompt-CLAUDE-PLUGIN"
+license: MIT
+tags: [general]
+---
+
 # Claude Code Plugin
 
 Access prompts.chat directly in [Claude Code](https://code.claude.com) with our official plugin. Search prompts, discover skills, and improve your prompts without leaving your IDE.

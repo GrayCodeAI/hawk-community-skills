@@ -1,9 +1,11 @@
 ---
-name: 'audit-integrity'
-description: 'Shared audit integrity framework for all AppSec agents — enforces output quality, intellectual honesty, and continuous improvement through anti-rationalization guards, self-critique loops, retry protocols, non-negotiable behaviors, self-reflection quality gates (1-10 scoring, ≥8 threshold), and a self-learning system with lesson/memory governance for security analysis agents.'
-compatibility: 'Cross-platform. Works with any language or framework analyzed by AppSec agents.'
-metadata:
-  version: '1.0'
+name: copilot-audit-integrity
+description: "Shared audit integrity framework for all AppSec agents — enforces output quality, intellectual honesty, and continuous improvement through anti-rationalization guards, self-critique loops, retry pr..."
+license: MIT
+tags: [general]
+compatibility: Cross-platform. Works with any language or framework analyzed by AppSec agents.
+metadata: None
+version: 1.0
 ---
 
 # Audit Integrity Skill

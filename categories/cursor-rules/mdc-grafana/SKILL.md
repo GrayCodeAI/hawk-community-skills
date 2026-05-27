@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive best practices for developing, structuring, and maintaining Grafana dashboards, alerts, and data sources as code, ensuring readability, performance, and scalability across teams.
-globs: **/*
+name: mdc-grafana
+description: "This guide defines definitive best practices for developing, structuring, and maintaining Grafana dashboards, alerts, and data sources as code, ensuring readability, performance, and scalability ac..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Grafana Best Practices
 
 Our team treats Grafana dashboards, alerts, and data sources as first-class code artifacts. This means applying software engineering principles: version control, peer review, automated testing, and CI/CD. Adhere strictly to these guidelines to ensure our observability platform remains robust, maintainable, and actionable.

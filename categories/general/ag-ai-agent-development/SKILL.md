@@ -1,10 +1,12 @@
 ---
-name: ai-agent-development
+name: ag-ai-agent-development
 description: "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents."
+license: MIT
+tags: [general]
 category: granular-workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # AI Agent Development Workflow

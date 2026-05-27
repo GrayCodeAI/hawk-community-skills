@@ -1,8 +1,10 @@
 ---
-name: anchor-browser-automation
+name: composio-anchor-browser-automation
 description: "Automate Anchor Browser tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Anchor Browser Automation via Rube MCP

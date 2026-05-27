@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable apollo-graphql applications using modern best practices and tooling.
-globs: **/*.{js,jsx}
+name: mdc-apollo-graphql
+description: "Definitive guidelines for building robust, performant, and maintainable apollo-graphql applications using modern best practices and tooling."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # apollo-graphql Best Practices
 
 This guide outlines our definitive best practices for developing with Apollo GraphQL, covering both server-side (Apollo Server 5) and client-side (Apollo Client) implementations. Adhering to these rules ensures consistency, performance, and maintainability across our GraphQL ecosystem.

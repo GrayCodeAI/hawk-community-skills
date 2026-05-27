@@ -1,3 +1,10 @@
+---
+name: cpa-exec
+description: "Skill: cpa-exec"
+license: MIT
+tags: [general]
+---
+
 # az containerapp exec
 
 ```bash

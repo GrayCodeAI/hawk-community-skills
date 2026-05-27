@@ -1,6 +1,8 @@
 ---
-name: retro
-description: Analyze sprint retrospectives for patterns and action item tracking. Usage: /retro analyze <retro_data.json>
+name: arezv-retro
+description: "Analyze sprint retrospectives for patterns and action item tracking. Usage: /retro analyze <retro_data.json>"
+license: MIT
+tags: [general]
 ---
 
 # /retro

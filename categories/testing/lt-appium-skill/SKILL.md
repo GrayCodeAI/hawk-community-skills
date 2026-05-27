@@ -1,24 +1,8 @@
 ---
-name: appium-skill
-description: >
-  Generates production-grade Appium mobile automation scripts for Android and iOS
-  in Java, Python, or JavaScript. Supports real device and emulator testing locally
-  and on TestMu AI cloud with 100+ real devices. Use when the user asks to automate
-  mobile apps, test on Android/iOS, write Appium tests, or mentions "Appium",
-  "mobile testing", "real device", "app automation". Triggers on: "Appium",
-  "mobile test", "Android test", "iOS test", "real device", "app automation",
-  "UiAutomator", "XCUITest driver", "TestMu", "LambdaTest".
-languages:
-  - Java
-  - Python
-  - JavaScript
-  - Ruby
-  - C#
-category: mobile-testing
+name: lt-appium-skill
+description: "Skill: lt-appium-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Appium Automation Skill

@@ -1,19 +1,11 @@
 ---
-name: gsap-framer-scroll-animation
-description: >-
-  Use this skill whenever the user wants to build scroll animations, scroll effects,
-  parallax, scroll-triggered reveals, pinned sections, horizontal scroll, text animations,
-  or any motion tied to scroll position — in vanilla JS, React, or Next.js.
-  Covers GSAP ScrollTrigger (pinning, scrubbing, snapping, timelines, horizontal scroll,
-  ScrollSmoother, matchMedia) and Framer Motion / Motion v12 (useScroll, useTransform,
-  useSpring, whileInView, variants). Use this skill even if the user just says
-  "animate on scroll", "fade in as I scroll", "make it scroll like Apple",
-  "parallax effect", "sticky section", "scroll progress bar", or "entrance animation".
-  Also triggers for Copilot prompt patterns for GSAP or Framer Motion code generation.
-  Pairs with the premium-frontend-ui skill for creative philosophy and design-level polish.
-metadata:
-  author: 'Utkarsh Patrikar'
-  author_url: 'https://github.com/utkarsh232005'
+name: copilot-gsap-framer-scroll-animation
+description: "Skill: copilot-gsap-framer-scroll-animation"
+license: MIT
+tags: [general]
+metadata: None
+author: Utkarsh Patrikar
+author_url: https://github.com/utkarsh232005
 ---
 
 # GSAP & Framer Motion — Scroll Animations Skill
@@ -148,4 +140,3 @@ tl.from('.title', { opacity: 0, y: 60 }).from('.img', { scale: 0.85 });
 | Skill | Relationship |
 |---|---|
 | **premium-frontend-ui** | Creative philosophy, design principles, and aesthetic guidelines — defines *when* and *why* to animate |
-

@@ -1,9 +1,10 @@
 ---
 name: persona-json-ai-assistant
-description: AI persona - json-ai-assistant
-domain: general
+description: "AI persona - json-ai-assistant"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

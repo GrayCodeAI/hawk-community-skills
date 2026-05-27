@@ -1,10 +1,11 @@
 ---
-name: peer-review
-description: Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.
-allowed-tools: Read Write Edit Bash
+name: sci-peer-review
+description: "Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards com..."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+allowed-tools: Read Write Edit Bash
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # Scientific Critical Evaluation and Peer Review
@@ -566,4 +567,3 @@ Before finalizing the review, verify:
 - [ ] Tone is constructive and professional throughout
 - [ ] Review is thorough but proportionate to manuscript scope
 - [ ] Recommendation is consistent with identified issues
-

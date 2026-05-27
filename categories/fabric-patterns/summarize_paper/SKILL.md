@@ -1,9 +1,10 @@
 ---
 name: summarize_paper
-description: Fabric pattern - summarize_paper
-domain: general
+description: "Fabric pattern - summarize_paper"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

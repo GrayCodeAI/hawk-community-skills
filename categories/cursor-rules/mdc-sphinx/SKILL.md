@@ -1,7 +1,10 @@
 ---
-description: This rule file provides opinionated, practical guidelines for setting up, writing, and maintaining Python project documentation using Sphinx, emphasizing modern best practices, clear structure, and automated validation.
-globs: **/*.py
+name: mdc-sphinx
+description: "This rule file provides opinionated, practical guidelines for setting up, writing, and maintaining Python project documentation using Sphinx, emphasizing modern best practices, clear structure, and..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Sphinx Best Practices
 
 Sphinx is the definitive tool for Python project documentation. This guide outlines the essential workflow and best practices for creating intelligent, beautiful, and maintainable docs. Always prioritize consistency within your project over strict adherence to external guides, but default to these modern standards.

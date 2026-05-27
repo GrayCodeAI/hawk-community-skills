@@ -1,5 +1,9 @@
 ---
-description: Provides guidelines for managing reactive state using createSignal in SolidJS components.
-globs: src/components/**/*.jsx
+name: mdc-solidjs---reactive-state-management
+description: 'Skill: mdc-solidjs---reactive-state-management'
+license: MIT
+tags:
+- react
 ---
+
 - Use createSignal() for reactive state.

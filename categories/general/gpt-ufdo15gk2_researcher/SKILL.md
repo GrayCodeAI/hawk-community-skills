@@ -1,3 +1,10 @@
+---
+name: gpt-ufdo15gk2_researcher
+description: "Skill: gpt-ufdo15gk2_researcher"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UFDo15Gk2-researcher
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-opurcdGCTzjE7YnJTq9I1N2l?se=2123-12-14T02%3A20%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DFigure_010.png&sig=ZqxhQQTLpMHCtaFxDCiKX0S%2BesrcDJrgdYMBlsJ00es%3D" width="100px" />

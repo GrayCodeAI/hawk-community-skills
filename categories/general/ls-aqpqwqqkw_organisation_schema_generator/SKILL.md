@@ -1,3 +1,10 @@
+---
+name: ls-aqpqwqqkw_organisation_schema_generator
+description: "Skill: ls-aqpqwqqkw_organisation_schema_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aqpQWqqkW-organisation-schema-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-fDfefukOeW2VJvvOeE5qnulp?se=2124-01-21T10%3A41%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df93eaa7a-778e-48a3-a647-0770b76c579c.png&sig=2qgyRhJrbzXFMAJ7oUwEjNZAzJ9Q6qLT4zrMRV4xb4Y%3D" width="100px" />

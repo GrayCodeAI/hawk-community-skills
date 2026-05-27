@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, secure, and maintainable Fiber applications in Go. Focuses on context immutability, robust error handling, and modular design.
-globs: **/*.go
+name: mdc-fiber
+description: "Definitive guidelines for writing high-performance, secure, and maintainable Fiber applications in Go. Focuses on context immutability, robust error handling, and modular design."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Fiber Best Practices
 
 Fiber is a high-performance, Express-inspired web framework for Go, built on `fasthttp`. These rules ensure we leverage Fiber's speed and maintainability while avoiding common pitfalls.

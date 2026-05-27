@@ -1,3 +1,10 @@
+---
+name: cpa-remote-rendering-account
+description: "Skill: cpa-remote-rendering-account"
+license: MIT
+tags: [general]
+---
+
 # az remote-rendering-account
 
 ```bash

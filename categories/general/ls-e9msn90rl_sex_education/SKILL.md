@@ -1,3 +1,10 @@
+---
+name: ls-e9msn90rl_sex_education
+description: "Skill: ls-e9msn90rl_sex_education"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-E9MSN90RL-sex-education
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-E9nT6HiDG1dbhIy4mx7JhE3s?se=2123-11-02T21%3A09%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D_d5278482-350d-4393-b8b9-3448fa623f40.jpeg&sig=bG11TY4n5kPeFqXrC1XpychMQX7NdJn7L5OEzGudH2o%3D" width="100px" />

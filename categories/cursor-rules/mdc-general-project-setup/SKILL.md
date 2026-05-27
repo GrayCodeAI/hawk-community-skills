@@ -1,7 +1,10 @@
 ---
-description: Defines general project setup and technology stack for the BA Copilot project.
-globs: src/**/*.*
+name: mdc-general-project-setup
+description: "Defines general project setup and technology stack for the BA Copilot project."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Next.js with the App Router (not Pages Router).
 - Use Vercel AI for AI-related functionalities.
 - Use Supabase for database and authentication, leveraging its type safety.

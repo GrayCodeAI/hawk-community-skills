@@ -1,9 +1,10 @@
 ---
 name: create_logo
-description: Fabric pattern - create_logo
-domain: general
+description: "Fabric pattern - create_logo"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

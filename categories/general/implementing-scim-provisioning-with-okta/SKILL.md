@@ -1,12 +1,12 @@
 ---
 name: implementing-scim-provisioning-with-okta
-description: Implement automated user provisioning and deprovisioning using SCIM 2.0 protocol with Okta as the identity provider.
+description: "Implement automated user provisioning and deprovisioning using SCIM 2.0 protocol with Okta as the identity provider."
+license: MIT
+tags: [scim, okta, provisioning, identity-management, automation, sso, lifecycle-management]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [scim, okta, provisioning, identity-management, automation, sso, lifecycle-management]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing SCIM Provisioning with Okta

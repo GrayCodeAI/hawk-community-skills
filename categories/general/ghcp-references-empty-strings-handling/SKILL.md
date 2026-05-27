@@ -1,3 +1,10 @@
+---
+name: ghcp-references-empty-strings-handling
+description: "Skill: ghcp-references-empty-strings-handling"
+license: MIT
+tags: [general]
+---
+
 # Oracle to PostgreSQL: Empty String Handling Differences
 
 ## Problem

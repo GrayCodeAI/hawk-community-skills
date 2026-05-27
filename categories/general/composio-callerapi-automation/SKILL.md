@@ -1,8 +1,10 @@
 ---
-name: callerapi-automation
+name: composio-callerapi-automation
 description: "Automate Callerapi tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Callerapi Automation via Rube MCP

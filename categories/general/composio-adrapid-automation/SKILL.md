@@ -1,8 +1,10 @@
 ---
-name: adrapid-automation
+name: composio-adrapid-automation
 description: "Automate Adrapid tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Adrapid Automation via Rube MCP

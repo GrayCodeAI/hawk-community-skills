@@ -1,11 +1,11 @@
 ---
 name: git-workflow
-description: Manage Git workflows including commits, branches, merges, and collaboration. Use when working with Git repositories, creating commits, managing branches, or resolving conflicts.
-metadata:
-  tags: git, version-control, branching, commits, collaboration
-  platforms: Claude, ChatGPT, Gemini
+description: "Manage Git workflows including commits, branches, merges, and collaboration. Use when working with Git repositories, creating commits, managing branches, or resolving conflicts."
+license: MIT
+tags: [git, version-control, branching, commits, collaboration]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Git Workflow
 

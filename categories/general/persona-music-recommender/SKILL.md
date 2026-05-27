@@ -1,9 +1,10 @@
 ---
 name: persona-music-recommender
-description: AI persona - music-recommender
-domain: general
+description: "AI persona - music-recommender"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

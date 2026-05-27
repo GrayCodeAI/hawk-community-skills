@@ -1,7 +1,10 @@
 ---
-description: Enforces modern Spring Boot best practices for Java applications, covering code structure, dependency injection, API design, error handling, and testing to ensure maintainable, performant, and secure microservices.
-globs: **/*.java
+name: mdc-springboot
+description: "Enforces modern Spring Boot best practices for Java applications, covering code structure, dependency injection, API design, error handling, and testing to ensure maintainable, performant, and secu..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # springboot Best Practices
 
 This guide outlines the definitive best practices for developing Spring Boot 3.x applications with Java 17+. Adhere to these rules to build robust, maintainable, and performant services.

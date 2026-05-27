@@ -1,3 +1,10 @@
+---
+name: ls-dvblnpaxp_mandala_charts_maker
+description: "Skill: ls-dvblnpaxp_mandala_charts_maker"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-dVBlNPaXp-mandala-charts-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xir5YUpbefyjjVf05vtVoZ0i?se=2124-01-12T03%3A55%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3De61105f8-74e2-4b09-9f60-45d82160d1fc.png&sig=WenLiDI4W33bbP3il8%2BvIzahkirrdtT9NDWstKKtqLQ%3D" width="100px" />

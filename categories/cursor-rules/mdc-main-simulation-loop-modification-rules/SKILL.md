@@ -1,7 +1,10 @@
 ---
-description: Rules for modifying the main simulation loop to incorporate region parameters. These rules detail how region parameters affect cell behavior.
-globs: /src/simulation_loop/**/*.*
+name: mdc-main-simulation-loop-modification-rules
+description: "Rules for modifying the main simulation loop to incorporate region parameters. These rules detail how region parameters affect cell behavior."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Modify the Main Simulation Loop:
   - Update the core simulation logic to incorporate region parameters. For each soup cell update:
     a. Determine the cell's corresponding region using the mapping created in step 3.

@@ -1,8 +1,10 @@
 ---
-name: retellai-automation
+name: composio-retellai-automation
 description: "Automate Retellai tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Retellai Automation via Rube MCP

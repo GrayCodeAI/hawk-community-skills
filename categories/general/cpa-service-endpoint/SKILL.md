@@ -1,3 +1,10 @@
+---
+name: cpa-service-endpoint
+description: "Skill: cpa-service-endpoint"
+license: MIT
+tags: [general]
+---
+
 # az network service-endpoint
 
 ```bash

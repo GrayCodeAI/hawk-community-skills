@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for using htmx, focusing on declarative markup, secure server interaction, and efficient UI updates for modern web applications.
-globs: **/*.{js,jsx}
+name: mdc-htmx
+description: "This guide provides definitive, opinionated best practices for using htmx, focusing on declarative markup, secure server interaction, and efficient UI updates for modern web applications."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # htmx Best Practices
 
 This document outlines the definitive best practices for utilizing htmx within our projects. Adhering to these guidelines ensures maintainable, performant, and secure applications.

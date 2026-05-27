@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-vercel-typescript
-description: Cursor rules for nextjs-vercel-typescript
-domain: engineering
+description: "Cursor rules for nextjs-vercel-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -135,4 +136,3 @@ To extend the provided rules to include usage of the `ai-sdk-rsc` library and in
   - Configure Vercel's KV and other serverless functions correctly to handle scalability and performance needs.
 
 By following these extended rules, you'll be able to create a well-optimized, scalable, and efficient Next.js application that leverages `ai-sdk-rsc`, Vercel middleware, and KV database for building sophisticated AI-driven interfaces.
-

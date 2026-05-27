@@ -1,9 +1,10 @@
 ---
 name: persona-fitness-coach
-description: AI persona - fitness-coach
-domain: general
+description: "AI persona - fitness-coach"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

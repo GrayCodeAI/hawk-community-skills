@@ -1,8 +1,10 @@
 ---
-name: botstar-automation
+name: composio-botstar-automation
 description: "Automate Botstar tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Botstar Automation via Rube MCP

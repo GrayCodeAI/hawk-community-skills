@@ -1,3 +1,10 @@
+---
+name: cpa-network-watcher
+description: "Skill: cpa-network-watcher"
+license: MIT
+tags: [general]
+---
+
 # az network network-watcher
 
 ```bash

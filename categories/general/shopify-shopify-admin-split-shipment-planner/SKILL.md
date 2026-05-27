@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-split-shipment-planner
-role: fulfillment-ops
+name: shopify-shopify-admin-split-shipment-planner
 description: "Splits a multi-line fulfillment order into separate shipments for partial or location-specific shipping."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - fulfillmentOrders:query
-  - fulfillmentOrderSplit:mutation
+api_version: 2025-01
+graphql_operations: [{'fulfillmentOrders': 'query'}, {'fulfillmentOrderSplit': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

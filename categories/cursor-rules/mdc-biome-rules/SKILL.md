@@ -1,7 +1,10 @@
 ---
-description: Rules for Biome configuration.
-globs: biome.json
+name: mdc-biome-rules
+description: "Rules for Biome configuration."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Biome for code formatting and linting
 - Configure Biome as a pre-commit hook
 - Follow Biome's recommended rules

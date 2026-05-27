@@ -1,7 +1,9 @@
 ---
-name: deployment-engineer
-description: Blue-green deployments, canary releases, rolling updates, and feature flag management
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-deployment-engineer
+description: "Blue-green deployments, canary releases, rolling updates, and feature flag management"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

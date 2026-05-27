@@ -1,7 +1,10 @@
 ---
-description: This rule file provides opinionated best practices for developing and managing applications within the Microsoft Teams ecosystem, ensuring high-quality, performant, and maintainable solutions.
-globs: **/*
+name: mdc-microsoft-teams
+description: "This rule file provides opinionated best practices for developing and managing applications within the Microsoft Teams ecosystem, ensuring high-quality, performant, and maintainable solutions."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # microsoft-teams Best Practices
 
 Microsoft Teams is the backbone of enterprise collaboration. To build high-quality, maintainable, and performant applications, adhere to these definitive guidelines.

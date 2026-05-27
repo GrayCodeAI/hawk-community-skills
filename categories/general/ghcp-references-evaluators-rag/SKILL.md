@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-rag
+description: "Skill: ghcp-references-evaluators-rag"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: RAG Systems
 
 RAG has two distinct components requiring different evaluation approaches.

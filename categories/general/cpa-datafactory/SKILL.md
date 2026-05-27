@@ -1,3 +1,10 @@
+---
+name: cpa-datafactory
+description: "Skill: cpa-datafactory"
+license: MIT
+tags: [general]
+---
+
 # az datafactory
 
 ```bash

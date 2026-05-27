@@ -1,3 +1,10 @@
+---
+name: cpa-sf
+description: "Skill: cpa-sf"
+license: MIT
+tags: [general]
+---
+
 # az sf
 
 ```bash

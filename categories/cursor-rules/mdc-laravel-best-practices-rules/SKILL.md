@@ -1,7 +1,10 @@
 ---
-description: Laravel specific best practices for different modules and features.
-globs: /**/*.php
+name: mdc-laravel-best-practices-rules
+description: "Laravel specific best practices for different modules and features."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Eloquent ORM instead of raw SQL queries when possible.
 - Implement Repository pattern for data access layer.
 - Use Laravel's built-in authentication and authorization features.

@@ -1,8 +1,10 @@
 ---
-name: grafbase-automation
+name: composio-grafbase-automation
 description: "Automate Grafbase tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Grafbase Automation via Rube MCP

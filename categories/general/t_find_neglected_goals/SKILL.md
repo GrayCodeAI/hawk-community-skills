@@ -1,9 +1,10 @@
 ---
 name: t_find_neglected_goals
-description: Fabric pattern - t_find_neglected_goals
-domain: general
+description: "Fabric pattern - t_find_neglected_goals"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

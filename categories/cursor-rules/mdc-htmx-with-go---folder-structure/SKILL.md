@@ -1,7 +1,11 @@
 ---
-description: Specifies the recommended folder structure for a Go project using HTMX, including directories for commands, internal logic, templates, and static assets.
-globs: go.mod
+name: mdc-htmx-with-go---folder-structure
+description: 'Skill: mdc-htmx-with-go---folder-structure'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Use the following folder structure:
 cmd/
   main.go

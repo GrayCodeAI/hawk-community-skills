@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, maintainable, and robust Numba-accelerated Python code, covering CPU and GPU targets.
-globs: **/*.py
+name: mdc-numba
+description: "Definitive guidelines for writing high-performance, maintainable, and robust Numba-accelerated Python code, covering CPU and GPU targets."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Numba Best Practices
 
 Numba is your go-to for accelerating numerical Python. Follow these rules to ensure your JIT-compiled code is fast, correct, and maintainable.

@@ -1,9 +1,10 @@
 ---
 name: create_threat_scenarios
-description: Fabric pattern - create_threat_scenarios
-domain: general
+description: "Fabric pattern - create_threat_scenarios"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

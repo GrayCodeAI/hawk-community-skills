@@ -1,3 +1,10 @@
+---
+name: gpt-kwsg66cfy_no_docs_gpt
+description: "Skill: gpt-kwsg66cfy_no_docs_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KWSg66Cfy-no-docs-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-vsN0h3THe1BDPZhLRKoDKxFP?se=2124-01-13T19%3A48%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DNew%2520Project.png&sig=hBOQ4z7pBprznYwXkQgwR86LOamoPjz/75LGT1BbTYU%3D" width="100px" />

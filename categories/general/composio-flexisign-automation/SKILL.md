@@ -1,8 +1,10 @@
 ---
-name: flexisign-automation
+name: composio-flexisign-automation
 description: "Automate Flexisign tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Flexisign Automation via Rube MCP

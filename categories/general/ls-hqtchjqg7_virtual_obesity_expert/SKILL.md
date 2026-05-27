@@ -1,3 +1,10 @@
+---
+name: ls-hqtchjqg7_virtual_obesity_expert
+description: "Skill: ls-hqtchjqg7_virtual_obesity_expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hQtCHJqg7-virtual-obesity-expert
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5iiVkCOdcFbhNT2c9zs9MGxx?se=2124-01-08T01%3A43%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D6c3a98bd-cb47-442c-a21c-c9853ef19527.png&sig=XDi4wJGZdC6n1aDKDw/mPAI3dvzbXAD76TMM20qKOT0%3D" width="100px" />

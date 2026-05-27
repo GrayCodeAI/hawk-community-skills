@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-url-redirect-audit
-role: store-management
+name: shopify-shopify-admin-url-redirect-audit
 description: "Read-only: lists all URL redirects, flags redirect chains (A→B→C) and duplicate targets."
+license: MIT
+tags: [general]
+role: store-management
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - urlRedirects:query
+api_version: 2025-01
+graphql_operations: [{'urlRedirects': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

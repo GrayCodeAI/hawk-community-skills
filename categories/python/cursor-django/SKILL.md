@@ -1,16 +1,11 @@
 ---
 name: cursor-django
-description: Cursor IDE rules for django
-domain: engineering
+description: "Cursor IDE rules for django"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Django: models, views, ORM best practices"
-globs: ["*.py"]
-alwaysApply: true
 ---
 
 # Django Cursor Rules

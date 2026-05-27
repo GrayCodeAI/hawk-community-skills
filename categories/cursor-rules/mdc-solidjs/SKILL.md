@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for writing high-performance, maintainable SolidJS applications, focusing on reactivity, component architecture, and common pitfalls.
-globs: **/*.{js,jsx}
+name: mdc-solidjs
+description: "This guide provides definitive, opinionated best practices for writing high-performance, maintainable SolidJS applications, focusing on reactivity, component architecture, and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # solidjs Best Practices
 
 This document outlines the definitive best practices for developing with SolidJS 1.x. Adhere to these guidelines to leverage Solid's fine-grained reactivity, ensure optimal performance, and maintain a consistent, scalable codebase.

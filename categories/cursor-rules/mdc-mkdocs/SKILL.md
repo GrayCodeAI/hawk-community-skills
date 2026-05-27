@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing, structuring, and maintaining high-quality MkDocs documentation using modern best practices and Material for MkDocs.
-globs: **/*.{md,mdx}
+name: mdc-mkdocs
+description: "Definitive guidelines for writing, structuring, and maintaining high-quality MkDocs documentation using modern best practices and Material for MkDocs."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # mkdocs Best Practices
 
 This guide establishes the definitive standards for writing and maintaining documentation using MkDocs, especially with the Material for MkDocs theme. Adhere to these rules to ensure consistency, readability, and maintainability across all our projects.

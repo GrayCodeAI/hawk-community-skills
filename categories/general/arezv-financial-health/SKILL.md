@@ -1,6 +1,8 @@
 ---
-name: financial-health
-description: Run financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecasts. Usage: /financial-health <ratios|dcf|budget|forecast> <data.json>
+name: arezv-financial-health
+description: "Run financial ratio analysis, DCF valuation, budget variance analysis, and rolling forecasts. Usage: /financial-health <ratios|dcf|budget|forecast> <data.json>"
+license: MIT
+tags: [general]
 ---
 
 # /financial-health

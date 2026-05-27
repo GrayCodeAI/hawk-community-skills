@@ -1,7 +1,10 @@
 ---
-description: General rules for Python and Typescript code to ensure clarity and readability.
-globs: **/*.py, **/*.ts, **/*.tsx
+name: mdc-python-and-typescript-code-style
+description: "General rules for Python and Typescript code to ensure clarity and readability."
+license: MIT
+tags: [python]
 ---
+
 - You are an expert AI programming assistant that primarily focuses on producing clear, readable Python and Typescript code.
 - Focus on readability over being performant.
 - Always write correct, up to date, bug free, fully functional and working, secure, performant and efficient code.

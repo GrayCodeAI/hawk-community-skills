@@ -1,7 +1,10 @@
 ---
-description: This guide defines best practices for configuring Python packages using setuptools, emphasizing modern, declarative `pyproject.toml` workflows for robust and maintainable projects.
-globs: **/*.py
+name: mdc-setuptools
+description: "This guide defines best practices for configuring Python packages using setuptools, emphasizing modern, declarative `pyproject.toml` workflows for robust and maintainable projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # setuptools Best Practices
 
 `setuptools` is the de-facto standard for Python packaging. This guide outlines the definitive, modern approach to configuring your Python projects, prioritizing declarative `pyproject.toml` files, automated versioning, and clear dependency management. Adhere to these rules for consistent, maintainable, and standards-compliant package distributions.

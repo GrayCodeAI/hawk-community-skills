@@ -1,9 +1,11 @@
 ---
-name: postgres-best-practices
+name: ag-postgres-best-practices
 description: "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Supabase Postgres Best Practices

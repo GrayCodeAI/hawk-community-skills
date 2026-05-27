@@ -1,3 +1,10 @@
+---
+name: wayn-files
+description: "Skill: wayn-files"
+license: MIT
+tags: [general]
+---
+
 # PromptStack - File Structure Documentation
 
 ## Root Directory

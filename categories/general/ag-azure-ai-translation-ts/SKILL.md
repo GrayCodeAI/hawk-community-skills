@@ -1,9 +1,11 @@
 ---
-name: azure-ai-translation-ts
+name: ag-azure-ai-translation-ts
 description: "Text and document translation with REST-style clients."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Azure Translation SDKs for TypeScript

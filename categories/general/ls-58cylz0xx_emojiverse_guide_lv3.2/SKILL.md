@@ -1,3 +1,10 @@
+---
+name: ls-58cylz0xx_emojiverse_guide_lv3.2
+description: "Skill: ls-58cylz0xx_emojiverse_guide_lv3.2"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-58CYlz0xX-emojiverse-guide-lv3-2
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TG2X5nu6S93QNlDWMOJCs4xk?se=2123-10-20T07%3A01%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8b67da07-f41c-494b-b905-4d3996d79382.png&sig=XuG8vcgLwEzDd0plfU6H3p47gkMOeYGWMDF3FPCJ86Q%3D" width="100px" />

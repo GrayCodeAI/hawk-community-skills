@@ -1,6 +1,8 @@
 ---
-description: 'Automatically update README.md and documentation files when application code changes require documentation updates'
-applyTo: '**/*.{md,js,mjs,cjs,ts,tsx,jsx,py,java,cs,go,rb,php,rs,cpp,c,h,hpp}'
+name: ghcp-instructions-update-docs-on-code-change.ins
+description: "Skill: ghcp-instructions-update-docs-on-code-change.ins"
+license: MIT
+tags: [general]
 ---
 
 # Update Documentation on Code Change

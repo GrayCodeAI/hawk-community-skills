@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Zustand in React projects, focusing on type safety, modularity, performance, and maintainability with practical code examples.
-globs: **/*.{js,jsx}
+name: mdc-zustand
+description: "Definitive guidelines for using Zustand in React projects, focusing on type safety, modularity, performance, and maintainability with practical code examples."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # zustand Best Practices
 
 Zustand is our go-to for global state management due to its minimal API and built-in performance optimizations. This guide outlines the definitive patterns for using Zustand effectively in our projects, ensuring type safety, modularity, and optimal performance.

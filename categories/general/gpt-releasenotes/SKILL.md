@@ -1,3 +1,10 @@
+---
+name: gpt-releasenotes
+description: "Skill: gpt-releasenotes"
+license: MIT
+tags: [general]
+---
+
 ## 1.16.3
 - Prompt updates to hopefully get rid of "this project is hard and will require lots of work" nonsense.
 - Minor updates to readme and projects

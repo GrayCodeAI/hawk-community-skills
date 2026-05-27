@@ -1,7 +1,10 @@
 ---
-description: Applies best practices for using SolidJS with Tailwind CSS, including state management and styling.
-globs: **/*.jsx
+name: mdc-solidjs-tailwind-css-best-practices
+description: "Applies best practices for using SolidJS with Tailwind CSS, including state management and styling."
+license: MIT
+tags: [tailwind]
 ---
+
 - Use createSignal() for reactive state.
 - Implement Tailwind CSS classes for styling.
 - Utilize @apply directive in CSS files for reusable styles.

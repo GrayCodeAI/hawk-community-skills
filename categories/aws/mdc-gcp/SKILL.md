@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for developing, deploying, and operating applications on Google Cloud Platform (GCP), emphasizing security, performance, and maintainability.
-globs: **/*
+name: mdc-gcp
+description: "This guide provides definitive best practices for developing, deploying, and operating applications on Google Cloud Platform (GCP), emphasizing security, performance, and maintainability."
+license: MIT
+tags: [aws]
 ---
+
 # gcp Best Practices
 
 Adhering to these guidelines ensures your GCP applications are robust, secure, and performant. Treat these as non-negotiable standards.

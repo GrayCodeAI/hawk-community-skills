@@ -1,3 +1,10 @@
+---
+name: ls-fjirmcevx_virtual-sweetheart
+description: "Skill: ls-fjirmcevx_virtual-sweetheart"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart
 
 GPT Title: Virtual Sweetheart

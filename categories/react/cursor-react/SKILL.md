@@ -1,16 +1,11 @@
 ---
 name: cursor-react
-description: Cursor IDE rules for react
-domain: engineering
+description: "Cursor IDE rules for react"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "React: hooks, composition, performance patterns"
-globs: ["*.jsx", "*.tsx"]
-alwaysApply: true
 ---
 
 # React Cursor Rules

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-synthetic-typescri
+description: "Skill: ghcp-references-experiments-synthetic-typescri"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Generating Synthetic Test Data (TypeScript)
 
 Creating diverse, targeted test data for evaluation.

@@ -1,6 +1,8 @@
 ---
-name: file-length-auditor
-description: Use this agent when you need to identify and address files that have grown too long in a codebase. This agent should be used proactively during code reviews, refactoring sessions, or as part of regular codebase maintenance to ensure files remain manageable and follow good architectural practices.\n\nExamples:\n- <example>\n  Context: The user has been working on a large feature and wants to ensure code quality before merging.\n  user: "I've been adding a lot of functionality to the user management system. Can you check if any files are getting too long?"\n  assistant: "I'll use the file-length-auditor agent to scan your codebase for files over 700 lines and provide recommendations for refactoring."\n  <commentary>\n  The user is concerned about file length after significant development work, so use the file-length-auditor agent to identify oversized files and provide refactoring guidance.\n  </commentary>\n</example>\n- <example>\n  Context: During a code review, the developer notices some files seem quite large.\n  user: "This pull request looks good but some of these files seem really long. Should we split them up?"\n  assistant: "Let me use the file-length-auditor agent to analyse the file lengths and provide specific recommendations for splitting them up."\n  <commentary>\n  The user is asking about file length concerns during code review, so use the file-length-auditor agent to assess and recommend refactoring strategies.\n  </commentary>\n</example>
+name: agc-file-length-auditor
+description: "Use this agent when you need to identify and address files that have grown too long in a codebase. This agent should be used proactively during code reviews, refactoring sessions, or as part of reg..."
+license: MIT
+tags: [general]
 color: red
 ---
 

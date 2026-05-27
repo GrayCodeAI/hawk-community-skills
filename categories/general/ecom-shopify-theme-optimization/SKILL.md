@@ -1,9 +1,11 @@
 ---
-name: shopify-theme-optimization
+name: ecom-shopify-theme-optimization
 description: "Theme speed and UX optimization — Core Web Vitals, Liquid code, image loading, mobile responsiveness"
-metadata:
-  nexscope:
-    category: shopify
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: shopify
 ---
 
 # Shopify Theme Optimization

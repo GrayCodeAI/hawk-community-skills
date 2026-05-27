@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Vue apps with Auth0 Auth
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-setup-auth0-vue
+description: "Guidelines for writing Vue apps with Auth0 Auth"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Vue app with Auth0 Auth
@@ -122,4 +124,4 @@ When implementing Auth0 Auth for Vue, you MUST:
 2. Implement proper TypeScript types
 3. Follow Vue 3 Composition API best practices
 4. Ensure proper environment variable handling
-5. Implement secure route protection 
+5. Implement secure route protection

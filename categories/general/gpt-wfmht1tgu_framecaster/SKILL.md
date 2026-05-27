@@ -1,3 +1,10 @@
+---
+name: gpt-wfmht1tgu_framecaster
+description: "Skill: gpt-wfmht1tgu_framecaster"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wFmHT1Tgu-framecaster
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XD2fNs2DtdDxRDw4ohlRKy5H?se=2124-01-15T14%3A24%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dartobotic_create_a_clear_and_simple_image_of_a_purple_Farcaster_b6344859-057d-4410-8abb-e402154b7706%25202.jpeg&sig=/s5lvV7hopjZC5QM9WoMjXbWcEUt9lWLaxKtWtyE2eY%3D" width="100px" />

@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-bundle-availability-check
-role: fulfillment-ops
+name: shopify-shopify-admin-bundle-availability-check
 description: "Read-only: for native bundle products and metafield-defined bundles, verifies every component variant has sufficient stock to fulfill the bundle's effective availability."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - productVariants:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'productVariants': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,3 +1,10 @@
+---
+name: cpa-repos
+description: "Skill: cpa-repos"
+license: MIT
+tags: [general]
+---
+
 # az repos
 
 ```bash

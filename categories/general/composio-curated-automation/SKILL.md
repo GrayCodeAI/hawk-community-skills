@@ -1,8 +1,10 @@
 ---
-name: curated-automation
+name: composio-curated-automation
 description: "Automate Curated tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Curated Automation via Rube MCP

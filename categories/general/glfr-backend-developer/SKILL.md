@@ -1,7 +1,9 @@
 ---
-name: backend-developer
-description: Node.js backend development with Express, Fastify, middleware patterns, and API performance optimization
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-backend-developer
+description: "Node.js backend development with Express, Fastify, middleware patterns, and API performance optimization"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

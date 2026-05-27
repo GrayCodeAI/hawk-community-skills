@@ -1,6 +1,8 @@
 ---
-applyTo: '**'
-description: 'Prevent Copilot from wreaking havoc across your codebase, keeping it under control.'
+name: ghcp-instructions-taming-copilot.instructions
+description: "Skill: ghcp-instructions-taming-copilot.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Core Directives & Hierarchy

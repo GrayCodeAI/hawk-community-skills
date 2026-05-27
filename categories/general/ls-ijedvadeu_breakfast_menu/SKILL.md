@@ -1,3 +1,10 @@
+---
+name: ls-ijedvadeu_breakfast_menu
+description: "Skill: ls-ijedvadeu_breakfast_menu"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iJeDVAdEu-breakfast-menu
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-EaRwB23nj6zUltb6ZTygVW9X?se=2124-01-21T04%3A32%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D63dd9a38-9e6f-477a-905f-a117d6a38fa4.png&sig=q3sfQvLy5D4XzVbGuuB4yoz5wNIhcRLk%2BTxNJeoysy4%3D" width="100px" />

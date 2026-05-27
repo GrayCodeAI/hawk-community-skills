@@ -1,3 +1,10 @@
+---
+name: ls-gmnjkzywz_therapistgpt
+description: "Skill: ls-gmnjkzywz_therapistgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt
 
 GPT Title: TherapistGPT

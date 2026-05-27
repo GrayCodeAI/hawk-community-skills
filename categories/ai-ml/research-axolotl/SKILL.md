@@ -1,10 +1,10 @@
 ---
-name: axolotl
-description: Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support
+name: research-axolotl
+description: "Expert guidance for fine-tuning LLMs with Axolotl - YAML configs, 100+ models, LoRA/QLoRA, DPO/KTO/ORPO/GRPO, multimodal support"
+license: MIT
+tags: [fine-tuning, axolotl, llm, lora, qlora, dpo, kto, orpo, grpo, yaml, huggingface, deepspeed, multimodal]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Fine-Tuning, Axolotl, LLM, LoRA, QLoRA, DPO, KTO, ORPO, GRPO, YAML, HuggingFace, DeepSpeed, Multimodal]
 dependencies: [axolotl, torch, transformers, datasets, peft, accelerate, deepspeed]
 ---
 
@@ -154,5 +154,3 @@ Add templates, boilerplate, or example projects here.
 To refresh this skill with updated documentation:
 1. Re-run the scraper with the same configuration
 2. The skill will be rebuilt with the latest information
-
-

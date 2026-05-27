@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for integrating and managing the Google Maps JavaScript API in modern web applications, focusing on security, performance, and maintainability.
-globs: **/*.{js,jsx}
+name: mdc-google-maps-js
+description: "This guide provides definitive best practices for integrating and managing the Google Maps JavaScript API in modern web applications, focusing on security, performance, and maintainability."
+license: MIT
+tags: [go]
 ---
+
 # google-maps-js Best Practices
 
 This document outlines the definitive guidelines for working with the Google Maps JavaScript API. Adhering to these practices ensures secure, performant, and maintainable map-centric applications.

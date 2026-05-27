@@ -1,8 +1,10 @@
 ---
-name: api2pdf-automation
+name: composio-api2pdf-automation
 description: "Automate Api2pdf tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Api2pdf Automation via Rube MCP

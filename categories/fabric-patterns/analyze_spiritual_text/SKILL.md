@@ -1,9 +1,10 @@
 ---
 name: analyze_spiritual_text
-description: Fabric pattern - analyze_spiritual_text
-domain: general
+description: "Fabric pattern - analyze_spiritual_text"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

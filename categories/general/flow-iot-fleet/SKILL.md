@@ -1,9 +1,12 @@
 ---
-name: iot-fleet
-description: Create and manage Cognitum Seed device fleets with firmware policies
+name: flow-iot-fleet
+description: "Create and manage Cognitum Seed device fleets with firmware policies"
+license: MIT
+tags: [general]
 allowed-tools: Bash(npx *) mcp__claude-flow__memory_store mcp__claude-flow__memory_search Read
-argument-hint: "<create|list|add|remove|delete> [options]"
+argument-hint: <create|list|add|remove|delete> [options]
 ---
+
 Manage device fleets. Parse subcommand from arguments.
 
 **create**: `npx -y -p @claude-flow/plugin-iot-cognitum@latest cognitum-iot fleet create --name NAME`

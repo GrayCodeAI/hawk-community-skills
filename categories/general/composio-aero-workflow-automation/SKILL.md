@@ -1,8 +1,10 @@
 ---
-name: aero-workflow-automation
+name: composio-aero-workflow-automation
 description: "Automate Aero Workflow tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Aero Workflow Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: ls-suwvxlmkp_codey
+description: "Skill: ls-suwvxlmkp_codey"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SuWVXlmkP-codey
 
 GPT Title: Codey

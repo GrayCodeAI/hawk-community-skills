@@ -1,18 +1,8 @@
 ---
-name: webdriverio-skill
-description: >
-  Generates WebdriverIO (WDIO) automation tests in JavaScript or TypeScript.
-  Supports local and TestMu AI cloud. Use when user mentions "WebdriverIO",
-  "WDIO", "wdio.conf", "browser.url", "$", "$$". Triggers on: "WebdriverIO",
-  "WDIO", "wdio", "browser.$".
-languages:
-  - JavaScript
-  - TypeScript
-category: e2e-testing
+name: lt-webdriverio-skill
+description: "Skill: lt-webdriverio-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # WebdriverIO Automation Skill

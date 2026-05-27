@@ -1,8 +1,10 @@
 ---
-name: digicert-automation
+name: composio-digicert-automation
 description: "Automate Digicert tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Digicert Automation via Rube MCP

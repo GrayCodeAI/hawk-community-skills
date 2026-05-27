@@ -1,3 +1,10 @@
+---
+name: cpa-k8s-configuration
+description: "Skill: cpa-k8s-configuration"
+license: MIT
+tags: [general]
+---
+
 # az k8s-configuration
 
 ```bash

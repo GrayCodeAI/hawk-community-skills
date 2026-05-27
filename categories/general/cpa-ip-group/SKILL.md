@@ -1,3 +1,10 @@
+---
+name: cpa-ip-group
+description: "Skill: cpa-ip-group"
+license: MIT
+tags: [general]
+---
+
 # az network ip-group
 
 ```bash

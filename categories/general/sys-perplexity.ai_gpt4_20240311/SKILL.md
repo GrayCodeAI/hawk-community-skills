@@ -1,3 +1,10 @@
+---
+name: sys-perplexity.ai_gpt4_20240311
+description: "Skill: sys-perplexity.ai_gpt4_20240311"
+license: MIT
+tags: [general]
+---
+
 # perplexity.ai_gpt4_20240311
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/14#issuecomment-1988489006>

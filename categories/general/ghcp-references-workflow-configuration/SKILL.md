@@ -1,3 +1,10 @@
+---
+name: ghcp-references-workflow-configuration
+description: "Skill: ghcp-references-workflow-configuration"
+license: MIT
+tags: [general]
+---
+
 # CodeQL Workflow Configuration Reference
 
 Detailed reference for configuring CodeQL analysis via GitHub Actions workflows. This supplements the procedural guidance in SKILL.md.

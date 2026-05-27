@@ -1,8 +1,10 @@
 ---
-name: ambee-automation
+name: composio-ambee-automation
 description: "Automate Ambee tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ambee Automation via Rube MCP

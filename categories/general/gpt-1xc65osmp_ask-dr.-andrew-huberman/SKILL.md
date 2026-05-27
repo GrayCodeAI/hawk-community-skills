@@ -1,3 +1,10 @@
+---
+name: gpt-1xc65osmp_ask-dr.-andrew-huberman
+description: "Skill: gpt-1xc65osmp_ask-dr.-andrew-huberman"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman
 
 GPT Title: Ask Dr. Andrew Huberman

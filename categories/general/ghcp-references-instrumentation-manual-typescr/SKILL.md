@@ -1,3 +1,10 @@
+---
+name: ghcp-references-instrumentation-manual-typescr
+description: "Skill: ghcp-references-instrumentation-manual-typescr"
+license: MIT
+tags: [general]
+---
+
 # Manual Instrumentation (TypeScript)
 
 Add custom spans using convenience wrappers or withSpan for fine-grained tracing control.

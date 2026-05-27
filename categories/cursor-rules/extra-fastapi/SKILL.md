@@ -1,7 +1,9 @@
 ---
-description: FastAPI 高性能 Python API 的约定和最佳实践。
-globs: **/*.py
-alwaysApply: false
+name: extra-fastapi
+description: "FastAPI 高性能 Python API 的约定和最佳实践。"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # FastAPI 规则

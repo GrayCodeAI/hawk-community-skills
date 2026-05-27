@@ -1,9 +1,10 @@
 ---
 name: write_latex
-description: Fabric pattern - write_latex
-domain: general
+description: "Fabric pattern - write_latex"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -28,4 +29,4 @@ Important notes:
 
 Begin your output with the LaTeX code for the requested document. Do not include any explanations or comments outside of the LaTeX code itself.
 
-The user's request for the LaTeX document will be included here. 
+The user's request for the LaTeX document will be included here.

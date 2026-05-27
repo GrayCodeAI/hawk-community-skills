@@ -1,19 +1,14 @@
 ---
-name: ios-design-system
-description: Enforce design token usage in SwiftUI apps using iOS Human Interface Guidelines. Use when implementing design tokens, colors, or typography in SwiftUI.
-metadata:
-  triggers:
-    files:
-    - '**/*View.swift'
-    - '**/Theme/**'
-    - '**/DesignSystem/**'
-    keywords:
-    - Color
-    - Font
-    - SwiftUI
-    - ViewModifier
-    - Theme
+name: std-ios-design-system
+description: "Enforce design token usage in SwiftUI apps using iOS Human Interface Guidelines. Use when implementing design tokens, colors, or typography in SwiftUI."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS Design System (SwiftUI)
 
 ## **Priority: P2 (OPTIONAL)**

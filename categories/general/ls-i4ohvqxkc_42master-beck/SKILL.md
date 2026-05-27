@@ -1,3 +1,10 @@
+---
+name: ls-i4ohvqxkc_42master-beck
+description: "Skill: ls-i4ohvqxkc_42master-beck"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-i4OHvQXkc-42master-beck
 
 GPT Title: 42master-Beck

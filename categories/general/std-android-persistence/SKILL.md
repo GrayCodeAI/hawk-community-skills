@@ -1,17 +1,14 @@
 ---
-name: android-persistence
-description: Implement Room database schemas and DataStore preferences with proper async patterns in Android. Use when defining Room entities, DAOs, migrations, or replacing SharedPreferences with DataStore.
-metadata:
-  triggers:
-    files:
-    - '**/*Dao.kt'
-    - '**/*Database.kt'
-    - '**/*Entity.kt'
-    keywords:
-    - "@Dao"
-    - "@Entity"
-    - RoomDatabase
+name: std-android-persistence
+description: "Implement Room database schemas and DataStore preferences with proper async patterns in Android. Use when defining Room entities, DAOs, migrations, or replacing SharedPreferences with DataStore."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Persistence Standards
 
 ## **Priority: P0**

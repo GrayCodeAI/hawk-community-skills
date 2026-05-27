@@ -1,6 +1,8 @@
 ---
-description: 'Instructions for writing Dart and Flutter code following the official recommendations.'
-applyTo: '**/*.dart'
+name: ghcp-instructions-dart-n-flutter.instructions
+description: "Skill: ghcp-instructions-dart-n-flutter.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Dart and Flutter

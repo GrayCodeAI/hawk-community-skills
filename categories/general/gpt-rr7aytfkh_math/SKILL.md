@@ -1,3 +1,10 @@
+---
+name: gpt-rr7aytfkh_math
+description: "Skill: gpt-rr7aytfkh_math"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rr7AytfKH-math
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2z12MObxsray86CO4LvLmiky?se=2124-01-04T01%3A08%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-28%252001.08.32%2520-%2520Create%2520an%2520abstract%2520representation%2520of%2520the%2520mathematical%2520Pi%2520symbol%2520%2528%25CF%2580%2529%2520in%2520a%2520style%2520that%2520conveys%2520opulent%2520minimalism.%2520The%2520symbol%2520should%2520be%2520formed%2520from%2520elega.png&sig=/HhR/NO9Q3dEkLGFcYgoE5HRhSmUpm2AXpwMdymFcKI%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-6s20yqeaj_strigiformes_vault
+description: "Skill: ls-6s20yqeaj_strigiformes_vault"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6s20YqEaj-strigiformes-vault
 
 GPT logo: <img src="None" width="100px" />

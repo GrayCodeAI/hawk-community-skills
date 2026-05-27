@@ -1,8 +1,10 @@
 ---
-name: globalping-automation
+name: composio-globalping-automation
 description: "Automate Globalping tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Globalping Automation via Rube MCP

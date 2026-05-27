@@ -1,16 +1,11 @@
 ---
 name: cursor-vitest
-description: Cursor IDE rules for vitest
-domain: engineering
+description: "Cursor IDE rules for vitest"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Vitest: unit testing, mocking, coverage, snapshot testing"
-globs: ["*.test.ts", "*.spec.ts", "vitest.config.ts"]
-alwaysApply: true
 ---
 
 # Vitest Cursor Rules

@@ -1,3 +1,10 @@
+---
+name: gpt-hxyvg0lrg_fpl_gpt
+description: "Skill: gpt-hxyvg0lrg_fpl_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-hxyVg0lRG-fpl-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-bDuXuQCuaRlBBg04K4bFWWVP?se=2124-01-21T11%3A52%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D_ss_pl2023.jpg&sig=shpZYm9NhIAteINuailOIkCYkOyYT77PfVta%2BkLoJ6w%3D" width="100px" />

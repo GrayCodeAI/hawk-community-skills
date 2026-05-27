@@ -1,3 +1,10 @@
+---
+name: arb-domain-driven-design.mini
+description: "Skill: arb-domain-driven-design.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Domain-Driven Design by Eric Evans
 
 ## When to use

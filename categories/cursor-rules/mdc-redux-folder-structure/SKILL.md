@@ -1,7 +1,10 @@
 ---
-description: Enforces specific folder structure conventions within the Redux store directory.
-globs: src/store/**/*
+name: mdc-redux-folder-structure
+description: "Enforces specific folder structure conventions within the Redux store directory."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Follow this folder structure:
   src/
     components/

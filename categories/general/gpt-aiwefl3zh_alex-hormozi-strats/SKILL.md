@@ -1,3 +1,10 @@
+---
+name: gpt-aiwefl3zh_alex-hormozi-strats
+description: "Skill: gpt-aiwefl3zh_alex-hormozi-strats"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-aIWEfl3zH-alex-hormozi-strats
 
 GPT Title: Alex Hormozi Strats

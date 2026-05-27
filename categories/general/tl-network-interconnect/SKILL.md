@@ -1,3 +1,10 @@
+---
+name: tl-network-interconnect
+description: "Skill: tl-network-interconnect"
+license: MIT
+tags: [general]
+---
+
 # CNI Gotchas & Troubleshooting
 
 ## Common Errors

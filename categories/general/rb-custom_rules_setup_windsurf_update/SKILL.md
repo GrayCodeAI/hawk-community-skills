@@ -1,3 +1,10 @@
+---
+name: rb-custom_rules_setup_windsurf_update
+description: "Skill: rb-custom_rules_setup_windsurf_update"
+license: MIT
+tags: [general]
+---
+
 source: https://docs.windsurf.com/windsurf/cascade/memories#memories
 
 # Memories

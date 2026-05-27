@@ -1,3 +1,10 @@
+---
+name: ls-agent_prompt
+description: "Skill: ls-agent_prompt"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 Role: Expert Software Developer (Editor)
 

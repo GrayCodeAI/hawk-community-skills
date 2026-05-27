@@ -1,7 +1,8 @@
 ---
-description: 'Generic code review instructions that can be customized for any project using GitHub Copilot'
-applyTo: '**'
-excludeAgent: ["coding-agent"]
+name: ghcp-instructions-code-review-generic.instructio
+description: "Skill: ghcp-instructions-code-review-generic.instructio"
+license: MIT
+tags: [general]
 ---
 
 # Generic Code Review Instructions

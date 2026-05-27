@@ -1,3 +1,10 @@
+---
+name: tl-r2-sql
+description: "Skill: tl-r2-sql"
+license: MIT
+tags: [database]
+---
+
 # R2 SQL Gotchas
 
 Limitations, troubleshooting, and common pitfalls for R2 SQL.

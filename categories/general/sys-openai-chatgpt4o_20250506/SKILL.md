@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt4o_20250506
+description: "Skill: sys-openai-chatgpt4o_20250506"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt4o-20250506
 
 ## Q(user)

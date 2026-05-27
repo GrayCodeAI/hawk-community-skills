@@ -1,9 +1,10 @@
 ---
 name: persona-haiku-generator
-description: AI persona - haiku-generator
-domain: general
+description: "AI persona - haiku-generator"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

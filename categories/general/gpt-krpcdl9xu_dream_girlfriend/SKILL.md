@@ -1,3 +1,10 @@
+---
+name: gpt-krpcdl9xu_dream_girlfriend
+description: "Skill: gpt-krpcdl9xu_dream_girlfriend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KRPcdl9XU-dream-girlfriend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-cViJOlZUAxF0EC0OeRreUUSz?se=2124-01-17T16%3A00%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df8006196-ecc6-4ce4-a8ab-0bb8cc685618.png&sig=HOXfP4j2XNjaoz/TGe12e8aeqAmUHhpuPOKUvg/w3gM%3D" width="100px" />

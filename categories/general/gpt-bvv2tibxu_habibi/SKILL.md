@@ -1,3 +1,10 @@
+---
+name: gpt-bvv2tibxu_habibi
+description: "Skill: gpt-bvv2tibxu_habibi"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BvV2TIbXu-habibi
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2ggeL9cA3CVDlmemevxYZThv?se=2123-10-25T12%3A55%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6e44a370-d59e-4963-869a-67d76026f3d5.png&sig=GaWe20fOVJn7eL2lziPLDLa7LUleWK7ygZ/ir35FaGU%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-cz02n5dte_focuscope
+description: "Skill: ls-cz02n5dte_focuscope"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cZ02N5dtE-focuscope
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6PoXRNT3rHV0IktCvjMCb8Wx?se=2123-10-20T05%3A57%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6bb316e7-d27c-4369-aec3-ee9035a137ef.png&sig=jtCT4XvygyiCEggjYFgbxXxtctolDAOyRIbAGW5Xs8c%3D" width="100px" />

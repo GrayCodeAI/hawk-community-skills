@@ -1,7 +1,10 @@
 ---
-description: Rules specific to the Next.js App Router, covering data fetching, API routes, error handling, loading states, and metadata.
-globs: /app/**/*.(ts|tsx)
+name: mdc-next-js-app-router-rules
+description: "Rules specific to the Next.js App Router, covering data fetching, API routes, error handling, loading states, and metadata."
+license: MIT
+tags: [react]
 ---
+
 - Use Next.js App Router conventions for data fetching and API routes.
 - Implement efficient caching and revalidation strategies using Next.js built-in features.
 - Use route handlers (route.ts) for API routes in the App Router.

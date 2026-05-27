@@ -1,6 +1,8 @@
 ---
-description: 'Color usage guidelines and styling rules for HTML elements to ensure accessible, professional designs.'
-applyTo: '**/*.html, **/*.css, **/*.js'
+name: ghcp-instructions-html-css-style-color-guide.ins
+description: "Skill: ghcp-instructions-html-css-style-color-guide.ins"
+license: MIT
+tags: [general]
 ---
 
 # HTML CSS Style Color Guide

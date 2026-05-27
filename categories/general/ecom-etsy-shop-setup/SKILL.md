@@ -1,9 +1,11 @@
 ---
-name: etsy-shop-setup
+name: ecom-etsy-shop-setup
 description: "Etsy shop launch guide — policies, branding, first listings, SEO foundation, payment setup"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Shop Setup

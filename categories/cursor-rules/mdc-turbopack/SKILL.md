@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for developing high-performance, maintainable, and secure applications using Turbopack as the default bundler in Next.js 16+.
-globs: **/*.{js,jsx}
+name: mdc-turbopack
+description: "This guide provides opinionated, actionable best practices for developing high-performance, maintainable, and secure applications using Turbopack as the default bundler in Next.js 16+."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # turbopack Best Practices
 
 Turbopack is the default, Rust-based incremental bundler for Next.js 16+, offering unparalleled speed through function-level caching, lazy bundling, and a unified build graph. To fully leverage its power, adhere to these modern best practices.

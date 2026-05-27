@@ -1,11 +1,11 @@
 ---
 name: system-environment-setup
-description: Configure development and production environments for consistent and reproducible setups. Use when setting up new projects, Docker environments, or development tooling. Handles Docker Compose, .env configuration, dev containers, and infrastructure as code.
-metadata:
-  tags: environment-setup, Docker-Compose, dev-environment, IaC, configuration
-  platforms: Claude, ChatGPT, Gemini
+description: "Configure development and production environments for consistent and reproducible setups. Use when setting up new projects, Docker environments, or development tooling. Handles Docker Compose, .env..."
+license: MIT
+tags: [environment-setup, docker-compose, dev-environment, iac, configuration]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # System & Environment Setup
 

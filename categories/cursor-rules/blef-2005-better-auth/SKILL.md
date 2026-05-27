@@ -1,7 +1,9 @@
 ---
-description: Use better-auth patterns when implementing authentication to ensure secure and consistent user identity management
-globs: src/**/*.{ts,tsx}
-alwaysApply: false
+name: blef-2005-better-auth
+description: "Use better-auth patterns when implementing authentication to ensure secure and consistent user identity management"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Better-Auth Implementation Standards

@@ -1,3 +1,10 @@
+---
+name: tl-static-assets
+description: "Skill: tl-static-assets"
+license: MIT
+tags: [general]
+---
+
 ## Best Practices
 
 ### 1. Use Selective Worker-First Routing

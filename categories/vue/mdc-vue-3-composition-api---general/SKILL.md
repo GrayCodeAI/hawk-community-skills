@@ -1,7 +1,11 @@
 ---
-description: General guidelines for Vue 3 components using the Composition API. This includes best practices and recommendations for component structure and reactive state management.
-globs: src/**/*.vue
+name: mdc-vue-3-composition-api---general
+description: 'Skill: mdc-vue-3-composition-api---general'
+license: MIT
+tags:
+- vue
 ---
+
 - Use setup() function for component logic
 - Utilize ref and reactive for reactive state
 - Implement computed properties with computed()

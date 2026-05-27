@@ -1,3 +1,10 @@
+---
+name: gpt-system_prompt
+description: "Skill: gpt-system_prompt"
+license: MIT
+tags: [general]
+---
+
 DEVIN SYS PROMPT
 
 ## General Instructions

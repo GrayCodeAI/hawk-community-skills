@@ -1,3 +1,10 @@
+---
+name: gpt-pfqijms57_medical_ai
+description: "Skill: gpt-pfqijms57_medical_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PFQijmS57-medical-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pIwBOPS9TJnu5OXlQJC4FkIO?se=2124-01-06T08%3A36%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DUntitled-2.png&sig=hjuyesRgRyXz6ttCIKB3uTnxV33TRyxDOgPucmlvQPw%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: cpa-astronomer
+description: "Skill: cpa-astronomer"
+license: MIT
+tags: [general]
+---
+
 # az astronomer
 
 ```bash

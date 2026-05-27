@@ -1,3 +1,11 @@
+---
+name: ls-lsrun219h_rfplex---ms-rfp-assistant
+description: 'Skill: ls-lsrun219h_rfplex---ms-rfp-assistant'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-lSRUN219h-rfplex-ms-rfp-assistant
 
 GPT Title: RFPlex - MS RFP Assistant

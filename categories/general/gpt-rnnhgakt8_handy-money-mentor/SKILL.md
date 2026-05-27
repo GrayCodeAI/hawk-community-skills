@@ -1,3 +1,10 @@
+---
+name: gpt-rnnhgakt8_handy-money-mentor
+description: "Skill: gpt-rnnhgakt8_handy-money-mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-rnNHgakt8-handy-money-mentor
 
 GPT Title: Handy Money Mentor

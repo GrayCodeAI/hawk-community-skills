@@ -1,3 +1,10 @@
+---
+name: ls-spqdj5ltm_darksai-detective-stories-game
+description: "Skill: ls-spqdj5ltm_darksai-detective-stories-game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SpQDj5LtM-reverse-engineering-expert
 
 GPT Title: DarksAI: Detective Stories Game

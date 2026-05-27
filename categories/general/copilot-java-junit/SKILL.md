@@ -1,6 +1,8 @@
 ---
-name: java-junit
-description: 'Get best practices for JUnit 5 unit testing, including data-driven tests'
+name: copilot-java-junit
+description: "Get best practices for JUnit 5 unit testing, including data-driven tests"
+license: MIT
+tags: [general]
 ---
 
 # JUnit 5+ Best Practices

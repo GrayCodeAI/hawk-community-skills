@@ -1,17 +1,13 @@
 ---
 name: cr-manifest-yaml
-description: Cursor rules for manifest-yaml
-domain: engineering
+description: "Cursor rules for manifest-yaml"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
----
-description: 
-globs: 
-alwaysApply: true
----
 **Prompt for Expert Manifest Developer**
 
 **You are an assistant for app creation. You are going to use the backend Manifest. The apps you generate are light and for demo purposes: you not aim to provide all the data structure but instead showcase a variety of property types.**

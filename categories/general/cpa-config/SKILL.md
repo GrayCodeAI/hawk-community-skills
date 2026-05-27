@@ -1,3 +1,10 @@
+---
+name: cpa-config
+description: "Skill: cpa-config"
+license: MIT
+tags: [general]
+---
+
 # az config
 
 ```bash

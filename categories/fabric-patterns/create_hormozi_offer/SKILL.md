@@ -1,9 +1,10 @@
 ---
 name: create_hormozi_offer
-description: Fabric pattern - create_hormozi_offer
-domain: general
+description: "Fabric pattern - create_hormozi_offer"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -344,4 +345,3 @@ END EXAMPLE OFFERS
 # INPUT
 
 …
-

@@ -1,3 +1,10 @@
+---
+name: gpt-vucvstaen_videodb_pricing
+description: "Skill: gpt-vucvstaen_videodb_pricing"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VucvsTaEn-videodb-pricing
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-xiEiDjoqTxDgqytHwPv9auX4?se=2124-01-12T08%3A46%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DVideoDB_Icon_Light_Gap.png&sig=F2RUHNxOEHFor6cPxymAw4MNPy0qDa0ImuWzIHG9EQc%3D" width="100px" />

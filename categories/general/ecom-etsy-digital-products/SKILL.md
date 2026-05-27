@@ -1,9 +1,11 @@
 ---
-name: etsy-digital-products
+name: ecom-etsy-digital-products
 description: "Digital product creation and selling — templates, printables, planners, digital art, delivery setup"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Digital Products

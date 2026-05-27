@@ -1,3 +1,10 @@
+---
+name: gpt-70ftwmzwq_code_smart
+description: "Skill: gpt-70ftwmzwq_code_smart"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-70fTwmZWQ-code-smart
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6rUuasfDAmYbKRCefviXVmhX?se=2123-12-15T07%3A04%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D687ea51d-e85f-4a26-81b8-437bc0670cc3.png&sig=mEzvW6Rxhmt44nA0tNwTlQP0Uy7PpnKVomEEHf%2BRfPY%3D" width="100px" />

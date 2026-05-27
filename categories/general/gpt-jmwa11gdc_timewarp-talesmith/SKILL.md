@@ -1,3 +1,10 @@
+---
+name: gpt-jmwa11gdc_timewarp-talesmith
+description: "Skill: gpt-jmwa11gdc_timewarp-talesmith"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jMWa11GDc-timewarp-talesmith-where-and-when
 
 GPT Title: TimeWarp Talesmith: Where and When?

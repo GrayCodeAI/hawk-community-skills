@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-discount-ab-analysis
-role: conversion-optimization
+name: shopify-shopify-admin-discount-ab-analysis
 description: "Compare redemption rates and revenue performance across two or more discount codes over a specified date range."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - discountNodes:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'discountNodes': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

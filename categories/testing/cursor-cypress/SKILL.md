@@ -1,16 +1,11 @@
 ---
 name: cursor-cypress
-description: Cursor IDE rules for cypress
-domain: engineering
+description: "Cursor IDE rules for cypress"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Cypress: cy commands, selectors, fixtures, intercepts"
-globs: ["cypress/**/*", "*.cy.*"]
-alwaysApply: true
 ---
 
 # Cypress Cursor Rules

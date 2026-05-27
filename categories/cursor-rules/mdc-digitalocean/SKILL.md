@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building, deploying, and managing cloud-native applications on DigitalOcean, focusing on secure, scalable, and cost-efficient practices.
-globs: **/*
+name: mdc-digitalocean
+description: "Definitive guidelines for building, deploying, and managing cloud-native applications on DigitalOcean, focusing on secure, scalable, and cost-efficient practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # digitalocean Best Practices
 
 This guide outlines the definitive best practices for developing and deploying applications on DigitalOcean. Adhering to these rules ensures your projects are secure, performant, scalable, and maintainable, leveraging DigitalOcean's managed services and cloud-native patterns.

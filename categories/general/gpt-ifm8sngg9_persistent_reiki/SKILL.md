@@ -1,3 +1,10 @@
+---
+name: gpt-ifm8sngg9_persistent_reiki
+description: "Skill: gpt-ifm8sngg9_persistent_reiki"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ifm8sngg9-persistent-reiki
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Yw3Uc5KLhYDUBsw8drYtoPoR?se=2123-10-29T04%3A50%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db1938783-c161-42bf-b10a-d80ccd7a3468.png&sig=CkL1qUfaHtMiLwv9c33c1GkWka1E%2BudVl4plq7zGGhc%3D" width="100px" />

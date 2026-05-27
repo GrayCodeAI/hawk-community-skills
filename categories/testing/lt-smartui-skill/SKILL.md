@@ -1,21 +1,14 @@
 ---
-name: smartui-skill
-description: >
-  Generates SmartUI visual regression test configurations for screenshot
-  comparison on TestMu AI cloud. Framework-agnostic — works with Playwright,
-  Selenium, Cypress, Puppeteer. Use when user mentions "SmartUI", "visual
-  regression", "screenshot comparison", "visual testing". Triggers on:
-  "SmartUI", "visual regression", "screenshot comparison", "pixel diff",
-  "visual testing LambdaTest".
-languages:
-  - JavaScript
-  - TypeScript
-  - Java
-category: visual-testing
+name: lt-smartui-skill
+description: "Skill: lt-smartui-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+regression", "screenshot comparison", "visual testing". Triggers on: None
+languages: None
+category: visual-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # SmartUI Visual Regression Skill

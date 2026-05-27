@@ -1,9 +1,11 @@
 ---
-name: angular-migration
+name: ag-angular-migration
 description: "Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and routing migration."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Angular Migration

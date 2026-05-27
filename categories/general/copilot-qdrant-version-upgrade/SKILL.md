@@ -1,8 +1,9 @@
 ---
-name: qdrant-version-upgrade
+name: copilot-qdrant-version-upgrade
 description: "Guidance on how to upgrade your Qdrant version without interrupting the availability of your application and ensuring data integrity."
+license: MIT
+tags: [general]
 ---
-
 
 # Qdrant Version Upgrade
 

@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-cross-sell-opportunity-finder
-role: conversion-optimization
+name: shopify-shopify-admin-cross-sell-opportunity-finder
 description: "Read-only: identifies products with high single-purchase rates that could benefit from cross-sell pairing based on category and price affinity."
+license: MIT
+tags: [general]
+role: conversion-optimization
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - products:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'products': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

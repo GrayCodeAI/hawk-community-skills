@@ -1,3 +1,10 @@
+---
+name: gpt-9qwc0oybd_super-describe
+description: "Skill: gpt-9qwc0oybd_super-describe"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9qWC0oyBd-super-describe
 
 GPT Title: Super Describe

@@ -1,7 +1,9 @@
 ---
-name: witness
-description: Sign, verify, and track fix-marker regressions over time using a deterministic Ed25519 witness manifest. Works in any project — clone the toolkit, run init, register fixes, regen on each release.
-argument-hint: "init|regen|verify|history [...]"
+name: flow-witness
+description: "Sign, verify, and track fix-marker regressions over time using a deterministic Ed25519 witness manifest. Works in any project — clone the toolkit, run init, register fixes, regen on each release."
+license: MIT
+tags: [general]
+argument-hint: init|regen|verify|history [...]
 allowed-tools: Bash(node *), Read, Write, Edit
 ---
 

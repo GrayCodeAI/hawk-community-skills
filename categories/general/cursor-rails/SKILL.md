@@ -1,16 +1,11 @@
 ---
 name: cursor-rails
-description: Cursor IDE rules for rails
-domain: engineering
+description: "Cursor IDE rules for rails"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Rails: thin controllers, service objects, Turbo"
-globs: ["*.rb"]
-alwaysApply: true
 ---
 
 # Ruby on Rails Cursor Rules

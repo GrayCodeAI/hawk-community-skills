@@ -1,3 +1,10 @@
+---
+name: cpa-vpn-site
+description: "Skill: cpa-vpn-site"
+license: MIT
+tags: [general]
+---
+
 # az network vpn-site
 
 ```bash

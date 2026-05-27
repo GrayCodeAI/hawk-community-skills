@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-return-fraud-detector
-role: returns
+name: shopify-shopify-admin-return-fraud-detector
 description: "Read-only: identifies customers with abnormal return behavior — high return rate, wardrobing patterns, or serial returner profiles — for manual review."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - returns:query
-  - customers:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'returns': 'query'}, {'customers': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

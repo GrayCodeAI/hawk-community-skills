@@ -1,3 +1,10 @@
+---
+name: ls-notebooklm
+description: "Skill: ls-notebooklm"
+license: MIT
+tags: [general]
+---
+
 references: https://x.com/JadenGeller/status/1839924780855672925
 
 

@@ -1,14 +1,15 @@
 ---
-name: ux-copy
+name: ag-ux-copy
 description: "Generate UX microcopy in StyleSeed's Toss-inspired voice for buttons, empty states, errors, toasts, confirmations, and form guidance."
+license: MIT
+tags: [ux, copywriting, microcopy, frontend, styleseed]
 category: design
 risk: safe
 source: community
 source_repo: bitjaru/styleseed
 source_type: community
-date_added: "2026-04-08"
+date_added: 2026-04-08
 author: bitjaru
-tags: [ux, copywriting, microcopy, frontend, styleseed]
 tools: [claude, cursor, codex, gemini]
 ---
 

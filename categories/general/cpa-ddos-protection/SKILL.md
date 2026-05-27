@@ -1,3 +1,10 @@
+---
+name: cpa-ddos-protection
+description: "Skill: cpa-ddos-protection"
+license: MIT
+tags: [general]
+---
+
 # az network ddos-protection
 
 ```bash

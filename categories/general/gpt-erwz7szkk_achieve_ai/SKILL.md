@@ -1,3 +1,10 @@
+---
+name: gpt-erwz7szkk_achieve_ai
+description: "Skill: gpt-erwz7szkk_achieve_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-eRwZ7sZkk-achieve-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GwzMtdY84veJkwGM9F68TwlU?se=2124-01-14T15%3A43%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_7009.jpeg&sig=rVy8Lnfeemub%2BbUmIOuRnSxGzIBjMV9gDHlnA0D2NP0%3D" width="100px" />

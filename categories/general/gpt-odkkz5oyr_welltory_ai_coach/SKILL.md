@@ -1,3 +1,10 @@
+---
+name: gpt-odkkz5oyr_welltory_ai_coach
+description: "Skill: gpt-odkkz5oyr_welltory_ai_coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-oDkKZ5OyR-welltory-ai-coach
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-K45GY3CGV5HtLIfPqiqNAa61?se=2123-12-17T16%3A59%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dwelltory_logo.png&sig=nXGzYdW9%2BsvS5gRsEp6v//%2BiRtb37sBwHDExWP%2BNzwE%3D" width="100px" />

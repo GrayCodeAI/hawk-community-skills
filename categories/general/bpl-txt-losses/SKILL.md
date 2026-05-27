@@ -1,9 +1,10 @@
 ---
-name: bpl-losses
-description: System prompt - losses
-domain: general
+name: bpl-txt-losses
+description: "System prompt - losses"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

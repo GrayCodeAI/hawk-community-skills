@@ -1,8 +1,10 @@
 ---
-name: grist-automation
+name: composio-grist-automation
 description: "Automate Grist tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Grist Automation via Rube MCP

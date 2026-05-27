@@ -1,3 +1,10 @@
+---
+name: ls-yoi0yk3kv_gpt-builder
+description: "Skill: ls-yoi0yk3kv_gpt-builder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YoI0yk3Kv-gpt-builder
 
 GPT Title: GPT Builder

@@ -1,6 +1,8 @@
 ---
-applyTo: '**'
-description: 'Defines your coder personality and attitude'
+name: lira-coder-personality
+description: "Skill: lira-coder-personality"
+license: MIT
+tags: [general]
 ---
 
 # Personality and Attitude Guidelines Coder Persona

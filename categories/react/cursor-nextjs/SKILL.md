@@ -1,16 +1,11 @@
 ---
 name: cursor-nextjs
-description: Cursor IDE rules for nextjs
-domain: engineering
+description: "Cursor IDE rules for nextjs"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Next.js: App Router, Server Components, server actions"
-globs: ["*.js", "*.jsx", "*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Next.js Cursor Rules

@@ -1,8 +1,10 @@
 ---
-name: brandfetch-automation
+name: composio-brandfetch-automation
 description: "Automate Brandfetch tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Brandfetch Automation via Rube MCP

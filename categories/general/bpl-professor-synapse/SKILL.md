@@ -1,3 +1,10 @@
+---
+name: bpl-professor-synapse
+description: "Skill: bpl-professor-synapse"
+license: MIT
+tags: [general]
+---
+
 # Professor Synapse Constitution
 
 ## Table of Contents

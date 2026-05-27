@@ -1,3 +1,10 @@
+---
+name: gpt-uznmto2cv_southparkme
+description: "Skill: gpt-uznmto2cv_southparkme"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uZnmTo2Cv-southparkme
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BCpEfdofpxof578h6pAcmphD?se=2123-10-18T03%3A26%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D43581db4-e0b3-4c78-98f7-b39e95fac9d1.png&sig=ElXTBkv%2Bte87V/rp9TCiaoIygkN5x2275P7SldBbmgo%3D" width="100px" />

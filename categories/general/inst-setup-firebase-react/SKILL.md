@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-react
+description: "Skill: inst-setup-firebase-react"
+license: MIT
+tags: [general]
+---
+
 # Firebase + React Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with a React application.
@@ -416,4 +423,4 @@ export function useStorage(path: string) {
 ## Additional Resources
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [React Documentation](https://react.dev)
-- [Firebase Console](https://console.firebase.google.com/) 
+- [Firebase Console](https://console.firebase.google.com/)

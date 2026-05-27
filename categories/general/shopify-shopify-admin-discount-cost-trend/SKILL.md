@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-discount-cost-trend
-role: finance
+name: shopify-shopify-admin-discount-cost-trend
 description: "Read-only: tracks total discount dollars given over configurable time buckets (week/month/quarter), broken down by discount type and code."
+license: MIT
+tags: [general]
+role: finance
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,9 +1,10 @@
 ---
 name: t_create_h3_career
-description: Fabric pattern - t_create_h3_career
-domain: general
+description: "Fabric pattern - t_create_h3_career"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

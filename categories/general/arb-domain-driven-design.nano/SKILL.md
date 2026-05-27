@@ -1,3 +1,10 @@
+---
+name: arb-domain-driven-design.nano
+description: "Skill: arb-domain-driven-design.nano"
+license: MIT
+tags: [general]
+---
+
 # OBEY Domain-Driven Design by Eric Evans
 
 ## When to use

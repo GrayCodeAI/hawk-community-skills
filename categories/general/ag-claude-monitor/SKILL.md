@@ -1,21 +1,13 @@
 ---
-name: claude-monitor
-description: Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema.
+name: ag-claude-monitor
+description: "Monitor de performance do Claude Code e sistema local. Diagnostica lentidao, mede CPU/RAM/disco, verifica API latency e gera relatorios de saude do sistema."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: '2026-03-06'
+date_added: 2026-03-06
 author: renat
-tags:
-- monitoring
-- performance
-- diagnostics
-- system-health
-tools:
-- claude-code
-- antigravity
-- cursor
-- gemini-cli
-- codex-cli
+tools: None
 ---
 
 # Claude Monitor — Diagnóstico de Performance

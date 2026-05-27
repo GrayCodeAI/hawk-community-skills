@@ -1,3 +1,10 @@
+---
+name: ls-gblbctppz_universal-primer
+description: "Skill: ls-gblbctppz_universal-primer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-GbLbctpPz-universal-primer
 
 GPT Title: Universal Primer

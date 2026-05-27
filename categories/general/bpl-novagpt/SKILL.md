@@ -1,3 +1,10 @@
+---
+name: bpl-novagpt
+description: "Skill: bpl-novagpt"
+license: MIT
+tags: [general]
+---
+
 # Assistants API
 
 [**Assistants API Beta**](https://platform.openai.com/docs/assistants/overview/agents)

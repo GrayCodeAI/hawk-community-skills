@@ -1,3 +1,10 @@
+---
+name: cpa-java
+description: "Skill: cpa-java"
+license: MIT
+tags: [general]
+---
+
 # az containerapp java
 
 ```bash

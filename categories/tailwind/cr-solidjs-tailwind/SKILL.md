@@ -1,9 +1,10 @@
 ---
 name: cr-solidjs-tailwind
-description: Cursor rules for solidjs-tailwind
-domain: engineering
+description: "Cursor rules for solidjs-tailwind"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -50,4 +51,3 @@ const additionalInstructions = `
 6. Follow both Solid.js and Tailwind naming conventions
 7. Use JIT (Just-In-Time) mode for faster development
 `;
-

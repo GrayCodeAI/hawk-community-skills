@@ -1,3 +1,10 @@
+---
+name: ghcp-github-awesome-copilot-code_of_conduct
+description: "Skill: ghcp-github-awesome-copilot-code_of_conduct"
+license: MIT
+tags: [general]
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

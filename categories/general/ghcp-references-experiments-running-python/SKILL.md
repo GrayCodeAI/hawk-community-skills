@@ -1,3 +1,10 @@
+---
+name: ghcp-references-experiments-running-python
+description: "Skill: ghcp-references-experiments-running-python"
+license: MIT
+tags: [general]
+---
+
 # Experiments: Running Experiments in Python
 
 Execute experiments with `run_experiment`.

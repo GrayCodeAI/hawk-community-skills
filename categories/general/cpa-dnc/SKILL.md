@@ -1,3 +1,10 @@
+---
+name: cpa-dnc
+description: "Skill: cpa-dnc"
+license: MIT
+tags: [general]
+---
+
 # az dnc
 
 ```bash

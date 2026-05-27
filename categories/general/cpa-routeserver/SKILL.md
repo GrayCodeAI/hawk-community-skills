@@ -1,3 +1,10 @@
+---
+name: cpa-routeserver
+description: "Skill: cpa-routeserver"
+license: MIT
+tags: [general]
+---
+
 # az network routeserver
 
 ```bash

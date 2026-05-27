@@ -1,3 +1,10 @@
+---
+name: cpa-ppg
+description: "Skill: cpa-ppg"
+license: MIT
+tags: [general]
+---
+
 # az ppg
 
 ```bash

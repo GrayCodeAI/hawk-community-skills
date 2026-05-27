@@ -1,8 +1,10 @@
 ---
-name: wati-automation
+name: composio-wati-automation
 description: "Automate Wati tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Wati Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: inst-setup-drizzle-angular
+description: "Skill: inst-setup-drizzle-angular"
+license: MIT
+tags: [general]
+---
+
 # Drizzle + Angular Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Drizzle ORM with an Angular application.
@@ -420,4 +427,4 @@ Common issues and solutions:
 
 - [Drizzle Documentation](https://orm.drizzle.team)
 - [Angular Documentation](https://angular.io/docs)
-- [PostgreSQL Documentation](https://www.postgresql.org/docs/) 
+- [PostgreSQL Documentation](https://www.postgresql.org/docs/)

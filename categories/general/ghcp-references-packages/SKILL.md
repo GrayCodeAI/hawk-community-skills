@@ -1,3 +1,10 @@
+---
+name: ghcp-references-packages
+description: "Skill: ghcp-references-packages"
+license: MIT
+tags: [general]
+---
+
 # NuGet packages and target frameworks
 
 ## The three official packages

@@ -1,6 +1,8 @@
 ---
-name: "browser-automation"
-description: "Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use playwright-pro for that."
+name: arezv-browser-automation
+description: "Use when the user asks to automate browser tasks, scrape websites, fill forms, capture screenshots, extract structured data from web pages, or build web automation workflows. NOT for testing — use ..."
+license: MIT
+tags: [general]
 ---
 
 # Browser Automation - POWERFUL

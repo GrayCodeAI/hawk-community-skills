@@ -1,3 +1,10 @@
+---
+name: ghcp-references-cost-estimator
+description: "Skill: ghcp-references-cost-estimator"
+license: MIT
+tags: [general]
+---
+
 # Cost Estimator Reference
 
 Formulas and patterns for converting Azure unit prices into monthly and annual cost estimates.

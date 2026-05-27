@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-refund-and-reorder
-role: customer-support
+name: shopify-shopify-admin-refund-and-reorder
 description: "Process a full or partial refund on an order and optionally create a replacement draft order for the customer."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - order:query
-  - refundCreate:mutation
-  - draftOrderCreate:mutation
+api_version: 2025-01
+graphql_operations: [{'order': 'query'}, {'refundCreate': 'mutation'}, {'draftOrderCreate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

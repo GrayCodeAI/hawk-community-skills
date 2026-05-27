@@ -1,3 +1,10 @@
+---
+name: ghcp-references-open-coding
+description: "Skill: ghcp-references-open-coding"
+license: MIT
+tags: [general]
+---
+
 # Open Coding
 
 Free-form note-writing against sampled traces, spans, or sessions, before any taxonomy exists. After you pick a sample at the right unit (see [Choosing the unit of analysis](#choosing-the-unit-of-analysis)), read each one and write a short, specific observation of what went wrong. These raw notes feed [axial coding](axial-coding.md), where they get grouped into named failure categories — and ultimately into eval targets or fix priorities.

@@ -1,3 +1,10 @@
+---
+name: gpt-5n737pwho_daily_mentor
+description: "Skill: gpt-5n737pwho_daily_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5n737pWHo-daily-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-V1QKdVogAPHI2LI1W3pWsvdM?se=2123-10-17T00%3A05%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2e12c972-0060-4d23-9eaf-da87d30c32be.png&sig=sB7yvD2Qasl5yFFxAGxXQ0JeKnIc71dOPfCMjQLdd1U%3D" width="100px" />

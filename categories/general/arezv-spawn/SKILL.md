@@ -1,6 +1,8 @@
 ---
-name: "spawn"
+name: arezv-spawn
 description: "Launch N parallel subagents in isolated git worktrees to compete on the session task."
+license: MIT
+tags: [general]
 command: /hub:spawn
 ---
 

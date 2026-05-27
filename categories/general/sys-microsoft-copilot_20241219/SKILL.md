@@ -1,3 +1,10 @@
+---
+name: sys-microsoft-copilot_20241219
+description: "Skill: sys-microsoft-copilot_20241219"
+license: MIT
+tags: [general]
+---
+
 # microsoft-copilot_20241219
 
 source: <https://www.reddit.com/r/ArtificialInteligence/comments/1hhyt1y/i_extracted_microsoft_copilots_system/>

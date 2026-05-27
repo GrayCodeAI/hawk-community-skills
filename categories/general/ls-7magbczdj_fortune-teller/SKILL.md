@@ -1,3 +1,10 @@
+---
+name: ls-7magbczdj_fortune-teller
+description: "Skill: ls-7magbczdj_fortune-teller"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7MaGBcZDj
 
 GPT Title: Fortune Teller

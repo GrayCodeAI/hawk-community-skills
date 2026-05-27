@@ -1,8 +1,10 @@
 ---
-name: gist-automation
+name: composio-gist-automation
 description: "Automate Gist tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Gist Automation via Rube MCP

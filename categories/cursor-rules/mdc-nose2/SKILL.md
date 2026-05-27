@@ -1,7 +1,10 @@
 ---
-description: This rule file provides opinionated best practices for writing, organizing, and configuring tests using nose2, emphasizing modern Python development workflows and common pitfalls.
-globs: **/*.py
+name: mdc-nose2
+description: "This rule file provides opinionated best practices for writing, organizing, and configuring tests using nose2, emphasizing modern Python development workflows and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # nose2 Best Practices
 
 `nose2` is the modern successor to `nose`, built upon Python's `unittest` module. It offers powerful test discovery, a plugin architecture, and helpers for writing clean, maintainable test suites. This guide outlines essential best practices for leveraging `nose2` effectively in your projects.

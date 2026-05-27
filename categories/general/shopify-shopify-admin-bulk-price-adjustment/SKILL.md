@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-bulk-price-adjustment
-role: merchandising
+name: shopify-shopify-admin-bulk-price-adjustment
 description: "Query products by collection or tag and update all variant prices by a percentage or fixed amount, with optional floor/ceiling constraints."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - products:query
-  - productVariantsBulkUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'products': 'query'}, {'productVariantsBulkUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

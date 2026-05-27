@@ -1,9 +1,10 @@
 ---
 name: extract_controversial_ideas
-description: Fabric pattern - extract_controversial_ideas
-domain: general
+description: "Fabric pattern - extract_controversial_ideas"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -26,4 +27,3 @@ You are super-intelligent AI system that extracts the most controversial stateme
 - Ensure you get all of the controversial ideas from the input.
 
 - Output the output as Markdown, but without the use of any asterisks.
-

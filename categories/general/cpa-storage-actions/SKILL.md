@@ -1,3 +1,10 @@
+---
+name: cpa-storage-actions
+description: "Skill: cpa-storage-actions"
+license: MIT
+tags: [general]
+---
+
 # az storage-actions
 
 ```bash

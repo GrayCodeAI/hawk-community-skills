@@ -1,3 +1,10 @@
+---
+name: gpt-ln1gkfnvl_creative_writing_coach
+description: "Skill: gpt-ln1gkfnvl_creative_writing_coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach
 
 GPT Title: Creative Writing Coach

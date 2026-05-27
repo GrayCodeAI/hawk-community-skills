@@ -1,9 +1,10 @@
 ---
 name: cr-aspnet-abp
-description: Cursor rules for aspnet-abp
-domain: engineering
+description: "Cursor rules for aspnet-abp"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

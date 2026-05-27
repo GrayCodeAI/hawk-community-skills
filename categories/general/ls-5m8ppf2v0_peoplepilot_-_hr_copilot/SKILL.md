@@ -1,3 +1,10 @@
+---
+name: ls-5m8ppf2v0_peoplepilot_-_hr_copilot
+description: "Skill: ls-5m8ppf2v0_peoplepilot_-_hr_copilot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-5M8PpF2V0-peoplepilot-hr-copilot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RYXHRgvYTxvBLYgTqY32zTmL?se=2124-01-05T17%3A57%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPeople%2520Pilot.png&sig=kUNZgat7LsSNSSr5l9u2VQ9uu1RPdR4DZd9n/a%2BZgl8%3D" width="100px" />

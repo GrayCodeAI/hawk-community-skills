@@ -1,9 +1,10 @@
 ---
 name: analyze_prose_pinker
-description: Fabric pattern - analyze_prose_pinker
-domain: general
+description: "Fabric pattern - analyze_prose_pinker"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

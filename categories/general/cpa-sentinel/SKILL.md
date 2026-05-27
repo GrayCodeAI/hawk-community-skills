@@ -1,3 +1,10 @@
+---
+name: cpa-sentinel
+description: "Skill: cpa-sentinel"
+license: MIT
+tags: [general]
+---
+
 # az sentinel
 
 ```bash

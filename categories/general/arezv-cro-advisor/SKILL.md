@@ -1,15 +1,16 @@
 ---
-name: "cro-advisor"
-description: "Revenue leadership for B2B SaaS companies. Revenue forecasting, sales model design, pricing strategy, net revenue retention, and sales team scaling. Use when designing the revenue engine, setting quotas, modeling NRR, evaluating pricing, building board forecasts, or when user mentions CRO, chief revenue officer, revenue strategy, sales model, ARR growth, NRR, expansion revenue, churn, pricing strategy, or sales capacity."
+name: arezv-cro-advisor
+description: "Revenue leadership for B2B SaaS companies. Revenue forecasting, sales model design, pricing strategy, net revenue retention, and sales team scaling. Use when designing the revenue engine, setting q..."
 license: MIT
-metadata:
-  version: 1.0.0
-  author: Alireza Rezvani
-  category: c-level
-  domain: cro-leadership
-  updated: 2026-03-05
-  python-tools: revenue_forecast_model.py, churn_analyzer.py
-  frameworks: sales-playbook, pricing-strategy, nrr-playbook
+tags: [general]
+metadata: None
+version: 1.0.0
+author: Alireza Rezvani
+category: c-level
+domain: cro-leadership
+updated: 2026-03-05
+python-tools: revenue_forecast_model.py, churn_analyzer.py
+frameworks: sales-playbook, pricing-strategy, nrr-playbook
 ---
 
 # CRO Advisor

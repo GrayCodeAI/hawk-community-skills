@@ -1,3 +1,10 @@
+---
+name: cpa-vhub
+description: "Skill: cpa-vhub"
+license: MIT
+tags: [general]
+---
+
 # az network vhub
 
 ```bash

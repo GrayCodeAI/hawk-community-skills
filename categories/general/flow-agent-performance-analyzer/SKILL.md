@@ -1,31 +1,8 @@
 ---
-name: agent-performance-analyzer
-description: Agent skill for performance-analyzer - invoke with $agent-performance-analyzer
----
-
----
-name: perf-analyzer
-color: "amber"
-type: analysis
-description: Performance bottleneck analyzer for identifying and resolving workflow inefficiencies
-capabilities:
-  - performance_analysis
-  - bottleneck_detection
-  - metric_collection
-  - pattern_recognition
-  - optimization_planning
-  - trend_analysis
-priority: high
-hooks:
-  pre: |
-    echo "📊 Performance Analyzer starting analysis"
-    memory_store "analysis_start" "$(date +%s)"
-    # Collect baseline metrics
-    echo "📈 Collecting baseline performance metrics"
-  post: |
-    echo "✅ Performance analysis complete"
-    memory_store "perf_analysis_complete_$(date +%s)" "Performance report generated"
-    echo "💡 Optimization recommendations available"
+name: flow-agent-performance-analyzer
+description: "Agent skill for performance-analyzer - invoke with $agent-performance-analyzer"
+license: MIT
+tags: [general]
 ---
 
 # Performance Bottleneck Analyzer Agent

@@ -1,3 +1,10 @@
+---
+name: cpa-_root
+description: "Skill: cpa-_root"
+license: MIT
+tags: [general]
+---
+
 # az network (direct commands)
 
 ```bash

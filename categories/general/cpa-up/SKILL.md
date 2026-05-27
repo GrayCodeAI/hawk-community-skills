@@ -1,3 +1,10 @@
+---
+name: cpa-up
+description: "Skill: cpa-up"
+license: MIT
+tags: [general]
+---
+
 # az containerapp up
 
 ```bash

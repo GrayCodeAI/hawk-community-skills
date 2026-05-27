@@ -1,9 +1,10 @@
 ---
 name: cr-react-components-creation
-description: Cursor rules for react-components-creation
-domain: engineering
+description: "Cursor rules for react-components-creation"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -42,4 +43,3 @@ Example prompt template:
 "Create a React component named {ComponentName} using TypeScript and Tailwind CSS. It should {description of functionality}. Props should include {list of props with types}. The component should {any specific styling or behavior notes}. Please provide the full component code."
 
 Remember to replace placeholders like <ui_package_path> and <app_package_alias> with the actual values used in your project.
-

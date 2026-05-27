@@ -1,3 +1,10 @@
+---
+name: gpt-dbvsdm0af_hamosuqin-dai-owen-ihe-wasebot
+description: "Skill: gpt-dbvsdm0af_hamosuqin-dai-owen-ihe-wasebot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-dbvsDM0af-hamosuqin-dai-owen-ihe-wasebot
 
 GPT Title: ハーモス勤怠　お問い合わせBOT

@@ -1,3 +1,10 @@
+---
+name: gpt-0skdcwhzd_empath_engine_original
+description: "Skill: gpt-0skdcwhzd_empath_engine_original"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-0sKdcWhZd-empath-engine-original
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DpvU30RF6RV7psdmGPstxsi2?se=2123-12-08T10%3A10%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8584a6de-93b2-46d5-ae99-e33fed3287f2.png&sig=SEdoTq7MkTNejvU14FgHzCG0dY/PulecDE6wFjXcgkg%3D" width="100px" />

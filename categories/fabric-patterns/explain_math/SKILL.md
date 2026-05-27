@@ -1,9 +1,10 @@
 ---
 name: explain_math
-description: Fabric pattern - explain_math
-domain: general
+description: "Fabric pattern - explain_math"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

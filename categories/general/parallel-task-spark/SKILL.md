@@ -1,7 +1,8 @@
 ---
 name: parallel-task-spark
-description: >
-  Only to be triggered by explicit /parallel-task-spark commands. 
+description: "Skill: parallel-task-spark"
+license: MIT
+tags: [general]
 ---
 
 # Parallel Task Executor (Sparky)

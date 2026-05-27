@@ -1,9 +1,10 @@
 ---
 name: cr-solidity-react-blockchain-apps
-description: Cursor rules for solidity-react-blockchain-apps
-domain: engineering
+description: "Cursor rules for solidity-react-blockchain-apps"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

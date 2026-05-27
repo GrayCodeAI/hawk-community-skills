@@ -1,7 +1,9 @@
 ---
-description: 项目约定的代码结构规范
-globs:
-alwaysApply: true
+name: extra-project-structure
+description: "项目约定的代码结构规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: True
 ---
 
 # 项目结构规范

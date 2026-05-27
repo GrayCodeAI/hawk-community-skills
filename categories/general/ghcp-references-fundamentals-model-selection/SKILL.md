@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-model-selection
+description: "Skill: ghcp-references-fundamentals-model-selection"
+license: MIT
+tags: [general]
+---
+
 # Model Selection
 
 Error analysis first, model changes last.

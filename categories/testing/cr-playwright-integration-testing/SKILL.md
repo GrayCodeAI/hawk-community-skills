@@ -1,9 +1,10 @@
 ---
 name: cr-playwright-integration-testing
-description: Cursor rules for playwright-integration-testing
-domain: engineering
+description: "Cursor rules for playwright-integration-testing"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -206,4 +207,4 @@ test.describe('Shopping Cart Integration', () => {
     // Verify cart count is not updated
     await expect(page.locator('[data-testid="cart-count"]')).toContainText('0');
   });
-}); 
+});

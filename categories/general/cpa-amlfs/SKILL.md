@@ -1,3 +1,10 @@
+---
+name: cpa-amlfs
+description: "Skill: cpa-amlfs"
+license: MIT
+tags: [general]
+---
+
 # az amlfs
 
 ```bash

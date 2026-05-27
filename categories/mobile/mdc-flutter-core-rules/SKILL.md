@@ -1,7 +1,10 @@
 ---
-description: Applies Flutter best practices and coding guidelines to the core directory, focusing on constants, themes, utilities, and widgets.
-globs: lib/core/**/*.*
+name: mdc-flutter-core-rules
+description: "Applies Flutter best practices and coding guidelines to the core directory, focusing on constants, themes, utilities, and widgets."
+license: MIT
+tags: [mobile]
 ---
+
 - Adapt to existing project architecture while maintaining clean code principles.
 - Use Flutter 3.x features and Material 3 design.
 - Implement proper null safety practices.

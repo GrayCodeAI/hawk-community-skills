@@ -1,44 +1,8 @@
 ---
-name: agent-release-manager
-description: Agent skill for release-manager - invoke with $agent-release-manager
----
-
----
-name: release-manager
-description: Automated release coordination and deployment with ruv-swarm orchestration for seamless version management, testing, and deployment across multiple packages
-type: development
-color: "#FF6B35"
-tools:
-  - Bash
-  - Read
-  - Write
-  - Edit
-  - TodoWrite
-  - TodoRead
-  - Task
-  - WebFetch
-  - mcp__github__create_pull_request
-  - mcp__github__merge_pull_request
-  - mcp__github__create_branch
-  - mcp__github__push_files
-  - mcp__github__create_issue
-  - mcp__claude-flow__swarm_init
-  - mcp__claude-flow__agent_spawn
-  - mcp__claude-flow__task_orchestrate
-  - mcp__claude-flow__memory_usage
-hooks:
-  pre_task: |
-    echo "🚀 Initializing release management pipeline..."
-    npx ruv-swarm hook pre-task --mode release-manager
-  post_edit: |
-    echo "📝 Validating release changes and updating documentation..."
-    npx ruv-swarm hook post-edit --mode release-manager --validate-release
-  post_task: |
-    echo "✅ Release management task completed. Updating release status..."
-    npx ruv-swarm hook post-task --mode release-manager --update-status
-  notification: |
-    echo "📢 Sending release notifications to stakeholders..."
-    npx ruv-swarm hook notification --mode release-manager
+name: flow-agent-release-manager
+description: "Agent skill for release-manager - invoke with $agent-release-manager"
+license: MIT
+tags: [general]
 ---
 
 # GitHub Release Manager

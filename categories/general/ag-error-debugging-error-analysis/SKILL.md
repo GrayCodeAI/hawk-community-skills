@@ -1,9 +1,11 @@
 ---
-name: error-debugging-error-analysis
+name: ag-error-debugging-error-analysis
 description: "You are an expert error analysis specialist with deep expertise in debugging distributed systems, analyzing production incidents, and implementing comprehensive observability solutions."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Error Analysis and Resolution

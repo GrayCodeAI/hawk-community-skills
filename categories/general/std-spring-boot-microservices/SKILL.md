@@ -1,17 +1,14 @@
 ---
-name: spring-boot-microservices
-description: Standards for Feign clients and asynchronous messaging with Spring Cloud Stream. Use when implementing Feign HTTP clients or async event messaging in Spring Boot microservices.
-metadata:
-  triggers:
-    files:
-    - '**/*Client.java'
-    - '**/*Consumer.java'
-    keywords:
-    - feign-client
-    - spring-cloud-stream
-    - rabbitmq
-    - resilience4j
+name: std-spring-boot-microservices
+description: "Standards for Feign clients and asynchronous messaging with Spring Cloud Stream. Use when implementing Feign HTTP clients or async event messaging in Spring Boot microservices."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Spring Boot Microservices Standards
 
 ## **Priority: P0**

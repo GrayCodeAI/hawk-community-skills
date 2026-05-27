@@ -1,3 +1,10 @@
+---
+name: gpt-testing-for-command-injection-(rce)
+description: "Skill: gpt-testing-for-command-injection-(rce)"
+license: MIT
+tags: [general]
+---
+
 #rce #hacking #injection 
 source: https://wiki.owasp.org/index.php/Testing_for_Command_Injection_(OTG-INPVAL-013)
 # Testing for Command Injection (OTG-INPVAL-013)

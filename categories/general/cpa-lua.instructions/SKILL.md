@@ -1,3 +1,10 @@
+---
+name: cpa-lua.instructions
+description: "Skill: cpa-lua.instructions"
+license: MIT
+tags: [general]
+---
+
 # GitHub Copilot Instructions
 
 These instructions define how GitHub Copilot should assist with this project. The goal is to ensure consistent, high-quality code generation aligned with our conventions, stack, and best practices.

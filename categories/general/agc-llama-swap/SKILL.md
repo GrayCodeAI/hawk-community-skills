@@ -1,5 +1,8 @@
 ---
-name: llama-swap
+name: agc-llama-swap
+description: "Skill: agc-llama-swap"
+license: MIT
+tags: [general]
 display_name: llama-swap
 aliases: [llama-swap, llamaswap]
 output_file: resources/outputs/llama-swap.md

@@ -1,3 +1,10 @@
+---
+name: rb-pack_developer_guide
+description: "Skill: rb-pack_developer_guide"
+license: MIT
+tags: [general]
+---
+
 # The Easy Way to Get Started: Use the Authoring Guide Pack
 
 While this document contains the full technical specification for creating a pack, the easiest way to get started is to use `rulebook-ai` itself.

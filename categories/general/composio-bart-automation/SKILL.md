@@ -1,8 +1,10 @@
 ---
-name: bart-automation
+name: composio-bart-automation
 description: "Automate Bart tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bart Automation via Rube MCP

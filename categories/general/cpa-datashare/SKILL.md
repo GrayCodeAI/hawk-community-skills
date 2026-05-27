@@ -1,3 +1,10 @@
+---
+name: cpa-datashare
+description: "Skill: cpa-datashare"
+license: MIT
+tags: [general]
+---
+
 # az datashare
 
 ```bash

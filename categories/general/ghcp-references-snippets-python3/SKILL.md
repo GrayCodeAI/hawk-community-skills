@@ -1,3 +1,10 @@
+---
+name: ghcp-references-snippets-python3
+description: "Skill: ghcp-references-snippets-python3"
+license: MIT
+tags: [general]
+---
+
 # Code examples for Python 3
 
 - Use Python 3's built-in [`ipaddress` package](https://docs.python.org/3/library/ipaddress.html), with `strict=True` passed to constructors where available.

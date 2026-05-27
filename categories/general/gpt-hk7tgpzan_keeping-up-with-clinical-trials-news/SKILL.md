@@ -1,3 +1,10 @@
+---
+name: gpt-hk7tgpzan_keeping-up-with-clinical-trials-news
+description: "Skill: gpt-hk7tgpzan_keeping-up-with-clinical-trials-news"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-HK7TGpZAN-keeping-up-with-clinical-trials-news
 
 GPT Title: Keeping Up with Clinical Trials News

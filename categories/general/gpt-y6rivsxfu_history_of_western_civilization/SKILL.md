@@ -1,3 +1,10 @@
+---
+name: gpt-y6rivsxfu_history_of_western_civilization
+description: "Skill: gpt-y6rivsxfu_history_of_western_civilization"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Y6riVSXfU-history-of-western-civilization
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-mQZqeAERZ246eF64HAHcOMpz?se=2123-11-17T23%3A25%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDesign%2520sem%2520nome%2520%252845%2529.png&sig=ZPuQnKyDW3xXfDB59UK8N8tPu1qVD1jDZDIGED4b%2BUQ%3D" width="100px" />

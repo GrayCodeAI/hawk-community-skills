@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Next.js apps with shadcn/ui
-globs: **/*.ts, **/*.tsx, **/*.js, **/*.jsx
+name: inst-setup-next-shadcn-dashboard
+description: "Guidelines for writing Next.js apps with shadcn/ui"
+license: MIT
+tags: [general]
 ---
 
 # Next.js Dashboard Setup with shadcn/ui
@@ -161,4 +163,4 @@ Follow these steps in order to create a modern dashboard application:
     - Implement E2E testing
     - Test responsive behavior
     - Verify theme switching
-    - Test loading states 
+    - Test loading states

@@ -1,6 +1,8 @@
 ---
-name: "ciso-review"
+name: arezv-ciso-review
 description: "/cs:ciso-review <plan> — Risk-paranoid interrogation of any plan that touches data, compliance, or production access."
+license: MIT
+tags: [general]
 ---
 
 # /cs:ciso-review — CISO Forcing Questions

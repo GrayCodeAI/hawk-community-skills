@@ -1,7 +1,10 @@
 ---
-description: Rules for data fetching in server components in Next.js 14.
-globs: **/app/**/*.tsx
+name: mdc-data-fetching-rules-for-server-components
+description: "Rules for data fetching in server components in Next.js 14."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - For data fetching in server components (in .tsx files):
   tsx
   async function getData() {

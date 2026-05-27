@@ -1,3 +1,10 @@
+---
+name: ls-3ixjd6ve5_gpt_jailbreak
+description: "Skill: ls-3ixjd6ve5_gpt_jailbreak"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3ixJd6Ve5-gpt-jailbreak
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-J3AQwMJ98JuChp1G4uFyL6N3?se=2123-10-20T12%3A29%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Douroboros5549_a_game_logo_for_jailbreaking_chatGPT_df609c3f-a67e-4fa3-97b5-9575d755b707.png&sig=U0yjcSNWPIYsPUN5EkkO0KqgQtai5jIbJ3/5zd49YbY%3D" width="100px" />

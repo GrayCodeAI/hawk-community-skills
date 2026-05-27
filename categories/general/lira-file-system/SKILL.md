@@ -1,7 +1,8 @@
 ---
-applyTo: "**/*.js,**/*.ts"
-description: Paths, Files and File System operations security guidelines
-source: https://github.com/lirantal/agent-rules
+name: lira-file-system
+description: "Skill: lira-file-system"
+license: MIT
+tags: [general]
 ---
 
 # Paths, Files and File System operations security guidelines

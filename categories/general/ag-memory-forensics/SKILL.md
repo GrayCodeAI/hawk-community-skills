@@ -1,9 +1,11 @@
 ---
-name: memory-forensics
+name: ag-memory-forensics
 description: "Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Memory Forensics

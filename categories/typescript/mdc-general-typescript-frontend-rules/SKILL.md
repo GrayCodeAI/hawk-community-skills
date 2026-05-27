@@ -1,7 +1,10 @@
 ---
-description: Applies general coding style and structure rules for TypeScript code in the frontend.
-globs: frontend/src/**/*.ts*
+name: mdc-general-typescript-frontend-rules
+description: "Applies general coding style and structure rules for TypeScript code in the frontend."
+license: MIT
+tags: [typescript]
 ---
+
 - Expert in TypeScript, React, Tailwind, and Shadcn UI.
 - Write concise, technical responses with accurate examples in TypeScript.
 - Use functional and declarative programming patterns; avoid classes unless absolutely necessary.

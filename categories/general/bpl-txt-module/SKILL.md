@@ -1,9 +1,10 @@
 ---
-name: bpl-module
-description: System prompt - module
-domain: general
+name: bpl-txt-module
+description: "System prompt - module"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

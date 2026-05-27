@@ -1,3 +1,10 @@
+---
+name: ghcp-references-anti-rationalization-guard
+description: "Skill: ghcp-references-anti-rationalization-guard"
+license: MIT
+tags: [general]
+---
+
 # Anti-Rationalization Guard
 
 These rationalizations are **never** valid justifications for skipping, omitting, or downgrading findings:

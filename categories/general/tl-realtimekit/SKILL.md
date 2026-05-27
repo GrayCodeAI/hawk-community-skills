@@ -1,3 +1,10 @@
+---
+name: tl-realtimekit
+description: "Skill: tl-realtimekit"
+license: MIT
+tags: [general]
+---
+
 # RealtimeKit Gotchas & Troubleshooting
 
 ## Common Errors

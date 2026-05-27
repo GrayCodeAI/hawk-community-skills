@@ -1,3 +1,10 @@
+---
+name: arb-clean-architecture.mini
+description: "Skill: arb-clean-architecture.mini"
+license: MIT
+tags: [general]
+---
+
 # OBEY Clean Architecture by Robert C. Martin
 
 ## When to use

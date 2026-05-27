@@ -1,16 +1,11 @@
 ---
 name: cursor-graphql
-description: Cursor IDE rules for graphql
-domain: engineering
+description: "Cursor IDE rules for graphql"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "GraphQL: schema design, resolvers, performance"
-globs: ["*.graphql", "*.gql", "*.ts"]
-alwaysApply: true
 ---
 
 # GraphQL Cursor Rules

@@ -1,7 +1,9 @@
 ---
-name: nextjs-developer
-description: Next.js 14+ App Router development with React Server Components, ISR, middleware, and edge runtime
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-nextjs-developer
+description: "Next.js 14+ App Router development with React Server Components, ISR, middleware, and edge runtime"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

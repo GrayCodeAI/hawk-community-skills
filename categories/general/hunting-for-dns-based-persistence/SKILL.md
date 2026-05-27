@@ -1,12 +1,12 @@
 ---
 name: hunting-for-dns-based-persistence
-description: Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling CNAME records, wildcard DNS abuse, and unauthorized zone modifications using passive DNS databases, SecurityTrails API, and DNS audit log analysis.
+description: "Hunt for DNS-based persistence mechanisms including DNS hijacking, dangling CNAME records, wildcard DNS abuse, and unauthorized zone modifications using passive DNS databases, SecurityTrails API, a..."
+license: MIT
+tags: [dns, persistence, threat-hunting, passive-dns, dns-hijacking, subdomain-takeover, securitytrails]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [dns, persistence, threat-hunting, passive-dns, dns-hijacking, subdomain-takeover, securitytrails]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting for DNS-based Persistence

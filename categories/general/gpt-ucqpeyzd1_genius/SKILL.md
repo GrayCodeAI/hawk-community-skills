@@ -1,3 +1,10 @@
+---
+name: gpt-ucqpeyzd1_genius
+description: "Skill: gpt-ucqpeyzd1_genius"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uCQPeYZd1-genius
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Clfd9eTKoiNAmBMK46z9yvOx?se=2123-12-30T07%3A33%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dee4d337b-fe03-4c3c-b798-74d5b784e63e.png&sig=lBTAARC8/SA/zkQnaNcX1/BZh3d79TEiwqiRh6Ap3jI%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: context-compression
+name: ag-context-compression
 description: "When agent sessions generate millions of tokens of conversation history, compression becomes mandatory. The naive approach is aggressive compression to minimize tokens per request."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
 ---

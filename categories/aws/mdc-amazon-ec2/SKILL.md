@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for deploying and managing Amazon EC2 instances, focusing on security, cost optimization, and operational excellence through Infrastructure as Code (IaC).
-globs: **/*
+name: mdc-amazon-ec2
+description: "This guide provides definitive best practices for deploying and managing Amazon EC2 instances, focusing on security, cost optimization, and operational excellence through Infrastructure as Code (IaC)."
+license: MIT
+tags: [aws]
 ---
+
 # amazon-ec2 Best Practices
 
 Treat every EC2 instance as versioned, secured, and continuously optimized code. Adhere strictly to the AWS Well-Architected Framework and Foundational Security Best Practices (FSBP).

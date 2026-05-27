@@ -1,11 +1,11 @@
 ---
 name: standup-meeting
-description: Conduct effective daily standup meetings for agile teams. Use when facilitating standups, tracking blockers, or improving team synchronization. Handles standup format, time management, and blocker resolution.
-metadata:
-  tags: standup, daily-scrum, agile, team-sync, blockers
-  platforms: Claude, ChatGPT, Gemini
+description: "Conduct effective daily standup meetings for agile teams. Use when facilitating standups, tracking blockers, or improving team synchronization. Handles standup format, time management, and blocker ..."
+license: MIT
+tags: [standup, daily-scrum, agile, team-sync, blockers]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Standup Meeting
 

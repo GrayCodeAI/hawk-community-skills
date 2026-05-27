@@ -1,9 +1,10 @@
 ---
-name: pymc
-description: Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference.
+name: sci-pymc
+description: "Bayesian modeling with PyMC. Build hierarchical models, MCMC (NUTS), variational inference, LOO/WAIC comparison, posterior checks, for probabilistic programming and inference."
 license: Apache License, Version 2.0
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # PyMC Bayesian Modeling
@@ -567,4 +568,3 @@ with model:
 - Save results with `idata.to_netcdf('results.nc')`
 - Load with `az.from_netcdf('results.nc')`
 - For very large models, consider minibatch ADVI or data subsampling
-

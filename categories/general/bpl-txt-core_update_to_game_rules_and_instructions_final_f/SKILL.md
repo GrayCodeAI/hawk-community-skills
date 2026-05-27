@@ -1,9 +1,10 @@
 ---
-name: bpl-core_update_to_game_rules_and_instructions_final_f
-description: System prompt - core_update_to_game_rules_and_instructions_final_f
-domain: general
+name: bpl-txt-core_update_to_game_rules_and_instructions_final_f
+description: "System prompt - core_update_to_game_rules_and_instructions_final_f"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

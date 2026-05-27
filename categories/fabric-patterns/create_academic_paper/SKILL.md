@@ -1,9 +1,10 @@
 ---
 name: create_academic_paper
-description: Fabric pattern - create_academic_paper
-domain: general
+description: "Fabric pattern - create_academic_paper"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

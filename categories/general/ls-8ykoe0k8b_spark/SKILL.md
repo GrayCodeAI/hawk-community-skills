@@ -1,3 +1,10 @@
+---
+name: ls-8ykoe0k8b_spark
+description: "Skill: ls-8ykoe0k8b_spark"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8ykoe0k8b-spark
 
 GPT logo: <img src="None" width="100px" />

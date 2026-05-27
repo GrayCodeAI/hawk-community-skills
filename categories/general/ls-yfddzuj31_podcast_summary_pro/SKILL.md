@@ -1,3 +1,10 @@
+---
+name: ls-yfddzuj31_podcast_summary_pro
+description: "Skill: ls-yfddzuj31_podcast_summary_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-yFdDzUj31-podcast-summary-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ol5vPT06O9Py1P4UPquDQI62?se=2123-11-22T20%3A11%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D958bd03d-d344-429f-b19d-ca4ab17bcd68.png&sig=W1vDjKyIssZ%2BBaruxSgo0KMC5Gld95UYauzbtcgnLPQ%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: sys-manus_20250310
+description: "Skill: sys-manus_20250310"
+license: MIT
+tags: [general]
+---
+
 # manus_20250310
 
 source: <https://gist.github.com/jlia0/db0a9695b3ca7609c9b1a08dcbf872c9>

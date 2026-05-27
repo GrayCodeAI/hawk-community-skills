@@ -1,12 +1,12 @@
 ---
 name: detecting-network-scanning-with-ids-signatures
-description: Detect network reconnaissance and port scanning using Suricata and Snort IDS signatures, threshold-based detection rules, and traffic anomaly analysis to identify Nmap, Masscan, and custom scanning activity.
+description: "Detect network reconnaissance and port scanning using Suricata and Snort IDS signatures, threshold-based detection rules, and traffic anomaly analysis to identify Nmap, Masscan, and custom scanning..."
+license: MIT
+tags: [ids, nmap-detection, port-scanning, snort, suricata, reconnaissance, network-security, signature-detection, threshold-rules]
 domain: cybersecurity
 subdomain: network-security
-tags: [ids, nmap-detection, port-scanning, snort, suricata, reconnaissance, network-security, signature-detection, threshold-rules]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Network Scanning with IDS Signatures

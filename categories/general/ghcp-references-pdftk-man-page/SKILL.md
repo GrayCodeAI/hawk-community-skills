@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pdftk-man-page
+description: "Skill: ghcp-references-pdftk-man-page"
+license: MIT
+tags: [general]
+---
+
 # PDFtk Server Manual Reference
 
 - **`pdftk` version 2.02**

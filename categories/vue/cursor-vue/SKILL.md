@@ -1,16 +1,11 @@
 ---
 name: cursor-vue
-description: Cursor IDE rules for vue
-domain: engineering
+description: "Cursor IDE rules for vue"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Vue 3: Composition API, Pinia, script setup"
-globs: ["*.vue", "*.ts", "*.js"]
-alwaysApply: true
 ---
 
 # Vue Cursor Rules

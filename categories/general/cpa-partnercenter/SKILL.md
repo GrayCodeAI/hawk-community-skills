@@ -1,3 +1,10 @@
+---
+name: cpa-partnercenter
+description: "Skill: cpa-partnercenter"
+license: MIT
+tags: [general]
+---
+
 # az partnercenter
 
 ```bash

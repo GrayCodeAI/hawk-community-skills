@@ -1,9 +1,11 @@
 ---
-name: machine-learning-ops-ml-pipeline
+name: ag-machine-learning-ops-ml-pipeline
 description: "Design and implement a complete ML pipeline for: $ARGUMENTS"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Machine Learning Pipeline - Multi-Agent MLOps Orchestration

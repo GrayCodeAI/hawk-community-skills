@@ -1,9 +1,10 @@
 ---
 name: cr-wordpress-claude-stack
-description: Cursor rules for wordpress-claude-stack
-domain: engineering
+description: "Cursor rules for wordpress-claude-stack"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

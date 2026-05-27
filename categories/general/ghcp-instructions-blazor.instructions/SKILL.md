@@ -1,6 +1,8 @@
 ---
-description: 'Blazor component and application patterns'
-applyTo: '**/*.razor, **/*.razor.cs, **/*.razor.css'
+name: ghcp-instructions-blazor.instructions
+description: "Skill: ghcp-instructions-blazor.instructions"
+license: MIT
+tags: [general]
 ---
 
 ## Blazor Code Style and Structure

@@ -1,3 +1,10 @@
+---
+name: ls-part1
+description: "Skill: ls-part1"
+license: MIT
+tags: [general]
+---
+
 # Part 1: Intro & Setup
 
 # Chapter 1: Ancient Runes & Modern Scrolls, Classic & Modern Starters

@@ -1,6 +1,10 @@
 ---
-applyTo: '**'
+name: ghcp-instructions-dataverse-python-sdk.instructi
+description: "Skill: ghcp-instructions-dataverse-python-sdk.instructi"
+license: MIT
+tags: [general]
 ---
+
 # Dataverse SDK for Python — Official Quickstart
 
 This instruction summarizes Microsoft Learn guidance for the Dataverse SDK for Python (preview) and provides copyable snippets.

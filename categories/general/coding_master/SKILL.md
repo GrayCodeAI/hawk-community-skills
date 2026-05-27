@@ -1,9 +1,10 @@
 ---
 name: coding_master
-description: Fabric pattern - coding_master
-domain: general
+description: "Fabric pattern - coding_master"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

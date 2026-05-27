@@ -1,9 +1,11 @@
 ---
-name: data-engineering-data-driven-feature
+name: ag-data-engineering-data-driven-feature
 description: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Data-Driven Feature Development

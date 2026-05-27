@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and patterns for building Model Context Protocol (MCP) servers in Ruby using the official MCP Ruby SDK gem.'
-applyTo: "**/*.rb, **/Gemfile, **/*.gemspec, **/Rakefile"
+name: ghcp-instructions-ruby-mcp-server.instructions
+description: "Skill: ghcp-instructions-ruby-mcp-server.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Ruby MCP Server Development Guidelines

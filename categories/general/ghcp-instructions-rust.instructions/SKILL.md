@@ -1,6 +1,8 @@
 ---
-description: 'Rust programming language coding conventions and best practices'
-applyTo: '**/*.rs'
+name: ghcp-instructions-rust.instructions
+description: "Skill: ghcp-instructions-rust.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Rust Coding Conventions and Best Practices

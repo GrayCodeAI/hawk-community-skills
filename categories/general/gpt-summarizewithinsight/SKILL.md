@@ -1,3 +1,10 @@
+---
+name: gpt-summarizewithinsight
+description: "Skill: gpt-summarizewithinsight"
+license: MIT
+tags: [general]
+---
+
 POE URL: https://poe.com/SummarizeWithInsight
 
 POE logo: <img src="https://qph.cf2.poecdn.net/main-thumb-pb-4333357-200-daxeniqgwfmsnznzmfkvqkzgmapkfgfe.jpeg" width="100px" />

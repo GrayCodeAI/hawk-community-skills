@@ -1,3 +1,10 @@
+---
+name: gpt-1biyoyezq_intruder_pro_game
+description: "Skill: gpt-1biyoyezq_intruder_pro_game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1bIYoyeZq-intruder-pro-game
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-teP85Ow82PfLeuDVrcmkVDwh?se=2123-12-06T18%3A59%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D8a34fd58-f373-4d5d-ad4a-1be04f8860aa.png&sig=KHApxEnj2EIZIIBUTsj/m7UWhquwGdN5EWiWNRamvPc%3D" width="100px" />

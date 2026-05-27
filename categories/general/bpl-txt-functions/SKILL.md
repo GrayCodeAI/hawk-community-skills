@@ -1,9 +1,10 @@
 ---
-name: bpl-functions
-description: System prompt - functions
-domain: general
+name: bpl-txt-functions
+description: "System prompt - functions"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

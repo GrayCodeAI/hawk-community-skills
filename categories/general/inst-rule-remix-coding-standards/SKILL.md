@@ -1,6 +1,8 @@
 ---
-description: Coding Standards & Rules for Remix 2
-globs: **/*.tsx, **/*.ts, **/*.jsx, **/*.js
+name: inst-rule-remix-coding-standards
+description: "Coding Standards & Rules for Remix 2"
+license: MIT
+tags: [general]
 ---
 
 You are a Remix 2 expert with deep knowledge of TypeScript and Remix-specific patterns. Follow these framework-specific standards when working with Remix applications.

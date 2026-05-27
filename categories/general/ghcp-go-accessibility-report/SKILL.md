@@ -1,3 +1,10 @@
+---
+name: ghcp-go-accessibility-report
+description: "Skill: ghcp-go-accessibility-report"
+license: MIT
+tags: [general]
+---
+
 # Generating Accessibility Reports
 
 Build a CLI tool that analyzes web page accessibility using the Playwright MCP server and generates detailed WCAG-compliant reports with optional test generation.

@@ -1,13 +1,12 @@
 ---
-name: shopify-admin-return-cost-attribution
-role: returns
+name: shopify-shopify-admin-return-cost-attribution
 description: "Read-only: calculates the true cost of returns by reason and product — refund dollars, restocking impact, shipping cost lost, and COGS impact for items written off."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - returns:query
-  - orders:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'returns': 'query'}, {'orders': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

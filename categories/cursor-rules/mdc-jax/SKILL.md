@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-performance, functionally pure, and maintainable JAX code, focusing on common pitfalls and optimal patterns for accelerators.
-globs: **/*.py
+name: mdc-jax
+description: "Definitive guidelines for writing high-performance, functionally pure, and maintainable JAX code, focusing on common pitfalls and optimal patterns for accelerators."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # jax Best Practices
 
 JAX is the backbone of our AI/ML and numerical computing projects. Adhere to these principles for high-performance, reproducible, and maintainable JAX code.

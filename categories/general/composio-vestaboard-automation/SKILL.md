@@ -1,8 +1,10 @@
 ---
-name: vestaboard-automation
+name: composio-vestaboard-automation
 description: "Automate Vestaboard tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Vestaboard Automation via Rube MCP

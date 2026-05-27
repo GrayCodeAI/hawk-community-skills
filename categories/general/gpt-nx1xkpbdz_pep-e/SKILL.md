@@ -1,3 +1,10 @@
+---
+name: gpt-nx1xkpbdz_pep-e
+description: "Skill: gpt-nx1xkpbdz_pep-e"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Nx1XkpBdZ-pep-e
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-jwt2XHpgrPv0pGfplGUJcnHI?se=2123-10-16T20%3A21%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20ebc3cf-f742-4c28-86f6-68837574f833.png&sig=hpivjl/sdRnGfuS1Bn/xfEzb7Doyg7UkEx6lC0M/UUw%3D" width="100px" />

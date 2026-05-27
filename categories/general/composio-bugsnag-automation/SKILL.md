@@ -1,8 +1,10 @@
 ---
-name: bugsnag-automation
+name: composio-bugsnag-automation
 description: "Automate Bugsnag tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Bugsnag Automation via Rube MCP

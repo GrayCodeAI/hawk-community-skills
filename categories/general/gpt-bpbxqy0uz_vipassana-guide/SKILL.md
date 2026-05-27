@@ -1,3 +1,10 @@
+---
+name: gpt-bpbxqy0uz_vipassana-guide
+description: "Skill: gpt-bpbxqy0uz_vipassana-guide"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bPBXqy0UZ-vipassana-guide
 
 GPT Title: Vipassana Guide

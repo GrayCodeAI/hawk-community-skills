@@ -1,6 +1,8 @@
 ---
-name: rehabilitation-analyzer
-description: 分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议
+name: ag-rehabilitation-analyzer
+description: "分析康复训练数据、识别康复模式、评估康复进展，并提供个性化康复建议"
+license: MIT
+tags: [general]
 allowed-tools: Read, Grep, Glob, Write, Edit
 risk: unknown
 source: community

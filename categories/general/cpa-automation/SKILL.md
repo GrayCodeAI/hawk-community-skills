@@ -1,3 +1,10 @@
+---
+name: cpa-automation
+description: "Skill: cpa-automation"
+license: MIT
+tags: [general]
+---
+
 # az automation
 
 ```bash

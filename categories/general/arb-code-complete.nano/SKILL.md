@@ -1,3 +1,10 @@
+---
+name: arb-code-complete.nano
+description: "Skill: arb-code-complete.nano"
+license: MIT
+tags: [general]
+---
+
 # OBEY Code Complete by Steve McConnell
 
 ## When to use

@@ -1,16 +1,11 @@
 ---
 name: cursor-bun
-description: Cursor IDE rules for bun
-domain: engineering
+description: "Cursor IDE rules for bun"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Bun runtime: Bun.serve, Bun.file, bundler, test runner"
-globs: ["*.ts", "*.js", "bunfig.toml"]
-alwaysApply: true
 ---
 
 # Bun Cursor Rules

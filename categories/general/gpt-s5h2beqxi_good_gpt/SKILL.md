@@ -1,3 +1,10 @@
+---
+name: gpt-s5h2beqxi_good_gpt
+description: "Skill: gpt-s5h2beqxi_good_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-S5H2bEqXi-good-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-7OMgDBC1LsLNHdH6FsooW7Nu?se=2124-01-21T22%3A28%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D5f7768da-7fe5-4350-a70d-071e2f39c370.png&sig=sAdxI4GydenpJWKKYb3i%2BXccTuBgZdykzBWrdhBABY8%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: onepage-automation
+name: composio-onepage-automation
 description: "Automate Onepage tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Onepage Automation via Rube MCP

@@ -1,9 +1,10 @@
 ---
-name: bpl-info
-description: System prompt - info
-domain: general
+name: bpl-txt-info
+description: "System prompt - info"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

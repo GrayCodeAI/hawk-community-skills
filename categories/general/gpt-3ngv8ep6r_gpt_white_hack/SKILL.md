@@ -1,3 +1,10 @@
+---
+name: gpt-3ngv8ep6r_gpt_white_hack
+description: "Skill: gpt-3ngv8ep6r_gpt_white_hack"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3ngv8eP6R-gpt-white-hack
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GJEWJ4GP8nPnsYsXtq9plVOs?se=2123-10-19T14%3A48%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D41f65c5c-c300-464e-acc2-71791f62e9e6.png&sig=S4hnErUzQ7x4LG21aJ4j6v3AxuGowg4L1tSg%2BsyzWx8%3D" width="100px" />

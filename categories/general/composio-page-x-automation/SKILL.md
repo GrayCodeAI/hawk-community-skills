@@ -1,8 +1,10 @@
 ---
-name: page-x-automation
+name: composio-page-x-automation
 description: "Automate Page X tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Page X Automation via Rube MCP

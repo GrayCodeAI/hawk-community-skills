@@ -1,16 +1,14 @@
 ---
 name: performing-packet-injection-attack
-description: >
-  Crafts and injects custom network packets using Scapy, hping3, and Nemesis during
-  authorized security assessments to test firewall rules, IDS detection, protocol
-  handling, and network stack resilience against malformed and spoofed traffic.
+description: "Crafts and injects custom network packets using Scapy, hping3, and Nemesis during authorized security assessments to test firewall rules, IDS detection, protocol handling, and network stack resilie..."
+license: MIT
+tags: [network-security, packet-injection, scapy, hping3, protocol-testing]
 domain: cybersecurity
 subdomain: network-security
-tags: [network-security, packet-injection, scapy, hping3, protocol-testing]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Packet Injection Attack
 
 ## When to Use

@@ -1,3 +1,10 @@
+---
+name: extra-create-command
+description: "Skill: extra-create-command"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Create Command
 
 Guide for creating new custom Claude commands with proper structure.

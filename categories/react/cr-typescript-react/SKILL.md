@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-react
-description: Cursor rules for typescript-react
-domain: engineering
+description: "Cursor rules for typescript-react"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -48,4 +49,3 @@ const additionalInstructions = `
 6. Follow React and TypeScript best practices and naming conventions
 7. Use ESLint with TypeScript and React plugins for code quality
 `;
-

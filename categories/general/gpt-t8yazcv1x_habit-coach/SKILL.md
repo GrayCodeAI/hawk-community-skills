@@ -1,3 +1,10 @@
+---
+name: gpt-t8yazcv1x_habit-coach
+description: "Skill: gpt-t8yazcv1x_habit-coach"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-t8YaZcv1X-habit-coach
 
 GPT Title: Habit Coach

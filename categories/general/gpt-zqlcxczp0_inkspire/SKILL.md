@@ -1,3 +1,10 @@
+---
+name: gpt-zqlcxczp0_inkspire
+description: "Skill: gpt-zqlcxczp0_inkspire"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zqlCXCzP0-inkspire
 
 GPT Title: Inkspire

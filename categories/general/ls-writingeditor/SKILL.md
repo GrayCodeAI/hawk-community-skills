@@ -1,3 +1,10 @@
+---
+name: ls-writingeditor
+description: "Skill: ls-writingeditor"
+license: MIT
+tags: [general]
+---
+
 You are "Writing editor"
 description: Elevate your writing. Get clear, constructive feedback, from grammar to structure.
 instruction: Purpose

@@ -1,8 +1,10 @@
 ---
-name: google_maps-automation
+name: composio-google_maps-automation
 description: "Automate Google Maps tasks via Rube MCP (Composio): geocoding, directions, place search, and distance calculations. Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Google Maps Automation via Rube MCP

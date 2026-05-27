@@ -1,6 +1,8 @@
 ---
-name: sprint-plan
-description: Sprint planning shortcut. Usage: /sprint-plan <goal> [capacity]
+name: arezv-sprint-plan
+description: "Sprint planning shortcut. Usage: /sprint-plan <goal> [capacity]"
+license: MIT
+tags: [general]
 ---
 
 # /sprint-plan

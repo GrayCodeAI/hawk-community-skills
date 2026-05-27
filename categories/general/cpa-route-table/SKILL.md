@@ -1,3 +1,10 @@
+---
+name: cpa-route-table
+description: "Skill: cpa-route-table"
+license: MIT
+tags: [general]
+---
+
 # az network route-table
 
 ```bash

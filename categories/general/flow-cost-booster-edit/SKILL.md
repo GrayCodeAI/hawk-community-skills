@@ -1,7 +1,9 @@
 ---
-name: cost-booster-edit
-description: Apply a simple code transform via agent-booster's WASM engine — sub-millisecond, deterministic, $0 (no LLM call). Companion to cost-booster-route.
-argument-hint: "<intent> <file>"
+name: flow-cost-booster-edit
+description: "Apply a simple code transform via agent-booster's WASM engine — sub-millisecond, deterministic, $0 (no LLM call). Companion to cost-booster-route."
+license: MIT
+tags: [general]
+argument-hint: <intent> <file>
 allowed-tools: Bash
 ---
 

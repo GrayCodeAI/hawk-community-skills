@@ -1,9 +1,10 @@
 ---
 name: create_mermaid_visualization_for_github
-description: Fabric pattern - create_mermaid_visualization_for_github
-domain: general
+description: "Fabric pattern - create_mermaid_visualization_for_github"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

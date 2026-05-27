@@ -1,9 +1,10 @@
 ---
 name: cr-python-fastapi
-description: Cursor rules for python-fastapi
-domain: engineering
+description: "Cursor rules for python-fastapi"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -44,4 +45,3 @@ additional_instructions = """
 6. Follow PEP 8 style guide for Python code
 7. Implement comprehensive unit and integration tests
 """
-

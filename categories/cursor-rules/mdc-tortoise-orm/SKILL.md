@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for using Tortoise ORM effectively, focusing on async patterns, robust model design, efficient querying, and production-ready migrations.
-globs: **/*.py
+name: mdc-tortoise-orm
+description: "Definitive guidelines for using Tortoise ORM effectively, focusing on async patterns, robust model design, efficient querying, and production-ready migrations."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # tortoise-orm Best Practices
 
 Tortoise ORM is an excellent choice for `asyncio`-native Python applications. Adhere to these guidelines for maintainable, performant, and secure database interactions.

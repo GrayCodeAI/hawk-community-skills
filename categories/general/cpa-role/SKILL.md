@@ -1,3 +1,10 @@
+---
+name: cpa-role
+description: "Skill: cpa-role"
+license: MIT
+tags: [general]
+---
+
 # az role
 
 ```bash

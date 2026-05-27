@@ -1,8 +1,10 @@
 ---
-name: composio-search-automation
+name: composio-composio-search-automation
 description: "Automate Composio Search tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Composio Search Automation via Rube MCP

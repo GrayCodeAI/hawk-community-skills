@@ -1,3 +1,10 @@
+---
+name: ghcp-references-ui-json-envelope
+description: "Skill: ghcp-references-ui-json-envelope"
+license: MIT
+tags: [general]
+---
+
 # `winapp ui --json` envelope (v0.3.1+)
 
 The `--json` output for the `winapp ui` command group was reshaped in v0.3.1.

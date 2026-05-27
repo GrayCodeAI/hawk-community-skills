@@ -1,3 +1,10 @@
+---
+name: ls-h3vxyd6yk_doppel
+description: "Skill: ls-h3vxyd6yk_doppel"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h3VXYD6yk-doppel
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-P4senwQppiMAZOK1Pl7glAAr?se=2123-12-02T21%3A44%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDoppel.png&sig=pkc5vHNcaZdHaJ5h97DfeTVnHJnGF/UkBpAgOSZRr3A%3D" width="100px" />

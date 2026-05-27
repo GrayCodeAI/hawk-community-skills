@@ -1,3 +1,10 @@
+---
+name: cpa-footprint
+description: "Skill: cpa-footprint"
+license: MIT
+tags: [general]
+---
+
 # az footprint
 
 ```bash

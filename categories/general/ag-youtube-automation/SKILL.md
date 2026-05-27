@@ -1,9 +1,11 @@
 ---
-name: youtube-automation
+name: ag-youtube-automation
 description: "Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools first for current schemas."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # YouTube Automation via Rube MCP

@@ -1,9 +1,10 @@
 ---
 name: create_security_update
-description: Fabric pattern - create_security_update
-domain: general
+description: "Fabric pattern - create_security_update"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

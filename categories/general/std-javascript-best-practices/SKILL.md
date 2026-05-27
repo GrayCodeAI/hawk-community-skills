@@ -1,18 +1,14 @@
 ---
-name: javascript-best-practices
-description: Idiomatic JavaScript patterns and conventions for maintainable code. Use when writing or refactoring JavaScript following idiomatic patterns and conventions.
-metadata:
-  triggers:
-    files:
-    - '**/*.js'
-    - '**/*.mjs'
-    keywords:
-    - module
-    - import
-    - export
-    - error
-    - validation
+name: std-javascript-best-practices
+description: "Idiomatic JavaScript patterns and conventions for maintainable code. Use when writing or refactoring JavaScript following idiomatic patterns and conventions."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # JavaScript Best Practices
 
 ## **Priority: P1 (OPERATIONAL)**

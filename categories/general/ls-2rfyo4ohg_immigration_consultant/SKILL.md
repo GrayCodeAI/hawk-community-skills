@@ -1,3 +1,10 @@
+---
+name: ls-2rfyo4ohg_immigration_consultant
+description: "Skill: ls-2rfyo4ohg_immigration_consultant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2RfYO4Ohg-immigration-consultant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-KFksHG9fffxp69k84rx8rnah?se=2123-10-21T15%3A06%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De6c0e8ae-4ba1-4a94-8fc0-00db076b5f7f.webp&sig=q0rLlD6sjMG31J0CWGK0j4hx7Uc9VP3yFvxvN5/JSAg%3D" width="100px" />

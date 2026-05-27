@@ -1,3 +1,10 @@
+---
+name: ls-m6sbrickj_tommy_-_the_trompe-loeil_t-rex_
+description: "Skill: ls-m6sbrickj_tommy_-_the_trompe-loeil_t-rex_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-M6SbricKJ-tommy-the-trompe-loeil-t-rex
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CJWHKlBlPqNDXrF9cJU7ssEY?se=2124-01-07T21%3A23%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Df117c5d8-0f9a-417c-923c-e641cdb78942.png&sig=Mh3aQRdmXOIpqCBQ541HD%2B0W8Mm3mXB4NnI55QIurxA%3D" width="100px" />

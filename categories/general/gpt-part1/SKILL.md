@@ -1,3 +1,10 @@
+---
+name: gpt-part1
+description: "Skill: gpt-part1"
+license: MIT
+tags: [general]
+---
+
 # Part 1: Intro & Setup
 
 # Chapter 1: Ancient Runes & Modern Scrolls, Classic & Modern Starters

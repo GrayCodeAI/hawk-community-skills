@@ -1,9 +1,10 @@
 ---
 name: google-style-csharp-style
-description: Google official style guide for csharp-style
-domain: engineering
+description: "Google official style guide for csharp-style"
+license: MIT
 tags: [google, style-guide, csharp-style]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 

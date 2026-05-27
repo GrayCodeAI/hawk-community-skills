@@ -1,3 +1,10 @@
+---
+name: ls-svwzlmak0_puppy_profiler
+description: "Skill: ls-svwzlmak0_puppy_profiler"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-svWzlmAK0-puppy-profiler
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gw2m3gQcZiILkbGMYddkdlCD?se=2123-12-20T05%3A17%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DPuppyProfiler.Logo.png&sig=U5%2BaypICHcFrah2D5tjfjdEm/ulIc00b97Jt0kyZbLU%3D" width="100px" />

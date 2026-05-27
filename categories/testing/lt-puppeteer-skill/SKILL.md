@@ -1,16 +1,14 @@
 ---
-name: puppeteer-skill
-description: >
-  Generates Puppeteer scripts for browser automation, scraping, and PDF generation.
-  Triggers on: "Puppeteer", "headless Chrome", "page.goto", "scrape", "PDF generation".
-languages:
-  - JavaScript
-  - TypeScript
-category: e2e-testing
+name: lt-puppeteer-skill
+description: "Skill: lt-puppeteer-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+Triggers on: Puppeteer", "headless Chrome", "page.goto", "scrape", "PDF generation".
+languages: None
+category: e2e-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Puppeteer Automation Skill

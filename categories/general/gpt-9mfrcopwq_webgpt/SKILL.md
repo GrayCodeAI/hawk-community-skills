@@ -1,3 +1,10 @@
+---
+name: gpt-9mfrcopwq_webgpt
+description: "Skill: gpt-9mfrcopwq_webgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9MFRcOPwQ-webgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DKhdpNB6ZWxpZPgUYCHq0m7f?se=2123-12-18T21%3A16%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=iSrYrBCwH1aMJQpgpgBKsPXzWcsNIat8WPistr%2Binu8%3D" width="100px" />

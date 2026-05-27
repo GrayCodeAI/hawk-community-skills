@@ -1,7 +1,10 @@
 ---
-description: Enforces Next.js specific conventions for data fetching, rendering, and routing in the 'pages' directory.
-globs: pages/**/*
+name: mdc-next-js-specific-conventions
+description: "Enforces Next.js specific conventions for data fetching, rendering, and routing in the 'pages' directory."
+license: MIT
+tags: [react]
 ---
+
 - Use 'nuqs' for URL search parameter state management
 - Optimize Web Vitals (LCP, CLS, FID)
 - Limit 'use client':

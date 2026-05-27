@@ -1,3 +1,10 @@
+---
+name: ls-ovhgnzl5g_id-photo-pro
+description: "Skill: ls-ovhgnzl5g_id-photo-pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OVHGnZl5G-id-photo-pro
 
 GPT Title: ID Photo Pro

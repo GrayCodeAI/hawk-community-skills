@@ -1,18 +1,14 @@
 ---
-name: flutter-widgets
-description: Build maintainable Flutter UI components with composition and theming. Use when building, refactoring, or reviewing widget implementations.
-metadata:
-  triggers:
-    files:
-    - '**_page.dart'
-    - '**_screen.dart'
-    - '**/widgets/**'
-    keywords:
-    - StatelessWidget
-    - const
-    - Theme
-    - ListView
+name: std-flutter-widgets
+description: "Build maintainable Flutter UI components with composition and theming. Use when building, refactoring, or reviewing widget implementations."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # UI & Widgets
 
 ## **Priority: P1 (OPERATIONAL)**

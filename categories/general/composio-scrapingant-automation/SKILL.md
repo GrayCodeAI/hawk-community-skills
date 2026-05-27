@@ -1,8 +1,10 @@
 ---
-name: scrapingant-automation
+name: composio-scrapingant-automation
 description: "Automate Scrapingant tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Scrapingant Automation via Rube MCP

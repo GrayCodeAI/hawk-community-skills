@@ -1,3 +1,10 @@
+---
+name: ghcp-references-sb4-migration
+description: "Skill: ghcp-references-sb4-migration"
+license: MIT
+tags: [general]
+---
+
 # Spring Boot 4.0 Migration
 
 Key testing changes when migrating from Spring Boot 3.x to 4.0.

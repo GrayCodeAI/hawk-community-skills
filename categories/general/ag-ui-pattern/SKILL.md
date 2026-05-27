@@ -1,14 +1,15 @@
 ---
-name: ui-pattern
+name: ag-ui-pattern
 description: "Generate reusable UI patterns such as card sections, grids, lists, forms, and chart wrappers using StyleSeed Toss primitives."
+license: MIT
+tags: [ui, patterns, design-system, reuse, styleseed]
 category: design
 risk: safe
 source: community
 source_repo: bitjaru/styleseed
 source_type: community
-date_added: "2026-04-08"
+date_added: 2026-04-08
 author: bitjaru
-tags: [ui, patterns, design-system, reuse, styleseed]
 tools: [claude, cursor, codex, gemini]
 ---
 

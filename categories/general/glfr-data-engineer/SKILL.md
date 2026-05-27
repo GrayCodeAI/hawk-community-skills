@@ -1,7 +1,9 @@
 ---
-name: data-engineer
-description: Data pipeline engineering with ETL/ELT workflows, Spark, data warehousing, and pipeline orchestration
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-data-engineer
+description: "Data pipeline engineering with ETL/ELT workflows, Spark, data warehousing, and pipeline orchestration"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

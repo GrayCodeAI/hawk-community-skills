@@ -1,3 +1,10 @@
+---
+name: ls-utrqxqlix_stopthesteal_gpt
+description: "Skill: ls-utrqxqlix_stopthesteal_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uTrqXQliX-stopthesteal-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-7uNvXQ4ZuHa8aAUNatx0Cz7I?se=2123-12-20T14%3A00%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DStop%2520the%2520Steal%2520GPT%2520drk%2520bkgnd.png&sig=pXMgfzNBgh7Kc2/MBb2FVL6SgY1AHM3zdB9TE1pnPPE%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-1x3z0mbkr_soulmate
+description: "Skill: ls-1x3z0mbkr_soulmate"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-1X3Z0mbKR-yun-ming-noren
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RaQ9CLaSWYV1ClMwZLa51YJ0?se=2124-02-03T20%3A52%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D7f970a0f-f1ec-41ef-b62b-95c5d072cd25.png&sig=mh1is9WVBSt0ZmZUm3oGVjo9ibLxMzQbC2qWHAUb9R4%3D" width="100px" />

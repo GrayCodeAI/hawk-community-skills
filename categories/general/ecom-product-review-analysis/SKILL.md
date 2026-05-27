@@ -1,10 +1,12 @@
 ---
-name: product-review-analysis
+name: ecom-product-review-analysis
 description: "Analyze product reviews across any e-commerce platform. Extract actionable insights from customer feedback including pain points, praise patterns, feature requests, and sentiment trends."
-metadata:
-  nexscope:
-    emoji: "⭐"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: ⭐
+category: ecommerce
 ---
 
 # Product Review Analysis ⭐

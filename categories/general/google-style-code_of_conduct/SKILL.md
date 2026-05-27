@@ -1,9 +1,10 @@
 ---
 name: google-style-code_of_conduct
-description: Google official style guide for code_of_conduct
+description: "Google official style guide for code_of_conduct"
+license: MIT
+tags: [google, style-guide, code-of-conduct]
 domain: engineering
-tags: [google, style-guide, code_of_conduct]
-version: "1.0"
+version: 1.0
 author: google/styleguide
 ---
 

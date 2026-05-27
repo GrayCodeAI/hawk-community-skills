@@ -1,6 +1,8 @@
 ---
-name: "cco-review"
+name: arezv-cco-review
 description: "/cs:cco-review <plan> — Retention-obsessed Chief Customer Officer interrogation of any plan that touches customer retention, segmentation, CS team sizing, or CS team hiring."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cco-review — CCO Forcing Questions

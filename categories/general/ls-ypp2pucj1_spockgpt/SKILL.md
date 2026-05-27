@@ -1,3 +1,10 @@
+---
+name: ls-ypp2pucj1_spockgpt
+description: "Skill: ls-ypp2pucj1_spockgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt
 
 GPT Title: SpockGPT

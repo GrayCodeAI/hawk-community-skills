@@ -1,9 +1,11 @@
 ---
-name: dotnet-backend
+name: ag-dotnet-backend
 description: "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
+license: MIT
+tags: [general]
 risk: safe
 source: self
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # .NET Backend Agent - ASP.NET Core & Enterprise API Expert

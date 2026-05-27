@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-content-strategy
+name: ecom-tiktok-shop-content-strategy
 description: "Content creation for TikTok Shop — trending formats, hooks, product showcasing, hashtag strategy"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Content Strategy

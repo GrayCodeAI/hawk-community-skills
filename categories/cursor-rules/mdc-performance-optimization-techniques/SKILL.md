@@ -1,7 +1,10 @@
 ---
-description: Performance Optimization techniques for Svelte and SvelteKit projects.
-globs: **/*.svelte
+name: mdc-performance-optimization-techniques
+description: "Performance Optimization techniques for Svelte and SvelteKit projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Leverage Svelte's compile-time optimizations.
 - Use `{#key}` blocks to force re-rendering of components when needed.
 - Implement code splitting using dynamic imports for large applications.

@@ -1,94 +1,18 @@
 ---
-title: 'Agents and Subagents'
-description: 'Learn how delegated subagents differ from primary agents, when to use them, and how to launch them in VS Code and Copilot CLI.'
-authors:
-  - GitHub Copilot Learning Hub Team
-lastUpdated: 2026-05-07
-estimatedReadingTime: '9 minutes'
+name: ghcp-learning-hub-agents-and-subagents
+description: Learn how delegated subagents differ from primary agents, when to use
+  them, and how to launch them in VS Code and Copilot CLI.
+license: MIT
 tags:
-  - agents
-  - subagents
-  - orchestration
-  - fundamentals
-relatedArticles:
-  - ./building-custom-agents.md
-  - ./what-are-agents-skills-instructions.md
-  - ./github-copilot-terminology-glossary.md
-prerequisites:
-  - Basic understanding of GitHub Copilot agents
+- general
+title: Agents and Subagents
+authors: None
+lastUpdated: 2026-05-07
+estimatedReadingTime: 9 minutes
+relatedArticles: None
+prerequisites: None
 ---
 
-We're [familiar with agents](../what-are-agents-skills-instructions/), but there is another aspect to agentic workflows that we need to consider, and that is the role of subagents. An **agent** is the primary assistant you choose for a session or workflow while a **subagent** is a temporary worker that the main agent launches for a narrower task, usually to keep context clean, parallelize work, or apply a more specialized set of instructions.
-
-This distinction matters more as you move from simple chat prompts to orchestrated agentic workflows.
-
-## Start with the mental model
-
-Think of the main agent as a project lead and subagents as focused contributors:
-
-| Topic | Agent | Subagent |
-|------|------|------|
-| How it starts | Selected by the user or configured for the workflow | Launched by another agent or orchestrator |
-| Lifetime | Persists across the main conversation or session | Temporary; exists only for the delegated task |
-| Context | Carries the broader conversation and goals | Gets a narrower prompt and its own isolated context |
-| Scope | Coordinates the whole task | Performs one focused piece of work |
-| Output | Talks directly with the user | Reports back to the main agent, which synthesizes the result |
-
-In practice, the main agent keeps the big picture while subagents absorb the noisy intermediate work: research, code inspection, specialized review passes, or independent implementation tracks.
-
-## What changes when work moves to a subagent
-
-Subagents are useful because they are not just "the same agent in another tab." They usually change the shape of the work in a few important ways:
-
-- **Context isolation**: the subagent gets only the task-relevant prompt, which reduces distraction from earlier conversation history.
-- **Focused instructions**: the subagent can use a tighter role, such as planner, implementer, reviewer, or researcher.
-- **Parallelism**: multiple subagents can work at the same time when tasks do not conflict.
-- **Controlled synthesis**: the parent agent decides what gets brought back into the main conversation.
-- **Alternative model selection**: the subagent can use a different AI model to perform a task, so while our main agent might be using a generalist model, a subagent could be configured to use a more specialized one for code review or research.
-
-That isolation is one of the main reasons subagents can outperform a single monolithic agent on larger tasks.
-
-## When to use subagents
-
-Subagents work especially well when you need to:
-
-- research before implementation
-- compare multiple approaches without polluting the main thread
-- run parallel review perspectives, such as correctness, security, and architecture
-- split large work into independent tracks with explicit dependencies
-- keep an orchestrator agent focused on coordination rather than direct execution
-- compare multiple approaches across different models
-
-If all of the work happens in one small file and does not need decomposition, a subagent may be unnecessary. The benefit appears when delegation reduces context pressure or lets multiple tracks run independently.
-
-## Launch subagents in VS Code
-
-In VS Code, subagents are typically **agent-initiated**. You usually describe the larger task, and the main agent decides when to delegate a focused subtask. To make that possible, the agent needs access to the subagent tool.
-
-### 1. Enable the agent tool
-
-Use the `agent` tool in frontmatter so the main agent can launch other agents:
-
-```yaml
----
-name: Feature Builder
-tools: ['agent', 'read', 'search', 'edit']
-agents: ['Planner', 'Implementer', 'Reviewer']
----
-```
-
-The `agents` property acts as an allowlist for which worker agents this coordinator can call.
-
-### 2. Define worker agents with clear boundaries
-
-Worker agents are often hidden from the picker and reserved for delegation:
-
-```yaml
----
-name: Planner
-user-invocable: false
-tools: ['read', 'search']
----
 ```
 
 You can also use `disable-model-invocation: true` to prevent an agent from being used as a subagent unless another coordinator explicitly allows it.

@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-fulfillment-status-digest
-role: fulfillment-ops
+name: shopify-shopify-admin-fulfillment-status-digest
 description: "Generate a daily fulfillment triage digest: all open orders segmented by fulfillment age and flagged for holds or exceptions."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
-  - fulfillmentOrders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}, {'fulfillmentOrders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

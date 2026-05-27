@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-multi-location-inventory-audit
-role: merchandising
+name: shopify-shopify-admin-multi-location-inventory-audit
 description: "Audit inventory levels across all active locations, flagging variants where Available quantity is negative or Committed exceeds On Hand — a signal of inventory sync drift."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - locations:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'locations': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

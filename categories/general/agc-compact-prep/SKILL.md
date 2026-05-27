@@ -1,6 +1,9 @@
 ---
-description: Ask the agent to prepare for conversation compaction by updating any relevant state and providing guidance for the compaction agent and to kick off the session there after
-argument-hint: "[optional additional instructions]"
+name: agc-compact-prep
+description: "Ask the agent to prepare for conversation compaction by updating any relevant state and providing guidance for the compaction agent and to kick off the session there after"
+license: MIT
+tags: [general]
+argument-hint: [optional additional instructions]
 ---
 
 # This is an automated message to state that the context window usage is getting high and the user is going to run a compaction

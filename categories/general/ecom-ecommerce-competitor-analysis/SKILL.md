@@ -1,10 +1,12 @@
 ---
-name: ecommerce-competitor-analysis
+name: ecom-ecommerce-competitor-analysis
 description: "Cross-platform competitor analysis for e-commerce brands. Compare competitors across Amazon, Shopify, social media, and advertising channels. Build a complete competitive intelligence picture."
-metadata:
-  nexscope:
-    emoji: "🔬"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🔬
+category: ecommerce
 ---
 
 # E-Commerce Competitor Analysis 🔬

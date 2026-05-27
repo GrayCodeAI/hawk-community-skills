@@ -1,3 +1,10 @@
+---
+name: agc-anachronism-check
+description: "Skill: agc-anachronism-check"
+license: MIT
+tags: [general]
+---
+
 # Anachronism Check
 
 Thompson died in February 2005. His working vocabulary is his and his time's. If the piece is set after his death, the thought experiment places him alive in the present, but his idioms would not have absorbed the online and institutional register that solidified after he stopped writing. Use this file as a check before finalising any piece set after 2005.

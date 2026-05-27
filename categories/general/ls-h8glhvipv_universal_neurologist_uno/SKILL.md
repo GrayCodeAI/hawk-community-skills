@@ -1,3 +1,10 @@
+---
+name: ls-h8glhvipv_universal_neurologist_uno
+description: "Skill: ls-h8glhvipv_universal_neurologist_uno"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-H8GlhVipV-universal-neurologist-uno
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-RZIavCITAoTRYBye7IHKs04i?se=2124-01-06T05%3A25%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DUNO.png&sig=D2DAThN7PnXTbD7EHGlWkHBl/mYWiJkT0RLHw5blEqk%3D" width="100px" />

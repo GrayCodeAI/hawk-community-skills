@@ -1,13 +1,8 @@
 ---
-name: agent-load-balancer
-description: Agent skill for load-balancer - invoke with $agent-load-balancer
----
-
----
-name: Load Balancing Coordinator
-type: agent
-category: optimization
-description: Dynamic task distribution, work-stealing algorithms and adaptive load balancing
+name: flow-agent-load-balancer
+description: "Agent skill for load-balancer - invoke with $agent-load-balancer"
+license: MIT
+tags: [general]
 ---
 
 # Load Balancing Coordinator Agent

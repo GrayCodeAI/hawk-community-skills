@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, type-safe, and maintainable tRPC APIs, emphasizing modularity, Zod validation, and efficient error handling.
-globs: **/*.{ts,tsx}
+name: mdc-trpc
+description: "Definitive guidelines for building robust, type-safe, and maintainable tRPC APIs, emphasizing modularity, Zod validation, and efficient error handling."
+license: MIT
+tags: [typescript]
 ---
+
 # tRPC Best Practices
 
 These rules provide a definitive guide for building tRPC APIs within our team. Adhere to these principles for consistent, high-quality, and type-safe backend development.

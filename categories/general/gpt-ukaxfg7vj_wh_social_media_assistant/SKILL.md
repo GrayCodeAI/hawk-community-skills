@@ -1,3 +1,10 @@
+---
+name: gpt-ukaxfg7vj_wh_social_media_assistant
+description: "Skill: gpt-ukaxfg7vj_wh_social_media_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-UkaXfG7vJ-wh-social-media-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Ch3dXIBQTtjvqwXI29khniZS?se=2123-11-24T16%3A08%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D2023_Womens%2520Hub_262A5559%2520%25281%2529.jpg&sig=/QD%2BjOzxek2D1XT0QbLNhClXeGohQKFs%2B/b8eImeBGY%3D" width="100px" />

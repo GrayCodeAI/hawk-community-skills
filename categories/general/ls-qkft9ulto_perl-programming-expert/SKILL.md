@@ -1,3 +1,10 @@
+---
+name: ls-qkft9ulto_perl-programming-expert
+description: "Skill: ls-qkft9ulto_perl-programming-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qkFT9ULTo-perl-programming-expert
 
 GPT Title: Perl Programming Expert

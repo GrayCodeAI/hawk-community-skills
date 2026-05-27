@@ -1,3 +1,10 @@
+---
+name: ls-zcvujtirw_alternative_reality_explorer
+description: "Skill: ls-zcvujtirw_alternative_reality_explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zCVujtIRW-alternative-reality-explorer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-CWZgQclDWlBT8s9jTSEbR7sK?se=2123-11-05T00%3A16%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df2cdf3c1-43dd-4015-9b6c-e138b9abd845.png&sig=6SvEjqr%2BJ0fDUTAbsUI104N6CgBHPWMO9L1b/w6GfkU%3D" width="100px" />

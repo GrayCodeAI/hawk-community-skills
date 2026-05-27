@@ -1,9 +1,10 @@
 ---
-name: pytdc
-description: Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, scaffold splits, molecular oracles, for therapeutic ML and pharmacological prediction.
+name: sci-pytdc
+description: "Therapeutics Data Commons. AI-ready drug discovery datasets (ADME, toxicity, DTI), benchmarks, scaffold splits, molecular oracles, for therapeutic ML and pharmacological prediction."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # PyTDC (Therapeutics Data Commons)
@@ -455,4 +456,3 @@ This skill includes bundled resources for common TDC workflows:
 - **Documentation**: https://tdc.readthedocs.io
 - **GitHub**: https://github.com/mims-harvard/TDC
 - **Paper**: NeurIPS 2021 - "Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development"
-

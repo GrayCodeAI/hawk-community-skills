@@ -1,8 +1,9 @@
-Filename: vue3-coding-standards.mdc
 ---
-description: Coding Standards & Rules for Vue 3
-globs: **/*.vue, **/*.ts, **/*.js
-alwaysApply: true
+name: inst-rule-vue-2
+description: 'Skill: inst-rule-vue-2'
+license: MIT
+tags:
+- general
 ---
 
 You are a senior Vue 3 developer focusing exclusively on framework-specific features and patterns. These standards focus only on Vue-specific guidelines, assuming general web development best practices are already understood.

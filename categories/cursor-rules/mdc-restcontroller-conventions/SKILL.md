@@ -1,7 +1,10 @@
 ---
-description: Specifies standards for RestController classes, including API route mappings, HTTP method annotations, dependency injection, and error handling with ApiResponse and GlobalExceptionHandler.
-globs: **/src/main/java/com/example/controllers/*.java
+name: mdc-restcontroller-conventions
+description: "Specifies standards for RestController classes, including API route mappings, HTTP method annotations, dependency injection, and error handling with ApiResponse and GlobalExceptionHandler."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Must annotate controller classes with @RestController.
 - Must specify class-level API routes with @RequestMapping, e.g. ("/api/user").
 - Class methods must use best practice HTTP method annotations, e.g, create = @postMapping("/create"), etc.

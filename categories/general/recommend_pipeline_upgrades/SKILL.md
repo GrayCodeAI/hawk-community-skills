@@ -1,9 +1,10 @@
 ---
 name: recommend_pipeline_upgrades
-description: Fabric pattern - recommend_pipeline_upgrades
-domain: general
+description: "Fabric pattern - recommend_pipeline_upgrades"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

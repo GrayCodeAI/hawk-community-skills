@@ -1,3 +1,10 @@
+---
+name: cpa-network
+description: "Skill: cpa-network"
+license: MIT
+tags: [general]
+---
+
 # az network
 
 Manage Azure Network resources.

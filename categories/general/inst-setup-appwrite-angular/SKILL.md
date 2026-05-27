@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Angular apps with Appwrite
-globs: src/**/*.ts, src/**/*.html
+name: inst-setup-appwrite-angular
+description: "Guidelines for writing Angular apps with Appwrite"
+license: MIT
+tags: [general]
 ---
 
 # Appwrite + Angular Integration Setup Guide
@@ -289,4 +291,4 @@ async getDocuments() {
 ## Additional Resources
 - [Appwrite Documentation](https://appwrite.io/docs)
 - [Angular Documentation](https://angular.io/docs)
-- [Appwrite Discord Community](https://discord.gg/appwrite) 
+- [Appwrite Discord Community](https://discord.gg/appwrite)

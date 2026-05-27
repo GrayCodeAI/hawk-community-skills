@@ -1,7 +1,10 @@
 ---
-description: Provides additional instructions to remember when coding with solid and tailwind.
-globs: **/*.jsx
+name: mdc-solidjs-tailwind-additional-instructions
+description: "Provides additional instructions to remember when coding with solid and tailwind."
+license: MIT
+tags: [tailwind]
 ---
+
 - Use JSX for component templates.
 - Implement proper Tailwind CSS purging for production builds.
 - Utilize Solid Router for routing when applicable.

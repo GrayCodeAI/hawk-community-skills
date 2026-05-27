@@ -1,19 +1,14 @@
 ---
-name: progressive-estimation
+name: ag-progressive-estimation
 description: "Estimate AI-assisted and hybrid human+agent development work with research-backed PERT statistics and calibration feedback loops"
+license: MIT
+tags: [general]
 category: project-management
 risk: safe
 source: community
-date_added: "2026-03-10"
+date_added: 2026-03-10
 author: Enreign
-tags:
-  - estimation
-  - project-management
-  - pert
-  - sprint-planning
-  - ai-agents
-tools:
-  - claude
+tools: None
 ---
 
 # Progressive Estimation

@@ -1,9 +1,12 @@
 ---
-name: api-docs
-description: Generate API documentation from source code with JSDoc and OpenAPI support
-argument-hint: "<source-path>"
+name: flow-api-docs
+description: "Generate API documentation from source code with JSDoc and OpenAPI support"
+license: MIT
+tags: [general]
+argument-hint: <source-path>
 allowed-tools: Bash(npx *) mcp__claude-flow__hooks_worker-dispatch Read Write Grep
 ---
+
 Generate API documentation from TypeScript/JavaScript source:
 
 1. **Scan exports**: Find all public functions, classes, and interfaces

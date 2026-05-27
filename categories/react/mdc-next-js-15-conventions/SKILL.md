@@ -1,7 +1,10 @@
 ---
-description: Sets conventions for Next.js 15+ projects, including leveraging the App Router, React Server Components (RSC), SSR capabilities, and Zustand for state management.
-globs: **/*.js, **/*.jsx, **/*.ts, **/*.tsx
+name: mdc-next-js-15-conventions
+description: "Sets conventions for Next.js 15+ projects, including leveraging the App Router, React Server Components (RSC), SSR capabilities, and Zustand for state management."
+license: MIT
+tags: [react]
 ---
+
 - Target **Next.js 15+** and leverage the App Router, React Server Components (RSC), and SSR capabilities.
 - Use Zustand for state management in client components when necessary.
 - Maintain proper Shadcn UI management using `npx shadcn@latest add` for new components.

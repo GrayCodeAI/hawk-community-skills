@@ -1,10 +1,10 @@
 ---
-name: mlflow
-description: Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform
+name: research-mlflow
+description: "Track ML experiments, manage model registry with versioning, deploy models to production, and reproduce experiments with MLflow - framework-agnostic ML lifecycle platform"
+license: MIT
+tags: [mlops, mlflow, experiment-tracking, model-registry, ml-lifecycle, deployment, model-versioning, pytorch, tensorflow, scikit-learn, huggingface]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [MLOps, MLflow, Experiment Tracking, Model Registry, ML Lifecycle, Deployment, Model Versioning, PyTorch, TensorFlow, Scikit-Learn, HuggingFace]
 dependencies: [mlflow, sqlalchemy, boto3]
 ---
 
@@ -700,5 +700,3 @@ mlflow.set_tracking_uri("http://localhost:5000")
 - `references/tracking.md` - Comprehensive tracking guide
 - `references/model-registry.md` - Model lifecycle management
 - `references/deployment.md` - Production deployment patterns
-
-

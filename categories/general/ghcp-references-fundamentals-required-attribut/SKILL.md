@@ -1,3 +1,10 @@
+---
+name: ghcp-references-fundamentals-required-attribut
+description: "Skill: ghcp-references-fundamentals-required-attribut"
+license: MIT
+tags: [general]
+---
+
 # Required and Recommended Attributes
 
 This document covers the required attribute and highly recommended attributes for all OpenInference spans.

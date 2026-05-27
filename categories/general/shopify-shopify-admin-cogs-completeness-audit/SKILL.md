@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-cogs-completeness-audit
-role: merchandising
+name: shopify-shopify-admin-cogs-completeness-audit
 description: "Read-only: identifies products and variants that are missing inventoryItem.unitCost so margin and inventory valuation reports stay accurate."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - inventoryItems:query
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'inventoryItems': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

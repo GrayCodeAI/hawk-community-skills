@@ -1,16 +1,11 @@
 ---
 name: cursor-shadcn-ui
-description: Cursor IDE rules for shadcn-ui
-domain: engineering
+description: "Cursor IDE rules for shadcn-ui"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: shadcn/ui component patterns, styling conventions, and form integration
-globs: **/components/ui/**,**/components/**
-alwaysApply: false
 ---
 
 # shadcn/ui Rules

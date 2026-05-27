@@ -1,3 +1,10 @@
+---
+name: cpa-lambda-test
+description: "Skill: cpa-lambda-test"
+license: MIT
+tags: [general]
+---
+
 # az lambda-test
 
 ```bash

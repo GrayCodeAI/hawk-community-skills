@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-automotive,-energy,-mobility,-technology,-
-description: System prompt - trends_-automotive,-energy,-mobility,-technology,-
-domain: general
+name: bpl-txt-trends_-automotive,-energy,-mobility,-technology,-
+description: "System prompt - trends_-automotive,-energy,-mobility,-technology,-"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

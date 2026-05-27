@@ -1,3 +1,10 @@
+---
+name: ls-ctqseoe4c_sellmethispen
+description: "Skill: ls-ctqseoe4c_sellmethispen"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-cTqsEOE4C-sellmethispen
 
 GPT Title: SellMeThisPen

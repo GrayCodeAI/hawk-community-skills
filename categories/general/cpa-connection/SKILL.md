@@ -1,3 +1,10 @@
+---
+name: cpa-connection
+description: "Skill: cpa-connection"
+license: MIT
+tags: [general]
+---
+
 # az connection
 
 ```bash

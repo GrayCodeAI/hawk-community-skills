@@ -1,9 +1,10 @@
 ---
-name: embeddings
-description: >
-  Vector embeddings with HNSW indexing, sql.js persistence, and hyperbolic support. 75x faster with agentic-flow integration.
-  Use when: semantic search, pattern matching, similarity queries, knowledge retrieval.
-  Skip when: exact text matching, simple lookups, no semantic understanding needed.
+name: flow-embeddings
+description: "Skill: flow-embeddings"
+license: MIT
+tags: [general]
+Use when: semantic search, pattern matching, similarity queries, knowledge retrieval.
+Skip when: exact text matching, simple lookups, no semantic understanding needed.
 ---
 
 # Embeddings Skill

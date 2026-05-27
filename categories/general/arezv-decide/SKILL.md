@@ -1,6 +1,8 @@
 ---
-name: "decide"
+name: arezv-decide
 description: "/cs:decide <memo> — Log a decision to two-layer memory via decision-logger. Approved memo becomes durable; raw transcripts kept for reference."
+license: MIT
+tags: [general]
 ---
 
 # /cs:decide — Log the Decision

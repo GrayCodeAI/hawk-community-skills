@@ -1,6 +1,8 @@
 ---
-description: 'Markdown guidelines and content creation standards for blog posts'
-applyTo: '**/*.md'
+name: ghcp-instructions-markdown-content-creation.inst
+description: "Skill: ghcp-instructions-markdown-content-creation.inst"
+license: MIT
+tags: [general]
 ---
 
 # Markdown Content Rules

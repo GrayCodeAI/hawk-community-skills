@@ -1,3 +1,10 @@
+---
+name: gpt-lqhhjcxhw_autoexpert-(chat)
+description: "Skill: gpt-lqhhjcxhw_autoexpert-(chat)"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat/
 
 GPT Title: AutoExpert (Chat)

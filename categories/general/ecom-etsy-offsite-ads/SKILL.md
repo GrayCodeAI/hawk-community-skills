@@ -1,9 +1,11 @@
 ---
-name: etsy-offsite-ads
+name: ecom-etsy-offsite-ads
 description: "Offsite Ads analysis — when to opt out, ROI tracking, fee impact on margins, attribution"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy Offsite Ads

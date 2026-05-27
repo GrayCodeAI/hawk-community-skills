@@ -1,9 +1,10 @@
 ---
 name: check_falsifiability
-description: Fabric pattern - check_falsifiability
-domain: general
+description: "Fabric pattern - check_falsifiability"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

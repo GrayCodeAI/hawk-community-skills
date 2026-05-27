@@ -1,7 +1,10 @@
 ---
-description: Specific guidelines for TypeScript usage, including strict typing and interface usage.
-globs: **/*.{ts,tsx}
+name: mdc-typescript-usage-rule
+description: "Specific guidelines for TypeScript usage, including strict typing and interface usage."
+license: MIT
+tags: [typescript]
 ---
+
 - Utilize TypeScript's features to ensure type safety.
 - Prefer interfaces over types when defining object shapes.
 - Use generics to create reusable components and functions.

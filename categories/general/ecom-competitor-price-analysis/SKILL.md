@@ -1,10 +1,12 @@
 ---
-name: competitor-price-analysis
+name: ecom-competitor-price-analysis
 description: "Analyze competitor pricing strategies across e-commerce platforms. Map price positions, identify pricing gaps, evaluate price elasticity signals, and develop data-driven pricing strategies."
-metadata:
-  nexscope:
-    emoji: "💲"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 💲
+category: ecommerce
 ---
 
 # Competitor Price Analysis 💲

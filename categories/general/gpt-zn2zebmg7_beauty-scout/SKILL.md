@@ -1,3 +1,10 @@
+---
+name: gpt-zn2zebmg7_beauty-scout
+description: "Skill: gpt-zn2zebmg7_beauty-scout"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Zn2zeBmG7-beauty-scout
 
 GPT Title: Beauty Scout

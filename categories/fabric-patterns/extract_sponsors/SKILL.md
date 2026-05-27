@@ -1,9 +1,10 @@
 ---
 name: extract_sponsors
-description: Fabric pattern - extract_sponsors
-domain: general
+description: "Fabric pattern - extract_sponsors"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

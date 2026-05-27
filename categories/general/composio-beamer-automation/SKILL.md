@@ -1,8 +1,10 @@
 ---
-name: beamer-automation
+name: composio-beamer-automation
 description: "Automate Beamer tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Beamer Automation via Rube MCP

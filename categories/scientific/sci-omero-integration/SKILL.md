@@ -1,9 +1,10 @@
 ---
-name: omero-integration
-description: Microscopy data management platform. Access images via Python, retrieve datasets, analyze pixels, manage ROIs/annotations, batch processing, for high-content screening and microscopy workflows.
+name: sci-omero-integration
+description: "Microscopy data management platform. Access images via Python, retrieve datasets, analyze pixels, manage ROIs/annotations, batch processing, for high-content screening and microscopy workflows."
 license: Unknown
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # OMERO Integration
@@ -246,4 +247,3 @@ finally:
 - Always close connections to free server resources
 - Use context managers for automatic resource management
 - Pixel data is returned as NumPy arrays for analysis
-

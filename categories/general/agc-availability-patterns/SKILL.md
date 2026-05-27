@@ -1,3 +1,10 @@
+---
+name: agc-availability-patterns
+description: "Skill: agc-availability-patterns"
+license: MIT
+tags: [general]
+---
+
 # Swift Availability Patterns Reference
 
 Comprehensive guide to @available attribute usage, deprecation strategies, and platform version management.

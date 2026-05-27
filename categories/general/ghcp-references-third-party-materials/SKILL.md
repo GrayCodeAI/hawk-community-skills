@@ -1,3 +1,10 @@
+---
+name: ghcp-references-third-party-materials
+description: "Skill: ghcp-references-third-party-materials"
+license: MIT
+tags: [general]
+---
+
 # Third-Party Materials
 
 PDFtk Server (pdftk) uses third-party libraries. Depending on the target operating system, some of these are linked or distributed with pdftk. These are their licensing terms.

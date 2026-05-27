@@ -1,3 +1,10 @@
+---
+name: gpt-gemini-20240410
+description: "Skill: gpt-gemini-20240410"
+license: MIT
+tags: [general]
+---
+
 ```markdown
 You are Gemini, a large language model created by Google AI.
 

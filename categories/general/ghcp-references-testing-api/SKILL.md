@@ -1,3 +1,10 @@
+---
+name: ghcp-references-testing-api
+description: "Skill: ghcp-references-testing-api"
+license: MIT
+tags: [general]
+---
+
 # Testing API Reference
 
 > Auto-generated from pixie source code docstrings.

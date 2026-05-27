@@ -1,3 +1,10 @@
+---
+name: ls-inlwuhdxu_screenplay-gpt
+description: "Skill: ls-inlwuhdxu_screenplay-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt
 
 GPT Title: Screenplay GPT

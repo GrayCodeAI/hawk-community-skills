@@ -1,6 +1,8 @@
 ---
-name: "migration-architect"
+name: arezv-migration-architect
 description: "Migration Architect"
+license: MIT
+tags: [general]
 ---
 
 # Migration Architect

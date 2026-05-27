@@ -1,16 +1,11 @@
 ---
 name: cursor-ruff
-description: Cursor IDE rules for ruff
-domain: engineering
+description: "Cursor IDE rules for ruff"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Ruff: linting, formatting, rule selection, configuration"
-globs: ["*.py", "pyproject.toml", "ruff.toml"]
-alwaysApply: true
 ---
 
 # Ruff Cursor Rules

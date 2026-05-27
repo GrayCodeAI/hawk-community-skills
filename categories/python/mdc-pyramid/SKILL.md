@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building modern, maintainable, and performant applications with the Pyramid web framework.
-globs: **/*.py
+name: mdc-pyramid
+description: "This guide provides opinionated, actionable best practices for building modern, maintainable, and performant applications with the Pyramid web framework."
+license: MIT
+tags: [python]
 ---
+
 # pyramid Best Practices
 
 Pyramid is a flexible, "pay-only-what-you-use" Python web framework. To build robust and scalable Pyramid applications, adhere to these modern best practices.

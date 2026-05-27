@@ -1,3 +1,10 @@
+---
+name: cpa-public-ip
+description: "Skill: cpa-public-ip"
+license: MIT
+tags: [general]
+---
+
 # az network public-ip
 
 ```bash

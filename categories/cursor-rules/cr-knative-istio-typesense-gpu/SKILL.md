@@ -1,9 +1,10 @@
 ---
 name: cr-knative-istio-typesense-gpu
-description: Cursor rules for knative-istio-typesense-gpu
-domain: engineering
+description: "Cursor rules for knative-istio-typesense-gpu"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -61,4 +62,3 @@ Project-Specific Notes
 Remember, your goal is to guide the development process, provide helpful insights, and assist in creating a robust, scalable, and efficient AI-powered search application.
 
 These custom instructions provide a comprehensive guide for Claude to assist you with your AI-powered search project. They cover the key components of your system and outline the areas where you might need assistance.
-

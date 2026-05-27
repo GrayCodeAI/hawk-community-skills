@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-devops.agent
 description: "Infrastructure deployment, CI/CD pipelines, container management."
-name: gem-devops
-argument-hint: "Enter task_id, plan_id, plan_path, task_definition, environment (dev|staging|prod), requires_approval flag, and devops_security_sensitive flag."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, task_definition, environment (dev|staging|prod), requires_approval flag, and devops_security_sensitive flag.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the DEVOPS

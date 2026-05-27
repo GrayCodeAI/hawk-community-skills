@@ -1,9 +1,10 @@
 ---
 name: persona-python-debugger
-description: AI persona - python-debugger
-domain: general
+description: "AI persona - python-debugger"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

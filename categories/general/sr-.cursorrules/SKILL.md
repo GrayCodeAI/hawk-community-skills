@@ -1,9 +1,10 @@
 ---
 name: sr-.cursorrules
-description: Cursor rules for .cursorrules
-domain: engineering
+description: "Cursor rules for .cursorrules"
+license: MIT
 tags: [cursor, rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: survivorforge
 ---
 

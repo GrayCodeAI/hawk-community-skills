@@ -1,3 +1,10 @@
+---
+name: ls-bwdwky93j_flexigpt
+description: "Skill: ls-bwdwky93j_flexigpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-BwDWKy93j-flexigpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Rca0fMtHVXEUZmxF5WbgW8us?se=2124-01-09T14%3A07%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dflex.png&sig=WeK9UIXLrZxob58k985hmgAyKh75xXTwYqQLna%2Bwz0s%3D" width="100px" />

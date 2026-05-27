@@ -1,3 +1,10 @@
+---
+name: gpt-kw13qjk2f_transcendance_gpt
+description: "Skill: gpt-kw13qjk2f_transcendance_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-kw13QJk2F-transcendance-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DMEurc5vL3tOHxdrLDCA6gBL?se=2123-11-16T13%3A51%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D791223cb-2600-42c2-b4bf-716f15a35bc6.png&sig=96KAZR/fTnFi5IeETkq1uWPA/ZxucyO5tiBGvE8F2jI%3D" width="100px" />

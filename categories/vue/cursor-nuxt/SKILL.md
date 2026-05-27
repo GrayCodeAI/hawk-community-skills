@@ -1,16 +1,11 @@
 ---
 name: cursor-nuxt
-description: Cursor IDE rules for nuxt
-domain: engineering
+description: "Cursor IDE rules for nuxt"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Nuxt 3: composables, server routes, auto-imports"
-globs: ["*.vue", "*.ts"]
-alwaysApply: true
 ---
 
 # Nuxt 3 Cursor Rules

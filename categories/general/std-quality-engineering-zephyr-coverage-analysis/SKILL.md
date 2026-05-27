@@ -1,23 +1,14 @@
 ---
-name: quality-engineering-zephyr-coverage-analysis
-description: Audit test coverage health, gaps, and QE debt for Jira stories or epics. Produces coverage_analysis_report.md with AC-to-TC heatmap, risk scores, and prioritized action plan. Use when assessing coverage percentage, pre-release readiness, sprint readiness, or identifying missing test cases. Do NOT use for TC creation — use zephyr-test-generation instead.
-metadata:
-  triggers:
-    files:
-    - 'coverage_analysis_report.md'
-    keywords:
-    - coverage analysis
-    - test coverage
-    - coverage gaps
-    - QE debt
-    - QE audit
-    - pre-release readiness
-    - sprint readiness
-    - zephyr coverage
-    - test gap
-    - AC coverage
-    - test-ready
+name: std-quality-engineering-zephyr-coverage-analysis
+description: "Audit test coverage health, gaps, and QE debt for Jira stories or epics. Produces coverage_analysis_report.md with AC-to-TC heatmap, risk scores, and prioritized action plan. Use when assessing cov..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Zephyr Coverage Analysis
 
 ## **Priority: P1 (HIGH)**

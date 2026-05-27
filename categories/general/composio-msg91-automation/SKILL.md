@@ -1,8 +1,10 @@
 ---
-name: msg91-automation
+name: composio-msg91-automation
 description: "Automate Msg91 tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Msg91 Automation via Rube MCP

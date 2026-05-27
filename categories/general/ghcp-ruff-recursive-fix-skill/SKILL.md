@@ -1,6 +1,8 @@
 ---
-name: ruff-recursive-fix
-description: Run Ruff checks with optional scope and rule overrides, apply safe and unsafe autofixes iteratively, review each change, and resolve remaining findings with targeted edits or user decisions.
+name: ghcp-ruff-recursive-fix-skill
+description: "Run Ruff checks with optional scope and rule overrides, apply safe and unsafe autofixes iteratively, review each change, and resolve remaining findings with targeted edits or user decisions."
+license: MIT
+tags: [general]
 ---
 
 # Ruff Recursive Fix

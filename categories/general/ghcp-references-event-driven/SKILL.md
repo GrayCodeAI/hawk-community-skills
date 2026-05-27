@@ -1,3 +1,10 @@
+---
+name: ghcp-references-event-driven
+description: "Skill: ghcp-references-event-driven"
+license: MIT
+tags: [general]
+---
+
 # Event-Driven Architecture Patterns
 
 ## Event Sourcing Pattern

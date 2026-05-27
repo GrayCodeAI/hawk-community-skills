@@ -1,9 +1,10 @@
 ---
 name: label_and_rate
-description: Fabric pattern - label_and_rate
-domain: general
+description: "Fabric pattern - label_and_rate"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

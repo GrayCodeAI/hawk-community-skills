@@ -1,6 +1,8 @@
 ---
-description: 'ColdFusion cfm files and application patterns'
-applyTo: "**/*.cfm"
+name: ghcp-instructions-coldfusion-cfm.instructions
+description: "Skill: ghcp-instructions-coldfusion-cfm.instructions"
+license: MIT
+tags: [general]
 ---
 
 # ColdFusion Coding Standards

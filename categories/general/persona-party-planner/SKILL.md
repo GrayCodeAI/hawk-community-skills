@@ -1,9 +1,10 @@
 ---
 name: persona-party-planner
-description: AI persona - party-planner
-domain: general
+description: "AI persona - party-planner"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

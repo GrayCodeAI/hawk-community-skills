@@ -1,7 +1,10 @@
 ---
-description: Rules for testing Astro projects, including unit tests and end-to-end testing.
-globs: tests/**/*.*
+name: mdc-testing
+description: "Rules for testing Astro projects, including unit tests and end-to-end testing."
+license: MIT
+tags: [testing]
 ---
+
 Testing
 
 - Implement unit tests for utility functions and helpers.

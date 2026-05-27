@@ -1,3 +1,10 @@
+---
+name: rb-active_context_template
+description: "Skill: rb-active_context_template"
+license: MIT
+tags: [general]
+---
+
 # Active Development Context Template
 
 ## Current Work Focus:

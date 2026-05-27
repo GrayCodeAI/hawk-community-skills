@@ -1,11 +1,11 @@
 ---
 name: task-planning
-description: Plan and organize software development tasks effectively. Use when breaking down features, creating user stories, or planning sprints. Handles task breakdown, user stories, acceptance criteria, and backlog management.
-metadata:
-  tags: task-planning, user-stories, backlog, sprint-planning, agile
-  platforms: Claude, ChatGPT, Gemini
+description: "Plan and organize software development tasks effectively. Use when breaking down features, creating user stories, or planning sprints. Handles task breakdown, user stories, acceptance criteria, and..."
+license: MIT
+tags: [task-planning, user-stories, backlog, sprint-planning, agile]
+metadata: None
+platforms: Claude, ChatGPT, Gemini
 ---
-
 
 # Task Planning
 

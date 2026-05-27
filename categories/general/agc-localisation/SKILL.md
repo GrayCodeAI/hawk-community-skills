@@ -1,3 +1,10 @@
+---
+name: agc-localisation
+description: "Skill: agc-localisation"
+license: MIT
+tags: [general]
+---
+
 # Localisation Reference for Non-US English TTS
 
 ## espeak-ng Language Codes

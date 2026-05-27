@@ -1,7 +1,10 @@
 ---
-description: Enforces security best practices for Python code, including requiring HTTPS, input sanitization, and using environment variables.
-globs: **/*.py
+name: mdc-python-security
+description: "Enforces security best practices for Python code, including requiring HTTPS, input sanitization, and using environment variables."
+license: MIT
+tags: [python]
 ---
+
 - Require HTTPS for secure connections.
 - Sanitize all inputs.
 - Validate all inputs.

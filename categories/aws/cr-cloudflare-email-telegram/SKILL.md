@@ -1,9 +1,10 @@
 ---
 name: cr-cloudflare-email-telegram
-description: Cursor rules for cloudflare-email-telegram
-domain: engineering
+description: "Cursor rules for cloudflare-email-telegram"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

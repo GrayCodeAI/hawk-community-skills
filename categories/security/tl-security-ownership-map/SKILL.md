@@ -1,9 +1,11 @@
 ---
-name: security-ownership-map
-description: 'Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Use when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do NOT use for general maintainer lists, non-security ownership questions, or threat modeling (use security-threat-model).'
-metadata:
-  author: github.com/openai/skills
-  version: '1.0.0'
+name: tl-security-ownership-map
+description: "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Use whe..."
+license: MIT
+tags: [security]
+metadata: None
+author: github.com/openai/skills
+version: 1.0.0
 ---
 
 # Security Ownership Map

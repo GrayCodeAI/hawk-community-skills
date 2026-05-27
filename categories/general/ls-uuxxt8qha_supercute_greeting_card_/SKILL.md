@@ -1,3 +1,10 @@
+---
+name: ls-uuxxt8qha_supercute_greeting_card_
+description: "Skill: ls-uuxxt8qha_supercute_greeting_card_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-uUXxT8qha-supercute-greeting-card
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pj2N2H4QgSJvRtgdtHD4keR3?se=2124-01-13T20%3A48%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D_1a0e8c81-f484-460b-a03d-aea6aa4bd65f.jpg&sig=rlBYYup1iwkasdWaIJW1hBUGv2xU6pObbLCes4ApBeM%3D" width="100px" />

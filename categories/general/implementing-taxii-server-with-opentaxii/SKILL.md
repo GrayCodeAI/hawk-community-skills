@@ -1,13 +1,14 @@
 ---
 name: implementing-taxii-server-with-opentaxii
-description: Deploy and configure an OpenTAXII server to share and consume STIX-formatted cyber threat intelligence using the TAXII 2.1 protocol for automated indicator exchange between organizations.
+description: "Deploy and configure an OpenTAXII server to share and consume STIX-formatted cyber threat intelligence using the TAXII 2.1 protocol for automated indicator exchange between organizations."
+license: MIT
+tags: [taxii, stix, opentaxii, threat-sharing, cti, indicator-exchange, taxii-server, automation]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [taxii, stix, opentaxii, threat-sharing, cti, indicator-exchange, taxii-server, automation]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Implementing TAXII Server with OpenTAXII
 
 ## Overview

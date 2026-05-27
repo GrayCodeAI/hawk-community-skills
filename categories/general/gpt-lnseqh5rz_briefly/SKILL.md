@@ -1,3 +1,10 @@
+---
+name: gpt-lnseqh5rz_briefly
+description: "Skill: gpt-lnseqh5rz_briefly"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LNsEQH5rz-briefly
 
 GPT Title: Briefly

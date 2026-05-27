@@ -1,3 +1,10 @@
+---
+name: gpt-yagnxpjeq_autoexpert-(academic)
+description: "Skill: gpt-yagnxpjeq_autoexpert-(academic)"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-YAgNxPJEq-autoexpert-academic
 
 GPT Title: AutoExpert (Academic)

@@ -1,8 +1,11 @@
 ---
-description: 微信小程序 WXML 编写规范
-globs: **/*.wxml
-alwaysApply: false
+name: extra-wxml
+description: "微信小程序 WXML 编写规范"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
+
 # WXML 编写规范
 
 ## 基本语法规范

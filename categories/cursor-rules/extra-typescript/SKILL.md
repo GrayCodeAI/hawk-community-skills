@@ -1,6 +1,8 @@
 ---
-description: TypeScript 编码规则和最佳实践
-globs: **/*.ts, **/*.tsx, **/*.d.ts
+name: extra-typescript
+description: "TypeScript 编码规则和最佳实践"
+license: MIT
+tags: [cursor-rules]
 ---
 
 # TypeScript 规则

@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, secure, and maintainable scripts and workflows using the Google Cloud CLI (gcloud).
-globs: **/*
+name: mdc-gcp-cli
+description: "Definitive guidelines for writing robust, secure, and maintainable scripts and workflows using the Google Cloud CLI (gcloud)."
+license: MIT
+tags: [aws]
 ---
+
 # gcp-cli Best Practices
 
 The `gcloud` CLI is your primary interface for Google Cloud. These guidelines ensure your `gcloud` scripts and commands are reliable, secure, and easy to maintain, adhering to Google's own Shell Style Guide and modern cloud security principles.

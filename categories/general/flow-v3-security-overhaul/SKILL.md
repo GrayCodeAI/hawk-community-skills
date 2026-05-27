@@ -1,6 +1,8 @@
 ---
-name: "V3 Security Overhaul"
+name: flow-v3-security-overhaul
 description: "Complete security architecture overhaul for claude-flow v3. Addresses critical CVEs (CVE-1, CVE-2, CVE-3) and implements secure-by-default patterns. Use for security-first v3 implementation."
+license: MIT
+tags: [general]
 ---
 
 # V3 Security Overhaul

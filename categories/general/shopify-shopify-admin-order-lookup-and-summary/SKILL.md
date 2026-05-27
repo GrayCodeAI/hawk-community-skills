@@ -1,11 +1,12 @@
 ---
-name: shopify-admin-order-lookup-and-summary
-role: customer-support
+name: shopify-shopify-admin-order-lookup-and-summary
 description: "Retrieve and summarize full order details for a customer by email, order number, or phone number."
+license: MIT
+tags: [general]
+role: customer-support
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

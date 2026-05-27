@@ -1,9 +1,10 @@
 ---
 name: persona-historical-expert
-description: AI persona - historical-expert
-domain: general
+description: "AI persona - historical-expert"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

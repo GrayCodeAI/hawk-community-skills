@@ -1,7 +1,11 @@
 ---
-description: Outlines performance optimization guidelines for Android Jetpack Compose applications.
-globs: app/src/main/java/com/package/**/*.kt
+name: mdc-android-jetpack-compose---performance-guidelines
+description: 'Skill: mdc-android-jetpack-compose---performance-guidelines'
+license: MIT
+tags:
+- mobile
 ---
+
 - Minimize recomposition using proper keys.
 - Use proper lazy loading with LazyColumn and LazyRow.
 - Implement efficient image loading.

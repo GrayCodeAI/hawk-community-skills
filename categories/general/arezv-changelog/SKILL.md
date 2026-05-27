@@ -1,6 +1,8 @@
 ---
-name: changelog
-description: Generate changelogs from git history and validate conventional commits. Usage: /changelog <generate|lint> [options]
+name: arezv-changelog
+description: "Generate changelogs from git history and validate conventional commits. Usage: /changelog <generate|lint> [options]"
+license: MIT
+tags: [general]
 ---
 
 # /changelog

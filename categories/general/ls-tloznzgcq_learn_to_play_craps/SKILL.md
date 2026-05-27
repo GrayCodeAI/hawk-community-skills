@@ -1,3 +1,10 @@
+---
+name: ls-tloznzgcq_learn_to_play_craps
+description: "Skill: ls-tloznzgcq_learn_to_play_craps"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TLoznZGCQ-learn-to-play-craps
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ivqucULsTZUmOZ7s6dd3y5Se?se=2124-01-20T21%3A24%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1b0c7eb3-3fef-462b-9e86-870a369a7968.png&sig=lRRQyOpSbe3vFEHMSZAKRbxLjYUuhc0Ra4IUIyr4PAM%3D" width="100px" />

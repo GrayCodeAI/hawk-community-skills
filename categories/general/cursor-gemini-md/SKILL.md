@@ -1,16 +1,11 @@
 ---
 name: cursor-gemini-md
-description: Cursor IDE rules for gemini-md
-domain: engineering
+description: "Cursor IDE rules for gemini-md"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "GEMINI.md: project context for Gemini CLI and Google AI tools"
-globs: ["GEMINI.md"]
-alwaysApply: false
 ---
 
 # GEMINI.md Rules

@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for using fabric-js (v6.9.0+) in JavaScript/TypeScript projects, focusing on performance, maintainability, and modern API usage.
-globs: **/*.{js,jsx}
+name: mdc-fabric-js
+description: "This guide outlines definitive best practices for using fabric-js (v6.9.0+) in JavaScript/TypeScript projects, focusing on performance, maintainability, and modern API usage."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # fabric-js Best Practices
 
 This document provides definitive guidelines for developing with `fabric-js` (v6.9.0+), emphasizing performance, maintainability, and modern API adoption. Adhere to these rules to ensure robust and efficient canvas applications.

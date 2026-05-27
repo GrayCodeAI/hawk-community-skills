@@ -1,3 +1,10 @@
+---
+name: gpt-l1yx0mmy3_coq_assistant
+description: "Skill: gpt-l1yx0mmy3_coq_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l1Yx0mmy3-coq-assistant
 
 GPT logo: <img src="None" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: api-ninjas-automation
+name: composio-api-ninjas-automation
 description: "Automate API Ninjas tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # API Ninjas Automation via Rube MCP

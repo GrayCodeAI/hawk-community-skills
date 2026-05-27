@@ -1,9 +1,10 @@
 ---
 name: t_create_opening_sentences
-description: Fabric pattern - t_create_opening_sentences
-domain: general
+description: "Fabric pattern - t_create_opening_sentences"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,9 +1,10 @@
 ---
-name: bpl-protect_instructions
-description: System prompt - protect_instructions
-domain: general
+name: bpl-txt-protect_instructions
+description: "System prompt - protect_instructions"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

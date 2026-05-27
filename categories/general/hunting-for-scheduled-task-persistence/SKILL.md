@@ -1,12 +1,12 @@
 ---
 name: hunting-for-scheduled-task-persistence
-description: Hunt for adversary persistence via Windows Scheduled Tasks by analyzing task creation events, suspicious task actions, and unusual scheduling patterns.
+description: "Hunt for adversary persistence via Windows Scheduled Tasks by analyzing task creation events, suspicious task actions, and unusual scheduling patterns."
+license: MIT
+tags: [threat-hunting, mitre-attack, scheduled-tasks, persistence, t1053, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, scheduled-tasks, persistence, t1053, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Hunting For Scheduled Task Persistence

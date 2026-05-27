@@ -1,6 +1,8 @@
 ---
-name: typespec-create-agent
-description: 'Generate a complete TypeSpec declarative agent with instructions, capabilities, and conversation starters for Microsoft 365 Copilot'
+name: ghcp-typespec-create-agent-skill
+description: "Generate a complete TypeSpec declarative agent with instructions, capabilities, and conversation starters for Microsoft 365 Copilot"
+license: MIT
+tags: [general]
 ---
 
 # Create TypeSpec Declarative Agent

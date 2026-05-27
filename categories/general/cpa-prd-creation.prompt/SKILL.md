@@ -1,6 +1,9 @@
 ---
+name: cpa-prd-creation.prompt
+description: "Generate a comprehensive Product Requirements Document (PRD) for a new feature"
+license: MIT
+tags: [general]
 mode: agent
-description: Generate a comprehensive Product Requirements Document (PRD) for a new feature
 ---
 
 # PRD Creation Prompt

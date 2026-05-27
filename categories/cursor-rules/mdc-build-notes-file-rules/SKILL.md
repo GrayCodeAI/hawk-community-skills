@@ -1,7 +1,10 @@
 ---
-description: Enforces rules for creating and managing build notes files within the /ProjectDocs/Build_Notes/ directory, including naming conventions, content structure, and update frequency.
-globs: **/ProjectDocs/Build_Notes/**/*
+name: mdc-build-notes-file-rules
+description: "Enforces rules for creating and managing build notes files within the /ProjectDocs/Build_Notes/ directory, including naming conventions, content structure, and update frequency."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - **Location & Naming:**
    - Store all notes files in `/ProjectDocs/Build_Notes/`.
    - Use a logical, descriptive naming convention, e.g., `build-title_phase-#_task-group-name.md`.

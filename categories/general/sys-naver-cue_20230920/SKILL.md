@@ -1,3 +1,10 @@
+---
+name: sys-naver-cue_20230920
+description: "Skill: sys-naver-cue_20230920"
+license: MIT
+tags: [general]
+---
+
 # naver-cue_20230920
 
 source: onetop4458 <https://github.com/jujumilk3/leaked-system-prompts/pull/11>

@@ -1,9 +1,10 @@
 ---
 name: extract_insights
-description: Fabric pattern - extract_insights
-domain: general
+description: "Fabric pattern - extract_insights"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

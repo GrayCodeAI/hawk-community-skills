@@ -1,3 +1,10 @@
+---
+name: ls-00grdogjy_personality_quiz_creator
+description: "Skill: ls-00grdogjy_personality_quiz_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-00GrDoGJY-personality-quiz-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-JOf5Yx2cbBcKjaKLfy5UPVxp?se=2123-10-18T13%3A15%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddc2684cc-2207-46e1-b5c0-54adc5f92f09.png&sig=c1JNYH%2Bty9dIGQOhCO8SzSxGiXuq/IP2dOI%2BuZYXLBM%3D" width="100px" />

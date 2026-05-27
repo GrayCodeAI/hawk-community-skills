@@ -1,3 +1,10 @@
+---
+name: ls-xipcdwnod_thich-nhat-hanh's-teachings-and-poetry
+description: "Skill: ls-xipcdwnod_thich-nhat-hanh's-teachings-and-poetry"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xiPcDwNOD-thich-nhat-hanh-s-teachings-and-poetry
 
 GPT Title: Thich Nhat Hanh's Teachings and Poetry

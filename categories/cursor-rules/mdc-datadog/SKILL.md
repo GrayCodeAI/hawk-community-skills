@@ -1,7 +1,10 @@
 ---
-description: Enforce Datadog best practices for structured logging, consistent tagging, metric governance, and CI/CD integration to ensure reliable and actionable observability across all services.
-globs: **/*
+name: mdc-datadog
+description: "Enforce Datadog best practices for structured logging, consistent tagging, metric governance, and CI/CD integration to ensure reliable and actionable observability across all services."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # Datadog Best Practices
 
 This guide outlines our team's definitive standards for integrating Datadog into our applications and infrastructure. Adhering to these rules ensures consistent, high-quality observability data, enabling faster debugging, better monitoring, and unified insights across our stack.

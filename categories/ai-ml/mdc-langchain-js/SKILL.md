@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building robust and maintainable LLM applications with langchain-js, emphasizing modularity, type safety, observability, and testing.
-globs: **/*.{js,jsx}
+name: mdc-langchain-js
+description: "This guide provides opinionated, actionable best practices for building robust and maintainable LLM applications with langchain-js, emphasizing modularity, type safety, observability, and testing."
+license: MIT
+tags: [ai-ml]
 ---
+
 # langchain-js Best Practices
 
 Building LLM-powered applications with `langchain-js` requires a disciplined approach to ensure maintainability, performance, and reliability. This guide outlines our team's definitive best practices.

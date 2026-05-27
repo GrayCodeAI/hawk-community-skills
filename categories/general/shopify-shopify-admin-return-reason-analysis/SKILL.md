@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-return-reason-analysis
-role: returns
+name: shopify-shopify-admin-return-reason-analysis
 description: "Read-only: aggregates return reasons across orders to identify product quality or listing issues."
+license: MIT
+tags: [general]
+role: returns
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - returns:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'returns': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,5 +1,9 @@
 ---
-description: Guides the implementation of createMemo for managing derived values in SolidJS components.
-globs: src/components/**/*.jsx
+name: mdc-solidjs---derived-values-management
+description: 'Skill: mdc-solidjs---derived-values-management'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Implement createMemo() for derived values.

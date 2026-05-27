@@ -1,6 +1,8 @@
 ---
-applyTo: '**'
-description: 'See process Copilot is following where you can edit this to reshape the interaction or save when follow up may be needed'
+name: ghcp-instructions-copilot-thought-logging.instru
+description: "Skill: ghcp-instructions-copilot-thought-logging.instru"
+license: MIT
+tags: [general]
 ---
 
 # Copilot Process tracking Instructions

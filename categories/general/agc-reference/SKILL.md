@@ -1,3 +1,10 @@
+---
+name: agc-reference
+description: "Skill: agc-reference"
+license: MIT
+tags: [general]
+---
+
 # Additional Guidance and Reference
 
 This file contains the quality framework, guidance for complex scenarios, limitations, and other reference material for applying Diataxis.

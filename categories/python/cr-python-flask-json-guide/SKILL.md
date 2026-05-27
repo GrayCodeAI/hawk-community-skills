@@ -1,9 +1,10 @@
 ---
 name: cr-python-flask-json-guide
-description: Cursor rules for python-flask-json-guide
-domain: engineering
+description: "Cursor rules for python-flask-json-guide"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -26,4 +27,3 @@ with open('/path/to/exported-entities.json', 'r') as file:
 
 with open(output_file_name, 'w') as f:
     f.write(result['svg_string'])
-

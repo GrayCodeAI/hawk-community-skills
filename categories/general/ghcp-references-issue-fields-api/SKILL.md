@@ -1,3 +1,10 @@
+---
+name: ghcp-references-issue-fields-api
+description: "Skill: ghcp-references-issue-fields-api"
+license: MIT
+tags: [general]
+---
+
 # Issue Fields REST API Reference
 
 Issue fields are org-level custom metadata for issues. All endpoints require the API version header:

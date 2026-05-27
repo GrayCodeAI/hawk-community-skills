@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-llm-typescript
+description: "Skill: ghcp-references-evaluators-llm-typescript"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: LLM Evaluators in TypeScript
 
 LLM evaluators use a language model to judge outputs. Uses Vercel AI SDK.

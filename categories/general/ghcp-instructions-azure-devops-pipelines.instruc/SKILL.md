@@ -1,6 +1,8 @@
 ---
-description: 'Best practices for Azure DevOps Pipeline YAML files'
-applyTo: '**/azure-pipelines.yml, **/azure-pipelines*.yml, **/*.pipeline.yml'
+name: ghcp-instructions-azure-devops-pipelines.instruc
+description: "Skill: ghcp-instructions-azure-devops-pipelines.instruc"
+license: MIT
+tags: [general]
 ---
 
 # Azure DevOps Pipeline YAML Best Practices

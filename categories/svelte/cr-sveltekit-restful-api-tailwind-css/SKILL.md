@@ -1,9 +1,10 @@
 ---
 name: cr-sveltekit-restful-api-tailwind-css
-description: Cursor rules for sveltekit-restful-api-tailwind-css
-domain: engineering
+description: "Cursor rules for sveltekit-restful-api-tailwind-css"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -95,4 +96,3 @@ Always refer to AI.MD for detailed project-specific guidelines and up-to-date pr
   - Optimize for performance
   - Create modern and beautiful UI
   - Consider accessibility in all design decisions
-

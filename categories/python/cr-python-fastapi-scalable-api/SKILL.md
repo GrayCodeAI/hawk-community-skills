@@ -1,9 +1,10 @@
 ---
 name: cr-python-fastapi-scalable-api
-description: Cursor rules for python-fastapi-scalable-api
-domain: engineering
+description: "Cursor rules for python-fastapi-scalable-api"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -111,4 +112,3 @@ You are an expert in **Python, FastAPI, scalable API development, TypeScript, Re
 - Implement **unit tests** for both frontend and backend.
 - Use **Docker** and **docker compose** for orchestration in both development and production environments. Avoid using the obsolete `docker-compose` command.
 - Ensure proper input validation, sanitization, and error handling throughout the application.
-

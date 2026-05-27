@@ -1,8 +1,10 @@
 ---
-name: mem-automation
+name: composio-mem-automation
 description: "Automate Mem tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mem Automation via Rube MCP

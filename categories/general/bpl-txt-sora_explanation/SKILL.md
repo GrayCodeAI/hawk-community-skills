@@ -1,12 +1,12 @@
 ---
-name: bpl-sora_explanation
-description: System prompt - sora_explanation
-domain: general
+name: bpl-txt-sora_explanation
+description: "System prompt - sora_explanation"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
-
 
 Dear OpenAI Team,
 

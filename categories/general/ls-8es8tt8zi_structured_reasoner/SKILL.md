@@ -1,3 +1,10 @@
+---
+name: ls-8es8tt8zi_structured_reasoner
+description: "Skill: ls-8es8tt8zi_structured_reasoner"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8ES8Tt8zi-structured-reasoner
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-6FipMNXrsKdfABJiwwospS4G?se=2124-01-15T16%3A24%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_6557.webp&sig=IIL4lDJa8XDfpLt5DmHKJAvtvi4ugb5XqliKdYWc3u0%3D" width="100px" />

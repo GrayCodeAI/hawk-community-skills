@@ -1,9 +1,10 @@
 ---
 name: persona-poet
-description: AI persona - poet
-domain: general
+description: "AI persona - poet"
+license: MIT
 tags: [persona, prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: mustvlad
 ---
 

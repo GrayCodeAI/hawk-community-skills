@@ -1,31 +1,25 @@
 ---
-name: 'OSS Release Compliance Checker'
-description: 'Analyzes a target repository against open source release requirements and posts a detailed compliance report as an issue comment.'
-labels: ['ospo', 'compliance', 'release']
-on:
-  issues:
-    types: [opened, labeled]
-  workflow_dispatch:
-
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-  actions: read
-
+name: ghcp-workflows-ospo-release-compliance-checke
+description: "Analyzes a target repository against open source release requirements and posts a detailed compliance report as an issue comment."
+license: MIT
+tags: [general]
+labels: [ospo, compliance, release]
+True: None
+issues: read
+types: [opened, labeled]
+workflow_dispatch: None
+permissions: None
+contents: read
+pull-requests: read
+actions: read
 engine: copilot
-
-tools:
-  github:
-    toolsets:
-      - repos
-      - issues
-  bash: true
-
-safe-outputs:
-  add-comment:
-    max: 1
-
+tools: None
+github: None
+toolsets: None
+bash: True
+safe-outputs: None
+add-comment: None
+max: 1
 timeout-minutes: 20
 ---
 

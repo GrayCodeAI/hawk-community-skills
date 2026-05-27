@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-customer-win-back
-role: marketing
+name: shopify-shopify-admin-customer-win-back
 description: "Identify customers who have not ordered in N days, export a re-engagement list, and tag them in Shopify."
+license: MIT
+tags: [general]
+role: marketing
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - tagsAdd:mutation
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'tagsAdd': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

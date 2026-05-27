@@ -1,6 +1,8 @@
 ---
-name: commit
-description: Create well-formatted commits with conventional commit messages and emoji
+name: neo-commit
+description: "Create well-formatted commits with conventional commit messages and emoji"
+license: MIT
+tags: [general]
 argument-hint: Optional flags like --no-verify to skip pre-commit checks
 model: haiku
 allowed-tools: Bash(git status:*), Bash(git add:*), Bash(git diff:*), Bash(git commit:*), Bash(git config:*), Bash(git branch:*), Bash(git checkout:*), Bash(pnpm lint:*), Bash(npm run lint:*), Bash(yarn lint:*), Bash(bun lint:*)

@@ -1,7 +1,8 @@
 ---
 name: api-design-restful
-description: RESTful API design patterns, error handling, and documentation
+description: "RESTful API design patterns, error handling, and documentation"
 license: MIT
+tags: [general]
 compatibility: nodejs 18+, express 4+, fastify 4+
 allowed-tools: read_file write_file apply_patch search_with_context run_command
 ---

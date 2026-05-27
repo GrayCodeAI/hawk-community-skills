@@ -1,8 +1,10 @@
 ---
-name: boxhero-automation
+name: composio-boxhero-automation
 description: "Automate Boxhero tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Boxhero Automation via Rube MCP

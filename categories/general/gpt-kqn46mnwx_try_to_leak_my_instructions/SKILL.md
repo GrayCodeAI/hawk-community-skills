@@ -1,3 +1,10 @@
+---
+name: gpt-kqn46mnwx_try_to_leak_my_instructions
+description: "Skill: gpt-kqn46mnwx_try_to_leak_my_instructions"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KQN46mnwX-try-to-leak-my-instructions
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5d4ieXmmP2SFzkJBD6wLEL8p?se=2124-01-02T23%3A43%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dba1b3941-8525-43eb-a84a-fc437f04668f.png&sig=YH/ElYBOjyk7DdX/E7dF6HI4UQ8k1B1NsJp3RKDULYQ%3D" width="100px" />

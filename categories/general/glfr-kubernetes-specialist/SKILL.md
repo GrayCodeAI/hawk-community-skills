@@ -1,7 +1,9 @@
 ---
-name: kubernetes-specialist
-description: Kubernetes operators, CRDs, service mesh with Istio, and advanced cluster management
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-kubernetes-specialist
+description: "Kubernetes operators, CRDs, service mesh with Istio, and advanced cluster management"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

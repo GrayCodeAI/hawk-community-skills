@@ -1,7 +1,10 @@
 ---
-description: Specifies the coding process guidelines, applicable to all coding tasks.
-globs: *
+name: mdc-coding-process-rules
+description: "Specifies the coding process guidelines, applicable to all coding tasks."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Show concise step-by-step reasoning
 - Prioritize tasks/steps you’ll address in each response
 - Finish one file before the next

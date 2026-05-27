@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing high-quality, maintainable, and performant code with 🤗 Transformers, ensuring consistency and adherence to 2025 best practices.
-globs: **/*.py
+name: mdc-transformers
+description: "Definitive guidelines for writing high-quality, maintainable, and performant code with 🤗 Transformers, ensuring consistency and adherence to 2025 best practices."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # transformers Best Practices
 
 This guide outlines the definitive best practices for developing with 🤗 Transformers, focusing on reliability, readability, and production readiness. Adhere to these rules to ensure your code integrates seamlessly with the ecosystem and passes all CI checks.

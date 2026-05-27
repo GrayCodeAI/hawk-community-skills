@@ -1,3 +1,10 @@
+---
+name: ls-pmuqfob8d_image_generator
+description: "Skill: ls-pmuqfob8d_image_generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pmuQfob8d-image-generator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-M1df4Ab7Ow6QCJ871tBUsi0x?se=2123-11-08T17%3A52%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40face33-c6ad-4a5d-b402-5f7126e8325f.png&sig=G9qnRNHbnnN1gnz2NzVSyjwWvQ6hrGjr%2Be7hbYgnjRs%3D" width="100px" />

@@ -1,6 +1,8 @@
 ---
-name: typescript-mcp-server-generator
-description: 'Generate a complete MCP server project in TypeScript with tools, resources, and proper configuration'
+name: copilot-typescript-mcp-server-generator
+description: "Generate a complete MCP server project in TypeScript with tools, resources, and proper configuration"
+license: MIT
+tags: [general]
 ---
 
 # Generate TypeScript MCP Server

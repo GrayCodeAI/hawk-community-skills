@@ -1,9 +1,10 @@
 ---
-name: stable-baselines3
-description: Production-ready reinforcement learning algorithms (PPO, SAC, DQN, TD3, DDPG, A2C) with scikit-learn-like API. Use for standard RL experiments, quick prototyping, and well-documented algorithm implementations. Best for single-agent RL with Gymnasium environments. For high-performance parallel training, multi-agent systems, or custom vectorized environments, use pufferlib instead.
+name: sci-stable-baselines3
+description: "Production-ready reinforcement learning algorithms (PPO, SAC, DQN, TD3, DDPG, A2C) with scikit-learn-like API. Use for standard RL experiments, quick prototyping, and well-documented algorithm impl..."
 license: MIT license
-metadata:
-    skill-author: K-Dense Inc.
+tags: [aws]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # Stable Baselines3
@@ -294,4 +295,3 @@ uv pip install stable-baselines3
 # With extra dependencies (Tensorboard, etc.)
 uv pip install stable-baselines3[extra]
 ```
-

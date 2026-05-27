@@ -1,13 +1,11 @@
 ---
-name: specialist-security-reviewer
-description: High-density security audit persona. Enforces OWASP Top 10, {APP_NAME} security standards, and strict tool budgets (<= 8 calls).
-metadata:
-  triggers:
-    keywords:
-    - security review
-    - vulnerability audit
-    - OWASP check
-    - security findings
+name: std-specialist-security-reviewer
+description: "High-density security audit persona. Enforces OWASP Top 10, {APP_NAME} security standards, and strict tool budgets (<= 8 calls)."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 🛡 Specialist: Security Reviewer

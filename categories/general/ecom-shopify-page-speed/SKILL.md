@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Shopify Page Speed"
-  category: "Site Performance"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "shopify"
-    - "page-speed"
-    - "performance"
-    - "core-web-vitals"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "shopify page speed"
+name: ecom-shopify-page-speed
+description: "Skill: ecom-shopify-page-speed"
+license: MIT
+tags: [general]
+nexscope: None
+category: Site Performance
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Shopify Page Speed

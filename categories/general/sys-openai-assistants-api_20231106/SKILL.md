@@ -1,3 +1,10 @@
+---
+name: sys-openai-assistants-api_20231106
+description: "Skill: sys-openai-assistants-api_20231106"
+license: MIT
+tags: [general]
+---
+
 # openai-assistants-api_20231106
 
 source: <https://twitter.com/finnless/status/1721683606811316524>

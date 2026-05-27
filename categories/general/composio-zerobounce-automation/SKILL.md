@@ -1,8 +1,10 @@
 ---
-name: zerobounce-automation
+name: composio-zerobounce-automation
 description: "Automate Zerobounce tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Zerobounce Automation via Rube MCP

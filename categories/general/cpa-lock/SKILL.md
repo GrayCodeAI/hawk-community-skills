@@ -1,3 +1,10 @@
+---
+name: cpa-lock
+description: "Skill: cpa-lock"
+license: MIT
+tags: [general]
+---
+
 # az lock
 
 ```bash

@@ -1,3 +1,10 @@
+---
+name: ls-iaakkmkhh_merch_wizard_lv2.8
+description: "Skill: ls-iaakkmkhh_merch_wizard_lv2.8"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iaAKkmkhh-merch-wizard-lv2-8
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tNF1TVqd0N2WhJOsx7uRnTmd?se=2123-11-20T05%3A54%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D41569902-de60-46ec-844c-59bafab5c6e2.png&sig=AT2szCV8n6nr2cPKg8crJ8D1wlPoGNZBimVJUGfoKcc%3D" width="100px" />

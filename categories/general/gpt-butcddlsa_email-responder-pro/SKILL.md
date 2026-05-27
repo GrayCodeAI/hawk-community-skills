@@ -1,3 +1,10 @@
+---
+name: gpt-butcddlsa_email-responder-pro
+description: "Skill: gpt-butcddlsa_email-responder-pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-butcDDLSA-email-responder-pro
 
 GPT Title: Email Responder Pro

@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Svelte apps with Auth0 Authentication
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-setup-auth0-svelte
+description: "Guidelines for writing Svelte apps with Auth0 Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Svelte app with Auth0 Authentication
@@ -228,4 +230,4 @@ When implementing Auth0 in Svelte, you MUST:
 2. Implement proper error handling
 3. Use TypeScript when possible
 4. Protect sensitive routes
-5. Handle authentication state properly 
+5. Handle authentication state properly

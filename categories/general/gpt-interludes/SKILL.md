@@ -1,3 +1,10 @@
+---
+name: gpt-interludes
+description: "Skill: gpt-interludes"
+license: MIT
+tags: [general]
+---
+
 ## Herbology, Bug Squashing, debugging 101
 11: Debugging 101, how to think like a code wizard
 

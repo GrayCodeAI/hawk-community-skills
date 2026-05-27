@@ -1,7 +1,9 @@
 ---
-name: sre-engineer
-description: SLOs, error budgets, incident response, postmortems, and production reliability
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-sre-engineer
+description: "SLOs, error budgets, incident response, postmortems, and production reliability"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

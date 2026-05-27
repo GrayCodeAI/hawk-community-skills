@@ -1,16 +1,11 @@
 ---
 name: cursor-cloudflare-workers
-description: Cursor IDE rules for cloudflare-workers
-domain: engineering
+description: "Cursor IDE rules for cloudflare-workers"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Cloudflare Workers: edge computing, KV, D1, R2, Durable Objects"
-globs: ["*.ts", "*.js"]
-alwaysApply: true
 ---
 
 # Cloudflare Workers Cursor Rules

@@ -1,9 +1,10 @@
 ---
 name: cr-typescript-code-convention
-description: Cursor rules for typescript-code-convention
-domain: engineering
+description: "Cursor rules for typescript-code-convention"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -22,4 +23,3 @@ Performance Optimization:
 Next.js Specific:
 Expo Specific:
 Follow Next.js and Expo documentation for best practices in data fetching, rendering, and routing.
-

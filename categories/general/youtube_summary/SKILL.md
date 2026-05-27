@@ -1,9 +1,10 @@
 ---
 name: youtube_summary
-description: Fabric pattern - youtube_summary
-domain: general
+description: "Fabric pattern - youtube_summary"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

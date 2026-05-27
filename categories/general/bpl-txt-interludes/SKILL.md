@@ -1,9 +1,10 @@
 ---
-name: bpl-interludes
-description: System prompt - interludes
-domain: general
+name: bpl-txt-interludes
+description: "System prompt - interludes"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

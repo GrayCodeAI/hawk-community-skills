@@ -1,9 +1,11 @@
 ---
-name: tiktok-shop-creator-management
+name: ecom-tiktok-shop-creator-management
 description: "Creator relationship management — recruitment, briefing, content approval, commission optimization"
-metadata:
-  nexscope:
-    category: tiktok-shop
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: tiktok-shop
 ---
 
 # TikTok Shop Creator Management

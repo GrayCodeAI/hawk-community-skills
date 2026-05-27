@@ -1,10 +1,10 @@
 ---
-name: nanogpt
-description: Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hackable code for learning transformers. By Andrej Karpathy. Perfect for understanding GPT architecture from scratch. Train on Shakespeare (CPU) or OpenWebText (multi-GPU).
+name: research-nanogpt
+description: "Educational GPT implementation in ~300 lines. Reproduces GPT-2 (124M) on OpenWebText. Clean, hackable code for learning transformers. By Andrej Karpathy. Perfect for understanding GPT architecture ..."
+license: MIT
+tags: [model-architecture, nanogpt, gpt-2, educational, andrej-karpathy, transformer, minimalist, from-scratch, training]
 version: 1.0.0
 author: Orchestra Research
-license: MIT
-tags: [Model Architecture, NanoGPT, GPT-2, Educational, Andrej Karpathy, Transformer, Minimalist, From Scratch, Training]
 dependencies: [torch, transformers, datasets, tiktoken, wandb]
 ---
 
@@ -286,5 +286,3 @@ init_from = 'gpt2'  # Valid: gpt2, gpt2-medium, gpt2-large, gpt2-xl
 - Paper: "Attention is All You Need" (Vaswani et al.)
 - OpenWebText: https://huggingface.co/datasets/Skylion007/openwebtext
 - Educational: Best for understanding transformers from scratch
-
-

@@ -1,3 +1,10 @@
+---
+name: gpt-kzb4b7494_monet_gpt
+description: "Skill: gpt-kzb4b7494_monet_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-KZB4B7494-monet-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-wygQRyoE1Gox7NXCZnVaHCNk?se=2123-12-18T20%3A26%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dda1ef8217982e1250c370460fa2b30d3.jpg&sig=V5WwRxQFJYSjmIpfuhVFODNix9XDPjeW7J%2BwLNaUDbE%3D" width="100px" />

@@ -1,3 +1,10 @@
+---
+name: ls-v0-system-context(hypothesized-example-openv0)
+description: "Skill: ls-v0-system-context(hypothesized-example-openv0)"
+license: MIT
+tags: [general]
+---
+
 ```json
 [
   {

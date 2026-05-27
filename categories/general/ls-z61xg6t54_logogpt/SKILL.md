@@ -1,3 +1,10 @@
+---
+name: ls-z61xg6t54_logogpt
+description: "Skill: ls-z61xg6t54_logogpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-z61XG6t54-logogpt
 
 GPT Title: LogoGPT

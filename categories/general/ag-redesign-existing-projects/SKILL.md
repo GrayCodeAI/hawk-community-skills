@@ -1,16 +1,18 @@
 ---
-name: redesign-existing-projects
+name: ag-redesign-existing-projects
 description: "Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites."
+license: MIT
+tags: [frontend, redesign, design-audit, ui]
 category: frontend
 risk: safe
 source: community
 source_repo: Leonxlnx/taste-skill
 source_type: community
-date_added: "2026-04-17"
+date_added: 2026-04-17
 author: Leonxlnx
-tags: [frontend, redesign, design-audit, ui]
 tools: [claude, cursor, codex, antigravity]
 ---
+
 # Redesign Skill
 
 ## When to Use

@@ -1,3 +1,10 @@
+---
+name: ls-bvamcr18l_create_accessible_storyline_e-learning_c
+description: "Skill: ls-bvamcr18l_create_accessible_storyline_e-learning_c"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Bvamcr18L-create-accessible-storyline-e-learning-courses
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-HYDZR2LiLiG6EE1Mrnu3VsiK?se=2124-01-12T20%3A21%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Db198700c-5d0e-4314-a51d-2a18aca265c8.png&sig=fhkNEfj5RTS0Qal2Hz7vmekUcFEBCTH1jnP/WOXK8I8%3D" width="100px" />

@@ -1,7 +1,10 @@
 ---
-description: Applies general coding principles and best practices for TypeScript and React development across the project.
-globs: **/*.{ts,tsx}
+name: mdc-general-typescript-and-react-rules
+description: "Applies general coding principles and best practices for TypeScript and React development across the project."
+license: MIT
+tags: [react]
 ---
+
 - Write concise, readable TypeScript code.
 - Use functional and declarative programming patterns.
 - Follow DRY (Don't Repeat Yourself) principle.

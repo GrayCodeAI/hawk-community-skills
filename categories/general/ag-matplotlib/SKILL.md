@@ -1,9 +1,10 @@
 ---
-name: matplotlib
+name: ag-matplotlib
 description: "Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots."
 license: https://github.com/matplotlib/matplotlib/tree/main/LICENSE
-metadata:
-    skill-author: K-Dense Inc.
+tags: [general]
+metadata: None
+skill-author: K-Dense Inc.
 risk: unknown
 source: community
 ---

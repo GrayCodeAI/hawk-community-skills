@@ -1,3 +1,10 @@
+---
+name: gpt-7wwy87i9h_brick-set-visionary
+description: "Skill: gpt-7wwy87i9h_brick-set-visionary"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7WWy87i9H-brick-set-visionary
 
 GPT Title: Brick Set Visionary

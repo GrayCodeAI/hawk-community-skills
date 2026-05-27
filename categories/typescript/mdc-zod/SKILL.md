@@ -1,7 +1,10 @@
 ---
-description: This guide outlines definitive best practices for using Zod in TypeScript projects, ensuring robust runtime validation, superior type safety, and maintainable schemas.
-globs: **/*.{ts,tsx}
+name: mdc-zod
+description: "This guide outlines definitive best practices for using Zod in TypeScript projects, ensuring robust runtime validation, superior type safety, and maintainable schemas."
+license: MIT
+tags: [typescript]
 ---
+
 # Zod Best Practices
 
 Zod is the definitive TypeScript-first schema validation library. It provides static type inference directly from runtime schemas, catching data-shape errors at both compile time and runtime. Adhere to these guidelines to build resilient, type-safe applications with Zod 4.

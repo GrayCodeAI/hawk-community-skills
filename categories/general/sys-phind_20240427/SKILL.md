@@ -1,3 +1,10 @@
+---
+name: sys-phind_20240427
+description: "Skill: sys-phind_20240427"
+license: MIT
+tags: [general]
+---
+
 # phind_20240427
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/31>

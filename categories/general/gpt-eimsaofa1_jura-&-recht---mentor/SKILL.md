@@ -1,3 +1,11 @@
+---
+name: gpt-eimsaofa1_jura-&-recht---mentor
+description: 'Skill: gpt-eimsaofa1_jura-&-recht---mentor'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-eImsAofa1-jura-recht-mentor
 
 GPT Title: Jura & Recht - Mentor

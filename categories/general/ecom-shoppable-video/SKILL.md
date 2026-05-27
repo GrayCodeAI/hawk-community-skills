@@ -1,3 +1,10 @@
+---
+name: ecom-shoppable-video
+description: "Skill: ecom-shoppable-video"
+license: MIT
+tags: [general]
+---
+
 # Shoppable Video
 
 Create and optimize shoppable video content for e-commerce. Strategy for TikTok Shop, Instagram Reels, YouTube Shorts, and Amazon Live with product tagging, CTAs, and conversion optimization.

@@ -1,16 +1,11 @@
 ---
 name: cursor-pytest
-description: Cursor IDE rules for pytest
-domain: engineering
+description: "Cursor IDE rules for pytest"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "pytest: fixtures, parametrize, conftest, markers"
-globs: ["test_*.py", "*_test.py", "conftest.py"]
-alwaysApply: true
 ---
 
 # pytest Cursor Rules

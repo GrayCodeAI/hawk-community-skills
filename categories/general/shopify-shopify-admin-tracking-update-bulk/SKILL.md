@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-tracking-update-bulk
-role: fulfillment-ops
+name: shopify-shopify-admin-tracking-update-bulk
 description: "Batch-update tracking numbers and URLs on existing fulfillments when a carrier reassigns tracking IDs."
+license: MIT
+tags: [general]
+role: fulfillment-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - order:query
-  - fulfillmentUpdate:mutation
+api_version: 2025-01
+graphql_operations: [{'order': 'query'}, {'fulfillmentUpdate': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

@@ -1,3 +1,10 @@
+---
+name: ls-phqh0mdii_coloring-page
+description: "Skill: ls-phqh0mdii_coloring-page"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pHqH0mDII-coloring-page
 
 GPT Title: Coloring Page

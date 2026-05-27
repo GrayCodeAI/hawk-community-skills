@@ -1,16 +1,11 @@
 ---
 name: cursor-svelte
-description: Cursor IDE rules for svelte
-domain: engineering
+description: "Cursor IDE rules for svelte"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Svelte 5: runes, reactivity, stores"
-globs: ["*.svelte", "*.ts", "*.js"]
-alwaysApply: true
 ---
 
 # Svelte Cursor Rules

@@ -1,6 +1,8 @@
 ---
-name: why
-description: Iterative Five Whys root cause analysis drilling from symptoms to fundamentals
+name: neo-why
+description: "Iterative Five Whys root cause analysis drilling from symptoms to fundamentals"
+license: MIT
+tags: [general]
 argument-hint: Optional issue or symptom description
 ---
 

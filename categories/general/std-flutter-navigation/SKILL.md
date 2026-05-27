@@ -1,20 +1,14 @@
 ---
-name: flutter-navigation
-description: Implement navigation patterns with go_router, deep linking, and named routes in Flutter. Use when building navigation, deep linking, or routing.
-metadata:
-  triggers:
-    files:
-    - '**/*_route.dart'
-    - '**/*_router.dart'
-    - '**/main.dart'
-    keywords:
-    - Navigator
-    - GoRouter
-    - routes
-    - deep link
-    - go_router
-    - AutoRoute
+name: std-flutter-navigation
+description: "Implement navigation patterns with go_router, deep linking, and named routes in Flutter. Use when building navigation, deep linking, or routing."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Flutter Navigation
 
 ## **Priority: P1 (OPERATIONAL)**

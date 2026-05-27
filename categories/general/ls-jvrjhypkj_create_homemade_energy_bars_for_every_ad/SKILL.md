@@ -1,3 +1,10 @@
+---
+name: ls-jvrjhypkj_create_homemade_energy_bars_for_every_ad
+description: "Skill: ls-jvrjhypkj_create_homemade_energy_bars_for_every_ad"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jvrJHYPKJ-create-homemade-energy-bars-for-every-adventure
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-lFTxnPb56qpsbWLZcxCDQO1G?se=2123-11-17T08%3A47%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc633264d-547c-4de8-a64f-3aef2c3bf830.png&sig=AVq1gR3V4WiHlyiaIk6BDj%2BYEHcnyQUuS11xC3OM8Io%3D" width="100px" />

@@ -1,17 +1,8 @@
 ---
-name: codeception-skill
-description: >
-  Generates Codeception tests in PHP covering acceptance, functional, and unit
-  testing. BDD-style with Actor pattern. Use when user mentions "Codeception",
-  "$I->amOnPage", "$I->see", "Cest". Triggers on: "Codeception", "$I->amOnPage",
-  "AcceptanceTester", "Codeception PHP", "Cest".
-languages:
-  - PHP
-category: e2e-testing
+name: lt-codeception-skill
+description: "Skill: lt-codeception-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # Codeception Testing Skill

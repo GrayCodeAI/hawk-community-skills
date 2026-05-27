@@ -1,9 +1,11 @@
 ---
-name: fastapi-router-py
+name: ag-fastapi-router-py
 description: "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # FastAPI Router

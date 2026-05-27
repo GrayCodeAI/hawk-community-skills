@@ -1,9 +1,10 @@
 ---
-name: bpl-trends_-food,-beverage,-healthcare,-education
-description: System prompt - trends_-food,-beverage,-healthcare,-education
-domain: general
+name: bpl-txt-trends_-food,-beverage,-healthcare,-education
+description: "System prompt - trends_-food,-beverage,-healthcare,-education"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

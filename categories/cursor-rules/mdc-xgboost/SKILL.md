@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing robust, performant, and maintainable Python code using the xgboost library, focusing on modern best practices and common pitfalls.
-globs: **/*.py
+name: mdc-xgboost
+description: "Definitive guidelines for writing robust, performant, and maintainable Python code using the xgboost library, focusing on modern best practices and common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # xgboost Best Practices
 
 This document outlines the definitive coding standards and best practices for developing with `xgboost` in Python. Adhering to these guidelines ensures your code is efficient, scalable, maintainable, and aligned with the project's official recommendations and modern ML workflows.

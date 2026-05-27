@@ -1,8 +1,11 @@
 ---
-description: the top-level directory structure for the project
-globs: 
-alwaysApply: false
----     
+name: rb-05-directory-structure
+description: "the top-level directory structure for the project"
+license: MIT
+tags: [general]
+alwaysApply: False
+---
+
 # Directory Structure
 ```mermaid
 flowchart TD

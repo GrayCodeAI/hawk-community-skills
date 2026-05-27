@@ -1,7 +1,10 @@
 ---
-description: This guide provides opinionated, actionable best practices for building scalable, maintainable full-stack applications using AWS Amplify Gen 2, focusing on TypeScript-first development and efficient cloud resource management.
-globs: **/*
+name: mdc-aws-amplify
+description: "This guide provides opinionated, actionable best practices for building scalable, maintainable full-stack applications using AWS Amplify Gen 2, focusing on TypeScript-first development and efficien..."
+license: MIT
+tags: [aws]
 ---
+
 # AWS Amplify Gen 2 Best Practices
 
 Amplify Gen 2 is a TypeScript-first, code-first full-stack platform. Embrace its opinionated nature to build robust applications efficiently.

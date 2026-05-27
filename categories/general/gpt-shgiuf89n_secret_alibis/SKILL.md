@@ -1,3 +1,10 @@
+---
+name: gpt-shgiuf89n_secret_alibis
+description: "Skill: gpt-shgiuf89n_secret_alibis"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-SHgiUF89N-secret-alibis
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ahIG0PFCD3aBSDneU7jiHAGE?se=2123-10-20T14%3A52%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D541f7489-06b0-4e15-b0d9-96343cf1bdfb.png&sig=%2BuD4psBoMHWkFrxpcWLzxVZ18SPJYbk%2BJoXjKk7EvHc%3D" width="100px" />

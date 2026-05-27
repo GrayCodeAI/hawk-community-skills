@@ -1,8 +1,10 @@
 ---
-name: yandex-automation
+name: composio-yandex-automation
 description: "Automate Yandex tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Yandex Automation via Rube MCP

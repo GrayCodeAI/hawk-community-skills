@@ -1,21 +1,14 @@
 ---
-name: react-native-deployment
-description: OTA updates with CodePush, EAS Build, and release configurations. Use when configuring OTA updates, EAS Build, or managing release configs for React Native.
-metadata:
-  triggers:
-    files:
-    - 'app.json'
-    - 'eas.json'
-    - 'android/app/build.gradle'
-    - 'ios/**'
-    keywords:
-    - deployment
-    - codepush
-    - eas
-    - release
-    - build
-    - fastlane
+name: std-react-native-deployment
+description: "OTA updates with CodePush, EAS Build, and release configurations. Use when configuring OTA updates, EAS Build, or managing release configs for React Native."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # React Native Deployment
 
 ## **Priority: P2 (MAINTENANCE)**

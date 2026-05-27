@@ -1,16 +1,11 @@
 ---
 name: cursor-zod
-description: Cursor IDE rules for zod
-domain: engineering
+description: "Cursor IDE rules for zod"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Zod: validation schemas, transforms, refinements, error handling"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # Zod Cursor Rules

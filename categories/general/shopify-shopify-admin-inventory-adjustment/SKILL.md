@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-inventory-adjustment
-role: merchandising
+name: shopify-shopify-admin-inventory-adjustment
 description: "Apply inventory quantity adjustments to specific variants at specific locations — after a cycle count, 3PL return batch, or sync discrepancy correction."
+license: MIT
+tags: [general]
+role: merchandising
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - productVariants:query
-  - inventoryAdjustQuantities:mutation
+api_version: 2025-01
+graphql_operations: [{'productVariants': 'query'}, {'inventoryAdjustQuantities': 'mutation'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

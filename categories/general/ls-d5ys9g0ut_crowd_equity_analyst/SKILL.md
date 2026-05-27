@@ -1,3 +1,10 @@
+---
+name: ls-d5ys9g0ut_crowd_equity_analyst
+description: "Skill: ls-d5ys9g0ut_crowd_equity_analyst"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-D5Ys9g0ut-crowd-equity-analyst
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WdyETOVTpsiHFmC0pZikkGhG?se=2123-11-09T19%3A27%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2c5134de-98a1-4d55-9121-493025a2f2b2.png&sig=tJNhdyZeMbanfxijydOtnLI2w2D3PENtQN%2BTfFboVzg%3D" width="100px" />

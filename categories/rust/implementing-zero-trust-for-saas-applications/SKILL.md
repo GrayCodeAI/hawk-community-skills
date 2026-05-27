@@ -1,15 +1,12 @@
 ---
 name: implementing-zero-trust-for-saas-applications
-description: >
-  Implementing zero trust access controls for SaaS applications using CASB, SSPM,
-  conditional access policies, OAuth app governance, and session controls to enforce
-  identity verification, device compliance, and data protection for cloud-hosted services.
+description: "Implementing zero trust access controls for SaaS applications using CASB, SSPM, conditional access policies, OAuth app governance, and session controls to enforce identity verification, device comp..."
+license: MIT
+tags: [zero-trust, saas-security, casb, sspm, conditional-access, oauth-governance, session-controls]
 domain: cybersecurity
 subdomain: zero-trust-architecture
-tags: [zero-trust, saas-security, casb, sspm, conditional-access, oauth-governance, session-controls]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Zero Trust for SaaS Applications

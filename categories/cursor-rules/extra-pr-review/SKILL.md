@@ -1,3 +1,10 @@
+---
+name: extra-pr-review
+description: "Skill: extra-pr-review"
+license: MIT
+tags: [cursor-rules]
+---
+
 # Pull Request Review
 
 Comprehensive pull request review from multiple perspectives.

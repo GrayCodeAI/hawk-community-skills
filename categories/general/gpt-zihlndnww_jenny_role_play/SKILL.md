@@ -1,3 +1,10 @@
+---
+name: gpt-zihlndnww_jenny_role_play
+description: "Skill: gpt-zihlndnww_jenny_role_play"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zIHLndnWW-jenny-role-play
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-5BUn0J0UCrqAVjlCSb4zszSo?se=2123-12-30T02%3A29%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D1703080294575.png&sig=lTBbD7x9vMm2%2BXOCiZWF9cs6TBCW8n%2Bztsy1pZoC/F0%3D" width="100px" />

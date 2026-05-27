@@ -1,3 +1,10 @@
+---
+name: tl-.nx
+description: "Skill: tl-.nx"
+license: MIT
+tags: [general]
+---
+
 # Self-Healing CI Configuration
 
 This file provides project-specific instructions to the Nx Cloud Self-Healing CI agent for the `agent-skills` monorepo.

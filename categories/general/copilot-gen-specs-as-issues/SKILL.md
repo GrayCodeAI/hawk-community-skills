@@ -1,6 +1,8 @@
 ---
-name: gen-specs-as-issues
-description: 'This workflow guides you through a systematic approach to identify missing features, prioritize them, and create detailed specifications for implementation.'
+name: copilot-gen-specs-as-issues
+description: "This workflow guides you through a systematic approach to identify missing features, prioritize them, and create detailed specifications for implementation."
+license: MIT
+tags: [general]
 ---
 
 # Product Manager Assistant: Feature Identification and Specification

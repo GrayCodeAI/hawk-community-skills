@@ -1,3 +1,10 @@
+---
+name: arb-usage
+description: "Skill: arb-usage"
+license: MIT
+tags: [general]
+---
+
 # Usage
 
 This repository ships three versions of every rule set:

@@ -1,7 +1,9 @@
 ---
-description: Base Guidelines for Sonnet-3.7 + Cursor Agent
-globs: *,**/*
-alwaysApply: true
+name: inst-rule-claude-sonnet-37
+description: "Base Guidelines for Sonnet-3.7 + Cursor Agent"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 # ---------------------------------------------------------------

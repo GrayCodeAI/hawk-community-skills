@@ -1,3 +1,10 @@
+---
+name: cpa-data-transfer
+description: "Skill: cpa-data-transfer"
+license: MIT
+tags: [general]
+---
+
 # az data-transfer
 
 ```bash

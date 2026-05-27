@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pyspark
+description: "Skill: ghcp-references-pyspark"
+license: MIT
+tags: [general]
+---
+
 ### Spark Configuration (Best Practices)
 
 ```python

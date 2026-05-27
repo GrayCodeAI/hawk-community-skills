@@ -1,3 +1,10 @@
+---
+name: ls-b6qfl4z3g_niji_muse
+description: "Skill: ls-b6qfl4z3g_niji_muse"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-B6qfl4z3g-niji-muse
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WtNjyDAdDYwUbSZqGlthzJPb?se=2124-01-20T14%3A13%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DNiji_Muse.png&sig=UJwT4dFS4cGt2zbN%2BC0Ne4RBuWToG9YEJ74FEvKIg8c%3D" width="100px" />

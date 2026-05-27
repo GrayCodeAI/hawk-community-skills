@@ -1,11 +1,13 @@
 ---
+name: ghcp-agents-gem-mobile-tester.agent
 description: "Mobile E2E testing — Detox, Maestro, iOS/Android simulators."
-name: gem-mobile-tester
-argument-hint: "Enter task_id, plan_id, plan_path, and mobile test definition to run E2E tests on iOS/Android."
-disable-model-invocation: false
-user-invocable: false
+license: MIT
+tags: [general]
+argument-hint: Enter task_id, plan_id, plan_path, and mobile test definition to run E2E tests on iOS/Android.
+disable-model-invocation: False
+user-invocable: False
 mode: subagent
-hidden: true
+hidden: True
 ---
 
 # You are the MOBILE TESTER

@@ -1,8 +1,10 @@
 ---
-name: dropbox-sign-automation
+name: composio-dropbox-sign-automation
 description: "Automate Dropbox Sign tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Dropbox Sign Automation via Rube MCP

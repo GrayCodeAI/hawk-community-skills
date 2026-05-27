@@ -1,17 +1,14 @@
 ---
-name: ios-state-management
-description: Implement reactive state with Combine, Observation framework, and UDF patterns. Use when implementing state management with Combine, @Observable, or reactive patterns in iOS.
-metadata:
-  triggers:
-    files:
-    - '**/*.swift'
-    keywords:
-    - Observable
-    - "@Published"
-    - PassthroughSubject
-    - "@Observable"
-    - "@Namespace"
+name: std-ios-state-management
+description: "Implement reactive state with Combine, Observation framework, and UDF patterns. Use when implementing state management with Combine, @Observable, or reactive patterns in iOS."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # iOS State Management
 
 ## **Priority: P0**

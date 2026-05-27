@@ -1,3 +1,10 @@
+---
+name: gpt-bgi09kogf_tigzbot
+description: "Skill: gpt-bgi09kogf_tigzbot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Bgi09kogF-tigzbot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oYRkaetVtQgeLmLztOEQ6Ayg?se=2123-10-17T20%3A59%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHigh%2520Res%2520%25285kx5k%2529%2520Logos%2520by%2520The%2520Wiser%2520Tiger%2520%25283%2529.png&sig=e9kcoGUPcHjNsJ4EI5xzMxOnn33s%2Bu34kXzUp98KcG8%3D" width="100px" />

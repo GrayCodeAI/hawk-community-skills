@@ -1,3 +1,10 @@
+---
+name: ls-4wlegsafj_stories-from-the-apple-design-team
+description: "Skill: ls-4wlegsafj_stories-from-the-apple-design-team"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-4wleGSafJ-stories-from-the-apple-design-team
 
 GPT Title: Stories from the Apple Design Team

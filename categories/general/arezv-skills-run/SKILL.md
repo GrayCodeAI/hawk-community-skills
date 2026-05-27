@@ -1,6 +1,8 @@
 ---
-name: "run"
+name: arezv-skills-run
 description: "One-shot lifecycle command that chains init → baseline → spawn → eval → merge in a single invocation."
+license: MIT
+tags: [general]
 command: /hub:run
 ---
 

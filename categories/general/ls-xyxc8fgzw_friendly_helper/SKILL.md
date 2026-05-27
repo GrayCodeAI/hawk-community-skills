@@ -1,3 +1,10 @@
+---
+name: ls-xyxc8fgzw_friendly_helper
+description: "Skill: ls-xyxc8fgzw_friendly_helper"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-xYXC8fgzW-friendly-helper
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-pChyTIXl1kcIxmStIgr2rkap?se=2123-12-19T05%3A34%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dd39212d2-fc2c-4683-a599-17241728e452.png&sig=rHVZbpfPNStlpHi0cVLMJXt4AN%2BVHiKRzPRxB5uvo04%3D" width="100px" />

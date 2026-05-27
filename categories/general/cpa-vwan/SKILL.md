@@ -1,3 +1,10 @@
+---
+name: cpa-vwan
+description: "Skill: cpa-vwan"
+license: MIT
+tags: [general]
+---
+
 # az network vwan
 
 ```bash

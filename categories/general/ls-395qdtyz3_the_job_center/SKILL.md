@@ -1,3 +1,10 @@
+---
+name: ls-395qdtyz3_the_job_center
+description: "Skill: ls-395qdtyz3_the_job_center"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-395QDtyz3-the-job-center
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-aQUZap0AbvKMfDHm82WrHRtB?se=2123-11-25T05%3A46%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D9b6d2f2f-d90e-4523-a0b9-6168dd7d6b93.png&sig=8Pppkizt0ZKtPI8UukLr8iLSkL4p7w%2BdnlWn3DT7al4%3D" width="100px" />

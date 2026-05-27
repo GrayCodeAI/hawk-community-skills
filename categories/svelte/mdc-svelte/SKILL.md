@@ -1,7 +1,10 @@
 ---
-description: Definitive guide for writing clean, performant, and maintainable Svelte 5 applications using the runes API and modern TypeScript practices.
-globs: **/*.{svelte,js,ts}
+name: mdc-svelte
+description: "Definitive guide for writing clean, performant, and maintainable Svelte 5 applications using the runes API and modern TypeScript practices."
+license: MIT
+tags: [svelte]
 ---
+
 # Svelte Best Practices (Svelte 5 + TypeScript)
 
 This guide outlines the definitive best practices for developing Svelte 5 applications with TypeScript. We prioritize explicit reactivity, strong typing, and compiler-driven performance.

@@ -1,3 +1,10 @@
+---
+name: cpa-resiliency
+description: "Skill: cpa-resiliency"
+license: MIT
+tags: [general]
+---
+
 # az containerapp resiliency
 
 ```bash

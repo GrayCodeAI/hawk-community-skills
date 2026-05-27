@@ -1,9 +1,8 @@
 ---
-name: telegram-bot-builder
-description: Expert in building Telegram bots that solve real problems - from
-  simple automation to complex AI-powered bots. Covers bot architecture, the
-  Telegram Bot API, user experience, monetization strategies, and scaling bots
-  to thousands of users.
+name: ag-telegram-bot-builder
+description: "Expert in building Telegram bots that solve real problems - from"
+license: MIT
+tags: [general]
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)
 date_added: 2026-02-27

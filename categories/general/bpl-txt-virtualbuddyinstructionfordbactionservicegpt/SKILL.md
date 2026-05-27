@@ -1,9 +1,10 @@
 ---
-name: bpl-virtualbuddyinstructionfordbactionservicegpt
-description: System prompt - virtualbuddyinstructionfordbactionservicegpt
-domain: general
+name: bpl-txt-virtualbuddyinstructionfordbactionservicegpt
+description: "System prompt - virtualbuddyinstructionfordbactionservicegpt"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

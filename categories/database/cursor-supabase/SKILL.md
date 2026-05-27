@@ -1,16 +1,11 @@
 ---
 name: cursor-supabase
-description: Cursor IDE rules for supabase
-domain: engineering
+description: "Cursor IDE rules for supabase"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Supabase: RLS, edge functions, realtime"
-globs: ["*.sql", "*.ts"]
-alwaysApply: true
 ---
 
 # Supabase Cursor Rules

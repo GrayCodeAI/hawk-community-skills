@@ -1,3 +1,10 @@
+---
+name: ls-fpif8jp2z_latest_beauty__makeup_innovations
+description: "Skill: ls-fpif8jp2z_latest_beauty__makeup_innovations"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FpIF8jp2z-latest-beauty-makeup-innovations
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-nq7CSYsKzxFChZlRD2BE34oN?se=2123-11-24T11%3A06%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D82f7cf2f-7be3-447e-8283-67db39723110.png&sig=/lshT2bnyDSiaB5xSE4p8/NH4Kdo9Xb8ZsEHaHDR58E%3D" width="100px" />

@@ -1,8 +1,10 @@
 ---
-name: docsbot-ai-automation
+name: composio-docsbot-ai-automation
 description: "Automate Docsbot AI tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Docsbot AI Automation via Rube MCP

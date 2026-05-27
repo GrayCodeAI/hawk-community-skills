@@ -1,3 +1,11 @@
+---
+name: ls-snw330qdg_xhs-writer---mary
+description: 'Skill: ls-snw330qdg_xhs-writer---mary'
+license: MIT
+tags:
+- general
+---
+
 GPT URL: https://chat.openai.com/g/g-snw330qdg-xhs-writer-mary
 
 GPT Title: Xhs Writer: Mary

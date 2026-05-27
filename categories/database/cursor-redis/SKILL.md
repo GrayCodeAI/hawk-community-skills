@@ -1,16 +1,11 @@
 ---
 name: cursor-redis
-description: Cursor IDE rules for redis
-domain: engineering
+description: "Cursor IDE rules for redis"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Redis: data structures, caching patterns, pub/sub"
-globs: ["*.ts", "*.py", "*.conf"]
-alwaysApply: true
 ---
 
 # Redis Cursor Rules

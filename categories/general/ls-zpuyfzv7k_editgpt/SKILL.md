@@ -1,3 +1,10 @@
+---
+name: ls-zpuyfzv7k_editgpt
+description: "Skill: ls-zpuyfzv7k_editgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zpuYfzV7k-editgpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rtnaGVkL7cbKKvFKj4W3IIma?se=2123-10-19T16%3A47%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dandroid-chrome-192x192.png&sig=8IBMna9myk44fzf873z/OFp9oS8kflbVjN9T/xwRvw8%3D" width="100px" />

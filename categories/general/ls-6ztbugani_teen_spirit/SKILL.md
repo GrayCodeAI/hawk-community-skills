@@ -1,3 +1,10 @@
+---
+name: ls-6ztbugani_teen_spirit
+description: "Skill: ls-6ztbugani_teen_spirit"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6ZtBUGAni-teen-spirit
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-x4Sosd8JbFHN8169cDl5ZK8I?se=2124-01-09T18%3A03%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D371e6a6c-a83a-4d6a-bc63-0928c72139e5.png&sig=y3QlbIb1qcBl17KVS8IDIJEDQEI3sddOtG5MYnN9VeI%3D" width="100px" />

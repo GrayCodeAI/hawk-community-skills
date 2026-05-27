@@ -1,3 +1,10 @@
+---
+name: gpt-9m2tb3qjm_crack_me
+description: "Skill: gpt-9m2tb3qjm_crack_me"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-9M2tb3qjm-crack-me
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-hUKReCPIzySw9fQXwaiQC5ML?se=2123-10-19T14%3A40%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcc06b699-9140-4336-8762-6cb6d922d41f.png&sig=%2BSpL9Qbe5GY7tekqFDRBdeNIsozHcoMLHIFZS7xkVaY%3D" width="100px" />

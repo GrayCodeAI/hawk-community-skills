@@ -1,3 +1,10 @@
+---
+name: ghcp-references-excalidraw-schema
+description: "Skill: ghcp-references-excalidraw-schema"
+license: MIT
+tags: [general]
+---
+
 # Excalidraw JSON Schema Reference
 
 This document describes the structure of Excalidraw `.excalidraw` files for diagram generation.

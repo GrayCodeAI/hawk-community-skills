@@ -1,13 +1,14 @@
 ---
 name: analyzing-typosquatting-domains-with-dnstwist
-description: Detect typosquatting, homograph phishing, and brand impersonation domains using dnstwist to generate domain permutations and identify registered lookalike domains targeting your organization.
+description: "Detect typosquatting, homograph phishing, and brand impersonation domains using dnstwist to generate domain permutations and identify registered lookalike domains targeting your organization."
+license: MIT
+tags: [dnstwist, typosquatting, phishing, domain-monitoring, brand-protection, homograph, dns, threat-intelligence]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [dnstwist, typosquatting, phishing, domain-monitoring, brand-protection, homograph, dns, threat-intelligence]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Analyzing Typosquatting Domains with DNSTwist
 
 ## Overview

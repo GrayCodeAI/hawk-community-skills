@@ -1,6 +1,8 @@
 ---
-name: "AgentDB Vector Search"
-description: "Implement semantic vector search with AgentDB for intelligent document retrieval, similarity matching, and context-aware querying. Use when building RAG systems, semantic search engines, or intelligent knowledge bases."
+name: flow-agentdb-vector-search
+description: "Implement semantic vector search with AgentDB for intelligent document retrieval, similarity matching, and context-aware querying. Use when building RAG systems, semantic search engines, or intelli..."
+license: MIT
+tags: [general]
 ---
 
 # AgentDB Vector Search

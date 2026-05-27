@@ -1,9 +1,10 @@
 ---
-name: bpl-part2
-description: System prompt - part2
-domain: general
+name: bpl-txt-part2
+description: "System prompt - part2"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 
@@ -77,4 +78,3 @@ Link it to your site
 Build a blog using https://ghost.org/
 Host with ghost and use a template, or customize the template in handlebars, or run it as a headless cms and build your own.
 Use browser tool to look up documentation here: https://ghost.org/docs/
- 

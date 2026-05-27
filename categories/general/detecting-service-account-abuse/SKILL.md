@@ -1,12 +1,12 @@
 ---
 name: detecting-service-account-abuse
-description: Detect abuse of service accounts through anomalous interactive logons, privilege escalation, lateral movement, and unauthorized access patterns.
+description: "Detect abuse of service accounts through anomalous interactive logons, privilege escalation, lateral movement, and unauthorized access patterns."
+license: MIT
+tags: [threat-hunting, mitre-attack, service-accounts, privilege-escalation, t1078, proactive-detection]
 domain: cybersecurity
 subdomain: threat-hunting
-tags: [threat-hunting, mitre-attack, service-accounts, privilege-escalation, t1078, proactive-detection]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting Service Account Abuse

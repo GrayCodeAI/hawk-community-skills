@@ -1,21 +1,11 @@
 ---
-name: browser
-description: Web browser automation with AI-optimized snapshots for claude-flow agents
+name: flow-browser
+description: "Web browser automation with AI-optimized snapshots for claude-flow agents"
+license: MIT
+tags: [general]
 version: 1.0.0
-triggers:
-  - /browser
-  - browse
-  - web automation
-  - scrape
-  - navigate
-  - screenshot
-tools:
-  - browser/open
-  - browser/snapshot
-  - browser/click
-  - browser/fill
-  - browser/screenshot
-  - browser/close
+triggers: None
+tools: None
 ---
 
 # Browser Automation Skill

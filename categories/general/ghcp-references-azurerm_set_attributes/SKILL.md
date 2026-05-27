@@ -1,3 +1,10 @@
+---
+name: ghcp-references-azurerm_set_attributes
+description: "Skill: ghcp-references-azurerm_set_attributes"
+license: MIT
+tags: [general]
+---
+
 # AzureRM Set-Type Attributes Reference
 
 This document explains the overview and maintenance of `azurerm_set_attributes.json`.

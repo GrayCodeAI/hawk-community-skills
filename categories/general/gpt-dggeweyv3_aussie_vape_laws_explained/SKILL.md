@@ -1,3 +1,10 @@
+---
+name: gpt-dggeweyv3_aussie_vape_laws_explained
+description: "Skill: gpt-dggeweyv3_aussie_vape_laws_explained"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-dggeWeyv3-aussie-vape-laws-explained
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2cAi5joJkwebCGObW52LR5rg?se=2124-01-19T04%3A47%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcfb6278c-a18b-4906-b5a0-137bc99fb71b.png&sig=KM2BnlJmzUK%2BftRR/Y1aqDOG7uTo4nuSrgH/0lfKYQY%3D" width="100px" />

@@ -1,9 +1,10 @@
 ---
 name: cr-next-type-llm
-description: Cursor rules for next-type-llm
-domain: engineering
+description: "Cursor rules for next-type-llm"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -108,4 +109,3 @@ Next Task: NOT finished=short description of next task FINISHED=list EXPERT SPEC
 ### Author
 
 dlje
-

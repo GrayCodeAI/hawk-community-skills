@@ -1,7 +1,10 @@
 ---
-description: Applies general Ruby coding style, structure, and best practices for DragonRuby projects.
-globs: **/*.rb
+name: mdc-dragonruby-general-ruby-rules
+description: "Applies general Ruby coding style, structure, and best practices for DragonRuby projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Write concise, idiomatic Ruby code with accurate examples.
 - Follow Ruby and DragonRuby conventions and best practices.
 - Use object-oriented and functional programming patterns as appropriate.

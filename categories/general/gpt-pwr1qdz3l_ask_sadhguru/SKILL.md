@@ -1,3 +1,10 @@
+---
+name: gpt-pwr1qdz3l_ask_sadhguru
+description: "Skill: gpt-pwr1qdz3l_ask_sadhguru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PWr1QDz3L-ask-sadhguru
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-DUFUYP1U07dX7re48KvX8Q6o?se=2123-11-03T06%3A01%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0618a0bf-6569-4df7-be01-f5c640f8c770.png&sig=n25BitOY2VGzoS4csxsR1e1owsnyI9ee63AJA9qdEss%3D" width="100px" />

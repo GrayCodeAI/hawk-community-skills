@@ -1,21 +1,14 @@
 ---
-name: android-security
-description: Secure data encryption, network configuration, and permissions in Android apps. Use when handling API keys, auth tokens, certificate pinning, EncryptedSharedPreferences, or securing exported components.
-metadata:
-  triggers:
-    files:
-    - 'network_security_config.xml'
-    - 'AndroidManifest.xml'
-    keywords:
-    - EncryptedSharedPreferences
-    - cleartextTrafficPermitted
-    - intent-filter
-    - api key
-    - token storage
-    - certificate pinning
-    - root detection
-    - secure storage
+name: std-android-security
+description: "Secure data encryption, network configuration, and permissions in Android apps. Use when handling API keys, auth tokens, certificate pinning, EncryptedSharedPreferences, or securing exported compon..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Android Security Standards
 
 ## **Priority: P0 (CRITICAL)**

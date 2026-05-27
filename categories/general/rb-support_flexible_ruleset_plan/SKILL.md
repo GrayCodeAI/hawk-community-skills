@@ -1,3 +1,10 @@
+---
+name: rb-support_flexible_ruleset_plan
+description: "Skill: rb-support_flexible_ruleset_plan"
+license: MIT
+tags: [general]
+---
+
 # Implementation Plan: Composable AI Packs
 
 This document provides the canonical implementation plan for refactoring `rulebook-ai` to a composable "Pack" model. It combines the high-level architectural vision with a detailed, phased roadmap for developers.

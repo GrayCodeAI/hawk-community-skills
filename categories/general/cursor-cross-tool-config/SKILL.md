@@ -1,15 +1,11 @@
 ---
 name: cursor-cross-tool-config
-description: Cursor IDE rules for cross-tool-config
-domain: engineering
+description: "Cursor IDE rules for cross-tool-config"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Cross-tool AI config: what transfers between Cursor, Claude Code, Copilot, Windsurf, Gemini, and Codex"
-alwaysApply: false
 ---
 
 # Cross-Tool AI Configuration

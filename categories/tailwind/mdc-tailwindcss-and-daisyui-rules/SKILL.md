@@ -1,7 +1,10 @@
 ---
-description: Rules for utilizing TailwindCSS and DaisyUI within React components.
-globs: **/*.tsx
+name: mdc-tailwindcss-and-daisyui-rules
+description: "Rules for utilizing TailwindCSS and DaisyUI within React components."
+license: MIT
+tags: [tailwind]
 ---
+
 - Use TailwindCSS utility classes for styling
 - Avoid custom CSS unless absolutely necessary
 - Maintain consistent order of utility classes

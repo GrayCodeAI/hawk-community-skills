@@ -1,7 +1,10 @@
 ---
-description: Enforces a specific project structure for SwiftUI projects with main files, views, shared components, models, view models, services, utilities, resources and tests.
-globs: Sources/**/*
+name: mdc-swiftui-project-structure-rules
+description: "Enforces a specific project structure for SwiftUI projects with main files, views, shared components, models, view models, services, utilities, resources and tests."
+license: MIT
+tags: [mobile]
 ---
+
 - Enforce the following SwiftUI project structure:
   - The main folder contains a "Sources" folder with:
     - "App" for main files

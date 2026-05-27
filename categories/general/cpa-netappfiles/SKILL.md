@@ -1,3 +1,10 @@
+---
+name: cpa-netappfiles
+description: "Skill: cpa-netappfiles"
+license: MIT
+tags: [general]
+---
+
 # az netappfiles
 
 ```bash

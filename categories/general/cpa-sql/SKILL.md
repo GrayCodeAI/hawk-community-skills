@@ -1,3 +1,10 @@
+---
+name: cpa-sql
+description: "Skill: cpa-sql"
+license: MIT
+tags: [general]
+---
+
 # az sql
 
 ```bash

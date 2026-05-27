@@ -1,6 +1,9 @@
 ---
-applyTo: 'wp-content/plugins/**,wp-content/themes/**,**/*.php,**/*.inc,**/*.js,**/*.jsx,**/*.ts,**/*.tsx,**/*.css,**/*.scss,**/*.json'
-description: 'Coding, security, and testing rules for WordPress plugins and themes'
+name: ghcp-instructions-wordpress.instructions
+description: "Coding, security, and testing rules for WordPress plugins and themes"
+license: MIT
+tags: [general]
+applyTo: wp-content/plugins/**,wp-content/themes/**,**/*.php,**/*.inc,**/*.js,**/*.jsx,**/*.ts,**/*.tsx,**/*.css,**/*.scss,**/*.json
 ---
 
 # WordPress Development — Copilot Instructions

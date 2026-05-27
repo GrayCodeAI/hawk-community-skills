@@ -1,3 +1,10 @@
+---
+name: cpa-cache
+description: "Skill: cpa-cache"
+license: MIT
+tags: [general]
+---
+
 # az cache
 
 ```bash

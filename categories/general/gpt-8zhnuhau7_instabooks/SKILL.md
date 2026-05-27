@@ -1,3 +1,10 @@
+---
+name: gpt-8zhnuhau7_instabooks
+description: "Skill: gpt-8zhnuhau7_instabooks"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-8ZHnUHAU7-instabooks/
 
 GPT Title: Instabooks

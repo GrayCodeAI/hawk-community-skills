@@ -1,3 +1,10 @@
+---
+name: cpa-vpn-server-config
+description: "Skill: cpa-vpn-server-config"
+license: MIT
+tags: [general]
+---
+
 # az network vpn-server-config
 
 ```bash

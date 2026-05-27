@@ -1,3 +1,10 @@
+---
+name: ls-pgktzdcfk_buffett-munger-investing-mentor
+description: "Skill: ls-pgktzdcfk_buffett-munger-investing-mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-PgKTZDCfK-buffett-munger-investing-mentor
 
 GPT Title: Buffett Munger Investing Mentor

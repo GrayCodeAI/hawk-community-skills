@@ -1,9 +1,11 @@
 ---
-name: idea-darwin
+name: ag-idea-darwin
 description: "Darwinian idea evolution engine — toss rough ideas onto an evolution island, let them compete, crossbreed, and mutate through structured rounds to surface your strongest concepts."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-04-07"
+date_added: 2026-04-07
 ---
 
 # Idea Darwin Engine

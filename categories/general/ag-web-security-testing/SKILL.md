@@ -1,10 +1,12 @@
 ---
-name: web-security-testing
+name: ag-web-security-testing
 description: "Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues."
+license: MIT
+tags: [general]
 category: granular-workflow-bundle
 risk: safe
 source: personal
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Web Security Testing Workflow

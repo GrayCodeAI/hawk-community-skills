@@ -1,3 +1,10 @@
+---
+name: ghcp-references-assertj-basics
+description: "Skill: ghcp-references-assertj-basics"
+license: MIT
+tags: [general]
+---
+
 # AssertJ Basics
 
 Fluent assertions for readable, maintainable tests.

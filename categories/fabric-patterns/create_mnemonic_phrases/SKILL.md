@@ -1,9 +1,10 @@
 ---
 name: create_mnemonic_phrases
-description: Fabric pattern - create_mnemonic_phrases
-domain: general
+description: "Fabric pattern - create_mnemonic_phrases"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 
@@ -70,7 +71,3 @@ Ignore any decimal numbers and use only the words, in the exact order and spelli
 
 
 # INPUT
-
-
-
-

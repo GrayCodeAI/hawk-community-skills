@@ -1,8 +1,10 @@
 ---
-name: memberstack-automation
+name: composio-memberstack-automation
 description: "Automate Memberstack tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Memberstack Automation via Rube MCP

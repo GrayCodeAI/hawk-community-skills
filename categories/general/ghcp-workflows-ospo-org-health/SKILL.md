@@ -1,45 +1,33 @@
 ---
-name: 'OSPO Organization Health Report'
-description: 'Comprehensive weekly health report for a GitHub organization. Surfaces stale issues/PRs, merge time analysis, contributor leaderboards, and actionable items needing human attention.'
-labels: ['ospo', 'reporting', 'org-health']
-on:
-  schedule:
-    - cron: "0 10 * * 1"
-  workflow_dispatch:
-    inputs:
-      organization:
-        description: "GitHub organization to report on"
-        type: string
-        required: true
-
-permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-  actions: read
-
+name: ghcp-workflows-ospo-org-health
+description: "GitHub organization to report on"
+license: MIT
+tags: [general]
+labels: [ospo, reporting, org-health]
+True: None
+schedule: [{'cron': '0 10 * * 1'}]
+workflow_dispatch: None
+inputs: None
+organization: None
+type: string
+required: True
+permissions: None
+contents: read
+issues: read
+pull-requests: read
+actions: read
 engine: copilot
-
-tools:
-  github:
-    toolsets:
-      - repos
-      - issues
-      - pull_requests
-      - orgs
-  bash: true
-
-safe-outputs:
-  create-issue:
-    max: 1
-    title-prefix: "[Org Health] "
-
+tools: None
+github: None
+toolsets: None
+bash: True
+safe-outputs: None
+create-issue: None
+max: 1
+title-prefix: [Org Health]
 timeout-minutes: 60
-
-network:
-  allowed:
-    - defaults
-    - python
+network: None
+allowed: None
 ---
 
 You are an expert GitHub organization analyst. Your job is to produce a

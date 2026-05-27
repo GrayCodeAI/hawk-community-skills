@@ -1,3 +1,10 @@
+---
+name: ghcp-references-brainstorm-format
+description: "Skill: ghcp-references-brainstorm-format"
+license: MIT
+tags: [general]
+---
+
 # Brainstorm Format
 
 Use this format to produce real creative debate — not generic "the team agrees" output. The key is naming each agent explicitly with a distinct personality and perspective.

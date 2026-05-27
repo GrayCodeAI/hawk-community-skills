@@ -1,7 +1,9 @@
 ---
-name: vector-hyperbolic
-description: Embed hierarchical data via npx ruvector@0.2.25 embed text and project into the Poincare ball in user code (no --model poincare flag in 0.2.25)
-argument-hint: "<text> [--model poincare]"
+name: flow-vector-hyperbolic
+description: "Embed hierarchical data via npx ruvector@0.2.25 embed text and project into the Poincare ball in user code (no --model poincare flag in 0.2.25)"
+license: MIT
+tags: [general]
+argument-hint: <text> [--model poincare]
 allowed-tools: Bash Read mcp__claude-flow__memory_store mcp__claude-flow__memory_search
 ---
 

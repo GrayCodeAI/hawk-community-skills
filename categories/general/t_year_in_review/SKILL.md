@@ -1,9 +1,10 @@
 ---
 name: t_year_in_review
-description: Fabric pattern - t_year_in_review
-domain: general
+description: "Fabric pattern - t_year_in_review"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

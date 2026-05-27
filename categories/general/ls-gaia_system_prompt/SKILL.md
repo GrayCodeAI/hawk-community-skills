@@ -1,3 +1,10 @@
+---
+name: ls-gaia_system_prompt
+description: "Skill: ls-gaia_system_prompt"
+license: MIT
+tags: [general]
+---
+
 from datetime import datetime
 import platform
 

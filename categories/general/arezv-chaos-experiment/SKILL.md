@@ -1,5 +1,8 @@
 ---
-description: Interactive wizard to design and validate a chaos engineering experiment
+name: arezv-chaos-experiment
+description: "Interactive wizard to design and validate a chaos engineering experiment"
+license: MIT
+tags: [general]
 ---
 
 # /chaos-experiment

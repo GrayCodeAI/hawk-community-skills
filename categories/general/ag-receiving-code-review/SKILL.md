@@ -1,9 +1,11 @@
 ---
-name: receiving-code-review
+name: ag-receiving-code-review
 description: "Code review requires technical evaluation, not emotional performance."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Code Review Reception

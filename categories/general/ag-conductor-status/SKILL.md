@@ -1,9 +1,11 @@
 ---
-name: conductor-status
+name: ag-conductor-status
 description: "Display project status, active tracks, and next actions"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Conductor Status

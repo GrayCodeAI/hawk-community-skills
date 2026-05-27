@@ -1,17 +1,13 @@
 ---
 name: cursor-nextauth
-description: Cursor IDE rules for nextauth
-domain: engineering
+description: "Cursor IDE rules for nextauth"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
 ---
 
----
-description: NextAuth.js/Auth.js configuration, session handling, and route protection
-globs: **/auth/**,**/api/auth/**
-alwaysApply: false
----
 # NextAuth.js / Auth.js Rules
 
 ## Configuration

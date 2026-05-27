@@ -1,8 +1,8 @@
 ---
-name: "report"
-description: >-
-  Generate test report. Use when user says "test report", "results summary",
-  "test status", "show results", "test dashboard", or "how did tests go".
+name: arezv-report
+description: "Skill: arezv-report"
+license: MIT
+tags: [general]
 ---
 
 # Smart Test Reporting

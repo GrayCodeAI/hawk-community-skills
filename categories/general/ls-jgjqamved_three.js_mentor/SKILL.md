@@ -1,3 +1,10 @@
+---
+name: ls-jgjqamved_three.js_mentor
+description: "Skill: ls-jgjqamved_three.js_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jGjqAMvED-three-js-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-uYWeFQuwDjVYwO1LgjleNaP8?se=2124-01-02T06%3A23%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DlgTEVmRi_400x400.jpg&sig=gW1%2BGOa3Li/d8TNUQb/ALgLHveUG/2GCl0axosuUf1k%3D" width="100px" />

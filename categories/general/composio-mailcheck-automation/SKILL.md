@@ -1,8 +1,10 @@
 ---
-name: mailcheck-automation
+name: composio-mailcheck-automation
 description: "Automate Mailcheck tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Mailcheck Automation via Rube MCP

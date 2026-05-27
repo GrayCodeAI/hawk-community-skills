@@ -1,3 +1,10 @@
+---
+name: gpt-l11kssmuy_lingoread_pro
+description: "Skill: gpt-l11kssmuy_lingoread_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-l11kSSMuy-lingoread-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-rEkg9DnWRvbbDIvYmJP55ivz?se=2124-01-13T19%3A34%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-06%252014.34.25%2520-%2520Create%2520a%2520logo%2520for%2520an%2520educational%2520app%2520named%2520LingoRead%2520Pro.%2520The%2520logo%2520should%2520embody%2520the%2520essence%2520of%2520language%2520learning%2520and%2520reading%2520enhancement.%2520It%2520should%2520f.webp&sig=qOXnGQzs9A7s2l7YSWjeWMgdnya8OQA5snJnHAWasJg%3D" width="100px" />

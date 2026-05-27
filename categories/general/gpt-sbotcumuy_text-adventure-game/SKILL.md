@@ -1,3 +1,10 @@
+---
+name: gpt-sbotcumuy_text-adventure-game
+description: "Skill: gpt-sbotcumuy_text-adventure-game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-sBOtcuMuy-text-adventure-game
 
 GPT Title: Text Adventure Game

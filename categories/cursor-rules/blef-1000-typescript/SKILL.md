@@ -1,7 +1,9 @@
 ---
-description: Enforce strict typing when coding to ensure reliable TypeScript usage
-globs: *.ts
-alwaysApply: false
+name: blef-1000-typescript
+description: "Enforce strict typing when coding to ensure reliable TypeScript usage"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # TypeScript Rules

@@ -1,17 +1,8 @@
 ---
-name: phpunit-skill
-description: >
-  Generates PHPUnit tests in PHP. Covers assertions, data providers, mocking,
-  and test doubles. Use when user mentions "PHPUnit", "TestCase", "assertEquals",
-  "PHP test". Triggers on: "PHPUnit", "TestCase PHP", "assertEquals PHP",
-  "PHP unit test".
-languages:
-  - PHP
-category: unit-testing
+name: lt-phpunit-skill
+description: "Skill: lt-phpunit-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # PHPUnit Testing Skill

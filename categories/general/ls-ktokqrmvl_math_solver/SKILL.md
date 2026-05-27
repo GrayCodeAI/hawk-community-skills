@@ -1,3 +1,10 @@
+---
+name: ls-ktokqrmvl_math_solver
+description: "Skill: ls-ktokqrmvl_math_solver"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ktOkQRmvl-math-solver
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-anFeylhbsoIDhknAFuDirJWV?se=2123-10-25T10%3A10%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D09c2af62-b8bc-43cc-a8f9-23317ada2c21.png&sig=rCdmtt6E93yI5WTXiFOxb5W85bMj/1jadUarU2nY/M8%3D" width="100px" />

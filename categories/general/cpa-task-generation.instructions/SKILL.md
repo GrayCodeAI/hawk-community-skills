@@ -1,6 +1,8 @@
 ---
-description: Convert Product Requirements Documents (PRDs) into actionable development tasks with clear dependencies
-applyTo: "**/*.md"
+name: cpa-task-generation.instructions
+description: "Skill: cpa-task-generation.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Task Generation from PRD Workflow

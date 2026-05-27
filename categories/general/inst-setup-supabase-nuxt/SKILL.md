@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Nuxt apps with Supabase Authentication
-globs: "**/*.ts, **/*.vue"
+name: inst-setup-supabase-nuxt
+description: "Guidelines for writing Nuxt apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Nuxt App with Supabase Authentication
@@ -313,4 +315,4 @@ export function handleAuthError(error: any) {
   console.error('Auth error:', error);
   return new AuthError('An authentication error occurred', 'AUTH_ERROR');
 }
-``` 
+```

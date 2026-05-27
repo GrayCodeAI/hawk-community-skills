@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Svelte apps with Supabase Authentication
-globs: **/*.ts, **/*.js, **/*.svelte
+name: inst-setup-supabase-svelte
+description: "Guidelines for writing Svelte apps with Supabase Authentication"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Svelte app with Supabase Authentication
@@ -270,4 +272,4 @@ When implementing Supabase in Svelte, you MUST:
 2. Implement proper error handling
 3. Use TypeScript when possible
 4. Protect sensitive routes
-5. Handle authentication state properly 
+5. Handle authentication state properly

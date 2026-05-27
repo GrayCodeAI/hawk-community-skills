@@ -1,9 +1,10 @@
 ---
 name: cr-react-chakra-ui
-description: Cursor rules for react-chakra-ui
-domain: engineering
+description: "Cursor rules for react-chakra-ui"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -48,4 +49,3 @@ const additionalInstructions = `
 6. Use Chakra UI's layout components for responsive design
 7. Follow Chakra UI best practices for performance optimization
 `;
-

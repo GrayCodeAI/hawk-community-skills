@@ -1,3 +1,10 @@
+---
+name: gpt-bo0fiwly7_researchgpt
+description: "Skill: gpt-bo0fiwly7_researchgpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bo0FiWLY7-researchgpt
 
 GPT Title: ResearchGPT

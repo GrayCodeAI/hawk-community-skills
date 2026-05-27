@@ -1,3 +1,10 @@
+---
+name: gpt-zsatdnrzt_faith_explorer
+description: "Skill: gpt-zsatdnrzt_faith_explorer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZSATDnrzt-faith-explorer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2DWlK24YKXvhlikATQ9ZBIRw?se=2124-01-14T23%3A33%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dc035e516-d22e-4400-b1cb-3177ac33edcc.png&sig=omFv7ebkcCfBHQt0RJp2aCckOwtmftEFNJ3jfDPFgMg%3D" width="100px" />

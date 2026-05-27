@@ -1,3 +1,10 @@
+---
+name: cpa-arc
+description: "Skill: cpa-arc"
+license: MIT
+tags: [general]
+---
+
 # az containerapp arc
 
 ```bash

@@ -1,16 +1,11 @@
 ---
 name: cursor-swr
-description: Cursor IDE rules for swr
-domain: engineering
+description: "Cursor IDE rules for swr"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "SWR: data fetching, revalidation, mutation patterns"
-globs: ["*.ts", "*.tsx"]
-alwaysApply: true
 ---
 
 # SWR Cursor Rules

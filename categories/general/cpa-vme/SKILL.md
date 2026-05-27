@@ -1,3 +1,10 @@
+---
+name: cpa-vme
+description: "Skill: cpa-vme"
+license: MIT
+tags: [general]
+---
+
 # az vme
 
 ```bash

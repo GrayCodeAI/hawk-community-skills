@@ -1,9 +1,10 @@
 ---
 name: cr-angular-typescript
-description: Cursor rules for angular-typescript
-domain: engineering
+description: "Cursor rules for angular-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -42,4 +43,3 @@ when refactoring existing code, keep jsdoc comments intact
 be concise and minimize extraneous prose.
 
 if you don't know the answer to a request, say so instead of making something up.
-

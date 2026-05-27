@@ -1,12 +1,12 @@
 ---
 name: implementing-file-integrity-monitoring-with-aide
-description: Configure AIDE (Advanced Intrusion Detection Environment) for file integrity monitoring including baseline creation, scheduled integrity checks, change detection, and alerting
+description: "Configure AIDE (Advanced Intrusion Detection Environment) for file integrity monitoring including baseline creation, scheduled integrity checks, change detection, and alerting"
+license: MIT
+tags: [aide, file-integrity, hids, baseline, intrusion-detection, compliance, linux-security]
 domain: cybersecurity
 subdomain: endpoint-security
-tags: [aide, file-integrity, hids, baseline, intrusion-detection, compliance, linux-security]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing File Integrity Monitoring with AIDE

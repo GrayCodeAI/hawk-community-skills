@@ -1,3 +1,10 @@
+---
+name: gpt-wfkfsza41_best_long-form_ai_writing_tool_by_alex_k
+description: "Skill: gpt-wfkfsza41_best_long-form_ai_writing_tool_by_alex_k"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wFKFszA41-best-long-form-ai-writing-tool-by-alex-kosch
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-tZ8crQUZSN6u80Fzu03Ick9H?se=2124-01-20T17%3A36%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D52c2d40e-464b-41a9-bb6f-5c7f90f054ce.png&sig=UfySvdhgZdwqzndvYhD%2BFoKqdHZd9yqw5JiXFFbx30c%3D" width="100px" />

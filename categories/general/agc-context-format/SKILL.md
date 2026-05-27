@@ -1,3 +1,10 @@
+---
+name: agc-context-format
+description: "Skill: agc-context-format"
+license: MIT
+tags: [general]
+---
+
 # CONTEXT.md Format
 
 ## Structure

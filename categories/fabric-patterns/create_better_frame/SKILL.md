@@ -1,9 +1,10 @@
 ---
 name: create_better_frame
-description: Fabric pattern - create_better_frame
-domain: general
+description: "Fabric pattern - create_better_frame"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

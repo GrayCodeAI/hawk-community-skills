@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for building robust, performant, and maintainable AI agents using smolagents, focusing on practical patterns and avoiding common pitfalls.
-globs: **/*.py
+name: mdc-smolagents
+description: "Definitive guidelines for building robust, performant, and maintainable AI agents using smolagents, focusing on practical patterns and avoiding common pitfalls."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # smolagents Best Practices
 
 This guide outlines the definitive best practices for developing `smolagents` applications. Adhering to these principles ensures your agents are reliable, efficient, and easy to maintain.

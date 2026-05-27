@@ -1,3 +1,10 @@
+---
+name: rb-tasks_plan_template
+description: "Skill: rb-tasks_plan_template"
+license: MIT
+tags: [general]
+---
+
 # Task Backlog and Project Progress Tracker Template
 
 ## Backlog:

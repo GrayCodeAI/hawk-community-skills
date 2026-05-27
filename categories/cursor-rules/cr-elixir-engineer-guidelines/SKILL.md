@@ -1,9 +1,10 @@
 ---
 name: cr-elixir-engineer-guidelines
-description: Cursor rules for elixir-engineer-guidelines
-domain: engineering
+description: "Cursor rules for elixir-engineer-guidelines"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -29,4 +30,3 @@ description: A brief summary of the change in present tense.
 body (optional): A more detailed explanation of the change.
 
 footer (optional): One or more footers in the following format:
-

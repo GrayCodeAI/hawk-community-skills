@@ -1,8 +1,10 @@
 ---
-name: fixer-automation
+name: composio-fixer-automation
 description: "Automate Fixer tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Fixer Automation via Rube MCP

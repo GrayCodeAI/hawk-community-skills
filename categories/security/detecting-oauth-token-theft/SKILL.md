@@ -1,15 +1,12 @@
 ---
 name: detecting-oauth-token-theft
-description: >
-  Detect OAuth access token theft and misuse by analyzing sign-in logs for
-  impossible travel, new device patterns, token replay from unusual IPs,
-  and anomalous scope requests via Microsoft Graph and Okta APIs.
+description: "Detect OAuth access token theft and misuse by analyzing sign-in logs for impossible travel, new device patterns, token replay from unusual IPs, and anomalous scope requests via Microsoft Graph and ..."
+license: MIT
+tags: [oauth, token-theft, identity-attacks, impossible-travel]
 domain: cybersecurity
 subdomain: identity-security
-tags: [oauth, token-theft, identity-attacks, impossible-travel]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Detecting OAuth Token Theft

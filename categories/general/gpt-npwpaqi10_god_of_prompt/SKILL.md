@@ -1,3 +1,10 @@
+---
+name: gpt-npwpaqi10_god_of_prompt
+description: "Skill: gpt-npwpaqi10_god_of_prompt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-nPwpAqi10-god-of-prompt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-GejzLXqVMN1JfEOpUE0eyWGD?se=2124-01-23T10%3A21%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DLogo_dark_no%2520glow.png&sig=oZ2V2sxC/EbaFuYSnM2nAejTjfOup9a7GZIYWV/SxrE%3D" width="100px" />

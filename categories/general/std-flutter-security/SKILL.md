@@ -1,18 +1,12 @@
 ---
-name: flutter-security
-description: Enforce OWASP Mobile security standards for Flutter apps. Use when storing sensitive data, making network calls, handling tokens/PII, or preparing release builds.
-metadata:
-  triggers:
-    files:
-    - 'lib/infrastructure/**'
-    - 'pubspec.yaml'
-    keywords:
-    - secure_storage
-    - obfuscate
-    - jailbreak
-    - pinning
-    - PII
-    - OWASP
+name: std-flutter-security
+description: "Enforce OWASP Mobile security standards for Flutter apps. Use when storing sensitive data, making network calls, handling tokens/PII, or preparing release builds."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
 
 # Mobile Security

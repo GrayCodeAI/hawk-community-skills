@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive, opinionated best practices for using Drizzle ORM to build robust, type-safe, and performant database applications in TypeScript.
-globs: **/*.{ts,js}
+name: mdc-drizzle
+description: "This guide provides definitive, opinionated best practices for using Drizzle ORM to build robust, type-safe, and performant database applications in TypeScript."
+license: MIT
+tags: [database]
 ---
+
 # Drizzle ORM Best Practices
 
 Drizzle ORM is our go-to for type-safe SQL. Follow these guidelines religiously to ensure maintainable, performant, and secure database interactions.

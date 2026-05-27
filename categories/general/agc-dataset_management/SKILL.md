@@ -1,3 +1,10 @@
+---
+name: agc-dataset_management
+description: "Skill: agc-dataset_management"
+license: MIT
+tags: [general]
+---
+
 # DeepEval Dataset Management Implementation Guide
 
 ## Overview

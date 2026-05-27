@@ -1,3 +1,10 @@
+---
+name: cpa-support
+description: "Skill: cpa-support"
+license: MIT
+tags: [general]
+---
+
 # az support
 
 ```bash

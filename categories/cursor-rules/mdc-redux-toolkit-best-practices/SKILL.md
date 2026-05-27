@@ -1,7 +1,10 @@
 ---
-description: Applies Redux Toolkit best practices for efficient Redux development.
-globs: src/store/**/*.ts
+name: mdc-redux-toolkit-best-practices
+description: "Applies Redux Toolkit best practices for efficient Redux development."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use Redux Toolkit for efficient Redux development.
 - Implement slice pattern for organizing Redux code.
 - Utilize createAsyncThunk for handling async actions.

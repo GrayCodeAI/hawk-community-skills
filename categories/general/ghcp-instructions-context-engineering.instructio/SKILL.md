@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for structuring code and projects to maximize GitHub Copilot effectiveness through better context management'
-applyTo: '**'
+name: ghcp-instructions-context-engineering.instructio
+description: "Skill: ghcp-instructions-context-engineering.instructio"
+license: MIT
+tags: [general]
 ---
 
 # Context Engineering

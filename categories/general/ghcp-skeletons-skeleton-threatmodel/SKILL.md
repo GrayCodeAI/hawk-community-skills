@@ -1,3 +1,10 @@
+---
+name: ghcp-skeletons-skeleton-threatmodel
+description: "Skill: ghcp-skeletons-skeleton-threatmodel"
+license: MIT
+tags: [general]
+---
+
 # Skeleton: 1-threatmodel.md
 
 > **⛔ Copy the template content below VERBATIM (excluding the outer code fence). Replace `[FILL]` placeholders. Diagram in `.md` and `.mmd` must be IDENTICAL.**

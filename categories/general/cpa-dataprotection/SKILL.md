@@ -1,3 +1,10 @@
+---
+name: cpa-dataprotection
+description: "Skill: cpa-dataprotection"
+license: MIT
+tags: [general]
+---
+
 # az dataprotection
 
 ```bash

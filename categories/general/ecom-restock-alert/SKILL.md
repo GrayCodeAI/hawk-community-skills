@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Restock Alert"
-  category: "Supply Chain & Logistics"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "inventory"
-    - "restock"
-    - "supply-chain"
-    - "alerts"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "restock alert"
+name: ecom-restock-alert
+description: "Skill: ecom-restock-alert"
+license: MIT
+tags: [general]
+nexscope: None
+category: Supply Chain & Logistics
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Restock Alert

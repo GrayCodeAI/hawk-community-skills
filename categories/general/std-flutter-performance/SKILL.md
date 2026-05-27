@@ -1,18 +1,14 @@
 ---
-name: flutter-performance
-description: Optimize Flutter widget rebuilds, memory usage, and rendering performance. Use when diagnosing jank, reducing rebuilds, or improving list performance.
-metadata:
-  triggers:
-    files:
-    - 'lib/presentation/**'
-    - 'pubspec.yaml'
-    - 'ListView.builder'
-    keywords:
-    - const
-    - buildWhen
-    - Isolate
-    - RepaintBoundary
+name: std-flutter-performance
+description: "Optimize Flutter widget rebuilds, memory usage, and rendering performance. Use when diagnosing jank, reducing rebuilds, or improving list performance."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Performance
 
 ## **Priority: P1 (OPERATIONAL)**

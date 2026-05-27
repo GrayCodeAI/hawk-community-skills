@@ -1,3 +1,10 @@
+---
+name: gpt-fa3lrtwtq_self_aware_networks_gpt
+description: "Skill: gpt-fa3lrtwtq_self_aware_networks_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FA3lrTWTq-self-aware-networks-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-XkGrqx0JxEGCSsZ4r6iGq6A1?se=2123-12-15T03%3A57%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-10-19%252021.22.19%2520-%2520Render%2520showcasing%2520the%2520interior%2520of%2520a%2520robot%2527s%2520head%252C%2520emphasizing%2520neural%2520pathways%2520from%2520sensor%2520input%2520areas%2520like%2520eyes%252C%2520ears%252C%2520nose%252C%2520mouth%252C%2520and%2520skin.%2520The%2520brai.png&sig=jn3E%2BjGMyIDSNOQiriweO%2Bz6xifdDjfc%2BA1doRuC4rc%3D" width="100px" />

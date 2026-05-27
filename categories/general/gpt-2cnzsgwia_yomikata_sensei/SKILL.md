@@ -1,3 +1,10 @@
+---
+name: gpt-2cnzsgwia_yomikata_sensei
+description: "Skill: gpt-2cnzsgwia_yomikata_sensei"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2cNzsGwIA-yomikata-sensei
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-2hQDnZFpvPuVlN1Ycok1Xf2j?se=2124-01-11T09%3A36%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D9ecdcd93-4bd6-4fd4-8bcf-da477ca61e3a.png&sig=mh%2BqTTbO2VPxFURwZ1qbA0cDxQzdMxw21l6Nxqzw%2BTo%3D" width="100px" />

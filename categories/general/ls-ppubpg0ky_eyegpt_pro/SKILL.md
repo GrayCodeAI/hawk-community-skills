@@ -1,3 +1,10 @@
+---
+name: ls-ppubpg0ky_eyegpt_pro
+description: "Skill: ls-ppubpg0ky_eyegpt_pro"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pPUbpG0KY-eyegpt-pro
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Irt2IRmXoMo3HTnlw96kLT51?se=2123-12-18T22%3A56%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DEyeGPTPROOK.png&sig=gkI%2BQwoOA3YYrrvFzYJ9G0jffAnpxMNbwNhJ5uGEnGo%3D" width="100px" />

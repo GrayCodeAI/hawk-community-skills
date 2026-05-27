@@ -1,3 +1,10 @@
+---
+name: ghcp-references-game-publishing
+description: "Skill: ghcp-references-game-publishing"
+license: MIT
+tags: [general]
+---
+
 # Game Publishing
 
 This reference covers the three pillars of publishing web-based games: distribution channels and platforms, promotion strategies, and monetization models.

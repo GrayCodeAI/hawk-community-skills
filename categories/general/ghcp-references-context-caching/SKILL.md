@@ -1,3 +1,10 @@
+---
+name: ghcp-references-context-caching
+description: "Skill: ghcp-references-context-caching"
+license: MIT
+tags: [general]
+---
+
 # Context Caching
 
 Optimize Spring Boot test suite performance through context caching.

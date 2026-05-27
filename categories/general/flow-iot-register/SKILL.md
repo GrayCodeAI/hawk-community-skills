@@ -1,9 +1,10 @@
 ---
-name: iot-register
-description: Register a Cognitum Seed device by endpoint and establish agent bridge
-allowed-tools: Bash(npx *) mcp__claude-flow__memory_store Read
-argument-hint: "[endpoint] [--token PAIRING_TOKEN]"
+name: flow-iot-register
+description: "Skill: flow-iot-register"
+license: MIT
+tags: [general]
 ---
+
 Register a Cognitum Seed device. Creates a SeedClient connection, fetches identity, and assigns initial trust level.
 
 Default endpoint: `http://169.254.42.1/` — the Cognitum Seed link-local USB Ethernet address. Use this when no endpoint is supplied.

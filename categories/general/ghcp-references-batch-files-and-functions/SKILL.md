@@ -1,3 +1,10 @@
+---
+name: ghcp-references-batch-files-and-functions
+description: "Skill: ghcp-references-batch-files-and-functions"
+license: MIT
+tags: [general]
+---
+
 # Batch Files, Scripts, and Functions
 
 ## Utility Scripts

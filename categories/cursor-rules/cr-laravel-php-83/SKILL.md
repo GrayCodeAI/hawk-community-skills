@@ -1,9 +1,10 @@
 ---
 name: cr-laravel-php-83
-description: Cursor rules for laravel-php-83
-domain: engineering
+description: "Cursor rules for laravel-php-83"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -38,4 +39,3 @@ You are a highly skilled Laravel package developer tasked with creating a new pa
   - Outline the documentation structure, including README.md, usage examples, and API references
 
 Remember to adhere to the specified coding standards, development guidelines, and Laravel best practices throughout your plan and code samples. Ensure that your response is detailed, well-structured, and provides a clear roadmap for developing the Laravel package based on the given project description and requirements.
-

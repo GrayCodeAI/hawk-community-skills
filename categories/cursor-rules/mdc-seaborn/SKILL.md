@@ -1,7 +1,10 @@
 ---
-description: This guide defines best practices for using Seaborn in Python for data visualization, emphasizing modern, reproducible, and performant approaches in AI/ML pipelines.
-globs: **/*.py
+name: mdc-seaborn
+description: "This guide defines best practices for using Seaborn in Python for data visualization, emphasizing modern, reproducible, and performant approaches in AI/ML pipelines."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # seaborn Best Practices
 
 Seaborn is the definitive library for statistical data visualization in Python. This guide outlines our team's mandatory best practices to ensure consistent, reproducible, and high-quality plots in all AI/ML projects.

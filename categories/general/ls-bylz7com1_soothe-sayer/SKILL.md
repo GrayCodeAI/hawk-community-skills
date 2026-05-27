@@ -1,3 +1,10 @@
+---
+name: ls-bylz7com1_soothe-sayer
+description: "Skill: ls-bylz7com1_soothe-sayer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bYLZ7coM1-soothe-sayer
 
 GPT Title: Soothe Sayer

@@ -1,24 +1,14 @@
 ---
-name: gdb-cli
+name: ag-gdb-cli
 description: "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation"
+license: MIT
+tags: [general]
 category: development
 risk: critical
 source: community
-date_added: "2026-03-22"
+date_added: 2026-03-22
 author: Cerdore
-tags:
-- debugging
-- gdb
-- core-dump
-- crash-analysis
-- c++
-- c
-tools:
-- claude-code
-- cursor
-- gemini-cli
-- codex-cli
-- antigravity
+tools: None
 ---
 
 # GDB Debugging Assistant

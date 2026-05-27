@@ -1,9 +1,10 @@
 ---
 name: cr-astro-typescript
-description: Cursor rules for astro-typescript
-domain: engineering
+description: "Cursor rules for astro-typescript"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -93,4 +94,3 @@ author: PatrickJS/awesome-cursorrules
     }
   }
 }
-

@@ -1,3 +1,10 @@
+---
+name: ls-pnwgguyqs_webpilot
+description: "Skill: ls-pnwgguyqs_webpilot"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-pNWGgUYqS-webpilot
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-mBN5IZoV9qWIesiiWuQLDh9n?se=2123-10-14T11%3A55%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36x36.png&sig=4jYkWrl5ZwFPF/8h4jGSYnnBoUCl4n61Th9AhGqRaB4%3D" width="100px" />

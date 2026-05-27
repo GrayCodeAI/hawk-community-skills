@@ -1,18 +1,14 @@
 ---
-name: laravel-clean-architecture
-description: Implement Domain-Driven Design with typed DTOs, repository interfaces, and single-responsibility Action classes in Laravel. Use when creating domain folders, binding repository contracts in providers, or passing DTOs between layers.
-metadata:
-  triggers:
-    files:
-    - 'app/Domains/**/*.php'
-    - 'app/Providers/*.php'
-    keywords:
-    - domain
-    - dto
-    - repository
-    - contract
-    - adapter
+name: std-laravel-clean-architecture
+description: "Implement Domain-Driven Design with typed DTOs, repository interfaces, and single-responsibility Action classes in Laravel. Use when creating domain folders, binding repository contracts in provide..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Laravel Clean Architecture
 
 ## **Priority: P1 (HIGH)**

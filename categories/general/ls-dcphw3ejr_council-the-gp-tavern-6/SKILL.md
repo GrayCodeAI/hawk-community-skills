@@ -1,3 +1,10 @@
+---
+name: ls-dcphw3ejr_council-the-gp-tavern-6
+description: "Skill: ls-dcphw3ejr_council-the-gp-tavern-6"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-DCphW3eJr-council-the-gp-tavern-6
 
 GPT Title: Council: The GP-Tavern-6

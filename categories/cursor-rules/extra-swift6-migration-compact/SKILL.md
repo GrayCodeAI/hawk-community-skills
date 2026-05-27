@@ -1,3 +1,10 @@
+---
+name: extra-swift6-migration-compact
+description: "Skill: extra-swift6-migration-compact"
+license: MIT
+tags: [cursor-rules]
+---
+
 # The Swift Concurrency Migration Guide
 
 ## Overview

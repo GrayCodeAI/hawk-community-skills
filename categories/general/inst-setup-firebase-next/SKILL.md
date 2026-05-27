@@ -1,3 +1,10 @@
+---
+name: inst-setup-firebase-next
+description: "Skill: inst-setup-firebase-next"
+license: MIT
+tags: [general]
+---
+
 # Firebase + Next.js Integration Setup Guide
 
 This guide provides step-by-step instructions for integrating Firebase with Next.js 14, focusing on App Router and Server Components.
@@ -534,4 +541,4 @@ export default async function DashboardPage() {
 - [Next.js Documentation](https://nextjs.org/docs)
 - [Firebase Documentation](https://firebase.google.com/docs)
 - [Firebase Console](https://console.firebase.google.com/)
-- [Next.js with Firebase Examples](https://github.com/vercel/next.js/tree/canary/examples) 
+- [Next.js with Firebase Examples](https://github.com/vercel/next.js/tree/canary/examples)

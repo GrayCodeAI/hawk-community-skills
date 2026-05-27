@@ -1,7 +1,10 @@
 ---
-description: This guide defines definitive C# coding standards and best practices for our team, covering naming, formatting, modern language features, performance, security, and error handling to ensure consistent, maintainable, and high-quality code.
-globs: **/*
+name: mdc-c-sharp
+description: "This guide defines definitive C# coding standards and best practices for our team, covering naming, formatting, modern language features, performance, security, and error handling to ensure consist..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # c-sharp Best Practices
 
 This document outlines the definitive C# coding standards and best practices for our team. Adhering to these guidelines ensures consistency, readability, maintainability, and high performance across all our C# projects.

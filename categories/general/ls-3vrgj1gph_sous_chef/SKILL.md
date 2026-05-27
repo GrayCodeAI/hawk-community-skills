@@ -1,3 +1,10 @@
+---
+name: ls-3vrgj1gph_sous_chef
+description: "Skill: ls-3vrgj1gph_sous_chef"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef
 
 GPT Title: Sous Chef

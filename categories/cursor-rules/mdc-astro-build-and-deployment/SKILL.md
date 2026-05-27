@@ -1,7 +1,10 @@
 ---
-description: Rules for building and deploying Astro projects, including environment variable handling and CI/CD pipelines.
-globs: astro.config.mjs
+name: mdc-astro-build-and-deployment
+description: "Rules for building and deploying Astro projects, including environment variable handling and CI/CD pipelines."
+license: MIT
+tags: [cursor-rules]
 ---
+
 Build and Deployment
 
 - Optimize the build process using Astro's build command.

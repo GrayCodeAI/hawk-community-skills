@@ -1,3 +1,10 @@
+---
+name: ghcp-references-mcp-apps
+description: "Skill: ghcp-references-mcp-apps"
+license: MIT
+tags: [general]
+---
+
 # MCP Apps (interactive UI)
 
 [MCP Apps](https://modelcontextprotocol.io/extensions/apps/overview) is the official extension that lets a tool return an **interactive UI** rendered in a sandboxed iframe inside the host (Claude, Claude Desktop, VS Code Copilot, Goose, Postman, MCPJam). Typical use cases: charts, dashboards, multi-step forms, 3D viewers, real-time monitors, PDF/video viewers.

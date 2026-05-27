@@ -1,9 +1,10 @@
 ---
 name: google-style-objcguide
-description: Google official style guide for objcguide
-domain: engineering
+description: "Google official style guide for objcguide"
+license: MIT
 tags: [google, style-guide, objcguide]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: google/styleguide
 ---
 

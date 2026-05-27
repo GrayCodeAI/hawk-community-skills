@@ -1,16 +1,11 @@
 ---
 name: cursor-prisma
-description: Cursor IDE rules for prisma
-domain: engineering
+description: "Cursor IDE rules for prisma"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Prisma: schema modeling, queries, migrations"
-globs: ["*.prisma", "*.ts"]
-alwaysApply: true
 ---
 
 # Prisma Cursor Rules

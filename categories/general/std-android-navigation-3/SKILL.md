@@ -1,21 +1,14 @@
 ---
-name: android-navigation-3
-description: Install and migrate to Jetpack Navigation 3. Use when implementing Navigation 3 patterns including NavDisplay, NavKey routes, deep links, multiple backstacks, scenes (dialogs, bottom sheets), or migrating from Navigation 2.
-metadata:
-  triggers:
-    files:
-    - '**/*NavHost.kt'
-    - '**/*Navigation*.kt'
-    - '**/*Screen.kt'
-    keywords:
-    - Navigation 3
-    - NavDisplay
-    - NavKey
-    - NavEntry
-    - migrate navigation
-    - multiple backstacks
-    - nav3
+name: std-android-navigation-3
+description: "Install and migrate to Jetpack Navigation 3. Use when implementing Navigation 3 patterns including NavDisplay, NavKey routes, deep links, multiple backstacks, scenes (dialogs, bottom sheets), or mi..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # Jetpack Navigation 3
 
 ## **Priority: P1**

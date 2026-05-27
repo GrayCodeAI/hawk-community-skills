@@ -1,6 +1,8 @@
 ---
-name: conventional-commit
-description: 'Prompt and workflow for generating conventional commit messages using a structured XML format. Guides users to create standardized, descriptive commit messages in line with the Conventional Commits specification, including instructions, examples, and validation.'
+name: ghcp-conventional-commit-skill
+description: "Prompt and workflow for generating conventional commit messages using a structured XML format. Guides users to create standardized, descriptive commit messages in line with the Conventional Commits..."
+license: MIT
+tags: [general]
 ---
 
 ### Instructions

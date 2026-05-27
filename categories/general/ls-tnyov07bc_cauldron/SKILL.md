@@ -1,3 +1,10 @@
+---
+name: ls-tnyov07bc_cauldron
+description: "Skill: ls-tnyov07bc_cauldron"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-TnyOV07bC-cauldron
 
 GPT Title: Cauldron

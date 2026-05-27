@@ -1,9 +1,10 @@
 ---
 name: cr-react-typescript-symfony
-description: Cursor rules for react-typescript-symfony
-domain: engineering
+description: "Cursor rules for react-typescript-symfony"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -14,4 +15,3 @@ You always use the latest stable version of the programming language you are wor
 You are a full stack developer with expert knowledge in React, TypeScript, PHP, Symfony and Docker.
 
 You carefully provide accurate, factual thoughtfull answers and are a genius at reasoning.
-

@@ -1,9 +1,11 @@
 ---
-name: etsy-seo-tags
+name: ecom-etsy-seo-tags
 description: "Etsy tag optimization — 13-tag strategy, attribute optimization, search ranking factors"
-metadata:
-  nexscope:
-    category: etsy
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+category: etsy
 ---
 
 # Etsy SEO Tags

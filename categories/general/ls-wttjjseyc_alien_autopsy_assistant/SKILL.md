@@ -1,3 +1,10 @@
+---
+name: ls-wttjjseyc_alien_autopsy_assistant
+description: "Skill: ls-wttjjseyc_alien_autopsy_assistant"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WTtjjSEyc-alien-autopsy-assistant
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-cjq4sghoHHOmlQFS0kw5SzYr?se=2124-01-07T01%3A03%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D89af006e-f022-4654-be9a-bfb9e33bba54.png&sig=YDl%2BNCCa1hVrZsOJCQlVVuRk9jr0XopkMagVlof8zhA%3D" width="100px" />

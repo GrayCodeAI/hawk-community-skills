@@ -1,13 +1,14 @@
 ---
 name: performing-brand-monitoring-for-impersonation
-description: Monitor for brand impersonation attacks across domains, social media, mobile apps, and dark web channels to detect phishing campaigns, fake sites, and unauthorized brand usage targeting your organization.
+description: "Monitor for brand impersonation attacks across domains, social media, mobile apps, and dark web channels to detect phishing campaigns, fake sites, and unauthorized brand usage targeting your organi..."
+license: MIT
+tags: [brand-monitoring, impersonation, phishing, domain-monitoring, social-media, brand-protection, threat-intelligence]
 domain: cybersecurity
 subdomain: threat-intelligence
-tags: [brand-monitoring, impersonation, phishing, domain-monitoring, social-media, brand-protection, threat-intelligence]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
+
 # Performing Brand Monitoring for Impersonation
 
 ## Overview

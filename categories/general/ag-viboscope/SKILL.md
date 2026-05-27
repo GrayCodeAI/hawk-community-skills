@@ -1,12 +1,13 @@
 ---
-name: viboscope
+name: ag-viboscope
 description: "Psychological compatibility matching — find cofounders, collaborators, and friends through validated psychometrics"
+license: MIT
+tags: [matching, psychology, compatibility, networking, collaboration]
 category: collaboration
 risk: safe
 source: community
-date_added: "2026-03-29"
+date_added: 2026-03-29
 author: ivanschmidt
-tags: [matching, psychology, compatibility, networking, collaboration]
 tools: [claude, cursor, codex, gemini, windsurf]
 ---
 

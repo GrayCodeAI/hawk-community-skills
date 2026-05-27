@@ -1,3 +1,10 @@
+---
+name: ls-jrw2frbtx_20k-vocab-builder
+description: "Skill: ls-jrw2frbtx_20k-vocab-builder"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-jrW2FRbTX-20k-vocab-builder
 
 GPT Title: 20K Vocab builder

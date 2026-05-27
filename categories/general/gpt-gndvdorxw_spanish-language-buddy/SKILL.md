@@ -1,3 +1,10 @@
+---
+name: gpt-gndvdorxw_spanish-language-buddy
+description: "Skill: gpt-gndvdorxw_spanish-language-buddy"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-gNDvdoRxw-spanish-language-buddy
 
 GPT Title: Spanish Language Buddy

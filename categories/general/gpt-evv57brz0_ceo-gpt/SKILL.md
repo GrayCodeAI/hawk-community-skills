@@ -1,3 +1,10 @@
+---
+name: gpt-evv57brz0_ceo-gpt
+description: "Skill: gpt-evv57brz0_ceo-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt
 
 GPT Title: CEO GPT

@@ -1,3 +1,10 @@
+---
+name: ls-ls8sg271n_chatgpt-custom-instructions-prompt-writi
+description: "Skill: ls-ls8sg271n_chatgpt-custom-instructions-prompt-writi"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-LS8Sg271N-caesgpt-custom-instructions-peurompeuteu-jagseong-doumi
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-daqVgAJru5YaHijWAeLu518s?se=2123-12-21T17%3A38%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-12%252015.53.09%2520-%2520A%2520logo%2520for%2520a%2520chatbot%2520named%2520%2527PromptEngineerBot%2527%252C%2520without%2520any%2520text.%2520The%2520logo%2520should%2520incorporate%2520elements%2520of%2520prompt%2520engineering%2520such%2520as%2520gears%2520and%2520a%2520styli.png&sig=dDETlYmBsIaixQskbr70b2f00r8QQZM9/wKEUqsSguU%3D" width="100px" />

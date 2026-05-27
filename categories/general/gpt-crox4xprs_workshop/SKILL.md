@@ -1,3 +1,10 @@
+---
+name: gpt-crox4xprs_workshop
+description: "Skill: gpt-crox4xprs_workshop"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-CrOX4xPRs-workshop
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ooKb1VpAkHKJ9hTzC6J0tqVE?se=2123-11-25T15%3A43%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DAsset%25201.png&sig=YVCTvJNptm3qeIeLWPtUQvAlM%2BZbco7/lxlpbrrY94k%3D" width="100px" />

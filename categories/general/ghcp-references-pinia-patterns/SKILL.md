@@ -1,3 +1,10 @@
+---
+name: ghcp-references-pinia-patterns
+description: "Skill: ghcp-references-pinia-patterns"
+license: MIT
+tags: [general]
+---
+
 # Pinia Testing Snippets (Cookbook-Aligned)
 
 Use these patterns directly when writing tests with `@pinia/testing`.

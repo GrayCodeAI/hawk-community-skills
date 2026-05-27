@@ -1,7 +1,9 @@
 ---
-description: Apply these testing rules when verifying or writing new test suites to ensure quality and coverage
-globs: **/*.test.ts
-alwaysApply: false
+name: blef-300-testing-vitest
+description: "Apply these testing rules when verifying or writing new test suites to ensure quality and coverage"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Testing Standards

@@ -1,18 +1,12 @@
 ---
 name: analyzing-security-logs-with-splunk
-description: >
-  Leverages Splunk Enterprise Security and SPL (Search Processing Language) to
-  investigate security incidents through log correlation, timeline reconstruction,
-  and anomaly detection. Covers Windows event logs, firewall logs, proxy logs, and
-  authentication data analysis. Activates for requests involving Splunk investigation,
-  SPL queries, SIEM log analysis, security event correlation, or log-based incident
-  investigation.
+description: "Leverages Splunk Enterprise Security and SPL (Search Processing Language) to investigate security incidents through log correlation, timeline reconstruction, and anomaly detection. Covers Windows e..."
+license: MIT
+tags: [splunk, spl, siem, log-analysis, security-monitoring]
 domain: cybersecurity
 subdomain: incident-response
-tags: [splunk, SPL, SIEM, log-analysis, security-monitoring]
 version: 1.0.0
 author: mahipal
-license: MIT
 ---
 
 # Analyzing Security Logs with Splunk

@@ -1,15 +1,11 @@
 ---
 name: cursor-schema-first-workflow
-description: Cursor IDE rules for schema-first-workflow
-domain: engineering
+description: "Cursor IDE rules for schema-first-workflow"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "Schema-first development: define data models and docs before writing application code"
-alwaysApply: false
 ---
 
 # Schema-First Development Workflow

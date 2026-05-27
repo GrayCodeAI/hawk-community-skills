@@ -1,9 +1,10 @@
 ---
-name: glycoengineering
-description: Analyze and engineer protein glycosylation. Scan sequences for N-glycosylation sequons (N-X-S/T), predict O-glycosylation hotspots, and access curated glycoengineering tools (NetOGlyc, GlycoShield, GlycoWorkbench). For glycoprotein engineering, therapeutic antibody optimization, and vaccine design.
+name: sci-glycoengineering
+description: "Analyze and engineer protein glycosylation. Scan sequences for N-glycosylation sequons (N-X-S/T), predict O-glycosylation hotspots, and access curated glycoengineering tools (NetOGlyc, GlycoShield,..."
 license: Unknown
-metadata:
-    skill-author: Kuan-lin Huang
+tags: [scientific]
+metadata: None
+skill-author: Kuan-lin Huang
 ---
 
 # Glycoengineering

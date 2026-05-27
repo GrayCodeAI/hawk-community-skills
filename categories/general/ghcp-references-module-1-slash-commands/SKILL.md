@@ -1,3 +1,10 @@
+---
+name: ghcp-references-module-1-slash-commands
+description: "Skill: ghcp-references-module-1-slash-commands"
+license: MIT
+tags: [general]
+---
+
 # Module 1: Slash Commands
 
 Teach these categories one at a time, with examples and "when to use" guidance.

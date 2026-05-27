@@ -1,3 +1,10 @@
+---
+name: cpa-label-history
+description: "Skill: cpa-label-history"
+license: MIT
+tags: [general]
+---
+
 # az containerapp label-history
 
 ```bash

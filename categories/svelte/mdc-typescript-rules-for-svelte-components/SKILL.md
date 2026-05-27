@@ -1,7 +1,10 @@
 ---
-description: Enforces TypeScript best practices within Svelte component logic files, including interface usage, avoiding enums, and strict mode.
-globs: **/*.svelte.ts
+name: mdc-typescript-rules-for-svelte-components
+description: "Enforces TypeScript best practices within Svelte component logic files, including interface usage, avoiding enums, and strict mode."
+license: MIT
+tags: [svelte]
 ---
+
 - Use TypeScript for all code; prefer interfaces over types.
 - Avoid enums; use const objects instead.
 - Use functional components with TypeScript interfaces for props.

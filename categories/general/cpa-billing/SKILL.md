@@ -1,3 +1,10 @@
+---
+name: cpa-billing
+description: "Skill: cpa-billing"
+license: MIT
+tags: [general]
+---
+
 # az billing
 
 ```bash

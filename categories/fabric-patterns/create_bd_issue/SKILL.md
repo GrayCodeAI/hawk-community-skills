@@ -1,9 +1,10 @@
 ---
 name: create_bd_issue
-description: Fabric pattern - create_bd_issue
-domain: general
+description: "Fabric pattern - create_bd_issue"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,3 +1,10 @@
+---
+name: ghcp-references-project-patterns
+description: "Skill: ghcp-references-project-patterns"
+license: MIT
+tags: [general]
+---
+
 # Real Project Patterns
 
 This reference captures architecture patterns observed in real Paper gameplay plugins:

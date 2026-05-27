@@ -1,9 +1,11 @@
 ---
-name: podcast-generation
+name: ag-podcast-generation
 description: "Generate real audio narratives from text content using Azure OpenAI's Realtime API."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Podcast Generation with GPT Realtime Mini

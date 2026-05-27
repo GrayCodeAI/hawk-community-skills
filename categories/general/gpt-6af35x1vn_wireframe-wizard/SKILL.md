@@ -1,3 +1,10 @@
+---
+name: gpt-6af35x1vn_wireframe-wizard
+description: "Skill: gpt-6af35x1vn_wireframe-wizard"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6af35x1VN-wireframe-wizard
 
 GPT Title: Wireframe | Wizard

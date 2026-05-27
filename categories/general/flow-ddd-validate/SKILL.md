@@ -1,9 +1,12 @@
 ---
-name: ddd-validate
-description: Validate domain boundaries -- detect cross-context import violations and aggregate invariant issues
-argument-hint: ""
+name: flow-ddd-validate
+description: "Validate domain boundaries -- detect cross-context import violations and aggregate invariant issues"
+license: MIT
+tags: [general]
+argument-hint: None
 allowed-tools: Bash(find * grep * npx *) Read Grep Glob mcp__claude-flow__memory_store mcp__claude-flow__memory_search mcp__claude-flow__hooks_pre-task mcp__claude-flow__hooks_post-task
 ---
+
 Validate domain boundary integrity across all bounded contexts.
 
 ## Steps

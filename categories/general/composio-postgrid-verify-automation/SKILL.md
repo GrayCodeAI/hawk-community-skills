@@ -1,8 +1,10 @@
 ---
-name: postgrid-verify-automation
+name: composio-postgrid-verify-automation
 description: "Automate Postgrid Verify tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Postgrid Verify Automation via Rube MCP

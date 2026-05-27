@@ -1,8 +1,10 @@
 ---
-name: ably-automation
+name: composio-ably-automation
 description: "Automate Ably tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ably Automation via Rube MCP

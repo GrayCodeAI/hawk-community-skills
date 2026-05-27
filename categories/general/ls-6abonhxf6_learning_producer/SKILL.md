@@ -1,3 +1,10 @@
+---
+name: ls-6abonhxf6_learning_producer
+description: "Skill: ls-6abonhxf6_learning_producer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-6aBonhXF6-learning-producer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-9oQOs6VPO6tHEYd2lCNymkB2?se=2124-01-01T17%3A01%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D70240_cool%2520masculine%2520yet%2520friendly%2520humanoid%2520robot%2520close%2520u_xl-1024-v1-0.png&sig=RXI7cKH9UAIWhljvsTEwAazCQrV%2B9sfKrjP1u2Qmzww%3D" width="100px" />

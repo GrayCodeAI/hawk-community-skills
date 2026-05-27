@@ -1,3 +1,10 @@
+---
+name: ghcp-references-measures-dax
+description: "Skill: ghcp-references-measures-dax"
+license: MIT
+tags: [general]
+---
+
 # DAX Measures and Naming Conventions
 
 ## Naming Conventions

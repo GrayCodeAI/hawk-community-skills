@@ -1,6 +1,8 @@
 ---
-name: video-translation
-description: Translate and dub videos from one language to another, replacing the original audio with TTS while keeping the video intact.
+name: noiz-video-translation
+description: "Translate and dub videos from one language to another, replacing the original audio with TTS while keeping the video intact."
+license: MIT
+tags: [general]
 ---
 
 # Video Translation

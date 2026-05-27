@@ -1,7 +1,10 @@
 ---
-description: Outlines the general code guidelines to be followed, including early returns, Tailwind CSS for styling, and descriptive naming conventions. This ensures consistency and readability across the codebase.
-globs: **/*.{svelte,js,ts,jsx,tsx,html,css}
+name: mdc-general-code-guidelines
+description: "Outlines the general code guidelines to be followed, including early returns, Tailwind CSS for styling, and descriptive naming conventions. This ensures consistency and readability across the codeb..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Adhere to the following guidelines in your code:
   - Utilize early returns for code readability.
   - Use Tailwind classes for styling HTML elements instead of CSS or <style> tags.

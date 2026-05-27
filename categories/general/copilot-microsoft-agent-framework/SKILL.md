@@ -1,6 +1,8 @@
 ---
-name: microsoft-agent-framework
-description: 'Create, update, refactor, explain, or review Microsoft Agent Framework solutions using shared guidance plus language-specific references for .NET and Python.'
+name: copilot-microsoft-agent-framework
+description: "Create, update, refactor, explain, or review Microsoft Agent Framework solutions using shared guidance plus language-specific references for .NET and Python."
+license: MIT
+tags: [general]
 ---
 
 # Microsoft Agent Framework

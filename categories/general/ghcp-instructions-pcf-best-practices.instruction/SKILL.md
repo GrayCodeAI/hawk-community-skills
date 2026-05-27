@@ -1,6 +1,8 @@
 ---
-description: 'Best practices and guidance for developing PCF code components'
-applyTo: '**/*.{ts,tsx,js,json,xml,pcfproj,csproj,css,html}'
+name: ghcp-instructions-pcf-best-practices.instruction
+description: "Skill: ghcp-instructions-pcf-best-practices.instruction"
+license: MIT
+tags: [general]
 ---
 
 # Best Practices and Guidance for Code Components

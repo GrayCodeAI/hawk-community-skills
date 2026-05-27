@@ -1,8 +1,10 @@
 ---
-name: customjs-automation
+name: composio-customjs-automation
 description: "Automate Customjs tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Customjs Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: gpt-ijysxewia_tricky_ai
+description: "Skill: gpt-ijysxewia_tricky_ai"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-IjysXEWiA-tricky-ai
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-iewafyOyBEbZAqmNrtfSeK7o?se=2123-12-21T20%3A35%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-01-14%252023.22.40%2520-%2520A%2520digital%2520avatar%2520representing%2520a%2520humorous%2520AI%2520chatbot.%2520The%2520avatar%2520should%2520have%2520a%2520friendly%252C%2520playful%2520expression%2520with%2520a%2520hint%2520of%2520mischievousness.%2520It%2520should%2520i.png&sig=p2HkLzZT06orYShafcoaKG/uS7u4IrDrVdOn7WkquRY%3D" width="100px" />

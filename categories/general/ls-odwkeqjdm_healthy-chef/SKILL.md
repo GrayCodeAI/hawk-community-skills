@@ -1,3 +1,10 @@
+---
+name: ls-odwkeqjdm_healthy-chef
+description: "Skill: ls-odwkeqjdm_healthy-chef"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OdwKeQjDm-healthy-chef/
 
 GPT Title: Healthy Chef

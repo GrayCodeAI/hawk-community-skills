@@ -1,3 +1,10 @@
+---
+name: gpt-g070wjsjw_emdr_safe_friend
+description: "Skill: gpt-g070wjsjw_emdr_safe_friend"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-g070WJsjw-emdr-safe-friend
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-oRs3cAKvKxJURTxAU1qD56Yi?se=2123-12-17T17%3A46%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D78336f6f-af28-4580-9704-e5bf9bb0c68d.png&sig=FdmYhZLbEd4yrvPNK0tBBOfri3y6ckFJf0dpS/z1BUc%3D" width="100px" />

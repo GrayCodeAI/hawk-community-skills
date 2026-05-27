@@ -1,6 +1,8 @@
 ---
-name: azure-resource-health-diagnose
-description: 'Analyze Azure resource health, diagnose issues from logs and telemetry, and create a remediation plan for identified problems.'
+name: copilot-azure-resource-health-diagnose
+description: "Analyze Azure resource health, diagnose issues from logs and telemetry, and create a remediation plan for identified problems."
+license: MIT
+tags: [general]
 ---
 
 # Azure Resource Health & Issue Diagnosis

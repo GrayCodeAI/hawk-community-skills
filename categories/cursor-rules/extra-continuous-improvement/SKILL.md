@@ -1,7 +1,9 @@
 ---
-description: Systematic approach for continuously improving AI assistant rules based on emerging patterns and best practices
-globs: ""
-alwaysApply: false
+name: extra-continuous-improvement
+description: "Systematic approach for continuously improving AI assistant rules based on emerging patterns and best practices"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Continuous Improvement Guide for AI Development Rules

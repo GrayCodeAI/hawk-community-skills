@@ -1,3 +1,10 @@
+---
+name: agc-swift6-features
+description: "Skill: agc-swift6-features"
+license: MIT
+tags: [general]
+---
+
 # Swift 6 and 6.2 Features Reference
 
 New language features, breaking changes, migration strategies, and modern patterns for Swift 6+.

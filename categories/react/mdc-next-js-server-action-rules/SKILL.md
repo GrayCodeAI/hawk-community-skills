@@ -1,7 +1,10 @@
 ---
-description: Specifies guidelines for Next.js server actions, including type-safe implementation, validation with Zod, error handling, and the required ActionResponse type.
-globs: app/actions/**/*.{ts,tsx}
+name: mdc-next-js-server-action-rules
+description: "Specifies guidelines for Next.js server actions, including type-safe implementation, validation with Zod, error handling, and the required ActionResponse type."
+license: MIT
+tags: [react]
 ---
+
 - Model expected errors as return values: Avoid using try/catch for expected errors in Server Actions. Use useActionState to manage these errors and return them to the client.
 - Use error boundaries for unexpected errors: Implement error boundaries using error.tsx and global-error.tsx files to handle unexpected errors and provide a fallback UI.
 - Use useActionState with react-hook-form for form validation.

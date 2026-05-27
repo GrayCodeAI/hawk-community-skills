@@ -1,6 +1,8 @@
 ---
 name: gemini-computer-use
-description: Build and run Gemini 2.5 Computer Use browser-control agents with Playwright. Use when a user wants to automate web browser tasks via the Gemini Computer Use model, needs an agent loop (screenshot → function_call → action → function_response), or asks to integrate safety confirmation for risky UI actions.
+description: "Build and run Gemini 2.5 Computer Use browser-control agents with Playwright. Use when a user wants to automate web browser tasks via the Gemini Computer Use model, needs an agent loop (screenshot ..."
+license: MIT
+tags: [general]
 ---
 
 # Gemini Computer Use

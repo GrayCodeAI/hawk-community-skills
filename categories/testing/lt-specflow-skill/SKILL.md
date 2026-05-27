@@ -1,17 +1,8 @@
 ---
-name: specflow-skill
-description: >
-  Generates SpecFlow BDD tests for C#/.NET with Gherkin feature files and
-  step bindings. Use when user mentions "SpecFlow", "C# BDD", ".NET Gherkin",
-  "[Binding]", "[Given]/[When]/[Then]". Triggers on: "SpecFlow", "C# BDD",
-  ".NET BDD", "step bindings", "[Binding]".
-languages:
-  - C#
-category: bdd-testing
+name: lt-specflow-skill
+description: "Skill: lt-specflow-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
 ---
 
 # SpecFlow BDD Skill

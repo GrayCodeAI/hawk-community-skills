@@ -1,3 +1,10 @@
+---
+name: ghcp-references-evaluators-llm-python
+description: "Skill: ghcp-references-evaluators-llm-python"
+license: MIT
+tags: [general]
+---
+
 # Evaluators: LLM Evaluators in Python
 
 LLM evaluators use a language model to judge outputs. Use when criteria are subjective.

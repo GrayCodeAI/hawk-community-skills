@@ -1,3 +1,10 @@
+---
+name: rb-technical_template
+description: "Skill: rb-technical_template"
+license: MIT
+tags: [general]
+---
+
 # Technical Specifications Document Template
 
 ## 1. Introduction

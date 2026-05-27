@@ -1,3 +1,10 @@
+---
+name: cpa-vnet-gateway
+description: "Skill: cpa-vnet-gateway"
+license: MIT
+tags: [general]
+---
+
 # az network vnet-gateway
 
 ```bash

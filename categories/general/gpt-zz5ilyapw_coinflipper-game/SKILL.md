@@ -1,3 +1,10 @@
+---
+name: gpt-zz5ilyapw_coinflipper-game
+description: "Skill: gpt-zz5ilyapw_coinflipper-game"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-zZ5ILyApw-coinflipper-game/
 
 GPT Title: Coinflipper Game

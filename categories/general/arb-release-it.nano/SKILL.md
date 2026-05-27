@@ -1,3 +1,10 @@
+---
+name: arb-release-it.nano
+description: "Skill: arb-release-it.nano"
+license: MIT
+tags: [general]
+---
+
 # OBEY Release It! by Michael T. Nygard
 
 ## When to use

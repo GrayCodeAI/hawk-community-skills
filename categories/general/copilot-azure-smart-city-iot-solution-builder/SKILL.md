@@ -1,6 +1,8 @@
 ---
-name: azure-smart-city-iot-solution-builder
-description: 'Design and plan end-to-end Azure IoT and Smart City solutions: requirements, architecture, security, operations, cost, and a phased delivery plan with concrete implementation artifacts.'
+name: copilot-azure-smart-city-iot-solution-builder
+description: "Design and plan end-to-end Azure IoT and Smart City solutions: requirements, architecture, security, operations, cost, and a phased delivery plan with concrete implementation artifacts."
+license: MIT
+tags: [general]
 ---
 
 # Azure Smart City IoT Solution Builder

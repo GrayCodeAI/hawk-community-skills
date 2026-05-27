@@ -1,9 +1,11 @@
 ---
-name: postgresql
+name: ag-postgresql
 description: "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features"
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # PostgreSQL Table Design 

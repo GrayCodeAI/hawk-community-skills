@@ -1,3 +1,10 @@
+---
+name: gpt-2azcvmxdy_humanizer-pro
+description: "Skill: gpt-2azcvmxdy_humanizer-pro"
+license: MIT
+tags: [general]
+---
+
 GPT url: https://chat.openai.com/g/g-2azCVmXdy-humanizer-pro/
 
 GPT title: Humanizer Pro

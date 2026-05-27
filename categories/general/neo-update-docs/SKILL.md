@@ -1,6 +1,8 @@
 ---
-name: update-docs
-description: Update and maintain project documentation for local code changes using multi-agent workflow with tech-writer agents. Covers docs/, READMEs, JSDoc, and API documentation.
+name: neo-update-docs
+description: "Update and maintain project documentation for local code changes using multi-agent workflow with tech-writer agents. Covers docs/, READMEs, JSDoc, and API documentation."
+license: MIT
+tags: [general]
 argument-hint: Optional target directory, documentation type (api, guides, readme, jsdoc), or specific focus area
 ---
 

@@ -1,3 +1,10 @@
+---
+name: gpt-f2htcxcnb_islam-gpt
+description: "Skill: gpt-f2htcxcnb_islam-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-f2HTcxcNb-islam-gpt
 
 GPT Title: Islam GPT

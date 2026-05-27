@@ -1,9 +1,11 @@
 ---
-name: ui-visual-validator
-description: Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
+name: ag-ui-visual-validator
+description: "Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification."
+license: MIT
+tags: [general]
 risk: unknown
 source: community
-date_added: '2026-02-27'
+date_added: 2026-02-27
 ---
 
 ## Use this skill when

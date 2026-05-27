@@ -1,9 +1,10 @@
 ---
-name: bpl-extra-translation-and-encoding-modules
-description: System prompt - extra-translation-and-encoding-modules
-domain: general
+name: bpl-txt-extra-translation-and-encoding-modules
+description: "System prompt - extra-translation-and-encoding-modules"
+license: MIT
 tags: [system-prompt]
-version: "1.0"
+domain: general
+version: 1.0
 author: TheBigPromptLibrary
 ---
 

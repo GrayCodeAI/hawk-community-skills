@@ -1,3 +1,10 @@
+---
+name: gpt-h0lbluff1_elevenlabs_text_to_speech
+description: "Skill: gpt-h0lbluff1_elevenlabs_text_to_speech"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-h0lbLuFF1-elevenlabs-text-to-speech
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MByVNy6xBmXHsvjpmnaRz517?se=2124-01-20T03%3A30%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Deleven-lines-hq.png&sig=/dvmbBstijgnsWKd%2Bcrk6/EWT4dLQELZ0QarnswWXJg%3D" width="100px" />

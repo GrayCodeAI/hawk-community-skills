@@ -1,3 +1,10 @@
+---
+name: ls-zc1kogokx_f_mentor
+description: "Skill: ls-zc1kogokx_f_mentor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-ZC1KoGOKx-f-mentor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-TpaAAz7aQL4gW1IiN6UtOBC7?se=2123-12-19T21%3A26%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Ddfbb80d9-9501-4d37-9e15-ce655e1b512f.png&sig=lLxhcvc49il81h7Rzh85MmTIh2s6TNthXkaeE25TxRs%3D" width="100px" />

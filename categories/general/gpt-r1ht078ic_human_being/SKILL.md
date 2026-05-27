@@ -1,3 +1,10 @@
+---
+name: gpt-r1ht078ic_human_being
+description: "Skill: gpt-r1ht078ic_human_being"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-r1Ht078iC-human-being
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-vHEN2PqXy5ler21GgJsdfLRC?se=2123-12-30T05%3A22%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dhuman-being.jpg&sig=mbq60mH6ZFp/j%2BHF8yqIGs60Flt3DSog8ad9QKUpUHo%3D" width="100px" />

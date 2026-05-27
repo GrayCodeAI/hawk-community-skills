@@ -1,20 +1,14 @@
 ---
-name: android-compose-migration
-description: Migrate an Android XML View to Jetpack Compose following a structured 10-step workflow. Use when converting XML layouts to Compose, setting up Compose in an existing View-based project, or incrementally adopting Compose.
-metadata:
-  triggers:
-    files:
-    - 'layout/*.xml'
-    - '**/*Fragment.kt'
-    - '**/*Activity.kt'
-    keywords:
-    - migrate to compose
-    - xml to compose
-    - compose migration
-    - ComposeView
-    - AndroidView
-    - interoperability
+name: std-android-compose-migration
+description: "Migrate an Android XML View to Jetpack Compose following a structured 10-step workflow. Use when converting XML layouts to Compose, setting up Compose in an existing View-based project, or incremen..."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+files: None
+keywords: None
 ---
+
 # XML to Jetpack Compose Migration
 
 ## **Priority: P1**

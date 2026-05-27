@@ -1,3 +1,10 @@
+---
+name: gpt-qfooicq1l_prompt_professor
+description: "Skill: gpt-qfooicq1l_prompt_professor"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-qfoOICq1l-prompt-professor
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-MsXTgHdeT8NqXvoz3yFp1DsA?se=2123-10-16T03%3A42%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D76811343-01fe-4316-b18f-12ed04c3af99.png&sig=OOcasgdAq%2BCscJ7raZMCDdYCZb00lsUNcOl%2BnNzEAY8%3D" width="100px" />

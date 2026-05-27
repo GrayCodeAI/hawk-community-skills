@@ -1,3 +1,10 @@
+---
+name: cpa-list-usages
+description: "Skill: cpa-list-usages"
+license: MIT
+tags: [general]
+---
+
 # az network list-usages
 
 ```bash

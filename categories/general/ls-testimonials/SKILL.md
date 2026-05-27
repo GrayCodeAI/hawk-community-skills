@@ -1,3 +1,10 @@
+---
+name: ls-testimonials
+description: "Skill: ls-testimonials"
+license: MIT
+tags: [general]
+---
+
 You have saved me hours and hours of time. This is a game changer for me
 https://x.com/ajruecker/status/1723225423625310485?s=46
 

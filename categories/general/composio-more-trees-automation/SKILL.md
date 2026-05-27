@@ -1,8 +1,10 @@
 ---
-name: more-trees-automation
+name: composio-more-trees-automation
 description: "Automate More Trees tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # More Trees Automation via Rube MCP

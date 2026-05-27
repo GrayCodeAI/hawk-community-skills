@@ -1,3 +1,10 @@
+---
+name: ls-ce5vd1zdc_emailsender
+description: "Skill: ls-ce5vd1zdc_emailsender"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-Ce5vd1ZDC-emailsender
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-BNmkxm7ODzGBtKfGvpLlcLC0?se=2124-01-01T08%3A20%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcool-backgrounds.webp&sig=OOxztXAHhjYyGp/T0qHPYefrFxrfZ1hpk5jxDah8Qzo%3D" width="100px" />

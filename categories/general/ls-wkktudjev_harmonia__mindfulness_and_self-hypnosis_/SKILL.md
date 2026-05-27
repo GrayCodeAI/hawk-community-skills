@@ -1,3 +1,10 @@
+---
+name: ls-wkktudjev_harmonia__mindfulness_and_self-hypnosis_
+description: "Skill: ls-wkktudjev_harmonia__mindfulness_and_self-hypnosis_"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-WkkTUdJev-harmonia-mindfulness-and-self-hypnosis-coach
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-WGbqL1rfOYR9Km6gT14qUV4k?se=2124-01-01T23%3A49%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Da21481bd-5905-4afb-bfce-4bcbec18f0fa.png&sig=Hnu7PLR0brgtAy62GUUpU2J7JHORZuGkJNLWC3N6Y%2Bg%3D" width="100px" />

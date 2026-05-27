@@ -1,3 +1,10 @@
+---
+name: ls-csctyilmx_outfit-generator
+description: "Skill: ls-csctyilmx_outfit-generator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-csCTyILmx-outfit-generator
 
 GPT Title: Outfit Generator

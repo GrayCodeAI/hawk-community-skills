@@ -1,7 +1,10 @@
 ---
-description: Enforces specific naming conventions for files, methods, variables, classes, and modules in DragonRuby projects.
-globs: **/*.rb
+name: mdc-dragonruby-naming-conventions
+description: "Enforces specific naming conventions for files, methods, variables, classes, and modules in DragonRuby projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 - Use snake_case for file names, method names, and variables.
 - Use CamelCase for class and module names.
 - Follow DragonRuby naming conventions.

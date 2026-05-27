@@ -1,3 +1,10 @@
+---
+name: ls-t9wnbknko_lei
+description: "Skill: ls-t9wnbknko_lei"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-t9wNBKnKO-lei
 
 GPT Title: Lei

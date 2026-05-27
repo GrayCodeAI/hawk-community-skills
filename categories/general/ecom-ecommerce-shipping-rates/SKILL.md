@@ -1,10 +1,12 @@
 ---
-name: ecommerce-shipping-rates
+name: ecom-ecommerce-shipping-rates
 description: "Compare and optimize shipping rates across carriers and fulfillment methods. UPS, FedEx, USPS, DHL rate comparison, zone optimization, and shipping strategy to maximize margins."
-metadata:
-  nexscope:
-    emoji: "🚚"
-    category: ecommerce
+license: MIT
+tags: [general]
+metadata: None
+nexscope: None
+emoji: 🚚
+category: ecommerce
 ---
 
 # E-Commerce Shipping Rates 🚚

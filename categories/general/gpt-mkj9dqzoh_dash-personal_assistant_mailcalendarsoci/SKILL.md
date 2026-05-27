@@ -1,3 +1,10 @@
+---
+name: gpt-mkj9dqzoh_dash-personal_assistant_mailcalendarsoci
+description: "Skill: gpt-mkj9dqzoh_dash-personal_assistant_mailcalendarsoci"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-mKJ9DqZOh-dash-personal-assistant-mail-calendar-social
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-SUIBPxmzLLwQkaIrJAv00yBM?se=2123-11-08T20%3A02%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-25%252023.43.36%2520-%2520Generate%2520a%2520realistic%2520wide%2520banner%2520image%2520of%2520a%2520young%2520executive%2520in%2520a%2520modern%2520office%252C%2520interacting%2520with%2520a%2520medium-sized%2520monitor%2520using%2520a%2520headset.%2520The%2520monitor%2520s%2520copy.png&sig=8L4CiVAJhTynSqHYHaDKWg7jAdXCXaitIHDPVAtL9Eg%3D" width="100px" />

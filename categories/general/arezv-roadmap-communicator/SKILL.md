@@ -1,6 +1,8 @@
 ---
-name: roadmap-communicator
-description: Use when preparing roadmap narratives, release notes, changelogs, or stakeholder updates tailored for executives, engineering teams, and customers.
+name: arezv-roadmap-communicator
+description: "Use when preparing roadmap narratives, release notes, changelogs, or stakeholder updates tailored for executives, engineering teams, and customers."
+license: MIT
+tags: [general]
 ---
 
 # Roadmap Communicator

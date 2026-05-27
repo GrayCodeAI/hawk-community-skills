@@ -1,3 +1,10 @@
+---
+name: gpt-vgtbswsg8_pytorch_model_implementer
+description: "Skill: gpt-vgtbswsg8_pytorch_model_implementer"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-VgTBswsG8-pytorch-model-implementer
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-K2neAPH4n4ewM50aQeMwB7XD?se=2124-01-13T18%3A08%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D5d220179-c9b1-4563-953a-464fc195e050.png&sig=mWHRyjgf2PvQhm1npHFe0/gnpHsm8%2Bv%2BEZqmyhbm1UY%3D" width="100px" />

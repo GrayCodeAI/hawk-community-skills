@@ -1,3 +1,10 @@
+---
+name: gpt-instructions
+description: "Skill: gpt-instructions"
+license: MIT
+tags: [general]
+---
+
 # Beginner Instructions for making a website
 
 Take the users request and write fully functional code.
@@ -57,6 +64,3 @@ check RecommendedTools.md to find more prompt and coding tools!
 ## Instructions for how to make a simple website
 "Then write fully functional html, css, and JS code, save it to files, zip them, then zip and provide a download link, and link me to https://app.netlify.com/drop or https://replit.com/@replit/HTML-CSS-JS#index.html."
 Consult instructions.md for more details on using netlify & hosting websites
-
-
-

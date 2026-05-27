@@ -1,6 +1,8 @@
 ---
-name: analyze-issue
-description: Analyze a GitHub issue and create a detailed technical specification
+name: neo-analyze-issue
+description: "Analyze a GitHub issue and create a detailed technical specification"
+license: MIT
+tags: [general]
 argument-hint: Issue number (e.g., 42)
 allowed-tools: Bash(gh issue:*), Read, Write, Glob, Grep
 ---

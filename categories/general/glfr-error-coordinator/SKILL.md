@@ -1,7 +1,9 @@
 ---
-name: error-coordinator
-description: Handle errors across multi-agent workflows, implement recovery strategies, and prevent cascading failures
-tools: ["Read", "Write", "Edit", "Bash", "Glob", "Grep"]
+name: glfr-error-coordinator
+description: "Handle errors across multi-agent workflows, implement recovery strategies, and prevent cascading failures"
+license: MIT
+tags: [general]
+tools: [Read, Write, Edit, Bash, Glob, Grep]
 model: opus
 ---
 

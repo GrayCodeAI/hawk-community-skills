@@ -1,9 +1,10 @@
 ---
-name: test-gaps
-description: Detect missing test coverage and generate test suggestions
-argument-hint: "[--path PATH] [--limit N]"
-allowed-tools: Bash(npx *) mcp__claude-flow__hooks_worker-dispatch Read Grep
+name: flow-test-gaps
+description: "Skill: flow-test-gaps"
+license: MIT
+tags: [general]
 ---
+
 Find test coverage gaps via CLI:
 ```bash
 npx @claude-flow/cli@latest hooks coverage-gaps --format table --limit 20

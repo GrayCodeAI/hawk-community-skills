@@ -1,30 +1,8 @@
 ---
-name: agent-architecture
-description: Agent skill for architecture - invoke with $agent-architecture
----
-
----
-name: architecture
-type: architect
-color: purple
-description: SPARC Architecture phase specialist for system design
-capabilities:
-  - system_design
-  - component_architecture
-  - interface_design
-  - scalability_planning
-  - technology_selection
-priority: high
-sparc_phase: architecture
-hooks:
-  pre: |
-    echo "🏗️ SPARC Architecture phase initiated"
-    memory_store "sparc_phase" "architecture"
-    # Retrieve pseudocode designs
-    memory_search "pseudo_complete" | tail -1
-  post: |
-    echo "✅ Architecture phase complete"
-    memory_store "arch_complete_$(date +%s)" "System architecture defined"
+name: flow-agent-architecture
+description: "Agent skill for architecture - invoke with $agent-architecture"
+license: MIT
+tags: [general]
 ---
 
 # SPARC Architecture Agent

@@ -1,9 +1,10 @@
 ---
 name: t_give_encouragement
-description: Fabric pattern - t_give_encouragement
-domain: general
+description: "Fabric pattern - t_give_encouragement"
+license: MIT
 tags: [fabric, pattern]
-version: "1.0"
+domain: general
+version: 1.0
 author: danielmiessler/fabric
 ---
 

@@ -1,17 +1,12 @@
 ---
 name: implementing-delinea-secret-server-for-pam
-description: >
-  Implements Delinea Secret Server for privileged access management (PAM) including
-  secret vault configuration, role-based access policies, automated password rotation,
-  session recording, and integration with Active Directory and cloud platforms.
-  Activates for requests involving PAM deployment, privileged credential vaulting,
-  secret server administration, or password rotation automation.
+description: "Implements Delinea Secret Server for privileged access management (PAM) including secret vault configuration, role-based access policies, automated password rotation, session recording, and integra..."
+license: MIT
+tags: [pam, delinea, secret-server, privileged-access, password-vault, credential-management]
 domain: cybersecurity
 subdomain: identity-access-management
-tags: [PAM, Delinea, Secret-Server, privileged-access, password-vault, credential-management]
-version: "1.0"
+version: 1.0
 author: mahipal
-license: MIT
 ---
 
 # Implementing Delinea Secret Server for PAM

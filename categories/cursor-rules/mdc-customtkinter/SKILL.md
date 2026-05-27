@@ -1,7 +1,10 @@
 ---
-description: Definitive guidelines for writing clean, maintainable, and performant customtkinter applications. This rule file enforces best practices for code structure, theming, component architecture, and common pitfalls.
-globs: **/*.py
+name: mdc-customtkinter
+description: "Definitive guidelines for writing clean, maintainable, and performant customtkinter applications. This rule file enforces best practices for code structure, theming, component architecture, and com..."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # customtkinter Best Practices
 
 This document outlines the definitive best practices for developing applications with `customtkinter`. Adhering to these guidelines ensures your UI code is consistent, maintainable, performant, and leverages the full power of the library.

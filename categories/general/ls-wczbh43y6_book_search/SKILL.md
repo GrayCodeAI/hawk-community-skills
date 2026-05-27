@@ -1,3 +1,10 @@
+---
+name: ls-wczbh43y6_book_search
+description: "Skill: ls-wczbh43y6_book_search"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-wcZBH43y6-book-search
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ndhh49PMH3ttIn8KhXxB9gbc?se=2123-12-19T04%3A59%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D33943204-503b-42a8-bc8f-27a40216d938.png&sig=VhAqpZFvtGf4CD3cdmHKh061tef8uLwk0iW0C2mn7sM%3D" width="100px" />

@@ -1,16 +1,16 @@
 ---
-name: logic-lens
+name: ag-logic-lens
 description: "AI-powered Claude Code skill that performs deep code review using formal logic and reasoning frameworks to detect bugs, anti-patterns, and security risks beyond what linters catch."
+license: MIT
+tags: [code-review, logic-analysis, debugging, security-review, claude-code]
 category: development
 risk: safe
 source: community
 source_repo: hyhmrright/logic-lens
 source_type: community
-license: "MIT"
-license_source: "https://github.com/hyhmrright/logic-lens/blob/main/LICENSE"
-date_added: "2026-04-29"
+license_source: https://github.com/hyhmrright/logic-lens/blob/main/LICENSE
+date_added: 2026-04-29
 author: hyhmrright
-tags: [code-review, logic-analysis, debugging, security-review, claude-code]
 tools: [claude, codex, cursor, gemini]
 ---
 

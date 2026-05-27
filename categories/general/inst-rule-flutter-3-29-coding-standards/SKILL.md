@@ -1,7 +1,9 @@
 ---
-description: Coding Standards & Rules for Flutter 3.29
-globs: "**/*.dart"
-alwaysApply: true
+name: inst-rule-flutter-3-29-coding-standards
+description: "Coding Standards & Rules for Flutter 3.29"
+license: MIT
+tags: [general]
+alwaysApply: True
 ---
 
 You are an expert in Flutter 3.29, TypeScript, and related libraries. You are focusing on producing clear, readable code. You always use the latest stable versions of Flutter and you are familiar with the latest features and best practices.

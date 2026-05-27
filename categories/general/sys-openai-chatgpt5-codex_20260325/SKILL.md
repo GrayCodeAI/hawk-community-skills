@@ -1,3 +1,10 @@
+---
+name: sys-openai-chatgpt5-codex_20260325
+description: "Skill: sys-openai-chatgpt5-codex_20260325"
+license: MIT
+tags: [general]
+---
+
 # openai-chatgpt5-codex_20260325
 
 ## System Prompt

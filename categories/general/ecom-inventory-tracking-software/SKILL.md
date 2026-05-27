@@ -1,18 +1,15 @@
 ---
-nexscope:
-  name: "Inventory Tracking Software"
-  category: "Supply Chain & Logistics"
-  version: "1.0.0"
-  author: "Nexscope AI"
-  tags:
-    - "inventory"
-    - "stock-management"
-    - "monitoring"
-    - "supply-chain"
-  model: "any"
-  tokens: "~2000"
-  keywords:
-    - "inventory tracking software"
+name: ecom-inventory-tracking-software
+description: "Skill: ecom-inventory-tracking-software"
+license: MIT
+tags: [general]
+nexscope: None
+category: Supply Chain & Logistics
+version: 1.0.0
+author: Nexscope AI
+model: any
+tokens: ~2000
+keywords: None
 ---
 
 # Inventory Tracking Software

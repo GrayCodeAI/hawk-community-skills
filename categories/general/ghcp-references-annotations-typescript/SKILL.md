@@ -1,3 +1,10 @@
+---
+name: ghcp-references-annotations-typescript
+description: "Skill: ghcp-references-annotations-typescript"
+license: MIT
+tags: [general]
+---
+
 # TypeScript SDK Annotation Patterns
 
 Add feedback to spans, traces, documents, and sessions using the TypeScript client.

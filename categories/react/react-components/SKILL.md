@@ -1,12 +1,8 @@
 ---
-name: react:components
-description: Converts Stitch designs into modular Vite and React components using system-level networking and AST-based validation.
-allowed-tools:
-  - "stitch*:*"
-  - "Bash"
-  - "Read"
-  - "Write"
-  - "web_fetch"
+name: react-components
+description: "Skill: react-components"
+license: MIT
+tags: [react]
 ---
 
 # Stitch to React Components

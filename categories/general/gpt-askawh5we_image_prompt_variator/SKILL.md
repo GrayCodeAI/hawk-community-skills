@@ -1,3 +1,10 @@
+---
+name: gpt-askawh5we_image_prompt_variator
+description: "Skill: gpt-askawh5we_image_prompt_variator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-askawH5wE-image-prompt-variator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-qHFPeGlVshs5OZME8D5ObvND?se=2124-01-21T15%3A00%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dcd429f67-b7f2-42d5-b99c-ee0fb123ecd0.png&sig=5yPPAwWqI4h/yjFq5LsOcefPvJ6P375qBm9zF1wbNdU%3D" width="100px" />

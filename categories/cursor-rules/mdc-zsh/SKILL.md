@@ -1,7 +1,10 @@
 ---
-description: This guide defines the definitive best practices for writing Zsh scripts and configuration files, ensuring consistency, robustness, and maintainability across our projects.
-globs: **/*
+name: mdc-zsh
+description: "This guide defines the definitive best practices for writing Zsh scripts and configuration files, ensuring consistency, robustness, and maintainability across our projects."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # zsh Best Practices
 
 Zsh is our default shell for interactive use and scripting. This guide outlines mandatory practices to ensure all Zsh code is robust, readable, and performant.

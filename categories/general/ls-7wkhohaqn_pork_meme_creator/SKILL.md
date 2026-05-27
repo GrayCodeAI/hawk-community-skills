@@ -1,3 +1,10 @@
+---
+name: ls-7wkhohaqn_pork_meme_creator
+description: "Skill: ls-7wkhohaqn_pork_meme_creator"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-7WKHOHaQn-pork-meme-creator
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-kYarBxOQplNPhEozLCj4nSbd?se=2124-01-08T06%3A07%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dpork-alt-main-reference.png&sig=zFV3ynO4SFXGMpu5WIkYPcOKUdXn/cCbwIJiguI/acU%3D" width="100px" />

@@ -1,7 +1,9 @@
 ---
-description: Swift Observation framework documentation and usage patterns for reactive programming
-globs: "**/*.swift"
-alwaysApply: false
+name: extra-swift-observation
+description: "Swift Observation framework documentation and usage patterns for reactive programming"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # Swift Observation Framework

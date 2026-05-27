@@ -1,6 +1,8 @@
 ---
-description: 'Playwright Python AI test generation instructions based on official documentation.'
-applyTo: '**'
+name: ghcp-instructions-playwright-python.instructions
+description: "Skill: ghcp-instructions-playwright-python.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Playwright Python Test Generation Instructions

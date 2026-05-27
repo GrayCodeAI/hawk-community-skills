@@ -1,9 +1,10 @@
 ---
 name: cr-nextjs-react-tailwind
-description: Cursor rules for nextjs-react-tailwind
-domain: engineering
+description: "Cursor rules for nextjs-react-tailwind"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 

@@ -1,9 +1,10 @@
 ---
 name: cr-htmx-django
-description: Cursor rules for htmx-django
-domain: engineering
+description: "Cursor rules for htmx-django"
+license: MIT
 tags: [cursor-rules, tested]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: PatrickJS/awesome-cursorrules
 ---
 
@@ -49,4 +50,3 @@ const additionalInstructions = `
 6. Follow Django's best practices for project structure
 7. Use Django's staticfiles app for managing static assets
 `;
-

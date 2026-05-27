@@ -1,6 +1,8 @@
 ---
-description: Stripe integration standards and practicesfor Next.js applications
-globs: **/*.ts, **/*.js
+name: inst-setup-stripe-next
+description: "Stripe integration standards and practicesfor Next.js applications"
+license: MIT
+tags: [general]
 ---
 
 # Stripe Setup Guide for NextJS

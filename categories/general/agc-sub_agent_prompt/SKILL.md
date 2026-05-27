@@ -1,48 +1,9 @@
-# Slide-extractor sub-agent prompt template
-
-This prompt is dispatched to one fresh sub-agent per slide. Substitute the
-placeholders before sending. Each agent runs independently with no shared
-state - all context comes from its manifest.
-
-## Placeholders
-
-- `{SLIDE_NUMBER}` - source slide number (e.g. 12)
-- `{TOTAL_SLIDES}` - total source slide count (e.g. 66)
-- `{DECK_TITLE}` - human-readable deck title (e.g. "Effective Agentic Coding")
-- `{MANIFEST_PATH}` - absolute path to slideNN.json
-- `{OUTPUT_PATH}` - absolute path the agent should write slideNN.md to
-- `{EMBEDDED_DIR_RELATIVE}` - relative path under the workspace where embedded images live (e.g. `embedded_images/slideNN/`)
-- `{DECK_SPECIFIC_NOTES}` - optional - any deck-specific guardrails (e.g. "keep references to 'Cline' verbatim; we modernise content in a later pass")
-
-## Substituting placeholders
-
-The template body contains literal `{` and `}` braces inside the markdown structure shown to the agent (the YAML frontmatter, the image blockquote shape). Use `str.replace()` to fill in placeholders, not Python's `str.format()` or f-strings - those would try to parse every brace as a field and fail.
-
-```python
-prompt = template.replace("{SLIDE_NUMBER}", str(n)).replace("{TOTAL_SLIDES}", str(total))  # etc.
-```
-
-## Template
-
-```
-Extract source slide {SLIDE_NUMBER} of {TOTAL_SLIDES} from a deck "{DECK_TITLE}" into a high-fidelity markdown file.
-
-Inputs at `{MANIFEST_PATH}`:
-- `rendered_slide_jpg`: full slide as JPG (use for layout AND text the XML missed)
-- `embedded_images`: high-res PNGs for individual visuals
-- `source_text_paragraphs`: authoritative verbatim text from slide XML - ground truth
-- `speaker_notes_paragraphs`: speaker notes
-- `external_links`: hyperlinks on the slide
-
-Steps:
-1. Read the manifest JSON.
-2. Read the rendered slide JPG to understand layout.
-3. Read each embedded image to understand its content.
-4. Write `{OUTPUT_PATH}`:
-
 ---
-slide: {SLIDE_NUMBER}
-title: <inferred>
+name: agc-sub_agent_prompt
+description: 'Skill: agc-sub_agent_prompt'
+license: MIT
+tags:
+- general
 ---
 
 # <Title>

@@ -1,12 +1,11 @@
 ---
-name: specialist-tdd-implementer
-description: Strict TDD specialist. Enforces RED -> GREEN -> REFACTOR loop, minimal implementation, and zero-noise test conventions.
-metadata:
-  triggers:
-    keywords:
-    - tdd implementation
-    - red green refactor
-    - implement ac
+name: std-specialist-tdd-implementer
+description: "Strict TDD specialist. Enforces RED -> GREEN -> REFACTOR loop, minimal implementation, and zero-noise test conventions."
+license: MIT
+tags: [general]
+metadata: None
+triggers: None
+keywords: None
 ---
 
 # 🛠 Specialist: TDD Implementer

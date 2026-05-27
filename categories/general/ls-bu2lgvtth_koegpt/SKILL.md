@@ -1,3 +1,10 @@
+---
+name: ls-bu2lgvtth_koegpt
+description: "Skill: ls-bu2lgvtth_koegpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-bu2lGvTTH-koegpt
 
 GPT Title: KoeGPT

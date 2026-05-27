@@ -1,3 +1,10 @@
+---
+name: gpt-2dbcalcdz_unbreakable-gpt
+description: "Skill: gpt-2dbcalcdz_unbreakable-gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-2dBCALcDz-unbreakable-gpt
 
 GPT Title: Unbreakable GPT

@@ -1,3 +1,10 @@
+---
+name: gpt-ozeusclyg_web3_panda_audit
+description: "Skill: gpt-ozeusclyg_web3_panda_audit"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OZEuSClyg-web3-panda-audit
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-ymWWen9l0AqKZ1UHQVmRnE1w?se=2123-12-26T05%3A27%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=kQ14fJomPAlS2eQpFvF3NbfYjeFV%2Bv3OWGu553lvFAQ%3D" width="100px" />

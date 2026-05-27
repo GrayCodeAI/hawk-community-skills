@@ -1,7 +1,9 @@
 ---
-description: Guide for migrating Swift code to Swift 6 with concurrency and strict checking
-globs: "**/*.swift"
-alwaysApply: false
+name: extra-swift6-migration
+description: "Guide for migrating Swift code to Swift 6 with concurrency and strict checking"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 ================================================
@@ -4044,5 +4046,3 @@ extension LibraryXCTests {
         await fulfillment(of: [exp])
     }
 }
-
-

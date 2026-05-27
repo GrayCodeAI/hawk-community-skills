@@ -1,3 +1,10 @@
+---
+name: ls-oezyon95g_rebellious-whimsy-chan
+description: "Skill: ls-oezyon95g_rebellious-whimsy-chan"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-OEZyOn95g-fan-kang-suruqi-maguretiyan
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-j5VQe1fPIuR6bHD0S8fWB0RK?se=2124-02-04T01%3A21%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202024-02-28%252010.09.51%2520-%2520An%2520anime-style%2520self-portrait%2520of%2520a%2520person%2520with%2520black%2520hair%2520in%2520a%2520ponytail.%2520The%2520setting%2520and%2520expression%2520are%2520left%2520to%2520the%2520artist%2527s%2520discretion%252C%2520aiming%2520for%2520a%2520l.webp&sig=emBS0UYM23wETVRftAZNQZqYx9pHxRxyTnDyGuvTAcI%3D" width="100px" />

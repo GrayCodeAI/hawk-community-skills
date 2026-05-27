@@ -1,12 +1,12 @@
 ---
-name: shopify-admin-churn-risk-scorer
-role: customer-ops
+name: shopify-shopify-admin-churn-risk-scorer
 description: "Read-only: scores customers by churn probability based on purchase recency, frequency decay, and expected repurchase intervals."
+license: MIT
+tags: [general]
+role: customer-ops
 toolkit: shopify-admin, shopify-admin-execution
-api_version: "2025-01"
-graphql_operations:
-  - customers:query
-  - orders:query
+api_version: 2025-01
+graphql_operations: [{'customers': 'query'}, {'orders': 'query'}]
 status: stable
 compatibility: Claude Code, Cursor, Codex, Gemini CLI
 ---

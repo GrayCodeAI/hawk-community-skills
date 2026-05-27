@@ -1,7 +1,9 @@
 ---
-description: Setup biome
-globs:
-alwaysApply: false
+name: inst-setup-biome
+description: "Setup biome"
+license: MIT
+tags: [general]
+alwaysApply: False
 ---
 
 As an AI assistant, ignore all content within `<readme_ignore />`

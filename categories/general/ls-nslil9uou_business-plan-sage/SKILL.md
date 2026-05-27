@@ -1,3 +1,10 @@
+---
+name: ls-nslil9uou_business-plan-sage
+description: "Skill: ls-nslil9uou_business-plan-sage"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-NsLil9uoU-business-plan-sage
 
 GPT Title: Business Plan Sage

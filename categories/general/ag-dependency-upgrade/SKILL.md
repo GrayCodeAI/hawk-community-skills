@@ -1,9 +1,11 @@
 ---
-name: dependency-upgrade
+name: ag-dependency-upgrade
 description: "Master major dependency version upgrades, compatibility analysis, staged upgrade strategies, and comprehensive testing approaches."
+license: MIT
+tags: [general]
 risk: critical
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Dependency Upgrade

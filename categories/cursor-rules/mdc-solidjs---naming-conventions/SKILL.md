@@ -1,5 +1,9 @@
 ---
-description: Requires adherence to Solid.js naming conventions and best practices throughout the project.
-globs: src/**/*.jsx
+name: mdc-solidjs---naming-conventions
+description: 'Skill: mdc-solidjs---naming-conventions'
+license: MIT
+tags:
+- cursor-rules
 ---
+
 - Follow Solid.js naming conventions and best practices

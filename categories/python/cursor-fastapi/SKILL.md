@@ -1,16 +1,11 @@
 ---
 name: cursor-fastapi
-description: Cursor IDE rules for fastapi
-domain: engineering
+description: "Cursor IDE rules for fastapi"
+license: MIT
 tags: [cursor, ide-rules]
-version: "1.0"
+domain: engineering
+version: 1.0
 author: cursorrules-collection
----
-
----
-description: "FastAPI: Pydantic v2, dependency injection, async"
-globs: ["*.py"]
-alwaysApply: true
 ---
 
 # FastAPI Cursor Rules

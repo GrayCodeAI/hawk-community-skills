@@ -1,3 +1,10 @@
+---
+name: ls-twitter
+description: "Skill: ls-twitter"
+license: MIT
+tags: [general]
+---
+
 product link: [Wordware AI](https://twitter.wordware.ai/)
 
 Roast prompt:

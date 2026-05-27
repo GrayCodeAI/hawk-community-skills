@@ -1,3 +1,10 @@
+---
+name: ls-fmxlnpfkb_diffusion-master
+description: "Skill: ls-fmxlnpfkb_diffusion-master"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-FMXlNpFkB-diffusion-master
 
 GPT Title: Diffusion Master

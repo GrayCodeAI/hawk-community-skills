@@ -1,9 +1,11 @@
 ---
-name: product-differentiation-amazon
+name: ecom-product-differentiation-amazon
+description: "Amazon product differentiation strategy tool. Analyze competitor weaknesses, extract pain points from negative reviews, identify unique selling points from positive reviews, and generate actionable..."
+license: MIT
+tags: [general]
 version: 1.0.0
 author: Nexscope AI
-description: "Amazon product differentiation strategy tool. Analyze competitor weaknesses, extract pain points from negative reviews, identify unique selling points from positive reviews, and generate actionable differentiation strategies. Progressive L1-L4 analysis depth. No API key required."
-metadata: {"nexscope":{"emoji":"🎯","category":"ecommerce"}}
+metadata: {'nexscope': {'emoji': '🎯', 'category': 'ecommerce'}}
 ---
 
 # Product Differentiation — Amazon 🎯

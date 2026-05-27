@@ -1,7 +1,10 @@
 ---
-description: This guide defines our team's definitive best practices for writing fast, reliable, and maintainable tests using pytest, ensuring consistency and high code quality across projects.
-globs: **/*.py
+name: mdc-pytest
+description: "This guide defines our team's definitive best practices for writing fast, reliable, and maintainable tests using pytest, ensuring consistency and high code quality across projects."
+license: MIT
+tags: [python]
 ---
+
 # pytest Best Practices
 
 This document outlines our team's standard for writing `pytest` tests. Adhering to these guidelines ensures our test suite is fast, reliable, and easy to maintain, integrating seamlessly into our CI/CD pipelines.

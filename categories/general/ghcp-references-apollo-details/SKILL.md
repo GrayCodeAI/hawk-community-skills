@@ -1,3 +1,10 @@
+---
+name: ghcp-references-apollo-details
+description: "Skill: ghcp-references-apollo-details"
+license: MIT
+tags: [general]
+---
+
 # Apollo Client - React 18 Compatibility Details
 
 ## Why Apollo 3.8+ is Required

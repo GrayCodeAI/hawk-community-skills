@@ -1,9 +1,10 @@
 ---
-name: gtars
-description: High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic regions, BED files, coverage tracks, overlap detection, tokenization for ML models, or fragment analysis in computational genomics and machine learning applications.
+name: sci-gtars
+description: "High-performance toolkit for genomic interval analysis in Rust with Python bindings. Use when working with genomic regions, BED files, coverage tracks, overlap detection, tokenization for ML models..."
 license: Unknown
-metadata:
-    skill-author: K-Dense Inc.
+tags: [scientific]
+metadata: None
+skill-author: K-Dense Inc.
 ---
 
 # Gtars: Genomic Tools and Algorithms in Rust
@@ -280,4 +281,3 @@ gtars.set_log_level("DEBUG")
 # CLI verbose mode
 gtars --verbose <command>
 ```
-

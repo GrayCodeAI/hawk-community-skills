@@ -1,17 +1,15 @@
 ---
-name: lettuce-skill
-description: >
-  Generates Lettuce BDD tests for Python with feature files and step definitions.
-  Note: Lettuce is legacy/unmaintained; consider Behave for new projects. Use when
-  user specifically mentions "Lettuce". Triggers on: "Lettuce", "lettuce test",
-  "lettuce BDD".
-languages:
-  - Python
-category: bdd-testing
+name: lt-lettuce-skill
+description: "Skill: lt-lettuce-skill"
 license: MIT
-metadata:
-  author: TestMu AI
-  version: "1.0"
+tags: [testing]
+Note: Lettuce is legacy/unmaintained; consider Behave for new projects. Use when
+user specifically mentions "Lettuce". Triggers on: Lettuce", "lettuce test",
+languages: None
+category: bdd-testing
+metadata: None
+author: TestMu AI
+version: 1.0
 ---
 
 # Lettuce BDD Skill (Legacy)

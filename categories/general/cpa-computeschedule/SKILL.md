@@ -1,3 +1,10 @@
+---
+name: cpa-computeschedule
+description: "Skill: cpa-computeschedule"
+license: MIT
+tags: [general]
+---
+
 # az computeschedule
 
 ```bash

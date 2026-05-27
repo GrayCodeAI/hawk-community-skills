@@ -1,3 +1,10 @@
+---
+name: ls-lblmouxk6_get-simpsonized
+description: "Skill: ls-lblmouxk6_get-simpsonized"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-lbLmoUxk6-get-simpsonized
 
 GPT Title: 🍩 Get Simpsonized! 🍩

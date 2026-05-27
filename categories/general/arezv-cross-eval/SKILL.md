@@ -1,6 +1,8 @@
 ---
-name: "cross-eval"
+name: arezv-cross-eval
 description: "/cs:cross-eval <memo> — Multi-model consensus on a board memo or strategy brief. Claude + Codex + Gemini cross-review with graceful degradation."
+license: MIT
+tags: [general]
 ---
 
 # /cs:cross-eval — Multi-Model Consensus

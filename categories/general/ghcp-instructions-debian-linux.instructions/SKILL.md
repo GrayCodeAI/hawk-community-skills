@@ -1,6 +1,8 @@
 ---
-description: 'Guidance for Debian-based Linux administration, apt workflows, and Debian policy conventions.'
-applyTo: '**'
+name: ghcp-instructions-debian-linux.instructions
+description: "Skill: ghcp-instructions-debian-linux.instructions"
+license: MIT
+tags: [general]
 ---
 
 # Debian Linux Administration Guidelines

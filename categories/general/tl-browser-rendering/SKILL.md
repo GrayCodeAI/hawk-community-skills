@@ -1,3 +1,10 @@
+---
+name: tl-browser-rendering
+description: "Skill: tl-browser-rendering"
+license: MIT
+tags: [general]
+---
+
 # Browser Rendering Gotchas
 
 ## Tier Limits

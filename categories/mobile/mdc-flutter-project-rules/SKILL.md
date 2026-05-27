@@ -1,7 +1,10 @@
 ---
-description: Rules specific to Flutter projects, including directory structure, feature organization, and naming conventions to ensure a scalable and maintainable codebase.
-globs: lib/**/*
+name: mdc-flutter-project-rules
+description: "Rules specific to Flutter projects, including directory structure, feature organization, and naming conventions to ensure a scalable and maintainable codebase."
+license: MIT
+tags: [mobile]
 ---
+
 - Implement code following this directory structure:
 
   

@@ -1,3 +1,10 @@
+---
+name: gpt-patchnotes
+description: "Skill: gpt-patchnotes"
+license: MIT
+tags: [general]
+---
+
 ## 1.17
 - Added Xcode export
 - Prompt updates, hotkey behavior tweaks

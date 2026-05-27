@@ -1,6 +1,8 @@
 ---
-name: shopify-admin-skills
-description: Master skill collection for Shopify store operators. Provides access to all merchandising, marketing, support, and operations capabilities.
+name: shopify-SKILL
+description: "Master skill collection for Shopify store operators. Provides access to all merchandising, marketing, support, and operations capabilities."
+license: MIT
+tags: [general]
 ---
 
 # shopify-admin-skills

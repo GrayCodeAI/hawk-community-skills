@@ -1,6 +1,8 @@
 ---
-description: 'Guidelines for generating SQL statements and stored procedures'
-applyTo: '**/*.sql'
+name: ghcp-instructions-sql-sp-generation.instructions
+description: "Skill: ghcp-instructions-sql-sp-generation.instructions"
+license: MIT
+tags: [general]
 ---
 
 # SQL Development

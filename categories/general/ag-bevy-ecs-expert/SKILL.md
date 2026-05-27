@@ -1,9 +1,11 @@
 ---
-name: bevy-ecs-expert
+name: ag-bevy-ecs-expert
 description: "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling."
+license: MIT
+tags: [general]
 risk: safe
 source: community
-date_added: "2026-02-27"
+date_added: 2026-02-27
 ---
 
 # Bevy ECS Expert

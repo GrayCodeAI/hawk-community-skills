@@ -1,3 +1,10 @@
+---
+name: gpt-m5lmegiff_sql-expert
+description: "Skill: gpt-m5lmegiff_sql-expert"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-m5lMeGifF-sql-expert
 
 GPT Title: SQL Expert

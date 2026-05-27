@@ -1,3 +1,10 @@
+---
+name: gpt-ahghgsup1_maharshi_-_the_hindu_gpt
+description: "Skill: gpt-ahghgsup1_maharshi_-_the_hindu_gpt"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-AHghGSuP1-maharshi-the-hindu-gpt
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-gUKTJyXPe6oLS5AO9p3UBWDe?se=2123-10-21T05%3A40%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db6d20fee-8b9c-454b-9f55-1fc92a3f6b07.png&sig=jMfi50N6P7wM8hHDSdIxDIPnCn4V5sg6%2BuDe%2Ba5pBsM%3D" width="100px" />

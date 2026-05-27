@@ -1,7 +1,10 @@
 ---
-description: This guide provides definitive best practices for building robust, maintainable, and performant AI agent workflows using LangGraph.
-globs: **/*.py
+name: mdc-langgraph
+description: "This guide provides definitive best practices for building robust, maintainable, and performant AI agent workflows using LangGraph."
+license: MIT
+tags: [cursor-rules]
 ---
+
 # langgraph Best Practices
 
 ## Code Organization and Structure

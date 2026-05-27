@@ -1,8 +1,10 @@
 ---
-name: wakatime-automation
+name: composio-wakatime-automation
 description: "Automate Wakatime tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Wakatime Automation via Rube MCP

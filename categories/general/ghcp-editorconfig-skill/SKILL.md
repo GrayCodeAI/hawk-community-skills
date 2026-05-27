@@ -1,6 +1,8 @@
 ---
-name: editorconfig
-description: 'Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis and user preferences.'
+name: ghcp-editorconfig-skill
+description: "Generates a comprehensive and best-practice-oriented .editorconfig file based on project analysis and user preferences."
+license: MIT
+tags: [general]
 ---
 
 ## 📜 MISSION

@@ -1,3 +1,10 @@
+---
+name: rb-contributing
+description: "Skill: rb-contributing"
+license: MIT
+tags: [general]
+---
+
 # Contributing to Rulebook-AI
 
 Thank you for considering contributing to Rulebook-AI! This document provides guidelines and instructions for contributing to this project.

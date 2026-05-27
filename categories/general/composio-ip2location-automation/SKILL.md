@@ -1,8 +1,10 @@
 ---
-name: ip2location-automation
+name: composio-ip2location-automation
 description: "Automate Ip2location tasks via Rube MCP (Composio). Always search tools first for current schemas."
-requires:
-  mcp: [rube]
+license: MIT
+tags: [general]
+requires: None
+mcp: [rube]
 ---
 
 # Ip2location Automation via Rube MCP

@@ -1,3 +1,10 @@
+---
+name: ls-ixw9qdqhy_sadhguru
+description: "Skill: ls-ixw9qdqhy_sadhguru"
+license: MIT
+tags: [general]
+---
+
 GPT URL: https://chat.openai.com/g/g-iXw9qdQHy-sadhguru
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-O2APK0J0CXNMcgUxHtQ5KY40?se=2123-10-19T18%3A02%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5746ffb8-e5d3-4d69-80fc-f3a4595fc151.png&sig=ZYFdgIV072sBVH82BWorYhnm/6eS%2B1hi2r4YN2rUF%2B4%3D" width="100px" />

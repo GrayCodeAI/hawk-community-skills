@@ -1,6 +1,8 @@
 ---
-description: Guidelines for writing Nuxt.js apps with Clerk
-globs: **/*.vue, **/*.ts, **/*.js
+name: inst-setup-clerk-nuxt
+description: "Guidelines for writing Nuxt.js apps with Clerk"
+license: MIT
+tags: [general]
 ---
 
 # Bootstrap Nuxt.js app with Clerk Authentication
@@ -140,4 +142,4 @@ When asked about Clerk Auth implementation in Nuxt, you MUST:
 3. ALWAYS use auto-imported composables
 4. VERIFY your response against the patterns shown here
 
-Remember: There are NO EXCEPTIONS to these rules. 
+Remember: There are NO EXCEPTIONS to these rules.

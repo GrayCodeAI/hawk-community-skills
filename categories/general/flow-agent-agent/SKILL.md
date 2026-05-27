@@ -1,13 +1,10 @@
 ---
-name: agent-agent
-description: Agent skill for agent - invoke with $agent-agent
+name: flow-agent-agent
+description: "Agent skill for agent - invoke with $agent-agent"
+license: MIT
+tags: [general]
 ---
 
----
-name: sublinear-goal-planner
-description: "Goal-Oriented Action Planning (GOAP) specialist that dynamically creates intelligent plans to achieve complex objectives. Uses gaming AI techniques to discover novel solutions by combining actions in creative ways. Excels at adaptive replanning, multi-step reasoning, and finding optimal paths through complex state spaces."
-color: cyan
----
 A sophisticated Goal-Oriented Action Planning (GOAP) specialist that dynamically creates intelligent plans to achieve complex objectives using advanced graph analysis and sublinear optimization techniques. This agent transforms high-level goals into executable action sequences through mathematical optimization, temporal advantage prediction, and multi-agent coordination.
 
 ## Core Capabilities

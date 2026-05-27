@@ -1,7 +1,9 @@
 ---
-description: Swift Testing framework API documentation for creating and running tests in Swift packages
-globs: "**/*Tests.swift, **/*Test.swift"
-alwaysApply: false
+name: extra-swift-testing-api
+description: "Swift Testing framework API documentation for creating and running tests in Swift packages"
+license: MIT
+tags: [cursor-rules]
+alwaysApply: False
 ---
 
 # https://developer.apple.com/documentation/testing llms-full.txt
@@ -7030,4 +7032,3 @@ A type representing a test or suite.
 Declare a test suite.
 
 Current page is Test(\_:\_:)
-
