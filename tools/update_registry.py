@@ -13,6 +13,10 @@ except ImportError:
     print("Missing dependencies. Install with: pip install -r tools/requirements.txt")
     sys.exit(1)
 
+# Add tools directory to path for shared imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import parse_frontmatter
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
 REGISTRY_PATH = REPO_ROOT / "registry.json"
@@ -20,18 +24,7 @@ REGISTRY_PATH = REPO_ROOT / "registry.json"
 console = Console()
 
 
-def parse_frontmatter(content: str) -> dict | None:
-    """Extract YAML frontmatter from markdown content."""
-    if not content.startswith("---"):
-        return None
-    parts = content.split("---", 2)
-    if len(parts) < 3:
-        return None
-    try:
-        fm = yaml.safe_load(parts[1])
-        return fm if isinstance(fm, dict) else None
-    except yaml.YAMLError:
-        return None
+# parse_frontmatter is now imported from frontmatter module
 
 
 def count_files(path: Path) -> int:
@@ -50,6 +43,7 @@ def has_scripts_dir(path: Path) -> bool:
 def build_registry() -> list[dict]:
     """Walk all categories and build registry entries."""
     entries = []
+    seen_names = set()
 
     if not CATEGORIES_DIR.exists():
         console.print("[yellow]No categories/ directory found[/yellow]")
@@ -86,7 +80,15 @@ def build_registry() -> list[dict]:
 
             tags = frontmatter.get("tags", [])
             if isinstance(tags, str):
-                tags = [t.strip() for t in tags.split(",")]
+                tags = [t.strip() for t in tags.split(",") if t.strip()]
+            # Generate a default tag from category if tags are empty
+            if not tags:
+                tags = [category_name.lower().replace(" ", "-")]
+
+            # Skip duplicate names (keep first occurrence)
+            if name in seen_names:
+                continue
+            seen_names.add(name)
 
             entry = {
                 "name": name,

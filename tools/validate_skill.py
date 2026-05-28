@@ -3,17 +3,20 @@
 
 import os
 import re
-import sys
 import stat
+import sys
 from pathlib import Path
 
 try:
-    import yaml
     from rich.console import Console
     from rich.table import Table
 except ImportError:
     print("Missing dependencies. Install with: pip install -r tools/requirements.txt")
     sys.exit(1)
+
+# Add tools directory to path for shared imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import parse_frontmatter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
@@ -44,36 +47,6 @@ class ValidationResult:
 
     def warn(self, msg: str):
         self.warnings.append(msg)
-
-
-def parse_frontmatter(content: str) -> tuple[dict | None, str]:
-    """Extract YAML frontmatter from markdown content.
-
-    Uses line-based detection for the closing ``---`` delimiter so that
-    ``---`` characters embedded inside YAML values (e.g. quoted strings)
-    are not mistaken for the closing fence.
-    """
-    lines = content.split("\n")
-    if not lines or lines[0].strip() != "---":
-        return None, content
-
-    # Find the closing --- on its own line (skip line 0 which is the opener)
-    end_idx = None
-    for i in range(1, len(lines)):
-        if lines[i].strip() == "---":
-            end_idx = i
-            break
-
-    if end_idx is None:
-        return None, content
-
-    fm_text = "\n".join(lines[1:end_idx])
-    body = "\n".join(lines[end_idx + 1 :])
-    try:
-        fm = yaml.safe_load(fm_text)
-        return fm if isinstance(fm, dict) else None, body
-    except yaml.YAMLError:
-        return None, content
 
 
 def validate_skill(skill_path: Path) -> ValidationResult:
@@ -144,7 +117,9 @@ def validate_skill(skill_path: Path) -> ValidationResult:
             continue
         # Resolve relative path
         target_path = (skill_path / link_target).resolve()
-        if not target_path.exists():
+        if not target_path.is_relative_to(skill_path.resolve()):
+            result.warn(f"Path traversal detected: [{link_text}]({link_target}) resolves outside skill directory")
+        elif not target_path.exists():
             result.warn(f"Broken internal reference: [{link_text}]({link_target})")
 
     # Check scripts have shebang and are executable
@@ -161,17 +136,13 @@ def validate_skill(skill_path: Path) -> ValidationResult:
                 if not (mode & stat.S_IXUSR):
                     result.warn(f"Script {script.name} is not executable (chmod +x)")
 
-    # Also check scripts in services/ subdirectories
+    # Check file size across all files in the skill directory
     for dirpath, dirnames, filenames in os.walk(skill_path):
         for filename in filenames:
             filepath = Path(dirpath) / filename
-            # Check file size (except whitelisted assets)
             if filepath.stat().st_size > MAX_FILE_SIZE:
                 if filepath.suffix.lower() not in ASSET_EXTENSIONS:
                     result.warn(f"File {filepath.relative_to(skill_path)} exceeds 100KB")
-            # Check shell/python scripts anywhere
-            if filepath.suffix in (".sh", ".bash", ".py") and filepath.parent.name in ("scripts", ""):
-                pass  # Already checked above for scripts/ dir
 
     return result
 

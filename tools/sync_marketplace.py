@@ -9,17 +9,16 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
 MARKETPLACE = REPO_ROOT / ".claude-plugin" / "marketplace.json"
 
+# Add tools directory to path for shared imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import parse_frontmatter_dict
+
+
 def extract_frontmatter(skill_md):
+    """Extract YAML frontmatter from a skill markdown file."""
     content = skill_md.read_text(encoding="utf-8", errors="ignore")
-    if not content.startswith("---"):
-        return {}
-    end = content.index("---", 3)
-    fm = {}
-    for line in content[3:end].strip().split("\n"):
-        if ":" in line:
-            key, val = line.split(":", 1)
-            fm[key.strip()] = val.strip().strip('"').strip("'")
-    return fm
+    fm = parse_frontmatter_dict(content)
+    return fm if fm else {}
 
 def main():
     skills = []
