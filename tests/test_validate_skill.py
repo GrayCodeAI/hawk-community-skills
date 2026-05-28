@@ -14,13 +14,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from validate_skill import (
     ValidationResult,
-    parse_frontmatter,
     validate_skill,
     find_all_skills,
     REQUIRED_FIELDS,
     MAX_DESCRIPTION_LEN,
     TAG_PATTERN,
 )
+from frontmatter import parse_frontmatter
 
 
 # ---------------------------------------------------------------------------
@@ -291,3 +291,95 @@ class TestFindAllSkills:
             assert find_all_skills() == []
         finally:
             vs.CATEGORIES_DIR = original
+
+
+# ---------------------------------------------------------------------------
+# Path traversal detection
+# ---------------------------------------------------------------------------
+
+
+class TestPathTraversal:
+    def test_relative_traversal_detected(self, skill_dir: Path):
+        """A link like [x](../../etc/passwd) that resolves outside the skill dir should warn."""
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nSee [secret](../../../etc/passwd) for details.\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        assert any("Path traversal" in w for w in result.warnings)
+
+    def test_dotdot_escape_detected(self, skill_dir: Path):
+        """A link like [x](../../other-skill/file.md) that escapes the skill root should warn."""
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nSee [other](../../other-skill/SKILL.md) for info.\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        assert any("Path traversal" in w for w in result.warnings)
+
+    def test_internal_link_within_skill_ok(self, skill_dir: Path):
+        """A link to a file that exists inside the skill directory should not warn."""
+        subdir = skill_dir / "docs"
+        subdir.mkdir()
+        (subdir / "guide.md").write_text("# Guide\n\nHello.\n", encoding="utf-8")
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nSee [guide](docs/guide.md) for details.\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        # Should not have a path traversal warning
+        assert not any("Path traversal" in w for w in result.warnings)
+
+    def test_external_url_not_flagged(self, skill_dir: Path):
+        """External URLs (http/https) should not be checked for path traversal."""
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nSee [example](https://example.com) for details.\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        assert not any("Path traversal" in w for w in result.warnings)
+
+    def test_mailto_link_not_flagged(self, skill_dir: Path):
+        """mailto: links should not be checked for path traversal."""
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nContact [us](mailto:admin@example.com).\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        assert not any("Path traversal" in w for w in result.warnings)
+
+    def test_anchor_link_not_flagged(self, skill_dir: Path):
+        """Anchor links (#section) should not be checked for path traversal."""
+        (skill_dir / "SKILL.md").write_text(
+            "---\nname: test-skill\ndescription: A test\nlicense: MIT\ntags: [a]\n---\n\n"
+            "# Test\n\nJump to [section](#overview).\n\n## Overview\n\nHere.\n",
+            encoding="utf-8",
+        )
+        result = validate_skill(skill_dir)
+        assert not any("Path traversal" in w for w in result.warnings)
+
+
+# ---------------------------------------------------------------------------
+# File size validation
+# ---------------------------------------------------------------------------
+
+
+class TestFileSize:
+    def test_large_non_asset_warns(self, skill_dir: Path):
+        """A non-asset file exceeding 100KB should produce a warning."""
+        large_content = "# Skill\n\n" + "x" * (100 * 1024 + 1)
+        (skill_dir / "README.md").write_text(large_content, encoding="utf-8")
+        result = validate_skill(skill_dir)
+        assert any("exceeds 100KB" in w for w in result.warnings)
+
+    def test_asset_file_not_warned(self, skill_dir: Path):
+        """Asset files (e.g. .png) exceeding 100KB should not warn."""
+        large_asset = b"\x00" * (100 * 1024 + 1)
+        (skill_dir / "screenshot.png").write_bytes(large_asset)
+        result = validate_skill(skill_dir)
+        assert not any("exceeds 100KB" in w for w in result.warnings)
