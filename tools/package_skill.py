@@ -12,30 +12,19 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 try:
-    import yaml
     from rich.console import Console
 except ImportError:
     print("Missing dependencies. Install with: pip install -r tools/requirements.txt")
     sys.exit(1)
 
+# Add tools directory to path for shared imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import parse_frontmatter_dict
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DIST_DIR = REPO_ROOT / "dist"
 
 console = Console()
-
-
-def parse_frontmatter(content: str) -> dict | None:
-    """Extract YAML frontmatter from markdown content."""
-    if not content.startswith("---"):
-        return None
-    parts = content.split("---", 2)
-    if len(parts) < 3:
-        return None
-    try:
-        fm = yaml.safe_load(parts[1])
-        return fm if isinstance(fm, dict) else None
-    except yaml.YAMLError:
-        return None
 
 
 def validate_before_package(skill_path: Path) -> bool:
@@ -94,7 +83,7 @@ def main():
 
     # Read frontmatter for metadata
     content = skill_md.read_text(encoding="utf-8")
-    frontmatter = parse_frontmatter(content) or {}
+    frontmatter = parse_frontmatter_dict(content) or {}
     skill_name = frontmatter.get("name", skill_path.name)
     version = frontmatter.get("version", "1.0")
 

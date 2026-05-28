@@ -1,6 +1,6 @@
-# Contributing to Autohand Community Skills
+# Contributing to hawk Community Skills
 
-Thank you for your interest in contributing! Every skill helps make Autohand smarter for everyone.
+Thank you for your interest in contributing! Every skill helps make hawk smarter for everyone.
 
 ## Ways to Contribute
 
@@ -39,10 +39,9 @@ Every skill requires a `SKILL.md` file with YAML frontmatter:
 ```markdown
 ---
 name: my-skill-name
-description: A brief description (under 100 characters)
+description: A brief description (under 200 characters)
+tags: [tag1, tag2]
 license: MIT
-compatibility: typescript 5+, nodejs 18+
-allowed-tools: read_file write_file apply_patch run_command
 ---
 
 # Skill Title
@@ -50,25 +49,24 @@ allowed-tools: read_file write_file apply_patch run_command
 ## Overview
 Brief introduction to what this skill covers.
 
-## Core Concepts
-Key concepts and principles.
+## When to Use
+List specific scenarios where this skill is useful.
 
-## Patterns
-Code examples and patterns.
+## Instructions
+Provide detailed instructions for how the skill should behave.
 
-## Best Practices
-Numbered list of recommendations.
+## References
+Link to relevant docs, APIs, or related skills.
 ```
 
 ### Frontmatter Fields
 
 | Field | Required | Description |
 |-------|----------|-------------|
-| `name` | Yes | Skill identifier (kebab-case) |
-| `description` | Yes | Brief description (under 100 characters) |
+| `name` | Yes | Skill identifier (kebab-case, must match directory name) |
+| `description` | Yes | Brief description (under 200 characters) |
+| `tags` | Yes | 1-5 lowercase kebab-case tags |
 | `license` | Yes | An OSI-approved license (see [Licensing](#licensing)) |
-| `compatibility` | Yes | Version requirements |
-| `allowed-tools` | No | Tools the skill can use |
 
 ### Content Guidelines
 
@@ -182,7 +180,7 @@ Update the `files` array in your registry entry:
 
 ## Licensing
 
-This repository is licensed under the [MIT License](./LICENSE). The repository infrastructure, registry, and documentation are copyright Autohand AI.
+This repository is licensed under the [MIT License](./LICENSE). The repository infrastructure, registry, and documentation are copyright GrayCode AI.
 
 **For contributed skills:**
 
@@ -191,7 +189,7 @@ This repository is licensed under the [MIT License](./LICENSE). The repository i
 - Your chosen license must be an [OSI-approved open source license](https://opensource.org/licenses) (MIT, Apache-2.0, ISC, BSD-2-Clause, etc.)
 - If no license is specified, MIT is assumed
 - By submitting a skill, you confirm that you have the right to license the content under your chosen license
-- Autohand AI may distribute, index, and serve your skill through the registry and [skilled.autohand.ai](https://skilled.autohand.ai) under the terms of your chosen license
+- GrayCode AI may distribute, index, and serve your skill through the registry under the terms of your chosen license
 
 ## Review Process
 

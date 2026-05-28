@@ -1,7 +1,7 @@
 {
   "name": "hawk-community-skills",
-  "version": "0.2.0",
-  "description": "Community skill packages for hawk — security, code review, DevOps, and more.",
+  "version": "not-a-version",
+  "description": "Community skill packages for hawk \u2014 security, code review, DevOps, and more.",
   "author": "GrayCode AI",
   "repository": "https://github.com/GrayCodeAI/hawk-community-skills",
   "license": "MIT"

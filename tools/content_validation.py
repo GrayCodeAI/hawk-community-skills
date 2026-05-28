@@ -8,10 +8,12 @@ and follows expected formatting conventions.
 from __future__ import annotations
 
 import re
+import sys
 from pathlib import Path
-from typing import Any
 
-import yaml
+# Add tools directory to path for shared imports
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from frontmatter import parse_frontmatter  # noqa: E402
 
 
 # --- Constants ---
@@ -35,6 +37,51 @@ VALID_LICENSES = {"MIT", "Apache-2.0", "GPL-3.0", "BSD-3-Clause", "CC-BY-4.0", "
 MIN_BODY_LENGTH = 50  # characters of real content (after stripping whitespace/comments)
 
 
+# --- Prompt Injection Detection ---
+
+PROMPT_INJECTION_PATTERNS = [
+    r"ignore\s+(all\s+)?previous\s+instructions",
+    r"ignore\s+(all\s+)?prior\s+instructions",
+    r"disregard\s+(all\s+)?previous\s+instructions",
+    r"you\s+are\s+now\s+(a|an)\s+",
+    r"system\s*prompt\s*:",
+    r"new\s+instructions?\s*:",
+    r"override\s+(all\s+)?instructions",
+    r"forget\s+(all\s+)?(your\s+)?instructions",
+    r"act\s+as\s+if\s+you\s+(are|were)",
+    r"pretend\s+you\s+(are|were)\s+",
+    r"from\s+now\s+on\s+you\s+(are|will)\s+",
+    r"\[INST\]",
+    r"\[/INST\]",
+    r"<\|im_start\|>",
+    r"<\|im_end\|>",
+    r"###\s*system\s*",
+    r"ADMIN\s+OVERRIDE",
+    r"jailbreak",
+]
+
+_injection_re = re.compile(
+    "|".join(PROMPT_INJECTION_PATTERNS), re.IGNORECASE | re.MULTILINE
+)
+
+
+def check_prompt_injection(content: str, result: BodyValidationResult) -> None:
+    """Scan skill content for common prompt injection patterns.
+
+    Flags matches as warnings (not errors) for human review, since some
+    patterns may appear legitimately in skill instructions.
+    """
+    unique_patterns: set[str] = set()
+    for m in _injection_re.finditer(content):
+        matched_text = m.group(0).strip()
+        unique_patterns.add(matched_text)
+    for pattern in sorted(unique_patterns):
+        result.warn(
+            f"Possible prompt injection pattern detected: '{pattern}'. "
+            "Please review this content manually."
+        )
+
+
 class BodyValidationResult:
     """Result of validating the body/content of a SKILL.md file."""
 
@@ -52,20 +99,6 @@ class BodyValidationResult:
 
     def warn(self, msg: str) -> None:
         self.warnings.append(msg)
-
-
-def parse_frontmatter(content: str) -> tuple[dict[str, Any] | None, str]:
-    """Extract YAML frontmatter and return (fm_dict, body_text)."""
-    if not content.startswith("---"):
-        return None, content
-    parts = content.split("---", 2)
-    if len(parts) < 3:
-        return None, content
-    try:
-        fm = yaml.safe_load(parts[1])
-        return fm if isinstance(fm, dict) else None, parts[2]
-    except yaml.YAMLError:
-        return None, content
 
 
 def _extract_headings(body: str) -> list[str]:
@@ -137,10 +170,6 @@ def validate_content_body(skill_path: Path) -> BodyValidationResult:
         )
 
     # Check for placeholder-only content
-    placeholder_patterns = [
-        r"^#+\s*\w+\s*\n\s*<!--.*?-->",
-        r"^\s*<!--.*?-->\s*$",
-    ]
     body_no_placeholders = re.sub(r"<!--.*?-->", "", body, flags=re.DOTALL).strip()
     if len(body_no_placeholders) < 20:
         result.error("Body appears to be only placeholder comments with no real content")
@@ -165,5 +194,8 @@ def validate_content_body(skill_path: Path) -> BodyValidationResult:
     for h, count in seen_headings.items():
         if count > 1:
             result.warn(f"Duplicate heading: '{h}' (appears {count} times)")
+
+    # Scan for prompt injection patterns
+    check_prompt_injection(content, result)
 
     return result

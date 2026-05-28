@@ -66,6 +66,11 @@ for cat_dir in "$SCRIPT_DIR"/categories/*/; do
         if [[ -L "$target" ]] && [[ "$(readlink "$target")" == "$skill_dir" ]]; then
             ((skipped++)); continue
         fi
+        # Validate skill name contains no path separators to prevent traversal.
+        if [[ "$skill_name" == *..* ]] || [[ "$skill_name" == */* ]]; then
+            echo -e "${RED}  ✗ Skipping unsafe skill name: $skill_name${NC}"
+            continue
+        fi
         [[ -e "$target" ]] && rm -rf "$target"
         ln -s "$skill_dir" "$target"
         ((installed++))
