@@ -45,3 +45,10 @@ tools/__pycache__/
 # Temporary
 *.tmp
 *.log
+
+# AI/IDE tool configs
+.cursor/
+.openclaude/
+.commandcode/
+.antigravitycli/
+.pi/
