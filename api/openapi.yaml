@@ -1,0 +1,45 @@
+openapi: "3.1.0"
+info:
+  title: hawk-community-skills — Skill Registry Reference
+  description: |
+    Community skill packages for hawk. Each skill is a Markdown file with YAML
+    frontmatter that hawk loads into its system prompt when activated.
+
+    This is a skill registry — no HTTP server is exposed.
+    Skills are installed via the hawk CLI: `hawk skills install <name>`.
+  version: "0.1.0"
+  license:
+    name: MIT
+    url: https://github.com/GrayCodeAI/hawk-community-skills/blob/main/LICENSE
+  contact:
+    url: https://github.com/GrayCodeAI/hawk-community-skills
+
+# No servers — skills are installed via hawk CLI, not over HTTP.
+
+x-skill-format:
+  required_frontmatter:
+    - name (string, must match directory name)
+    - description (string, max 200 chars)
+    - license (string, e.g. MIT)
+  optional_frontmatter:
+    - version (semver string)
+    - author (string)
+    - tags (array of 1-5 lowercase kebab-case strings)
+  skill_directory_structure:
+    SKILL.md: "Required entry point with frontmatter + instructions"
+    templates/: "Optional template files"
+    examples/: "Optional example files"
+    scripts/: "Optional Python/shell scripts (must have shebang + exec bit)"
+    references/: "Optional reference documents"
+    assets/: "Optional static assets"
+
+x-cli-commands:
+  install:
+    description: Install a skill into hawk
+    usage: hawk skills install <skill-name>
+  search:
+    description: Search the skill registry
+    usage: hawk skills search <query>
+  list:
+    description: List installed skills
+    usage: hawk skills list
