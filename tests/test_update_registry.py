@@ -17,9 +17,9 @@ if TOOLS_DIR not in sys.path:
 
 # ---------------------------------------------------------------------------
 # IMPORTANT: update_registry.py imports parse_frontmatter from frontmatter.py,
-# but the current parse_frontmatter returns (dict | None, str) while
-# update_registry.py treats it as returning dict | None.  We monkeypatch the
-# module-level reference so that build_registry() exercises the intended logic.
+# which returns (dict | None, str). update_registry.py unpacks the tuple.
+# We monkeypatch the module-level reference to return a tuple, matching
+# the interface the code now uses.
 # ---------------------------------------------------------------------------
 
 import importlib
@@ -29,20 +29,20 @@ import types
 import update_registry as _mod
 
 
-def _make_parse_frontmatter_return_dict(content: str) -> dict[str, Any] | None:
-    """Thin wrapper around the real parse_frontmatter that matches the interface
-    that update_registry.py expects (returns dict | None, not a tuple)."""
+def _make_parse_frontmatter_return_tuple(content: str) -> tuple[dict[str, Any] | None, str]:
+    """Thin wrapper around the real parse_frontmatter that returns a
+    (dict | None, body) tuple, matching the interface update_registry.py
+    uses after the bug fix."""
     from frontmatter import parse_frontmatter as _real
 
-    fm, _body = _real(content)
-    return fm
+    return _real(content)
 
 
 @pytest.fixture(autouse=True)
 def _patch_parse_frontmatter(monkeypatch: pytest.MonkeyPatch):
     """Replace parse_frontmatter inside update_registry with a version that
-    returns a plain dict (matching the interface the code was written for)."""
-    monkeypatch.setattr(_mod, "parse_frontmatter", _make_parse_frontmatter_return_dict)
+    returns the real (dict | None, body) tuple."""
+    monkeypatch.setattr(_mod, "parse_frontmatter", _make_parse_frontmatter_return_tuple)
 
 
 # ---------------------------------------------------------------------------

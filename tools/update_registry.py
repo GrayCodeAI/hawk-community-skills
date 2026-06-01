@@ -66,7 +66,7 @@ def build_registry() -> list[dict]:
                 content = skill_md.read_text(encoding="utf-8")
             except (UnicodeDecodeError, OSError):
                 continue
-            frontmatter = parse_frontmatter(content)
+            frontmatter, _ = parse_frontmatter(content)
 
             if frontmatter is None:
                 continue
