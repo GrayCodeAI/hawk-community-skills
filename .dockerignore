@@ -13,4 +13,3 @@ tests/
 __pycache__/
 *.pyc
 .venv/
-registry.json
