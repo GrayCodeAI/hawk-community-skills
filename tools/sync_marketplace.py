@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Generate marketplace.json skills array from categories/ directory."""
 import json
-import re
 import sys
 from pathlib import Path
 
@@ -11,7 +10,7 @@ MARKETPLACE = REPO_ROOT / ".claude-plugin" / "marketplace.json"
 
 # Add tools directory to path for shared imports
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from frontmatter import parse_frontmatter_dict
+from frontmatter import parse_frontmatter_dict  # noqa: E402
 
 
 def extract_frontmatter(skill_md):
