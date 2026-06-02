@@ -1,0 +1,11 @@
+name: hawk-community-skills
+
+services:
+  hawk-community-skills:
+    build:
+      context: ../../
+      dockerfile: Dockerfile
+    image: ghcr.io/graycodeai/hawk-community-skills:dev
+    env_file:
+      - path: ../../.env.example
+        required: false

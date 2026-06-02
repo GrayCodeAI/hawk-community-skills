@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """Interactive CLI to scaffold a new skill in hawk-community-skills."""
 
-import os
 import re
 import sys
 from datetime import date
@@ -10,8 +9,8 @@ from pathlib import Path
 try:
     import yaml
     from rich.console import Console
-    from rich.prompt import Prompt, Confirm
     from rich.panel import Panel
+    from rich.prompt import Confirm, Prompt
 except ImportError:
     print("Missing dependencies. Install with: pip install -r tools/requirements.txt")
     sys.exit(1)
@@ -161,9 +160,9 @@ def main():
     (skill_dir / "SKILL.md").write_text(skill_md)
 
     console.print()
-    console.print(f"[bold green]Skill scaffolded successfully![/bold green]")
+    console.print("[bold green]Skill scaffolded successfully![/bold green]")
     console.print(f"  Path: [cyan]{skill_dir.relative_to(REPO_ROOT)}[/cyan]")
-    console.print(f"  SKILL.md created with frontmatter")
+    console.print("  SKILL.md created with frontmatter")
     if create_scripts:
         console.print("  scripts/ directory created")
     if create_examples:

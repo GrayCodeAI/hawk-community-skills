@@ -7,7 +7,6 @@ import os
 import subprocess
 import sys
 import tarfile
-import tempfile
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -36,7 +35,7 @@ def validate_before_package(skill_path: Path) -> bool:
         text=True,
     )
     if result.returncode != 0:
-        console.print(f"[red]Validation failed:[/red]")
+        console.print("[red]Validation failed:[/red]")
         console.print(result.stdout)
         if result.stderr:
             console.print(result.stderr)
@@ -97,7 +96,7 @@ def main():
     # Create archive
     console.print(f"[dim]Packaging {skill_name} v{version}...[/dim]")
     with tarfile.open(archive_path, "w:gz") as tar:
-        for dirpath, dirnames, filenames in os.walk(skill_path):
+        for dirpath, _dirnames, filenames in os.walk(skill_path):
             for filename in filenames:
                 filepath = Path(dirpath) / filename
                 arcname = f"{skill_name}/{filepath.relative_to(skill_path)}"
@@ -120,7 +119,7 @@ def main():
     meta_path.write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
 
     console.print()
-    console.print(f"[bold green]Package created successfully![/bold green]")
+    console.print("[bold green]Package created successfully![/bold green]")
     console.print(f"  Archive: [cyan]{archive_path.relative_to(REPO_ROOT)}[/cyan]")
     console.print(f"  Metadata: [cyan]{meta_path.relative_to(REPO_ROOT)}[/cyan]")
     console.print(f"  SHA256: [dim]{checksum}[/dim]")

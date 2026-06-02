@@ -7,7 +7,6 @@ import sys
 from pathlib import Path
 
 try:
-    import yaml
     from rich.console import Console
 except ImportError:
     print("Missing dependencies. Install with: pip install -r tools/requirements.txt")
@@ -120,7 +119,7 @@ def main():
         encoding="utf-8",
     )
 
-    console.print(f"[bold green]Registry updated![/bold green]")
+    console.print("[bold green]Registry updated![/bold green]")
     console.print(f"  Skills indexed: [cyan]{len(entries)}[/cyan]")
     console.print(f"  Output: [cyan]{REGISTRY_PATH.relative_to(REPO_ROOT)}[/cyan]")
 
