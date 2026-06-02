@@ -64,7 +64,7 @@ def validate_skill(skill_path: Path) -> ValidationResult:
     try:
         content = skill_md.read_text(encoding="utf-8")
     except UnicodeDecodeError:
-        result.error(f"SKILL.md is not valid UTF-8")
+        result.error("SKILL.md is not valid UTF-8")
         return result
     frontmatter, body = parse_frontmatter(content)
 
@@ -137,12 +137,14 @@ def validate_skill(skill_path: Path) -> ValidationResult:
                     result.warn(f"Script {script.name} is not executable (chmod +x)")
 
     # Check file size across all files in the skill directory
-    for dirpath, dirnames, filenames in os.walk(skill_path):
+    for dirpath, _dirnames, filenames in os.walk(skill_path):
         for filename in filenames:
             filepath = Path(dirpath) / filename
-            if filepath.stat().st_size > MAX_FILE_SIZE:
-                if filepath.suffix.lower() not in ASSET_EXTENSIONS:
-                    result.warn(f"File {filepath.relative_to(skill_path)} exceeds 100KB")
+            if (
+                filepath.stat().st_size > MAX_FILE_SIZE
+                and filepath.suffix.lower() not in ASSET_EXTENSIONS
+            ):
+                result.warn(f"File {filepath.relative_to(skill_path)} exceeds 100KB")
 
     return result
 
