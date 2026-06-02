@@ -41,10 +41,7 @@ def main():
     current = VERSION_FILE.read_text().strip() if VERSION_FILE.exists() else "0.0.0"
     arg = sys.argv[1]
 
-    if arg in ("major", "minor", "patch"):
-        new_version = bump(current, arg)
-    else:
-        new_version = arg
+    new_version = bump(current, arg) if arg in ("major", "minor", "patch") else arg
 
     VERSION_FILE.write_text(new_version + "\n")
 
