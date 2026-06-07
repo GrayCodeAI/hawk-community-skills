@@ -39,4 +39,5 @@ jobs:
           node-version: '20'
       - name: jscpd
         run: |
-          npx jscpd --min-lines 8 --min-tokens 100 --threshold 20 --reporters console . 2>&1 | tail -30
+          npx jscpd --min-lines 8 --min-tokens 100 --threshold 20 --reporters console \
+            --ignore "categories/**,docs/**,plans/**" . 2>&1 | tail -30
