@@ -49,6 +49,27 @@ REGISTRY_ENTRY_SCHEMA: dict[str, Any] = {
             "type": "boolean",
             "description": "Whether the skill has a scripts/ directory",
         },
+        # --- Optional provenance fields ---
+        # This registry is largely a bulk ingestion of third-party skills.
+        # These fields record where an ingested skill came from so the registry
+        # is auditable and offline-reproducible. They are optional: existing
+        # first-party entries omit them.
+        "source": {
+            "type": "string",
+            "description": "Upstream source URL the skill was ingested from",
+        },
+        "source_ref": {
+            "type": "string",
+            "description": "Upstream version/tag/branch the skill was taken at",
+        },
+        "source_commit": {
+            "type": "string",
+            "description": "Upstream commit SHA the skill was taken at",
+        },
+        "license": {
+            "type": "string",
+            "description": "SPDX license identifier of the ingested skill",
+        },
     },
     "additionalProperties": False,
 }

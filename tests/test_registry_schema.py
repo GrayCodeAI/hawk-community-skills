@@ -69,6 +69,33 @@ class TestValidEntries:
         errors = validate_registry_entry(entry)
         assert errors == []
 
+    def test_entry_with_provenance_fields(self):
+        # Optional provenance metadata must validate without being required.
+        entry = {
+            "name": "my-skill",
+            "description": "Does things",
+            "category": "python",
+            "path": "categories/python/my-skill",
+            "source": "https://github.com/example/skills",
+            "source_ref": "v1.2.0",
+            "source_commit": "abc1234",
+            "license": "Apache-2.0",
+        }
+        errors = validate_registry_entry(entry)
+        assert errors == []
+
+    def test_unknown_field_still_rejected(self):
+        # additionalProperties:false must still reject typos / stray keys.
+        entry = {
+            "name": "my-skill",
+            "description": "Does things",
+            "category": "python",
+            "path": "categories/python/my-skill",
+            "sourceee": "typo",
+        }
+        errors = validate_registry_entry(entry)
+        assert errors != []
+
 
 # ---------------------------------------------------------------------------
 # validate_registry_entry - missing required fields
