@@ -18,11 +18,13 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install -r tools/requirements.txt pytest pytest-cov
+        run: pip install -r tools/requirements.txt pytest pytest-cov pip-audit
       - name: Validate all skills
         run: python3 tools/validate_skill.py --all
       - name: Run tests
         run: python -m pytest tests/ -v --cov --cov-report=term-missing --cov-fail-under=88
+      - name: Security audit
+        run: pip-audit -r tools/requirements.txt
 
   # -------------------------------------------------------------------------
   # Duplication detection — jscpd.
