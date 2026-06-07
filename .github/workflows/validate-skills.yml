@@ -24,3 +24,12 @@ jobs:
         run: python3 tools/check_references.py
       - name: Self-containment check
         run: python3 tools/check_self_contained.py
+      - name: Secret scan (warning-only)
+        # Warning mode for now: the security/code-review skills contain
+        # token-shaped example strings. Switch to --strict once the corpus is
+        # confirmed clean so a real leaked credential fails the build.
+        run: python3 tools/check_secrets.py
+      - name: License compatibility gate
+        # Strict: copyleft (GPL/LGPL/AGPL) content must not be vendored into the
+        # MIT-rooted repo. See NOTICE for the policy.
+        run: python3 tools/check_licenses.py
