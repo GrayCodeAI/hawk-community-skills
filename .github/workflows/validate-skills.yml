@@ -20,6 +20,11 @@ jobs:
         run: python3 tools/validate_skill.py --all
       - name: Version sync check
         run: python3 tools/check_version_sync.py
+      - name: Marketplace sync check
+        # Fail if .claude-plugin/marketplace.json is stale vs categories/, so the
+        # Claude Code plugin marketplace always surfaces every skill. Regenerate
+        # with: python3 tools/sync_marketplace.py
+        run: python3 tools/sync_marketplace.py --check
       - name: Reference integrity
         run: python3 tools/check_references.py
       - name: Self-containment check
