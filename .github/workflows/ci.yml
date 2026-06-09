@@ -18,7 +18,15 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install -r tools/requirements.txt pytest pytest-cov pip-audit
+        run: pip install -r tools/requirements.txt pytest pytest-cov pip-audit ruff
+      - name: Lint (Makefile lint target)
+        # Wire the repo Makefile lint target into CI: ruff check over tools/.
+        run: make lint
+      - name: Compile category payload scripts
+        # Syntax-check shipped skill scripts so a SyntaxError in
+        # categories/**/scripts/*.py fails the build (they are never imported
+        # by the test suite).
+        run: python3 -m compileall -q categories
       - name: Validate all skills
         run: python3 tools/validate_skill.py --all
       - name: Run tests

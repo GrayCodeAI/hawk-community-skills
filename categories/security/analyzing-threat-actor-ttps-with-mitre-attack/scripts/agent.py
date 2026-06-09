@@ -122,8 +122,7 @@ if __name__ == "__main__":
     print(f"[*] Loaded {len(techniques)} techniques, {len(groups)} groups")
 
     if not group_query:
-        print("
---- Available Groups (sample) ---")
+        print("\n--- Available Groups (sample) ---")
         for gid, g in list(groups.items())[:15]:
             print(f"  {g['id']:8s} {g['name']}")
         sys.exit(0)
@@ -133,23 +132,20 @@ if __name__ == "__main__":
         print(f"[!] Group not found: {group_query}")
         sys.exit(1)
 
-    print(f"
-[*] Group: {ginfo['name']} ({ginfo['id']})")
+    print(f"\n[*] Group: {ginfo['name']} ({ginfo['id']})")
     print(f"    Aliases: {', '.join(ginfo['aliases'][:5])}")
 
     ttps = map_group_techniques(bundle, gid, techniques)
     print(f"    Techniques: {len(ttps)}")
 
     coverage = tactic_coverage(ttps)
-    print("
---- Tactic Coverage ---")
+    print("\n--- Tactic Coverage ---")
     for tactic, info in sorted(coverage.items(), key=lambda x: -x[1]["count"]):
         bar = "#" * info["count"]
         print(f"  {tactic:35s} {info['count']:3d} {bar}")
 
     sample_detections = [t["id"] for t in ttps[:len(ttps)//2]]
     gaps, pct = detection_gaps(ttps, sample_detections)
-    print(f"
---- Detection Gaps (demo: {pct}% coverage) ---")
+    print(f"\n--- Detection Gaps (demo: {pct}% coverage) ---")
     for g in gaps[:10]:
         print(f"  [GAP] {g['id']:12s} {g['name']}")
