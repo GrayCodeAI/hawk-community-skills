@@ -56,7 +56,7 @@ def enrich_indicator(client, indicator_value):
             "created_by": ind.get("createdBy", {}).get("name", "Unknown") if ind.get("createdBy") else "Unknown",
             "labels": [l.get("value") for l in ind.get("objectLabel", [])],
             "kill_chain_phases": [
-                f"{k.get("kill_chain_name")}:{k.get("phase_name")}"
+                f"{k.get('kill_chain_name')}:{k.get('phase_name')}"
                 for k in ind.get("killChainPhases", [])
             ],
         }
@@ -157,16 +157,13 @@ if __name__ == "__main__":
 
     client = init_client() if HAS_PYCTI else None
     if not client:
-        print("
-[DEMO] No OpenCTI connection. Showing classification only.")
+        print("\n[DEMO] No OpenCTI connection. Showing classification only.")
 
     report = build_enrichment_report(client, demo_iocs)
     for ioc in report["iocs"]:
-        print(f"
-  IOC: {ioc["value"]}  Type: {ioc["type"]}")
-        print(f"    Indicators found: {len(ioc["indicators"])}")
-        print(f"    Observables found: {len(ioc["observables"])}")
-        print(f"    Relationships: {len(ioc["relationships"])}")
+        print(f"\n  IOC: {ioc['value']}  Type: {ioc['type']}")
+        print(f"    Indicators found: {len(ioc['indicators'])}")
+        print(f"    Observables found: {len(ioc['observables'])}")
+        print(f"    Relationships: {len(ioc['relationships'])}")
 
-    print(f"
-{json.dumps({"total_iocs": len(report["iocs"])}, indent=2)}")
+    print("\n" + json.dumps({"total_iocs": len(report["iocs"])}, indent=2))

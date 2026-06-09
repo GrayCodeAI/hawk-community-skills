@@ -75,11 +75,9 @@ if __name__ == '__main__':
     print('=' * 60)
     domain = sys.argv[1] if len(sys.argv) > 1 else None
     if not domain:
-        print('
-[DEMO] Usage: python agent.py <domain.com>')
+        print('\n[DEMO] Usage: python agent.py <domain.com>')
         sys.exit(0)
-    print(f'
-[*] Target: {domain}')
+    print(f'\n[*] Target: {domain}')
     dnstwist_results = run_dnstwist_cli(domain)
     if dnstwist_results:
         print(f'[*] dnstwist found {len(dnstwist_results)} permutations')
@@ -95,5 +93,4 @@ if __name__ == '__main__':
         for r in resolved[:15]:
             print(f'  {r["domain"]:40s} {", ".join(r["ips"])}')
         risk = 'HIGH' if len(resolved) > 20 else 'MEDIUM' if len(resolved) > 5 else 'LOW'
-        print(f'
-[*] Risk: {risk}')
+        print(f'\n[*] Risk: {risk}')

@@ -100,6 +100,7 @@ def check_docker_files():
 
 
 def main():
+    global DAEMON_JSON_PATH
     parser = argparse.ArgumentParser(
         description="Audit Docker daemon configuration against CIS benchmarks"
     )
@@ -108,7 +109,6 @@ def main():
     args = parser.parse_args()
 
     print("[*] Docker Daemon Configuration Audit Agent")
-    global DAEMON_JSON_PATH
     DAEMON_JSON_PATH = args.config
 
     config = read_daemon_config()

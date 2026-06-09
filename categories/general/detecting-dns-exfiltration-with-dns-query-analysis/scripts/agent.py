@@ -143,6 +143,7 @@ def analyze_queries(queries):
 
 
 def main():
+    global ENTROPY_THRESHOLD, SUBDOMAIN_LENGTH_THRESHOLD
     parser = argparse.ArgumentParser(description="DNS Exfiltration Detector")
     parser.add_argument("--dns-log", required=True, help="DNS log file (Zeek or text)")
     parser.add_argument("--format", choices=["zeek", "text"], default="zeek")
@@ -150,7 +151,6 @@ def main():
     parser.add_argument("--length-threshold", type=int, default=SUBDOMAIN_LENGTH_THRESHOLD)
     args = parser.parse_args()
 
-    global ENTROPY_THRESHOLD, SUBDOMAIN_LENGTH_THRESHOLD
     ENTROPY_THRESHOLD = args.entropy_threshold
     SUBDOMAIN_LENGTH_THRESHOLD = args.length_threshold
 
