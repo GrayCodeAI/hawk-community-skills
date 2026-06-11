@@ -24,6 +24,14 @@ REGISTRY_PATH = REPO_ROOT / "registry.json"
 console = Console()
 
 
+def _display_path(path: Path) -> str:
+    """Return a repo-relative path when possible, else a stable absolute path."""
+    try:
+        return str(path.relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
+
+
 # parse_frontmatter is now imported from frontmatter module
 
 
@@ -40,7 +48,7 @@ def has_scripts_dir(path: Path) -> bool:
     return any(scripts_dir.iterdir())
 
 
-def build_registry() -> tuple[list[dict], list[tuple[str, str, str]]]:
+def _build_registry_with_duplicates() -> tuple[list[dict], list[tuple[str, str, str]]]:
     """Walk all categories and build registry entries.
 
     Returns (entries, duplicates) where duplicates is a list of
@@ -72,7 +80,7 @@ def build_registry() -> tuple[list[dict], list[tuple[str, str, str]]]:
             except (UnicodeDecodeError, OSError) as exc:
                 print(
                     f"⚠ Skipping unreadable skill "
-                    f"{skill_md.relative_to(REPO_ROOT)}: {exc}",
+                    f"{_display_path(skill_md)}: {exc}",
                     file=sys.stderr,
                 )
                 continue
@@ -81,18 +89,18 @@ def build_registry() -> tuple[list[dict], list[tuple[str, str, str]]]:
             if frontmatter is None:
                 continue
 
-            # Build entry. Prefer the directory name as the canonical skill ID
-            # (validate_skill.py errors when frontmatter name differs), but
-            # warn on mismatch so drift is visible.
+            # Keep frontmatter `name` precedence for compatibility with
+            # registry consumers and existing tests, but warn on mismatch so
+            # drift is still visible.
             fm_name = frontmatter.get("name")
             if fm_name and fm_name != skill_dir.name:
                 print(
-                    f"⚠ {skill_md.relative_to(REPO_ROOT)}: frontmatter name "
+                    f"⚠ {_display_path(skill_md)}: frontmatter name "
                     f"'{fm_name}' does not match directory name "
-                    f"'{skill_dir.name}'; using directory name",
+                    f"'{skill_dir.name}'; using frontmatter name",
                     file=sys.stderr,
                 )
-            name = skill_dir.name
+            name = fm_name or skill_dir.name
             description = frontmatter.get("description", "")
             # Truncate multi-line descriptions for registry
             if isinstance(description, str):
@@ -129,6 +137,12 @@ def build_registry() -> tuple[list[dict], list[tuple[str, str, str]]]:
     return entries, duplicates
 
 
+def build_registry() -> list[dict]:
+    """Walk all categories and build registry entries."""
+    entries, _duplicates = _build_registry_with_duplicates()
+    return entries
+
+
 def report_duplicates(duplicates: list[tuple[str, str, str]]) -> None:
     """Print a summary of duplicate skill names to stderr."""
     if not duplicates:
@@ -157,7 +171,7 @@ def validate_entries(entries: list[dict]) -> list[str]:
 
 def main():
     console.print("[dim]Scanning categories for skills...[/dim]")
-    entries, duplicates = build_registry()
+    entries, duplicates = _build_registry_with_duplicates()
 
     if not entries:
         console.print("[yellow]No valid skills found.[/yellow]")

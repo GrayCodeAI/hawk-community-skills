@@ -15,6 +15,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from frontmatter import parse_frontmatter_dict  # noqa: E402
 
 
+def _display_path(path: Path) -> str:
+    """Return a repo-relative path when possible, else a stable absolute path."""
+    try:
+        return str(path.relative_to(REPO_ROOT))
+    except ValueError:
+        return str(path)
+
+
 def extract_frontmatter(skill_md: Path) -> dict[str, Any]:
     """Extract YAML frontmatter from a skill markdown file."""
     content = skill_md.read_text(encoding="utf-8", errors="ignore")
@@ -36,21 +44,19 @@ def build_skills() -> list[dict[str, str]]:
                 fm = extract_frontmatter(skill_md)
             except (UnicodeDecodeError, OSError) as exc:
                 print(
-                    f"⚠ Skipping unreadable skill {skill_md.relative_to(REPO_ROOT)}: {exc}",
+                    f"⚠ Skipping unreadable skill {_display_path(skill_md)}: {exc}",
                     file=sys.stderr,
                 )
                 continue
             fm_name = fm.get("name")
             if fm_name and fm_name != skill_dir.name:
                 print(
-                    f"⚠ {skill_md.relative_to(REPO_ROOT)}: frontmatter name "
+                    f"⚠ {_display_path(skill_md)}: frontmatter name "
                     f"'{fm_name}' does not match directory name "
-                    f"'{skill_dir.name}'; using directory name",
+                    f"'{skill_dir.name}'; using frontmatter name",
                     file=sys.stderr,
                 )
-            # Prefer the directory name: it is the canonical skill ID
-            # (validate_skill.py errors when frontmatter name differs).
-            name = skill_dir.name
+            name = fm_name or skill_dir.name
             invoke = fm.get("invoke", f"/hawk:{name}")
             skills.append(
                 {
