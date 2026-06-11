@@ -21,6 +21,11 @@ CATEGORIES_DIR = REPO_ROOT / "categories"
 # Extensions worth scanning inside a contributed skill directory.
 SCAN_SUFFIXES = {".md", ".py", ".sh", ".bash", ".js", ".ts", ".json", ".yaml", ".yml", ".env", ".txt"}
 
+# Files larger than this are skipped (with a warning): credential leaks live
+# in source/config files, not multi-megabyte bulk content, and scanning them
+# dominates runtime over a ~12k-skill corpus.
+MAX_SCAN_SIZE = 2 * 1024 * 1024  # 2MB
+
 # High-confidence credential signatures. Each entry: (name, compiled regex).
 # Patterns target real key shapes (provider prefixes, AWS access keys, PEM
 # private-key headers, explicit bearer tokens) rather than generic high-entropy

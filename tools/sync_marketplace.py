@@ -4,6 +4,7 @@
 import json
 import sys
 from pathlib import Path
+from typing import Any
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
@@ -14,14 +15,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from frontmatter import parse_frontmatter_dict  # noqa: E402
 
 
-def extract_frontmatter(skill_md):
+def extract_frontmatter(skill_md: Path) -> dict[str, Any]:
     """Extract YAML frontmatter from a skill markdown file."""
     content = skill_md.read_text(encoding="utf-8", errors="ignore")
     fm = parse_frontmatter_dict(content)
     return fm if fm else {}
 
 
-def build_skills():
+def build_skills() -> list[dict[str, str]]:
     """Scan categories/ and return the marketplace skills array."""
     skills = []
     for cat in sorted(CATEGORIES_DIR.iterdir()):
@@ -31,8 +32,25 @@ def build_skills():
             skill_md = skill_dir / "SKILL.md"
             if not skill_md.exists():
                 continue
-            fm = extract_frontmatter(skill_md)
-            name = fm.get("name", skill_dir.name)
+            try:
+                fm = extract_frontmatter(skill_md)
+            except (UnicodeDecodeError, OSError) as exc:
+                print(
+                    f"⚠ Skipping unreadable skill {skill_md.relative_to(REPO_ROOT)}: {exc}",
+                    file=sys.stderr,
+                )
+                continue
+            fm_name = fm.get("name")
+            if fm_name and fm_name != skill_dir.name:
+                print(
+                    f"⚠ {skill_md.relative_to(REPO_ROOT)}: frontmatter name "
+                    f"'{fm_name}' does not match directory name "
+                    f"'{skill_dir.name}'; using directory name",
+                    file=sys.stderr,
+                )
+            # Prefer the directory name: it is the canonical skill ID
+            # (validate_skill.py errors when frontmatter name differs).
+            name = skill_dir.name
             invoke = fm.get("invoke", f"/hawk:{name}")
             skills.append(
                 {
@@ -44,14 +62,40 @@ def build_skills():
     return skills
 
 
-def render(skills):
+def render(skills: list[dict[str, str]]) -> str:
     """Return the marketplace.json text with skills populated."""
-    data = json.loads(MARKETPLACE.read_text())
-    data["plugins"][0]["skills"] = skills
+    try:
+        raw = MARKETPLACE.read_text(encoding="utf-8")
+    except FileNotFoundError:
+        raise SystemExit(
+            f"✗ Marketplace template not found: {MARKETPLACE.relative_to(REPO_ROOT)}"
+        ) from None
+    except OSError as exc:
+        raise SystemExit(
+            f"✗ Cannot read {MARKETPLACE.relative_to(REPO_ROOT)}: {exc}"
+        ) from None
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError as exc:
+        raise SystemExit(
+            f"✗ {MARKETPLACE.relative_to(REPO_ROOT)} is not valid JSON: {exc}"
+        ) from None
+
+    plugins = data.get("plugins") if isinstance(data, dict) else None
+    if (
+        not isinstance(plugins, list)
+        or not plugins
+        or not isinstance(plugins[0], dict)
+    ):
+        raise SystemExit(
+            f"✗ {MARKETPLACE.relative_to(REPO_ROOT)} has unexpected structure: "
+            "expected a top-level object with a non-empty 'plugins' array of objects"
+        )
+    plugins[0]["skills"] = skills
     return json.dumps(data, indent=2) + "\n"
 
 
-def main():
+def main() -> None:
     check_only = "--check" in sys.argv[1:]
     skills = build_skills()
     rendered = render(skills)

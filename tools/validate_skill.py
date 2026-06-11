@@ -23,13 +23,35 @@ CATEGORIES_DIR = REPO_ROOT / "categories"
 
 REQUIRED_FIELDS = {"name", "description", "license"}
 MAX_DESCRIPTION_LEN = 200
-MAX_FILE_SIZE = 100 * 1024  # 100KB
+MAX_FILE_SIZE = 100 * 1024  # 100KB — warning threshold
+# Hard limit for SKILL.md itself: a skill definition this large is almost
+# certainly bulk content that belongs in reference files, and it bloats every
+# consumer that loads the skill. Errors above this; warns above MAX_FILE_SIZE.
+MAX_SKILL_MD_SIZE = 500 * 1024  # 500KB — error threshold
+# Pre-existing oversized SKILL.md files are grandfathered (warning only) so
+# the new error does not break CI on the existing corpus. Do not add new
+# entries; shrink these skills instead (see FOLLOWUP.md).
+SIZE_ALLOWLIST_PATH = Path(__file__).resolve().parent / "skill_size_allowlist.txt"
 ASSET_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico", ".pdf"}
 TAG_PATTERN = re.compile(r"^[a-z][a-z0-9]*(-[a-z0-9]+)*$")
 MIN_TAGS = 1
 MAX_TAGS = 5
 
 console = Console()
+
+
+def load_size_allowlist(path: Path = SIZE_ALLOWLIST_PATH) -> set:
+    """Load grandfathered skill paths (repo-relative) allowed to exceed
+    MAX_SKILL_MD_SIZE. Returns an empty set when the file is absent."""
+    try:
+        lines = path.read_text(encoding="utf-8").splitlines()
+    except OSError:
+        return set()
+    return {
+        line.strip()
+        for line in lines
+        if line.strip() and not line.strip().startswith("#")
+    }
 
 
 class ValidationResult:
@@ -135,6 +157,24 @@ def validate_skill(skill_path: Path) -> ValidationResult:
                 mode = script.stat().st_mode
                 if not (mode & stat.S_IXUSR):
                     result.warn(f"Script {script.name} is not executable (chmod +x)")
+
+    # SKILL.md has a hard size limit: error above MAX_SKILL_MD_SIZE unless the
+    # skill is grandfathered in the size allowlist (then it only warns).
+    skill_md_size = skill_md.stat().st_size
+    if skill_md_size > MAX_SKILL_MD_SIZE:
+        resolved = skill_path.resolve()
+        try:
+            rel_skill = str(resolved.relative_to(REPO_ROOT))
+        except ValueError:
+            rel_skill = skill_path.name
+        msg = (
+            f"SKILL.md is {skill_md_size // 1024}KB "
+            f"(max: {MAX_SKILL_MD_SIZE // 1024}KB); move bulk content to reference files"
+        )
+        if rel_skill in load_size_allowlist():
+            result.warn(f"{msg} [grandfathered]")
+        else:
+            result.error(msg)
 
     # Check file size across all files in the skill directory
     for dirpath, _dirnames, filenames in os.walk(skill_path):

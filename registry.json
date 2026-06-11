@@ -23,7 +23,7 @@
       "hash-verification"
     ],
     "path": "categories/general/acquiring-disk-image-with-dd-and-dcfldd",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18082,7 +18082,7 @@
       "privilege-escalation"
     ],
     "path": "categories/general/analyzing-active-directory-acl-abuse",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18100,7 +18100,7 @@
       "reverse-engineering"
     ],
     "path": "categories/security/analyzing-android-malware-with-apktool",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18114,7 +18114,7 @@
       "access"
     ],
     "path": "categories/general/analyzing-api-gateway-access-logs",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18132,7 +18132,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/analyzing-apt-group-with-mitre-navigator",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18146,7 +18146,7 @@
       "logs"
     ],
     "path": "categories/aws/analyzing-azure-activity-logs-for-threats",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18161,7 +18161,7 @@
       "mbr-analysis"
     ],
     "path": "categories/general/analyzing-bootkit-and-rootkit-samples",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18181,7 +18181,7 @@
       "web-artifacts"
     ],
     "path": "categories/security/analyzing-browser-forensics-with-hindsight",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18198,7 +18198,7 @@
       "campaign-analysis"
     ],
     "path": "categories/general/analyzing-campaign-attribution-evidence",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18216,7 +18216,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/analyzing-certificate-transparency-for-phishing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18230,7 +18230,7 @@
       "access"
     ],
     "path": "categories/aws/analyzing-cloud-storage-access-patterns",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18247,7 +18247,7 @@
       "red-team-tools"
     ],
     "path": "categories/general/analyzing-cobalt-strike-beacon-configuration",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18261,7 +18261,7 @@
       "malleable"
     ],
     "path": "categories/general/analyzing-cobalt-strike-malleable-profiles",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18278,7 +18278,7 @@
       "red-team-tools"
     ],
     "path": "categories/general/analyzing-cobaltstrike-malleable-c2-profiles",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18293,7 +18293,7 @@
       "protocol-analysis"
     ],
     "path": "categories/general/analyzing-command-and-control-communication",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18309,7 +18309,7 @@
       "nist-csf"
     ],
     "path": "categories/general/analyzing-cyber-kill-chain",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18325,7 +18325,7 @@
       "artifact-analysis"
     ],
     "path": "categories/general/analyzing-disk-image-with-autopsy",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18343,7 +18343,7 @@
       "threat-detection"
     ],
     "path": "categories/general/analyzing-dns-logs-for-exfiltration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18359,7 +18359,7 @@
       "runtime-investigation"
     ],
     "path": "categories/devops/analyzing-docker-container-forensics",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18376,7 +18376,7 @@
       "header-analysis"
     ],
     "path": "categories/general/analyzing-email-headers-for-phishing-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18394,7 +18394,7 @@
       "audit"
     ],
     "path": "categories/security/analyzing-ethereum-smart-contract-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18411,7 +18411,7 @@
       "disassembly"
     ],
     "path": "categories/go/analyzing-golang-malware-with-ghidra",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18426,7 +18426,7 @@
       "exploit-analysis"
     ],
     "path": "categories/security/analyzing-heap-spray-exploitation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18444,7 +18444,7 @@
       "nist-csf"
     ],
     "path": "categories/general/analyzing-indicators-of-compromise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18460,7 +18460,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/analyzing-ios-app-security-with-objection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18474,7 +18474,7 @@
       "logs"
     ],
     "path": "categories/devops/analyzing-kubernetes-audit-logs",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18488,7 +18488,7 @@
       "intrusion-detection"
     ],
     "path": "categories/general/analyzing-linux-audit-logs-for-intrusion",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18503,7 +18503,7 @@
       "server-malware"
     ],
     "path": "categories/security/analyzing-linux-elf-malware",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18521,7 +18521,7 @@
       "forensics"
     ],
     "path": "categories/general/analyzing-linux-kernel-rootkits",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18537,7 +18537,7 @@
       "incident-investigation"
     ],
     "path": "categories/general/analyzing-linux-system-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18557,7 +18557,7 @@
       "recent-files"
     ],
     "path": "categories/general/analyzing-lnk-file-and-jump-list-artifacts",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18572,7 +18572,7 @@
       "document-malware"
     ],
     "path": "categories/security/analyzing-macro-malware-in-office-documents",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18590,7 +18590,7 @@
       "dfir"
     ],
     "path": "categories/general/analyzing-malicious-pdf-with-peepdf",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18607,7 +18607,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/analyzing-malicious-url-with-urlscan",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18622,7 +18622,7 @@
       "behavioral-analysis"
     ],
     "path": "categories/security/analyzing-malware-behavior-with-cuckoo-sandbox",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18640,7 +18640,7 @@
       "malware-intelligence"
     ],
     "path": "categories/security/analyzing-malware-family-relationships-with-malpedia",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18658,7 +18658,7 @@
       "incident-response"
     ],
     "path": "categories/security/analyzing-malware-persistence-with-autoruns",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -18669,7 +18669,7 @@
       "security"
     ],
     "path": "categories/security/analyzing-malware-sandbox-evasion-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18684,7 +18684,7 @@
       "incident-response"
     ],
     "path": "categories/general/analyzing-memory-dumps-with-volatility",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18698,7 +18698,7 @@
       "with"
     ],
     "path": "categories/security/analyzing-memory-forensics-with-lime-and-volatility",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18718,7 +18718,7 @@
       "dfir"
     ],
     "path": "categories/general/analyzing-mft-for-deleted-file-recovery",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18735,7 +18735,7 @@
       "data-exfiltration"
     ],
     "path": "categories/security/analyzing-network-covert-channels-in-malware",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -18749,7 +18749,7 @@
       "data"
     ],
     "path": "categories/general/analyzing-network-flow-data-with-netflow",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18760,7 +18760,7 @@
       "general"
     ],
     "path": "categories/general/analyzing-network-packets-with-scapy",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18775,7 +18775,7 @@
       "traffic-analysis"
     ],
     "path": "categories/general/analyzing-network-traffic-for-incidents",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18790,7 +18790,7 @@
       "c2-detection"
     ],
     "path": "categories/security/analyzing-network-traffic-of-malware",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18805,7 +18805,7 @@
       "pcap"
     ],
     "path": "categories/general/analyzing-network-traffic-with-wireshark",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18822,7 +18822,7 @@
       "bec"
     ],
     "path": "categories/general/analyzing-office365-audit-logs-for-compromise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18842,7 +18842,7 @@
       "eml-extraction"
     ],
     "path": "categories/security/analyzing-outlook-pst-for-email-forensics",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -18857,7 +18857,7 @@
       "static-analysis"
     ],
     "path": "categories/security/analyzing-packed-malware-with-upx-unpacker",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18872,7 +18872,7 @@
       "static-analysis"
     ],
     "path": "categories/security/analyzing-pdf-malware-with-pdfid",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18889,7 +18889,7 @@
       "incident-response"
     ],
     "path": "categories/general/analyzing-persistence-mechanisms-in-linux",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18906,7 +18906,7 @@
       "forensics"
     ],
     "path": "categories/general/analyzing-phishing-email-headers",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -18925,7 +18925,7 @@
       "forensics"
     ],
     "path": "categories/general/analyzing-powershell-empire-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18939,7 +18939,7 @@
       "block"
     ],
     "path": "categories/general/analyzing-powershell-script-block-logging",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18955,7 +18955,7 @@
       "evidence-collection"
     ],
     "path": "categories/general/analyzing-prefetch-files-for-execution-history",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18970,7 +18970,7 @@
       "reverse-engineering"
     ],
     "path": "categories/security/analyzing-ransomware-encryption-mechanisms",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -18988,7 +18988,7 @@
       "victim-tracking"
     ],
     "path": "categories/general/analyzing-ransomware-leak-site-intelligence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19005,7 +19005,7 @@
       "network-forensics"
     ],
     "path": "categories/general/analyzing-ransomware-network-indicators",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19020,7 +19020,7 @@
       "security-monitoring"
     ],
     "path": "categories/security/analyzing-security-logs-with-splunk",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19037,7 +19037,7 @@
       "file-system-analysis"
     ],
     "path": "categories/general/analyzing-slack-space-and-file-system-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19054,7 +19054,7 @@
       "software-integrity"
     ],
     "path": "categories/security/analyzing-supply-chain-malware-artifacts",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -19071,7 +19071,7 @@
       "threat-actors"
     ],
     "path": "categories/security/analyzing-threat-actor-ttps-with-mitre-attack",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -19088,7 +19088,7 @@
       "attackcti"
     ],
     "path": "categories/security/analyzing-threat-actor-ttps-with-mitre-navigator",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19107,7 +19107,7 @@
       "nist-csf"
     ],
     "path": "categories/security/analyzing-threat-intelligence-feeds",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19121,7 +19121,7 @@
       "with"
     ],
     "path": "categories/security/analyzing-threat-landscape-with-misp",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19135,7 +19135,7 @@
       "transparency"
     ],
     "path": "categories/general/analyzing-tls-certificate-transparency-logs",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19153,7 +19153,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/analyzing-typosquatting-domains-with-dnstwist",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19169,7 +19169,7 @@
       "device-history"
     ],
     "path": "categories/general/analyzing-usb-device-connection-history",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19183,7 +19183,7 @@
       "logs"
     ],
     "path": "categories/general/analyzing-web-server-logs-for-intrusion",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19197,7 +19197,7 @@
       "execution-artifacts"
     ],
     "path": "categories/general/analyzing-windows-amcache-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19214,7 +19214,7 @@
       "active-directory"
     ],
     "path": "categories/general/analyzing-windows-event-logs-in-splunk",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19230,7 +19230,7 @@
       "evidence-collection"
     ],
     "path": "categories/general/analyzing-windows-lnk-files-for-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19246,7 +19246,7 @@
       "malware-analysis"
     ],
     "path": "categories/python/analyzing-windows-prefetch-with-python",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19262,7 +19262,7 @@
       "evidence-collection"
     ],
     "path": "categories/general/analyzing-windows-registry-for-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -19282,7 +19282,7 @@
       "dfir"
     ],
     "path": "categories/general/analyzing-windows-shellbag-artifacts",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -24025,7 +24025,7 @@
       "access-control"
     ],
     "path": "categories/aws/auditing-aws-s3-bucket-permissions",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24041,7 +24041,7 @@
       "conditional-access"
     ],
     "path": "categories/aws/auditing-azure-active-directory-configuration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24056,7 +24056,7 @@
       "security-hardening"
     ],
     "path": "categories/aws/auditing-cloud-with-cis-benchmarks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24072,7 +24072,7 @@
       "policy-analyzer"
     ],
     "path": "categories/aws/auditing-gcp-iam-permissions",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24089,7 +24089,7 @@
       "aks"
     ],
     "path": "categories/devops/auditing-kubernetes-cluster-rbac",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24104,7 +24104,7 @@
       "access-control"
     ],
     "path": "categories/devops/auditing-kubernetes-rbac-permissions",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -24120,7 +24120,7 @@
       "policy-as-code"
     ],
     "path": "categories/devops/auditing-terraform-infrastructure-for-security",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -24155,7 +24155,7 @@
       "nist-csf"
     ],
     "path": "categories/general/automating-ioc-enrichment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26729,7 +26729,7 @@
       "domain-analysis"
     ],
     "path": "categories/general/building-adversary-infrastructure-tracking-system",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26765,7 +26765,7 @@
       "extraction"
     ],
     "path": "categories/general/building-attack-pattern-library-from-cti-reports",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26783,7 +26783,7 @@
       "pipeline"
     ],
     "path": "categories/security/building-automated-malware-submission-pipeline",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26800,7 +26800,7 @@
       "post-exploitation"
     ],
     "path": "categories/general/building-c2-infrastructure-with-sliver-framework",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -26815,7 +26815,7 @@
       "multi-cloud-governance"
     ],
     "path": "categories/aws/building-cloud-security-posture-management",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26830,7 +26830,7 @@
       "threat-detection"
     ],
     "path": "categories/aws/building-cloud-siem-with-sentinel",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26848,7 +26848,7 @@
       "enterprise-security"
     ],
     "path": "categories/general/building-detection-rule-with-splunk-spl",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -26866,7 +26866,7 @@
       "sentinel"
     ],
     "path": "categories/general/building-detection-rules-with-sigma",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26884,7 +26884,7 @@
       "cicd-security"
     ],
     "path": "categories/general/building-devsecops-pipeline-with-gitlab-ci",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -26902,7 +26902,7 @@
       "hybrid-identity"
     ],
     "path": "categories/aws/building-identity-federation-with-saml-azure-ad",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -26918,7 +26918,7 @@
       "iga"
     ],
     "path": "categories/general/building-identity-governance-lifecycle-process",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26935,7 +26935,7 @@
       "metrics"
     ],
     "path": "categories/general/building-incident-response-dashboard",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26950,7 +26950,7 @@
       "response-procedures"
     ],
     "path": "categories/general/building-incident-response-playbook",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -26967,7 +26967,7 @@
       "collaborative-forensics"
     ],
     "path": "categories/general/building-incident-timeline-with-timesketch",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -26985,7 +26985,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/building-ioc-defanging-and-sharing-pipeline",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27003,7 +27003,7 @@
       "virustotal"
     ],
     "path": "categories/general/building-ioc-enrichment-pipeline-with-opencti",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27019,7 +27019,7 @@
       "regulatory-disclosure"
     ],
     "path": "categories/security/building-malware-incident-communication-template",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27065,7 +27065,7 @@
       "windows-update"
     ],
     "path": "categories/general/building-patch-tuesday-response-process",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27082,7 +27082,7 @@
       "soar"
     ],
     "path": "categories/general/building-phishing-reporting-button-workflow",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27098,7 +27098,7 @@
       "demon-agent"
     ],
     "path": "categories/general/building-red-team-c2-infrastructure-with-havoc",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27114,7 +27114,7 @@
       "clustering"
     ],
     "path": "categories/general/building-role-mining-for-rbac-optimization",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27131,7 +27131,7 @@
       "tiered-soc"
     ],
     "path": "categories/general/building-soc-escalation-matrix",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27149,7 +27149,7 @@
       "continuous-improvement"
     ],
     "path": "categories/general/building-soc-metrics-and-kpi-tracking",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27166,7 +27166,7 @@
       "containment"
     ],
     "path": "categories/general/building-soc-playbook-for-ransomware",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27184,7 +27184,7 @@
       "reconnaissance"
     ],
     "path": "categories/security/building-threat-actor-profile-from-osint",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27202,7 +27202,7 @@
       "threat-intelligence"
     ],
     "path": "categories/security/building-threat-feed-aggregation-with-misp",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27218,7 +27218,7 @@
       "proactive-detection"
     ],
     "path": "categories/security/building-threat-hunt-hypothesis-framework",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27236,7 +27236,7 @@
       "enterprise-security"
     ],
     "path": "categories/security/building-threat-intelligence-enrichment-in-splunk",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27254,7 +27254,7 @@
       "siem-integration"
     ],
     "path": "categories/security/building-threat-intelligence-feed-integration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27272,7 +27272,7 @@
       "opencti"
     ],
     "path": "categories/security/building-threat-intelligence-platform",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27289,7 +27289,7 @@
       "risk-management"
     ],
     "path": "categories/security/building-vulnerability-aging-and-sla-tracking",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27306,7 +27306,7 @@
       "jira"
     ],
     "path": "categories/security/building-vulnerability-dashboard-with-defectdojo",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27322,7 +27322,7 @@
       "governance"
     ],
     "path": "categories/security/building-vulnerability-exception-tracking-system",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27340,7 +27340,7 @@
       "patch-management"
     ],
     "path": "categories/security/building-vulnerability-scanning-workflow",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27356,7 +27356,7 @@
       "owasp"
     ],
     "path": "categories/security/bypassing-authentication-with-forced-browsing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27632,7 +27632,7 @@
       "threat-intelligence-sharing"
     ],
     "path": "categories/general/collecting-indicators-of-compromise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27650,7 +27650,7 @@
       "nist-csf"
     ],
     "path": "categories/general/collecting-open-source-intelligence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -27668,7 +27668,7 @@
       "threat-sharing"
     ],
     "path": "categories/security/collecting-threat-intelligence-with-misp",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -27684,7 +27684,7 @@
       "chain-of-custody"
     ],
     "path": "categories/general/collecting-volatile-evidence-from-compromised-host",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37255,7 +37255,7 @@
       "authorization-testing"
     ],
     "path": "categories/security/conducting-api-security-testing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37270,7 +37270,7 @@
       "identity-containment"
     ],
     "path": "categories/aws/conducting-cloud-incident-response",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37290,7 +37290,7 @@
       "cloud-security"
     ],
     "path": "categories/aws/conducting-cloud-infrastructure-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37305,7 +37305,7 @@
       "mitre-attack-cloud"
     ],
     "path": "categories/aws/conducting-cloud-penetration-testing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37322,7 +37322,7 @@
       "mimikatz"
     ],
     "path": "categories/general/conducting-domain-persistence-with-dcsync",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37337,7 +37337,7 @@
       "passive-recon"
     ],
     "path": "categories/general/conducting-external-reconnaissance-with-osint",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37354,7 +37354,7 @@
       "ttp-mapping"
     ],
     "path": "categories/general/conducting-full-scope-red-team-engagement",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37371,7 +37371,7 @@
       "network-security"
     ],
     "path": "categories/testing/conducting-internal-network-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37388,7 +37388,7 @@
       "graph-analysis"
     ],
     "path": "categories/general/conducting-internal-reconnaissance-with-bloodhound-ce",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37403,7 +37403,7 @@
       "mitre-att-ck"
     ],
     "path": "categories/security/conducting-malware-incident-response",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37418,7 +37418,7 @@
       "mitmproxy"
     ],
     "path": "categories/general/conducting-man-in-the-middle-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37433,7 +37433,7 @@
       "dfir"
     ],
     "path": "categories/security/conducting-memory-forensics-with-volatility",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37448,7 +37448,7 @@
       "mobile-application-security"
     ],
     "path": "categories/testing/conducting-mobile-app-penetration-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37467,7 +37467,7 @@
       "apk-analysis"
     ],
     "path": "categories/testing/conducting-mobile-application-penetration-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37482,7 +37482,7 @@
       "infrastructure-security"
     ],
     "path": "categories/testing/conducting-network-penetration-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37500,7 +37500,7 @@
       "lateral-movement"
     ],
     "path": "categories/general/conducting-pass-the-ticket-attack",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37515,7 +37515,7 @@
       "mailbox-remediation"
     ],
     "path": "categories/general/conducting-phishing-incident-response",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37530,7 +37530,7 @@
       "process-improvement"
     ],
     "path": "categories/general/conducting-post-incident-lessons-learned",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37549,7 +37549,7 @@
       "red-team"
     ],
     "path": "categories/testing/conducting-social-engineering-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37566,7 +37566,7 @@
       "human-risk"
     ],
     "path": "categories/general/conducting-social-engineering-pretext-call",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37583,7 +37583,7 @@
       "social-engineering"
     ],
     "path": "categories/general/conducting-spearphishing-simulation-campaign",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37598,7 +37598,7 @@
       "evil-twin"
     ],
     "path": "categories/testing/conducting-wireless-network-penetration-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37615,7 +37615,7 @@
       "esae"
     ],
     "path": "categories/general/configuring-active-directory-tiered-model",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37634,7 +37634,7 @@
       "aws-ram"
     ],
     "path": "categories/aws/configuring-aws-verified-access-for-ztna",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37649,7 +37649,7 @@
       "x509"
     ],
     "path": "categories/security/configuring-certificate-authority-with-openssl",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37665,7 +37665,7 @@
       "intrusion-detection"
     ],
     "path": "categories/general/configuring-host-based-intrusion-detection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37680,7 +37680,7 @@
       "hardware-security"
     ],
     "path": "categories/general/configuring-hsm-for-key-storage",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37697,7 +37697,7 @@
       "app-engine"
     ],
     "path": "categories/general/configuring-identity-aware-proxy-with-google-iap",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37713,7 +37713,7 @@
       "hardening"
     ],
     "path": "categories/security/configuring-ldap-security-hardening",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37724,7 +37724,7 @@
       "cybersecurity"
     ],
     "path": "categories/rust/configuring-microsegmentation-for-zero-trust",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37741,7 +37741,7 @@
       "multi-factor"
     ],
     "path": "categories/security/configuring-multi-factor-authentication-with-duo",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37756,7 +37756,7 @@
       "q"
     ],
     "path": "categories/general/configuring-network-segmentation-with-vlans",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37774,7 +37774,7 @@
       "pkce"
     ],
     "path": "categories/security/configuring-oauth2-authorization-flow",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37789,7 +37789,7 @@
       "network-segmentation"
     ],
     "path": "categories/security/configuring-pfsense-firewall-rules",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37804,7 +37804,7 @@
       "rule-writing"
     ],
     "path": "categories/general/configuring-snort-ids-for-intrusion-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37819,7 +37819,7 @@
       "network-monitoring"
     ],
     "path": "categories/general/configuring-suricata-for-network-monitoring",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37834,7 +37834,7 @@
       "network-security"
     ],
     "path": "categories/general/configuring-tls-1-3-for-secure-communications",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37850,7 +37850,7 @@
       "mde"
     ],
     "path": "categories/general/configuring-windows-defender-advanced-settings",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37865,7 +37865,7 @@
       "detection-engineering"
     ],
     "path": "categories/general/configuring-windows-event-logging-for-detection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37882,7 +37882,7 @@
       "sase"
     ],
     "path": "categories/general/configuring-zscaler-private-access-for-ztna",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -37897,7 +37897,7 @@
       "live-response"
     ],
     "path": "categories/general/containing-active-breach",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -37912,7 +37912,7 @@
       "dfir"
     ],
     "path": "categories/security/containing-active-security-breach",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -42156,7 +42156,7 @@
       "ibm"
     ],
     "path": "categories/security/correlating-security-events-in-qradar",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -42174,7 +42174,7 @@
       "cti"
     ],
     "path": "categories/security/correlating-threat-campaigns",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51086,7 +51086,7 @@
       "script-analysis"
     ],
     "path": "categories/security/deobfuscating-javascript-malware",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51103,7 +51103,7 @@
       "incident-response"
     ],
     "path": "categories/security/deobfuscating-powershell-obfuscated-malware",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51120,7 +51120,7 @@
       "cloudflare-one"
     ],
     "path": "categories/rust/deploying-cloudflare-access-for-zero-trust",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51136,7 +51136,7 @@
       "sensor-deployment"
     ],
     "path": "categories/general/deploying-edr-agent-with-crowdstrike",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51151,7 +51151,7 @@
       "fleet-management"
     ],
     "path": "categories/general/deploying-osquery-for-endpoint-monitoring",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51168,7 +51168,7 @@
       "zero-trust"
     ],
     "path": "categories/rust/deploying-palo-alto-prisma-access-zero-trust",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51185,7 +51185,7 @@
       "defense"
     ],
     "path": "categories/general/deploying-ransomware-canary-files",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51196,7 +51196,7 @@
       "cybersecurity"
     ],
     "path": "categories/general/deploying-software-defined-perimeter",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51215,7 +51215,7 @@
       "headscale"
     ],
     "path": "categories/rust/deploying-tailscale-for-zero-trust-vpn",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51295,7 +51295,7 @@
       "machine-learning"
     ],
     "path": "categories/general/detecting-anomalies-in-industrial-control-systems",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51311,7 +51311,7 @@
       "behavioral-analytics"
     ],
     "path": "categories/security/detecting-anomalous-authentication-patterns",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51329,7 +51329,7 @@
       "rate-limiting"
     ],
     "path": "categories/general/detecting-api-enumeration-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51347,7 +51347,7 @@
       "layer-2-security"
     ],
     "path": "categories/general/detecting-arp-poisoning-in-network-traffic",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51365,7 +51365,7 @@
       "lateral-movement"
     ],
     "path": "categories/general/detecting-attacks-on-historian-servers",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51382,7 +51382,7 @@
       "threat-detection"
     ],
     "path": "categories/general/detecting-attacks-on-scada-systems",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51398,7 +51398,7 @@
       "boto3"
     ],
     "path": "categories/aws/detecting-aws-cloudtrail-anomalies",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51414,7 +51414,7 @@
       "devsecops"
     ],
     "path": "categories/aws/detecting-aws-credential-exposure-with-trufflehog",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51432,7 +51432,7 @@
       "siem"
     ],
     "path": "categories/aws/detecting-aws-guardduty-findings-automation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51449,7 +51449,7 @@
       "least-privilege"
     ],
     "path": "categories/aws/detecting-aws-iam-privilege-escalation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51467,7 +51467,7 @@
       "threat-hunting"
     ],
     "path": "categories/aws/detecting-azure-lateral-movement",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51485,7 +51485,7 @@
       "sentinel"
     ],
     "path": "categories/aws/detecting-azure-service-principal-abuse",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51504,7 +51504,7 @@
       "azure-mgmt-storage"
     ],
     "path": "categories/aws/detecting-azure-storage-account-misconfigurations",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51518,7 +51518,7 @@
       "with"
     ],
     "path": "categories/general/detecting-beaconing-patterns-with-zeek",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51536,7 +51536,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/detecting-broken-object-property-level-authorization",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51553,7 +51553,7 @@
       "fraud"
     ],
     "path": "categories/general/detecting-business-email-compromise",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51571,7 +51571,7 @@
       "fraud-detection"
     ],
     "path": "categories/general/detecting-business-email-compromise-with-ai",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51587,7 +51587,7 @@
       "incident-response"
     ],
     "path": "categories/aws/detecting-cloud-cryptomining-activity",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51602,7 +51602,7 @@
       "cloud-soc"
     ],
     "path": "categories/aws/detecting-cloud-threats-with-guardduty",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51618,7 +51618,7 @@
       "anomaly-detection"
     ],
     "path": "categories/aws/detecting-compromised-cloud-credentials",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51636,7 +51636,7 @@
       "microsoft-defender"
     ],
     "path": "categories/general/detecting-container-drift-at-runtime",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51652,7 +51652,7 @@
       "escape-detection"
     ],
     "path": "categories/general/detecting-container-escape-attempts",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51668,7 +51668,7 @@
       "detection"
     ],
     "path": "categories/general/detecting-container-escape-with-falco-rules",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51679,7 +51679,7 @@
       "general"
     ],
     "path": "categories/general/detecting-credential-dumping-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51696,7 +51696,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-credential-dumping-with-edr",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51711,7 +51711,7 @@
       "cost-anomaly"
     ],
     "path": "categories/aws/detecting-cryptomining-in-cloud",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51728,7 +51728,7 @@
       "kerberos"
     ],
     "path": "categories/general/detecting-dcsync-attack-in-active-directory",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51745,7 +51745,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-dll-sideloading-attacks",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51763,7 +51763,7 @@
       "ids"
     ],
     "path": "categories/general/detecting-dnp3-protocol-anomalies",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51782,7 +51782,7 @@
       "dnscat2"
     ],
     "path": "categories/general/detecting-dns-exfiltration-with-dns-query-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51799,7 +51799,7 @@
       "account-takeover"
     ],
     "path": "categories/general/detecting-email-account-compromise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51816,7 +51816,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-email-forwarding-rules-attack",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51832,7 +51832,7 @@
       "detection-engineering"
     ],
     "path": "categories/general/detecting-evasion-techniques-in-endpoint-logs",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51846,7 +51846,7 @@
       "threat-hunting"
     ],
     "path": "categories/general/detecting-exfiltration-over-dns-with-zeek",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51861,7 +51861,7 @@
       "detection-engineering"
     ],
     "path": "categories/general/detecting-fileless-attacks-on-endpoints",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51876,7 +51876,7 @@
       "detection"
     ],
     "path": "categories/security/detecting-fileless-malware-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51890,7 +51890,7 @@
       "attacks"
     ],
     "path": "categories/general/detecting-golden-ticket-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51906,7 +51906,7 @@
       "credential-abuse"
     ],
     "path": "categories/general/detecting-golden-ticket-attacks-in-kerberos-logs",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51917,7 +51917,7 @@
       "general"
     ],
     "path": "categories/general/detecting-golden-ticket-forgery",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51931,7 +51931,7 @@
       "exfiltration"
     ],
     "path": "categories/general/detecting-insider-data-exfiltration-via-dlp",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51947,7 +51947,7 @@
       "proactive-detection"
     ],
     "path": "categories/security/detecting-insider-threat-behaviors",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51964,7 +51964,7 @@
       "siem"
     ],
     "path": "categories/security/detecting-insider-threat-with-ueba",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -51981,7 +51981,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-kerberoasting-attacks",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -51996,7 +51996,7 @@
       "pass-the-hash"
     ],
     "path": "categories/general/detecting-lateral-movement-in-network",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52013,7 +52013,7 @@
       "ta0008"
     ],
     "path": "categories/general/detecting-lateral-movement-with-splunk",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52027,7 +52027,7 @@
       "process-monitoring"
     ],
     "path": "categories/general/detecting-living-off-the-land-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52044,7 +52044,7 @@
       "threat-hunting"
     ],
     "path": "categories/general/detecting-living-off-the-land-with-lolbas",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52060,7 +52060,7 @@
       "windows-security"
     ],
     "path": "categories/general/detecting-malicious-scheduled-tasks-with-sysmon",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52077,7 +52077,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-mimikatz-execution-patterns",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52093,7 +52093,7 @@
       "data-protection"
     ],
     "path": "categories/aws/detecting-misconfigured-azure-storage",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52109,7 +52109,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/detecting-mobile-malware-behavior",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52127,7 +52127,7 @@
       "threat-detection"
     ],
     "path": "categories/general/detecting-modbus-command-injection-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52144,7 +52144,7 @@
       "protocol-anomaly"
     ],
     "path": "categories/general/detecting-modbus-protocol-anomalies",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52159,7 +52159,7 @@
       "threat-hunting"
     ],
     "path": "categories/general/detecting-network-anomalies-with-zeek",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52178,7 +52178,7 @@
       "threshold-rules"
     ],
     "path": "categories/general/detecting-network-scanning-with-ids-signatures",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52192,7 +52192,7 @@
       "impossible-travel"
     ],
     "path": "categories/security/detecting-oauth-token-theft",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52208,7 +52208,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-pass-the-hash-attacks",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52219,7 +52219,7 @@
       "general"
     ],
     "path": "categories/general/detecting-pass-the-ticket-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52234,7 +52234,7 @@
       "automated-defense"
     ],
     "path": "categories/general/detecting-port-scanning-with-fail2ban",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52250,7 +52250,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-privilege-escalation-attempts",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52266,7 +52266,7 @@
       "pod-security"
     ],
     "path": "categories/devops/detecting-privilege-escalation-in-kubernetes-pods",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52283,7 +52283,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-process-hollowing-technique",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52298,7 +52298,7 @@
       "defense-evasion"
     ],
     "path": "categories/general/detecting-process-injection-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52315,7 +52315,7 @@
       "mobile-security"
     ],
     "path": "categories/security/detecting-qr-code-phishing-with-email-security",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52330,7 +52330,7 @@
       "defense"
     ],
     "path": "categories/general/detecting-ransomware-precursors-in-network",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52346,7 +52346,7 @@
       "siem"
     ],
     "path": "categories/general/detecting-rdp-brute-force-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52361,7 +52361,7 @@
       "memory-forensics"
     ],
     "path": "categories/general/detecting-rootkit-activity",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52378,7 +52378,7 @@
       "threat-detection"
     ],
     "path": "categories/aws/detecting-s3-data-exfiltration-attempts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52394,7 +52394,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-service-account-abuse",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52412,7 +52412,7 @@
       "api-governance"
     ],
     "path": "categories/general/detecting-shadow-api-endpoints",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52429,7 +52429,7 @@
       "pandas"
     ],
     "path": "categories/aws/detecting-shadow-it-cloud-usage",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52446,7 +52446,7 @@
       "email-gateway"
     ],
     "path": "categories/general/detecting-spearphishing-with-email-gateway",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52460,7 +52460,7 @@
       "via"
     ],
     "path": "categories/database/detecting-sql-injection-via-waf-logs",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52478,7 +52478,7 @@
       "apt"
     ],
     "path": "categories/general/detecting-stuxnet-style-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52492,7 +52492,7 @@
       "attacks"
     ],
     "path": "categories/devops/detecting-supply-chain-attacks-in-ci-cd",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52509,7 +52509,7 @@
       "application-permissions"
     ],
     "path": "categories/security/detecting-suspicious-oauth-application-consent",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -52526,7 +52526,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/detecting-suspicious-powershell-execution",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52544,7 +52544,7 @@
       "sam-database"
     ],
     "path": "categories/general/detecting-t1003-credential-dumping-with-edr",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52561,7 +52561,7 @@
       "process-hollowing"
     ],
     "path": "categories/general/detecting-t1055-process-injection-with-sysmon",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52577,7 +52577,7 @@
       "windows-security"
     ],
     "path": "categories/general/detecting-t1548-abuse-elevation-control-mechanism",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -52595,7 +52595,7 @@
       "dfir"
     ],
     "path": "categories/general/detecting-wmi-persistence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54552,7 +54552,7 @@
       "dfir"
     ],
     "path": "categories/security/eradicating-malware-from-infected-systems",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54582,7 +54582,7 @@
       "procurement"
     ],
     "path": "categories/security/evaluating-threat-intelligence-platforms",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54597,7 +54597,7 @@
       "domain-compromise"
     ],
     "path": "categories/general/executing-active-directory-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54613,7 +54613,7 @@
       "mitre-att-ck"
     ],
     "path": "categories/general/executing-diamond-model-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54628,7 +54628,7 @@
       "security-awareness"
     ],
     "path": "categories/general/executing-phishing-simulation-campaign",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54656,7 +54656,7 @@
       "rules-of-engagement"
     ],
     "path": "categories/general/executing-red-team-engagement-planning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54671,7 +54671,7 @@
       "detection-assessment"
     ],
     "path": "categories/general/executing-red-team-exercise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54760,7 +54760,7 @@
       "domain-escalation"
     ],
     "path": "categories/security/exploiting-active-directory-certificate-services-esc1",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54777,7 +54777,7 @@
       "bloodhound"
     ],
     "path": "categories/security/exploiting-active-directory-with-bloodhound",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54794,7 +54794,7 @@
       "command-injection"
     ],
     "path": "categories/security/exploiting-api-injection-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54809,7 +54809,7 @@
       "route-hijacking"
     ],
     "path": "categories/security/exploiting-bgp-hijacking-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54825,7 +54825,7 @@
       "access-control"
     ],
     "path": "categories/security/exploiting-broken-function-level-authorization",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54842,7 +54842,7 @@
       "external-resource"
     ],
     "path": "categories/security/exploiting-broken-link-hijacking",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54859,7 +54859,7 @@
       "lateral-movement"
     ],
     "path": "categories/security/exploiting-constrained-delegation-abuse",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -54875,7 +54875,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/exploiting-deeplink-vulnerabilities",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54890,7 +54890,7 @@
       "pii-leakage"
     ],
     "path": "categories/security/exploiting-excessive-data-exposure-in-api",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54906,7 +54906,7 @@
       "owasp"
     ],
     "path": "categories/security/exploiting-http-request-smuggling",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54922,7 +54922,7 @@
       "web-security"
     ],
     "path": "categories/security/exploiting-idor-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54938,7 +54938,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/exploiting-insecure-data-storage-in-mobile",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -54954,7 +54954,7 @@
       "ysoserial"
     ],
     "path": "categories/security/exploiting-insecure-deserialization",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54969,7 +54969,7 @@
       "dual-stack-security"
     ],
     "path": "categories/security/exploiting-ipv6-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -54984,7 +54984,7 @@
       "cryptographic-attack"
     ],
     "path": "categories/security/exploiting-jwt-algorithm-confusion-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55001,7 +55001,7 @@
       "service-accounts"
     ],
     "path": "categories/security/exploiting-kerberoasting-with-impacket",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -55018,7 +55018,7 @@
       "owasp-api"
     ],
     "path": "categories/security/exploiting-mass-assignment-in-rest-apis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55036,7 +55036,7 @@
       "remote-code-execution"
     ],
     "path": "categories/security/exploiting-ms17-010-eternalblue-vulnerability",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -55053,7 +55053,7 @@
       "domain-escalation"
     ],
     "path": "categories/security/exploiting-nopac-cve-2021-42278-42287",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -55070,7 +55070,7 @@
       "api-testing"
     ],
     "path": "categories/security/exploiting-nosql-injection-vulnerabilities",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -55086,7 +55086,7 @@
       "authorization"
     ],
     "path": "categories/security/exploiting-oauth-misconfiguration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55104,7 +55104,7 @@
       "server-side-pollution"
     ],
     "path": "categories/security/exploiting-prototype-pollution-in-javascript",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55121,7 +55121,7 @@
       "burp-suite"
     ],
     "path": "categories/security/exploiting-race-condition-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55137,7 +55137,7 @@
       "burpsuite"
     ],
     "path": "categories/security/exploiting-server-side-request-forgery",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55152,7 +55152,7 @@
       "eternalblue"
     ],
     "path": "categories/security/exploiting-smb-vulnerabilities-with-metasploit",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55167,7 +55167,7 @@
       "injection-testing"
     ],
     "path": "categories/security/exploiting-sql-injection-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55183,7 +55183,7 @@
       "web-security"
     ],
     "path": "categories/security/exploiting-sql-injection-with-sqlmap",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55199,7 +55199,7 @@
       "owasp"
     ],
     "path": "categories/security/exploiting-template-injection-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55216,7 +55216,7 @@
       "web-security"
     ],
     "path": "categories/security/exploiting-type-juggling-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55232,7 +55232,7 @@
       "risk"
     ],
     "path": "categories/security/exploiting-vulnerabilities-with-metasploit-framework",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -55248,7 +55248,7 @@
       "burpsuite"
     ],
     "path": "categories/security/exploiting-websocket-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -55265,7 +55265,7 @@
       "ms-nrpc"
     ],
     "path": "categories/security/exploiting-zerologon-vulnerability-cve-2020-1472",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -56649,7 +56649,7 @@
       "artifact-extraction"
     ],
     "path": "categories/general/extracting-browser-history-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -56666,7 +56666,7 @@
       "credential-theft"
     ],
     "path": "categories/general/extracting-config-from-agent-tesla-rat",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -56683,7 +56683,7 @@
       "incident-response"
     ],
     "path": "categories/general/extracting-credentials-from-memory-dump",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -56698,7 +56698,7 @@
       "detection"
     ],
     "path": "categories/security/extracting-iocs-from-malware-samples",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -56712,7 +56712,7 @@
       "with"
     ],
     "path": "categories/general/extracting-memory-artifacts-with-rekall",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -56729,7 +56729,7 @@
       "incident-response"
     ],
     "path": "categories/general/extracting-windows-event-logs-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -58054,7 +58054,7 @@
   },
   {
     "name": "flow-browser-scrape",
-    "description": "DEPRECATED in v0.1.0 -- use browser-extract instead; this is a thin shim for backward compatibility, removed in v0.3.0",
+    "description": "DEPRECATED in v0.2.0 -- use browser-extract instead; this is a thin shim for backward compatibility, removed in v0.3.0",
     "category": "general",
     "tags": [
       "general"
@@ -59635,7 +59635,7 @@
       "nist-csf"
     ],
     "path": "categories/security/generating-threat-intelligence-reports",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89480,7 +89480,7 @@
       "cis-benchmark"
     ],
     "path": "categories/devops/hardening-docker-containers-for-production",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89496,7 +89496,7 @@
       "userns-remap"
     ],
     "path": "categories/devops/hardening-docker-daemon-configuration",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89512,7 +89512,7 @@
       "rhel"
     ],
     "path": "categories/general/hardening-linux-endpoint-with-cis-benchmark",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89528,7 +89528,7 @@
       "baseline-configuration"
     ],
     "path": "categories/general/hardening-windows-endpoint-with-cis-benchmark",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89571,7 +89571,7 @@
       "edr"
     ],
     "path": "categories/security/hunting-advanced-persistent-threats",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89585,7 +89585,7 @@
       "attacks"
     ],
     "path": "categories/general/hunting-credential-stuffing-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89602,7 +89602,7 @@
       "obfuscation"
     ],
     "path": "categories/general/hunting-for-anomalous-powershell-execution",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89620,7 +89620,7 @@
       "mitre-t1071"
     ],
     "path": "categories/general/hunting-for-beaconing-with-frequency-analysis",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89639,7 +89639,7 @@
       "network-forensics"
     ],
     "path": "categories/general/hunting-for-cobalt-strike-beacons",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89655,7 +89655,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-command-and-control-beaconing",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89671,7 +89671,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-data-exfiltration-indicators",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89688,7 +89688,7 @@
       "dlp"
     ],
     "path": "categories/general/hunting-for-data-staging-before-exfiltration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89706,7 +89706,7 @@
       "dfir"
     ],
     "path": "categories/general/hunting-for-dcsync-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89720,7 +89720,7 @@
       "defense-evasion"
     ],
     "path": "categories/general/hunting-for-defense-evasion-via-timestomping",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89737,7 +89737,7 @@
       "securitytrails"
     ],
     "path": "categories/general/hunting-for-dns-based-persistence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89754,7 +89754,7 @@
       "network-monitoring"
     ],
     "path": "categories/general/hunting-for-dns-tunneling-with-zeek",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89765,7 +89765,7 @@
       "general"
     ],
     "path": "categories/general/hunting-for-domain-fronting-c2-traffic",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89781,7 +89781,7 @@
       "process-creation"
     ],
     "path": "categories/general/hunting-for-lateral-movement-via-wmi",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89798,7 +89798,7 @@
       "proactive-detection"
     ],
     "path": "categories/aws/hunting-for-living-off-the-cloud-techniques",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89815,7 +89815,7 @@
       "defense-evasion"
     ],
     "path": "categories/general/hunting-for-living-off-the-land-binaries",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89832,7 +89832,7 @@
       "defense-evasion"
     ],
     "path": "categories/general/hunting-for-lolbins-execution-in-endpoint-logs",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89851,7 +89851,7 @@
       "active-directory"
     ],
     "path": "categories/general/hunting-for-ntlm-relay-attacks",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89868,7 +89868,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-persistence-mechanisms-in-windows",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89884,7 +89884,7 @@
       "endpoint-detection"
     ],
     "path": "categories/general/hunting-for-persistence-via-wmi-subscriptions",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89901,7 +89901,7 @@
       "threat-hunting"
     ],
     "path": "categories/general/hunting-for-process-injection-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89918,7 +89918,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-registry-persistence-mechanisms",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89935,7 +89935,7 @@
       "mitre-attack"
     ],
     "path": "categories/general/hunting-for-registry-run-key-persistence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -89951,7 +89951,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-scheduled-task-persistence",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89968,7 +89968,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-shadow-copy-deletion",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -89985,7 +89985,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-spearphishing-indicators",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90002,7 +90002,7 @@
       "filesystem-monitoring"
     ],
     "path": "categories/general/hunting-for-startup-folder-persistence",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90018,7 +90018,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-supply-chain-compromise",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90034,7 +90034,7 @@
       "endpoint-detection"
     ],
     "path": "categories/general/hunting-for-suspicious-scheduled-tasks",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90050,7 +90050,7 @@
       "persistence"
     ],
     "path": "categories/general/hunting-for-t1098-account-manipulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90066,7 +90066,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-unusual-network-connections",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90083,7 +90083,7 @@
       "windows-services"
     ],
     "path": "categories/general/hunting-for-unusual-service-installations",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90100,7 +90100,7 @@
       "proactive-detection"
     ],
     "path": "categories/general/hunting-for-webshell-activity",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90114,7 +90114,7 @@
       "web"
     ],
     "path": "categories/general/hunting-for-webshells-in-web-servers",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90127,7 +90127,7 @@
       "the"
     ],
     "path": "categories/general/hunting-living-off-the-land-binaries",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90229,7 +90229,7 @@
       "symmetric-encryption"
     ],
     "path": "categories/security/implementing-aes-encryption-for-data-at-rest",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90246,7 +90246,7 @@
       "detection-engineering"
     ],
     "path": "categories/general/implementing-alert-fatigue-reduction",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90263,7 +90263,7 @@
       "security-culture"
     ],
     "path": "categories/general/implementing-anti-phishing-training-program",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90281,7 +90281,7 @@
       "api-gateway"
     ],
     "path": "categories/general/implementing-api-abuse-detection-with-rate-limiting",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90297,7 +90297,7 @@
       "waf"
     ],
     "path": "categories/security/implementing-api-gateway-security-controls",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90312,7 +90312,7 @@
       "secret-management"
     ],
     "path": "categories/security/implementing-api-key-security-controls",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90328,7 +90328,7 @@
       "abuse-prevention"
     ],
     "path": "categories/general/implementing-api-rate-limiting-and-throttling",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90346,7 +90346,7 @@
       "api-gateway"
     ],
     "path": "categories/security/implementing-api-schema-validation-security",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90364,7 +90364,7 @@
       "api-inventory"
     ],
     "path": "categories/security/implementing-api-security-posture-management",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90383,7 +90383,7 @@
       "owasp-api-top-10"
     ],
     "path": "categories/security/implementing-api-security-testing-with-42crunch",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90402,7 +90402,7 @@
       "owasp-api-top-10"
     ],
     "path": "categories/security/implementing-api-threat-protection-with-apigee",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90417,7 +90417,7 @@
       "software-restriction"
     ],
     "path": "categories/general/implementing-application-whitelisting-with-applocker",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90434,7 +90434,7 @@
       "supply-chain"
     ],
     "path": "categories/security/implementing-aqua-security-for-container-scanning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90451,7 +90451,7 @@
       "attack-surface"
     ],
     "path": "categories/general/implementing-attack-path-analysis-with-xm-cyber",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90467,7 +90467,7 @@
       "remediation"
     ],
     "path": "categories/aws/implementing-aws-config-rules-for-compliance",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90483,7 +90483,7 @@
       "cloud-security"
     ],
     "path": "categories/aws/implementing-aws-iam-permission-boundaries",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90501,7 +90501,7 @@
       "compliance"
     ],
     "path": "categories/aws/implementing-aws-macie-for-data-classification",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90516,7 +90516,7 @@
       "finding-aggregation"
     ],
     "path": "categories/aws/implementing-aws-security-hub",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90532,7 +90532,7 @@
       "cis-benchmark"
     ],
     "path": "categories/aws/implementing-aws-security-hub-compliance",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90549,7 +90549,7 @@
       "zero-trust"
     ],
     "path": "categories/aws/implementing-azure-ad-privileged-identity-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90565,7 +90565,7 @@
       "security-recommendations"
     ],
     "path": "categories/aws/implementing-azure-defender-for-cloud",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90582,7 +90582,7 @@
       "access-context-manager"
     ],
     "path": "categories/rust/implementing-beyondcorp-zero-trust-access-model",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90601,7 +90601,7 @@
       "prefix-hijack"
     ],
     "path": "categories/security/implementing-bgp-security-with-rpki",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90622,7 +90622,7 @@
       "data-security"
     ],
     "path": "categories/rust/implementing-cisa-zero-trust-maturity-model",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90638,7 +90638,7 @@
       "privacy"
     ],
     "path": "categories/aws/implementing-cloud-dlp-for-data-protection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90654,7 +90654,7 @@
       "scoutsuite"
     ],
     "path": "categories/aws/implementing-cloud-security-posture-management",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90670,7 +90670,7 @@
       "forensics"
     ],
     "path": "categories/aws/implementing-cloud-trail-log-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90688,7 +90688,7 @@
       "cnapp"
     ],
     "path": "categories/aws/implementing-cloud-vulnerability-posture-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90703,7 +90703,7 @@
       "rate-limiting"
     ],
     "path": "categories/aws/implementing-cloud-waf-rules",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90717,7 +90717,7 @@
       "protection"
     ],
     "path": "categories/aws/implementing-cloud-workload-protection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90733,7 +90733,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/implementing-code-signing-for-artifacts",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90750,7 +90750,7 @@
       "zero-trust"
     ],
     "path": "categories/aws/implementing-conditional-access-policies-azure-ad",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90768,7 +90768,7 @@
       "mfa"
     ],
     "path": "categories/security/implementing-conduit-security-for-ot-remote-access",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90786,7 +90786,7 @@
       "kubernetes"
     ],
     "path": "categories/general/implementing-container-image-minimal-base-with-distroless",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90802,7 +90802,7 @@
       "cni"
     ],
     "path": "categories/general/implementing-container-network-policies-with-calico",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90820,7 +90820,7 @@
       "mitre-attack"
     ],
     "path": "categories/security/implementing-continuous-security-validation-with-bas",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90839,7 +90839,7 @@
       "network-security"
     ],
     "path": "categories/aws/implementing-ddos-mitigation-with-cloudflare",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90856,7 +90856,7 @@
       "early-warning"
     ],
     "path": "categories/general/implementing-deception-based-detection-with-canarytoken",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90872,7 +90872,7 @@
       "credential-management"
     ],
     "path": "categories/general/implementing-delinea-secret-server-for-pam",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90889,7 +90889,7 @@
       "jamf"
     ],
     "path": "categories/rust/implementing-device-posture-assessment-in-zero-trust",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90904,7 +90904,7 @@
       "ci-cd"
     ],
     "path": "categories/security/implementing-devsecops-security-scanning",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -90921,7 +90921,7 @@
       "intrusion-analysis"
     ],
     "path": "categories/general/implementing-diamond-model-analysis",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90936,7 +90936,7 @@
       "integrity"
     ],
     "path": "categories/general/implementing-digital-signatures-with-ed25519",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90952,7 +90952,7 @@
       "windows-security"
     ],
     "path": "categories/security/implementing-disk-encryption-with-bitlocker",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90970,7 +90970,7 @@
       "dns"
     ],
     "path": "categories/security/implementing-dmarc-dkim-spf-email-security",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -90988,7 +90988,7 @@
       "ndr"
     ],
     "path": "categories/general/implementing-dragos-platform-for-ot-monitoring",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91005,7 +91005,7 @@
       "proofpoint"
     ],
     "path": "categories/general/implementing-email-sandboxing-with-proofpoint",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91019,7 +91019,7 @@
       "with"
     ],
     "path": "categories/security/implementing-email-security-with-dmarc-dkim-spf",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91034,7 +91034,7 @@
       "signal-protocol"
     ],
     "path": "categories/security/implementing-end-to-end-encryption-for-messaging",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91050,7 +91050,7 @@
       "incident-response"
     ],
     "path": "categories/general/implementing-endpoint-detection-with-wazuh",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91065,7 +91065,7 @@
       "content-inspection"
     ],
     "path": "categories/general/implementing-endpoint-dlp-controls",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91081,7 +91081,7 @@
       "key-management"
     ],
     "path": "categories/aws/implementing-envelope-encryption-with-aws-kms",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91098,7 +91098,7 @@
       "machine-learning"
     ],
     "path": "categories/security/implementing-epss-score-for-vulnerability-prioritization",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91115,7 +91115,7 @@
       "linux-security"
     ],
     "path": "categories/general/implementing-file-integrity-monitoring-with-aide",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91132,7 +91132,7 @@
       "afl"
     ],
     "path": "categories/testing/implementing-fuzz-testing-in-cicd-with-aflplusplus",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91150,7 +91150,7 @@
       "software-integrity"
     ],
     "path": "categories/aws/implementing-gcp-binary-authorization",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91167,7 +91167,7 @@
       "resource-manager"
     ],
     "path": "categories/aws/implementing-gcp-organization-policy-constraints",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91183,7 +91183,7 @@
       "segmentation"
     ],
     "path": "categories/aws/implementing-gcp-vpc-firewall-rules",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91199,7 +91199,7 @@
       "eu-regulation"
     ],
     "path": "categories/general/implementing-gdpr-data-protection-controls",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91216,7 +91216,7 @@
       "shift-left"
     ],
     "path": "categories/security/implementing-github-advanced-security-for-code-scanning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91233,7 +91233,7 @@
       "cloud-security"
     ],
     "path": "categories/security/implementing-google-workspace-admin-security",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91250,7 +91250,7 @@
       "admin-console"
     ],
     "path": "categories/general/implementing-google-workspace-phishing-protection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91266,7 +91266,7 @@
       "federation"
     ],
     "path": "categories/general/implementing-google-workspace-sso-configuration",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91282,7 +91282,7 @@
       "pki"
     ],
     "path": "categories/general/implementing-hashicorp-vault-dynamic-secrets",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91298,7 +91298,7 @@
       "deception"
     ],
     "path": "categories/general/implementing-honeypot-for-ransomware-detection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91312,7 +91312,7 @@
       "breach"
     ],
     "path": "categories/general/implementing-honeytokens-for-breach-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91330,7 +91330,7 @@
       "scada"
     ],
     "path": "categories/security/implementing-ics-firewall-with-tofino",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91347,7 +91347,7 @@
       "lifecycle"
     ],
     "path": "categories/general/implementing-identity-governance-with-sailpoint",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91358,7 +91358,7 @@
       "cybersecurity"
     ],
     "path": "categories/rust/implementing-identity-verification-for-zero-trust",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91375,7 +91375,7 @@
       "zones-conduits"
     ],
     "path": "categories/security/implementing-iec-62443-security-zones",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91392,7 +91392,7 @@
       "slsa"
     ],
     "path": "categories/general/implementing-image-provenance-verification-with-cosign",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91410,7 +91410,7 @@
       "recovery"
     ],
     "path": "categories/general/implementing-immutable-backup-with-restic",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91427,7 +91427,7 @@
       "secure-sdlc"
     ],
     "path": "categories/security/implementing-infrastructure-as-code-security-scanning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91443,7 +91443,7 @@
       "certification"
     ],
     "path": "categories/security/implementing-iso-27001-information-security-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91460,7 +91460,7 @@
       "least-privilege"
     ],
     "path": "categories/general/implementing-just-in-time-access-provisioning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91475,7 +91475,7 @@
       "digital-signatures"
     ],
     "path": "categories/security/implementing-jwt-signing-and-verification",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91491,7 +91491,7 @@
       "cni"
     ],
     "path": "categories/devops/implementing-kubernetes-network-policy-with-calico",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91506,7 +91506,7 @@
       "psa"
     ],
     "path": "categories/devops/implementing-kubernetes-pod-security-standards",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91523,7 +91523,7 @@
       "observability"
     ],
     "path": "categories/general/implementing-log-forwarding-with-fluentd",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91537,7 +91537,7 @@
       "with"
     ],
     "path": "categories/general/implementing-log-integrity-with-blockchain",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91553,7 +91553,7 @@
       "cfg"
     ],
     "path": "categories/general/implementing-memory-protection-with-dep-aslr",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91570,7 +91570,7 @@
       "lateral-movement"
     ],
     "path": "categories/general/implementing-microsegmentation-with-guardicore",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91587,7 +91587,7 @@
       "phishing"
     ],
     "path": "categories/general/implementing-mimecast-targeted-attack-protection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91603,7 +91603,7 @@
       "detection-engineering"
     ],
     "path": "categories/general/implementing-mitre-attack-coverage-mapping",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91619,7 +91619,7 @@
       "owasp-mobile"
     ],
     "path": "categories/mobile/implementing-mobile-application-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91633,7 +91633,7 @@
       "zero"
     ],
     "path": "categories/rust/implementing-mtls-for-zero-trust-services",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91651,7 +91651,7 @@
       "compliance"
     ],
     "path": "categories/general/implementing-nerc-cip-compliance-controls",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91666,7 +91666,7 @@
       "packetfence"
     ],
     "path": "categories/general/implementing-network-access-control",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91685,7 +91685,7 @@
       "eap-tls"
     ],
     "path": "categories/general/implementing-network-access-control-with-cisco-ise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91703,7 +91703,7 @@
       "network-security"
     ],
     "path": "categories/general/implementing-network-deception-with-honeypots",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91722,7 +91722,7 @@
       "inline-mode"
     ],
     "path": "categories/general/implementing-network-intrusion-prevention-with-suricata",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91737,7 +91737,7 @@
       "microsegmentation"
     ],
     "path": "categories/devops/implementing-network-policies-for-kubernetes",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91754,7 +91754,7 @@
       "vlan"
     ],
     "path": "categories/general/implementing-network-segmentation-for-ot",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91773,7 +91773,7 @@
       "pci-dss"
     ],
     "path": "categories/security/implementing-network-segmentation-with-firewall-zones",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91787,7 +91787,7 @@
       "analysis"
     ],
     "path": "categories/general/implementing-network-traffic-analysis-with-arkime",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91798,7 +91798,7 @@
       "general"
     ],
     "path": "categories/general/implementing-network-traffic-baselining",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91817,7 +91817,7 @@
       "zone-protection"
     ],
     "path": "categories/security/implementing-next-generation-firewall-with-palo-alto",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91833,7 +91833,7 @@
       "rego"
     ],
     "path": "categories/general/implementing-opa-gatekeeper-for-policy-enforcement",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91847,7 +91847,7 @@
       "endpoint"
     ],
     "path": "categories/general/implementing-osquery-for-endpoint-monitoring",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91865,7 +91865,7 @@
       "safety-critical"
     ],
     "path": "categories/general/implementing-ot-incident-response-playbook",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91883,7 +91883,7 @@
       "ndr"
     ],
     "path": "categories/general/implementing-ot-network-traffic-analysis-with-nozomi",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91900,7 +91900,7 @@
       "dba"
     ],
     "path": "categories/general/implementing-pam-for-database-access",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91916,7 +91916,7 @@
       "phishing-resistant-mfa"
     ],
     "path": "categories/security/implementing-passwordless-auth-with-microsoft-entra",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91933,7 +91933,7 @@
       "passwordless"
     ],
     "path": "categories/security/implementing-passwordless-authentication-with-fido2",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -91950,7 +91950,7 @@
       "vulnerability-management"
     ],
     "path": "categories/general/implementing-patch-management-for-ot-systems",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -91966,7 +91966,7 @@
       "risk"
     ],
     "path": "categories/general/implementing-patch-management-workflow",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -91981,7 +91981,7 @@
       "cardholder-data"
     ],
     "path": "categories/general/implementing-pci-dss-compliance-controls",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -91996,7 +91996,7 @@
       "admission-controller"
     ],
     "path": "categories/security/implementing-pod-security-admission-controller",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92013,7 +92013,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/implementing-policy-as-code-with-open-policy-agent",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92029,7 +92029,7 @@
       "cyberark"
     ],
     "path": "categories/general/implementing-privileged-access-management-with-cyberark",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92046,7 +92046,7 @@
       "just-in-time-access"
     ],
     "path": "categories/general/implementing-privileged-access-workstation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92065,7 +92065,7 @@
       "entra-id"
     ],
     "path": "categories/aws/implementing-privileged-identity-management-with-azure",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92079,7 +92079,7 @@
       "audit-logging"
     ],
     "path": "categories/general/implementing-privileged-session-monitoring",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92097,7 +92097,7 @@
       "email-filtering"
     ],
     "path": "categories/security/implementing-proofpoint-email-security-gateway",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92115,7 +92115,7 @@
       "scada"
     ],
     "path": "categories/general/implementing-purdue-model-network-segmentation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92131,7 +92131,7 @@
       "immutable-storage"
     ],
     "path": "categories/general/implementing-ransomware-backup-strategy",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92148,7 +92148,7 @@
       "authenticated-scanning"
     ],
     "path": "categories/general/implementing-rapid7-insightvm-for-scanning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92165,7 +92165,7 @@
       "k8s"
     ],
     "path": "categories/devops/implementing-rbac-for-kubernetes-cluster",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92183,7 +92183,7 @@
       "service-accounts"
     ],
     "path": "categories/devops/implementing-rbac-hardening-for-kubernetes",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92198,7 +92198,7 @@
       "asymmetric-encryption"
     ],
     "path": "categories/general/implementing-rsa-key-pair-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92216,7 +92216,7 @@
       "devsecops"
     ],
     "path": "categories/general/implementing-runtime-application-self-protection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92235,7 +92235,7 @@
       "cncf"
     ],
     "path": "categories/security/implementing-runtime-security-with-tetragon",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92252,7 +92252,7 @@
       "okta"
     ],
     "path": "categories/general/implementing-saml-sso-with-okta",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92269,7 +92269,7 @@
       "lifecycle-management"
     ],
     "path": "categories/general/implementing-scim-provisioning-with-okta",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92285,7 +92285,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/implementing-secret-scanning-with-gitleaks",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92300,7 +92300,7 @@
       "zero-trust"
     ],
     "path": "categories/general/implementing-secrets-management-with-vault",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92314,7 +92314,7 @@
       "ci-cd"
     ],
     "path": "categories/devops/implementing-secrets-scanning-in-ci-cd",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92328,7 +92328,7 @@
       "engineering"
     ],
     "path": "categories/security/implementing-security-chaos-engineering",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92342,7 +92342,7 @@
       "intelligence-exchange"
     ],
     "path": "categories/security/implementing-security-information-sharing-with-stix2",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92357,7 +92357,7 @@
       "log-analysis"
     ],
     "path": "categories/security/implementing-security-monitoring-with-datadog",
-    "file_count": 3,
+    "file_count": 4,
     "has_scripts": true
   },
   {
@@ -92373,7 +92373,7 @@
       "code-security"
     ],
     "path": "categories/general/implementing-semgrep-for-custom-sast-rules",
-    "file_count": 5,
+    "file_count": 6,
     "has_scripts": true
   },
   {
@@ -92387,7 +92387,7 @@
       "rules"
     ],
     "path": "categories/general/implementing-siem-correlation-rules-for-apt",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92398,7 +92398,7 @@
       "general"
     ],
     "path": "categories/general/implementing-siem-use-case-tuning",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92416,7 +92416,7 @@
       "sentinel"
     ],
     "path": "categories/general/implementing-siem-use-cases-for-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92434,7 +92434,7 @@
       "incident-response"
     ],
     "path": "categories/general/implementing-soar-automation-with-phantom",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92448,7 +92448,7 @@
       "incident-response"
     ],
     "path": "categories/general/implementing-soar-playbook-for-phishing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92466,7 +92466,7 @@
       "cortex"
     ],
     "path": "categories/general/implementing-soar-playbook-with-palo-alto-xsoar",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92484,7 +92484,7 @@
       "oasis"
     ],
     "path": "categories/general/implementing-stix-taxii-feed-integration",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92503,7 +92503,7 @@
       "sbom"
     ],
     "path": "categories/security/implementing-supply-chain-security-with-in-toto",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92517,7 +92517,7 @@
       "with"
     ],
     "path": "categories/general/implementing-syslog-centralization-with-rsyslog",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92535,7 +92535,7 @@
       "automation"
     ],
     "path": "categories/general/implementing-taxii-server-with-opentaxii",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92553,7 +92553,7 @@
       "cti-program"
     ],
     "path": "categories/security/implementing-threat-intelligence-lifecycle-management",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92567,7 +92567,7 @@
       "platform"
     ],
     "path": "categories/security/implementing-threat-intelligence-platform",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92584,7 +92584,7 @@
       "risk-assessment"
     ],
     "path": "categories/security/implementing-threat-modeling-with-mitre-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92602,7 +92602,7 @@
       "workflow"
     ],
     "path": "categories/general/implementing-ticketing-system-for-incidents",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92617,7 +92617,7 @@
       "removable-media"
     ],
     "path": "categories/general/implementing-usb-device-control-policy",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92635,7 +92635,7 @@
       "incident-response"
     ],
     "path": "categories/general/implementing-velociraptor-for-ir-collection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92652,7 +92652,7 @@
       "compliance"
     ],
     "path": "categories/security/implementing-vulnerability-management-with-greenbone",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92668,7 +92668,7 @@
       "risk"
     ],
     "path": "categories/security/implementing-vulnerability-remediation-sla",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92685,7 +92685,7 @@
       "escalation"
     ],
     "path": "categories/security/implementing-vulnerability-sla-breach-alerting",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92702,7 +92702,7 @@
       "rule-tuning"
     ],
     "path": "categories/security/implementing-web-application-logging-with-modsecurity",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92717,7 +92717,7 @@
       "zkp"
     ],
     "path": "categories/security/implementing-zero-knowledge-proof-for-authentication",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -92733,7 +92733,7 @@
       "least-privilege"
     ],
     "path": "categories/general/implementing-zero-standing-privilege-with-cyberark",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92752,7 +92752,7 @@
       "encrypted-dns"
     ],
     "path": "categories/rust/implementing-zero-trust-dns-with-nextdns",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92769,7 +92769,7 @@
       "session-controls"
     ],
     "path": "categories/rust/implementing-zero-trust-for-saas-applications",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92784,7 +92784,7 @@
       "continuous-verification"
     ],
     "path": "categories/rust/implementing-zero-trust-in-cloud",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92800,7 +92800,7 @@
       "micro-segmentation"
     ],
     "path": "categories/rust/implementing-zero-trust-network-access",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92811,7 +92811,7 @@
       "cybersecurity"
     ],
     "path": "categories/rust/implementing-zero-trust-network-access-with-zscaler",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -92828,7 +92828,7 @@
       "identity"
     ],
     "path": "categories/rust/implementing-zero-trust-with-beyondcorp",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -92846,7 +92846,7 @@
       "just-in-time-access"
     ],
     "path": "categories/rust/implementing-zero-trust-with-hashicorp-boundary",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -94681,7 +94681,7 @@
       "secure-sdlc"
     ],
     "path": "categories/security/integrating-dast-with-owasp-zap-in-pipeline",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -94697,7 +94697,7 @@
       "secure-sdlc"
     ],
     "path": "categories/devops/integrating-sast-into-github-actions-pipeline",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -94713,7 +94713,7 @@
       "penetration-testing"
     ],
     "path": "categories/mobile/intercepting-mobile-traffic-with-burpsuite",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -94741,7 +94741,7 @@
       "hr-correlation"
     ],
     "path": "categories/security/investigating-insider-threat-indicators",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -94758,7 +94758,7 @@
       "sandbox"
     ],
     "path": "categories/general/investigating-phishing-email-incident",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -94774,7 +94774,7 @@
       "evidence-collection"
     ],
     "path": "categories/general/investigating-ransomware-attack-artifacts",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -109670,7 +109670,7 @@
       "identity-lifecycle"
     ],
     "path": "categories/aws/managing-cloud-identity-with-okta",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -109686,7 +109686,7 @@
       "nist-csf"
     ],
     "path": "categories/general/managing-intelligence-lifecycle",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -109703,7 +109703,7 @@
       "nist-csf"
     ],
     "path": "categories/general/mapping-mitre-attack-techniques",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -121433,7 +121433,7 @@
       "cti"
     ],
     "path": "categories/general/monitoring-darkweb-sources",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122434,7 +122434,7 @@
       "iga"
     ],
     "path": "categories/general/performing-access-recertification-with-saviynt",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122451,7 +122451,7 @@
       "governance"
     ],
     "path": "categories/general/performing-access-review-and-certification",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122468,7 +122468,7 @@
       "privilege-escalation"
     ],
     "path": "categories/general/performing-active-directory-bloodhound-analysis",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122486,7 +122486,7 @@
       "golden-ticket"
     ],
     "path": "categories/general/performing-active-directory-compromise-investigation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122503,7 +122503,7 @@
       "trust-enumeration"
     ],
     "path": "categories/rust/performing-active-directory-forest-trust-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122521,7 +122521,7 @@
       "privilege-escalation"
     ],
     "path": "categories/testing/performing-active-directory-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122539,7 +122539,7 @@
       "kerberos"
     ],
     "path": "categories/security/performing-active-directory-vulnerability-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122557,7 +122557,7 @@
       "credential-theft"
     ],
     "path": "categories/general/performing-adversary-in-the-middle-phishing-detection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122575,7 +122575,7 @@
       "tenable"
     ],
     "path": "categories/security/performing-agentless-vulnerability-scanning",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122593,7 +122593,7 @@
       "kibana"
     ],
     "path": "categories/general/performing-alert-triage-with-elastic-siem",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122609,7 +122609,7 @@
       "penetration-testing"
     ],
     "path": "categories/mobile/performing-android-app-static-analysis-with-mobsf",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122625,7 +122625,7 @@
       "stateful-testing"
     ],
     "path": "categories/general/performing-api-fuzzing-with-restler",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122641,7 +122641,7 @@
       "attack-surface"
     ],
     "path": "categories/general/performing-api-inventory-and-discovery",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122657,7 +122657,7 @@
       "dos-prevention"
     ],
     "path": "categories/general/performing-api-rate-limiting-bypass",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122672,7 +122672,7 @@
       "security-validation"
     ],
     "path": "categories/security/performing-api-security-testing-with-postman",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122687,7 +122687,7 @@
       "layer2-attack"
     ],
     "path": "categories/general/performing-arp-spoofing-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122704,7 +122704,7 @@
       "asset-classification"
     ],
     "path": "categories/security/performing-asset-criticality-scoring-for-vulns",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122721,7 +122721,7 @@
       "credentialed-scan"
     ],
     "path": "categories/security/performing-authenticated-scan-with-openvas",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122738,7 +122738,7 @@
       "risk"
     ],
     "path": "categories/security/performing-authenticated-vulnerability-scan",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122755,7 +122755,7 @@
       "cuckoo"
     ],
     "path": "categories/security/performing-automated-malware-analysis-with-cape",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -122773,7 +122773,7 @@
       "nccgroup"
     ],
     "path": "categories/aws/performing-aws-account-enumeration-with-scout-suite",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122789,7 +122789,7 @@
       "offensive-security"
     ],
     "path": "categories/aws/performing-aws-privilege-escalation-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122804,7 +122804,7 @@
       "network-resilience"
     ],
     "path": "categories/general/performing-bandwidth-throttling-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122818,7 +122818,7 @@
       "buffer-overflow"
     ],
     "path": "categories/security/performing-binary-exploitation-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122835,7 +122835,7 @@
       "oob-detection"
     ],
     "path": "categories/security/performing-blind-ssrf-exploitation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122849,7 +122849,7 @@
       "wireless-security"
     ],
     "path": "categories/security/performing-bluetooth-security-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122866,7 +122866,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/performing-brand-monitoring-for-impersonation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122882,7 +122882,7 @@
       "x-frame-options"
     ],
     "path": "categories/testing/performing-clickjacking-attack-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122900,7 +122900,7 @@
       "lyft"
     ],
     "path": "categories/aws/performing-cloud-asset-inventory-with-cartography",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122917,7 +122917,7 @@
       "log-analysis"
     ],
     "path": "categories/aws/performing-cloud-forensics-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122935,7 +122935,7 @@
       "s3"
     ],
     "path": "categories/aws/performing-cloud-forensics-with-aws-cloudtrail",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122953,7 +122953,7 @@
       "network-isolation"
     ],
     "path": "categories/aws/performing-cloud-incident-containment-procedures",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -122967,7 +122967,7 @@
       "forensics"
     ],
     "path": "categories/aws/performing-cloud-native-forensics-with-falco",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122982,7 +122982,7 @@
       "cloud-infrastructure"
     ],
     "path": "categories/aws/performing-cloud-penetration-testing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -122998,7 +122998,7 @@
       "iam-exploitation"
     ],
     "path": "categories/aws/performing-cloud-penetration-testing-with-pacu",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123018,7 +123018,7 @@
       "magnet-axiom"
     ],
     "path": "categories/aws/performing-cloud-storage-forensic-acquisition",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123032,7 +123032,7 @@
       "detection"
     ],
     "path": "categories/general/performing-container-escape-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123048,7 +123048,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/performing-container-image-hardening",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123066,7 +123066,7 @@
       "supply-chain"
     ],
     "path": "categories/security/performing-container-security-scanning-with-trivy",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123083,7 +123083,7 @@
       "policy-misconfiguration"
     ],
     "path": "categories/security/performing-content-security-policy-bypass",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123100,7 +123100,7 @@
       "lateral-movement"
     ],
     "path": "categories/general/performing-credential-access-with-lazagne",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123115,7 +123115,7 @@
       "vulnerability-assessment"
     ],
     "path": "categories/general/performing-cryptographic-audit-of-application",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123131,7 +123131,7 @@
       "burpsuite"
     ],
     "path": "categories/general/performing-csrf-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123148,7 +123148,7 @@
       "remediation"
     ],
     "path": "categories/security/performing-cve-prioritization-with-kev-catalog",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123166,7 +123166,7 @@
       "threat-monitoring"
     ],
     "path": "categories/security/performing-dark-web-monitoring-for-threats",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123183,7 +123183,7 @@
       "detection"
     ],
     "path": "categories/general/performing-deception-technology-deployment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123199,7 +123199,7 @@
       "web-security"
     ],
     "path": "categories/testing/performing-directory-traversal-testing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123214,7 +123214,7 @@
       "chain-of-custody"
     ],
     "path": "categories/security/performing-disk-forensics-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123232,7 +123232,7 @@
       "email-security"
     ],
     "path": "categories/general/performing-dmarc-policy-enforcement-rollout",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123247,7 +123247,7 @@
       "reconnaissance"
     ],
     "path": "categories/general/performing-dns-enumeration-and-zone-transfer",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123261,7 +123261,7 @@
       "detection"
     ],
     "path": "categories/general/performing-dns-tunneling-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123276,7 +123276,7 @@
       "assessment"
     ],
     "path": "categories/devops/performing-docker-bench-security-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123292,7 +123292,7 @@
       "penetration-testing"
     ],
     "path": "categories/mobile/performing-dynamic-analysis-of-android-app",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123307,7 +123307,7 @@
       "interactive-analysis"
     ],
     "path": "categories/general/performing-dynamic-analysis-with-any-run",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123323,7 +123323,7 @@
       "volatility"
     ],
     "path": "categories/security/performing-endpoint-forensics-investigation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123339,7 +123339,7 @@
       "cvss"
     ],
     "path": "categories/security/performing-endpoint-vulnerability-remediation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123355,7 +123355,7 @@
       "access-governance"
     ],
     "path": "categories/general/performing-entitlement-review-with-sailpoint-iiq",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123374,7 +123374,7 @@
       "exploitation"
     ],
     "path": "categories/testing/performing-external-network-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123391,7 +123391,7 @@
       "correlation"
     ],
     "path": "categories/general/performing-false-positive-reduction-in-siem",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123407,7 +123407,7 @@
       "unallocated-space"
     ],
     "path": "categories/general/performing-file-carving-with-foremost",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123422,7 +123422,7 @@
       "embedded-security"
     ],
     "path": "categories/security/performing-firmware-malware-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123438,7 +123438,7 @@
       "security-testing"
     ],
     "path": "categories/general/performing-fuzzing-with-aflplusplus",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123454,7 +123454,7 @@
       "gcpbucketbrute"
     ],
     "path": "categories/aws/performing-gcp-penetration-testing-with-gcpbucketbrute",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123470,7 +123470,7 @@
       "cis-benchmark"
     ],
     "path": "categories/aws/performing-gcp-security-assessment-with-forseti",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123488,7 +123488,7 @@
       "penetration-testing"
     ],
     "path": "categories/general/performing-graphql-depth-limit-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123503,7 +123503,7 @@
       "query-abuse"
     ],
     "path": "categories/general/performing-graphql-introspection-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123519,7 +123519,7 @@
       "introspection"
     ],
     "path": "categories/security/performing-graphql-security-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123536,7 +123536,7 @@
       "hardware-security"
     ],
     "path": "categories/security/performing-hardware-security-module-integration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123551,7 +123551,7 @@
       "penetration-testing"
     ],
     "path": "categories/general/performing-hash-cracking-with-hashcat",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123568,7 +123568,7 @@
       "server-parsing"
     ],
     "path": "categories/general/performing-http-parameter-pollution-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123586,7 +123586,7 @@
       "iec62443"
     ],
     "path": "categories/general/performing-ics-asset-discovery-with-claroty",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123603,7 +123603,7 @@
       "ioc-management"
     ],
     "path": "categories/general/performing-indicator-lifecycle-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123620,7 +123620,7 @@
       "credential-theft"
     ],
     "path": "categories/general/performing-initial-access-with-evilginx3",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123635,7 +123635,7 @@
       "dfir"
     ],
     "path": "categories/security/performing-insider-threat-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123653,7 +123653,7 @@
       "threat-intelligence"
     ],
     "path": "categories/general/performing-ioc-enrichment-automation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123668,7 +123668,7 @@
       "uart-jtag"
     ],
     "path": "categories/security/performing-iot-security-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123686,7 +123686,7 @@
       "internet-scanning"
     ],
     "path": "categories/general/performing-ip-reputation-analysis-with-shodan",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123704,7 +123704,7 @@
       "web-security"
     ],
     "path": "categories/security/performing-jwt-none-algorithm-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123722,7 +123722,7 @@
       "credential-access"
     ],
     "path": "categories/general/performing-kerberoasting-attack",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123738,7 +123738,7 @@
       "aquasecurity"
     ],
     "path": "categories/devops/performing-kubernetes-cis-benchmark-with-kube-bench",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123756,7 +123756,7 @@
       "control-plane"
     ],
     "path": "categories/devops/performing-kubernetes-etcd-security-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123771,7 +123771,7 @@
       "offensive-security"
     ],
     "path": "categories/devops/performing-kubernetes-penetration-testing",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123790,7 +123790,7 @@
       "detection"
     ],
     "path": "categories/general/performing-lateral-movement-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123807,7 +123807,7 @@
       "windows"
     ],
     "path": "categories/general/performing-lateral-movement-with-wmiexec",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123827,7 +123827,7 @@
       "log-analysis"
     ],
     "path": "categories/security/performing-linux-log-forensics-investigation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123843,7 +123843,7 @@
       "evidence-collection"
     ],
     "path": "categories/security/performing-log-analysis-for-forensic-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123860,7 +123860,7 @@
       "soc"
     ],
     "path": "categories/general/performing-log-source-onboarding-in-siem",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123878,7 +123878,7 @@
       "detection"
     ],
     "path": "categories/rust/performing-malware-hash-enrichment-with-virustotal",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123896,7 +123896,7 @@
       "reverse-engineering"
     ],
     "path": "categories/security/performing-malware-ioc-extraction",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123913,7 +123913,7 @@
       "incident-response"
     ],
     "path": "categories/security/performing-malware-persistence-investigation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123928,7 +123928,7 @@
       "pattern-matching"
     ],
     "path": "categories/security/performing-malware-triage-with-yara",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123944,7 +123944,7 @@
       "incident-response"
     ],
     "path": "categories/security/performing-memory-forensics-with-volatility3",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -123961,7 +123961,7 @@
       "dfir"
     ],
     "path": "categories/security/performing-memory-forensics-with-volatility3-plugins",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123977,7 +123977,7 @@
       "penetration-testing"
     ],
     "path": "categories/mobile/performing-mobile-app-certificate-pinning-bypass",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -123993,7 +123993,7 @@
       "android-forensics"
     ],
     "path": "categories/security/performing-mobile-device-forensics-with-cellebrite",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124009,7 +124009,7 @@
       "traffic-analysis"
     ],
     "path": "categories/security/performing-network-forensics-with-wireshark",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124029,7 +124029,7 @@
       "network-evidence"
     ],
     "path": "categories/general/performing-network-packet-capture-analysis",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124046,7 +124046,7 @@
       "traffic-analysis"
     ],
     "path": "categories/general/performing-network-traffic-analysis-with-tshark",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124065,7 +124065,7 @@
       "siem-integration"
     ],
     "path": "categories/general/performing-network-traffic-analysis-with-zeek",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124081,7 +124081,7 @@
       "risk-management"
     ],
     "path": "categories/general/performing-nist-csf-maturity-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124097,7 +124097,7 @@
       "token-audit"
     ],
     "path": "categories/security/performing-oauth-scope-minimization-review",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124115,7 +124115,7 @@
       "api1164"
     ],
     "path": "categories/security/performing-oil-gas-cybersecurity-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124132,7 +124132,7 @@
       "reconnaissance"
     ],
     "path": "categories/general/performing-open-source-intelligence-gathering",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124143,7 +124143,7 @@
       "general"
     ],
     "path": "categories/general/performing-osint-with-spiderfoot",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124159,7 +124159,7 @@
       "network-assessment"
     ],
     "path": "categories/security/performing-ot-network-security-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124176,7 +124176,7 @@
       "claroty"
     ],
     "path": "categories/security/performing-ot-vulnerability-assessment-with-claroty",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124194,7 +124194,7 @@
       "nist"
     ],
     "path": "categories/security/performing-ot-vulnerability-scanning-safely",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124209,7 +124209,7 @@
       "protocol-testing"
     ],
     "path": "categories/general/performing-packet-injection-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124226,7 +124226,7 @@
       "early-warning"
     ],
     "path": "categories/general/performing-paste-site-monitoring-for-credentials",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124243,7 +124243,7 @@
       "simulation"
     ],
     "path": "categories/general/performing-phishing-simulation-with-gophish",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124260,7 +124260,7 @@
       "physical-pentest"
     ],
     "path": "categories/general/performing-physical-intrusion-assessment",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124277,7 +124277,7 @@
       "plc-security"
     ],
     "path": "categories/security/performing-plc-firmware-security-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124295,7 +124295,7 @@
       "substation"
     ],
     "path": "categories/security/performing-power-grid-cybersecurity-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124310,7 +124310,7 @@
       "local-exploitation"
     ],
     "path": "categories/general/performing-privilege-escalation-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124327,7 +124327,7 @@
       "linux"
     ],
     "path": "categories/general/performing-privilege-escalation-on-linux",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -124344,7 +124344,7 @@
       "identity-governance"
     ],
     "path": "categories/general/performing-privileged-account-access-review",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124360,7 +124360,7 @@
       "inventory"
     ],
     "path": "categories/general/performing-privileged-account-discovery",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124377,7 +124377,7 @@
       "detection-validation"
     ],
     "path": "categories/general/performing-purple-team-exercise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124393,7 +124393,7 @@
       "encryption"
     ],
     "path": "categories/general/performing-ransomware-incident-response",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124408,7 +124408,7 @@
       "cisa-guidance"
     ],
     "path": "categories/general/performing-ransomware-response",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124423,7 +124423,7 @@
       "preparedness"
     ],
     "path": "categories/general/performing-ransomware-tabletop-exercise",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124437,7 +124437,7 @@
       "phishing"
     ],
     "path": "categories/general/performing-red-team-phishing-with-gophish",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124452,7 +124452,7 @@
       "penetration-testing"
     ],
     "path": "categories/general/performing-red-team-with-covenant",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124470,7 +124470,7 @@
       "vulnerability-assessment"
     ],
     "path": "categories/security/performing-s7comm-protocol-security-analysis",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124486,7 +124486,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/performing-sca-dependency-scanning-with-snyk",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124504,7 +124504,7 @@
       "nist-800-82"
     ],
     "path": "categories/security/performing-scada-hmi-security-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124521,7 +124521,7 @@
       "persistent-sqli"
     ],
     "path": "categories/database/performing-second-order-sql-injection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124538,7 +124538,7 @@
       "hardening"
     ],
     "path": "categories/security/performing-security-headers-audit",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124554,7 +124554,7 @@
       "security-review"
     ],
     "path": "categories/security/performing-serverless-function-security-review",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124570,7 +124570,7 @@
       "governance"
     ],
     "path": "categories/general/performing-service-account-audit",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124586,7 +124586,7 @@
       "vault"
     ],
     "path": "categories/general/performing-service-account-credential-rotation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124605,7 +124605,7 @@
       "xpath-injection"
     ],
     "path": "categories/security/performing-soap-web-service-security-testing",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124622,7 +124622,7 @@
       "playbook-validation"
     ],
     "path": "categories/general/performing-soc-tabletop-exercise",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124638,7 +124638,7 @@
       "aicpa"
     ],
     "path": "categories/general/performing-soc2-type2-audit-preparation",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124658,7 +124658,7 @@
       "unallocated-space"
     ],
     "path": "categories/security/performing-sqlite-database-forensics",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124674,7 +124674,7 @@
       "key-management"
     ],
     "path": "categories/general/performing-ssl-certificate-lifecycle-management",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124689,7 +124689,7 @@
       "tls-security"
     ],
     "path": "categories/general/performing-ssl-stripping-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124707,7 +124707,7 @@
       "forward-proxy"
     ],
     "path": "categories/general/performing-ssl-tls-inspection-configuration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124724,7 +124724,7 @@
       "vulnerability-assessment"
     ],
     "path": "categories/security/performing-ssl-tls-security-assessment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124738,7 +124738,7 @@
       "exploitation"
     ],
     "path": "categories/security/performing-ssrf-vulnerability-exploitation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124753,7 +124753,7 @@
       "reverse-engineering"
     ],
     "path": "categories/security/performing-static-malware-analysis-with-pe-studio",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124769,7 +124769,7 @@
       "image-analysis"
     ],
     "path": "categories/general/performing-steganography-detection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124786,7 +124786,7 @@
       "osint"
     ],
     "path": "categories/general/performing-subdomain-enumeration-with-subfinder",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124803,7 +124803,7 @@
       "software-composition-analysis"
     ],
     "path": "categories/general/performing-supply-chain-attack-simulation",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124820,7 +124820,7 @@
       "api-interception"
     ],
     "path": "categories/testing/performing-thick-client-application-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124834,7 +124834,7 @@
       "with"
     ],
     "path": "categories/security/performing-threat-emulation-with-atomic-red-team",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124852,7 +124852,7 @@
       "kibana"
     ],
     "path": "categories/security/performing-threat-hunting-with-elastic-siem",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124866,7 +124866,7 @@
       "pattern-matching"
     ],
     "path": "categories/security/performing-threat-hunting-with-yara-rules",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124884,7 +124884,7 @@
       "information-sharing"
     ],
     "path": "categories/security/performing-threat-intelligence-sharing-with-misp",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124901,7 +124901,7 @@
       "strategic-intelligence"
     ],
     "path": "categories/security/performing-threat-landscape-assessment-for-sector",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124919,7 +124919,7 @@
       "data-flow"
     ],
     "path": "categories/security/performing-threat-modeling-with-owasp-threat-dragon",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -124935,7 +124935,7 @@
       "event-correlation"
     ],
     "path": "categories/general/performing-timeline-reconstruction-with-plaso",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124952,7 +124952,7 @@
       "baseline"
     ],
     "path": "categories/general/performing-user-behavior-analytics",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124967,7 +124967,7 @@
       "q"
     ],
     "path": "categories/general/performing-vlan-hopping-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124982,7 +124982,7 @@
       "tenable"
     ],
     "path": "categories/security/performing-vulnerability-scanning-with-nessus",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -124999,7 +124999,7 @@
       "web-security"
     ],
     "path": "categories/security/performing-web-application-firewall-bypass",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125014,7 +125014,7 @@
       "application-security"
     ],
     "path": "categories/testing/performing-web-application-penetration-test",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125030,7 +125030,7 @@
       "risk"
     ],
     "path": "categories/general/performing-web-application-scanning-with-nikto",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -125049,7 +125049,7 @@
       "risk-rating"
     ],
     "path": "categories/security/performing-web-application-vulnerability-triage",
-    "file_count": 6,
+    "file_count": 7,
     "has_scripts": true
   },
   {
@@ -125066,7 +125066,7 @@
       "static-resource"
     ],
     "path": "categories/general/performing-web-cache-deception-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125082,7 +125082,7 @@
       "owasp"
     ],
     "path": "categories/general/performing-web-cache-poisoning-attack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125097,7 +125097,7 @@
       "wireless-security"
     ],
     "path": "categories/general/performing-wifi-password-cracking-with-aircrack",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125119,7 +125119,7 @@
       "artifact-analysis"
     ],
     "path": "categories/general/performing-windows-artifact-analysis-with-eric-zimmerman-tools",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -125137,7 +125137,7 @@
       "kismet"
     ],
     "path": "categories/testing/performing-wireless-network-penetration-test",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -125155,7 +125155,7 @@
       "rf-monitoring"
     ],
     "path": "categories/security/performing-wireless-security-assessment-with-kismet",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125172,7 +125172,7 @@
       "indicator-development"
     ],
     "path": "categories/general/performing-yara-rule-development-for-detection",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -125847,7 +125847,7 @@
       "nist"
     ],
     "path": "categories/security/prioritizing-vulnerabilities-with-cvss-scoring",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -125865,7 +125865,7 @@
       "nist-sp-800-150"
     ],
     "path": "categories/general/processing-stix-taxii-feeds",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -125894,7 +125894,7 @@
       "nist-csf"
     ],
     "path": "categories/security/profiling-threat-actor-groups",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -127344,7 +127344,7 @@
       "evidence-recovery"
     ],
     "path": "categories/general/recovering-deleted-files-with-photorec",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -127359,7 +127359,7 @@
       "defense"
     ],
     "path": "categories/general/recovering-from-ransomware-attack",
-    "file_count": 7,
+    "file_count": 9,
     "has_scripts": true
   },
   {
@@ -127397,7 +127397,7 @@
       "aws-config"
     ],
     "path": "categories/aws/remediating-s3-bucket-misconfiguration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -129313,7 +129313,7 @@
       "mobile-malware"
     ],
     "path": "categories/security/reverse-engineering-android-malware-with-jadx",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -129328,7 +129328,7 @@
       "decompilation"
     ],
     "path": "categories/security/reverse-engineering-dotnet-malware-with-dnspy",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -129344,7 +129344,7 @@
       "penetration-testing"
     ],
     "path": "categories/mobile/reverse-engineering-ios-app-with-frida",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129359,7 +129359,7 @@
       "decompilation"
     ],
     "path": "categories/security/reverse-engineering-malware-with-ghidra",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -129377,7 +129377,7 @@
       "malware-analysis"
     ],
     "path": "categories/security/reverse-engineering-ransomware-encryption-routine",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129394,7 +129394,7 @@
       "rust-malware"
     ],
     "path": "categories/rust/reverse-engineering-rust-malware",
-    "file_count": 7,
+    "file_count": 8,
     "has_scripts": true
   },
   {
@@ -129457,7 +129457,7 @@
       "supply-chain"
     ],
     "path": "categories/general/scanning-container-images-with-grype",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129473,7 +129473,7 @@
       "secure-sdlc"
     ],
     "path": "categories/general/scanning-containers-with-trivy-in-cicd",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129488,7 +129488,7 @@
       "vulnerability-scanning"
     ],
     "path": "categories/devops/scanning-docker-images-with-trivy",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129504,7 +129504,7 @@
       "risk"
     ],
     "path": "categories/general/scanning-infrastructure-with-nessus",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129522,7 +129522,7 @@
       "ci-cd"
     ],
     "path": "categories/devops/scanning-kubernetes-manifests-with-kubesec",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -129537,7 +129537,7 @@
       "reconnaissance"
     ],
     "path": "categories/general/scanning-network-with-nmap-advanced",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131072,7 +131072,7 @@
       "owasp"
     ],
     "path": "categories/aws/securing-api-gateway-with-aws-waf",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131087,7 +131087,7 @@
       "cloud-identity"
     ],
     "path": "categories/aws/securing-aws-iam-permissions",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131103,7 +131103,7 @@
       "execution-roles"
     ],
     "path": "categories/aws/securing-aws-lambda-execution-roles",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131118,7 +131118,7 @@
       "cloud-workload-protection"
     ],
     "path": "categories/aws/securing-azure-with-microsoft-defender",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131135,7 +131135,7 @@
       "supply-chain"
     ],
     "path": "categories/general/securing-container-registry-images",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131151,7 +131151,7 @@
       "harbor"
     ],
     "path": "categories/general/securing-container-registry-with-harbor",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -131167,7 +131167,7 @@
       "secure-sdlc"
     ],
     "path": "categories/devops/securing-github-actions-workflows",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -131183,7 +131183,7 @@
       "deployment"
     ],
     "path": "categories/devops/securing-helm-chart-deployments",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -131201,7 +131201,7 @@
       "data-integrity"
     ],
     "path": "categories/general/securing-historian-server-in-ot-environment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131217,7 +131217,7 @@
       "container-runtime"
     ],
     "path": "categories/devops/securing-kubernetes-on-cloud",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131235,7 +131235,7 @@
       "mfa"
     ],
     "path": "categories/general/securing-remote-access-to-ot-environment",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -131250,7 +131250,7 @@
       "supply-chain"
     ],
     "path": "categories/general/securing-serverless-functions",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137476,7 +137476,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/testing-android-intents-for-vulnerabilities",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -137492,7 +137492,7 @@
       "credential-security"
     ],
     "path": "categories/security/testing-api-authentication-weaknesses",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137508,7 +137508,7 @@
       "rest-security"
     ],
     "path": "categories/security/testing-api-for-broken-object-level-authorization",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137523,7 +137523,7 @@
       "parameter-tampering"
     ],
     "path": "categories/security/testing-api-for-mass-assignment-vulnerability",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137540,7 +137540,7 @@
       "postman"
     ],
     "path": "categories/security/testing-api-security-with-owasp-top-10",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137556,7 +137556,7 @@
       "burpsuite"
     ],
     "path": "categories/testing/testing-cors-misconfiguration",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137572,7 +137572,7 @@
       "web-security"
     ],
     "path": "categories/testing/testing-for-broken-access-control",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137588,7 +137588,7 @@
       "manual-testing"
     ],
     "path": "categories/security/testing-for-business-logic-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137605,7 +137605,7 @@
       "email-security"
     ],
     "path": "categories/testing/testing-for-email-header-injection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137622,7 +137622,7 @@
       "ssrf"
     ],
     "path": "categories/testing/testing-for-host-header-injection",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137639,7 +137639,7 @@
       "jku-attack"
     ],
     "path": "categories/security/testing-for-json-web-token-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137656,7 +137656,7 @@
       "unvalidated-redirect"
     ],
     "path": "categories/security/testing-for-open-redirect-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137673,7 +137673,7 @@
       "secrets"
     ],
     "path": "categories/testing/testing-for-sensitive-data-exposure",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137690,7 +137690,7 @@
       "dtd-attack"
     ],
     "path": "categories/security/testing-for-xml-injection-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137705,7 +137705,7 @@
       "javascript-injection"
     ],
     "path": "categories/security/testing-for-xss-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137721,7 +137721,7 @@
       "cross-site-scripting"
     ],
     "path": "categories/security/testing-for-xss-vulnerabilities-with-burpsuite",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137737,7 +137737,7 @@
       "burpsuite"
     ],
     "path": "categories/security/testing-for-xxe-injection-vulnerabilities",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137753,7 +137753,7 @@
       "burpsuite"
     ],
     "path": "categories/security/testing-jwt-token-security",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137769,7 +137769,7 @@
       "penetration-testing"
     ],
     "path": "categories/security/testing-mobile-api-authentication",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -137785,7 +137785,7 @@
       "token-security"
     ],
     "path": "categories/aws/testing-oauth2-implementation-flaws",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -137829,7 +137829,7 @@
       "authentication"
     ],
     "path": "categories/security/testing-websocket-api-security",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -139492,7 +139492,7 @@
       "passive-dns"
     ],
     "path": "categories/security/tracking-threat-actor-infrastructure",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -139533,7 +139533,7 @@
       "incident-review"
     ],
     "path": "categories/security/triaging-security-alerts-in-splunk",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -139548,7 +139548,7 @@
       "soc-operations"
     ],
     "path": "categories/security/triaging-security-incident",
-    "file_count": 4,
+    "file_count": 5,
     "has_scripts": true
   },
   {
@@ -139563,7 +139563,7 @@
       "soc"
     ],
     "path": "categories/security/triaging-security-incident-with-ir-playbook",
-    "file_count": 8,
+    "file_count": 10,
     "has_scripts": true
   },
   {
@@ -139581,7 +139581,7 @@
       "risk-management"
     ],
     "path": "categories/security/triaging-vulnerabilities-with-ssvc-framework",
-    "file_count": 7,
+    "file_count": 9,
     "has_scripts": true
   },
   {
