@@ -47,6 +47,13 @@ Instructions that hawk follows when this skill is active...
 - **Data** — analytics, ML pipelines, databases
 - **Web** — frontend, accessibility, performance
 
+## Ecosystem Boundaries
+
+- `hawk-community-skills` extends Hawk through public skill and plugin surfaces.
+- Do not reference support engine repos such as `eyrie`, `yaad`, `tok`, `trace`, `sight`, or `inspect` as direct dependencies.
+- Do not reference `hawk/internal/*` or removed legacy path `hawk/shared/types`.
+- Skills should assume Hawk is the product boundary.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
