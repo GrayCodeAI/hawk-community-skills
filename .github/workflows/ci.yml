@@ -22,6 +22,8 @@ jobs:
       - name: Lint (Makefile lint target)
         # Wire the repo Makefile lint target into CI: ruff check over tools/.
         run: make lint
+      - name: consumer boundary guard
+        run: bash ./scripts/check-consumer-boundaries.sh
       - name: Compile category payload scripts
         # Syntax-check shipped skill scripts so a SyntaxError in
         # categories/**/scripts/*.py fails the build (they are never imported
