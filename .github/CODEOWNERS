@@ -1,2 +1,22 @@
-# Default code owners for all files
-* @GrayCodeAI/cli-maintainers
+# CODEOWNERS for hawk-community-skills
+* @GrayCodeAI/maintainers
+
+# Skill definitions and categories
+/categories/     @GrayCodeAI/core-team
+/registry.json   @GrayCodeAI/core-team
+
+# Validation and tooling
+/tools/          @GrayCodeAI/core-team
+/tests/          @GrayCodeAI/core-team
+
+# CI / release / build tooling
+/.github/        @GrayCodeAI/devops-team
+/Makefile        @GrayCodeAI/devops-team
+/lefthook.yml    @GrayCodeAI/devops-team
+/scripts/        @GrayCodeAI/devops-team
+/deploy/         @GrayCodeAI/devops-team
+/Dockerfile      @GrayCodeAI/devops-team
+
+# Documentation
+*.md             @GrayCodeAI/docs-team
+/docs/           @GrayCodeAI/docs-team
