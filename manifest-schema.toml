@@ -1,0 +1,130 @@
+# hawk-community-skills manifest schema
+#
+# Every skill in this registry MUST include a SKILL.md file with YAML
+# frontmatter that conforms to this schema. The schema is expressed in TOML
+# for human readability; the CI validation script (scripts/validate-skill.py)
+# enforces it programmatically.
+#
+# Required fields are marked  required = true.
+# Optional fields default to the value shown under "default".
+# Allowed values are listed under "enum" where applicable.
+
+[schema]
+version = "1.1"
+
+# ── Identity ──────────────────────────────────────────────────────────────────
+
+[fields.name]
+type        = "string"
+required    = true
+pattern     = "^[a-z0-9][a-z0-9-]{2,79}$"
+description = "URL-safe kebab-case identifier. Must be unique in the registry."
+
+[fields.description]
+type        = "string"
+required    = true
+max_length  = 280
+description = "One-sentence summary shown in the skill catalogue."
+
+[fields.version]
+type        = "string"
+required    = true
+pattern     = "^\\d+\\.\\d+(\\.\\d+)?$"
+description = "Semantic version string, e.g. \"1.0\" or \"2.3.1\"."
+
+[fields.author]
+type        = "string"
+required    = true
+description = "GitHub username or real name of the primary author."
+
+[fields.license]
+type        = "string"
+required    = true
+enum        = ["MIT", "Apache-2.0", "GPL-3.0", "BSD-2-Clause", "BSD-3-Clause", "CC0-1.0", "MPL-2.0"]
+description = "SPDX license identifier."
+
+# ── Classification ────────────────────────────────────────────────────────────
+
+[fields.domain]
+type        = "string"
+required    = true
+enum        = [
+  "coding",
+  "cybersecurity",
+  "data-science",
+  "devops",
+  "documentation",
+  "research",
+  "testing",
+  "other",
+]
+description = "Primary domain of the skill."
+
+[fields.subdomain]
+type        = "string"
+required    = false
+max_length  = 60
+description = "Optional finer-grained categorisation within domain."
+
+[fields.tags]
+type        = "array"
+items.type  = "string"
+required    = true
+min_items   = 1
+max_items   = 12
+description = "Searchable tags. Use lowercase kebab-case. At least one tag required."
+
+# ── Capability metadata ───────────────────────────────────────────────────────
+
+[fields.phase]
+type        = "string"
+required    = false
+enum        = ["localize", "repair", "validate", "review", "planning", "any"]
+default     = "any"
+description = "Pipeline phase where this skill is most useful. Maps to hawk-core-contracts/sessions.Phase."
+
+[fields.min_model]
+type        = "string"
+required    = false
+enum        = ["haiku", "sonnet", "opus", "any"]
+default     = "any"
+description = "Minimum capable model tier. 'any' means the skill works on all tiers."
+
+[fields.context_tokens]
+type        = "integer"
+required    = false
+minimum     = 256
+maximum     = 200000
+default     = 4096
+description = "Approximate token budget this skill consumes per invocation."
+
+[fields.tools_required]
+type        = "array"
+items.type  = "string"
+required    = false
+description = "List of tool names (e.g. 'bash', 'file_search') the skill depends on."
+
+# ── Authorship & quality ──────────────────────────────────────────────────────
+
+[fields.maintainers]
+type        = "array"
+items.type  = "string"
+required    = false
+description = "Additional GitHub usernames responsible for maintaining the skill."
+
+[fields.tested_on]
+type        = "array"
+items.type  = "string"
+required    = false
+description = "Model IDs this skill has been validated against, e.g. ['claude-sonnet-4-6']."
+
+[fields.deprecated]
+type        = "boolean"
+required    = false
+default     = false
+description = "Set to true to mark the skill as deprecated; it will be hidden from the default catalogue."
+
+[fields.superseded_by]
+type        = "string"
+required    = false
+description = "Name of the skill that replaces this one. Only meaningful when deprecated=true."
