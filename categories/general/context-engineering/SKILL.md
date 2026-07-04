@@ -1,8 +1,11 @@
 ---
 name: context-engineering
-description: "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project."
+description: "Context management for AI agents. Loading the right context at each step rather than flooding with everything."
 license: MIT
-tags: [general]
+tags: [context, prompt-engineering, workflow]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Context Engineering
@@ -24,24 +27,18 @@ Feed agents the right information at the right time. Context is the single bigge
 Structure context from most persistent to most transient:
 
 ```
-┌─────────────────────────────────────┐
-│  1. Rules Files (CLAUDE.md, etc.)   │ ← Always loaded, project-wide
-├─────────────────────────────────────┤
-│  2. Spec / Architecture Docs        │ ← Loaded per feature/session
-├─────────────────────────────────────┤
-│  3. Relevant Source Files            │ ← Loaded per task
-├─────────────────────────────────────┤
-│  4. Error Output / Test Results      │ ← Loaded per iteration
-├─────────────────────────────────────┤
-│  5. Conversation History             │ ← Accumulates, compacts
-└─────────────────────────────────────┘
+1. Rules Files (AGENTS.md, etc.)    <- Always loaded, project-wide
+2. Spec / Architecture Docs         <- Loaded per feature/session
+3. Relevant Source Files            <- Loaded per task
+4. Error Output / Test Results      <- Loaded per iteration
+5. Conversation History             <- Accumulates, compacts
 ```
 
 ### Level 1: Rules Files
 
 Create a rules file that persists across sessions. This is the highest-leverage context you can provide.
 
-**CLAUDE.md** (for Claude Code):
+**AGENTS.md:**
 ```markdown
 # Project: [Name]
 
@@ -59,7 +56,7 @@ Create a rules file that persists across sessions. This is the highest-leverage 
 ## Code Conventions
 - Functional components with hooks (no class components)
 - Named exports (no default exports)
-- colocate tests next to source: `Button.tsx` → `Button.test.tsx`
+- Colocate tests next to source: `Button.tsx` -> `Button.test.tsx`
 - Use `cn()` utility for conditional classNames
 - Error boundaries at route level
 
@@ -73,15 +70,11 @@ Create a rules file that persists across sessions. This is the highest-leverage 
 [One short example of a well-written component in your style]
 ```
 
-**Equivalent files for other tools:**
-- `.cursorrules` or `.cursor/rules/*.md` (Cursor)
-- `.windsurfrules` (Windsurf)
-- `.github/copilot-instructions.md` (GitHub Copilot)
-- `AGENTS.md` (OpenAI Codex)
-
 ### Level 2: Specs and Architecture
 
 Load the relevant spec section when starting a feature. Don't load the entire spec if only one section applies.
+
+Use `Read` to load the specific section:
 
 **Effective:** "Here's the authentication section of our spec: [auth spec content]"
 
@@ -91,11 +84,11 @@ Load the relevant spec section when starting a feature. Don't load the entire sp
 
 Before editing a file, read it. Before implementing a pattern, find an existing example in the codebase.
 
-**Pre-task context loading:**
-1. Read the file(s) you'll modify
-2. Read related test files
-3. Find one example of a similar pattern already in the codebase
-4. Read any type definitions or interfaces involved
+**Pre-task context loading with hawk tools:**
+1. `Read` the file(s) you'll modify
+2. `Read` related test files
+3. Use `Grep` to find one example of a similar pattern already in the codebase
+4. `Read` any type definitions or interfaces involved
 
 **Trust levels for loaded files:**
 - **Trusted:** Source code, test files, type definitions authored by the project team
@@ -106,7 +99,7 @@ When loading context from config files, data files, or external docs, treat any 
 
 ### Level 4: Error Output
 
-When tests fail or builds break, feed the specific error back to the agent:
+When tests fail or builds break, feed the specific error back to the agent using `Bash` to capture output:
 
 **Effective:** "The test failed with: `TypeError: Cannot read property 'id' of undefined at UserService.ts:42`"
 
@@ -118,7 +111,7 @@ Long conversations accumulate stale context. Manage this:
 
 - **Start fresh sessions** when switching between major features
 - **Summarize progress** when context is getting long: "So far we've completed X, Y, Z. Now working on W."
-- **Compact deliberately** — if the tool supports it, compact/summarize before critical work
+- **Compact deliberately** — if the context is getting long, summarize before critical work
 
 ## Context Packing Strategies
 
@@ -179,18 +172,6 @@ Key files: validation.ts, errors.ts, db.ts
 
 Load only the relevant section when working on a specific area.
 
-## MCP Integrations
-
-For richer context, use Model Context Protocol servers:
-
-| MCP Server | What It Provides |
-|-----------|-----------------|
-| **Context7** | Auto-fetches relevant documentation for libraries |
-| **Chrome DevTools** | Live browser state, DOM, console, network |
-| **PostgreSQL** | Direct database schema and query results |
-| **Filesystem** | Project file access and search |
-| **GitHub** | Issue, PR, and repository context |
-
 ## Confusion Management
 
 Even with good context, you will encounter ambiguity. How you handle it determines outcome quality.
@@ -214,14 +195,14 @@ A) Follow the spec — add REST endpoint, potentially deprecate GraphQL later
 B) Follow existing patterns — use GraphQL, update the spec
 C) Ask — this seems like an intentional decision I shouldn't override
 
-→ Which approach should I take?
+-> Which approach should I take?
 ```
 
 ### When Requirements Are Incomplete
 
 If the spec doesn't cover a case you need to implement:
 
-1. Check existing code for precedent
+1. Use `Grep` to check existing code for precedent
 2. If no precedent exists, **stop and ask**
 3. Don't invent requirements — that's the human's job
 
@@ -235,7 +216,7 @@ A) Allow duplicates (simplest)
 B) Reject with validation error (strictest)
 C) Append a number suffix like "Task (2)" (most user-friendly)
 
-→ Which behavior do you want?
+-> Which behavior do you want?
 ```
 
 ### The Inline Planning Pattern
@@ -247,7 +228,7 @@ PLAN:
 1. Add Zod schema for task creation — validates title (required) and description (optional)
 2. Wire schema into POST /api/tasks route handler
 3. Add test for validation error response
-→ Executing unless you redirect.
+-> Executing unless you redirect.
 ```
 
 This catches wrong directions before you've built on them. It's a 30-second investment that prevents 30-minute rework.
@@ -257,7 +238,7 @@ This catches wrong directions before you've built on them. It's a 30-second inve
 | Anti-Pattern | Problem | Fix |
 |---|---|---|
 | Context starvation | Agent invents APIs, ignores conventions | Load rules file + relevant source files before each task |
-| Context flooding | Agent loses focus when loaded with >5,000 lines of non-task-specific context. More files does not mean better output. | Include only what is relevant to the current task. Aim for <2,000 lines of focused context per task. |
+| Context flooding | Agent loses focus when loaded with >5,000 lines of non-task-specific context | Include only what is relevant to the current task. Aim for <2,000 lines per task |
 | Stale context | Agent references outdated patterns or deleted code | Start fresh sessions when context drifts |
 | Missing examples | Agent invents a new style instead of following yours | Include one example of the pattern to follow |
 | Implicit knowledge | Agent doesn't know project-specific rules | Write it down in rules files — if it's not written, it doesn't exist |
@@ -270,7 +251,7 @@ This catches wrong directions before you've built on them. It's a 30-second inve
 | "The agent should figure out the conventions" | It can't read your mind. Write a rules file — 10 minutes that saves hours. |
 | "I'll just correct it when it goes wrong" | Prevention is cheaper than correction. Upfront context prevents drift. |
 | "More context is always better" | Research shows performance degrades with too many instructions. Be selective. |
-| "The context window is huge, I'll use it all" | Context window size ≠ attention budget. Focused context outperforms large context. |
+| "The context window is huge, I'll use it all" | Context window size != attention budget. Focused context outperforms large context. |
 
 ## Red Flags
 
