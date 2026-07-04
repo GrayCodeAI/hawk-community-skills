@@ -19497,10 +19497,13 @@
   },
   {
     "name": "api-and-interface-design",
-    "description": "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or...",
+    "description": "API and interface design patterns. RESTful APIs, contracts, and interface design principles.",
     "category": "general",
     "tags": [
-      "general"
+      "api",
+      "design",
+      "interface",
+      "contracts"
     ],
     "path": "categories/general/api-and-interface-design",
     "file_count": 1,
@@ -27507,10 +27510,13 @@
   },
   {
     "name": "ci-cd-and-automation",
-    "description": "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment s...",
+    "description": "CI/CD pipeline design and automation. Build, test, and deployment automation patterns.",
     "category": "devops",
     "tags": [
-      "devops"
+      "ci",
+      "cd",
+      "automation",
+      "pipeline"
     ],
     "path": "categories/devops/ci-cd-and-automation",
     "file_count": 1,
@@ -27574,10 +27580,13 @@
   },
   {
     "name": "code-review-and-quality",
-    "description": "Conducts multi-axis code review. Use before merging any change. Use when reviewing code written by yourself, another agent, or a human. Use when you need to assess code quality across multiple dime...",
+    "description": "Reviews code for correctness, readability, architecture, security, and performance. Five-axis review framework.",
     "category": "general",
     "tags": [
-      "general"
+      "review",
+      "quality",
+      "code-review",
+      "feedback"
     ],
     "path": "categories/general/code-review-and-quality",
     "file_count": 1,
@@ -37945,10 +37954,12 @@
   },
   {
     "name": "context-engineering",
-    "description": "Optimizes agent context setup. Use when starting a new session, when agent output quality degrades, when switching between tasks, or when you need to configure rules files and context for a project.",
+    "description": "Context management for AI agents. Loading the right context at each step rather than flooding with everything.",
     "category": "general",
     "tags": [
-      "general"
+      "context",
+      "prompt-engineering",
+      "workflow"
     ],
     "path": "categories/general/context-engineering",
     "file_count": 1,
@@ -51065,12 +51076,15 @@
   },
   {
     "name": "debugging-and-error-recovery",
-    "description": "Guides systematic root-cause debugging. Use when tests fail, builds break, behavior doesn't match expectations, or you encounter any unexpected error. Use when you need a systematic approach to fin...",
-    "category": "general",
+    "description": "Systematic debugging methodology for finding and fixing bugs. Root cause analysis and error recovery patterns.",
+    "category": "debugging",
     "tags": [
-      "general"
+      "debugging",
+      "error",
+      "recovery",
+      "root-cause"
     ],
-    "path": "categories/general/debugging-and-error-recovery",
+    "path": "categories/debugging/debugging-and-error-recovery",
     "file_count": 1,
     "has_scripts": false
   },
@@ -51237,10 +51251,12 @@
   },
   {
     "name": "deprecation-and-migration",
-    "description": "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset exi...",
+    "description": "Deprecation strategies and migration patterns. Breaking changes, versioning, and migration guides.",
     "category": "general",
     "tags": [
-      "general"
+      "deprecation",
+      "migration",
+      "breaking-changes"
     ],
     "path": "categories/general/deprecation-and-migration",
     "file_count": 1,
@@ -52645,12 +52661,15 @@
   },
   {
     "name": "documentation-and-adrs",
-    "description": "Records decisions and documentation. Use when making architectural decisions, changing public APIs, shipping features, or when you need to record context that future engineers and agents will need ...",
-    "category": "general",
+    "description": "Architecture Decision Records and documentation. Record and preserve technical decisions.",
+    "category": "documentation",
     "tags": [
-      "general"
+      "documentation",
+      "adr",
+      "decisions",
+      "architecture"
     ],
-    "path": "categories/general/documentation-and-adrs",
+    "path": "categories/documentation/documentation-and-adrs",
     "file_count": 1,
     "has_scripts": false
   },
@@ -52678,10 +52697,13 @@
   },
   {
     "name": "doubt-driven-development",
-    "description": "Subjects every non-trivial decision to a fresh-context adversarial review before it stands. Use when correctness matters more than speed, when working in unfamiliar code, when stakes are high (prod...",
+    "description": "Doubt-driven approach. Surface assumptions and clarify ambiguity before proceeding.",
     "category": "general",
     "tags": [
-      "general"
+      "doubt",
+      "clarification",
+      "workflow",
+      "assumptions"
     ],
     "path": "categories/general/doubt-driven-development",
     "file_count": 1,
@@ -59578,10 +59600,13 @@
   },
   {
     "name": "frontend-ui-engineering",
-    "description": "Builds production-quality UIs. Use when building or modifying user-facing interfaces. Use when creating components, implementing layouts, managing state, or when the output needs to look and feel p...",
+    "description": "Frontend and UI engineering patterns. Component design, state management, and UI best practices.",
     "category": "general",
     "tags": [
-      "general"
+      "frontend",
+      "ui",
+      "components",
+      "react"
     ],
     "path": "categories/general/frontend-ui-engineering",
     "file_count": 1,
@@ -75056,10 +75081,13 @@
   },
   {
     "name": "git-workflow-and-versioning",
-    "description": "Structures git workflow practices. Use when making any code change. Use when committing, branching, resolving conflicts, or when you need to organize work across multiple parallel streams.",
+    "description": "Git workflow, branching strategies, and versioning. Atomic commits and conventional commits.",
     "category": "git",
     "tags": [
-      "git"
+      "git",
+      "versioning",
+      "commits",
+      "branching"
     ],
     "path": "categories/git/git-workflow-and-versioning",
     "file_count": 1,
@@ -90132,10 +90160,12 @@
   },
   {
     "name": "idea-refine",
-    "description": "Refines ideas iteratively. Refine ideas through structured divergent and convergent thinking. Use \"idea-refine\" or \"ideate\" to trigger.",
+    "description": "Idea refinement and brainstorming. Structured approach to evaluating and improving ideas.",
     "category": "general",
     "tags": [
-      "general"
+      "ideas",
+      "refinement",
+      "brainstorming"
     ],
     "path": "categories/general/idea-refine",
     "file_count": 1,
@@ -92899,10 +92929,13 @@
   },
   {
     "name": "incremental-implementation",
-    "description": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too ...",
+    "description": "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file.",
     "category": "general",
     "tags": [
-      "general"
+      "implementation",
+      "workflow",
+      "incremental",
+      "slicing"
     ],
     "path": "categories/general/incremental-implementation",
     "file_count": 1,
@@ -94724,6 +94757,19 @@
       "general"
     ],
     "path": "categories/general/internal-comms",
+    "file_count": 1,
+    "has_scripts": false
+  },
+  {
+    "name": "interview-me",
+    "description": "Interactive interview workflow for requirements gathering. Socratic questioning approach.",
+    "category": "general",
+    "tags": [
+      "interview",
+      "requirements",
+      "gathering"
+    ],
+    "path": "categories/general/interview-me",
     "file_count": 1,
     "has_scripts": false
   },
@@ -122290,6 +122336,20 @@
     "has_scripts": false
   },
   {
+    "name": "observability-and-instrumentation",
+    "description": "Logging, metrics, tracing, and monitoring. Structured logging and observability best practices.",
+    "category": "devops",
+    "tags": [
+      "observability",
+      "logging",
+      "metrics",
+      "tracing"
+    ],
+    "path": "categories/devops/observability-and-instrumentation",
+    "file_count": 1,
+    "has_scripts": false
+  },
+  {
     "name": "official_pattern_template",
     "description": "Fabric pattern - official_pattern_template",
     "category": "general",
@@ -122406,16 +122466,13 @@
   },
   {
     "name": "performance-optimization",
-    "description": "Optimize application performance for speed, efficiency, and scalability. Use when improving page load times, reducing bundle size, optimizing database queries, or fixing performance bottlenecks. Ha...",
+    "description": "Performance analysis and optimization. Profiling, benchmarking, and optimization patterns.",
     "category": "general",
     "tags": [
       "performance",
       "optimization",
-      "react",
-      "lazy-loading",
-      "caching",
       "profiling",
-      "web-vitals"
+      "benchmarking"
     ],
     "path": "categories/general/performance-optimization",
     "file_count": 1,
@@ -125751,10 +125808,13 @@
   },
   {
     "name": "planning-and-task-breakdown",
-    "description": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate s...",
+    "description": "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks.",
     "category": "general",
     "tags": [
-      "general"
+      "planning",
+      "tasks",
+      "breakdown",
+      "workflow"
     ],
     "path": "categories/general/planning-and-task-breakdown",
     "file_count": 1,
@@ -131255,10 +131315,13 @@
   },
   {
     "name": "security-and-hardening",
-    "description": "Hardens code against vulnerabilities. Use when handling user input, authentication, data storage, or external integrations. Use when building any feature that accepts untrusted data, manages user s...",
+    "description": "Security review and hardening. Threat modeling, vulnerability detection, and secure coding practices.",
     "category": "security",
     "tags": [
-      "security"
+      "security",
+      "hardening",
+      "vulnerabilities",
+      "owasp"
     ],
     "path": "categories/security/security-and-hardening",
     "file_count": 1,
@@ -131295,12 +131358,15 @@
   },
   {
     "name": "shipping-and-launch",
-    "description": "Prepares production launches. Use when preparing to deploy to production. Use when you need a pre-launch checklist, when setting up monitoring, when planning a staged rollout, or when you need a ro...",
-    "category": "general",
+    "description": "Shipping and launch preparation. Release checklists, rollback strategies, and launch readiness.",
+    "category": "deployment",
     "tags": [
-      "general"
+      "shipping",
+      "launch",
+      "deploy",
+      "release"
     ],
-    "path": "categories/general/shipping-and-launch",
+    "path": "categories/deployment/shipping-and-launch",
     "file_count": 1,
     "has_scripts": false
   },
@@ -132575,10 +132641,12 @@
   },
   {
     "name": "source-driven-development",
-    "description": "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library wher...",
+    "description": "Source-first development. Documentation and specifications derived from source code analysis.",
     "category": "general",
     "tags": [
-      "general"
+      "source",
+      "documentation",
+      "workflow"
     ],
     "path": "categories/general/source-driven-development",
     "file_count": 1,
@@ -132586,10 +132654,13 @@
   },
   {
     "name": "spec-driven-development",
-    "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague ...",
+    "description": "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet.",
     "category": "general",
     "tags": [
-      "general"
+      "spec",
+      "planning",
+      "workflow",
+      "specification"
     ],
     "path": "categories/general/spec-driven-development",
     "file_count": 1,
@@ -137454,10 +137525,13 @@
   },
   {
     "name": "test-driven-development",
-    "description": "Use when implementing any feature or bugfix, before writing implementation code",
+    "description": "Drives development with tests. Use when implementing any logic, fixing any bug, or changing any behavior.",
     "category": "testing",
     "tags": [
-      "testing"
+      "testing",
+      "tdd",
+      "workflow",
+      "quality"
     ],
     "path": "categories/testing/test-driven-development",
     "file_count": 1,
@@ -139697,10 +139771,13 @@
   },
   {
     "name": "using-agent-skills",
-    "description": "Discovers and invokes agent skills. Use when starting a session or when you need to discover which skill applies to the current task. This is the meta-skill that governs how all other skills are di...",
+    "description": "Meta-skill for using agent skills effectively. How to discover, invoke, and compose skills.",
     "category": "general",
     "tags": [
-      "general"
+      "meta",
+      "skills",
+      "usage",
+      "composition"
     ],
     "path": "categories/general/using-agent-skills",
     "file_count": 1,

@@ -1,8 +1,11 @@
 ---
 name: deprecation-and-migration
-description: "Manages deprecation and migration. Use when removing old systems, APIs, or features. Use when migrating users from one implementation to another. Use when deciding whether to maintain or sunset exi..."
+description: "Deprecation strategies and migration patterns. Breaking changes, versioning, and migration guides."
 license: MIT
-tags: [general]
+tags: [deprecation, migration, breaking-changes]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Deprecation and Migration
@@ -42,19 +45,19 @@ Before deprecating anything, answer these questions:
 
 ```
 1. Does this system still provide unique value?
-   → If yes, maintain it. If no, proceed.
+   -> If yes, maintain it. If no, proceed.
 
 2. How many users/consumers depend on it?
-   → Quantify the migration scope.
+   -> Quantify the migration scope.
 
 3. Does a replacement exist?
-   → If no, build the replacement first. Don't deprecate without an alternative.
+   -> If no, build the replacement first. Don't deprecate without an alternative.
 
 4. What's the migration cost for each consumer?
-   → If trivially automated, do it. If manual and high-effort, weigh against maintenance cost.
+   -> If trivially automated, do it. If manual and high-effort, weigh against maintenance cost.
 
 5. What's the ongoing maintenance cost of NOT deprecating?
-   → Security risk, engineer time, opportunity cost of complexity.
+   -> Security risk, engineer time, opportunity cost of complexity.
 ```
 
 ## Compulsory vs Advisory Deprecation
@@ -64,24 +67,26 @@ Before deprecating anything, answer these questions:
 | **Advisory** | Migration is optional, old system is stable | Warnings, documentation, nudges. Users migrate on their own timeline. |
 | **Compulsory** | Old system has security issues, blocks progress, or maintenance cost is unsustainable | Hard deadline. Old system will be removed by date X. Provide migration tooling. |
 
-**Default to advisory.** Use compulsory only when the maintenance cost or risk justifies forcing migration. Compulsory deprecation requires providing migration tooling, documentation, and support — you can't just announce a deadline.
+**Default to advisory.** Use compulsory only when the maintenance cost or risk justifies forcing migration.
 
 ## The Migration Process
 
 ### Step 1: Build the Replacement
 
-Don't deprecate without a working alternative. The replacement must:
+Don't deprecate without a working alternative. Use `Read` and `Grep` to verify the replacement covers all critical use cases:
 
-- Cover all critical use cases of the old system
-- Have documentation and migration guides
-- Be proven in production (not just "theoretically better")
+- Covers all critical use cases of the old system
+- Has documentation and migration guides
+- Is proven in production (not just "theoretically better")
 
 ### Step 2: Announce and Document
+
+Write a deprecation notice:
 
 ```markdown
 ## Deprecation Notice: OldService
 
-**Status:** Deprecated as of 2025-03-01
+**Status:** Deprecated as of [date]
 **Replacement:** NewService (see migration guide below)
 **Removal date:** Advisory — no hard deadline yet
 **Reason:** OldService requires manual scaling and lacks observability.
@@ -90,20 +95,18 @@ Don't deprecate without a working alternative. The replacement must:
 ### Migration Guide
 1. Replace `import { client } from 'old-service'` with `import { client } from 'new-service'`
 2. Update configuration (see examples below)
-3. Run the migration verification script: `npx migrate-check`
+3. Run the migration verification script
 ```
 
 ### Step 3: Migrate Incrementally
 
 Migrate consumers one at a time, not all at once. For each consumer:
 
-```
-1. Identify all touchpoints with the deprecated system
-2. Update to use the replacement
-3. Verify behavior matches (tests, integration checks)
-4. Remove references to the old system
+1. Use `Grep` to identify all touchpoints with the deprecated system
+2. Use `Edit` to update to use the replacement
+3. Verify behavior matches (tests, integration checks via `Bash`)
+4. Use `Edit` to remove references to the old system
 5. Confirm no regressions
-```
 
 **The Churn Rule:** If you own the infrastructure being deprecated, you are responsible for migrating your users — or providing backward-compatible updates that require no migration. Don't announce deprecation and leave users to figure it out.
 
@@ -111,13 +114,10 @@ Migrate consumers one at a time, not all at once. For each consumer:
 
 Only after all consumers have migrated:
 
-```
-1. Verify zero active usage (metrics, logs, dependency analysis)
+1. Verify zero active usage (metrics, logs, dependency analysis via `Grep`)
 2. Remove the code
 3. Remove associated tests, documentation, and configuration
 4. Remove the deprecation notices
-5. Celebrate — removing code is an achievement
-```
 
 ## Migration Patterns
 
@@ -137,35 +137,13 @@ Phase 5: Remove old system
 
 Create an adapter that translates calls from the old interface to the new implementation. Consumers keep using the old interface while you migrate the backend.
 
-```typescript
-// Adapter: old interface, new implementation
-class LegacyTaskService implements OldTaskAPI {
-  constructor(private newService: NewTaskService) {}
-
-  // Old method signature, delegates to new implementation
-  getTask(id: number): OldTask {
-    const task = this.newService.findById(String(id));
-    return this.toOldFormat(task);
-  }
-}
-```
-
 ### Feature Flag Migration
 
-Use feature flags to switch consumers from old to new system one at a time:
-
-```typescript
-function getTaskService(userId: string): TaskService {
-  if (featureFlags.isEnabled('new-task-service', { userId })) {
-    return new NewTaskService();
-  }
-  return new LegacyTaskService();
-}
-```
+Use feature flags to switch consumers from old to new system one at a time.
 
 ## Zombie Code
 
-Zombie code is code that nobody owns but everybody depends on. It's not actively maintained, has no clear owner, and accumulates security vulnerabilities and compatibility issues. Signs:
+Zombie code is code that nobody owns but everybody depends on. Signs:
 
 - No commits in 6+ months but active consumers exist
 - No assigned maintainer or team
@@ -173,16 +151,16 @@ Zombie code is code that nobody owns but everybody depends on. It's not actively
 - Dependencies with known vulnerabilities that nobody updates
 - Documentation that references systems that no longer exist
 
-**Response:** Either assign an owner and maintain it properly, or deprecate it with a concrete migration plan. Zombie code cannot stay in limbo — it either gets investment or removal.
+**Response:** Either assign an owner and maintain it properly, or deprecate it with a concrete migration plan. Use `Grep` to find references, `Bash` to check git history, and `Read` to assess the code's state.
 
 ## Common Rationalizations
 
 | Rationalization | Reality |
 |---|---|
-| "It still works, why remove it?" | Working code that nobody maintains accumulates security debt and complexity. Maintenance cost grows silently. |
+| "It still works, why remove it?" | Working code that nobody maintains accumulates security debt and complexity. |
 | "Someone might need it later" | If it's needed later, it can be rebuilt. Keeping unused code "just in case" costs more than rebuilding. |
 | "The migration is too expensive" | Compare migration cost to ongoing maintenance cost over 2-3 years. Migration is usually cheaper long-term. |
-| "We'll deprecate it after we finish the new system" | Deprecation planning starts at design time. By the time the new system is done, you'll have new priorities. Plan now. |
+| "We'll deprecate it after we finish the new system" | Deprecation planning starts at design time. By the time the new system is done, you'll have new priorities. |
 | "Users will migrate on their own" | They won't. Provide tooling, documentation, and incentives — or do the migration yourself (the Churn Rule). |
 | "We can maintain both systems indefinitely" | Two systems doing the same thing is double the maintenance, testing, documentation, and onboarding cost. |
 
