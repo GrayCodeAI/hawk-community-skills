@@ -1,8 +1,11 @@
 ---
 name: planning-and-task-breakdown
-description: "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks. Use when a task feels too large to start, when you need to estimate s..."
+description: "Breaks work into ordered tasks. Use when you have a spec or clear requirements and need to break work into implementable tasks."
 license: MIT
-tags: [general]
+tags: [planning, tasks, breakdown, workflow]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Planning and Task Breakdown
@@ -32,7 +35,7 @@ Before writing any code, operate in read-only mode:
 - Map dependencies between components
 - Note risks and unknowns
 
-**Do NOT write code during planning.** The output is a plan document, not implementation.
+**Do NOT write code during planning.** The output is a plan document saved to `tasks/plan.md` and a task list saved to `tasks/todo.md`, not implementation.
 
 ### Step 2: Identify the Dependency Graph
 
@@ -40,18 +43,18 @@ Map what depends on what:
 
 ```
 Database schema
-    │
-    ├── API models/types
-    │       │
-    │       ├── API endpoints
-    │       │       │
-    │       │       └── Frontend API client
-    │       │               │
-    │       │               └── UI components
-    │       │
-    │       └── Validation logic
-    │
-    └── Seed data / migrations
+    |
+    +-- API models/types
+    |       |
+    |       +-- API endpoints
+    |       |       |
+    |       |       +-- Frontend API client
+    |       |               |
+    |       |               +-- UI components
+    |       |
+    |       +-- Validation logic
+    |
+    +-- Seed data / migrations
 ```
 
 Implementation order follows the dependency graph bottom-up: build foundations first.
@@ -92,15 +95,15 @@ Each task follows this structure:
 - [ ] [Specific, testable condition]
 
 **Verification:**
-- [ ] Tests pass: `npm test -- --grep "feature-name"`
-- [ ] Build succeeds: `npm run build`
+- [ ] Tests pass: `go test -race ./...`
+- [ ] Build succeeds: `go build ./cmd/hawk`
 - [ ] Manual check: [description of what to verify]
 
 **Dependencies:** [Task numbers this depends on, or "None"]
 
 **Files likely touched:**
-- `src/path/to/file.ts`
-- `tests/path/to/test.ts`
+- `internal/path/to/file.go`
+- `internal/path/to/file_test.go`
 
 **Estimated scope:** [Small: 1-2 files | Medium: 3-5 files | Large: 5+ files]
 ```
@@ -141,6 +144,13 @@ If a task is L or larger, it should be broken into smaller tasks. An agent perfo
 - You cannot describe the acceptance criteria in 3 or fewer bullet points
 - It touches two or more independent subsystems (e.g., auth and billing)
 - You find yourself writing "and" in the task title (a sign it is two tasks)
+
+## Output Files
+
+- **Plan document:** Save the implementation plan to `tasks/plan.md`.
+- **Task list:** Save the checklist-style task list to `tasks/todo.md`.
+
+Create the `tasks/` directory if it does not exist. These paths are the convention expected by downstream tooling.
 
 ## Plan Document Template
 

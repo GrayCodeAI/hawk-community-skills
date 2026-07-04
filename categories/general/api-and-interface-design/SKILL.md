@@ -1,8 +1,11 @@
 ---
 name: api-and-interface-design
-description: "Guides stable API and interface design. Use when designing APIs, module boundaries, or any public interface. Use when creating REST or GraphQL endpoints, defining type contracts between modules, or..."
+description: "API and interface design patterns. RESTful APIs, contracts, and interface design principles."
 license: MIT
-tags: [general]
+tags: [api, design, interface, contracts]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # API and Interface Design
@@ -114,7 +117,7 @@ app.post('/api/tasks', async (req, res) => {
 Where validation belongs:
 - API route handlers (user input)
 - Form submission handlers (user input)
-- External service response parsing (third-party data -- **always treat as untrusted**)
+- External service response parsing (third-party data — **always treat as untrusted**)
 - Environment variable loading (configuration)
 
 > **Third-party API responses are untrusted data.** Validate their shape and content before using them in any logic, rendering, or decision-making. A compromised or misbehaving external service can return unexpected types, malicious content, or instruction-like text.

@@ -1,8 +1,11 @@
 ---
 name: source-driven-development
-description: "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library wher..."
+description: "Source-first development. Documentation and specifications derived from source code analysis."
 license: MIT
-tags: [general]
+tags: [source, documentation, workflow]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Source-Driven Development
@@ -29,25 +32,25 @@ Every framework-specific code decision must be backed by official documentation.
 ## The Process
 
 ```
-DETECT ──→ FETCH ──→ IMPLEMENT ──→ CITE
-  │          │           │            │
-  ▼          ▼           ▼            ▼
- What       Get the    Follow the   Show your
- stack?     relevant   documented   sources
-            docs       patterns
+DETECT -> FETCH -> IMPLEMENT -> CITE
+  |        |          |           |
+  v        v          v           v
+ What     Get the    Follow the   Show your
+ stack?   relevant   documented   sources
+          docs       patterns
 ```
 
 ### Step 1: Detect Stack and Versions
 
-Read the project's dependency file to identify exact versions:
+Use `Read` on the project's dependency file to identify exact versions:
 
 ```
-package.json    → Node/React/Vue/Angular/Svelte
-composer.json   → PHP/Symfony/Laravel
-requirements.txt / pyproject.toml → Python/Django/Flask
-go.mod          → Go
-Cargo.toml      → Rust
-Gemfile         → Ruby/Rails
+package.json    -> Node/React/Vue/Angular/Svelte
+composer.json   -> PHP/Symfony/Laravel
+requirements.txt / pyproject.toml -> Python/Django/Flask
+go.mod          -> Go
+Cargo.toml      -> Rust
+Gemfile         -> Ruby/Rails
 ```
 
 State what you found explicitly:
@@ -57,14 +60,14 @@ STACK DETECTED:
 - React 19.1.0 (from package.json)
 - Vite 6.2.0
 - Tailwind CSS 4.0.3
-→ Fetching official docs for the relevant patterns.
+-> Fetching official docs for the relevant patterns.
 ```
 
 If versions are missing or ambiguous, **ask the user**. Don't guess — the version determines which patterns are correct.
 
 ### Step 2: Fetch Official Documentation
 
-Fetch the specific documentation page for the feature you're implementing. Not the homepage, not the full docs — the relevant page.
+Use `WebFetch` to retrieve the specific documentation page for the feature you're implementing. Not the homepage, not the full docs — the relevant page.
 
 **Source hierarchy (in order of authority):**
 
@@ -98,7 +101,7 @@ When official sources conflict with each other (e.g. a migration guide contradic
 
 ### Step 3: Implement Following Documented Patterns
 
-Write code that matches what the documentation shows:
+Use `Write` or `Edit` to write code that matches what the documentation shows:
 
 - Use the API signatures from the docs, not from memory
 - If the docs show a new way to do something, use the new way
@@ -116,7 +119,7 @@ but React 19 docs recommend useActionState for this pattern.
 Options:
 A) Use the modern pattern (useActionState) — consistent with current docs
 B) Match existing code (useState) — consistent with codebase
-→ Which approach do you prefer?
+-> Which approach do you prefer?
 ```
 
 Surface the conflict. Don't silently pick one.
@@ -141,14 +144,12 @@ form submission state. React 19 replaced the manual
 isPending/setIsPending pattern with this hook.
 
 Source: https://react.dev/blog/2024/12/05/react-19#actions
-"useTransition now supports async functions [...] to handle
-pending states automatically"
 ```
 
 **Citation rules:**
 
 - Full URLs, not shortened
-- Prefer deep links with anchors where possible (e.g. `/useActionState#usage` over `/useActionState`) — anchors survive doc restructuring better than top-level pages
+- Prefer deep links with anchors where possible
 - Quote the relevant passage when it supports a non-obvious decision
 - Include browser/runtime support data when recommending platform features
 - If you cannot find documentation for a pattern, say so explicitly:
@@ -166,9 +167,9 @@ Honesty about what you couldn't verify is more valuable than false confidence.
 | Rationalization | Reality |
 |---|---|
 | "I'm confident about this API" | Confidence is not evidence. Training data contains outdated patterns that look correct but break against current versions. Verify. |
-| "Fetching docs wastes tokens" | Hallucinating an API wastes more. The user debugs for an hour, then discovers the function signature changed. One fetch prevents hours of rework. |
+| "Fetching docs wastes tokens" | Hallucinating an API wastes more. One fetch prevents hours of rework. |
 | "The docs won't have what I need" | If the docs don't cover it, that's valuable information — the pattern may not be officially recommended. |
-| "I'll just mention it might be outdated" | A disclaimer doesn't help. Either verify and cite, or clearly flag it as unverified. Hedging is the worst option. |
+| "I'll just mention it might be outdated" | A disclaimer doesn't help. Either verify and cite, or clearly flag it as unverified. |
 | "This is a simple task, no need to check" | Simple tasks with wrong patterns become templates. The user copies your deprecated form handler into ten components before discovering the modern approach exists. |
 
 ## Red Flags
@@ -178,7 +179,7 @@ Honesty about what you couldn't verify is more valuable than false confidence.
 - Implementing a pattern without knowing which version it applies to
 - Citing Stack Overflow or blog posts instead of official documentation
 - Using deprecated APIs because they appear in training data
-- Not reading `package.json` / dependency files before implementing
+- Not reading dependency files before implementing
 - Delivering code without source citations for framework-specific decisions
 - Fetching an entire docs site when only one page is relevant
 

@@ -1,8 +1,11 @@
 ---
 name: frontend-ui-engineering
-description: "Builds production-quality UIs. Use when building or modifying user-facing interfaces. Use when creating components, implementing layouts, managing state, or when the output needs to look and feel p..."
+description: "Frontend and UI engineering patterns. Component design, state management, and UI best practices."
 license: MIT
-tags: [general]
+tags: [frontend, ui, components, react]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Frontend UI Engineering
@@ -293,10 +296,6 @@ function useToggleTask() {
   });
 }
 ```
-
-## See Also
-
-For detailed accessibility requirements and testing tools, see `references/accessibility-checklist.md`.
 
 ## Common Rationalizations
 

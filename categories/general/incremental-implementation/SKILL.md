@@ -1,8 +1,11 @@
 ---
 name: incremental-implementation
-description: "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file. Use when you're about to write a large amount of code at once, or when a task feels too ..."
+description: "Delivers changes incrementally. Use when implementing any feature or change that touches more than one file."
 license: MIT
-tags: [general]
+tags: [implementation, workflow, incremental, slicing]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Incremental Implementation
@@ -40,7 +43,7 @@ For each slice:
 1. **Implement** the smallest complete piece of functionality
 2. **Test** — run the test suite (or write a test if none exists)
 3. **Verify** — confirm the slice works as expected (tests pass, build succeeds, manual check)
-4. **Commit** -- save your progress with a descriptive message (see `git-workflow-and-versioning` for atomic commit guidance)
+4. **Commit** — save your progress with a descriptive message
 5. **Move to the next slice** — carry forward, don't restart
 
 ## Slicing Strategies
@@ -129,7 +132,7 @@ If you notice something worth improving outside your task scope, note it — don
 
 ```
 NOTICED BUT NOT TOUCHING:
-- src/utils/format.ts has an unused import (unrelated to this task)
+- src/utils/format.go has an unused import (unrelated to this task)
 - The auth middleware could use better error messages (separate task)
 → Want me to create tasks for these?
 ```
@@ -150,13 +153,9 @@ After each increment, the project must build and existing tests must pass. Don't
 
 If a feature isn't ready for users but you need to merge increments:
 
-```typescript
+```go
 // Feature flag for work-in-progress
-const ENABLE_TASK_SHARING = process.env.FEATURE_TASK_SHARING === 'true';
-
-if (ENABLE_TASK_SHARING) {
-  // New sharing UI
-}
+const EnableTaskSharing = os.Getenv("FEATURE_TASK_SHARING") == "true"
 ```
 
 This lets you merge small increments to the main branch without exposing incomplete work.
@@ -165,11 +164,14 @@ This lets you merge small increments to the main branch without exposing incompl
 
 New code should default to safe, conservative behavior:
 
-```typescript
+```go
 // Safe: disabled by default, opt-in
-export function createTask(data: TaskInput, options?: { notify?: boolean }) {
-  const shouldNotify = options?.notify ?? false;
-  // ...
+func CreateTask(data TaskInput, opts ...CreateOption) (*Task, error) {
+    o := defaultCreateOptions()
+    for _, opt := range opts {
+        opt(&o)
+    }
+    // ...
 }
 ```
 
@@ -192,7 +194,7 @@ When directing an agent to implement incrementally:
 Start with just the database schema change and the API endpoint.
 Don't touch the UI yet — we'll do that in the next increment.
 
-After implementing, run `npm test` and `npm run build` to verify
+After implementing, run `go test ./...` and `go build ./cmd/hawk` to verify
 nothing is broken."
 ```
 
@@ -203,10 +205,9 @@ Be explicit about what's in scope and what's NOT in scope for each increment.
 After each increment, verify:
 
 - [ ] The change does one thing and does it completely
-- [ ] All existing tests still pass (`npm test`)
-- [ ] The build succeeds (`npm run build`)
-- [ ] Type checking passes (`npx tsc --noEmit`)
-- [ ] Linting passes (`npm run lint`)
+- [ ] All existing tests still pass (`go test -race ./...`)
+- [ ] The build succeeds (`go build ./cmd/hawk`)
+- [ ] Linting passes (`go vet ./...`)
 - [ ] The new functionality works as expected
 - [ ] The change is committed with a descriptive message
 

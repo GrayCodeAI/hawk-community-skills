@@ -1,15 +1,18 @@
 ---
 name: security-and-hardening
-description: "Hardens code against vulnerabilities. Use when handling user input, authentication, data storage, or external integrations. Use when building any feature that accepts untrusted data, manages user s..."
+description: "Security review and hardening. Threat modeling, vulnerability detection, and secure coding practices."
 license: MIT
-tags: [security]
+tags: [security, hardening, vulnerabilities, owasp]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Security and Hardening
 
 ## Overview
 
-Security-first development practices for web applications. Treat every external input as hostile, every secret as sacred, and every authorization check as mandatory. Security isn't a phase — it's a constraint on every line of code that touches user data, authentication, or external systems.
+Security-first development practices for Go applications. Treat every external input as hostile, every secret as sacred, and every authorization check as mandatory. Security isn't a phase — it's a constraint on every line of code that touches user data, authentication, or external systems.
 
 ## When to Use
 
@@ -19,6 +22,25 @@ Security-first development practices for web applications. Treat every external 
 - Integrating with external APIs or services
 - Adding file uploads, webhooks, or callbacks
 - Handling payment or PII data
+
+## Process: Threat Model First
+
+Controls bolted on without a threat model are guesses. Before hardening, spend five minutes thinking like an attacker:
+
+1. **Map the trust boundaries.** Where does untrusted data cross into your system? HTTP requests, form fields, file uploads, webhooks, third-party APIs, message queues, and **LLM output**. Every boundary is attack surface.
+2. **Name the assets.** What's worth stealing or breaking? Credentials, PII, payment data, admin actions, money movement.
+3. **Run STRIDE over each boundary:**
+
+| Threat | Ask | Typical mitigation |
+|---|---|---|
+| **S**poofing | Can someone impersonate a user/service? | Authentication, signature verification |
+| **T**ampering | Can data be altered in transit or at rest? | Integrity checks, parameterized queries, HTTPS |
+| **R**epudiation | Can an action be denied later? | Audit logging of security events |
+| **I**nformation disclosure | Can data leak? | Encryption, field allowlists, generic errors |
+| **D**enial of service | Can it be overwhelmed? | Rate limiting, input size caps, timeouts |
+| **E**levation of privilege | Can a user gain rights they shouldn't? | Authorization checks, least privilege |
+
+4. **Write abuse cases next to use cases.** For each feature, ask "how would I misuse this?" — then make that your first test.
 
 ## The Three-Tier Boundary System
 
@@ -31,7 +53,7 @@ Security-first development practices for web applications. Treat every external 
 - **Hash passwords** with bcrypt/scrypt/argon2 (never store plaintext)
 - **Set security headers** (CSP, HSTS, X-Frame-Options, X-Content-Type-Options)
 - **Use httpOnly, secure, sameSite cookies** for sessions
-- **Run `npm audit`** (or equivalent) before every release
+- **Run `go vet`** and check for vulnerabilities before every release
 
 ### Ask First (Requires Human Approval)
 
@@ -49,226 +71,212 @@ Security-first development practices for web applications. Treat every external 
 - **Never log sensitive data** (passwords, tokens, full credit card numbers)
 - **Never trust client-side validation** as a security boundary
 - **Never disable security headers** for convenience
-- **Never use `eval()` or `innerHTML`** with user-provided data
+- **Never use `exec.Command`** with user-provided data without sanitization
 - **Never store sessions in client-accessible storage** (localStorage for auth tokens)
 - **Never expose stack traces** or internal error details to users
 
-## OWASP Top 10 Prevention
+## OWASP Prevention Patterns (Go)
 
-### 1. Injection (SQL, NoSQL, OS Command)
+### Injection (SQL, NoSQL, OS Command)
 
-```typescript
+```go
 // BAD: SQL injection via string concatenation
-const query = `SELECT * FROM users WHERE id = '${userId}'`;
+query := fmt.Sprintf("SELECT * FROM users WHERE id = '%s'", userID)
 
 // GOOD: Parameterized query
-const user = await db.query('SELECT * FROM users WHERE id = $1', [userId]);
+row := db.QueryRow("SELECT * FROM users WHERE id = $1", userID)
 
-// GOOD: ORM with parameterized input
-const user = await prisma.user.findUnique({ where: { id: userId } });
+// GOOD: Using an ORM with parameterized input
+user, err := db.User.FindUnique(userID)
 ```
 
-### 2. Broken Authentication
+### Broken Authentication
 
-```typescript
+```go
 // Password hashing
-import { hash, compare } from 'bcrypt';
+import "golang.org/x/crypto/bcrypt"
 
-const SALT_ROUNDS = 12;
-const hashedPassword = await hash(plaintext, SALT_ROUNDS);
-const isValid = await compare(plaintext, hashedPassword);
+const hashCost = 12
+hashed, err := bcrypt.GenerateFromPassword([]byte(plaintext), hashCost)
+err = bcrypt.CompareHashAndPassword(hashed, []byte(plaintext))
 
-// Session management
-app.use(session({
-  secret: process.env.SESSION_SECRET,  // From environment, not code
-  resave: false,
-  saveUninitialized: false,
-  cookie: {
-    httpOnly: true,     // Not accessible via JavaScript
-    secure: true,       // HTTPS only
-    sameSite: 'lax',    // CSRF protection
-    maxAge: 24 * 60 * 60 * 1000,  // 24 hours
-  },
-}));
+// Session management — use secure cookie configuration
+http.SetCookie(w, &http.Cookie{
+    Name:     "session",
+    Value:    sessionToken,
+    HttpOnly: true,
+    Secure:   true,
+    SameSite: http.SameSiteLaxMode,
+    MaxAge:   86400,
+})
 ```
 
-### 3. Cross-Site Scripting (XSS)
+### Cross-Site Scripting (XSS)
 
-```typescript
-// BAD: Rendering user input as HTML
-element.innerHTML = userInput;
+```go
+// BAD: Rendering user input as raw HTML
+w.Write([]byte(userInput))
 
-// GOOD: Use framework auto-escaping (React does this by default)
-return <div>{userInput}</div>;
+// GOOD: Use html/template auto-escaping
+tmpl.Execute(w, data) // template auto-escapes by default
 
-// If you MUST render HTML, sanitize first
-import DOMPurify from 'dompurify';
-const clean = DOMPurify.sanitize(userInput);
+// GOOD: Explicit escaping
+import "html"
+safe := html.EscapeString(userInput)
 ```
 
-### 4. Broken Access Control
+### Broken Access Control
 
-```typescript
+```go
 // Always check authorization, not just authentication
-app.patch('/api/tasks/:id', authenticate, async (req, res) => {
-  const task = await taskService.findById(req.params.id);
+func UpdateTaskHandler(w http.ResponseWriter, r *http.Request) {
+    task, err := taskService.FindByID(r.URL.Query().Get("id"))
+    if err != nil {
+        http.Error(w, "Not found", http.StatusNotFound)
+        return
+    }
 
-  // Check that the authenticated user owns this resource
-  if (task.ownerId !== req.user.id) {
-    return res.status(403).json({
-      error: { code: 'FORBIDDEN', message: 'Not authorized to modify this task' }
-    });
-  }
+    // Check that the authenticated user owns this resource
+    if task.OwnerID != auth.UserID(r) {
+        http.Error(w, "Forbidden", http.StatusForbidden)
+        return
+    }
 
-  // Proceed with update
-  const updated = await taskService.update(req.params.id, req.body);
-  return res.json(updated);
-});
-```
-
-### 5. Security Misconfiguration
-
-```typescript
-// Security headers (use helmet for Express)
-import helmet from 'helmet';
-app.use(helmet());
-
-// Content Security Policy
-app.use(helmet.contentSecurityPolicy({
-  directives: {
-    defaultSrc: ["'self'"],
-    scriptSrc: ["'self'"],
-    styleSrc: ["'self'", "'unsafe-inline'"],  // Tighten if possible
-    imgSrc: ["'self'", 'data:', 'https:'],
-    connectSrc: ["'self'"],
-  },
-}));
-
-// CORS — restrict to known origins
-app.use(cors({
-  origin: process.env.ALLOWED_ORIGINS?.split(',') || 'http://localhost:3000',
-  credentials: true,
-}));
-```
-
-### 6. Sensitive Data Exposure
-
-```typescript
-// Never return sensitive fields in API responses
-function sanitizeUser(user: UserRecord): PublicUser {
-  const { passwordHash, resetToken, ...publicFields } = user;
-  return publicFields;
+    // Proceed with update
 }
+```
 
-// Use environment variables for secrets
-const API_KEY = process.env.STRIPE_API_KEY;
-if (!API_KEY) throw new Error('STRIPE_API_KEY not configured');
+### Server-Side Request Forgery (SSRF)
+
+```go
+// BAD: fetch whatever the user gives you
+resp, err := http.Get(r.FormValue("url"))
+
+// GOOD: allowlist scheme + host, reject private IPs
+import "net/url"
+
+var allowedHosts = map[string]bool{"hooks.example.com": true}
+
+func assertSafeURL(raw string) (*url.URL, error) {
+    parsed, err := url.Parse(raw)
+    if err != nil {
+        return nil, err
+    }
+    if parsed.Scheme != "https" {
+        return nil, errors.New("https only")
+    }
+    if !allowedHosts[parsed.Hostname()] {
+        return nil, errors.New("host not allowed")
+    }
+    // Additional: resolve DNS and check for private/reserved IPs
+    return parsed, nil
+}
 ```
 
 ## Input Validation Patterns
 
-### Schema Validation at Boundaries
+### Validation at Boundaries
 
-```typescript
-import { z } from 'zod';
+```go
+// Validate incoming data before processing
+type CreateTaskRequest struct {
+    Title       string `json:"title" validate:"required,min=1,max=200"`
+    Description string `json:"description" validate:"max=2000"`
+    Priority    string `json:"priority" validate:"required,oneof=low medium high"`
+}
 
-const CreateTaskSchema = z.object({
-  title: z.string().min(1).max(200).trim(),
-  description: z.string().max(2000).optional(),
-  priority: z.enum(['low', 'medium', 'high']).default('medium'),
-  dueDate: z.string().datetime().optional(),
-});
-
-// Validate at the route handler
-app.post('/api/tasks', async (req, res) => {
-  const result = CreateTaskSchema.safeParse(req.body);
-  if (!result.success) {
-    return res.status(422).json({
-      error: {
-        code: 'VALIDATION_ERROR',
-        message: 'Invalid input',
-        details: result.error.flatten(),
-      },
-    });
-  }
-  // result.data is now typed and validated
-  const task = await taskService.create(result.data);
-  return res.status(201).json(task);
-});
+func CreateTaskHandler(w http.ResponseWriter, r *http.Request) {
+    var req CreateTaskRequest
+    if err := json.NewDecoder(r.Body).Decode(&req); err != nil {
+        http.Error(w, "Invalid JSON", http.StatusBadRequest)
+        return
+    }
+    if err := validate.Struct(req); err != nil {
+        http.Error(w, "Validation failed", http.StatusUnprocessableEntity)
+        return
+    }
+    // Process validated data
+}
 ```
 
 ### File Upload Safety
 
-```typescript
+```go
 // Restrict file types and sizes
-const ALLOWED_TYPES = ['image/jpeg', 'image/png', 'image/webp'];
-const MAX_SIZE = 5 * 1024 * 1024; // 5MB
+var allowedTypes = map[string]bool{
+    "image/jpeg": true,
+    "image/png":  true,
+    "image/webp": true,
+}
+const maxSize = 5 * 1024 * 1024 // 5MB
 
-function validateUpload(file: UploadedFile) {
-  if (!ALLOWED_TYPES.includes(file.mimetype)) {
-    throw new ValidationError('File type not allowed');
-  }
-  if (file.size > MAX_SIZE) {
-    throw new ValidationError('File too large (max 5MB)');
-  }
-  // Don't trust the file extension — check magic bytes if critical
+func ValidateUpload(file io.Reader, header *multipart.FileHeader) error {
+    if !allowedTypes[header.Header.Get("Content-Type")] {
+        return errors.New("file type not allowed")
+    }
+    if header.Size > maxSize {
+        return errors.New("file too large (max 5MB)")
+    }
+    return nil
 }
 ```
 
-## Triaging npm audit Results
-
-Not all audit findings require immediate action. Use this decision tree:
+## Triaging Dependency Vulnerabilities
 
 ```
-npm audit reports a vulnerability
-├── Severity: critical or high
-│   ├── Is the vulnerable code reachable in your app?
-│   │   ├── YES --> Fix immediately (update, patch, or replace the dependency)
-│   │   └── NO (dev-only dep, unused code path) --> Fix soon, but not a blocker
-│   └── Is a fix available?
-│       ├── YES --> Update to the patched version
-│       └── NO --> Check for workarounds, consider replacing the dependency, or add to allowlist with a review date
-├── Severity: moderate
-│   ├── Reachable in production? --> Fix in the next release cycle
-│   └── Dev-only? --> Fix when convenient, track in backlog
-└── Severity: low
-    └── Track and fix during regular dependency updates
+Vulnerability reported in a dependency:
+|-- Severity: critical or high
+|   |-- Is the vulnerable code reachable in your app?
+|   |   |-- YES --> Fix immediately (update, patch, or replace)
+|   |   |-- NO (dev-only dep, unused code path) --> Fix soon, not a blocker
+|   |-- Is a fix available?
+|       |-- YES --> Update to the patched version
+|       |-- NO --> Check for workarounds, consider replacing the dependency
+|-- Severity: moderate
+|   |-- Reachable in production? --> Fix in the next release cycle
+|   |-- Dev-only? --> Fix when convenient
+|-- Severity: low
+    --> Track and fix during regular dependency updates
 ```
 
 **Key questions:**
 - Is the vulnerable function actually called in your code path?
 - Is the dependency a runtime dependency or dev-only?
-- Is the vulnerability exploitable given your deployment context (e.g., a server-side vulnerability in a client-only app)?
+- Is the vulnerability exploitable given your deployment context?
 
-When you defer a fix, document the reason and set a review date.
+### Supply-Chain Hygiene
+
+- **Commit the lockfile** and install with `go mod vendor` or pin versions in CI — reproducible builds, no silent version drift.
+- **Review new dependencies before adding them** — maintenance, download counts, and whether they truly earn their place.
+- **Be wary of `init()` functions** in unfamiliar packages — they run arbitrary code at import time.
+- **Watch for typosquats** — similar package names that inject malicious code.
 
 ## Rate Limiting
 
-```typescript
-import rateLimit from 'express-rate-limit';
+```go
+import "golang.org/x/time/rate"
 
-// General API rate limit
-app.use('/api/', rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
-  max: 100,                   // 100 requests per window
-  standardHeaders: true,
-  legacyHeaders: false,
-}));
+// General API rate limiter
+var apiLimiter = rate.NewLimiter(rate.Every(time.Second/10), 20) // 10 req/s, burst 20
 
-// Stricter limit for auth endpoints
-app.use('/api/auth/', rateLimit({
-  windowMs: 15 * 60 * 1000,
-  max: 10,  // 10 attempts per 15 minutes
-}));
+func RateLimitMiddleware(next http.Handler) http.Handler {
+    return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+        if !apiLimiter.Allow() {
+            http.Error(w, "Rate limited", http.StatusTooManyRequests)
+            return
+        }
+        next.ServeHTTP(w, r)
+    })
+}
 ```
 
 ## Secrets Management
 
 ```
 .env files:
-  ├── .env.example  → Committed (template with placeholder values)
-  ├── .env          → NOT committed (contains real secrets)
-  └── .env.local    → NOT committed (local overrides)
+  +-- .env.example  -> Committed (template with placeholder values)
+  +-- .env          -> NOT committed (contains real secrets)
+  +-- .env.local    -> NOT committed (local overrides)
 
 .gitignore must include:
   .env
@@ -284,11 +292,39 @@ app.use('/api/auth/', rateLimit({
 git diff --cached | grep -i "password\|secret\|api_key\|token"
 ```
 
+**If a secret is ever committed, rotate it.** Deleting the line or rewriting history is not enough — assume it's compromised the moment it reaches a remote.
+
+## Securing AI / LLM Features
+
+If your app calls an LLM, it inherits a new attack surface:
+
+- **Treat all model output as untrusted input.** Never pass LLM output straight into `exec.Command`, a database query, or `template.HTML`.
+- **Assume prompts can be hijacked.** The system prompt is not a security boundary; enforce permissions in code, not in the prompt.
+- **Keep secrets and other users' data out of prompts.** Anything in the context can be echoed back.
+- **Constrain tool and agent permissions.** Scope tools to the minimum, require confirmation for destructive actions.
+- **Bound consumption.** Cap tokens, request rate, and loop depth.
+
+```go
+// BAD: trusting model output as a command
+cmd := exec.Command("sh", "-c", llmOutput)
+cmd.Run()
+
+// GOOD: model output is data, validate before use
+var intent Action
+if err := json.Unmarshal([]byte(llmOutput), &intent); err != nil {
+    return fmt.Errorf("unexpected model output: %w", err)
+}
+if err := validateAction(intent); err != nil {
+    return fmt.Errorf("invalid action: %w", err)
+}
+runAllowlistedAction(intent)
+```
+
 ## Security Review Checklist
 
 ```markdown
 ### Authentication
-- [ ] Passwords hashed with bcrypt/scrypt/argon2 (salt rounds ≥ 12)
+- [ ] Passwords hashed with bcrypt/scrypt/argon2 (cost >= 12)
 - [ ] Session tokens are httpOnly, secure, sameSite
 - [ ] Login has rate limiting
 - [ ] Password reset tokens expire
@@ -302,6 +338,7 @@ git diff --cached | grep -i "password\|secret\|api_key\|token"
 - [ ] All user input validated at the boundary
 - [ ] SQL queries are parameterized
 - [ ] HTML output is encoded/escaped
+- [ ] Server-side URL fetches are allowlisted (no SSRF)
 
 ### Data
 - [ ] No secrets in code or version control
@@ -313,10 +350,12 @@ git diff --cached | grep -i "password\|secret\|api_key\|token"
 - [ ] CORS restricted to known origins
 - [ ] Dependencies audited for vulnerabilities
 - [ ] Error messages don't expose internals
-```
-## See Also
 
-For detailed security checklists and pre-commit verification steps, see `references/security-checklist.md`.
+### AI / LLM (if used)
+- [ ] Model output treated as untrusted (no exec/SQL/innerHTML)
+- [ ] Secrets and other users' data kept out of prompts
+- [ ] Tool/agent permissions scoped; destructive actions require confirmation
+```
 
 ## Common Rationalizations
 
@@ -327,6 +366,8 @@ For detailed security checklists and pre-commit verification steps, see `referen
 | "No one would try to exploit this" | Automated scanners will find it. Security by obscurity is not security. |
 | "The framework handles security" | Frameworks provide tools, not guarantees. You still need to use them correctly. |
 | "It's just a prototype" | Prototypes become production. Security habits from day one. |
+| "Threat modeling is overkill here" | Five minutes of "how would I attack this?" prevents the design flaws no control can patch later. |
+| "It's just LLM output, it's only text" | That "text" can be a SQL statement, a script tag, or a shell command. Treat it like any untrusted input. |
 
 ## Red Flags
 
@@ -337,15 +378,19 @@ For detailed security checklists and pre-commit verification steps, see `referen
 - No rate limiting on authentication endpoints
 - Stack traces or internal errors exposed to users
 - Dependencies with known critical vulnerabilities
+- Server fetches user-supplied URLs without an allowlist (SSRF)
+- LLM/model output passed into a query, the DOM, a shell, or `exec.Command`
+- Secrets, PII, or the full system prompt placed inside an LLM context window
 
 ## Verification
 
 After implementing security-relevant code:
 
-- [ ] `npm audit` shows no critical or high vulnerabilities
 - [ ] No secrets in source code or git history
 - [ ] All user input validated at system boundaries
 - [ ] Authentication and authorization checked on every protected endpoint
-- [ ] Security headers present in response (check with browser DevTools)
+- [ ] Security headers present in response
 - [ ] Error responses don't expose internal details
 - [ ] Rate limiting active on auth endpoints
+- [ ] Server-side URL fetches validated against an allowlist (no SSRF)
+- [ ] LLM/model output validated and encoded before use (if AI features present)

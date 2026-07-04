@@ -1,8 +1,11 @@
 ---
 name: ci-cd-and-automation
-description: "Automates CI/CD pipeline setup. Use when setting up or modifying build and deployment pipelines. Use when you need to automate quality gates, configure test runners in CI, or establish deployment s..."
+description: "CI/CD pipeline design and automation. Build, test, and deployment automation patterns."
 license: MIT
-tags: [devops]
+tags: [ci, cd, automation, pipeline]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # CI/CD and Automation

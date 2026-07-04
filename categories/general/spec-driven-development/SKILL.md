@@ -1,8 +1,11 @@
 ---
 name: spec-driven-development
-description: "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet. Use when requirements are unclear, ambiguous, or only exist as a vague ..."
+description: "Creates specs before coding. Use when starting a new project, feature, or significant change and no specification exists yet."
 license: MIT
-tags: [general]
+tags: [spec, planning, workflow, specification]
+domain: general
+version: 1.0
+author: graycode
 ---
 
 # Spec-Driven Development
@@ -56,20 +59,18 @@ Don't silently fill in ambiguous requirements. The spec's entire purpose is to s
 
 2. **Commands** — Full executable commands with flags, not just tool names.
    ```
-   Build: npm run build
-   Test: npm test -- --coverage
-   Lint: npm run lint --fix
-   Dev: npm run dev
+   Build: go build ./cmd/hawk
+   Test: go test -race ./...
+   Lint: go vet ./...
    ```
 
 3. **Project Structure** — Where source code lives, where tests go, where docs belong.
    ```
-   src/           → Application source code
-   src/components → React components
-   src/lib        → Shared utilities
-   tests/         → Unit and integration tests
-   e2e/           → End-to-end tests
-   docs/          → Documentation
+   cmd/              → CLI entry points
+   internal/         → Private packages
+   internal/engine/  → Agent loop, context management
+   internal/tool/    → Built-in tools
+   docs/             → Documentation
    ```
 
 4. **Code Style** — One real code snippet showing your style beats three paragraphs describing it. Include naming conventions, formatting rules, and examples of good output.
@@ -93,7 +94,7 @@ Don't silently fill in ambiguous requirements. The spec's entire purpose is to s
 [Framework, language, key dependencies with versions]
 
 ## Commands
-[Build, test, lint, dev — full commands]
+[Build, test, lint — full commands]
 
 ## Project Structure
 [Directory layout with descriptions]
@@ -140,6 +141,10 @@ With the validated spec, generate a technical implementation plan:
 4. Identify what can be built in parallel vs. what must be sequential
 5. Define verification checkpoints between phases
 
+> Follow `planning-and-task-breakdown` for the dependency-graph mapping and vertical-slicing mechanics behind these steps; it is the canonical source.
+>
+> **Output convention:** Save the plan to `tasks/plan.md` and the task list to `tasks/todo.md`, per the `/plan` command convention. Create `tasks/` if it does not exist.
+
 The plan should be reviewable: the human should be able to read it and say "yes, that's the right approach" or "no, change X."
 
 ### Phase 3: Tasks
@@ -152,6 +157,8 @@ Break the plan into discrete, implementable tasks:
 - Tasks are ordered by dependency, not by perceived importance
 - No task should require changing more than ~5 files
 
+> Follow `planning-and-task-breakdown` for the full task-sizing and dependency-ordering mechanics; it is the canonical source.
+
 **Task template:**
 ```markdown
 - [ ] Task: [Description]
@@ -162,7 +169,7 @@ Break the plan into discrete, implementable tasks:
 
 ### Phase 4: Implement
 
-Execute tasks one at a time following `incremental-implementation` and `test-driven-development` skills. Use `context-engineering` to load the right spec sections and source files at each step rather than flooding the agent with the entire spec.
+Execute tasks one at a time following `incremental-implementation` and `test-driven-development`.
 
 ## Keeping the Spec Alive
 
