@@ -2,6 +2,18 @@
 
 Community skill packages for hawk. Modular instruction packages that teach hawk specialized workflows.
 
+## Overview
+
+This repository contains 12,171+ skill Markdown files organized into 31 domain categories under `categories/`. Each skill is a `SKILL.md` file with YAML frontmatter. Skills are pure instructions (no executable code) that hawk loads into its system prompt when activated.
+
+## Design Principles
+
+- **Markdown-based** — each skill is a Markdown file with YAML frontmatter
+- **Zero code** — skills are pure instructions, not executable code
+- **Registry-driven** — skills are validated, indexed, and installable via `registry.json`
+- **Self-contained** — each skill directory contains everything needed for that skill
+- **Standardized** — consistent frontmatter schema and naming conventions across all skills
+
 ## Design Principles
 
 - **Markdown-based** — each skill is a markdown file with YAML frontmatter
@@ -15,28 +27,151 @@ pytest                           # Run tests
 pytest --cov --cov-report=term-missing  # Coverage
 ruff check .                     # Lint
 ruff format .                    # Format
-python scripts/validate_skills.py  # Validate all skills
-python scripts/update_registry.py  # Update skill registry
+python scripts/validate-skill-manifest.py  # Validate frontmatter
+python tools/update_registry.py   # Update skill registry
 ```
 
 ## Architecture
 
-- `skills/` — Skill markdown files organized by category
-- `registry.json` — Skill registry with metadata
-- `scripts/validate_skills.py` — Skill validation (frontmatter, refs)
-- `scripts/update_registry.py` — Registry update script
-- `tests/` — Test suite for validation and registry tools
-- `.cursor-plugin/` — Cursor plugin integration
+- `categories/` — Skill Markdown files organized by domain (31 categories, 12,171+ skills total)
+- `registry.json` — Searchable skill registry with metadata, generated from frontmatter
+- `manifest-schema.toml` — Frontmatter schema definition (TOML, enforced by `scripts/validate-skill-manifest.py`)
+- `tools/` — Validation, scaffolding, and registry tooling (Python scripts using `rich` for output)
+- `tests/` — Test suite for validation and tooling (`tests/test_*.py`, pytest)
+- `plans/` — Feature specifications and skill proposal templates
+- `scripts/` — Shell scripts for build and deployment
+- `deploy/` — Deployment configuration
+- `api/` — API endpoints
+- `docs/` — Project documentation
+- `.github/` — CI/CD workflows, issue templates, CODEOWNERS, PR templates
+- `.cursor-plugin/`, `.codex-plugin/`, `.claude-plugin/` — Editor plugin integrations
 
 ## Conventions
 
-- Python 3.10+
-- `ruff` for linting and formatting
-- Conventional Commits: `feat:`, `fix:`, `docs:`, `refactor:`, `test:`
-- No `Co-authored-by:` trailers
-- Skill frontmatter must include: name, description, version, author
-- Path traversal protection enforced in skill loading
-- Prompt injection detection in skill content
+### Git & Commits
+
+- **Conventional Commits**: `feat:`, `fix:`, `docs:`, `refactor:`, `test:`, `chore:`
+- **Commit scope**: use `categories/`, `tools/`, `tests/`, or `manifest-schema.toml` as scope when applicable (e.g., `feat(categories): add react skill`)
+- **No `Co-authored-by:` trailers** — this repo follows a specific attribution pattern via the `author` field in frontmatter
+- **Branch naming**: `feat/description` or `fix/description`
+
+### Python Tooling
+
+- **Python 3.10+** — the oldest supported version
+- **`ruff`** for linting (`ruff check .`) and formatting (`ruff format .`)
+- **Test files**: `tests/test_<tool-name>.py` matching the tool under test
+- **Fixtures**: use `tmp_path` (pytest built-in) for isolated temporary directories
+- **Module imports**: add `tools/` to `sys.path` via `sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))`
+
+### Frontmatter Standards
+
+- **Required fields**: `name`, `description`, `license`, `tags`, `version`, `author`
+- **Optional fields**: `domain`, `subdomain`, `phase`, `tools_required`, `min_model`, `context_tokens`, `maintainers`, `tested_on`, `deprecated`, `superseded_by`
+- **Tags**: 1-12 items, lowercase kebab-case, regex `^[a-z][a-z0-9]*(-[a-z0-9]+)*$`
+- **Name**: must match the directory name exactly (lowercase kebab-case)
+- **Description**: one-sentence summary, max 280 chars
+- **License**: OSI-approved (MIT, Apache-2.0, GPL-3.0, BSD-2-Clause, BSD-3-Clause, etc.)
+- **YAML parsing**: always use `parse_frontmatter()` from `tools/frontmatter.py` — never reimplement
+
+### Validation Rules
+
+The validation pipeline (`tools/validate_skill.py`) runs these checks in order:
+
+1. `SKILL.md` exists and is valid UTF-8
+2. Frontmatter is present and parseable
+3. Required fields present: `name`, `description`, `license`
+4. Description under 280 chars (warning at 200)
+5. Tags: 1-12 items, lowercase kebab-case regex
+6. `name` matches directory name
+7. Internal markdown links resolve within skill directory (path traversal detection)
+8. Scripts have shebang lines and executable bits
+9. No non-asset files exceed 100KB
+
+### Skill Body Standards
+
+- Pure Markdown (no executable code)
+- Use clear section headers: `## Overview`, `## Prerequisites`, `## Instructions`, `## References`
+- Include code examples with language identifiers in fenced code blocks
+- Keep descriptions actionable and opinionated
+- Include a `## Verification` section when the skill describes a process
+
+### Registry Rules
+
+- `registry.json` is auto-generated by `tools/update_registry.py`
+- Duplicate `name` values are silently skipped (first occurrence wins)
+- Descriptions are truncated to 200 chars in the registry
+- Empty tags get a default from the category name
+
+### Testing Patterns
+
+- **Monkeypatching**: `TestFindAllSkills` temporarily replaces `vs.CATEGORIES_DIR` to test against a temp directory, restoring the original in a `finally` block
+- **Parametrized tests**: use `@pytest.mark.parametrize` for testing valid/invalid patterns
+- **Isolation**: use `tmp_path` fixtures for creating isolated skill directories in tests
+
+### Naming Conventions
+
+| Element | Convention |
+|---------|-----------|
+| Skill directories | lowercase kebab-case, must match frontmatter `name` field |
+| Category directories | lowercase, under `categories/` |
+| Tag names | lowercase kebab-case, regex `^[a-z][a-z0-9]*(-[a-z0-9]+)*$` |
+| Registry entries | camelCase for metadata fields (`isFeatured`, `isCurated`, `downloadCount`) |
+| Test files | `test_` prefix matching the tool under test |
+| Tool scripts | descriptive names in `tools/` |
+
+## Architecture Notes
+
+### Category Structure
+
+Skills are organized into domain categories under `categories/`:
+
+```
+categories/
+├── general/                   # 9,845 skills (framework-agnostic)
+├── cursor-rules/              # 776 skills (Cursor Modular Design Coding)
+├── security/                  # 258 skills (cybersecurity)
+├── testing/                   # 143 skills (quality assurance)
+├── react/                     # 166 skills (React ecosystem)
+├── python/                    # 143 skills (Python ecosystem)
+├── typescript/                # 143 skills (TypeScript ecosystem)
+├── aws/                       # 131 skills (cloud)
+├── scientific/                # 132 skills (scientific computing)
+├── fabric-patterns/           # 170 skills (architecture patterns)
+├── database/                  # 32 skills (databases)
+├── mobile/                    # 41 skills (mobile)
+├── devops/                    # 48 skills (DevOps)
+├── svelte/                    # 29 skills (Svelte)
+├── tailwind/                  # 31 skills (Tailwind CSS)
+├── vue/                       # 21 skills (Vue.js)
+├── go/                        # 17 skills (Go)
+├── angular/                   # 10 skills (Angular)
+├── rust/                      # 23 skills (Rust)
+├── git/                       # 12 skills (Git workflows)
+├── debugging/                 # 4 skills (debugging)
+├── deployment/                # 4 skills (deployment)
+├── documentation/              # 4 skills (docs)
+├── networking/                # 3 skills (networking)
+├── refactoring/               # 4 skills (refactoring)
+└── caveman/                   # 9 skills (development workflows)
+```
+
+### Cross-Category Skills
+
+Some skills appear in multiple categories with the same frontmatter `name` but different body content. For example, `debugging-and-error-recovery` exists in both `categories/general/` and `categories/debugging/`. These are intentional cross-references where the same skill concept applies to different domain contexts. When updating these, update all copies.
+
+### Cursor Rules Category
+
+The `cursor-rules` category (776 skills) contains skills with shared base names like `mdc-react`, `mdc-solidjs`, `mdc-chakra-ui`, etc. These represent Cursor Modular Design Coding (mdc) conventions that are extended with technology-specific suffixes. For example:
+
+```
+categories/cursor-rules/
+├── mdc-react/SKILL.md                          # React mdc rules
+├── mdc-react---typescript---general-preferences/SKILL.md  # React mdc + TypeScript
+├── mdc-solidjs/SKILL.md                        # SolidJS mdc rules
+└── mdc-solidjs---complex-state-management/SKILL.md
+```
+
+The shared `name` prefix (e.g., `mdc-react`) is intentional and groups related sub-skills within the same category.
 
 ## Common Pitfalls
 
@@ -127,11 +262,13 @@ def test_valid_tags(self, tag: str):
 |------|-------|
 | Skill directories | `categories/<category>/<skill-name>/SKILL.md` |
 | Frontmatter parser | `tools/frontmatter.py` |
+| Frontmatter schema | `manifest-schema.toml` (for validation rules) |
 | Skill validator | `tools/validate_skill.py` |
 | Registry generator | `tools/update_registry.py` |
 | Skill initializer | `tools/init_skill.py` |
 | Content validation | `tools/content_validation.py` |
 | Reference/self-contained checks | `tools/check_references.py`, `tools/check_self_contained.py` |
+| Secret scanning | `tools/check_secrets.py` |
 | Version management | `tools/bump_version.py`, `tools/check_version_sync.py` |
 | Marketplace sync | `tools/sync_marketplace.py` |
 | Skill registry | `registry.json` |

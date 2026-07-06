@@ -2,21 +2,40 @@
 
 ## Reporting a Vulnerability
 
-**Do not open a public GitHub issue for security vulnerabilities.**
+Please report security vulnerabilities to security@graycode.ai. We handle all reports in confidence.
 
-Instead:
+## Security Update Process
 
-1. Open a private [GitHub Security Advisory](https://github.com/GrayCodeAI/hawk-community-skills/security/advisories/new), **or**
-2. Email `security@graycode.ai`
+1. Reports are acknowledged within 48 hours
+2. We assess the vulnerability and determine the scope
+3. We develop a fix and coordinate disclosure
+4. A security advisory is published when the fix is released
 
-Please include:
-- Description of the issue
-- Steps to reproduce
-- Affected skill or tool (if applicable)
-- Your recommended mitigation (if any)
+## Supported Versions
 
-We aim to acknowledge reports within 48 hours.
+| Version | Supported |
+|---------|-----------|
+| Current stable | Yes |
+| Previous stable | Security patches only |
+| Development | No |
 
-## Scope
+## Security Considerations
 
-This policy covers the skill registry, validation tools, and the `hawk-community-skills` package itself.
+- Dependencies are audited regularly using pip-audit for Python and govulncheck for Go
+- All dependency updates follow the project's dependency management policy
+- Backwards compatibility is maintained for security fixes where possible
+
+## Security Tools
+
+This project uses the following tools for security:
+- pip-audit (Python dependency vulnerability scanning)
+- govulncheck (Go dependency vulnerability scanning)
+- ruff / gofumpt (static analysis and formatting)
+- Trivy (container and filesystem vulnerability scanning)
+
+## Responsible Disclosure
+
+We follow responsible disclosure principles:
+- Provide reasonable time for the project to address the vulnerability before public disclosure
+- Do not exploit the vulnerability beyond what is necessary to demonstrate it
+- Refrain from disclosing details that could enable widespread exploitation before a fix is available
