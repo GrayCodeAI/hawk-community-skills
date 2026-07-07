@@ -5,12 +5,9 @@ from __future__ import annotations
 import sys
 from pathlib import Path
 
-import pytest
-
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from frontmatter import parse_frontmatter, parse_frontmatter_dict
-
 
 # ---------------------------------------------------------------------------
 # parse_frontmatter
@@ -19,7 +16,9 @@ from frontmatter import parse_frontmatter, parse_frontmatter_dict
 
 class TestParseFrontmatter:
     def test_valid_frontmatter(self):
-        content = "---\nname: my-skill\ndescription: A useful skill\nlicense: MIT\n---\n\nBody text here."
+        content = (
+            "---\nname: my-skill\ndescription: A useful skill\nlicense: MIT\n---\n\nBody text here."
+        )
         fm, body = parse_frontmatter(content)
         assert fm == {"name": "my-skill", "description": "A useful skill", "license": "MIT"}
         assert "Body text here." in body

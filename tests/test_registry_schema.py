@@ -6,19 +6,14 @@ import json
 import sys
 from pathlib import Path
 
-import pytest
-
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from registry_schema import (
     SchemaError,
+    load_and_validate_registry,
     validate_registry,
     validate_registry_entry,
-    load_and_validate_registry,
-    REGISTRY_ENTRY_SCHEMA,
-    REGISTRY_SCHEMA,
 )
-
 
 # ---------------------------------------------------------------------------
 # SchemaError

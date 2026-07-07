@@ -19,6 +19,13 @@ REGISTRY_ENTRY_SCHEMA: dict[str, Any] = {
         "name": {
             "type": "string",
             "minLength": 1,
+            "maxLength": 120,
+            # Deliberately permissive (existing entries use snake_case and
+            # mixed case), but forbids path separators and whitespace so a
+            # malicious or malformed name can never be used to escape a
+            # filesystem path built from it downstream (e.g. package
+            # archive naming).
+            "pattern": r"^[^/\\\s]+$",
             "description": "Human-readable skill name",
         },
         "description": {
@@ -204,7 +211,9 @@ def validate_registry(data: Any) -> list[SchemaError]:
     return _validate_value(data, REGISTRY_SCHEMA, "$")
 
 
-def load_and_validate_registry(registry_path: Path | None = None) -> tuple[list[dict] | None, list[SchemaError]]:
+def load_and_validate_registry(
+    registry_path: Path | None = None,
+) -> tuple[list[dict] | None, list[SchemaError]]:
     """Load registry.json and validate it. Returns (data_or_None, errors)."""
     path = registry_path or REGISTRY_PATH
     try:

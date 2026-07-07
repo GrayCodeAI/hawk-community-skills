@@ -1,11 +1,8 @@
 """Tests for scripts/validate-skill-manifest.py manifest schema validation."""
 
 import importlib.util
-import sys
 import textwrap
 from pathlib import Path
-
-import pytest
 
 # Load the validator from its hyphenated filename — not importable as a module name.
 _script = Path(__file__).parent.parent / "scripts" / "validate-skill-manifest.py"

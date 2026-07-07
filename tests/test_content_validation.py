@@ -11,19 +11,15 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from content_validation import (
+    REQUIRED_SECTIONS,
+    VALID_LICENSES,
     BodyValidationResult,
-    check_prompt_injection,
-    parse_frontmatter,
     _extract_headings,
     _section_display,
     _strip_comments_and_whitespace,
+    parse_frontmatter,
     validate_content_body,
-    REQUIRED_SECTIONS,
-    RECOMMENDED_SECTIONS,
-    VALID_LICENSES,
-    MIN_BODY_LENGTH,
 )
-
 
 # ---------------------------------------------------------------------------
 # Fixtures
@@ -624,7 +620,6 @@ class TestPromptInjection:
 
 class TestSectionDisplay:
     def test_known_sections(self):
-        from content_validation import _section_display
 
         assert _section_display("overview") == "Overview"
         assert _section_display("instructions") == "Instructions"
@@ -632,6 +627,5 @@ class TestSectionDisplay:
         assert _section_display("references") == "References"
 
     def test_unknown_section_titlecased(self):
-        from content_validation import _section_display
 
         assert _section_display("custom section") == "Custom Section"

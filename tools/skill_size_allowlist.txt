@@ -1,6 +1,6 @@
 # Grandfathered skills whose SKILL.md exceeds the 500KB hard limit.
 # These predate the limit (introduced 2026-06) and only produce a warning.
-# Do NOT add new entries — shrink the skill instead. See FOLLOWUP.md.
+# Do NOT add new entries — shrink the skill instead.
 categories/general/bpl-txt-all-in-pod-1-18
 categories/general/bpl-txt-all-in-pod-100-113
 categories/general/bpl-txt-all-in-pod-114-127

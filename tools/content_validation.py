@@ -32,6 +32,8 @@ _SECTION_DISPLAY: dict[str, str] = {
 def _section_display(name: str) -> str:
     """Return a nicely formatted display name for a section heading."""
     return _SECTION_DISPLAY.get(name, name.title())
+
+
 VALID_LICENSES = {"MIT", "Apache-2.0", "GPL-3.0", "BSD-3-Clause", "CC-BY-4.0", "Unlicense"}
 MIN_BODY_LENGTH = 50  # characters of real content (after stripping whitespace/comments)
 
@@ -59,9 +61,7 @@ PROMPT_INJECTION_PATTERNS = [
     r"jailbreak",
 ]
 
-_injection_re = re.compile(
-    "|".join(PROMPT_INJECTION_PATTERNS), re.IGNORECASE | re.MULTILINE
-)
+_injection_re = re.compile("|".join(PROMPT_INJECTION_PATTERNS), re.IGNORECASE | re.MULTILINE)
 
 
 def check_prompt_injection(content: str, result: BodyValidationResult) -> None:

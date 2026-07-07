@@ -5,7 +5,6 @@ from __future__ import annotations
 import json
 import sys
 from pathlib import Path
-from types import ModuleType
 from typing import Any
 
 import pytest
@@ -22,11 +21,9 @@ if TOOLS_DIR not in sys.path:
 # the interface the code now uses.
 # ---------------------------------------------------------------------------
 
-import importlib
-import types
 
 # Import the module fresh so we can patch its parse_frontmatter reference.
-import update_registry as _mod
+import update_registry as _mod  # noqa: E402
 
 
 def _make_parse_frontmatter_return_tuple(content: str) -> tuple[dict[str, Any] | None, str]:
@@ -213,12 +210,7 @@ class TestSkillRegistration:
         cats = tmp_path / "categories"
         monkeypatch.setattr(_mod, "CATEGORIES_DIR", cats)
 
-        fm = (
-            "---\n"
-            "name: custom-name\n"
-            'description: "Some desc"\n'
-            "---\n"
-        )
+        fm = '---\nname: custom-name\ndescription: "Some desc"\n---\n'
         _write_skill(tmp_path, "cat", "dir-name", frontmatter=fm)
 
         entries = _mod.build_registry()
@@ -248,20 +240,11 @@ class TestSkillRegistration:
         entries = _mod.build_registry()
         assert len(entries[0]["description"]) <= 200
 
-    def test_multiline_description_collapsed(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_multiline_description_collapsed(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         cats = tmp_path / "categories"
         monkeypatch.setattr(_mod, "CATEGORIES_DIR", cats)
 
-        fm = (
-            "---\n"
-            "name: multi\n"
-            'description: "line one\n'
-            "line two\n"
-            'line three"\n'
-            "---\n"
-        )
+        fm = '---\nname: multi\ndescription: "line one\nline two\nline three"\n---\n'
         _write_skill(tmp_path, "cat", "multi-skill", frontmatter=fm)
 
         entries = _mod.build_registry()
@@ -334,9 +317,7 @@ class TestSkillRegistration:
 
 
 class TestTagGeneration:
-    def test_empty_tags_get_category_default(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_empty_tags_get_category_default(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         cats = tmp_path / "categories"
         monkeypatch.setattr(_mod, "CATEGORIES_DIR", cats)
 
@@ -382,7 +363,7 @@ class TestTagGeneration:
         monkeypatch.setattr(_mod, "CATEGORIES_DIR", cats)
 
         # tags: "  ,  , "  -- commas with only whitespace => no real tags
-        fm = "---\nname: whitespace\ntags: \"  ,  , \"\n---\n"
+        fm = '---\nname: whitespace\ntags: "  ,  , "\n---\n'
         _write_skill(tmp_path, "my-cat", "ws-tags", frontmatter=fm)
 
         entries = _mod.build_registry()
@@ -480,9 +461,7 @@ class TestValidation:
         entries = _mod.build_registry()
         assert entries == []
 
-    def test_valid_and_invalid_skills_mixed(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_valid_and_invalid_skills_mixed(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         cats = tmp_path / "categories"
         monkeypatch.setattr(_mod, "CATEGORIES_DIR", cats)
 
@@ -598,9 +577,7 @@ class TestMain:
             _mod.main()
         assert exc_info.value.code == 0
 
-    def test_main_writes_registry_json(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_main_writes_registry_json(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         """main() should write a valid JSON file with skill entries."""
         self._patch_paths(tmp_path, monkeypatch)
 
@@ -615,9 +592,7 @@ class TestMain:
         assert len(data) == 1
         assert data[0]["name"] == "test-skill"
 
-    def test_main_registry_ends_with_newline(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_main_registry_ends_with_newline(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         """The written JSON file should end with a trailing newline."""
         self._patch_paths(tmp_path, monkeypatch)
 
@@ -628,9 +603,7 @@ class TestMain:
         content = (tmp_path / "registry.json").read_text(encoding="utf-8")
         assert content.endswith("\n")
 
-    def test_main_json_is_pretty_printed(
-        self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch
-    ):
+    def test_main_json_is_pretty_printed(self, tmp_path: Path, monkeypatch: pytest.MonkeyPatch):
         """The written JSON should be indented (pretty-printed)."""
         self._patch_paths(tmp_path, monkeypatch)
 

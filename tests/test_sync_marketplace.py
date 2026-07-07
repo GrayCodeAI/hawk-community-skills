@@ -14,7 +14,6 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
 from sync_marketplace import extract_frontmatter, main
 
-
 # ---------------------------------------------------------------------------
 # Fixtures
 # ---------------------------------------------------------------------------
@@ -118,9 +117,11 @@ class TestMain:
             """),
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -145,9 +146,11 @@ class TestMain:
             "---\nname: skill-b\ndescription: B\ninvoke: /hawk:b\n---\n\nBody.\n",
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -164,9 +167,11 @@ class TestMain:
         _create_skill(repo, "z-cat", "aaa-skill", "---\nname: aaa-skill\n---\n\nBody.\n")
         _create_skill(repo, "a-cat", "zzz-skill", "---\nname: zzz-skill\n---\n\nBody.\n")
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -184,9 +189,11 @@ class TestMain:
             "---\nname: my-tool\ndescription: A tool\n---\n\nBody.\n",
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -203,9 +210,11 @@ class TestMain:
             "---\nname: custom-name\ndescription: X\n---\n\nBody.\n",
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -222,9 +231,11 @@ class TestMain:
             "---\ndescription: X\n---\n\nBody.\n",
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -239,9 +250,11 @@ class TestMain:
         skill_dir.mkdir(parents=True)
         (skill_dir / "README.md").write_text("Not a skill.\n", encoding="utf-8")
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -260,9 +273,11 @@ class TestMain:
             "---\nname: real-skill\n---\n\nBody.\n",
         )
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())
@@ -274,9 +289,11 @@ class TestMain:
         """With no skills, the marketplace should have an empty skills array."""
         repo, marketplace = marketplace_env
 
-        with patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"), \
-             patch("sync_marketplace.MARKETPLACE", marketplace), \
-             patch("sync_marketplace.REPO_ROOT", repo):
+        with (
+            patch("sync_marketplace.CATEGORIES_DIR", repo / "categories"),
+            patch("sync_marketplace.MARKETPLACE", marketplace),
+            patch("sync_marketplace.REPO_ROOT", repo),
+        ):
             main()
 
         data = json.loads(marketplace.read_text())

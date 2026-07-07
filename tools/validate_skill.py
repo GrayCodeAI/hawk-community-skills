@@ -17,6 +17,7 @@ except ImportError:
 # Add tools directory to path for shared imports
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from frontmatter import parse_frontmatter
+from skill_discovery import iter_skills
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
@@ -30,7 +31,7 @@ MAX_FILE_SIZE = 100 * 1024  # 100KB — warning threshold
 MAX_SKILL_MD_SIZE = 500 * 1024  # 500KB — error threshold
 # Pre-existing oversized SKILL.md files are grandfathered (warning only) so
 # the new error does not break CI on the existing corpus. Do not add new
-# entries; shrink these skills instead (see FOLLOWUP.md).
+# entries; shrink these skills instead.
 SIZE_ALLOWLIST_PATH = Path(__file__).resolve().parent / "skill_size_allowlist.txt"
 ASSET_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".svg", ".webp", ".ico", ".pdf"}
 TAG_PATTERN = re.compile(r"^[a-z][a-z0-9]*(-[a-z0-9]+)*$")
@@ -47,11 +48,7 @@ def load_size_allowlist(path: Path = SIZE_ALLOWLIST_PATH) -> set:
         lines = path.read_text(encoding="utf-8").splitlines()
     except OSError:
         return set()
-    return {
-        line.strip()
-        for line in lines
-        if line.strip() and not line.strip().startswith("#")
-    }
+    return {line.strip() for line in lines if line.strip() and not line.strip().startswith("#")}
 
 
 class ValidationResult:
@@ -123,7 +120,9 @@ def validate_skill(skill_path: Path) -> ValidationResult:
             elif tag.strip() == "":
                 result.error("Tags must not be empty strings")
             elif not TAG_PATTERN.match(tag):
-                result.error(f"Tag '{tag}' is invalid: must be lowercase alphanumeric with hyphens (e.g. 'my-tag')")
+                result.error(
+                    f"Tag '{tag}' is invalid: must be lowercase alphanumeric with hyphens (e.g. 'my-tag')"
+                )
 
     # Check name matches directory
     fm_name = frontmatter.get("name", "")
@@ -131,7 +130,7 @@ def validate_skill(skill_path: Path) -> ValidationResult:
         result.error(f"Frontmatter name '{fm_name}' does not match directory name '{skill_name}'")
 
     # Check for broken internal references (relative links in markdown)
-    link_pattern = re.compile(r'\[([^\]]*)\]\(([^)]+)\)')
+    link_pattern = re.compile(r"\[([^\]]*)\]\(([^)]+)\)")
     for match in link_pattern.finditer(content):
         link_text, link_target = match.groups()
         # Skip external URLs
@@ -140,7 +139,9 @@ def validate_skill(skill_path: Path) -> ValidationResult:
         # Resolve relative path
         target_path = (skill_path / link_target).resolve()
         if not target_path.is_relative_to(skill_path.resolve()):
-            result.warn(f"Path traversal detected: [{link_text}]({link_target}) resolves outside skill directory")
+            result.warn(
+                f"Path traversal detected: [{link_text}]({link_target}) resolves outside skill directory"
+            )
         elif not target_path.exists():
             result.warn(f"Broken internal reference: [{link_text}]({link_target})")
 
@@ -191,15 +192,7 @@ def validate_skill(skill_path: Path) -> ValidationResult:
 
 def find_all_skills() -> list[Path]:
     """Find all skill directories under categories/."""
-    skills = []
-    if not CATEGORIES_DIR.exists():
-        return skills
-    for category_dir in sorted(CATEGORIES_DIR.iterdir()):
-        if category_dir.is_dir():
-            for skill_dir in sorted(category_dir.iterdir()):
-                if skill_dir.is_dir() and (skill_dir / "SKILL.md").exists():
-                    skills.append(skill_dir)
-    return skills
+    return list(iter_skills(CATEGORIES_DIR))
 
 
 def main():
@@ -246,7 +239,11 @@ def main():
             failed += 1
             status = "[red]FAIL[/red]"
 
-        rel_path = str(skill_path.relative_to(REPO_ROOT)) if str(skill_path).startswith(str(REPO_ROOT)) else skill_path.name
+        rel_path = (
+            str(skill_path.relative_to(REPO_ROOT))
+            if str(skill_path).startswith(str(REPO_ROOT))
+            else skill_path.name
+        )
         table.add_row(
             rel_path,
             status,

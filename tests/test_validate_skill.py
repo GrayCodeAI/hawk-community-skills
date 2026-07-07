@@ -2,26 +2,22 @@
 
 from __future__ import annotations
 
+# Add tools/ to path so we can import the module under test
+import sys
 import textwrap
 from pathlib import Path
 
 import pytest
 
-# Add tools/ to path so we can import the module under test
-import sys
-
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
-from validate_skill import (
-    ValidationResult,
-    validate_skill,
-    find_all_skills,
-    REQUIRED_FIELDS,
-    MAX_DESCRIPTION_LEN,
-    TAG_PATTERN,
-)
 from frontmatter import parse_frontmatter
-
+from validate_skill import (
+    TAG_PATTERN,
+    ValidationResult,
+    find_all_skills,
+    validate_skill,
+)
 
 # ---------------------------------------------------------------------------
 # Fixtures
@@ -140,7 +136,9 @@ class TestValidateSkill:
     def test_no_frontmatter(self, tmp_path: Path):
         d = tmp_path / "no-fm"
         d.mkdir()
-        (d / "SKILL.md").write_text("# Just a heading\n\nSome body text without frontmatter.\n", encoding="utf-8")
+        (d / "SKILL.md").write_text(
+            "# Just a heading\n\nSome body text without frontmatter.\n", encoding="utf-8"
+        )
         result = validate_skill(d)
         assert result.passed is False
         assert any("no valid YAML frontmatter" in e for e in result.errors)
@@ -148,9 +146,7 @@ class TestValidateSkill:
     def test_missing_required_fields(self, tmp_path: Path):
         d = tmp_path / "missing-fields"
         d.mkdir()
-        (d / "SKILL.md").write_text(
-            "---\nname: missing-fields\n---\n\nBody\n", encoding="utf-8"
-        )
+        (d / "SKILL.md").write_text("---\nname: missing-fields\n---\n\nBody\n", encoding="utf-8")
         result = validate_skill(d)
         assert result.passed is False
         error_text = " ".join(result.errors)

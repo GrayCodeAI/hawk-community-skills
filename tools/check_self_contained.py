@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Ensure no skill uses ../ parent references — skills must be portable."""
+
 import re
 import sys
 from pathlib import Path
@@ -9,9 +10,11 @@ CATEGORIES_DIR = REPO_ROOT / "categories"
 
 _CODE_BLOCK_RE = re.compile(r"```[\s\S]*?```")
 
+
 def _content_outside_code_blocks(content: str) -> str:
     """Return file content with code blocks removed, to check only prose for ../."""
     return _CODE_BLOCK_RE.sub("", content)
+
 
 def main():
     violations = []
@@ -33,6 +36,7 @@ def main():
             print(f"  - {v}")
         sys.exit(1)
     print("✓ All skills are self-contained")
+
 
 if __name__ == "__main__":
     main()

@@ -16,6 +16,7 @@ except ImportError:
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from frontmatter import parse_frontmatter
 from registry_schema import validate_registry_entry
+from skill_discovery import iter_skills
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
@@ -62,75 +63,65 @@ def _build_registry_with_duplicates() -> tuple[list[dict], list[tuple[str, str, 
         console.print("[yellow]No categories/ directory found[/yellow]")
         return entries, duplicates
 
-    for category_dir in sorted(CATEGORIES_DIR.iterdir()):
-        if not category_dir.is_dir():
+    for skill_dir in iter_skills(CATEGORIES_DIR):
+        category_name = skill_dir.parent.name
+        skill_md = skill_dir / "SKILL.md"
+
+        try:
+            content = skill_md.read_text(encoding="utf-8")
+        except (UnicodeDecodeError, OSError) as exc:
+            print(
+                f"⚠ Skipping unreadable skill {_display_path(skill_md)}: {exc}",
+                file=sys.stderr,
+            )
             continue
-        category_name = category_dir.name
+        frontmatter, _ = parse_frontmatter(content)
 
-        for skill_dir in sorted(category_dir.iterdir()):
-            if not skill_dir.is_dir():
-                continue
+        if frontmatter is None:
+            continue
 
-            skill_md = skill_dir / "SKILL.md"
-            if not skill_md.exists():
-                continue
+        # Keep frontmatter `name` precedence for compatibility with
+        # registry consumers and existing tests, but warn on mismatch so
+        # drift is still visible.
+        fm_name = frontmatter.get("name")
+        if fm_name and fm_name != skill_dir.name:
+            print(
+                f"⚠ {_display_path(skill_md)}: frontmatter name "
+                f"'{fm_name}' does not match directory name "
+                f"'{skill_dir.name}'; using frontmatter name",
+                file=sys.stderr,
+            )
+        name = fm_name or skill_dir.name
+        description = frontmatter.get("description", "")
+        # Truncate multi-line descriptions for registry
+        if isinstance(description, str):
+            description = " ".join(description.split())[:200]
 
-            try:
-                content = skill_md.read_text(encoding="utf-8")
-            except (UnicodeDecodeError, OSError) as exc:
-                print(
-                    f"⚠ Skipping unreadable skill "
-                    f"{_display_path(skill_md)}: {exc}",
-                    file=sys.stderr,
-                )
-                continue
-            frontmatter, _ = parse_frontmatter(content)
+        tags = frontmatter.get("tags", [])
+        if isinstance(tags, str):
+            tags = [t.strip() for t in tags.split(",") if t.strip()]
+        # Generate a default tag from category if tags are empty
+        if not tags:
+            tags = [category_name.lower().replace(" ", "-")]
 
-            if frontmatter is None:
-                continue
+        path = f"categories/{category_name}/{skill_dir.name}"
 
-            # Keep frontmatter `name` precedence for compatibility with
-            # registry consumers and existing tests, but warn on mismatch so
-            # drift is still visible.
-            fm_name = frontmatter.get("name")
-            if fm_name and fm_name != skill_dir.name:
-                print(
-                    f"⚠ {_display_path(skill_md)}: frontmatter name "
-                    f"'{fm_name}' does not match directory name "
-                    f"'{skill_dir.name}'; using frontmatter name",
-                    file=sys.stderr,
-                )
-            name = fm_name or skill_dir.name
-            description = frontmatter.get("description", "")
-            # Truncate multi-line descriptions for registry
-            if isinstance(description, str):
-                description = " ".join(description.split())[:200]
+        # Skip duplicate names (keep first occurrence), but record them
+        if name in seen_names:
+            duplicates.append((name, seen_names[name], path))
+            continue
+        seen_names[name] = path
 
-            tags = frontmatter.get("tags", [])
-            if isinstance(tags, str):
-                tags = [t.strip() for t in tags.split(",") if t.strip()]
-            # Generate a default tag from category if tags are empty
-            if not tags:
-                tags = [category_name.lower().replace(" ", "-")]
-
-            path = f"categories/{category_name}/{skill_dir.name}"
-
-            # Skip duplicate names (keep first occurrence), but record them
-            if name in seen_names:
-                duplicates.append((name, seen_names[name], path))
-                continue
-            seen_names[name] = path
-
-            entry = {
-                "name": name,
-                "description": description,
-                "category": category_name,
-                "tags": tags,
-                "path": path,
-                "file_count": count_files(skill_dir),
-                "has_scripts": has_scripts_dir(skill_dir),
-            }
-            entries.append(entry)
+        entry = {
+            "name": name,
+            "description": description,
+            "category": category_name,
+            "tags": tags,
+            "path": path,
+            "file_count": count_files(skill_dir),
+            "has_scripts": has_scripts_dir(skill_dir),
+        }
+        entries.append(entry)
 
     # Sort alphabetically by name
     entries.sort(key=lambda e: e["name"].lower())
@@ -148,8 +139,7 @@ def report_duplicates(duplicates: list[tuple[str, str, str]]) -> None:
     if not duplicates:
         return
     print(
-        f"⚠ {len(duplicates)} duplicate skill name(s) skipped "
-        "(first occurrence wins):",
+        f"⚠ {len(duplicates)} duplicate skill name(s) skipped (first occurrence wins):",
         file=sys.stderr,
     )
     for name, won, lost in duplicates:
@@ -176,6 +166,17 @@ def main():
     if not entries:
         console.print("[yellow]No valid skills found.[/yellow]")
         sys.exit(0)
+
+    # Duplicate skill names are a registry-integrity failure (name-squatting,
+    # or two contributions silently colliding): fail the build instead of
+    # silently picking a winner.
+    if duplicates:
+        console.print(
+            f"[bold red]{len(duplicates)} duplicate skill name(s) found; "
+            f"registry.json not written:[/bold red]"
+        )
+        report_duplicates(duplicates)
+        sys.exit(1)
 
     # Enforce the registry schema before writing anything
     violations = validate_entries(entries)
@@ -206,8 +207,6 @@ def main():
     console.print("\n[bold]By category:[/bold]")
     for cat in sorted(categories):
         console.print(f"  {cat}: {categories[cat]}")
-
-    report_duplicates(duplicates)
 
 
 if __name__ == "__main__":
