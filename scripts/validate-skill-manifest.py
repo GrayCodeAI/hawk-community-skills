@@ -13,7 +13,7 @@ from __future__ import annotations
 import re
 import sys
 from pathlib import Path
-from typing import Any, Dict, List, Optional, Tuple
+from typing import Any
 
 try:
     import yaml
@@ -27,13 +27,24 @@ ROOT = Path(__file__).parent.parent
 REQUIRED = {"name", "description", "version", "author", "license", "domain", "tags"}
 
 DOMAIN_ENUM = {
-    "coding", "cybersecurity", "data-science", "devops",
-    "documentation", "research", "testing", "other",
+    "coding",
+    "cybersecurity",
+    "data-science",
+    "devops",
+    "documentation",
+    "research",
+    "testing",
+    "other",
 }
 
 LICENSE_ENUM = {
-    "MIT", "Apache-2.0", "GPL-3.0", "BSD-2-Clause",
-    "BSD-3-Clause", "CC0-1.0", "MPL-2.0",
+    "MIT",
+    "Apache-2.0",
+    "GPL-3.0",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "CC0-1.0",
+    "MPL-2.0",
 }
 
 PHASE_ENUM = {"localize", "repair", "validate", "review", "planning", "any"}
@@ -44,7 +55,7 @@ NAME_RE = re.compile(r"^[a-z0-9][a-z0-9-]{2,79}$")
 VERSION_RE = re.compile(r"^\d+\.\d+(\.\d+)?$")
 
 
-def parse_frontmatter(path: Path) -> Tuple[Optional[Dict[str, Any]], str]:
+def parse_frontmatter(path: Path) -> tuple[dict[str, Any] | None, str]:
     """Extract YAML frontmatter from a Markdown file.
 
     Returns (parsed_dict, error_message). On success error_message is empty.
@@ -64,9 +75,9 @@ def parse_frontmatter(path: Path) -> Tuple[Optional[Dict[str, Any]], str]:
     return data, ""
 
 
-def validate(data: Dict[str, Any], path: Path) -> List[str]:
+def validate(data: dict[str, Any], path: Path) -> list[str]:
     """Return a list of validation error messages, or an empty list if valid."""
-    errors: List[str] = []
+    errors: list[str] = []
 
     # Required fields
     for field in REQUIRED:
@@ -110,14 +121,13 @@ def validate(data: Dict[str, Any], path: Path) -> List[str]:
         errors.append(f"min_model {min_model!r} not in {sorted(MODEL_ENUM)}")
 
     ctx = data.get("context_tokens")
-    if ctx is not None:
-        if not isinstance(ctx, int) or ctx < 256 or ctx > 200_000:
-            errors.append(f"context_tokens must be an integer in [256, 200000], got {ctx!r}")
+    if ctx is not None and (not isinstance(ctx, int) or ctx < 256 or ctx > 200_000):
+        errors.append(f"context_tokens must be an integer in [256, 200000], got {ctx!r}")
 
     return errors
 
 
-def main(argv: List[str]) -> int:
+def main(argv: list[str]) -> int:
     if not argv:
         print("usage: validate-skill-manifest.py <SKILL.md> [...]", file=sys.stderr)
         return 1

@@ -1,153 +1,168 @@
-# AGENTS.md — hawk Community Skills
+---
+description: Extending hawk-eco — how to write AGENTS.md files, custom specialists, skills, hooks, MCP servers, and plugins.
+globs: "*.go, *.js, *.md, *.json, *.toml, *.yaml, *.yml"
+alwaysApply: false
+---
 
-Community skill packages for hawk. Modular instruction packages that teach hawk specialized workflows.
+# Extending hawk-eco
 
-## Design Principles
+hawk-eco is an open-source code intelligence platform. This document describes how to extend it with custom tools, skills, hooks, and integrations.
 
-- **Markdown-based** — each skill is a markdown file with YAML frontmatter
-- **Zero code** — skills are pure instructions, not executable code
-- **Registry** — searchable, installable, version-controlled
+## 1. Drop a project `AGENTS.md`
 
-## Build & Test
+When hawk-eco starts in a directory, it looks for project-level instructions and injects them into the system prompt. The lookup walks from your current working directory **up to the nearest git root** and reads the first matching file at each level — general rules at the repo root, more specific rules in sub-trees. Files are labeled with their directory in the prompt (e.g. `## Project guidelines (services/api/AGENTS.md)`).
+
+Accepted file names, in priority order at each level:
+
+| Path | Notes |
+| --- | --- |
+| `./AGENTS.md` | The classic spot — committed to your repo, shared with the team. |
+| `./ZERO.md` | Brand-specific alias. Same format, lower priority. |
+| `./.zero/AGENTS.md` | Project-local, hidden, gitignored. Personal notes that stay out of git. |
+
+Matching is **case-insensitive** on the basename, so `AGENTS.md`, `Agents.md`, and `agents.md` resolve to the same file on Windows and macOS. The git-tracked filename in this repo is `AGENTS.md` — keep that on case-sensitive filesystems (Linux, the WSL filesystem, or a CI runner) to match what the loader looks for.
+
+Both files use the same format. YAML frontmatter is optional; the markdown body is loaded as instructions for the agent. hawk-eco reads the file once at session start, so changes take effect on the next launch — not mid-session.
+
+```markdown
+# Project conventions for <your project>
+
+- Build with `make`, not `go build` directly.
+- Tests live next to the source file (`foo_test.go` next to `foo.go`).
+- Run `make lint` before opening a PR.
+- Never edit files under `third_party/` — those are vendored.
+```
+
+Tips:
+
+- Keep each file under ~8 KiB. hawk-eco caps the **total** across all matched files at 32 KiB; everything past the cap is dropped.
+- Re-state rules in the imperative voice: "Run `make lint`", not "you should consider running the linter".
+- Don't put secrets, model IDs, or environment-specific paths in `AGENTS.md`. Use config files for those.
+- In a monorepo, drop a narrower `AGENTS.md` in each sub-tree (e.g. `services/api/AGENTS.md`). hawk-eco picks those up automatically when you launch from inside the sub-tree.
+- A YAML frontmatter block (`---\n...\n---`) at the top is preserved verbatim in the injected prompt but is not parsed for `globs:` or `alwaysApply:` scoping today — keep the body self-contained.
+
+### Personal guidelines, across every project
+
+For preferences that follow *you*, not a specific repo (tone, tooling habits, workflow), drop a `ZERO.md` in your user config directory: `~/.config/hawk-eco/ZERO.md` on Linux/macOS, `%AppData%\Roaming\hawk-eco\ZERO.md` on Windows — the same directory as config files and your personal specialists. Same format and 8 KiB cap as the project files above, and the same case-insensitive basename match.
+
+This file is injected as its own `## User guidelines` section, before the project's `AGENTS.md`/`ZERO.md`, and is labeled as personal preference in the prompt: project guidelines are the later, more specific instruction and take precedence over it when the two conflict.
+
+## 2. Custom specialists
+
+Specialists are hawk-eco's sub-agents. Three scopes, in priority order:
+
+| Scope | Path | Shared? |
+| --- | --- | --- |
+| Built-in | compiled into hawk-eco | yes |
+| User | `~/.config/hawk-eco/specialists/*.md` | no — your machine only |
+| Project | `./.zero/specialists/*.md` | yes — the repo team |
+
+Project overrides user overrides built-in when names collide.
+
+A specialist is a markdown manifest with frontmatter and a system prompt:
+
+```markdown
+---
+description: Reviews API changes for breaking-change risk and missing tests.
+tools: read-only,plan
+---
+
+You review API changes. For every changed hunk in `internal/api/` or any file
+that ends in `_api.go`:
+
+1. Confirm the public signature is backward-compatible, or note the breaking
+   change explicitly with the migration path.
+2. Confirm a corresponding test exists in `internal/api/*_test.go` and that
+   the new behaviour is exercised.
+3. Flag any new exported symbol without a doc comment.
+
+Reply with one JSON object per finding: `{"file", "line", "severity", "message", "fix"}`.
+```
+
+CLI management:
 
 ```bash
-pytest                           # Run tests
-pytest --cov --cov-report=term-missing  # Coverage
-ruff check .                     # Lint
-ruff format .                    # Format
-python scripts/validate_skills.py  # Validate all skills
-python scripts/update_registry.py  # Update skill registry
+hawk-eco specialist list
+hawk-eco specialist show api-reviewer
+hawk-eco specialist create api-reviewer \
+    --project \
+    --description "Reviews API changes" \
+    --tools read-only,plan \
+    --prompt "$(cat api-reviewer.md)"
+hawk-eco specialist edit api-reviewer --project
+hawk-eco specialist delete api-reviewer --project
+hawk-eco specialist path                       # prints the resolved specialists directory
 ```
 
-## Architecture
+## 3. Skills
 
-- `skills/` — Skill markdown files organized by category
-- `registry.json` — Skill registry with metadata
-- `scripts/validate_skills.py` — Skill validation (frontmatter, refs)
-- `scripts/update_registry.py` — Registry update script
-- `tests/` — Test suite for validation and registry tools
-- `.cursor-plugin/` — Cursor plugin integration
+Skills are markdown instruction files that extend agent capabilities. They can be:
+- Project-scoped: dropped in `./.zero/skills/` or `./skills/`
+- User-scoped: dropped in `~/.config/hawk-eco/skills/`
 
-## Conventions
+A skill manifest:
 
-- Python 3.10+
-- `ruff` for linting and formatting
-- Conventional Commits: `feat:`, `fix:`, `docs:`, `refactor:`, `test:`
-- No `Co-authored-by:` trailers
-- Skill frontmatter must include: name, description, version, author
-- Path traversal protection enforced in skill loading
-- Prompt injection detection in skill content
+```markdown
+---
+description: How to review Go code for security issues
+globs: "*.go"
+alwaysApply: true
+---
 
-## Common Pitfalls
+When reviewing Go code for security:
 
-- Duplicate registry names cause CI failure
-- `@ref()` must reference existing files — orphaned refs fail validation
-- Tag validation is strict — use lowercase kebab-case
-- Frontmatter consolidation required — no duplicate keys
-
-## Naming Conventions
-
-- **Skill directories**: lowercase kebab-case, must match frontmatter `name` field (`cursor-redis`, `go-review`, `api-testing`)
-- **Category directories**: lowercase, under `categories/` (`categories/database/`, `categories/workflows/`)
-- **Skill files**: `SKILL.md` is the required entry point; optional files in `templates/`, `examples/`, `scripts/`
-- **Tool scripts**: descriptive names in `tools/` (`validate_skill.py`, `update_registry.py`, `frontmatter.py`, `init_skill.py`)
-- **Test files**: `test_` prefix matching the tool under test (`test_validate_skill.py`, `test_frontmatter.py`, `test_update_registry.py`)
-- **Frontmatter fields**: lowercase snake_case (`name`, `description`, `license`, `tags`)
-- **Tags**: lowercase kebab-case, regex `^[a-z][a-z0-9]*(-[a-z0-9]+)*$` (`python`, `ai-ml`, `web3`, `my-cool-tag`)
-- **Registry entries**: camelCase for metadata fields (`isFeatured`, `isCurated`, `downloadCount`, `fileCount`, `hasScripts`)
-- **Validation result class**: `ValidationResult` with `.errors`, `.warnings`, `.passed` properties
-
-## API Patterns
-
-### Frontmatter Parsing
-`tools/frontmatter.py` provides `parse_frontmatter(content)` which returns `(dict | None, str)`. It splits on `---` delimiters, parses YAML with `yaml.safe_load`, and returns the body text. Returns `(None, original_content)` if no valid frontmatter is found. Always use `parse_frontmatter()` from this module — do not reimplement YAML parsing.
-
-### Validation Pipeline
-`tools/validate_skill.py` runs these checks in order:
-1. `SKILL.md` exists and is valid UTF-8
-2. Frontmatter is present and parseable
-3. Required fields present: `name`, `description`, `license`
-4. Description under 200 chars (warning, not error)
-5. Tags: 1-5 items, lowercase kebab-case regex
-6. `name` matches directory name
-7. Internal markdown links resolve within skill directory (path traversal detection)
-8. Scripts have shebang lines and executable bits
-9. No non-asset files exceed 100KB
-
-### Registry Generation
-`tools/update_registry.py` walks `categories/<category>/<skill>/SKILL.md`, parses frontmatter, and writes `registry.json`. Duplicate names are silently skipped (first occurrence wins). Descriptions are truncated to 200 chars. Empty tags get a default from the category name.
-
-### ValidationResult Pattern
-Validation uses a `ValidationResult` object with `.error(msg)` and `.warn(msg)` methods. Errors fail validation; warnings do not. The `.passed` property returns `len(self.errors) == 0`.
-
-## Testing Patterns
-
-### Fixtures
-Tests use `tmp_path` (pytest built-in) to create isolated skill directories. The `skill_dir` fixture creates a minimal valid skill:
-```python
-@pytest.fixture
-def skill_dir(tmp_path: Path) -> Path:
-    d = tmp_path / "test-skill"
-    d.mkdir()
-    (d / "SKILL.md").write_text(textwrap.dedent("""\
-        ---
-        name: test-skill
-        description: A test skill
-        license: MIT
-        tags: [testing, example]
-        ---
-        # Test Skill
-        ...
-    """), encoding="utf-8")
-    return d
+1. Check for SQL injection patterns
+2. Verify error handling doesn't expose sensitive data
+3. Confirm secrets are not hardcoded
+4. Validate input sanitization
 ```
 
-### Module Path Setup
-Tests add `tools/` to `sys.path` to import tool modules:
-```python
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
-from validate_skill import validate_skill, ValidationResult
-from frontmatter import parse_frontmatter
+## 4. Hooks
+
+Hooks allow custom commands to run at specific lifecycle points:
+- `beforeReview` — runs before code review starts
+- `afterReview` — runs after code review completes
+- `sessionStart` — runs at session initialization
+- `sessionEnd` — runs at session teardown
+
+```bash
+hawk-eco hook add beforeReview --command "lint-check"
+hawk-eco hook remove beforeReview
+hawk-eco hook list
 ```
 
-### Monkeypatching Global Paths
-`TestFindAllSkills` temporarily replaces `vs.CATEGORIES_DIR` to test against a temp directory, restoring the original in a `finally` block.
+## 5. MCP integration
 
-### Parametrized Tag Tests
-`TestTagPattern` uses `@pytest.mark.parametrize` to test valid and invalid tag patterns:
-```python
-@pytest.mark.parametrize("tag", ["python", "ai-ml", "web3", "a", "my-cool-tag"])
-def test_valid_tags(self, tag: str):
-    assert TAG_PATTERN.match(tag)
+MCP (Model Context Protocol) servers can expose tools to hawk-eco:
+
+```bash
+hawk-eco mcp add --name server --url http://localhost:8080
+hawk-eco mcp remove server
+hawk-eco mcp list
 ```
 
-## Key File Locations
+## 6. Plugins
 
-| What | Where |
-|------|-------|
-| Skill directories | `categories/<category>/<skill-name>/SKILL.md` |
-| Frontmatter parser | `tools/frontmatter.py` |
-| Skill validator | `tools/validate_skill.py` |
-| Registry generator | `tools/update_registry.py` |
-| Skill initializer | `tools/init_skill.py` |
-| Content validation | `tools/content_validation.py` |
-| Reference/self-contained checks | `tools/check_references.py`, `tools/check_self_contained.py` |
-| Version management | `tools/bump_version.py`, `tools/check_version_sync.py` |
-| Marketplace sync | `tools/sync_marketplace.py` |
-| Skill registry | `registry.json` |
-| All test files | `tests/test_*.py` |
-| Contributing guide | `CONTRIBUTING.md` |
-| Skill format spec | `SKILL.md` (repo root) |
-| Spec template | `plans/SPEC-TEMPLATE.md` |
+Plugins extend hawk-eco with custom tools and capabilities:
 
-## Refactoring Guidelines
+```bash
+hawk-eco plugin add --name my-plugin --path ./my-plugin
+hawk-eco plugin remove my-plugin
+hawk-eco plugin list
+```
 
-- **Safe to refactor**: individual tool scripts — they are independent CLI entry points
-- **Do not change**: `parse_frontmatter()` return type `(dict | None, str)` — all tools depend on it
-- **Do not change**: `ValidationResult` interface (`.errors`, `.warnings`, `.passed`) — tests assert on it
-- **Do not change**: `REQUIRED_FIELDS` set or `TAG_PATTERN` regex — they are the quality gate
-- **Do not change**: `registry.json` schema — the hawk client parses it
-- **Safe to extend**: add new validation checks in `validate_skill()` by appending to the function
-- **Safe to extend**: add new tool scripts in `tools/` following the existing pattern (import frontmatter, use `REPO_ROOT`, use `rich` for output)
-- **When adding new tools**: add corresponding test file in `tests/`, use `tmp_path` fixtures, import via `sys.path` manipulation
-- **When modifying validation**: update both `validate_skill.py` and its test file `tests/test_validate_skill.py`
+## 7. Verification
+
+hawk-eco includes a self-verification system to validate local changes before contributing:
+
+```bash
+hawk-eco verify
+hawk-eco verify --fix
+```
+
+## Development
+
+```bash
+make lint
+hawk-eco verify
+```

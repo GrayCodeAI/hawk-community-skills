@@ -10,16 +10,32 @@ breaking CI on the security/malware-analysis skills that legitimately contain
 token-shaped example strings. Pass --strict to fail the build on findings, and
 ratchet to that once the corpus is known clean.
 """
+
 import argparse
 import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from skill_discovery import iter_skills
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 CATEGORIES_DIR = REPO_ROOT / "categories"
 
 # Extensions worth scanning inside a contributed skill directory.
-SCAN_SUFFIXES = {".md", ".py", ".sh", ".bash", ".js", ".ts", ".json", ".yaml", ".yml", ".env", ".txt"}
+SCAN_SUFFIXES = {
+    ".md",
+    ".py",
+    ".sh",
+    ".bash",
+    ".js",
+    ".ts",
+    ".json",
+    ".yaml",
+    ".yml",
+    ".env",
+    ".txt",
+}
 
 # Files larger than this are skipped (with a warning): credential leaks live
 # in source/config files, not multi-megabyte bulk content, and scanning them
@@ -30,23 +46,62 @@ MAX_SCAN_SIZE = 2 * 1024 * 1024  # 2MB
 # Patterns target real key shapes (provider prefixes, AWS access keys, PEM
 # private-key headers, explicit bearer tokens) rather than generic high-entropy
 # strings, to keep the false-positive rate low.
-SECRET_PATTERNS = [
+# Patterns with a fixed, unambiguous key shape (provider prefixes, PEM
+# headers). These are never suppressed by PLACEHOLDER_MARKERS: a real key
+# followed by a trailing "# example" comment on the same line is still a
+# real leak, and the shape itself is specific enough that false positives
+# are already vanishingly rare.
+STRUCTURAL_SECRET_PATTERNS = [
     ("AWS access key id", re.compile(r"\bAKIA[0-9A-Z]{16}\b")),
     ("OpenAI/Stripe-style secret key", re.compile(r"\bsk-[A-Za-z0-9]{32,}\b")),
     ("Google API key", re.compile(r"\bAIza[0-9A-Za-z_\-]{35}\b")),
     ("GitHub token", re.compile(r"\bgh[pousr]_[A-Za-z0-9]{36,}\b")),
     ("Slack token", re.compile(r"\bxox[baprs]-[A-Za-z0-9-]{10,}\b")),
-    ("Private key block", re.compile(r"-----BEGIN (?:RSA |EC |OPENSSH |DSA |PGP )?PRIVATE KEY-----")),
+    (
+        "Private key block",
+        re.compile(r"-----BEGIN (?:RSA |EC |OPENSSH |DSA |PGP )?PRIVATE KEY-----"),
+    ),
     ("Explicit bearer token", re.compile(r"\bBearer\s+[A-Za-z0-9._\-]{20,}\b")),
-    ("Generic assigned api key", re.compile(r"""(?i)\b(?:api[_-]?key|secret|password|token)\b\s*[:=]\s*['"][A-Za-z0-9._\-]{16,}['"]""")),
 ]
 
+# Patterns matched by shape alone (any quoted string assigned to a
+# key/secret/token/password-looking variable name), which do legitimately
+# collide with placeholder/example values in documentation. Placeholder
+# suppression only applies to these.
+GENERIC_SECRET_PATTERNS = [
+    (
+        "Generic assigned api key",
+        re.compile(
+            r"""(?i)\b(?:api[_-]?key|secret|password|token)\b\s*[:=]\s*['"][A-Za-z0-9._\-]{16,}['"]"""
+        ),
+    ),
+]
+
+SECRET_PATTERNS = STRUCTURAL_SECRET_PATTERNS + GENERIC_SECRET_PATTERNS
+
 # Substrings that mark a match as an obvious placeholder/example, not a real
-# leak. Lines containing any of these are ignored.
+# leak. Only suppresses GENERIC_SECRET_PATTERNS matches.
 PLACEHOLDER_MARKERS = (
-    "example", "placeholder", "your-", "your_", "xxxx", "...", "<", "redacted",
-    "dummy", "sample", "sk-test", "sk_test", "changeme", "fake", "replace",
-    "env[", "getenv", "os.environ", "${", "{{",
+    "example",
+    "placeholder",
+    "your-",
+    "your_",
+    "xxxx",
+    "...",
+    "<",
+    "redacted",
+    "dummy",
+    "sample",
+    "sk-test",
+    "sk_test",
+    "changeme",
+    "fake",
+    "replace",
+    "env[",
+    "getenv",
+    "os.environ",
+    "${",
+    "{{",
 )
 
 
@@ -59,39 +114,45 @@ def scan_file(path: Path) -> list[tuple[int, str, str]]:
     """Return (line_no, pattern_name, snippet) findings for one file."""
     findings = []
     try:
+        if path.stat().st_size > MAX_SCAN_SIZE:
+            return findings
         text = path.read_text(encoding="utf-8", errors="ignore")
     except OSError:
         return findings
     for i, line in enumerate(text.splitlines(), start=1):
-        if _looks_placeholder(line):
-            continue
-        for name, rx in SECRET_PATTERNS:
+        is_placeholder = _looks_placeholder(line)
+        for name, rx in STRUCTURAL_SECRET_PATTERNS:
             if rx.search(line):
                 snippet = line.strip()
                 if len(snippet) > 120:
                     snippet = snippet[:117] + "..."
                 findings.append((i, name, snippet))
                 break  # one finding per line is enough
+        else:
+            if is_placeholder:
+                continue
+            for name, rx in GENERIC_SECRET_PATTERNS:
+                if rx.search(line):
+                    snippet = line.strip()
+                    if len(snippet) > 120:
+                        snippet = snippet[:117] + "..."
+                    findings.append((i, name, snippet))
+                    break
     return findings
 
 
 def iter_skill_files():
-    if not CATEGORIES_DIR.exists():
-        return
-    for cat in sorted(CATEGORIES_DIR.iterdir()):
-        if not cat.is_dir():
-            continue
-        for skill_dir in sorted(cat.iterdir()):
-            if not skill_dir.is_dir():
-                continue
-            for f in sorted(skill_dir.rglob("*")):
-                if f.is_file() and f.suffix.lower() in SCAN_SUFFIXES:
-                    yield f
+    for skill_dir in iter_skills(CATEGORIES_DIR):
+        for f in sorted(skill_dir.rglob("*")):
+            if f.is_file() and f.suffix.lower() in SCAN_SUFFIXES:
+                yield f
 
 
 def main():
     parser = argparse.ArgumentParser(description="Scan skills for hardcoded secrets")
-    parser.add_argument("--strict", action="store_true", help="exit non-zero when secrets are found")
+    parser.add_argument(
+        "--strict", action="store_true", help="exit non-zero when secrets are found"
+    )
     args = parser.parse_args()
 
     total = 0

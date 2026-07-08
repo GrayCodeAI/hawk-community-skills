@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
 """Check that VERSION file matches all plugin manifests."""
+
 import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from manifest_paths import MANIFEST_VERSION_PATHS as MANIFEST_PATHS
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 VERSION_FILE = REPO_ROOT / "VERSION"
 
-MANIFEST_PATHS = [
-    (".claude-plugin/plugin.json", "version"),
-    (".claude-plugin/marketplace.json", "plugins[0].version"),
-    (".codex-plugin/plugin.json", "version"),
-    (".cursor-plugin/plugin.json", "version"),
-]
 
 def get_nested(data, path):
     for part in path.split("."):
@@ -23,6 +21,7 @@ def get_nested(data, path):
         else:
             data = data[part]
     return data
+
 
 def main():
     if not VERSION_FILE.exists():
@@ -51,6 +50,7 @@ def main():
         sys.exit(1)
 
     print(f"✓ All manifests match VERSION ({version})")
+
 
 if __name__ == "__main__":
     main()

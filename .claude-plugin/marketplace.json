@@ -17487,11 +17487,6 @@
           "invoke": "/hawk:code-review-and-quality"
         },
         {
-          "name": "code-simplification",
-          "path": "categories/general/code-simplification",
-          "invoke": "/hawk:code-simplification"
-        },
-        {
           "name": "codebase-search",
           "path": "categories/general/codebase-search",
           "invoke": "/hawk:codebase-search"
@@ -26192,11 +26187,6 @@
           "invoke": "/hawk:debugging"
         },
         {
-          "name": "debugging-and-error-recovery",
-          "path": "categories/general/debugging-and-error-recovery",
-          "invoke": "/hawk:debugging-and-error-recovery"
-        },
-        {
           "name": "deploying-edr-agent-with-crowdstrike",
           "path": "categories/general/deploying-edr-agent-with-crowdstrike",
           "invoke": "/hawk:deploying-edr-agent-with-crowdstrike"
@@ -26530,11 +26520,6 @@
           "name": "document-writer",
           "path": "categories/general/document-writer",
           "invoke": "/hawk:document-writer"
-        },
-        {
-          "name": "documentation-and-adrs",
-          "path": "categories/general/documentation-and-adrs",
-          "invoke": "/hawk:documentation-and-adrs"
         },
         {
           "name": "documentation-writing",
@@ -52060,11 +52045,6 @@
           "name": "seo-audit",
           "path": "categories/general/seo-audit",
           "invoke": "/hawk:seo-audit"
-        },
-        {
-          "name": "shipping-and-launch",
-          "path": "categories/general/shipping-and-launch",
-          "invoke": "/hawk:shipping-and-launch"
         },
         {
           "name": "shopify-CLAUDE",

@@ -34,5 +34,6 @@ def main():
         sys.exit(1)
     print("✓ All skills are self-contained")
 
+
 if __name__ == "__main__":
     main()

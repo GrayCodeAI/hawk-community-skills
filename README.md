@@ -1,57 +1,71 @@
 # hawk Community Skills
 
-Community skill packages for [hawk](https://github.com/GrayCodeAI/hawk) — the AI coding agent.
+Community skill packages for [hawk](https://github.com/GrayCodeAI/hawk) — the AI coding agent. This repository contains 12,171+ modular instruction packages that teach hawk specialized workflows across 31 categories.
 
 ## What are Skills?
 
-Skills are modular instruction packages that teach hawk specialized workflows. Each skill is a markdown file with YAML frontmatter that hawk loads into its system prompt when activated.
+Skills are self-contained Markdown instruction packages that hawk loads into its system prompt when activated. Each skill is a single `SKILL.md` file with YAML frontmatter, containing structured guidance for a specific workflow or technology. Skills are organized by domain under `categories/`.
 
-## Usage
+## Quick Start
 
 ```bash
-# From hawk REPL
-/skills search <query>
-/skills install <skill-name>
-/skills use <skill-name>
-
-# From CLI
-hawk skills search api
-hawk skills install go-review
+# View available skills
 hawk skills list
+
+# Search for a skill
+hawk skills search api-testing
+
+# Install a skill
+hawk skills install python-pandas
+
+# Use a skill in the hawk REPL
+/skills use python-pandas
 ```
 
-## Skill Format
 
-Each skill is a directory containing a `SKILL.md`:
 
-```markdown
----
-name: skill-name
-description: What this skill does
-domain: engineering
-tags: [tag1, tag2]
-version: "1.0"
-author: community
----
+## Category Structure
 
-# Skill Title
+Skills are organized into domain categories under `categories/`. Each category contains one or more skill directories, each with a `SKILL.md` file:
 
-Instructions that hawk follows when this skill is active...
+```
+categories/<category>/<skill-name>/
+├── SKILL.md              # Required: skill instructions and frontmatter
+├── templates/            # Optional: templates referenced by the skill
+├── examples/             # Optional: usage examples
+└── scripts/              # Optional: shell scripts
 ```
 
-## Categories
+The `<category>` directory name groups related skills (e.g., `categories/react/`, `categories/python/`). The `<skill-name>` directory name must match the `name` field in the frontmatter and follows kebab-case conventions.
 
-- **Engineering** — code review, testing, CI/CD, architecture
-- **Security** — vulnerability scanning, pentesting, compliance
-- **DevOps** — Docker, Kubernetes, cloud infrastructure
-- **Data** — analytics, ML pipelines, databases
-- **Web** — frontend, accessibility, performance
+Some categories (notably `cursor-rules`) contain skills with shared base names (e.g., `mdc-react`, `mdc-solidjs`) that represent Cursor Modular Design Coding conventions extended with technology-specific suffixes. These are intentional and represent related but distinct skill variants.
+
+## Validation
+
+The repository includes automated validation to ensure skill quality:
+
+```bash
+# Validate a single skill
+python tools/validate_skill.py categories/python/mdc-fastapi/SKILL.md
+
+# Update the registry after adding/removing skills
+python tools/update_registry.py
+
+# Run the full test suite
+pytest
+
+# Run linting
+ruff check .
+ruff format --check .
+```
+
+Validation checks include frontmatter integrity, required field presence, tag format, name-directory consistency, internal link resolution, script shebangs, and file size limits.
 
 ## Ecosystem Boundaries
 
 - `hawk-community-skills` extends Hawk through public skill and plugin surfaces.
-- Do not reference support engine repos such as `eyrie`, `yaad`, `tok`, `trace`, `sight`, or `inspect` as direct dependencies.
-- Do not reference `hawk/internal/*` or removed legacy path `hawk/shared/types`.
+- Do not reference support engine repos (`eyrie`, `yaad`, `tok`, `trace`, `sight`, or `inspect`) as direct dependencies.
+- Do not reference `hawk/internal/*` or the removed legacy path `hawk/shared/types`.
 - Skills should assume Hawk is the product boundary.
 
 ## Contributing

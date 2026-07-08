@@ -9,8 +9,7 @@ import pytest
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "tools"))
 
-from init_skill import validate_name, get_existing_skills, get_categories, KEBAB_RE
-
+from init_skill import KEBAB_RE, get_categories, get_existing_skills, validate_name
 
 # ---------------------------------------------------------------------------
 # validate_name

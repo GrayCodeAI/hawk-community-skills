@@ -1,17 +1,19 @@
 # Contributing to hawk Community Skills
 
-Thank you for your interest in contributing! Every skill helps make hawk smarter for everyone.
+Thank you for your interest in contributing! Every skill helps make hawk smarter for everyone. This repository contains 12,171+ community-contributed skill packages organized into 31 domain categories.
 
 ## Ways to Contribute
 
-- **Submit a new skill** — Share your expertise with the community
-- **Improve existing skills** — Fix bugs, update examples, or add patterns
-- **Report issues** — Found a problem? [Open an issue](../../issues/new/choose)
-- **Review PRs** — Help review skill submissions from other contributors
+| Action | Description |
+|--------|-------------|
+| **Submit a new skill** | Share your expertise in a specific technology or workflow |
+| **Improve existing skills** | Fix bugs, update examples, or add patterns to existing skills |
+| **Report issues** | Found a problem? [Open an issue](../../issues/new/choose) |
+| **Review PRs** | Help review skill submissions from other contributors |
 
 ## Creating a New Skill
 
-### Option 1: Submit via Issue Template
+### Option 1: Submit via Issue Template (Recommended)
 
 The easiest way to contribute. [Open a new skill issue](../../issues/new?template=new-skill.yml) and fill out the form. A maintainer will create the PR for you.
 
@@ -22,60 +24,122 @@ Use the [guided submission form](https://skilled.autohand.ai/submit) on skilled.
 ### Option 3: Submit a Pull Request
 
 1. **Fork** this repository
-2. **Create** your skill directory:
+2. **Pick a category** — Choose the most relevant domain from `categories/`:
+   - `general/` — framework-agnostic skills, workflows, tooling
+   - `cursor-rules/` — Cursor Modular Design Coding conventions (776 skills)
+   - `react/` — React ecosystem skills
+   - `python/` — Python ecosystem skills
+   - `typescript/` — TypeScript ecosystem skills
+   - `security/` — cybersecurity skills
+   - `testing/` — quality assurance and testing
+   - `scientific/` — scientific computing and research
+   - `aws/` — cloud and AWS skills
+   - Or one of the other 21 categories
+   
+   If unsure, check `registry.json` for existing skills in your domain, or ask in the `#contributing` channel on Discord.
+
+3. **Create** your skill directory:
    ```bash
-   mkdir my-skill-name
-   cd my-skill-name
+   mkdir -p categories/<category>/<skill-name>
+   cd categories/<category>/<skill-name>
    touch SKILL.md
    ```
-3. **Write** your `SKILL.md` (see format below)
-4. **Add** your skill to `registry.json`
-5. **Submit** a pull request with title: `feat: add <skill-name> skill`
+4. **Write** your `SKILL.md` following the format below
+5. **Validate** your skill:
+   ```bash
+   # Run the validation tool
+   python tools/validate_skill.py SKILL.md
+   
+   # Update the registry (generates registry.json from all skills)
+   python tools/update_registry.py
+   
+   # Run the full test suite to ensure nothing is broken
+   pytest
+   ```
+6. **Submit** a pull request with title: `feat: add <skill-name> skill`
 
 ## SKILL.md Format
 
-Every skill requires a `SKILL.md` file with YAML frontmatter:
+Every skill requires a `SKILL.md` file with YAML frontmatter. The frontmatter must include all required fields from the schema:
 
 ```markdown
 ---
 name: my-skill-name
-description: A brief description (under 200 characters)
-tags: [tag1, tag2]
+description: "Brief description of what this skill does"
+domain: coding
+tags: [my-category, technology]
+version: "1.0.0"
 license: MIT
+author: your-github-username
+---
+
+# Skill Title
+
+Instructions that hawk follows when this skill is active...
+```
+
+For the complete frontmatter schema, see [`manifest-schema.toml`](manifest-schema.toml).
+
+### Frontmatter Fields
+
+All fields must be present in the YAML frontmatter block:
+
+| Field | Required | Description |
+|-------|----------|-------------|
+| `name` | Yes | kebab-case identifier (2-80 chars). Must match directory name. |
+| `description` | Yes | One-sentence summary (max 280 chars, shown in skill catalogue) |
+| `domain` | Yes | Primary domain: `coding`, `cybersecurity`, `data-science`, `devops`, `documentation`, `research`, `testing`, or `other` |
+| `version` | Yes | Semantic version string (e.g., `"1.0"`, `"2.3.1"`) |
+| `license` | Yes | OSI-approved license: MIT, Apache-2.0, BSD-2-Clause, BSD-3-Clause, GPL-3.0, or CC0-1.0 |
+| `author` | Yes | GitHub username or real name |
+| `tags` | Yes | 1-12 searchable tags, lowercase kebab-case |
+| `subdomain` | No | Finer-grained category (e.g., `cloud-security`, `ai-ml`) |
+| `phase` | No | Pipeline phase: `localize`, `repair`, `validate`, `review`, `planning`, or `any` |
+| `tools_required` | No | Tools the skill depends on (e.g., `[bash]`, `[read, edit]`) |
+| `min_model` | No | Minimum capable model tier: `haiku`, `sonnet`, `opus`, or `any` |
+
+### SKILL.md Body Format
+
+Every `SKILL.md` follows this structure:
+
+```markdown
+---
+name: my-skill-name
+description: "Brief description..."
+domain: coding
+version: "1.0"
+license: MIT
+author: your-github-username
+tags: [tag1, tag2]
 ---
 
 # Skill Title
 
 ## Overview
-Brief introduction to what this skill covers.
+What this skill does and when to use it.
 
-## When to Use
-List specific scenarios where this skill is useful.
+## Prerequisites
+Tools, knowledge, or setup required before using this skill.
 
 ## Instructions
-Provide detailed instructions for how the skill should behave.
+Step-by-step guidance with code examples. Use clear section headers.
 
 ## References
-Link to relevant docs, APIs, or related skills.
+Links to documentation, tools, or related skills.
+
+## Verification
+How to verify the skill works correctly (tests, checklists, etc.).
 ```
-
-### Frontmatter Fields
-
-| Field | Required | Description |
-|-------|----------|-------------|
-| `name` | Yes | Skill identifier (kebab-case, must match directory name) |
-| `description` | Yes | Brief description (under 200 characters) |
-| `tags` | Yes | 1-5 lowercase kebab-case tags |
-| `license` | Yes | An OSI-approved license (see [Licensing](#licensing)) |
 
 ### Content Guidelines
 
 - **Be concise** — Focus on practical patterns and examples
 - **Use code blocks** — Show real, working code with language identifiers
-- **Structure clearly** — Use headers for scanability
+- **Structure clearly** — Use headers for scanability (`## Overview`, `## Prerequisites`, `## Instructions`, `## References`)
 - **Stay current** — Reference latest stable versions
 - **Be opinionated** — Share best practices, not just options
 - **One focus per skill** — Each skill should cover a single technology or pattern
+- **Include a Verification section** — Helps ensure the skill produces consistent, testable results
 
 ## Registry Entry
 
@@ -102,28 +166,47 @@ Add your skill to `registry.json`:
 }
 ```
 
-### Categories
+### Registry Entry
 
-| Category | Description |
-|----------|-------------|
-| `languages` | Programming language patterns (TypeScript, Python, etc.) |
-| `frameworks` | Framework-specific skills (React, Next.js, FastAPI, etc.) |
-| `workflows` | Development workflows (testing, git, API design, etc.) |
-| `cloud` | Cloud platforms (AWS, Azure, GCP, Kubernetes, etc.) |
-| `marketing` | SEO, analytics, content strategy, A/B testing |
-| `agent-skills` | Browser automation, email, evaluation, configuration |
-| `design` | UI patterns, Tailwind, accessibility, responsive |
-| `ai-tools` | LLM integration, image/video generation, embeddings |
-| `quality` | Code review, linting, security, performance |
-| `devops` | Docker, monitoring, infrastructure, observability |
-| `documentation` | Technical writing, API docs, changelogs |
-| `documents` | Document processing (PDF, DOCX, XLSX, etc.) |
+`registry.json` is auto-generated from all `SKILL.md` frontmatter files. When you add a skill, run `python tools/update_registry.py` to regenerate it. The registry is consumed by the hawk client for skill discovery and installation.
 
-### Tags
+The `category` field in `registry.json` is derived from the `domain` field in frontmatter. Valid values are: `coding`, `cybersecurity`, `data-science`, `devops`, `documentation`, `research`, `testing`, or `other`.
 
-Use 3-5 relevant, lowercase tags:
-- Technology names: `typescript`, `react`, `nodejs`
-- Concepts: `patterns`, `testing`, `architecture`
+### Multi-File Skills
+
+Skills can include additional files beyond `SKILL.md`:
+
+```
+my-skill/
+├── SKILL.md              # Required
+├── templates/            # Optional: templates referenced by the skill
+├── examples/             # Optional: usage examples
+└── scripts/              # Optional: shell scripts
+```
+
+Update the `files` array in your registry entry when adding extra files:
+```json
+"files": ["SKILL.md", "templates/component.tsx", "templates/test.tsx"]
+```
+
+### Quality Standards
+
+#### Code Examples
+- Must be syntactically correct
+- Include necessary imports
+- Show realistic use cases
+- Add comments for clarity
+
+#### Documentation
+- Clear, concise writing
+- Proper Markdown formatting
+- Working links
+- No spelling errors
+
+#### General Requirements
+- No sensitive information (API keys, credentials, etc.)
+- Each skill should cover a single technology or pattern
+- License must be specified in frontmatter
 
 ## Multi-File Skills
 

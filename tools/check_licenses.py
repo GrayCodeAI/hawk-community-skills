@@ -9,6 +9,7 @@ found, encoding the policy documented in the root NOTICE.
 Unlike the secret scan, this is strict by default: a GPL/LGPL LICENSE under an
 MIT repo is a clear, actionable defect rather than a likely false positive.
 """
+
 import argparse
 import re
 import sys
@@ -36,7 +37,9 @@ def iter_license_files():
 
 def main():
     parser = argparse.ArgumentParser(description="Check skill licenses for copyleft contamination")
-    parser.add_argument("--warn", action="store_true", help="report but do not fail (default: fail)")
+    parser.add_argument(
+        "--warn", action="store_true", help="report but do not fail (default: fail)"
+    )
     args = parser.parse_args()
 
     violations = []
@@ -56,7 +59,9 @@ def main():
         print(f"✓ No copyleft-licensed skills found ({checked} LICENSE files checked)")
         return
 
-    print(f"{'⚠' if args.warn else '✗'} {len(violations)} copyleft-licensed skill(s) under an MIT repo:")
+    print(
+        f"{'⚠' if args.warn else '✗'} {len(violations)} copyleft-licensed skill(s) under an MIT repo:"
+    )
     for rel, name in violations:
         print(f"  - {rel}: {name}")
     print("  Copyleft (GPL/LGPL/AGPL) content must not be vendored — see NOTICE.")

@@ -49,9 +49,7 @@ def get_categories() -> list:
     """List available categories."""
     if not CATEGORIES_DIR.exists():
         return []
-    return sorted(
-        d.name for d in CATEGORIES_DIR.iterdir() if d.is_dir()
-    )
+    return sorted(d.name for d in CATEGORIES_DIR.iterdir() if d.is_dir())
 
 
 def main():
@@ -79,12 +77,16 @@ def main():
     # --- Description ---
     description = Prompt.ask("[bold]Short description[/bold] (under 200 chars)")
     if len(description) > 200:
-        console.print("[yellow]Warning: description exceeds 200 characters, consider shortening.[/yellow]")
+        console.print(
+            "[yellow]Warning: description exceeds 200 characters, consider shortening.[/yellow]"
+        )
 
     # --- Tags ---
     tag_re = re.compile(r"^[a-z][a-z0-9]*(-[a-z0-9]+)*$")
     while True:
-        tags_raw = Prompt.ask("[bold]Tags[/bold] (comma-separated, 1-5 lowercase kebab-case)", default="general")
+        tags_raw = Prompt.ask(
+            "[bold]Tags[/bold] (comma-separated, 1-5 lowercase kebab-case)", default="general"
+        )
         tags = [t.strip() for t in tags_raw.split(",") if t.strip()]
         if len(tags) < 1:
             console.print("[red]At least 1 tag is required.[/red]")
@@ -92,7 +94,9 @@ def main():
             console.print("[red]Maximum 5 tags allowed.[/red]")
         elif any(not tag_re.match(t) for t in tags):
             bad = [t for t in tags if not tag_re.match(t)]
-            console.print(f"[red]Invalid tag(s): {', '.join(bad)}. Must be lowercase alphanumeric with hyphens.[/red]")
+            console.print(
+                f"[red]Invalid tag(s): {', '.join(bad)}. Must be lowercase alphanumeric with hyphens.[/red]"
+            )
         else:
             break
 
@@ -138,7 +142,7 @@ def main():
 {yaml_str.strip()}
 ---
 
-# {name.replace('-', ' ').title()}
+# {name.replace("-", " ").title()}
 
 ## Overview
 
@@ -170,7 +174,9 @@ def main():
     if create_assets:
         console.print("  assets/ directory created")
     console.print()
-    console.print("[dim]Next steps: edit SKILL.md, then run python tools/validate_skill.py to check[/dim]")
+    console.print(
+        "[dim]Next steps: edit SKILL.md, then run python tools/validate_skill.py to check[/dim]"
+    )
 
 
 if __name__ == "__main__":
