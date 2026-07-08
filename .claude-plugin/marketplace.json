@@ -5342,6 +5342,16 @@
           "invoke": "/hawk:tl-r2-sql"
         },
         {
+          "name": "debugging-and-error-recovery",
+          "path": "categories/debugging/debugging-and-error-recovery",
+          "invoke": "/hawk:debugging-and-error-recovery"
+        },
+        {
+          "name": "shipping-and-launch",
+          "path": "categories/deployment/shipping-and-launch",
+          "invoke": "/hawk:shipping-and-launch"
+        },
+        {
           "name": "analyze_terraform_plan",
           "path": "categories/devops/analyze_terraform_plan",
           "invoke": "/hawk:analyze_terraform_plan"
@@ -5517,6 +5527,11 @@
           "invoke": "/hawk:mdc-terraform"
         },
         {
+          "name": "observability-and-instrumentation",
+          "path": "categories/devops/observability-and-instrumentation",
+          "invoke": "/hawk:observability-and-instrumentation"
+        },
+        {
           "name": "performing-docker-bench-security-assessment",
           "path": "categories/devops/performing-docker-bench-security-assessment",
           "invoke": "/hawk:performing-docker-bench-security-assessment"
@@ -5565,6 +5580,11 @@
           "name": "tl-terraform",
           "path": "categories/devops/tl-terraform",
           "invoke": "/hawk:tl-terraform"
+        },
+        {
+          "name": "documentation-and-adrs",
+          "path": "categories/documentation/documentation-and-adrs",
+          "invoke": "/hawk:documentation-and-adrs"
         },
         {
           "name": "analyze_answers",
@@ -43642,6 +43662,11 @@
           "invoke": "/hawk:internal-comms"
         },
         {
+          "name": "interview-me",
+          "path": "categories/general/interview-me",
+          "invoke": "/hawk:interview-me"
+        },
+        {
           "name": "investigating-phishing-email-incident",
           "path": "categories/general/investigating-phishing-email-incident",
           "invoke": "/hawk:investigating-phishing-email-incident"
@@ -57430,6 +57455,11 @@
           "name": "vercel-react-view-transitions",
           "path": "categories/react/vercel-react-view-transitions",
           "invoke": "/hawk:vercel-react-view-transitions"
+        },
+        {
+          "name": "code-simplification",
+          "path": "categories/refactoring/code-simplification",
+          "invoke": "/hawk:code-simplification"
         },
         {
           "name": "configuring-microsegmentation-for-zero-trust",
