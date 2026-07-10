@@ -26,6 +26,11 @@ venv/
 ENV/
 env/
 
+# Testing / Linting
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
 # IDE / Editor
 .idea/
 .vscode/
