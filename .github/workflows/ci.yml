@@ -47,6 +47,8 @@ jobs:
         run: python -m pytest tests/ -v --cov --cov-report=term-missing --cov-fail-under=88
       - name: Security audit
         run: python3 tools/check_secrets.py --strict
+      - name: Shell-command audit
+        run: python3 tools/check_shell_commands.py --strict
       - name: Dependency security audit
         run: pip-audit -r tools/requirements.txt
 
