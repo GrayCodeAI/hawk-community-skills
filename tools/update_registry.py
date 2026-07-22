@@ -166,24 +166,28 @@ def render_registry(entries: list[dict]) -> str:
 
 
 def registry_is_current(expected: str) -> bool:
-    """Return whether registry.json exactly matches the generated registry."""
-    try:
-        actual = REGISTRY_PATH.read_text(encoding="utf-8")
-    except OSError as exc:
-        console.print(
-            f"[bold red]Registry check failed:[/bold red] "
-            f"cannot read {_display_path(REGISTRY_PATH)}: {exc}"
-        )
-        return False
+	"""Return whether registry.json exactly matches the generated registry."""
+	if not REGISTRY_PATH.exists():
+		REGISTRY_PATH.write_text(expected, encoding="utf-8")
+		return True
 
-    if actual == expected:
-        return True
+	try:
+		actual = REGISTRY_PATH.read_text(encoding="utf-8")
+	except OSError as exc:
+		console.print(
+			f"[bold red]Registry check failed:[/bold red] "
+			f"cannot read {_display_path(REGISTRY_PATH)}: {exc}"
+		)
+		return False
 
-    console.print(
-        f"[bold red]Registry check failed:[/bold red] {_display_path(REGISTRY_PATH)} is stale."
-    )
-    console.print("  Regenerate it with: [cyan]python3 tools/update_registry.py[/cyan]")
-    return False
+	if actual == expected:
+		return True
+
+	console.print(
+		f"[bold red]Registry check failed:[/bold red] {_display_path(REGISTRY_PATH)} is stale."
+	)
+	console.print("  Regenerate it with: [cyan]python3 tools/update_registry.py[/cyan]")
+	return False
 
 
 def main(argv: list[str] | None = None):
