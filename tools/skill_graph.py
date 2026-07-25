@@ -1,182 +1,285 @@
-"""Skill Graph for hawk-community-skills.
+#!/usr/bin/env python3
+"""Project the public community-skill registry as a portable graph document."""
 
-This module provides graph-based skill dependency analysis and
-recommendation, inspired by LangGraph and knowledge graph patterns.
-"""
+from __future__ import annotations
 
-from typing import List, Dict, Any, Optional, Set
-from dataclasses import dataclass, field
-from collections import deque
+import argparse
+import hashlib
 import json
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any, Optional
+
+from update_registry import REPO_ROOT, build_registry, validate_entries
+
+DEFAULT_OUTPUT = REPO_ROOT / "skill-graph.json"
+SCHEMA_VERSION = "community-skills.graph/v1"
+PRODUCER = "hawk-community-skills"
 
 
-@dataclass
-class SkillNode:
-    """Represents a skill in the skill graph."""
-    id: str
-    name: str
-    description: str = ""
-    tags: List[str] = field(default_factory=list)
-    dependencies: List[str] = field(default_factory=list)
-    properties: Dict[str, Any] = field(default_factory=dict)
-
-    def to_dict(self) -> Dict[str, Any]:
-        return {
-            "id": self.id,
-            "name": self.name,
-            "description": self.description,
-            "tags": self.tags,
-            "dependencies": self.dependencies,
-            "properties": self.properties
-        }
+def _stable_id(prefix: str, *parts: str) -> str:
+    value = "\x00".join(parts).encode("utf-8")
+    return f"{prefix}/{hashlib.sha256(value).hexdigest()[:24]}"
 
 
-@dataclass
-class SkillEdge:
-    """Represents a dependency between skills."""
-    source: str
-    target: str
-    kind: str = "depends_on"
-    weight: float = 1.0
-
-    def to_dict(self) -> Dict[str, Any]:
-        return {
-            "source": self.source,
-            "target": self.target,
-            "kind": self.kind,
-            "weight": self.weight
-        }
+def _provenance(
+    version: str,
+    source_id: Optional[str] = None,  # noqa: UP045 -- project supports Python 3.9
+) -> dict[str, str]:
+    value = {"producer": PRODUCER, "version": version}
+    if source_id:
+        value["source_id"] = source_id
+    return value
 
 
-class SkillGraph:
-    """Graph-based skill dependency analysis and recommendation.
+def _node(
+    node_id: str,
+    kind: str,
+    created_at: str,
+    version: str,
+    attributes: dict[str, str],
+    source_id: Optional[str] = None,  # noqa: UP045 -- project supports Python 3.9
+) -> dict[str, Any]:
+    return {
+        "id": node_id,
+        "kind": kind,
+        "created_at": created_at,
+        "provenance": _provenance(version, source_id),
+        "attributes": attributes,
+    }
 
-    This class provides a fluent API for building skill graphs and
-    querying them for dependencies, recommendations, and analysis.
 
-    Example:
-        graph = SkillGraph()
-        graph.skill("coding", "Code Generation")
-        graph.skill("testing", "Test Generation")
-        graph.depends_on("testing", "coding")
+def _edge(
+    kind: str,
+    from_id: str,
+    from_kind: str,
+    to_id: str,
+    to_kind: str,
+    created_at: str,
+    version: str,
+) -> dict[str, Any]:
+    return {
+        "id": _stable_id("edge", kind, from_id, to_id),
+        "kind": kind,
+        "from": {"kind": from_kind, "id": from_id},
+        "to": {"kind": to_kind, "id": to_id},
+        "created_at": created_at,
+        "provenance": _provenance(version),
+    }
 
-        # Find dependencies
-        deps = graph.get_dependencies("testing")
+
+def build_skill_graph(
+    entries: list[dict[str, Any]],
+    *,
+    generated_at: str,
+    version: str,
+    limit: int = 0,
+) -> dict[str, Any]:
+    """Build a deterministic graph projection from validated registry entries.
+
+    A zero limit means all entries. A positive limit selects the first entries
+    after the registry's canonical case-insensitive name ordering.
     """
+    if limit < 0:
+        raise ValueError("limit must be zero or greater")
 
-    def __init__(self):
-        self._nodes: Dict[str, SkillNode] = {}
-        self._edges: List[SkillEdge] = []
-        self._adj: Dict[str, List[str]] = {}
+    violations = validate_entries(entries)
+    if violations:
+        raise ValueError("invalid registry entries: " + "; ".join(violations))
 
-    def skill(self, id: str, name: str = "", description: str = "",
-              tags: List[str] = None, **properties) -> "SkillGraph":
-        """Add a skill to the graph."""
-        if id in self._nodes:
-            return self
-        node = SkillNode(
-            id=id,
-            name=name or id,
-            description=description,
-            tags=tags or [],
-            properties=properties
+    selected = sorted(entries, key=lambda entry: entry["name"].lower())
+    if limit:
+        selected = selected[:limit]
+
+    canonical_input = json.dumps(
+        selected, ensure_ascii=False, separators=(",", ":"), sort_keys=True
+    ).encode("utf-8")
+    query_sha256 = hashlib.sha256(canonical_input).hexdigest()
+
+    root_id = _stable_id("system", "community-skill-registry")
+    nodes = [
+        _node(
+            root_id,
+            "system",
+            generated_at,
+            version,
+            {
+                "name": "Community Skill Registry",
+                "projection": "category-skill-tag",
+                "skill_count": str(len(selected)),
+            },
         )
-        self._nodes[id] = node
-        self._adj[id] = []
-        return self
+    ]
+    edges: list[dict[str, Any]] = []
 
-    def depends_on(self, source: str, target: str, weight: float = 1.0) -> "SkillGraph":
-        """Add a dependency edge from source to target."""
-        if source not in self._nodes or target not in self._nodes:
-            raise ValueError(f"Skill not found: {source if source not in self._nodes else target}")
-        edge = SkillEdge(source=source, target=target, kind="depends_on", weight=weight)
-        self._edges.append(edge)
-        self._adj[source].append(target)
-        # Update dependency list
-        self._nodes[source].dependencies.append(target)
-        return self
+    categories = sorted({entry["category"] for entry in selected})
+    tags = sorted(
+        {
+            tag
+            for entry in selected
+            for tag in entry.get("tags", [])
+            if isinstance(tag, str) and tag
+        },
+        key=str.lower,
+    )
 
-    def get_skill(self, id: str) -> Optional[SkillNode]:
-        """Get a skill by ID."""
-        return self._nodes.get(id)
+    category_ids: dict[str, str] = {}
+    for category in categories:
+        category_id = _stable_id("knowledge", "category", category)
+        category_ids[category] = category_id
+        nodes.append(
+            _node(
+                category_id,
+                "knowledge",
+                generated_at,
+                version,
+                {"entity": "category", "name": category},
+            )
+        )
+        edges.append(
+            _edge(
+                "contains",
+                root_id,
+                "system",
+                category_id,
+                "knowledge",
+                generated_at,
+                version,
+            )
+        )
 
-    def get_skills(self) -> List[SkillNode]:
-        """Get all skills."""
-        return list(self._nodes.values())
+    tag_ids: dict[str, str] = {}
+    for tag in tags:
+        tag_id = _stable_id("knowledge", "tag", tag)
+        tag_ids[tag] = tag_id
+        nodes.append(
+            _node(
+                tag_id,
+                "knowledge",
+                generated_at,
+                version,
+                {"entity": "tag", "name": tag},
+            )
+        )
+        edges.append(
+            _edge(
+                "contains",
+                root_id,
+                "system",
+                tag_id,
+                "knowledge",
+                generated_at,
+                version,
+            )
+        )
 
-    def get_edges(self) -> List[SkillEdge]:
-        """Get all edges."""
-        return self._edges
+    for entry in selected:
+        skill_id = _stable_id("knowledge", "skill", entry["name"])
+        nodes.append(
+            _node(
+                skill_id,
+                "knowledge",
+                generated_at,
+                version,
+                {
+                    "entity": "skill",
+                    "name": entry["name"],
+                    "description": entry["description"],
+                    "path": entry["path"],
+                    "file_count": str(entry.get("file_count", 0)),
+                    "has_scripts": str(bool(entry.get("has_scripts", False))).lower(),
+                },
+                entry["path"],
+            )
+        )
+        edges.append(
+            _edge(
+                "contains",
+                category_ids[entry["category"]],
+                "knowledge",
+                skill_id,
+                "knowledge",
+                generated_at,
+                version,
+            )
+        )
+        for tag in sorted(
+            (tag for tag in entry.get("tags", []) if tag in tag_ids),
+            key=str.lower,
+        ):
+            edges.append(
+                _edge(
+                    "references",
+                    skill_id,
+                    "knowledge",
+                    tag_ids[tag],
+                    "knowledge",
+                    generated_at,
+                    version,
+                )
+            )
 
-    def find_by_tag(self, tag: str) -> List[SkillNode]:
-        """Find all skills with a specific tag."""
-        return [s for s in self._nodes.values() if tag in s.tags]
+    event = {
+        "id": _stable_id("event", "observed", root_id, query_sha256),
+        "type": "observed",
+        "subject": {"kind": "system", "id": root_id},
+        "occurred_at": generated_at,
+        "idempotency_key": query_sha256,
+        "provenance": _provenance(version),
+    }
 
-    def get_dependencies(self, skill_id: str) -> List[str]:
-        """Get all dependencies of a skill."""
-        if skill_id not in self._nodes:
-            return []
-        return self._nodes[skill_id].dependencies
+    return {
+        "schema_version": SCHEMA_VERSION,
+        "generated_at": generated_at,
+        "query_sha256": query_sha256,
+        "nodes": nodes,
+        "edges": edges,
+        "events": [event],
+    }
 
-    def get_dependents(self, skill_id: str) -> List[str]:
-        """Get all skills that depend on this skill."""
-        dependents = []
-        for edge in self._edges:
-            if edge.target == skill_id:
-                dependents.append(edge.source)
-        return dependents
 
-    def topological_sort(self) -> List[str]:
-        """Return skills in topological order (dependencies first)."""
-        in_degree = {node_id: 0 for node_id in self._nodes}
-        for edge in self._edges:
-            in_degree[edge.source] = in_degree.get(edge.source, 0) + 1
+def main(argv: Optional[list[str]] = None) -> int:  # noqa: UP045 -- Python 3.9
+    parser = argparse.ArgumentParser(
+        description="Project the community skill registry as a portable graph"
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=DEFAULT_OUTPUT,
+        help="output path (default: skill-graph.json)",
+    )
+    parser.add_argument(
+        "--limit",
+        type=int,
+        default=0,
+        help="maximum skills to project; zero includes the full registry",
+    )
+    parser.add_argument(
+        "--generated-at",
+        help="UTC RFC3339 timestamp; defaults to the current time",
+    )
+    args = parser.parse_args(argv)
 
-        queue = deque([node_id for node_id, degree in in_degree.items() if degree == 0])
-        result = []
+    generated_at = args.generated_at or datetime.now(timezone.utc).isoformat().replace(
+        "+00:00", "Z"
+    )
+    version = (REPO_ROOT / "VERSION").read_text(encoding="utf-8").strip()
+    graph = build_skill_graph(
+        build_registry(),
+        generated_at=generated_at,
+        version=version,
+        limit=args.limit,
+    )
+    args.output.write_text(
+        json.dumps(graph, indent=2, ensure_ascii=False) + "\n",
+        encoding="utf-8",
+    )
+    print(
+        f"Wrote {args.output}: {len(graph['nodes'])} nodes, "
+        f"{len(graph['edges'])} edges, {len(graph['events'])} event"
+    )
+    return 0
 
-        while queue:
-            current = queue.popleft()
-            result.append(current)
 
-            for neighbor in self._adj.get(current, []):
-                in_degree[neighbor] -= 1
-                if in_degree[neighbor] == 0:
-                    queue.append(neighbor)
-
-        return result
-
-    def recommend_skills(self, known_skills: List[str], max_recommendations: int = 5) -> List[str]:
-        """Recommend skills based on known skills.
-
-        Uses a simple collaborative filtering approach: find skills
-        that are commonly depended on by the known skills.
-        """
-        recommendations = {}
-
-        for skill_id in known_skills:
-            if skill_id not in self._nodes:
-                continue
-            for dep in self._nodes[skill_id].dependencies:
-                recommendations[dep] = recommendations.get(dep, 0) + 1
-
-        # Sort by recommendation count
-        sorted_recs = sorted(recommendations.items(), key=lambda x: x[1], reverse=True)
-        return [skill for skill, count in sorted_recs[:max_recommendations]]
-
-    def to_dict(self) -> Dict[str, Any]:
-        """Export graph as a dictionary."""
-        return {
-            "nodes": [n.to_dict() for n in self._nodes.values()],
-            "edges": [e.to_dict() for e in self._edges]
-        }
-
-    def to_json(self) -> str:
-        """Export graph as JSON."""
-        return json.dumps(self.to_dict(), indent=2)
-
-    def __len__(self) -> int:
-        return len(self._nodes)
-
-    def __contains__(self, skill_id: str) -> bool:
-        return skill_id in self._nodes
+if __name__ == "__main__":
+    raise SystemExit(main())
