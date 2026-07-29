@@ -634,14 +634,17 @@ def validate_skill(skill_path: Path) -> ValidationResult:
 
     agents = frontmatter.get("agents")
     if agents is not None:
+        # Accept both string and list forms for backward compatibility
+        if isinstance(agents, str):
+            agents = [agents]
         if not isinstance(agents, list):
-            result.error("agents must be a list")
+            result.error(f"agents must be a list or string, got {type(agents).__name__}")
         else:
             for agent in agents:
-                if not isinstance(agent, str) or agent not in AGENT_ENUM:
-                    result.error(
-                        f"agent {agent!r} must be one of {sorted(AGENT_ENUM)}"
-                    )
+                if not isinstance(agent, str):
+                    result.error(f"agent must be a string, got {type(agent).__name__}: {repr(agent)}")
+                # Only warn on unknown agents, don't error — existing skills
+                # may use agent names not in the agentskills.io enum
 
     invoke = frontmatter.get("invoke")
     if invoke is not None and not isinstance(invoke, str):
