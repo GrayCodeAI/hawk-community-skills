@@ -24,7 +24,9 @@ ROOT = Path(__file__).parent.parent
 
 # ── Schema (hand-coded from manifest-schema.toml for zero-dep validation) ─────
 
-REQUIRED = {"name", "description", "version", "author", "license", "domain", "tags"}
+# version and domain are agentskills.io v2.0 fields — optional but validated
+# when present. Not in REQUIRED to avoid breaking existing v1.1 skills.
+REQUIRED = {"name", "description", "author", "license", "tags"}
 
 DOMAIN_ENUM = {
     "coding",

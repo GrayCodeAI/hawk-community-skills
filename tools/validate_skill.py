@@ -615,12 +615,10 @@ def validate_skill(skill_path: Path) -> ValidationResult:
         result.error(f"Frontmatter name '{fm_name}' does not match directory name '{skill_name}'")
 
     # ── Agent Skills spec (agentskills.io) validation ──────────────────────
-    category = frontmatter.get("category")
-    if category is not None:
-        if not isinstance(category, str) or category not in CATEGORY_ENUM:
-            result.error(
-                f"category {category!r} must be one of {sorted(CATEGORY_ENUM)}"
-            )
+    # Note: 'category' is an optional agentskills.io field. Existing skills
+    # use their own category taxonomy, so we only validate well-formedness
+    # of agentskills.io-specific fields when present, not the category value
+    # against the agentskills.io enum (which would break existing skills).
 
     auto_invoke = frontmatter.get("auto_invoke")
     if auto_invoke is not None and not isinstance(auto_invoke, bool):
