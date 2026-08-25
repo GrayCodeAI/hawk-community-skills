@@ -14,7 +14,7 @@
 # this file into an uncurated, contributor-influenced install list, which
 # defeats the point of pre-installing only what's genuinely common.
 
-requests>=2.31,<3
+requests>=2.34.2,<3
 pyyaml>=6.0,<7
-boto3>=1.34,<2
-cryptography>=42.0,<43
+boto3>=1.43.78,<2
+cryptography>=42.0,<51
